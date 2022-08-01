@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 7377,
+  "num_followers": 7400,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzEzNjQzNCwwMDAwMDAwMDRhNjE4ZTc3YmFmMjAwZTg5MzhiMGNhMjQ5NDUyMDVi",
+  "snapshot_id": "MTY0MzEzNjQzNCwwMDAwMDAwMDI3OTJmOTk5NTE2NzhkNTQ2OWIxNjMxOGUyNDFmNzRi",
   "tracks": [
     {
       "added_at": "2022-01-25 18:47:14",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-01-25 18:47:14",
       "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "duration_ms": 228623,
+      "name": "El Pichi",
+      "url": "https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ"
+    },
+    {
+      "added_at": "2022-01-25 18:47:14",
+      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 216746,
       "name": "Agust\u00edn Lara",
       "url": "https://open.spotify.com/track/3h7gEY56y4nddwrsqqHoPi"
-    },
-    {
-      "added_at": "2022-01-25 18:47:14",
-      "album": {
-        "name": "Danzones a la Manera del Campeon, Vol. 1",
-        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 228623,
-      "name": "El Pichi",
-      "url": "https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ"
     },
     {
       "added_at": "2022-01-25 18:47:14",

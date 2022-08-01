@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-647 songs - 1 day 14 hr 41 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+648 songs - 1 day 14 hr 44 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2021-12-17 |  |
 | [She's Not Like That](https://open.spotify.com/track/3wsddzf4BEH997R6eX7YhD) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [12 Views Of Beatenberg](https://open.spotify.com/album/5qcY0XOZ3hk9iLOvACULpi) | 3:12 | 2021-12-17 | 2022-07-29 |
+| [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-29 |  |
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-12-17 |  |
 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 | 2022-07-22 |  |
 | [Silence \- Acoustic](https://open.spotify.com/track/55284O777DNiEDa9X1B6Tb) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/2JAEZaBeklU4xM4FqEFb00) | 3:41 | 2022-01-24 | 2022-04-21 |
@@ -536,7 +537,7 @@
 | [Take It Slow \- Organic Edit](https://open.spotify.com/track/1GrGjdBj3VeSm2deNGE6Pm) | [Michael Lane](https://open.spotify.com/artist/6UUPmOaF0syyjXaWHB68xK) | [Take It Slow \(Organic Edit\)](https://open.spotify.com/album/7DH3Z415tH4x2UYXJfd4C0) | 4:51 | 2021-12-17 | 2022-07-11 |
 | [Talk You Down \(feat\. SYML\) \- Acoustic](https://open.spotify.com/track/4sCigQB2dkJGAMNVsjx1Tf) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Talk You Down \(feat\. SYML\) \[Acoustic\]](https://open.spotify.com/album/5ARx8tknWU7aatboyCgizN) | 3:08 | 2021-12-17 | 2022-04-16 |
 | [Talking to Myself \(Stripped\)](https://open.spotify.com/track/0o72RUfSENq11gnYzYewEv) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Talking to Myself \(Stripped\)](https://open.spotify.com/album/4ErnzS53RXz0hDNhXzDdCS) | 3:58 | 2021-12-17 | 2022-06-12 |
-| [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 | 2021-12-17 |  |
+| [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 | 2021-12-17 | 2022-08-01 |
 | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8) | 4:23 | 2021-12-17 |  |
 | [Tennessee](https://open.spotify.com/track/1NuRdepUMCGNgZJoi1R9Ov) | [Lizzy LeBleu](https://open.spotify.com/artist/33zqILedolFKP2PPiTgroc) | [Tennessee](https://open.spotify.com/album/6fQbRZJWGE6S0BNVVJYtJj) | 5:54 | 2021-12-17 | 2022-07-29 |
 | [Thank You for the Sunday Paper](https://open.spotify.com/track/45mUIpzgp6HEXPTPYOBEA9) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Work of Art](https://open.spotify.com/album/0vvcn8bAFRfIDylV0nTXZB) | 3:31 | 2022-01-24 | 2022-04-15 |

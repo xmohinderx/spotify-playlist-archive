@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: U.S\. Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,852 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,862 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 21 | [Partner In Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 |
 | 22 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 |
 | 23 | [Poodles Dancing](https://open.spotify.com/track/2Zi7DNAS7cUZ50ybfLjdf1) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Poodles Dancing](https://open.spotify.com/album/2izKf7I214u1QWVv7vY0dQ) | 3:05 |
-| 24 | [Manilla Sunset](https://open.spotify.com/track/1ti0cFyM6rDTZbdCvRHTBl) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Subtropical South](https://open.spotify.com/album/56AUUReJtKOxirruCJ4AaJ) | 3:00 |
+| 24 | [Manila Sunset](https://open.spotify.com/track/1ti0cFyM6rDTZbdCvRHTBl) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Subtropical South](https://open.spotify.com/album/56AUUReJtKOxirruCJ4AaJ) | 3:00 |
 | 25 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 26 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 |
 | 27 | [mirror](https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [mirror](https://open.spotify.com/album/0aC3BQYnDDhjdKlJEPMGmc) | 3:01 |

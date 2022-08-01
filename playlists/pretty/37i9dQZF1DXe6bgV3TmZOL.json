@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 1982905,
+  "num_followers": 1983390,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzNTQ4NCwwMDAwMDAwMDRhZGIwNTAwMmM5YzAwYWMwMmNhZjczYWM3ZmNiMjM5",
+  "snapshot_id": "MTY1ODkzNTQ4NCwwMDAwMDAwMGJmM2E4NjU1MGU3Y2ViODUwOTE2ZmNmYzQ0YzI5ZTg1",
   "tracks": [
     {
       "added_at": "2022-06-17 05:27:54",
@@ -283,22 +283,18 @@
     {
       "added_at": "2022-07-13 15:59:27",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
+        "name": "Beyond Hell / Above Heaven",
+        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
       },
       "artists": [
         {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        },
-        {
-          "name": "Caleb Shomo",
-          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
         }
       ],
-      "duration_ms": 179181,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
+      "duration_ms": 263080,
+      "name": "A Warrior's Call",
+      "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -319,18 +315,22 @@
     {
       "added_at": "2022-07-13 15:59:27",
       "album": {
-        "name": "Beyond Hell / Above Heaven",
-        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        },
+        {
+          "name": "Caleb Shomo",
+          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
         }
       ],
-      "duration_ms": 263080,
-      "name": "A Warrior's Call",
-      "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
+      "duration_ms": 179181,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 272665,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Lifelines",
-        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "Come And Get It",
-      "url": "https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Lifelines",
+        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "Come And Get It",
+      "url": "https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "Brand New Numb",
-      "url": "https://open.spotify.com/track/0vPkRB52RENZMpHybpFKYK"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Deutschland",
         "url": "https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 271000,
       "name": "Hard as a Rock",
       "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "Brand New Numb",
+      "url": "https://open.spotify.com/track/0vPkRB52RENZMpHybpFKYK"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
-        "url": "https://open.spotify.com/album/3ktq0tDEeyn6FIdVyJvw87"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        },
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 175603,
-      "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
-      "url": "https://open.spotify.com/track/0UOtF2ojhKGYEjvZ28ZA6d"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Dead Inside (feat. David Draiman of Disturbed)",
         "url": "https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 240689,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
+        "url": "https://open.spotify.com/album/3ktq0tDEeyn6FIdVyJvw87"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 175603,
+      "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
+      "url": "https://open.spotify.com/track/0UOtF2ojhKGYEjvZ28ZA6d"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1501,6 +1501,22 @@
       "url": "https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko"
     },
     {
+      "added_at": "2022-07-13 15:59:27",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 191331,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
+    },
+    {
       "added_at": "2022-06-17 05:27:54",
       "album": {
         "name": "PvP",
@@ -1541,20 +1557,20 @@
       "url": "https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3"
     },
     {
-      "added_at": "2022-07-13 15:59:27",
+      "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+        "name": "Resentment",
+        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 191331,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
+      "duration_ms": 227266,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1571,22 +1587,6 @@
       "duration_ms": 223240,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "Resentment",
-        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 241034,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Memento Mori",
         "url": "https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 225263,
       "name": "Remember We Die",
       "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 241034,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Omen",
-        "url": "https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 233325,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Violent Allies",
         "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 180691,
       "name": "The Shift",
       "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 233325,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Swan Song",
-        "url": "https://open.spotify.com/album/2GZSLSEMeDmKCNj25uQXAu"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Paradigm",
-      "url": "https://open.spotify.com/track/6uWWfeZyj1UOGBjrf8fr4G"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "The Stories We Tell Ourselves",
         "url": "https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco"
       },
@@ -2281,20 +2265,20 @@
       "url": "https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z"
     },
     {
-      "added_at": "2022-07-13 15:59:27",
+      "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "SLEEPS SOCIETY",
-        "url": "https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1"
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/2GZSLSEMeDmKCNj25uQXAu"
       },
       "artists": [
         {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
         }
       ],
-      "duration_ms": 176695,
-      "name": "SYSTEMATIC",
-      "url": "https://open.spotify.com/track/7LRotHDhVHU9FE7oWhuFTL"
+      "duration_ms": 200800,
+      "name": "Paradigm",
+      "url": "https://open.spotify.com/track/6uWWfeZyj1UOGBjrf8fr4G"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2315,6 +2299,22 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
+    },
+    {
+      "added_at": "2022-07-13 15:59:27",
+      "album": {
+        "name": "SLEEPS SOCIETY",
+        "url": "https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 176695,
+      "name": "SYSTEMATIC",
+      "url": "https://open.spotify.com/track/7LRotHDhVHU9FE7oWhuFTL"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
       },
       "artists": [
         {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 164990,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
+      "duration_ms": 263760,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -2383,22 +2383,6 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -2447,6 +2431,22 @@
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 164990,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
     },
     {
       "added_at": "2022-07-13 15:59:27",

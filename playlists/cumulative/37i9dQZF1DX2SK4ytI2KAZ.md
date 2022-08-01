@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-385 songs - 21 hr 38 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+386 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [In My Home](https://open.spotify.com/track/6SKMkabAEE7AhVu1cimQgs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mind Over Matter](https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2) | 3:39 | 2022-03-11 | 2022-04-21 |
 | [Insincere](https://open.spotify.com/track/5nCPI1ZmKhBSGDOw9x7JcX) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Insincere](https://open.spotify.com/album/02jLiHkNXMsHP0Sekhtyl2) | 3:00 | 2022-03-11 | 2022-04-20 |
 | [Is It Real](https://open.spotify.com/track/6S1x6w8CThgLiozbAOZ4zo) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Is It Real](https://open.spotify.com/album/6QqmdQrlD26WKB00Jvvp5b) | 3:05 | 2022-03-11 | 2022-04-20 |
-| [Is It Real](https://open.spotify.com/track/6c0stxBesEYDLixpJvTbNT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:05 | 2022-07-29 |  |
+| [Is It Real](https://open.spotify.com/track/6c0stxBesEYDLixpJvTbNT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:05 | 2022-07-29 | 2022-08-01 |
 | [Jump Out The Window](https://open.spotify.com/track/7Iz0L7uevtSSUMtmOOMSUk) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Jump Out The Window](https://open.spotify.com/album/4xHcu0JaCYcKsF0OQtyNPl) | 4:09 | 2022-03-04 | 2022-05-05 |
 | [Jump with Me](https://open.spotify.com/track/2bhasjavv1tokxnpvTcqoC) | [STAL](https://open.spotify.com/artist/0tmG4q8xPVP7NJV481rXi3) | [Fresh Blood EP](https://open.spotify.com/album/6OA14Qqowqalvd9PFoE31P) | 3:17 | 2022-01-21 | 2022-06-19 |
 | [Just A Little While](https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC) | 2:42 | 2022-01-04 | 2022-07-29 |
@@ -212,6 +212,7 @@
 | [Love Is Mystical](https://open.spotify.com/track/4RJnzmVL12aIuWpMoXu2u4) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Love Is Mystical](https://open.spotify.com/album/5gmi6GYczChNiZSBdwtjBo) | 3:34 | 2022-03-11 | 2022-04-14 |
 | [Loveblood \- EP Version](https://open.spotify.com/track/2XfUjv7NEpUhOkpuiLCGZq) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [EP I](https://open.spotify.com/album/4GbJxHFVaQqyLIG7jH1sFX) | 4:04 | 2022-03-11 | 2022-04-18 |
 | [Malibu](https://open.spotify.com/track/5oWqt7bB2RfNdRXLAweBKk) | [DD WALKER](https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS) | [Malibu](https://open.spotify.com/album/1kixbq1b85DJOqAk9p1l3X) | 4:27 | 2021-03-10 | 2022-07-29 |
+| [Malibu](https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Malibu](https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T) | 2:47 | 2022-07-29 |  |
 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 | 2021-03-10 |  |
 | [melancholyism.](https://open.spotify.com/track/03ejfFAbwrrANbH4fZzF0W) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [melancholyism.](https://open.spotify.com/album/1Umawe3NueijnMkEGiQwZV) | 3:08 | 2021-03-10 | 2022-07-29 |
 | [melancholyism.](https://open.spotify.com/track/60w2EqVhEnedIgZLtIONnU) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [don't you wanna be glad?](https://open.spotify.com/album/272SGdcepKg8hv0LlOBT3U) | 3:08 | 2022-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Yoiker y las mejores batallas\. Descubre música original de los participantes, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,074 likes - 74 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,151 likes - 74 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

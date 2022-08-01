@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 232460,
+  "num_followers": 232452,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGRkMzIxYWYwODc4MWFmZDAyMTBhNDZlMDI4OTBhNjBm",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGYyMjJhMWYwNDYxZTkwNzlmMGFiMmYyMTFkNmYxMzk1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Kids Are Born Stars",
-        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
+        "name": "LAst dAy oN EaRTh",
+        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Kids Are Born Stars",
-      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+      "duration_ms": 172755,
+      "name": "LAst dAy oN EaRTh",
+      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "LAst dAy oN EaRTh",
-        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
+        "name": "Kids Are Born Stars",
+        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 172755,
-      "name": "LAst dAy oN EaRTh",
-      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
+      "duration_ms": 187026,
+      "name": "Kids Are Born Stars",
+      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1049,6 +1049,26 @@
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
     },
     {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Something in the Water",
+        "url": "https://open.spotify.com/album/41qodzcgwcN8cCx45Kqduk"
+      },
+      "artists": [
+        {
+          "name": "Charlie Curtis-Beard",
+          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
+        },
+        {
+          "name": "Nina Ann",
+          "url": "https://open.spotify.com/artist/4kyhocyz4BZImOAct1yVmS"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/0pzVdivOZdZdKOEbcbhkp3"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "Nothing To Do (Deja Vu)",
@@ -1079,26 +1099,6 @@
       "duration_ms": 182574,
       "name": "closure",
       "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Something in the Water",
-        "url": "https://open.spotify.com/album/41qodzcgwcN8cCx45Kqduk"
-      },
-      "artists": [
-        {
-          "name": "Charlie Curtis-Beard",
-          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
-        },
-        {
-          "name": "Nina Ann",
-          "url": "https://open.spotify.com/artist/4kyhocyz4BZImOAct1yVmS"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/0pzVdivOZdZdKOEbcbhkp3"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1281,20 +1281,24 @@
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy"
+        "name": "Get Down! (Before You Lose Control)",
+        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        },
+        {
+          "name": "Nia Andrews",
+          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
         }
       ],
-      "duration_ms": 201201,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
+      "duration_ms": 204946,
+      "name": "Get Down! (Before You Lose Control)",
+      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1321,24 +1325,20 @@
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Get Down! (Before You Lose Control)",
-        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy"
       },
       "artists": [
         {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        },
-        {
-          "name": "Nia Andrews",
-          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
         }
       ],
-      "duration_ms": 204946,
-      "name": "Get Down! (Before You Lose Control)",
-      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
+      "duration_ms": 201201,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1457,6 +1457,30 @@
       "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The James",
+          "url": "https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM"
+        },
+        {
+          "name": "Rob Milton",
+          "url": "https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        }
+      ],
+      "duration_ms": 115954,
+      "name": "Thank You Master (For My Soul)",
+      "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
+    },
+    {
       "added_at": "2021-04-09 04:00:00",
       "album": {
         "name": "Devotion (Shakur Ahmad Remix)",
@@ -1479,26 +1503,6 @@
       "duration_ms": 200843,
       "name": "Devotion - Shakur Ahmad Remix",
       "url": "https://open.spotify.com/track/6wKmElTGYNVPTJ9AE9lqxe"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Baby, It's Over",
-        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
-      },
-      "artists": [
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 148561,
-      "name": "Baby, It's Over",
-      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
     }
   ],
   "unique_name": "Ready for the Day",

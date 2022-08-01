@@ -4,7 +4,7 @@
 
 > Timeless Pakistani hits, all in one place\. Cover \- Nusrat Fateh Ali Khan
 
-191 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/28KEDXVHJsaZKM0uXK0rXO)
+192 songs - 15 hr 42 min - [published](https://open.spotify.com/playlist/28KEDXVHJsaZKM0uXK0rXO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Humsafar](https://open.spotify.com/track/1s4jblkeHDZzeUmkGfhzKB) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Koi Aane Wala Hai](https://open.spotify.com/album/13J3ED0BwEW0my4iFDBLml) | 4:41 | 2021-08-16 | 2022-07-28 |
 | [Huqa Pani](https://open.spotify.com/track/0PV0bP3cqsQdXajY3f8pUL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 | 2021-08-16 |  |
 | [Ibtada\-e\-Ishq](https://open.spotify.com/track/0QgtJw3nkrvAtvh4DxEhwG) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/2VCx3ekibEp0409xfWrzOK) | 3:51 | 2021-08-16 | 2022-07-28 |
-| [Ik Arzu](https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Pyaas](https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW) | 4:39 | 2021-08-16 |  |
+| [Ik Arzu](https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Pyaas](https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW) | 4:39 | 2021-08-16 | 2022-08-01 |
 | [Ik Chah](https://open.spotify.com/track/0hNiPGtdTVeZEhSTZlvbch) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Raag Neela](https://open.spotify.com/album/6jxi9QkkeaykE0tcoATEjk) | 4:51 | 2021-08-16 | 2022-07-27 |
 | [Ik Din Aye Ga](https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:18 | 2021-08-16 |  |
 | [Insaan](https://open.spotify.com/track/29XITUkEsoV6eyOymJr3Me) | [Mizraab](https://open.spotify.com/artist/0h96R0yP58SpvbS6hMrZJe) | [Maazi Haal Mutaqbil](https://open.spotify.com/album/5ZB9hCtbNx07Che3yQOV4I) | 6:57 | 2021-08-16 | 2022-07-27 |
@@ -130,6 +130,7 @@
 | [Nach Punjaban](https://open.spotify.com/track/34c8iU3Td1eY3mkCxOC53t) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nach Punjaban](https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4) | 4:27 | 2021-08-16 |  |
 | [Nach Punjaban](https://open.spotify.com/track/5ay3kGvVn7RkUdaFB3UQB0) | [Ibrar\-Ul\-Haq](https://open.spotify.com/artist/391X9u4uNdXQy9pp0aVVaS), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nach Punjaban](https://open.spotify.com/album/1Ug4Zb8FCtDriacXAnxSmT) | 4:27 | 2021-08-16 | 2022-07-29 |
 | [Nahin Hah Yeh Pyaar](https://open.spotify.com/track/3q9LO3ZkXPVrodLDqqFxPo) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/2VCx3ekibEp0409xfWrzOK) | 3:38 | 2021-08-16 | 2022-07-29 |
+| [Nahin Hai Yeh Pyar](https://open.spotify.com/track/565wNlsWcWTAYXdtvLys1u) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/6EaOP1xX92OLK2IzOmNPhC) | 3:38 | 2021-08-16 |  |
 | [Najane Kyun](https://open.spotify.com/track/54i9EEnoUyvgTaKLeqYCU6) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw) | 5:05 | 2021-08-16 | 2022-07-21 |
 | [Neend Ayay Na](https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 4:22 | 2021-08-16 | 2022-07-29 |
 | [Nishaan](https://open.spotify.com/track/1i3V8S5sIZWFe6xBcJoHDq) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Jilawatan](https://open.spotify.com/album/5ZCgLCP9jpoCxsYrqUPiCS) | 5:37 | 2021-08-16 | 2022-07-24 |

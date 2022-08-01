@@ -2921,7 +2921,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
@@ -3077,7 +3077,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 177066,
       "name": "Dit Is Wat Mijn Mama Zei",
       "url": "https://open.spotify.com/track/5QJoojtfYodIvWSfpeCcHh"
@@ -3717,13 +3717,17 @@
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 116729,
-      "name": "ENERGY",
+      "name": "ENERGY (feat. Beam)",
       "url": "https://open.spotify.com/track/2i5vu6GI7mJ2B2pf9gNFhn"
     },
     {
@@ -4197,7 +4201,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 137451,
       "name": "Flexxen (feat. Diquenza)",
       "url": "https://open.spotify.com/track/4ckhmqXl4Zpbhl7T6NgVPI"
@@ -6661,7 +6665,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -8397,7 +8401,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 203383,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/7b1NUJTJq9xgg8JiVe0hd6"
@@ -9481,7 +9485,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/2VOfPkpiJctQYXVYfnp0X8"
@@ -9685,7 +9689,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 177156,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
@@ -12347,7 +12351,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 368758,
       "name": "VIRGO'S GROOVE",
       "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"

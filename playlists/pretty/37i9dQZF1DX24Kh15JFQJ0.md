@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Ronnie Dunn
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,512 likes - 127 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,542 likes - 127 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Kuremino
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,502 likes - 56 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,526 likes - 56 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1097,10 +1097,28 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 169866,
       "name": "The Happening",
       "url": "https://open.spotify.com/track/2SusUbsUQnw8OJDq56ZMbE"
+    },
+    {
+      "album": {
+        "name": "The Story Of The Supremes",
+        "url": "https://open.spotify.com/album/23s2StHCeb3zO0B95ZDN2R"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170466,
+      "name": "The Happening",
+      "url": "https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp"
     },
     {
       "album": {

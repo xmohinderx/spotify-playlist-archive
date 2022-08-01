@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Fenda",
-  "num_followers": 19707,
+  "num_followers": 19741,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMGIyNTQ2ZWY3ZDZmYWYyMjcxZDEwNGJiMWMwNWI4Yjhi",
+  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMDI0ZjM1ZjI5OWViYzExYjAzZDg4ZTkxNmFmMjlmMDVl",
   "tracks": [
     {
       "added_at": "2022-07-08 03:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Ashley Banks",
-        "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Ashley Banks",
-      "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
         "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
       },
@@ -423,22 +407,18 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Euro",
-        "url": "https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O"
+        "name": "Ashley Banks",
+        "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
       },
       "artists": [
         {
-          "name": "Morenna",
-          "url": "https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
         }
       ],
-      "duration_ms": 217114,
-      "name": "Euro",
-      "url": "https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG"
+      "duration_ms": 208264,
+      "name": "Ashley Banks",
+      "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -459,6 +439,26 @@
       "duration_ms": 139241,
       "name": "T SHIRT (feat. J\u00e9 Santiago)",
       "url": "https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Euro",
+        "url": "https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O"
+      },
+      "artists": [
+        {
+          "name": "Morenna",
+          "url": "https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 217114,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "\u00c0T\u00daNWA",
-        "url": "https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL"
-      },
-      "artists": [
-        {
-          "name": "BIA DOXUM",
-          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
-        }
-      ],
-      "duration_ms": 254711,
-      "name": "Molinha",
-      "url": "https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Malandrona",
         "url": "https://open.spotify.com/album/2zMrmtd5uzAjLO83Fr2pVc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 204932,
       "name": "Malandrona",
       "url": "https://open.spotify.com/track/5CNE1OG4dUufkO8NrKlfxF"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "\u00c0T\u00daNWA",
+        "url": "https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL"
+      },
+      "artists": [
+        {
+          "name": "BIA DOXUM",
+          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
+        }
+      ],
+      "duration_ms": 254711,
+      "name": "Molinha",
+      "url": "https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -923,22 +923,22 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Sobrenome",
-        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
+        "name": "Ritmada e Pixadona",
+        "url": "https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb"
       },
       "artists": [
         {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+          "name": "Juju Rude",
+          "url": "https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1"
         },
         {
-          "name": "Dodoin",
-          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+          "name": "L3OZIN",
+          "url": "https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez"
         }
       ],
-      "duration_ms": 134476,
-      "name": "Sobrenome",
-      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+      "duration_ms": 205310,
+      "name": "Ritmada e Pixadona",
+      "url": "https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -963,22 +963,22 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Ritmada e Pixadona",
-        "url": "https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb"
+        "name": "Sobrenome",
+        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
       "artists": [
         {
-          "name": "Juju Rude",
-          "url": "https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1"
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
         },
         {
-          "name": "L3OZIN",
-          "url": "https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez"
+          "name": "Dodoin",
+          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
         }
       ],
-      "duration_ms": 205310,
-      "name": "Ritmada e Pixadona",
-      "url": "https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY"
+      "duration_ms": 134476,
+      "name": "Sobrenome",
+      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
     },
     {
       "added_at": "2022-07-08 03:01:00",

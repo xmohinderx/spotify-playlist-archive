@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,382 likes - 60 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,437 likes - 60 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 17 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 |
 | 18 | [Art Throb](https://open.spotify.com/track/1MhjQ9xwGP7JZMScT8VILb) | [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [Art Throb](https://open.spotify.com/album/4cB8M2TZRfgu1VfReIvAv6) | 5:22 |
 | 19 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 |
-| 20 | [Bon Bini](https://open.spotify.com/track/6ytVMBHu1ZXvaBvufHCBOX) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Bon Bini EP](https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF) | 6:01 |
-| 21 | [Sundancing](https://open.spotify.com/track/5Rcz4OsTYPX4A4PHOxr7Zc) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Fairytale Frequency](https://open.spotify.com/album/2RbCaNWmCTsUrYuchl4w8e) | 5:32 |
+| 20 | [Sundancing](https://open.spotify.com/track/5Rcz4OsTYPX4A4PHOxr7Zc) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Fairytale Frequency](https://open.spotify.com/album/2RbCaNWmCTsUrYuchl4w8e) | 5:32 |
+| 21 | [Bon Bini](https://open.spotify.com/track/6ytVMBHu1ZXvaBvufHCBOX) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Bon Bini EP](https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF) | 6:01 |
 | 22 | [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 |
 | 23 | [Sinking](https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Lenny Kiser](https://open.spotify.com/artist/4n0QSObAbjfgDL1u5aY0IN) | [Sinking](https://open.spotify.com/album/1x5eFJIW5i4HWiYN8gM1eZ) | 4:31 |
 | 24 | [Rush](https://open.spotify.com/track/2RVbDkUFdnZcQuqHWOgZe1) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Rush / Can't Stop Thinking About](https://open.spotify.com/album/2A7lN5fuMXlLQXlgAzuXDN) | 4:06 |
 | 25 | [Gfortune](https://open.spotify.com/track/6V52Oad8LGjePNLKQHqfgE) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 3:19 |
 | 26 | [Saku](https://open.spotify.com/track/2h8OnhWZCRGNjptZ9IurZw) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Saku](https://open.spotify.com/album/6COn93pmuLSlE66ajN3kbb) | 4:57 |
 | 27 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
-| 28 | [Self Oscillation](https://open.spotify.com/track/323rrOHJM4CdGHTGvWcqAy) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Self Oscillation](https://open.spotify.com/album/1IFsw8Gq05lBJQWAcSM3I5) | 4:19 |
+| 28 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 |
 | 29 | [Love Divide](https://open.spotify.com/track/5N6x5VY1I0ER9JRtD9PEcy) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Love Divide](https://open.spotify.com/album/16dR19lw7xsjTvpkga7Sg0) | 4:29 |
-| 30 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 |
+| 30 | [Self Oscillation](https://open.spotify.com/track/323rrOHJM4CdGHTGvWcqAy) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Self Oscillation](https://open.spotify.com/album/1IFsw8Gq05lBJQWAcSM3I5) | 4:19 |
 | 31 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
 | 32 | [Naif](https://open.spotify.com/track/1ouVOHVm1FGkEch0sinTTE) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Naif](https://open.spotify.com/album/72lhRktJCMEHHZ5lTaEzeA) | 3:44 |
 | 33 | [The East](https://open.spotify.com/track/3f24OX8Zk6JAbZJbpbXd6U) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE \(Remixes\)](https://open.spotify.com/album/4Q5GWCi3s7c9ei0au3ewMA) | 3:07 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 50 | [Into The Light](https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 5:01 |
 | 51 | [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 |
 | 52 | [You](https://open.spotify.com/track/5bDaY6dCXp6obvN6MKV23v) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Vol\. 1 \- The Mixtape](https://open.spotify.com/album/1ZZSNrohitWJIhvm4ThElN) | 3:22 |
-| 53 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 |
-| 54 | [The Last Hour](https://open.spotify.com/track/5wWNr7lRyVAGsvwUOZujux) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [The Last Hour](https://open.spotify.com/album/4kKGA30TWC0gPM3DEnkFuo) | 4:07 |
+| 53 | [The Last Hour](https://open.spotify.com/track/5wWNr7lRyVAGsvwUOZujux) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [The Last Hour](https://open.spotify.com/album/4kKGA30TWC0gPM3DEnkFuo) | 4:07 |
+| 54 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 |
 | 55 | [Novella](https://open.spotify.com/track/5e39g1T0asZ7IsEFZcMqpC) | [Odette](https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s) | [Novella EP](https://open.spotify.com/album/4beeUsxhIEEp0PmphMv8zS) | 6:27 |
 | 56 | [Mercury](https://open.spotify.com/track/1XMU0yZQK8jy2rRtr2yQXJ) | [Sam Goku](https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l) | [Every Step EP](https://open.spotify.com/album/7HivaRDG5DP4wg0yLkkbku) | 6:29 |
 | 57 | [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 59 | [Polymer Pyramid](https://open.spotify.com/track/0SSgDTHqX7y3JwJ47XUtmx) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Polymer Pyramid](https://open.spotify.com/album/7JgvbVWgRYz1IqkieeUaqQ) | 4:49 |
 | 60 | [IQarus](https://open.spotify.com/track/5xYWdZVRcU81zYwlB29uJC) | [Brain De Palma](https://open.spotify.com/artist/44VVWk4YFJFoiv7oRNt5wO) | [IQarus](https://open.spotify.com/album/1oiwy4ZjFGIIcJE4DIu1Vu) | 5:24 |
 
-Snapshot ID: `MTY1NzMwNTU0NSwwMDAwMDAwMGEzNGZhMzM3MmZlYWI0ZGM5MmZlZmQ3NDlhNjYxNjRj`
+Snapshot ID: `MTY1NzMwNTU0NSwwMDAwMDAwMDExZjQ4ZTA3MzdmZGY1ZGJiYmZkMmViNmM2MjEwOGYy`

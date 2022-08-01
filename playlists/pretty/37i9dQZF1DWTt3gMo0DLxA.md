@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,123 likes - 51 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,149 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 39 | [Rowdy Baby](https://open.spotify.com/track/7i0Fee6bIqMcj4VyO4gnPN) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Maari 2 \[Telugu\] \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22RsOcEtNYmdBQlCJ45SeQ) | 4:41 |
 | 40 | [Vaaru Veeru](https://open.spotify.com/track/2os5ZEWZ2lwGRh4aBYOAE4) | [Anurag Kulkarni, Anjana Sowmya](https://open.spotify.com/artist/3TZcSiEaHTHSMUbSd76J8J) | [Devadas](https://open.spotify.com/album/0xcDSSJZtVGNIOFch0L99D) | 4:26 |
 | 41 | [Girra Girra](https://open.spotify.com/track/5GQ5gYGmIXeACMJk5E1RQR) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [F2](https://open.spotify.com/album/0CkMSLqE73UxkDdF2zGMeO) | 4:55 |
-| 42 | [Kanne Adhirindhi](https://open.spotify.com/track/7KXic27xUAWeENDHqtsCQ4) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Roberrt \(Telugu\)](https://open.spotify.com/album/0RD3M8MJ7RtZJefk7uDPxv) | 3:45 |
+| 42 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
 | 43 | [Alludu Adhurs](https://open.spotify.com/track/5nP5Y7qkiiWi70QueS3qF8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Vaishnavi](https://open.spotify.com/artist/6EvZzYQvYz8M9s2JOXpe9e) | [Alludu Adhurs](https://open.spotify.com/album/3kus7s3pIDVtyckV59gkKs) | 4:01 |
-| 44 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
+| 44 | [Kanne Adhirindhi](https://open.spotify.com/track/7KXic27xUAWeENDHqtsCQ4) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Roberrt \(Telugu\)](https://open.spotify.com/album/0RD3M8MJ7RtZJefk7uDPxv) | 3:45 |
 | 45 | [Netha Cheera](https://open.spotify.com/track/0jYdNiFwjhzye1Ga5W1vaT) | [Sai Charan, Sahithi, Simha](https://open.spotify.com/artist/329RdTVXR2VaMnvAnLsk9X) | [Katamarayudu](https://open.spotify.com/album/1cvxkGMF3C9R9DmJiyTzBc) | 4:00 |
 | 46 | [Hey Abbayi](https://open.spotify.com/track/0IDhvvZHORFGPDh0fWqPbk) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV) | [Sreekaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P) | 3:42 |
 | 47 | [Ammakutti Ammakutti Andhamantha Ompake](https://open.spotify.com/track/7EW27HIQrlFLpyCBtOodF4) | [Jaspreeth Jasz, Geetha Madhuri](https://open.spotify.com/artist/3YUBfCMOTG5Nbn0dxlX4Un) | [Jai Simha](https://open.spotify.com/album/7Ge2S3SjYoZ0uTZBM8HMqi) | 4:41 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 50 | [Hola Chica \(Hi Girl\)](https://open.spotify.com/track/6BfsuH0mceuShQkrEa6QHE) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Alludu Adhurs](https://open.spotify.com/album/3wI4njxJGFMbyxMI2rOsK6) | 4:05 |
 | 51 | [Love Dhebba](https://open.spotify.com/track/3voVT9SGPZCT6tYXVbwAao) | [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Nannaku Prematho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15sBWVMRroxX2xMq3rNQoI) | 3:56 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDc5YzZkYjcxZjE4ZDUyOGI3NjFjNDFlYjAzNTVkYjY3`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDUwMjI3NjgyYWYyNTM2M2I0YjBlNmUwNzI3ZDZjYTZj`

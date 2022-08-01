@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 
 > Escuchá la banda de sonido de La Serie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,697 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,701 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El regreso](https://open.spotify.com/track/3jW0FwFsOG2zJIH0a3Nhs6) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [YACANTO](https://open.spotify.com/album/49f97tJOF5ZKTseAVoyKSR) | 5:23 |
-| 2 | [El 38](https://open.spotify.com/track/5Ywzb69fz015zVnTFMY22i) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Sin Roll no hay ROCK](https://open.spotify.com/album/0QHlimvlC1tLuERJYZJ3I2) | 2:29 |
+| 2 | [El 38](https://open.spotify.com/track/2qLmEdr1UoLetZUjPgSB9X) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [ROCK PESADO vol\. I](https://open.spotify.com/album/7raMr2V1jKqLN2c6sJZuGs) | 2:29 |
 | 3 | [El Final Es En Donde Partí](https://open.spotify.com/track/3QVG9ezfGM2M4falJMZPpT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Rockea Argentina](https://open.spotify.com/album/4Bc5A73Edp881CmU2WPsPj) | 4:36 |
 | 4 | [Hey Joe](https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:30 |
 | 5 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 | 48 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 |
 | 49 | [Volviendo el sol](https://open.spotify.com/track/17ypCaGMiaf5zbsNztb6b9) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Un Grito en el Viento](https://open.spotify.com/album/6xk8lyhsmfeNZ2pf0uF9hg) | 7:53 |
 
-Snapshot ID: `MTYwMDQzNzc5MSwwMDAwMDAwMDZlMTBlZTk0ODc3YWZmZjFmMjljN2U1N2RjMDFkMzll`
+Snapshot ID: `MTYwMDQzNzc5MSwwMDAwMDAwMGFmYTY1NDI5YzA3NGIzOTFkZjI3NDcxYmM2ZDdmMGQ2`

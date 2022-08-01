@@ -4,7 +4,7 @@
 
 > Background scores to help you sail through the day
 
-69 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/5ffbZDKT29D992GCzH9rQa)
+70 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5ffbZDKT29D992GCzH9rQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Destroyed In Love \[Lounge Mix\] \(Instrumental\)](https://open.spotify.com/track/40S0GyHvtdogjOhiyP6i1o) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Fanaa](https://open.spotify.com/album/2L3NV5Fxjrj6mi59Gs5tUx) | 4:50 | 2022-05-04 |  |
 | [Dev \- Chanda \(Theme\-2\)](https://open.spotify.com/track/6qksrgPqbSNoTiNzdmRG9p) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dev D](https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT) | 1:47 | 2022-05-04 |  |
 | [Don The Theme](https://open.spotify.com/track/6d7MSaXaEBSzRG39HNODNz) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 4:09 | 2022-05-04 |  |
+| [Dor Theme](https://open.spotify.com/track/0pgw4O5h8wKOVplM54YMCx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kiwHm9mwEnOjka8GrN9hS) | 1:49 | 2022-07-08 |  |
 | [Dor Theme](https://open.spotify.com/track/1kP6s97MzaVY6Vs6WQl48u) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/23j7YAe0CCu2R2fxFyc31M) | 1:49 | 2022-05-04 | 2022-07-29 |
-| [Dor Theme](https://open.spotify.com/track/30Jjz3R2fgSsT6X5ne9ogr) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nQuXmaVhy6FQLYyqmpxic) | 1:49 | 2022-07-08 |  |
+| [Dor Theme](https://open.spotify.com/track/30Jjz3R2fgSsT6X5ne9ogr) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nQuXmaVhy6FQLYyqmpxic) | 1:49 | 2022-07-08 | 2022-08-01 |
 | [Farewell Trance \- Instrumental](https://open.spotify.com/track/6NjZp0gQNFI3mytJINKFwE) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 5:47 | 2022-05-04 | 2022-07-27 |
 | [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 | 2022-07-08 |  |
 | [Hanuman Theme](https://open.spotify.com/track/3nCtX2vQR0ZQQ8mfnbQZ8n) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman](https://open.spotify.com/album/0kee4xS02XNY2pQIke9EDr) | 3:03 | 2022-05-04 | 2022-07-29 |

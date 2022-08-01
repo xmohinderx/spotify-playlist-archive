@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. MOSBI on cover.",
-  "num_followers": 165965,
+  "num_followers": 165970,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMGY1M2NlOGI4NGQ3ZjMxNzhmMDQ4MDI2YzQ5NTU1MDA2",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDA4MDBjODU4MGYyZDQ3ZDJhMzk0NjUyMDRkM2NmNmZk",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD"
-      },
-      "artists": [
-        {
-          "name": "Lenay",
-          "url": "https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D"
-        }
-      ],
-      "duration_ms": 161039,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Vamos pa' la Calle",
         "url": "https://open.spotify.com/album/78ve7Z6x8WDVxoR6oUetPZ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 147500,
       "name": "Vamos pa' la Calle",
       "url": "https://open.spotify.com/track/6wYg8famUEPTy5T0GW88Ss"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD"
+      },
+      "artists": [
+        {
+          "name": "Lenay",
+          "url": "https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D"
+        }
+      ],
+      "duration_ms": 161039,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "No Tengo Ganas",
-        "url": "https://open.spotify.com/album/0YZ0V9DV5uQ19ejE0QuzbF"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 247296,
-      "name": "No Tengo Ganas",
-      "url": "https://open.spotify.com/track/7qiVRVykZr2xBvvJ888tTG"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Celular",
         "url": "https://open.spotify.com/album/596veIoeFm89apz1MbGoNE"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD"
+        "name": "No Tengo Ganas",
+        "url": "https://open.spotify.com/album/0YZ0V9DV5uQ19ejE0QuzbF"
       },
       "artists": [
         {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
         }
       ],
-      "duration_ms": 178811,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj"
+      "duration_ms": 247296,
+      "name": "No Tengo Ganas",
+      "url": "https://open.spotify.com/track/7qiVRVykZr2xBvvJ888tTG"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -567,6 +551,22 @@
       "duration_ms": 170325,
       "name": "Todo el Brillo",
       "url": "https://open.spotify.com/track/6WqkTuNzBuPmEjW8MoCB49"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "duration_ms": 178811,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj"
     },
     {
       "added_at": "2022-07-29 05:00:00",

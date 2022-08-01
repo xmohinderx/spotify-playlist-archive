@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 26078,
+  "num_followers": 26174,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDM2YmRhNDVlYjRhZDlmY2IyNTJjODFhYjViZjNkMjdj",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDdjOGVlYmNkNDE1NDZiNThlNGQ3ODAyNzQ5MzExOTVh",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Trials of Van Occupanther",
-        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
-      },
-      "artists": [
-        {
-          "name": "Midlake",
-          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
-        }
-      ],
-      "duration_ms": 286880,
-      "name": "Roscoe",
-      "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Sky Blue Sky",
         "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 357160,
       "name": "Impossible Germany",
       "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Trials of Van Occupanther",
+        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
+      },
+      "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "Roscoe",
+      "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Glow, Pt. 2",
-        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
-      },
-      "artists": [
-        {
-          "name": "The Microphones",
-          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
-        }
-      ],
-      "duration_ms": 332880,
-      "name": "I Want Wind to Blow",
-      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "War Elephant",
         "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 181466,
       "name": "Baltimore Blues No. 1",
       "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Glow, Pt. 2",
+        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
+      },
+      "artists": [
+        {
+          "name": "The Microphones",
+          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "duration_ms": 332880,
+      "name": "I Want Wind to Blow",
+      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
     },
     {
       "added_at": "2022-02-04 22:01:34",

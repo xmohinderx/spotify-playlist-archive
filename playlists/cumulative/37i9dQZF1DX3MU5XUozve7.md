@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-632 songs - 1 day 7 hr 29 min - [published](https://open.spotify.com/playlist/44fGnydRWldy7s0Nsw51vV)
+633 songs - 1 day 7 hr 32 min - [published](https://open.spotify.com/playlist/44fGnydRWldy7s0Nsw51vV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Bleeding](https://open.spotify.com/track/6Fba4LJ7w7GY63yAfLBgHP) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [Our Darkest Days](https://open.spotify.com/album/2qxFRANEKoREPmD9ncfbtB) | 2:02 | 2020-05-30 | 2022-07-29 |
 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 | 2021-01-23 |  |
 | [Bouncing Off The Walls](https://open.spotify.com/track/0erd5GsszwmXYWl7lcdApZ) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Start Static](https://open.spotify.com/album/2P99pXHO2oDSfnWSnJdoEC) | 2:21 | 2021-10-09 | 2021-10-14 |
+| [Bouncing Off The Walls](https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Start Static](https://open.spotify.com/album/0jgOnSVNaP3rNb7bZ9b0QT) | 2:21 | 2022-07-26 |  |
 | [Bowling Green Lane](https://open.spotify.com/track/4ajqgnEPdUqAeRqP2EtdQj) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Graveyard Island](https://open.spotify.com/album/4jqKanjC03bISvAld3ZSDG) | 3:05 | 2020-03-31 | 2022-07-08 |
 | [Breakfast of Champions](https://open.spotify.com/track/0zc1xVE8W3FjWl0yR4nwnq) | [Lovesick Bombs](https://open.spotify.com/artist/0MSNlZfIXtCG44T9EdRWpi) | [Breakfast of Champions](https://open.spotify.com/album/3lEa0iJr0cTXugCMpJgInZ) | 3:10 | 2020-05-12 | 2020-05-13 |
 | [Broken Dreams, Inc.](https://open.spotify.com/track/6jjsvz1cxRDU1rlW9Kkv5Z) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Broken Dreams, Inc.](https://open.spotify.com/album/6PpXNkijHaoYuteJkC7Ni9) | 3:51 | 2020-09-19 | 2022-07-29 |
@@ -295,7 +296,7 @@
 | [Josh](https://open.spotify.com/track/6UKS1M6X5V6OEIYuJ27cUK) | [The Decline](https://open.spotify.com/artist/7MMcJHFoJYUjHIk9YwTufv) | [Flash Gordon Ramsay Street](https://open.spotify.com/album/22otOywzbTG8F4yYqc8KV5) | 3:46 | 2020-03-21 | 2021-11-20 |
 | [K6](https://open.spotify.com/track/3JeMY2mw8gN7aOnBaqipwj) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Stella Sapiente](https://open.spotify.com/album/7gGDcdgx5VMonqIVOaPeNh) | 2:27 | 2020-03-20\* | 2022-07-25 |
 | [Keep on Chasing](https://open.spotify.com/track/352s3lxFuWqTuP9p1wjbdo) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:03 | 2020-12-12 | 2022-07-28 |
-| [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 | 2020-03-21 |  |
+| [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 | 2020-03-21 | 2022-08-01 |
 | [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 | 2020-03-30 | 2022-06-20 |
 | [Kill Em All](https://open.spotify.com/track/3HGToWWnpWDYe8sd5UcnH2) | [Part Time Killer](https://open.spotify.com/artist/1PDjdSn9YCXz1reA1PUcC0) | [Kill Em All](https://open.spotify.com/album/3VM7ycOlsqm59FOGjZfjKk) | 3:10 | 2020-03-23 | 2022-03-05 |
 | [Kitty Sucker](https://open.spotify.com/track/457BpNlDPJnuf94rY1fuWw) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:44 | 2020-03-21 |  |

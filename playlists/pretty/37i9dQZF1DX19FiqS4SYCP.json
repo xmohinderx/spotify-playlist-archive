@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave, co-curated with <a href=\"https://tejanonation.net/\">Tejano Nation</a>! La nueva ola de la m\u00fasica tejana. Cover: Stefani Montiel",
-  "num_followers": 140073,
+  "num_followers": 140086,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMGMyM2M0ZjNkNGI2OTk4MTljMzcyYTFhNzQ0ZDlmMTMy",
+  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMGM2N2FhZWNjZTVmOGUxZjI1YjhkZmRkNmIwMjIwZTFk",
   "tracks": [
     {
       "added_at": "2022-03-07 20:49:42",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Ni Un Beso",
-        "url": "https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp"
-      },
-      "artists": [
-        {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Ni Un Beso",
-      "url": "https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE"
       },
@@ -163,18 +147,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Me AventaronTus Brazos",
-        "url": "https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U"
+        "name": "Ni Un Beso",
+        "url": "https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp"
       },
       "artists": [
         {
-          "name": "Magnifico 7",
-          "url": "https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm"
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
         }
       ],
-      "duration_ms": 188653,
-      "name": "Me AventaronTus Brazos",
-      "url": "https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6"
+      "duration_ms": 184533,
+      "name": "Ni Un Beso",
+      "url": "https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -191,6 +175,22 @@
       "duration_ms": 165520,
       "name": "El Tirador",
       "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Me AventaronTus Brazos",
+        "url": "https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U"
+      },
+      "artists": [
+        {
+          "name": "Magnifico 7",
+          "url": "https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm"
+        }
+      ],
+      "duration_ms": 188653,
+      "name": "Me AventaronTus Brazos",
+      "url": "https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
-      },
-      "artists": [
-        {
-          "name": "Demmi Garcia",
-          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 179063,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
+      },
+      "artists": [
+        {
+          "name": "Demmi Garcia",
+          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
         "name": "N\u00famero Dos",
         "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+        "name": "Desastre Natural",
+        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
       },
       "artists": [
         {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+          "name": "Nacido",
+          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
         }
       ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
+      "duration_ms": 188874,
+      "name": "Desastre Natural",
+      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Desastre Natural",
-        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
-      },
-      "artists": [
-        {
-          "name": "Nacido",
-          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
-        }
-      ],
-      "duration_ms": 188874,
-      "name": "Desastre Natural",
-      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Entre El Frio Y El Calor",
         "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 215640,
       "name": "Entre El Frio Y El Calor",
       "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+        }
+      ],
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -707,18 +723,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+        "name": "Nunca Voy A Olvidarte (Radio Mix)",
+        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
       },
       "artists": [
         {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+          "name": "Los Lost Boyz",
+          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
         }
       ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
+      "duration_ms": 198216,
+      "name": "Nunca Voy A Olvidarte - Radio Mix",
+      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Final De Tu Amor",
-        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vidal",
-          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
-        }
-      ],
-      "duration_ms": 205438,
-      "name": "Final De Tu Amor",
-      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Un D\u00eda Veras",
         "url": "https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Nunca Voy A Olvidarte (Radio Mix)",
-        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
+        "name": "Final De Tu Amor",
+        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
       },
       "artists": [
         {
-          "name": "Los Lost Boyz",
-          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
+          "name": "Grupo Vidal",
+          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
         }
       ],
-      "duration_ms": 198216,
-      "name": "Nunca Voy A Olvidarte - Radio Mix",
-      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
+      "duration_ms": 205438,
+      "name": "Final De Tu Amor",
+      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
     },
     {
       "added_at": "2022-03-07 20:49:42",

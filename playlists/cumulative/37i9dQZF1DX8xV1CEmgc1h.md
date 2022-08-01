@@ -4,7 +4,7 @@
 
 > Chart topping hits from the legendary label.
 
-77 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/7ndk3nV4DgJKqpMzIEHyoK)
+78 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/7ndk3nV4DgJKqpMzIEHyoK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Still](https://open.spotify.com/track/2OQOYULLeWnGzlGcXQMGLv) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Midnight Magic](https://open.spotify.com/album/08BUOmAF8JwaU4Nnsizswy) | 5:47 | 2019-06-27 |  |
 | [Stop! In The Name Of Love \- Single Version](https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes](https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A) | 2:52 | 2019-06-27 |  |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2019-06-27 |  |
-| [The Happening](https://open.spotify.com/track/2SusUbsUQnw8OJDq56ZMbE) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/7bPBdkx7Vm2vqDkwnfNlg8) | 2:49 | 2019-06-27 |  |
+| [The Happening](https://open.spotify.com/track/2SusUbsUQnw8OJDq56ZMbE) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/7bPBdkx7Vm2vqDkwnfNlg8) | 2:49 | 2019-06-27 | 2022-08-01 |
+| [The Happening](https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Story Of The Supremes](https://open.spotify.com/album/23s2StHCeb3zO0B95ZDN2R) | 2:50 | 2019-06-27 |  |
 | [The Happening \- Album Version \(Stereo\)](https://open.spotify.com/track/6WGtWrzsyCtHjUod3dKbIU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/5OnA6kyXMAxx6SEPPSPcGW) | 2:49 | 2019-06-27 | 2022-07-29 |
 | [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 | 2019-06-27 |  |
 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 | 2019-06-27 |  |

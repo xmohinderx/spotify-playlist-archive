@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 260745,
+  "num_followers": 260901,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNzYyMSwwMDAwMDAwMGU5MGRjZjRkODYzZmYyMDNjOWVmYmRiNzM5NmM3Mzk3",
+  "snapshot_id": "MTY1OTEwNzYyMSwwMDAwMDAwMDY4ZWU1OWFkMDkyZmU1YzQyODZkMGVkYzIwMGVkZWI1",
   "tracks": [
     {
       "added_at": "2022-07-29 15:13:41",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2022-07-29 15:13:41",
       "album": {
-        "name": "Just The Two of Us",
-        "url": "https://open.spotify.com/album/2BeZeRUR2CqrwOGzxWCwI1"
-      },
-      "artists": [
-        {
-          "name": "Kauai45",
-          "url": "https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD"
-        },
-        {
-          "name": "Sweet Cocoa",
-          "url": "https://open.spotify.com/artist/1eXbxTRUsI5OKMp77hpDef"
-        }
-      ],
-      "duration_ms": 117037,
-      "name": "Just The Two of Us",
-      "url": "https://open.spotify.com/track/5cwCW4r6ybpSiHWMpMKHoJ"
-    },
-    {
-      "added_at": "2022-07-29 15:13:41",
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 219720,
       "name": "Te Alejas M\u00e1s De M\u00ed",
       "url": "https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB"
+    },
+    {
+      "added_at": "2022-07-29 15:13:41",
+      "album": {
+        "name": "Just The Two of Us",
+        "url": "https://open.spotify.com/album/2BeZeRUR2CqrwOGzxWCwI1"
+      },
+      "artists": [
+        {
+          "name": "Kauai45",
+          "url": "https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD"
+        },
+        {
+          "name": "Sweet Cocoa",
+          "url": "https://open.spotify.com/artist/1eXbxTRUsI5OKMp77hpDef"
+        }
+      ],
+      "duration_ms": 117037,
+      "name": "Just The Two of Us",
+      "url": "https://open.spotify.com/track/5cwCW4r6ybpSiHWMpMKHoJ"
     },
     {
       "added_at": "2022-07-29 15:13:41",

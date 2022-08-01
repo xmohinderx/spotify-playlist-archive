@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 1231,
+  "num_followers": 1249,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDE3Zjg0MTAxOTYxOTk1MjI5ZDMxMGI2MjlhMWJjMDMw",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDkzMTQ2ZDYyYjUyMjdkYjhiNjAwNWEwYjM5MGQzNWMx",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -535,6 +535,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Brisas Del Mar",
+        "url": "https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Brisas Del Mar",
+      "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
         "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 184320,
       "name": "Alma Roja - DJ Chus Remix",
       "url": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Brisas Del Mar",
-        "url": "https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Brisas Del Mar",
-      "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
     },
     {
       "added_at": "2021-10-08 15:53:55",

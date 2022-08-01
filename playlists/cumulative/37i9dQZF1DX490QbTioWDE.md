@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-237 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
+238 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Como Le Digo](https://open.spotify.com/track/4nH1lpWkgzQPpTYPPjWKaI) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:13 | 2021-12-24 | 2022-07-29 |
 | [Como Me Duele Perderte](https://open.spotify.com/track/2W8kUtFezyRlruEbbRp3fR) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Como Me Duele Perderte](https://open.spotify.com/album/7xmEvlYgWQwu4RrfZAVSzQ) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Como Si No Importara](https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Como Si No Importara](https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu) | 1:47 | 2022-01-07 |  |
-| [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 | 2021-12-24 |  |
+| [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 | 2021-12-24 | 2022-08-01 |
 | [Cuando Grita la Piel / Amiga del Alma](https://open.spotify.com/track/3Fm7HsAtL7YD0Ecjsj980C) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Aquellas Canciones Inolvidables](https://open.spotify.com/album/5cZIWDRBhoWptFfZ7BCiei) | 4:24 | 2021-12-24 | 2022-07-13 |
 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 | 2022-07-22 |  |
 | [Cuando Me Enamoro](https://open.spotify.com/track/7IUFDlflcQjHNxg8H0us34) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Limites](https://open.spotify.com/album/35G5JSWM0oAFzTfXJK9Hti) | 2:57 | 2021-12-24 | 2022-07-29 |
@@ -244,6 +244,7 @@
 | [Ya no volverá](https://open.spotify.com/track/2CjunqLdUix6YPoXcm68bT) | [Diego Olmos](https://open.spotify.com/artist/0HhAQGZNZAvnu9RZQOTetx) | [Siempre en mi Vivirás](https://open.spotify.com/album/2sT3U5A85atGvCVZdOkXG6) | 4:02 | 2021-12-24 | 2022-07-25 |
 | [Yerba Mala](https://open.spotify.com/track/6DAZuerCWNL5TtgKo8M2jl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 6:16 | 2021-12-24 | 2022-07-29 |
 | [Yo No Te Pido La Luna](https://open.spotify.com/track/3eQSwoKeqXtJ1Nu7n7Qup8) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [20 Grandes Exitos](https://open.spotify.com/album/5sODoADgphMzZfAuOC5sGk) | 2:57 | 2021-12-24 | 2022-07-29 |
+| [Yo No Te Pido la Luna](https://open.spotify.com/track/1pI0IZ9VjXmWKLRMoDMnpZ) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Yo No Te Pido la Luna](https://open.spotify.com/album/65zHSlxJ6lVfTrCi4U1f3V) | 3:20 | 2022-07-31 |  |
 | [Él no soy yo](https://open.spotify.com/track/63F0fLgN8dMRlhWCRnbkyk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly) | 3:46 | 2021-12-24 | 2022-07-21 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

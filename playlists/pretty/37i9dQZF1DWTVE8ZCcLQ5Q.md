@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Veigh e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,909 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,878 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 5 | [Joga na Cara](https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8) | [Joga na Cara](https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC) | 1:49 |
 | 6 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 |
 | 7 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
-| 8 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 |
-| 9 | [Eu Fiquei Com a Puta](https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Eu Fiquei Com a Puta](https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C) | 2:18 |
+| 8 | [Eu Fiquei Com a Puta](https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Eu Fiquei Com a Puta](https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C) | 2:18 |
+| 9 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 |
 | 10 | [Calculista](https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly) | [Dom Vittor & Gustavo](https://open.spotify.com/artist/36CiwS6BaZffBHzjJL8y6N), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Calculista](https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy) | 2:38 |
 | 11 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 |
 | 12 | [INVEJOSO](https://open.spotify.com/track/1yecpnQJ3PL2BtOt8Eon6O) | [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [INVEJOSO](https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy) | 5:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
 | 60 | [Sem Tempo](https://open.spotify.com/track/4OjU6vAV8f9pSCUScsgYek) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Sem Tempo](https://open.spotify.com/album/3YbO6IwKj63ABxzrqApH3g) | 2:30 |
 
-Snapshot ID: `MTY1ODkyOTYwOCwwMDAwMDAwMGVmYjBiMmI4NDRjNGUzODU3ZDQ2ODE1ZGM0MzM5OWVl`
+Snapshot ID: `MTY1ODkyOTYwOCwwMDAwMDAwMDQzNmJjOTkwM2ZhNzRlZDM0NjA0NTE5NjIzNzRmOWUy`

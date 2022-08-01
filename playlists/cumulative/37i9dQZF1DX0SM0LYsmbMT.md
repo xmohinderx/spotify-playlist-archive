@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-2,954 songs - 4 day 18 hr 35 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+2,955 songs - 4 day 18 hr 38 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [247 Mics](https://open.spotify.com/track/4QA2kc1bWGE3UmZic68rZI) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [247 Mics](https://open.spotify.com/album/1GxoDQIFGd2i3Z3IYIsYc6) | 1:17 | 2020-07-24 | 2020-12-11 |
 | [3 am](https://open.spotify.com/track/0dKaBoIn8JCrCkmSBPBfKp) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [back to the low](https://open.spotify.com/album/7cmmqRvoLry0rm00OGk6GN) | 2:07 | 2020-03-25 | 2020-05-01 |
 | [3 Pasión](https://open.spotify.com/track/0XUdIiSpEbJsZOhhT5qvTc) | [Konducta Beats](https://open.spotify.com/artist/7JXgLLRZwR53zdrUJJWfMu) | [Spanish Winds](https://open.spotify.com/album/7xekLM66Bb5aOMBJZtT5hf) | 2:22 | 2019-05-26\* | 2019-08-13 |
-| [360 flip](https://open.spotify.com/track/3XluTZpovHAGuhh9N8dyhw) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [360 flip](https://open.spotify.com/album/2u6eSjXD1EU5iwLZ4DT39R) | 2:13 | 2022-07-21 |  |
+| [360 flip](https://open.spotify.com/track/3XluTZpovHAGuhh9N8dyhw) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [360 flip](https://open.spotify.com/album/2u6eSjXD1EU5iwLZ4DT39R) | 2:13 | 2022-07-21 | 2022-08-01 |
 | [4 a While](https://open.spotify.com/track/2XvIvNtn23iABHFSMxaEiB) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [4 a While](https://open.spotify.com/album/4d0GQN4GMgjQOY0Zi5BfrP) | 1:44 | 2021-06-24 | 2021-07-30 |
 | [4 My Little Ones](https://open.spotify.com/track/2qSsUYkdqtIfI5hvUyCpbk) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [4 My Little Ones](https://open.spotify.com/album/1TynhzqjtEaxAsNdPl5VIj) | 2:16 | 2021-04-23 | 2021-09-10 |
 | [4:20 PM](https://open.spotify.com/track/4G2WtXPgkDl0dnwzoBbBSj) | [Bluedoom](https://open.spotify.com/artist/1gFvHTW6FSJiw4FQ355I4K) | [4:20 PM](https://open.spotify.com/album/6haq5A6RlJsbKzRC9LtvIU) | 1:39 | 2019-08-02 | 2020-02-26 |
@@ -233,6 +233,7 @@
 | [Bami](https://open.spotify.com/track/2rv4nn9uQ7DXRZjHmU0hyV) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Bami / 25 Hours](https://open.spotify.com/album/7whKI4gEX1ecykO014f8p0) | 1:39 | 2019-05-26\* | 2019-06-15 |
 | [Baqi Manda](https://open.spotify.com/track/2khd4u8NU2BYQxIYujrnDR) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Baqi Manda](https://open.spotify.com/album/1ZT8WJKVvrQ4CTdjBd678z) | 2:18 | 2020-07-03 | 2020-09-11 |
 | [Barca\-Longa](https://open.spotify.com/track/4YVJjWeFBOX1zy8apVuNPt) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Barca\-Longa](https://open.spotify.com/album/1fF5E1kIs9J1XdrCPRjsm8) | 3:12 | 2020-12-18 | 2021-06-18 |
+| [Barcelona](https://open.spotify.com/track/2TtbMxAi6qs9jPiy5LkTjx) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Barcelona](https://open.spotify.com/album/1EPrY4ifJVLMhl36wA3RCo) | 3:27 | 2022-07-28 |  |
 | [Barnwohl's Voyage](https://open.spotify.com/track/36g3YNQmFyZd73VZQr00hF) | [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu) | [Barnwohl's Voyage](https://open.spotify.com/album/3EoNdWxcIKcmmikjrBw0Hq) | 2:06 | 2022-06-16 | 2022-07-15 |
 | [Barry Code](https://open.spotify.com/track/2iy5MHbndFIdagiSHjfTZb) | [Yang Nips](https://open.spotify.com/artist/1v8hgBjyWZ6rAzqhICIFrs) | [Barry Code](https://open.spotify.com/album/1Qq3MRHPBWGAX1mMg5bZZw) | 2:04 | 2020-04-24 | 2020-06-29 |
 | [Basically](https://open.spotify.com/track/5TxKusSoFUodi3SotkOEga) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Basically](https://open.spotify.com/album/2gtBmT4UeGmSaXTebWF2M2) | 3:06 | 2019-06-04 | 2019-09-27 |

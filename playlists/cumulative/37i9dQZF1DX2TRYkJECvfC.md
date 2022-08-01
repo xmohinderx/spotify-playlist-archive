@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-298 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+299 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Keramas](https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Keramas / Harpanet](https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4) | 3:44 | 2021-12-08 |  |
 | [Kunzite](https://open.spotify.com/track/4zEbnQ59YXDeCC8Cc81pjc) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 4:27 | 2021-12-08 |  |
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2021-12-08 |  |
+| [La Maison \- Original](https://open.spotify.com/track/3d80ghHkDghJI78Ca6i0fN) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [La Maison](https://open.spotify.com/album/5JDwNbFFhU2py7OUJhyKQu) | 6:30 | 2022-05-03 |  |
 | [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-12-08 |  |
 | [Leko \- Session Victim Remix](https://open.spotify.com/track/18nGprzEucUO4FF768lLhe) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Leko Remixes](https://open.spotify.com/album/2c1dSyxxTwetuIYUfWky09) | 5:25 | 2021-12-08 |  |
 | [Let Go](https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Let Go](https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK) | 4:08 | 2021-12-08 |  |
@@ -292,7 +293,7 @@
 | [What You Want](https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 3:45 | 2021-12-08 |  |
 | [When the Lights Are Out \- Late Night Mix](https://open.spotify.com/track/6skTPlJtkpqN7mM95QfsUD) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [When the Lights Are Out](https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu) | 7:18 | 2021-12-08 |  |
 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/1ek1kNO1a5EJCNIUvNs5XI) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4Oz04uOU1JkaZtYe7LBXmt) | 3:47 | 2021-12-08 |  |
-| [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 | 2021-12-08 |  |
+| [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 | 2021-12-08 | 2022-08-01 |
 | [White Sky](https://open.spotify.com/track/0MuOQWH4N9C9jK44bzRTBQ) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [White Sky](https://open.spotify.com/album/2JpFWVg9PCkJbDKZ41WJDQ) | 2:15 | 2021-12-08 | 2022-07-29 |
 | [Whole Lotta Groove](https://open.spotify.com/track/569WHNKLrlhueTZsAiegDm) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Whole Lotta Groove](https://open.spotify.com/album/7MkCIDc5iDwz5IPEvjdavy) | 6:32 | 2021-12-08 |  |
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/7f8POQ76x9ki1D48lCsXoq) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Dance Now, Cry Later](https://open.spotify.com/album/0b6miPcQIohCUYRmRjUFia) | 2:58 | 2021-12-08 | 2022-07-29 |

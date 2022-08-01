@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-162 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
+163 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [Everything](https://open.spotify.com/track/17Vyuiin8uY1eOR1imRtqS) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/7CyISiIyKSbgIQZr8JaqoS) | 5:37 | 2020-07-13 | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/25I5OlzgEUCqg0MWLWCZpv) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:37 | 2020-07-13 |  |
 | [Everything That Can Be Invented](https://open.spotify.com/track/1sNHnNghTXeVqhWfklniyl) | [Tvärvägen](https://open.spotify.com/artist/5Ms2wJn8fZ2TbJGkaLgNCF) | [Staring Directly Into the Sun](https://open.spotify.com/album/5jmGz6ggQWnhCNjkEfYCcL) | 4:47 | 2020-07-13 |  |
-| [Exploding](https://open.spotify.com/track/0IybhqldtypI4LJBXsD41w) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions of Light and Sound of God](https://open.spotify.com/album/3S9HLKJlIahphBAjzsHDzi) | 2:00 | 2020-07-13 |  |
+| [Exploding](https://open.spotify.com/track/0IybhqldtypI4LJBXsD41w) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions of Light and Sound of God](https://open.spotify.com/album/3S9HLKJlIahphBAjzsHDzi) | 2:00 | 2020-07-13 | 2022-08-01 |
 | [Exploding](https://open.spotify.com/track/0yod6tHyQ4i5P2ArTRDLhz) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions Of Light And Sound Of God](https://open.spotify.com/album/11WWvzU6lGpcjRUMlahNKs) | 2:00 | 2020-07-13 | 2022-07-29 |
+| [Exploding](https://open.spotify.com/track/30rG9CHTFuH0Ol64f1wfTi) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions of Light and Sound of God \(Deluxe\)](https://open.spotify.com/album/3p3Lsrxgy8EX4oF8PQT8J6) | 2:00 | 2020-07-13 |  |
 | [Field \(feat\. Ren Ford\)](https://open.spotify.com/track/2rXcLC10mje0oGD0VdIIg0) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Ren Ford](https://open.spotify.com/artist/1ek6WGaOTdM0xXnfEzaBGL) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:45 | 2020-07-13 |  |
 | [Fletcher Bay \- Instrumental](https://open.spotify.com/track/2JBCRQHglccEoLT1xvwLoM) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Fletcher Bay \(Instrumental\)](https://open.spotify.com/album/3iZ5ZgRmXpzGjwF7yFYuxT) | 3:10 | 2020-07-13 |  |
 | [Focus \(Rosie's Theme\)](https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE) | [The Civil Wars & T Bone Burnett](https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME) | [A Place at the Table \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP) | 2:21 | 2020-07-13 |  |

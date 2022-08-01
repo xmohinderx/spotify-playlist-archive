@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 145240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
@@ -2129,7 +2129,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 210895,
       "name": "Glass Prism",
       "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
@@ -3411,7 +3411,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 172271,
       "name": "Nature",
       "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
@@ -4820,24 +4820,20 @@
     },
     {
       "album": {
-        "name": "Sparkling Lights",
+        "name": "Sparkling Lights (W Ancient Fan Death Studios)",
         "url": "https://open.spotify.com/album/4DqYWsmyVGtZy4GuAMS5Rz"
       },
       "artists": [
         {
           "name": "Cosmic Cycler",
           "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
-        },
-        {
-          "name": "Ancient Fan Death Studios",
-          "url": "https://open.spotify.com/artist/3JXsNxJiJBXzLl88VrqArE"
         }
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244024,
-      "name": "Sparkling Lights",
+      "name": "Sparkling Lights (W Ancient Fan Death Studios)",
       "url": "https://open.spotify.com/track/2scoNjwADGcWEbSOKjy5oJ"
     },
     {
@@ -6473,7 +6469,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 141666,
       "name": "\u8a69 Desktop",
       "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"

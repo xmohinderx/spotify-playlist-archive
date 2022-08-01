@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-200 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
+201 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Kommunikation](https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH) | [WillMan](https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu) | [Kommunikation](https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV) | 2:41 | 2021-12-14 | 2022-06-25 |
 | [Kontakt](https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 3:08 | 2022-07-15 |  |
 | [Kontakt](https://open.spotify.com/track/3beUoBjGMZEdOqoTiKMpCX) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Kontakt](https://open.spotify.com/album/7FkWVlWwagrKkKaXNLGsjT) | 3:08 | 2021-12-14 | 2022-06-25 |
-| [Last Dance](https://open.spotify.com/track/7ypBQ96cwU73ChFoRy6KiJ) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 5:03 | 2022-07-15 |  |
+| [Last Dance](https://open.spotify.com/track/7ypBQ96cwU73ChFoRy6KiJ) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 5:03 | 2022-07-15 | 2022-08-01 |
 | [Lejonet ryter](https://open.spotify.com/track/1cq1QRhkLKvYNdY3sVmVtN) | [Reggaeonen](https://open.spotify.com/artist/1dABGn3b3SyZtQZQPdsPGq) | [Lejonet ryter](https://open.spotify.com/album/2JsM0DQUQqzGKKH6CnwvjA) | 3:43 | 2021-12-14 | 2022-07-21 |
 | [Leva](https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds) | [Issify](https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM) | [Leva](https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh) | 2:56 | 2021-12-14 | 2022-07-29 |
 | [Leva igen](https://open.spotify.com/track/16UFJVqJUCLCBLvnjQkLtm) | [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Högre standard, vol\. 3 & 4](https://open.spotify.com/album/6zpHmFKGG8BOLwDpfgHnIY) | 3:04 | 2021-12-14 | 2022-07-20 |
@@ -207,6 +207,7 @@
 | [Ögon Rinner Ner](https://open.spotify.com/track/4L1jAKe0Kq0D3kdbuiIS2M) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Ögon Rinner Ner](https://open.spotify.com/album/0QBuQZbIHwEmfqe4lFmKb6) | 3:10 | 2021-12-14 | 2022-06-13 |
 | [ÖPPNA DÖRREN NU](https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [ÖPPNA DÖRREN NU](https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n) | 3:20 | 2021-12-14 | 2022-07-29 |
 | [Öppna Händer \(Sammanlagt\)](https://open.spotify.com/track/6QOIFWkrpVCknzUXX6HA9F) | [MahRoot](https://open.spotify.com/artist/4vloVkOsMylOO5ZDqYoryn) | [Öppna Händer \(Sammanlagt\)](https://open.spotify.com/album/2qDx86oQdfwMvv05pSsZhm) | 3:27 | 2021-12-14 | 2022-07-17 |
+| [Över Min Döda](https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Över Min Döda](https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U) | 3:33 | 2022-07-15 |  |
 | [Över Min Döda](https://open.spotify.com/track/7lTHeR7tl5EoZZaCjbOL48) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Över Min Döda](https://open.spotify.com/album/5WzOuvafj3XsUVI2eETCfb) | 3:33 | 2021-12-14 | 2022-06-30 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Zomboy.
 
-212 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+213 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Space](https://open.spotify.com/track/105lPQTSIrlhH5h6ftGpJ5) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Space EP](https://open.spotify.com/album/3h55iRZXKe5yumnY9gohj3) | 3:50 | 2021-12-17 | 2022-07-28 |
 | [Special Guest](https://open.spotify.com/track/1xJkYmde9IQYvLfq0lVsSe) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Special Guest EP](https://open.spotify.com/album/6RkoUsaXtqM7bKZdeguBYm) | 3:31 | 2022-07-22 |  |
 | [Special Guest](https://open.spotify.com/track/36ULZ4UnKmYje4E74xNd9p) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Special Guest EP](https://open.spotify.com/album/7KLEYOgwcEUHInKhAuKbO2) | 3:31 | 2021-12-17 | 2022-07-29 |
-| [Stampede \(feat\. Fatman Scoop\)](https://open.spotify.com/track/4Gjh31eezrqWzXcYJQWbCw) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Stampede \(feat\. Fatman Scoop\)](https://open.spotify.com/album/1TQoiu9ZIQtBLTC975iZ9X) | 2:40 | 2021-12-17 |  |
+| [Stampede \(feat\. Fatman Scoop\)](https://open.spotify.com/track/4Gjh31eezrqWzXcYJQWbCw) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Stampede \(feat\. Fatman Scoop\)](https://open.spotify.com/album/1TQoiu9ZIQtBLTC975iZ9X) | 2:40 | 2021-12-17 | 2022-08-01 |
 | [Stand By Me](https://open.spotify.com/track/4z6JhOgdaVoP4WR3gjftBJ) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Stand By Me](https://open.spotify.com/album/5R4PlfnRbAsDQoCBpArhDK) | 4:12 | 2021-12-17 | 2022-03-12 |
 | [Stompi Boi](https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD) | [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D), [Dr\. Lobster](https://open.spotify.com/artist/6rAYLpYH7blCH8exP3DboL) | [FuntCase Presents: DPMO, Vol\. 4](https://open.spotify.com/album/6WVnsgbLJ2WkiA616PCdwu) | 5:42 | 2021-12-17 | 2022-03-05 |
 | [Street \- PEEKABOO Remix](https://open.spotify.com/track/202xexTyHxpvi6aqaaGEYq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Street \(PEEKABOO Remix\)](https://open.spotify.com/album/61xOtAdVCQIj6Ipt4MzgXd) | 4:11 | 2022-02-18 |  |
@@ -198,6 +198,7 @@
 | [The Pluck Song](https://open.spotify.com/track/7gTGDYmGSfSTLmrFw05ePe) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [The Pluck Song](https://open.spotify.com/album/3A86pcryv8EzIfFxVEIT1f) | 3:45 | 2021-12-17 | 2022-07-29 |
 | [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 | 2021-12-17 |  |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-12-17 | 2022-03-12 |
+| [The Takeover](https://open.spotify.com/track/7K8fmTPRda4YWsBTnin2nr) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [The Living Proof](https://open.spotify.com/artist/0ugBL1a1T65aLKkctOHh2d) | [The Takeover](https://open.spotify.com/album/4iaLkyelNjYfqcQlan0zVl) | 3:40 | 2022-07-29 |  |
 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 | 2022-06-24 |  |
 | [Thermos](https://open.spotify.com/track/7rRMDmpE2mafOZwMtIyEe4) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Staysick](https://open.spotify.com/artist/45uC5ia7f1oj4TGlOSbtC4) | [Untouchable EP](https://open.spotify.com/album/0XX9TG7A9lvoB1IxoMRlES) | 3:45 | 2021-12-17 | 2022-03-12 |
 | [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2022-04-15 |  |

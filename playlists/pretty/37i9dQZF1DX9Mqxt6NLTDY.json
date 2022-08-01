@@ -1,12 +1,12 @@
 {
   "description": "Post-hardcore. Post-punk. Post-rock. Post-everything. Cover: Metz",
-  "num_followers": 13944,
+  "num_followers": 14069,
   "original_name": "All Things Post",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMDNjYjZlNjVlOTJhNzRjNWJhZDIxZmNmYjY0YTE1M2Jk",
+  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMDcxOTk3MWIwODYzYWI1YWYyMWE5YzM3MTViMmJhMzE3",
   "tracks": [
     {
       "added_at": "2021-09-02 23:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Brother, Sister",
         "url": "https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 326066,
       "name": "In A Sweater Poorly Knit",
       "url": "https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 247270,
-      "name": "Where Were You When The Sky Opened Up",
-      "url": "https://open.spotify.com/track/1SgQ50tUgpiQRe8CEyAuls"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "All Hail Bright Futures (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0Gsm99gxGRwEoEfdzZTDfq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 231653,
       "name": "Big Thinks Do Remarkable",
       "url": "https://open.spotify.com/track/0NNcqfgzO4ivslX7ALoz17"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 247270,
+      "name": "Where Were You When The Sky Opened Up",
+      "url": "https://open.spotify.com/track/1SgQ50tUgpiQRe8CEyAuls"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 173067,
+      "name": "Paradise and Plague",
+      "url": "https://open.spotify.com/track/22JRnh2f6cfT7JYa43yMhk"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "\"Watch out!\"",
         "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 201229,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 173067,
-      "name": "Paradise and Plague",
-      "url": "https://open.spotify.com/track/22JRnh2f6cfT7JYa43yMhk"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 200871,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Disease (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 237202,
       "name": "Threat to Society",
       "url": "https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 200871,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -835,38 +835,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Everything a River Should Be",
-        "url": "https://open.spotify.com/album/7IaSNQjmQl4ZgUREpXLoIz"
-      },
-      "artists": [
-        {
-          "name": "Household",
-          "url": "https://open.spotify.com/artist/40G0WnUak8rnxWtRJaL3ie"
-        }
-      ],
-      "duration_ms": 188362,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/7DVV2unuMtCId3xUUbKoOU"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Feather",
-        "url": "https://open.spotify.com/album/6A1cxsuqY2zWZoECTwf6EN"
-      },
-      "artists": [
-        {
-          "name": "Gutter King",
-          "url": "https://open.spotify.com/artist/2maWSBlRcolvf4ZGpHGwqg"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/6V39ELTauvndt4udpWIQcY"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5v1nEWLED30iSsHfkrF34f"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 188990,
       "name": "Peace Signs",
       "url": "https://open.spotify.com/track/7LlDiLN477LKJ5XbCt61LE"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Everything a River Should Be",
+        "url": "https://open.spotify.com/album/7IaSNQjmQl4ZgUREpXLoIz"
+      },
+      "artists": [
+        {
+          "name": "Household",
+          "url": "https://open.spotify.com/artist/40G0WnUak8rnxWtRJaL3ie"
+        }
+      ],
+      "duration_ms": 188362,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/7DVV2unuMtCId3xUUbKoOU"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Feather",
+        "url": "https://open.spotify.com/album/6A1cxsuqY2zWZoECTwf6EN"
+      },
+      "artists": [
+        {
+          "name": "Gutter King",
+          "url": "https://open.spotify.com/artist/2maWSBlRcolvf4ZGpHGwqg"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/6V39ELTauvndt4udpWIQcY"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3H69MrgNv9Oc0zsam8VYQ9"
-      },
-      "artists": [
-        {
-          "name": "Introvert",
-          "url": "https://open.spotify.com/artist/7FwkSwnzWbhUzwJEwlqlJw"
-        }
-      ],
-      "duration_ms": 186535,
-      "name": "December",
-      "url": "https://open.spotify.com/track/63CWRhFuTxwv2oFAoaGtEH"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "The Coldest Fire",
         "url": "https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 232484,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3H69MrgNv9Oc0zsam8VYQ9"
+      },
+      "artists": [
+        {
+          "name": "Introvert",
+          "url": "https://open.spotify.com/artist/7FwkSwnzWbhUzwJEwlqlJw"
+        }
+      ],
+      "duration_ms": 186535,
+      "name": "December",
+      "url": "https://open.spotify.com/track/63CWRhFuTxwv2oFAoaGtEH"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Body Crash / Sempre Delusione",
-        "url": "https://open.spotify.com/album/2gAaXkw8fF499AgOSKyXDT"
-      },
-      "artists": [
-        {
-          "name": "His Electro Blue Voice",
-          "url": "https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Body Crash",
-      "url": "https://open.spotify.com/track/5XsJi5tEp7kSqhcMm7z5gq"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Royal Headache",
         "url": "https://open.spotify.com/album/1GXo6hwDZtb3FCCUf7Kx47"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 133506,
       "name": "Psychotic Episode",
       "url": "https://open.spotify.com/track/7sccWyVGdMHmxGWvZGi934"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Body Crash / Sempre Delusione",
+        "url": "https://open.spotify.com/album/2gAaXkw8fF499AgOSKyXDT"
+      },
+      "artists": [
+        {
+          "name": "His Electro Blue Voice",
+          "url": "https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Body Crash",
+      "url": "https://open.spotify.com/track/5XsJi5tEp7kSqhcMm7z5gq"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Fluorescent",
-        "url": "https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV"
+        "name": "Creatures",
+        "url": "https://open.spotify.com/album/4JoWs1XHwoZ2LFRQOG7YeX"
       },
       "artists": [
         {
-          "name": "Life Awaits",
-          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
-        },
-        {
-          "name": "\u963f\u514b\u6c5f",
-          "url": "https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 228728,
-      "name": "Everlast",
-      "url": "https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF"
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1387,18 +1383,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Creatures",
-        "url": "https://open.spotify.com/album/4JoWs1XHwoZ2LFRQOG7YeX"
+        "name": "Fluorescent",
+        "url": "https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "Life Awaits",
+          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
+        },
+        {
+          "name": "\u963f\u514b\u6c5f",
+          "url": "https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U"
         }
       ],
-      "duration_ms": 212910,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ"
+      "duration_ms": 228728,
+      "name": "Everlast",
+      "url": "https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Ain't Nice",
+        "url": "https://open.spotify.com/album/1A8sXhfgBcSCR1jV59E6A4"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212968,
+      "name": "Ain't Nice",
+      "url": "https://open.spotify.com/track/5p0PGpq1k7lEGSCmmHP8WG"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Equivalency",
         "url": "https://open.spotify.com/album/3G4cHtqrodOd8owrtcorRZ"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Is Survived By",
-        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is Survived By",
-      "url": "https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },
@@ -1515,34 +1515,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Colours of You",
-        "url": "https://open.spotify.com/album/2h4he2Vhja9D51uRGvxd3S"
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
       "artists": [
         {
-          "name": "VIOLET NIGHT",
-          "url": "https://open.spotify.com/artist/6yftgrG6pbxZFCygrw2rZB"
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 271512,
-      "name": "Choir of Your Mind",
-      "url": "https://open.spotify.com/track/4ifTHNgEdmLochZvS66N2j"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Ain't Nice",
-        "url": "https://open.spotify.com/album/1A8sXhfgBcSCR1jV59E6A4"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 212968,
-      "name": "Ain't Nice",
-      "url": "https://open.spotify.com/track/5p0PGpq1k7lEGSCmmHP8WG"
+      "duration_ms": 210173,
+      "name": "Is Survived By",
+      "url": "https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 175000,
       "name": "Ambulance vs. Ambulance",
       "url": "https://open.spotify.com/track/2ixtfTdLKJxZiDEPk7ykHt"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Colours of You",
+        "url": "https://open.spotify.com/album/2h4he2Vhja9D51uRGvxd3S"
+      },
+      "artists": [
+        {
+          "name": "VIOLET NIGHT",
+          "url": "https://open.spotify.com/artist/6yftgrG6pbxZFCygrw2rZB"
+        }
+      ],
+      "duration_ms": 271512,
+      "name": "Choir of Your Mind",
+      "url": "https://open.spotify.com/track/4ifTHNgEdmLochZvS66N2j"
     },
     {
       "added_at": "2021-09-02 23:00:00",

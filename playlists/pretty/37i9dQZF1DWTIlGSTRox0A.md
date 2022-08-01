@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIlGSTRox0A.md) - [plain]
 
 > Riscopri le più grandi hit del 2007! Cover: Amy Winehouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,445 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,452 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIlGSTRox0A.md) - [plain]
 | 71 | [I Tried](https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 4:47 |
 | 72 | [Make Me Better](https://open.spotify.com/track/0YkJU6TjjwzsVXUPRIO0DB) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [From Nothin' To Somethin' \(Bonus Track Version\)](https://open.spotify.com/album/6t5g3iBwXlDWXhSZbDonrJ) | 4:13 |
 | 73 | [This Is Why I'm Hot](https://open.spotify.com/track/0AA6zq5ArZ1sSH7VIMi4NK) | [MiMS](https://open.spotify.com/artist/76RrKpsvOmSKG8CIjROdSG) | [Music Is My Savior](https://open.spotify.com/album/42c0PgLPx6qRCZCzB8d7Pk) | 4:13 |
-| 74 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
-| 75 | [On the Hotline \- Amended Version](https://open.spotify.com/track/1zyqZONW985Cs4osz9wlsu) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Late Night Special](https://open.spotify.com/album/0BHy9WW3l3NET1kmkldPtv) | 4:02 |
+| 74 | [On the Hotline \- Amended Version](https://open.spotify.com/track/1zyqZONW985Cs4osz9wlsu) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Late Night Special](https://open.spotify.com/album/0BHy9WW3l3NET1kmkldPtv) | 4:02 |
+| 75 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
 | 76 | [The Way I Live \- Main Explicit](https://open.spotify.com/track/68Zq7PMcPIQE8ol1x3gAqw) | [Baby Boy Da Prince](https://open.spotify.com/artist/15Y1yUEchPPl4w20CLvFyb), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Across The Water](https://open.spotify.com/album/73ey7ww1e9zDAoeRqyM6sB) | 5:24 |
 | 77 | [Cupid's Chokehold / Breakfast in America \- Radio Mix](https://open.spotify.com/track/6ajyEEzWZbw8ycDcJAN099) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/album/2BUMWHctjCsVidogtJxfDK) | 3:57 |
 | 78 | [Wait for You](https://open.spotify.com/track/0U969xYNlAyfzi8P1TaO7u) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Elliott Yamin](https://open.spotify.com/album/4G390E1M4qCVxgAcbYaFwu) | 4:21 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIlGSTRox0A.md) - [plain]
 | 90 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
 | 91 | [Your Love Alone Is Not Enough \(feat\. Nina Persson\)](https://open.spotify.com/track/37pFLuNVnAJQL9ysRoKTdy) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c) | [Send Away The Tigers](https://open.spotify.com/album/4ziF4MNYqoNM4XiSEybYYs) | 3:55 |
 | 92 | [Pop, Lock & Drop It \- Video Edit](https://open.spotify.com/track/6DbqCKweKwVkHgRv1CI53D) | [Huey](https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf) | [Notebook Paper](https://open.spotify.com/album/2o5LE6Q7svPXHmwM75xWbv) | 4:21 |
-| 93 | [Home](https://open.spotify.com/track/7BbZiTZdEF7enOkY6BmUV2) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Back Home](https://open.spotify.com/album/0K3igCblJjDIJcFbaOHlxD) | 3:26 |
-| 94 | [That's That Shit](https://open.spotify.com/track/3J58iVk8OXYAGG4YvOKG8u) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [Sexual Eruption](https://open.spotify.com/album/6RU7Qo0oVDHePofiPH9GXZ) | 4:17 |
+| 93 | [That's That Shit](https://open.spotify.com/track/3J58iVk8OXYAGG4YvOKG8u) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [Sexual Eruption](https://open.spotify.com/album/6RU7Qo0oVDHePofiPH9GXZ) | 4:17 |
+| 94 | [Home](https://open.spotify.com/track/7BbZiTZdEF7enOkY6BmUV2) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Back Home](https://open.spotify.com/album/0K3igCblJjDIJcFbaOHlxD) | 3:26 |
 | 95 | [Proper Education \- Radio Edit](https://open.spotify.com/track/06Vw2ZOhalTwEw4PhoGRSX) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R), [Floyd](https://open.spotify.com/artist/4k7Ig8eYfIKCQZGXqDg1Uh) | [Proper Education \- EP](https://open.spotify.com/album/2OOBM43Dg3jHlv48Hf8vzs) | 3:18 |
 | 96 | [Cry For You \- Radio Mix](https://open.spotify.com/track/3BInmwpVjbcr3XyW6qGZ2Q) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [September](https://open.spotify.com/album/3hAQd7sXzcFJApKbZfQhvs) | 3:28 |
 | 97 | [Sognami](https://open.spotify.com/track/3XryljdYhtzUe7mOGNy3C5) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [BIAGIO](https://open.spotify.com/album/740IiNnnKPXz8qrjiuyfdR) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIlGSTRox0A.md) - [plain]
 | 99 | [Runaway Love](https://open.spotify.com/track/3QnEp4rluCxUwgpXT43jmC) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Release Therapy](https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg) | 4:40 |
 | 100 | [Walk It Out](https://open.spotify.com/track/7oyNjeXQ57dASDnqg8wbbl) | [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Twerking Hitz \(Bonus Track Edition\)](https://open.spotify.com/album/0vdebxnOOAsy9KTBQH5ngQ) | 2:53 |
 
-Snapshot ID: `MTYwNDUwMDMxOCwwMDAwMDAwMDkxNmQ1YTgwZmRkZWQyMTBhNmMxZjdiN2VkNzAxOWRl`
+Snapshot ID: `MTYwNDUwMDMxOCwwMDAwMDAwMGIzZmFkYTExZDIxZWQ1NzA4Y2RlMWM0M2I4NWMxNDEy`

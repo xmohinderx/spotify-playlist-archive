@@ -1,12 +1,12 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: \bYOUNGTAK(\uc601\ud0c1) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 15362,
+  "num_followers": 15375,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjgzMSwwMDAwMDAwMDE5ZjExNmVhMzMxYzIyMTY4MmI1MzYwOGI1MWFjOGQx",
+  "snapshot_id": "MTY1ODQ4MjgzMSwwMDAwMDAwMDE3NGIwNTI0YzUxYzA2Y2FmMmQ4Y2M3MTA5MGU0MjVl",
   "tracks": [
     {
       "added_at": "2022-07-22 09:40:31",
@@ -447,22 +447,18 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "Hit it off",
-        "url": "https://open.spotify.com/album/11Fp25BbKskMcUdFGvhr43"
+        "name": "\uc544\ud649 \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2"
       },
       "artists": [
         {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        },
-        {
-          "name": "Nam Seung Min",
-          "url": "https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA"
+          "name": "Na Hoon-A",
+          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Hit it off (Feat. Nam Seung Min) (Prod. Young Tak)",
-      "url": "https://open.spotify.com/track/3DhY0UqxDcqDWmXMjiQMGJ"
+      "duration_ms": 278413,
+      "name": "\ud14c\uc2a4\ud615!",
+      "url": "https://open.spotify.com/track/57oDPVvNldgc6setk832Ev"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -499,18 +495,22 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "\uc544\ud649 \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2"
+        "name": "Hit it off",
+        "url": "https://open.spotify.com/album/11Fp25BbKskMcUdFGvhr43"
       },
       "artists": [
         {
-          "name": "Na Hoon-A",
-          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        },
+        {
+          "name": "Nam Seung Min",
+          "url": "https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA"
         }
       ],
-      "duration_ms": 278413,
-      "name": "\ud14c\uc2a4\ud615!",
-      "url": "https://open.spotify.com/track/57oDPVvNldgc6setk832Ev"
+      "duration_ms": 182186,
+      "name": "Hit it off (Feat. Nam Seung Min) (Prod. Young Tak)",
+      "url": "https://open.spotify.com/track/3DhY0UqxDcqDWmXMjiQMGJ"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "Best of Mr. Trot Preliminary",
-        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
-      },
-      "artists": [
-        {
-          "name": "Lee Chanwon",
-          "url": "https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k"
-        }
-      ],
-      "duration_ms": 148026,
-      "name": "Jinttopagi",
-      "url": "https://open.spotify.com/track/5vg0jpcaunOW2db4wxiF6n"
-    },
-    {
-      "added_at": "2022-07-22 09:40:31",
-      "album": {
         "name": "Because of the money",
         "url": "https://open.spotify.com/album/4VLRHXiyQqExb7yiivNdnQ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 190200,
       "name": "Because of the money (feat. Zerotak)",
       "url": "https://open.spotify.com/track/2WQqDPKcuS2zc8O138hakE"
+    },
+    {
+      "added_at": "2022-07-22 09:40:31",
+      "album": {
+        "name": "Best of Mr. Trot Preliminary",
+        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
+      },
+      "artists": [
+        {
+          "name": "Lee Chanwon",
+          "url": "https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Jinttopagi",
+      "url": "https://open.spotify.com/track/5vg0jpcaunOW2db4wxiF6n"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "Love call center PART19",
-        "url": "https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb"
+        "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
+        "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
       },
       "artists": [
         {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        },
-        {
-          "name": "YOUNGTAK",
-          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
+          "name": "\uc624\uc2b9\uadfc",
+          "url": "https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg"
         }
       ],
-      "duration_ms": 238013,
-      "name": "Parting story",
-      "url": "https://open.spotify.com/track/6oipGkRDOmaMPXxoBop4dd"
+      "duration_ms": 199171,
+      "name": "\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c",
+      "url": "https://open.spotify.com/track/7ESq2ZGhHOdvtuA96W2e6E"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -1107,22 +1103,6 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
-        "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
-      },
-      "artists": [
-        {
-          "name": "\uc624\uc2b9\uadfc",
-          "url": "https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg"
-        }
-      ],
-      "duration_ms": 199171,
-      "name": "\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c",
-      "url": "https://open.spotify.com/track/7ESq2ZGhHOdvtuA96W2e6E"
-    },
-    {
-      "added_at": "2022-07-22 09:40:31",
-      "album": {
         "name": "\ud55c\uc794\ud574",
         "url": "https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 199353,
       "name": "\ud55c\uc794\ud574",
       "url": "https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW"
+    },
+    {
+      "added_at": "2022-07-22 09:40:31",
+      "album": {
+        "name": "Love call center PART19",
+        "url": "https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        },
+        {
+          "name": "YOUNGTAK",
+          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Parting story",
+      "url": "https://open.spotify.com/track/6oipGkRDOmaMPXxoBop4dd"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "My Favorite",
-        "url": "https://open.spotify.com/album/4mVevEL7z6Ecq0RiHyzGBS"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/0CShDS3nUANZCrvx6BoGKe"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "My Favorite",
-      "url": "https://open.spotify.com/track/232we5jmBvvqHDoCEiJEsK"
-    },
-    {
-      "added_at": "2022-07-22 09:40:31",
-      "album": {
         "name": "addiction",
         "url": "https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 210536,
       "name": "addiction",
       "url": "https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck"
+    },
+    {
+      "added_at": "2022-07-22 09:40:31",
+      "album": {
+        "name": "My Favorite",
+        "url": "https://open.spotify.com/album/4mVevEL7z6Ecq0RiHyzGBS"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/0CShDS3nUANZCrvx6BoGKe"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "My Favorite",
+      "url": "https://open.spotify.com/track/232we5jmBvvqHDoCEiJEsK"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ"
-      },
-      "artists": [
-        {
-          "name": "Jang Yoon-Jeong",
-          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "I love you.",
-      "url": "https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X"
-    },
-    {
-      "added_at": "2022-07-22 09:40:31",
-      "album": {
         "name": "Music source of <MissTrot2> FINAL Songwriter Mission",
         "url": "https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ"
+      },
+      "artists": [
+        {
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "I love you.",
+      "url": "https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X"
+    },
+    {
+      "added_at": "2022-07-22 09:40:31",
+      "album": {
         "name": "Love call center PART12",
         "url": "https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 188693,
       "name": "Maria",
       "url": "https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL"
-    },
-    {
-      "added_at": "2022-07-22 09:40:31",
-      "album": {
-        "name": "We Are Family",
-        "url": "https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq"
-      },
-      "artists": [
-        {
-          "name": "Kim Ho Joong",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "Grandmother",
-      "url": "https://open.spotify.com/track/0IhrwXA3LrbFzPZDOgkmeO"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
+        "name": "We Are Family",
+        "url": "https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Joong",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "duration_ms": 215653,
+      "name": "Grandmother",
+      "url": "https://open.spotify.com/track/0IhrwXA3LrbFzPZDOgkmeO"
+    },
+    {
+      "added_at": "2022-07-22 09:40:31",
+      "album": {
         "name": "Taste of life",
         "url": "https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "Love Cowboy",
-        "url": "https://open.spotify.com/album/0YBzjXf261UR4wQ2n1GtXx"
-      },
-      "artists": [
-        {
-          "name": "Ko Jaegeun",
-          "url": "https://open.spotify.com/artist/0gRX6Q2nFjWXH7cwAgmeyb"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Love Cowboy",
-      "url": "https://open.spotify.com/track/7yBH4eMEkQaWP5fXppUGyx"
-    },
-    {
-      "added_at": "2022-07-22 09:40:31",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 255200,
       "name": "\ubb34\uba85\ubc30\uc6b0",
       "url": "https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0"
+    },
+    {
+      "added_at": "2022-07-22 09:40:31",
+      "album": {
+        "name": "Love Cowboy",
+        "url": "https://open.spotify.com/album/0YBzjXf261UR4wQ2n1GtXx"
+      },
+      "artists": [
+        {
+          "name": "Ko Jaegeun",
+          "url": "https://open.spotify.com/artist/0gRX6Q2nFjWXH7cwAgmeyb"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Love Cowboy",
+      "url": "https://open.spotify.com/track/7yBH4eMEkQaWP5fXppUGyx"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "Best of Mr. Trot Preliminary",
-        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Period of spring poverty",
-      "url": "https://open.spotify.com/track/1LggILZOGP60h73FgLPGpX"
-    },
-    {
-      "added_at": "2022-07-22 09:40:31",
-      "album": {
         "name": "YOU & ME",
         "url": "https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 239600,
       "name": "No umbrella",
       "url": "https://open.spotify.com/track/0omOUEkR708F5Pm3dNRCzc"
+    },
+    {
+      "added_at": "2022-07-22 09:40:31",
+      "album": {
+        "name": "Best of Mr. Trot Preliminary",
+        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Period of spring poverty",
+      "url": "https://open.spotify.com/track/1LggILZOGP60h73FgLPGpX"
     },
     {
       "added_at": "2022-07-22 09:40:31",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-07-22 09:40:31",
       "album": {
-        "name": "Music source of Mr.Trot Trot Aid Best",
-        "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
-      },
-      "artists": [
-        {
-          "name": "Noh Jihun",
-          "url": "https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "I happened to see her",
-      "url": "https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q"
-    },
-    {
-      "added_at": "2022-07-22 09:40:31",
-      "album": {
         "name": "You made me cry",
         "url": "https://open.spotify.com/album/1hHD8rerF6DiaAzdBy6UHY"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 214812,
       "name": "You made me cry",
       "url": "https://open.spotify.com/track/6NLEgwCvcAVJWf5a8DohHO"
+    },
+    {
+      "added_at": "2022-07-22 09:40:31",
+      "album": {
+        "name": "Music source of Mr.Trot Trot Aid Best",
+        "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
+      },
+      "artists": [
+        {
+          "name": "Noh Jihun",
+          "url": "https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "I happened to see her",
+      "url": "https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q"
     }
   ],
   "unique_name": "K-Trot Stars",

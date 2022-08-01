@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,469,864 likes - 99 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,487,300 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,21 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 81 | [LETTERS TO BANKSY](https://open.spotify.com/track/3qwlyPrjF2GJLbm7r2D2jO) | [PHONK WALKER](https://open.spotify.com/artist/4DotIIZU4xta9EFAMvO6Kx) | [LETTERS TO BANKSY](https://open.spotify.com/album/7iJ1abzYUYPnAyDUD7hBs5) | 2:59 |
 | 82 | [Toxic](https://open.spotify.com/track/2mPChVIzI68uupwyAKhDVv) | [SIDRENCHIK](https://open.spotify.com/artist/4u7VPxU2FXLXFJB20hmTAN) | [Toxic](https://open.spotify.com/album/0MOEqFRZJP8tB9ECbbRtE3) | 2:16 |
 | 83 | [BLACKHOUSE](https://open.spotify.com/track/2Ypu9Z7VgwQhinYQvtYdad) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [BLACKHOUSE](https://open.spotify.com/album/6G88Z2l55DAAS4krrjxiFj) | 1:40 |
-| 84 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
-| 85 | [KNIGHT](https://open.spotify.com/track/3oN1sJcKLYbc8z4tO6sjVE) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [KNIGHT](https://open.spotify.com/album/3bAXICFyUXi62zJocAPhd3) | 2:02 |
-| 86 | [POLTERGEIST](https://open.spotify.com/track/7MJ1uKHspGlEng5tuHoQLE) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [POLTERGEIST](https://open.spotify.com/album/20K8uAeyCqqcz0zkI4aKj8) | 2:20 |
-| 87 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 |
-| 88 | [BREAKDOWN](https://open.spotify.com/track/49koCgN91HKGyBjYWwIQic) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [BREAKDOWN](https://open.spotify.com/album/5JbAm1Q2xoIn3JMF9t1jhz) | 2:26 |
-| 89 | [ADRENALIN](https://open.spotify.com/track/1xoigddYLuUFszTRCoPvkr) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [ADRENALIN](https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw) | 1:58 |
-| 90 | [KILLKA](https://open.spotify.com/track/3SQV31uJMStclklmwxQHe1) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [FROM THE NORTH](https://open.spotify.com/album/7nHgA6IJK5uBMHU9alIroL) | 2:22 |
-| 91 | [HIT THE GAS](https://open.spotify.com/track/7BhiI0Z3iqqblrHlEhOVge) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [HIT THE GAS](https://open.spotify.com/album/5aEuFp7TWiZT88x3LNNRlw) | 2:08 |
-| 92 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 |
-| 93 | [Tokyo Streets](https://open.spotify.com/track/00qBDRxq3cl7R827g8rbzC) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O), [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Tokyo Streets](https://open.spotify.com/album/5iHTpa17Mm3ErYdZ291e40) | 1:45 |
-| 94 | [HEADLIGHTS FLASHES](https://open.spotify.com/track/1CWlthc9rA4NwNeLu6dgP5) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [SWITCHING LANES](https://open.spotify.com/album/4BiEgXM0oeleWNNEevB16J) | 2:42 |
-| 95 | [CRIMINAL MANE](https://open.spotify.com/track/3W5AJtjwTqzYJWhF2iBKAE) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [CRIMINAL MANE](https://open.spotify.com/album/0jxiVbN7Wpdwppd7f5vIhK) | 2:33 |
-| 96 | [Takizawa](https://open.spotify.com/track/4sWdEdwQ9qv31YEqj6qFI6) | [CASH GROWE](https://open.spotify.com/artist/7eejBhyXLSFgUMq7DFQO3V) | [Takizawa](https://open.spotify.com/album/7fKJxDb9TVLkhnniBoBgs1) | 2:58 |
-| 97 | [HOUSE](https://open.spotify.com/track/0oaMjtPZszuZSkSC1Fzt3e) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [HOUSE](https://open.spotify.com/album/0GIik6K8K8epePmyJYATya) | 2:12 |
-| 98 | [Phonk Save the World](https://open.spotify.com/track/7ze3dmIW0eC4ZL2cfReTWO) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [Phonk Save the World](https://open.spotify.com/album/1WrSSY9O3baLAfqnsnTXsz) | 2:03 |
-| 99 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
+| 84 | [L.V.](https://open.spotify.com/track/40p7aDMIgJZ6ELhfPMcCoI) | [dopeskullz](https://open.spotify.com/artist/0dNsB2HiVW3XGc31WXsIUa) | [L.V.](https://open.spotify.com/album/4bBGtuNCUaUVL662GFxjbd) | 2:54 |
+| 85 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
+| 86 | [KNIGHT](https://open.spotify.com/track/3oN1sJcKLYbc8z4tO6sjVE) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [KNIGHT](https://open.spotify.com/album/3bAXICFyUXi62zJocAPhd3) | 2:02 |
+| 87 | [POLTERGEIST](https://open.spotify.com/track/7MJ1uKHspGlEng5tuHoQLE) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [POLTERGEIST](https://open.spotify.com/album/20K8uAeyCqqcz0zkI4aKj8) | 2:20 |
+| 88 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 |
+| 89 | [BREAKDOWN](https://open.spotify.com/track/49koCgN91HKGyBjYWwIQic) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [BREAKDOWN](https://open.spotify.com/album/5JbAm1Q2xoIn3JMF9t1jhz) | 2:26 |
+| 90 | [ADRENALIN](https://open.spotify.com/track/1xoigddYLuUFszTRCoPvkr) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [ADRENALIN](https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw) | 1:58 |
+| 91 | [KILLKA](https://open.spotify.com/track/3SQV31uJMStclklmwxQHe1) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [FROM THE NORTH](https://open.spotify.com/album/7nHgA6IJK5uBMHU9alIroL) | 2:22 |
+| 92 | [HIT THE GAS](https://open.spotify.com/track/7BhiI0Z3iqqblrHlEhOVge) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [HIT THE GAS](https://open.spotify.com/album/5aEuFp7TWiZT88x3LNNRlw) | 2:08 |
+| 93 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 |
+| 94 | [Tokyo Streets](https://open.spotify.com/track/00qBDRxq3cl7R827g8rbzC) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O), [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Tokyo Streets](https://open.spotify.com/album/5iHTpa17Mm3ErYdZ291e40) | 1:45 |
+| 95 | [HEADLIGHTS FLASHES](https://open.spotify.com/track/1CWlthc9rA4NwNeLu6dgP5) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [SWITCHING LANES](https://open.spotify.com/album/4BiEgXM0oeleWNNEevB16J) | 2:42 |
+| 96 | [CRIMINAL MANE](https://open.spotify.com/track/3W5AJtjwTqzYJWhF2iBKAE) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [CRIMINAL MANE](https://open.spotify.com/album/0jxiVbN7Wpdwppd7f5vIhK) | 2:33 |
+| 97 | [Takizawa](https://open.spotify.com/track/4sWdEdwQ9qv31YEqj6qFI6) | [CASH GROWE](https://open.spotify.com/artist/7eejBhyXLSFgUMq7DFQO3V) | [Takizawa](https://open.spotify.com/album/7fKJxDb9TVLkhnniBoBgs1) | 2:58 |
+| 98 | [HOUSE](https://open.spotify.com/track/0oaMjtPZszuZSkSC1Fzt3e) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [HOUSE](https://open.spotify.com/album/0GIik6K8K8epePmyJYATya) | 2:12 |
+| 99 | [Phonk Save the World](https://open.spotify.com/track/7ze3dmIW0eC4ZL2cfReTWO) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [Phonk Save the World](https://open.spotify.com/album/1WrSSY9O3baLAfqnsnTXsz) | 2:03 |
+| 100 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGI3YTUyMjA0MWU5MDliZjc3MTNmN2Y2Zjc1YzRmNTQ3`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGQ2MjM3YjdmYWI3ZTcyOWU4ODU2MGI5MmQ5MTEzYWZj`

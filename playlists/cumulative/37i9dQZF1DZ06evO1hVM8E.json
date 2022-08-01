@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n A Mi Pap\u00e1",
+        "url": "https://open.spotify.com/album/7vRddwntQQ0bBBzreNKmFL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163143,
+      "name": "Canci\u00f3n A Mi Pap\u00e1",
+      "url": "https://open.spotify.com/track/0Ec1rgYW7VMIhSDIxoa5Di"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n a Mi Pap\u00e1",
         "url": "https://open.spotify.com/album/4z8gWLTm7PUf8CmnLQ1pca"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 170586,
       "name": "El 24 de Junio",
       "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
@@ -297,7 +315,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 210666,
       "name": "El Gato Negro",
       "url": "https://open.spotify.com/track/7qQNloY3tLiCjjuXOMhA9O"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 192946,
       "name": "Le\u00f1a de Pirul",
       "url": "https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274314,
       "name": "No Dejes Que",
       "url": "https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 179777,
       "name": "Pelotero a la Bola",
       "url": "https://open.spotify.com/track/4tftetgzdzAkomjDyI65eK"

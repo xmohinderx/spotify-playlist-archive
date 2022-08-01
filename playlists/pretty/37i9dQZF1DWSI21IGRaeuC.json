@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 4194,
+  "num_followers": 4251,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDY2N2NjODE2NTIxYzk1OTY0YjU3MzI4ZTBlMjllNjll",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDQzMTM2ZjM0MTIzZmQ5YWJiOWJhNmEyOGU0YWNkOWVk",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
     },
     {
-      "added_at": "2022-06-10 14:45:01",
-      "album": {
-        "name": "Superfly",
-        "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 177780,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "So Hot EP",
@@ -597,20 +581,20 @@
       "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-10 14:45:01",
       "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+        "name": "Superfly",
+        "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
       },
       "artists": [
         {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
+      "duration_ms": 177780,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
     },
     {
       "added_at": "2022-07-08 17:12:43",
@@ -627,6 +611,22 @@
       "duration_ms": 422250,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+      },
+      "artists": [
+        {
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -717,6 +717,30 @@
       "url": "https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Snatch! OFF 071",
+        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        },
+        {
+          "name": "Mikey V",
+          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
+        }
+      ],
+      "duration_ms": 186190,
+      "name": "About The Music",
+      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
+    },
+    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Hydroponic EP",
@@ -749,22 +773,6 @@
       "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Secret Weapons Part 14 V/VI",
-        "url": "https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        }
-      ],
-      "duration_ms": 427036,
-      "name": "BAD (B\u00f6ser Als Du)",
-      "url": "https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Collide",
@@ -783,6 +791,22 @@
       "duration_ms": 255483,
       "name": "Collide",
       "url": "https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Secret Weapons Part 14 V/VI",
+        "url": "https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        }
+      ],
+      "duration_ms": 427036,
+      "name": "BAD (B\u00f6ser Als Du)",
+      "url": "https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0"
     },
     {
       "added_at": "2022-07-08 17:12:43",
@@ -839,22 +863,6 @@
       "duration_ms": 561280,
       "name": "Magic Moment",
       "url": "https://open.spotify.com/track/6bcShXaH3ur6aM6mDxv95o"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Ramona",
-        "url": "https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 423837,
-      "name": "Ramona",
-      "url": "https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN"
     }
   ],
   "unique_name": "Minimal Tech",

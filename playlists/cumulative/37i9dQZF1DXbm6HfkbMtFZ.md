@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-416 songs - 1 day 1 hr 22 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+417 songs - 1 day 1 hr 26 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Next To You](https://open.spotify.com/track/6tw9QhbPUAfvbtAi2bDvnQ) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 3:35 | 2022-03-30 | 2022-04-16 |
 | [No Better](https://open.spotify.com/track/0DXlHWi8pqB5R2gfzlZx2i) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 4:02 | 2022-03-30 | 2022-04-20 |
 | [No Ending](https://open.spotify.com/track/1wId84Uc14XIEIKfcSYAE0) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/0XoSMRAH1gvIb0c3n5jLET) | 3:53 | 2021-12-16 | 2022-07-28 |
+| [No Ending](https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk) | 3:53 | 2022-07-26 |  |
 | [Northern Lights](https://open.spotify.com/track/3VT2WolplCglmbxCdiFy5A) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Northern Lights](https://open.spotify.com/album/0RvAK6H7VXlTrgoUJ6HlSI) | 4:15 | 2022-03-30 | 2022-04-20 |
 | [Nothing I'd Rather Be \(Than Your Weakness\)](https://open.spotify.com/track/3owHLzUSmcAhtCFT8WZfZb) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [Eccentric Soul: The Forte Label](https://open.spotify.com/album/2odsUYbi8bSi0jkjeAQ4mC) | 3:11 | 2022-03-30 | 2022-04-21 |
 | [Now That Everything's Been Said](https://open.spotify.com/track/2QJKcw2rUb6RUM8uDBPSJq) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:21 | 2021-12-16 | 2022-07-29 |
@@ -412,7 +413,7 @@
 | [wyd](https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/2CH2VAYcNjvq5xA6zeudTt) | 2:54 | 2021-12-16 | 2022-06-15 |
 | [You Ain't The Problem \- Claptone Remix](https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [You Ain't The Problem \(Claptone Remix\)](https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0) | 2:44 | 2021-12-16 | 2022-04-21 |
 | [You Can Have It All](https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM) | 2:54 | 2022-03-30 | 2022-04-21 |
-| [You Don’t Want Me](https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V) | [Wesley Bright](https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj), [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [You Don't Want Me](https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e) | 4:25 | 2022-07-26 |  |
+| [You Don’t Want Me](https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V) | [Wesley Bright](https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj), [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [You Don't Want Me](https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e) | 4:25 | 2022-07-26 | 2022-08-01 |
 | [You Don’t Want Me](https://open.spotify.com/track/7uQQG43MouzO3JmZfnchoc) | [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [Happiness / You Don't Want Me](https://open.spotify.com/album/1NQYKIeybp3YoB8hecwbJu) | 4:25 | 2021-12-16 | 2022-07-29 |
 | [You Just Decided](https://open.spotify.com/track/4y9ZtxBEYxBQzU1hQDtBr3) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [How to Live with a Phantom](https://open.spotify.com/album/7BcMar9TaDywU6GJd7OMRE) | 5:06 | 2022-03-30 | 2022-04-17 |
 | [You Keep Me Waiting](https://open.spotify.com/track/3ZbPMcAQJS0oi6kjy4qBMf) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [FEELS](https://open.spotify.com/album/3mM44rrpdpfsXs6Kk9qJPb) | 4:27 | 2021-12-16 | 2022-07-08 |

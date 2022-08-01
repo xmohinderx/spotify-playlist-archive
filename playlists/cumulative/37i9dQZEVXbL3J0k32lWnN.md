@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-747 songs - 1 day 15 hr 14 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+748 songs - 1 day 15 hr 16 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Avantgarde](https://open.spotify.com/track/5nB3zVeuHoAHmwHQuQqhzD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:46 | 2022-01-15 | 2022-02-13 |
 | [B.O\. Bop](https://open.spotify.com/track/3ZQEA3yfMMVcZYHtjYc1S4) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [B.O\. Bop/Wawa](https://open.spotify.com/album/0yvKiAxti5yd16tJt4FeAU) | 3:13 | 2021-03-27\* | 2021-03-29 |
 | [Baby Boo](https://open.spotify.com/track/1UrIsBtFnNzWh3ENHMsKqm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Baby Boo](https://open.spotify.com/album/4Ef4mh3T7OVtIiFw30VwMv) | 2:39 | 2021-09-19 | 2021-10-10 |
+| [Back 2 Front](https://open.spotify.com/track/3GSdYoWnrEFwWeiO8ediDe) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Back 2 Rave](https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H) | 2:20 | 2022-07-31 |  |
 | [Backseat \(feat\. A2 Difulani\)](https://open.spotify.com/track/1nHt2nHQfNzf99ovxVrnkL) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [A2 Difulani](https://open.spotify.com/artist/51EOxScrkoU00JXiuRMBIY) | [FORZA](https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi) | 2:22 | 2022-03-11 | 2022-03-18 |
 | [Bad Boy](https://open.spotify.com/track/7bZED620EMqO3mFTG7yQnq) | [Anders Matthesen](https://open.spotify.com/artist/7ywx4levGzk6v90WXQToXe) | [Ternet Ninja 2 \(Soundtrack\)](https://open.spotify.com/album/1GL7o6SorQ9Us3qOmt1zT7) | 2:56 | 2021-08-21 | 2021-09-15 |
 | [Bad For Mig](https://open.spotify.com/track/4kmr5n6xnQn85fPC7spk66) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Bad For Mig](https://open.spotify.com/album/4lw1IcKTi6fNVLbmwgYen1) | 2:07 | 2021-06-27 | 2021-07-11 |
@@ -734,7 +735,7 @@
 | [When We Were Young](https://open.spotify.com/track/6O5TrlFWTYvznd9fMC0VvU) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:50 | 2021-10-19 | 2021-10-31 |
 | [When You Danced With Me](https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:50 | 2021-11-07 | 2021-11-08 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-05-22 |
-| [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-09-10 |  |
+| [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-09-10 | 2022-08-01 |
 | [White Christmas](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2021-12-20 | 2021-12-27 |
 | [Window](https://open.spotify.com/track/3UmC20CnRvX0bc1JotlnCy) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Window](https://open.spotify.com/album/71Txi8dyAc3nEXmTGhTw4t) | 2:29 | 2022-04-30 | 2022-05-05 |
 | [Winter Wonderland](https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 2:13 | 2021-12-25 | 2021-12-27 |

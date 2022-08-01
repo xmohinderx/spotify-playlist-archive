@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 10198,
+  "num_followers": 10216,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMDk4NzE0ODM2N2U1YTljOWU1ZDg3OTVhMTE1OTIxNjEx",
+  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMGNiMTU4ZmFiZDVkNDZkZWU3Y2ZkMTNlMzRjMWU5Y2Q3",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
+      },
+      "artists": [
+        {
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+        }
+      ],
+      "duration_ms": 287623,
+      "name": "Mi Novia, Mi Amante y Mujer",
+      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Rey De Corazones",
         "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 288280,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Acusame",
-        "url": "https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI"
-      },
-      "artists": [
-        {
-          "name": "Raffy Matias",
-          "url": "https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l"
-        }
-      ],
-      "duration_ms": 281400,
-      "name": "Quiero Saber de T\u00ed",
-      "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -527,18 +527,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
+        "name": "Acusame",
+        "url": "https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI"
       },
       "artists": [
         {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+          "name": "Raffy Matias",
+          "url": "https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l"
         }
       ],
-      "duration_ms": 287623,
-      "name": "Mi Novia, Mi Amante y Mujer",
-      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
+      "duration_ms": 281400,
+      "name": "Quiero Saber de T\u00ed",
+      "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
     },
     {
       "added_at": "2021-10-19 17:28:22",

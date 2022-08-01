@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,124 likes - 97 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,130 likes - 97 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 63 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 |
 | 64 | [I Already Know](https://open.spotify.com/track/0QHHCbQukI7cduRFgkf7KC) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi) | [I Already Know](https://open.spotify.com/album/72EuxIcv48MPWEEfVtCAp8) | 2:51 |
 | 65 | [Born To Love](https://open.spotify.com/track/3QescF8lu3z2SwgQiRM4AD) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Born To Love](https://open.spotify.com/album/053rIrdwE9icW86rRpVHp8) | 3:07 |
-| 66 | [Members Only \(feat\. Bangkokboy\)](https://open.spotify.com/track/0LsyMXszUJSU6dMygF4j8d) | [BRYN](https://open.spotify.com/artist/2z3JHTHSYMc7CqZSgQqJ1I), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Bangkokboy](https://open.spotify.com/artist/2HLElSllbwwiTppPlCwVFL) | [Members Only \(feat\. Bangkokboy\)](https://open.spotify.com/album/309klDouSMmkfM0ZcObrn3) | 2:54 |
+| 66 | [Members Only \(feat\. Bangkokboy\)](https://open.spotify.com/track/0LsyMXszUJSU6dMygF4j8d) | [BRYN](https://open.spotify.com/artist/1zvn2abDKYPJPjhrftlRqr), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Bangkokboy](https://open.spotify.com/artist/2HLElSllbwwiTppPlCwVFL) | [Members Only \(feat\. Bangkokboy\)](https://open.spotify.com/album/309klDouSMmkfM0ZcObrn3) | 2:54 |
 | 67 | [Hold The Girl](https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw) | 4:05 |
 | 68 | [What About Me](https://open.spotify.com/track/2EIRs4SUAsJBbzqQVkLSp1) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [What About Me](https://open.spotify.com/album/3eecVVjE70mnWV4R4uari7) | 3:25 |
 | 69 | [Up to You](https://open.spotify.com/track/3ND6YGZ4EYZ5Q5emZlCdvr) | [Tiana Kocher](https://open.spotify.com/artist/0aQl6dYFpdEuGuRVzcUBE6) | [Up to You](https://open.spotify.com/album/2vDVIxoBO0CRe0oK7p1DfV) | 3:06 |

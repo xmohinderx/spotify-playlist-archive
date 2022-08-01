@@ -1,12 +1,12 @@
 {
   "description": "Ska con cuadritos blancos, negros, y tricolores. Los de Abajo en portada.",
-  "num_followers": 4848,
+  "num_followers": 4883,
   "original_name": "Ska Mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MDI5NywwMDAwMDAwMGVlZTRhN2M5OGU5NDEzNjMwYzk3NzU2N2VmYzI2ZDYy",
+  "snapshot_id": "MTY1Nzg2MDI5NywwMDAwMDAwMDk5NTI2MjhkODZiNGFmOWI4NTc1ZmM3Y2EyZmJiZWEy",
   "tracks": [
     {
       "added_at": "2022-03-18 06:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Suda Mi Cuerpo",
-      "url": "https://open.spotify.com/track/3UAN9TI0GfhBtPnZYd9Llk"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "El Precio del Sudor",
         "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 164186,
       "name": "Somos del Barrio",
       "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
+      },
+      "artists": [
+        {
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Suda Mi Cuerpo",
+      "url": "https://open.spotify.com/track/3UAN9TI0GfhBtPnZYd9Llk"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "No Hemos Muerto",
-      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
+      },
+      "artists": [
+        {
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Mejores Tiempos",
+      "url": "https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
+        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
       },
       "artists": [
         {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Mejores Tiempos",
-      "url": "https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw"
+      "duration_ms": 209306,
+      "name": "No Hemos Muerto",
+      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Dale un Dulze al Chamakito!!!",
-        "url": "https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv"
-      },
-      "artists": [
-        {
-          "name": "Los Korucos",
-          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
-        }
-      ],
-      "duration_ms": 229431,
-      "name": "Dame un Tiempecito",
-      "url": "https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
+        "name": "Dale un Dulze al Chamakito!!!",
+        "url": "https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv"
       },
       "artists": [
         {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+          "name": "Los Korucos",
+          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Cenizas en el Mar",
-      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
+      "duration_ms": 229431,
+      "name": "Dame un Tiempecito",
+      "url": "https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -851,6 +835,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "La Rebeli\u00f3n",
+        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 271301,
+      "name": "Y la Recuerdo de Ayer",
+      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Armada Hasta los Dientes V 1.5",
         "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "La Rebeli\u00f3n",
-        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
         }
       ],
-      "duration_ms": 271301,
-      "name": "Y la Recuerdo de Ayer",
-      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
+      "duration_ms": 170826,
+      "name": "Cenizas en el Mar",
+      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -927,6 +943,22 @@
       "duration_ms": 189786,
       "name": "Se Va",
       "url": "https://open.spotify.com/track/7z1CXrg9Gc6b3hJlFzRhco"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+        }
+      ],
+      "duration_ms": 254589,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
     },
     {
       "added_at": "2022-04-22 05:00:00",
@@ -947,22 +979,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
-      },
-      "artists": [
-        {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
-        }
-      ],
-      "duration_ms": 254589,
-      "name": "Algo De Suerte",
-      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -975,26 +991,6 @@
       "duration_ms": 219733,
       "name": "Su Majestad",
       "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "M\u00e1s Que Tu Amigo",
-        "url": "https://open.spotify.com/album/3lDuMjLWslv0UOdt0LH0BN"
-      },
-      "artists": [
-        {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
-        },
-        {
-          "name": "V\u00edctor Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/0sRV0Fle5SlujAaxplNlAS"
-        }
-      ],
-      "duration_ms": 211898,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/49Yb25EF3jm7kwkdkKJ8gS"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+        "name": "M\u00e1s Que Tu Amigo",
+        "url": "https://open.spotify.com/album/3lDuMjLWslv0UOdt0LH0BN"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        },
+        {
+          "name": "V\u00edctor Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/0sRV0Fle5SlujAaxplNlAS"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
+      "duration_ms": 211898,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/49Yb25EF3jm7kwkdkKJ8gS"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Para todo mal",
-        "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
-      },
-      "artists": [
-        {
-          "name": "La Furia con Lujuria Sonidera",
-          "url": "https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU"
-        },
-        {
-          "name": "Dr. Shenka",
-          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
-        }
-      ],
-      "duration_ms": 240871,
-      "name": "Para todo mal",
-      "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Venga la Sentencia",
         "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 210320,
       "name": "Rudy Rude Boy",
       "url": "https://open.spotify.com/track/0knRFhZtR19PH5qteuV778"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Para todo mal",
+        "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
+      },
+      "artists": [
+        {
+          "name": "La Furia con Lujuria Sonidera",
+          "url": "https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU"
+        },
+        {
+          "name": "Dr. Shenka",
+          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
+        }
+      ],
+      "duration_ms": 240871,
+      "name": "Para todo mal",
+      "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Vatos Rudos Forever! (1994-2014)",
+        "url": "https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt"
+      },
+      "artists": [
+        {
+          "name": "Los Skarnales",
+          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
+        }
+      ],
+      "duration_ms": 202413,
+      "name": "Para Andar Igual",
+      "url": "https://open.spotify.com/track/6TOnvwLPwT71WAXzeR1haR"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "De parranda",
         "url": "https://open.spotify.com/album/73X0aOzw7Q120vKne5tt3e"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 214238,
       "name": "Otros Nosotros",
       "url": "https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Vatos Rudos Forever! (1994-2014)",
-        "url": "https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt"
-      },
-      "artists": [
-        {
-          "name": "Los Skarnales",
-          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
-        }
-      ],
-      "duration_ms": 202413,
-      "name": "Para Andar Igual",
-      "url": "https://open.spotify.com/track/6TOnvwLPwT71WAXzeR1haR"
     },
     {
       "added_at": "2022-03-18 06:00:00",

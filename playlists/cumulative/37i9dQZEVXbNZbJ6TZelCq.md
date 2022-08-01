@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-798 songs - 1 day 18 hr 35 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
+799 songs - 1 day 18 hr 37 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [GTR](https://open.spotify.com/track/0xEFjHdUNI9WaftfKDpUS2) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [GTR](https://open.spotify.com/album/7jOqamHFdTMd1VOc659KeH) | 2:32 | 2021-10-11 | 2021-10-12 |
 | [h u n g e r \. o n \. h i l l s i d e \(with Bas\)](https://open.spotify.com/track/5BwQjRasNcdRPuVWKcHto2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:58 | 2021-05-16 | 2021-05-17 |
 | [Hadad](https://open.spotify.com/track/4Vo6kiK859AWquBYrUR3KU) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Hadad](https://open.spotify.com/album/5m8HVTN2p17TTMhDMe3KMi) | 3:17 | 2021-09-20 | 2022-03-06 |
+| [Hai ca m\-ai sedus](https://open.spotify.com/track/51v9SiSHL3DVrEC8QRxQN8) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Hai ca m\-ai sedus](https://open.spotify.com/album/3TwSVaBvjYObwElkZFKE30) | 2:42 | 2022-07-31 |  |
 | [Hai să uităm de tot](https://open.spotify.com/track/5sIwSZndmAG67GjgquvaHz) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [KARLA](https://open.spotify.com/artist/4D1GCQEpfnzrR8NLpE9FZ3) | [Hai să uităm de tot](https://open.spotify.com/album/0r5ZXswqgbckBYsENIDodm) | 2:57 | 2022-03-03 | 2022-05-21 |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-05-23 | 2021-06-19 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-11-17 |
@@ -500,7 +501,7 @@
 | [Necesar](https://open.spotify.com/track/0nkeV4kaa4xvifptkypzDY) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [Renvto](https://open.spotify.com/artist/2JrQ0o2hziS7Io5XRiVP6W) | [Necesar](https://open.spotify.com/album/2BaVgV8nOEbHRETHWHm2Le) | 3:08 | 2022-06-08 |  |
 | [Need to Know](https://open.spotify.com/track/10hcDov7xmcRviA8jLwEaI) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Need to Know](https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH) | 3:30 | 2021-06-14 | 2021-06-20 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-06-27 | 2022-01-05 |
-| [Nefiu](https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Ian](https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO) | [Nefiu](https://open.spotify.com/album/5Lwzw3ukbFMyrZPJ14PqTr) | 3:05 | 2022-04-24 |  |
+| [Nefiu](https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Ian](https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO) | [Nefiu](https://open.spotify.com/album/5Lwzw3ukbFMyrZPJ14PqTr) | 3:05 | 2022-04-24 | 2022-08-01 |
 | [NETFLIX & CHILL](https://open.spotify.com/track/3QU5eXxZW0R9G9gAh0AFRP) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [CORDIAL](https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm) | 2:39 | 2021-12-12 | 2021-12-13 |
 | [New Again](https://open.spotify.com/track/2GPTiPR5db727wu1tFvFt4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:03 | 2021-08-31 | 2021-09-02 |
 | [Nice To Meet Ya \(feat\. Yxng Bane\)](https://open.spotify.com/track/1YHjRAptXqPdsdx3g6FNJL) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Nice To Meet Ya \(feat\. Yxng Bane\)](https://open.spotify.com/album/5lSwDdPjMSQk27KwUYlC2r) | 3:01 | 2021-07-21 | 2021-08-14 |

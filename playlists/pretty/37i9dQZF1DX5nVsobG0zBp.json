@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 28268,
+  "num_followers": 28331,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMGZkMGEzMzc3ZDUyY2M4NzRjYzRiZGZjMWQ5NzhmODMy",
+  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMGFiODIzNzhjODExOTMzMWE0ZDUyNDJmNGVlZjQzODlh",
   "tracks": [
     {
       "added_at": "2022-07-05 08:35:29",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
+        "name": "Sentimento Safari",
+        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Sentimento Safari",
+      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
+    },
+    {
+      "added_at": "2022-07-05 08:35:29",
+      "album": {
         "name": "FALADUK\u00ca",
         "url": "https://open.spotify.com/album/4FnuMfnfppl7BA8IL16Iif"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 197838,
       "name": "FALADUK\u00ca",
       "url": "https://open.spotify.com/track/17b8o9O29o3QGTRuprj7nd"
-    },
-    {
-      "added_at": "2022-07-05 08:35:29",
-      "album": {
-        "name": "Sentimento Safari",
-        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Sentimento Safari",
-      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
     },
     {
       "added_at": "2022-07-05 08:35:29",

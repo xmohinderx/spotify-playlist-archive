@@ -4880,6 +4880,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u5728\u4e00\u8d77\u5c31\u4e0d\u6703\u5206\u958b",
+        "url": "https://open.spotify.com/album/3zdOCw1uKKB8I9jHC0E7Cg"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287333,
+      "name": "\u4e0d\u5728\u4e00\u8d77\u5c31\u4e0d\u6703\u5206\u958b",
+      "url": "https://open.spotify.com/track/4ozGCLtrgrzy6Ve3WWwtjN"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u60f3\u807d\u898b\u7684\u6b4c",
         "url": "https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D"
       },
@@ -8383,7 +8401,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 219354,
       "name": "\u9686\u88e1\u96fb\u7d72",
       "url": "https://open.spotify.com/track/6XrnEjYDnm9JUeoDE4efvA"

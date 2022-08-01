@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Caio Luccas",
-  "num_followers": 71583,
+  "num_followers": 71706,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2MzY2MCwwMDAwMDAwMDZjNDQ2NjQ0MDIwZjBhNGMyYzU2NmUwOGU4MGQ4ZDgy",
+  "snapshot_id": "MTY1OTA2MzY2MCwwMDAwMDAwMDA5ZjA5YWVkMjE0ZGU2Yzk3MWI3YmI0MzI5YmQ1NTcx",
   "tracks": [
     {
       "added_at": "2022-07-29 03:01:00",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2022-07-29 03:01:00",
       "album": {
-        "name": "Fio a Fio",
-        "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Elenko Music",
-          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "Fio a Fio",
-      "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
-    },
-    {
-      "added_at": "2022-07-29 03:01:00",
-      "album": {
         "name": "SET DJ GM 2.0",
         "url": "https://open.spotify.com/album/7MNRt1Veypg7CQ3MGortjE"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 475200,
       "name": "SET DJ GM 2.0",
       "url": "https://open.spotify.com/track/38BuaDkieTqCDqaawXsf78"
+    },
+    {
+      "added_at": "2022-07-29 03:01:00",
+      "album": {
+        "name": "Fio a Fio",
+        "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "Fio a Fio",
+      "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
     },
     {
       "added_at": "2022-07-29 03:01:00",

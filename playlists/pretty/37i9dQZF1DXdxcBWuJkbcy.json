@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6406952,
+  "num_followers": 6408157,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk2MTk5MCwwMDAwMDAwMDZlMmU0MWUwMDUyYmQ4YzdhZDQ2NTI1OTFhYzY0ODRk",
+  "snapshot_id": "MTY1Njk2MTk5MCwwMDAwMDAwMGI4YjNmY2I4ODFhNGU5MzYyMjY3Y2UwMjM5MTg4ZDBm",
   "tracks": [
     {
       "added_at": "2022-06-23 22:01:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-06-23 22:01:00",
       "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
-    },
-    {
-      "added_at": "2022-06-23 22:01:00",
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 173658,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP"
+    },
+    {
+      "added_at": "2022-06-23 22:01:00",
+      "album": {
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2022-06-23 22:01:00",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2022-06-23 22:01:00",
       "album": {
+        "name": "The Motto (Ti\u00ebsto\u2019s VIP Mix)",
+        "url": "https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "The Motto - Ti\u00ebsto\u2019s VIP Mix",
+      "url": "https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ"
+    },
+    {
+      "added_at": "2022-06-23 22:01:00",
+      "album": {
         "name": "Say It Right (ILURO Remix)",
         "url": "https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 133724,
       "name": "Say It Right - ILURO Remix",
       "url": "https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h"
-    },
-    {
-      "added_at": "2022-06-23 22:01:00",
-      "album": {
-        "name": "The Motto (Ti\u00ebsto\u2019s VIP Mix)",
-        "url": "https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "The Motto - Ti\u00ebsto\u2019s VIP Mix",
-      "url": "https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ"
     },
     {
       "added_at": "2022-06-23 22:01:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-06-23 22:01:00",
       "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/0L0hYTNmafl7CqN2l20ZL1"
+      },
+      "artists": [
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Looking Up",
+      "url": "https://open.spotify.com/track/4GvHfRUyNfNz86FbnDThDl"
+    },
+    {
+      "added_at": "2022-06-23 22:01:00",
+      "album": {
         "name": "I Follow Rivers",
         "url": "https://open.spotify.com/album/1XMOxf7pF5UK8Rys9SFaBz"
       },
@@ -1727,38 +1743,22 @@
     {
       "added_at": "2022-06-23 22:01:00",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/0L0hYTNmafl7CqN2l20ZL1"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6veielpwGAJ4FKG7w3q69H"
       },
       "artists": [
         {
-          "name": "John De Sohn",
-          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Looking Up",
-      "url": "https://open.spotify.com/track/4GvHfRUyNfNz86FbnDThDl"
-    },
-    {
-      "added_at": "2022-06-23 22:01:00",
-      "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/4mt2BPMZLEIwHTl4A8oTGb"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "Hogland",
+          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
         },
         {
-          "name": "Paradigm",
-          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         }
       ],
-      "duration_ms": 159617,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/2mozbqXyO5NOmpOZc9O5s9"
+      "duration_ms": 192088,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9"
     },
     {
       "added_at": "2022-06-23 22:01:00",
@@ -1783,22 +1783,38 @@
     {
       "added_at": "2022-06-23 22:01:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6veielpwGAJ4FKG7w3q69H"
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/4mt2BPMZLEIwHTl4A8oTGb"
       },
       "artists": [
         {
-          "name": "Hogland",
-          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         },
         {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
         }
       ],
-      "duration_ms": 192088,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9"
+      "duration_ms": 159617,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/2mozbqXyO5NOmpOZc9O5s9"
+    },
+    {
+      "added_at": "2022-07-04 19:13:10",
+      "album": {
+        "name": "Melocoton (The Donka Donk Song)",
+        "url": "https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi"
+      },
+      "artists": [
+        {
+          "name": "Subwoolfer",
+          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Melocoton (The Donka Donk Song)",
+      "url": "https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU"
     },
     {
       "added_at": "2022-06-23 22:01:00",
@@ -1819,22 +1835,6 @@
       "duration_ms": 207998,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3LkdTjyywksp2Zr1yqJS6d"
-    },
-    {
-      "added_at": "2022-07-04 19:13:10",
-      "album": {
-        "name": "Melocoton (The Donka Donk Song)",
-        "url": "https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi"
-      },
-      "artists": [
-        {
-          "name": "Subwoolfer",
-          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Melocoton (The Donka Donk Song)",
-      "url": "https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU"
     },
     {
       "added_at": "2022-06-23 22:01:00",

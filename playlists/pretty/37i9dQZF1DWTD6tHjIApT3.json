@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u306b\u3057\u306a",
-  "num_followers": 81788,
+  "num_followers": 81817,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAyMDQwMCwwMDAwMDAwMGRlM2FhMWJhNGM5Zjg5ZGM2MGEyNDE0M2YxNjkwZWZj",
+  "snapshot_id": "MTY1OTAyMDQwMCwwMDAwMDAwMDFiYTk2MDMzNDFkMjA0ODgyNjk3ZTA1NWE5NGEzYzNj",
   "tracks": [
     {
       "added_at": "2022-07-28 15:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-07-28 15:00:00",
       "album": {
+        "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
+        "url": "https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 245962,
+      "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
+      "url": "https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6"
+    },
+    {
+      "added_at": "2022-07-28 15:00:00",
+      "album": {
         "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 209620,
       "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
-    },
-    {
-      "added_at": "2022-07-28 15:00:00",
-      "album": {
-        "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
-        "url": "https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ"
-      },
-      "artists": [
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        }
-      ],
-      "duration_ms": 245962,
-      "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
-      "url": "https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6"
     },
     {
       "added_at": "2022-07-28 15:00:00",
@@ -1551,18 +1551,22 @@
     {
       "added_at": "2022-07-28 15:00:00",
       "album": {
-        "name": "\u82b1\u706b",
-        "url": "https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9"
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
       },
       "artists": [
         {
-          "name": "Tielle",
-          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
         }
       ],
-      "duration_ms": 271889,
-      "name": "\u82b1\u706b",
-      "url": "https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs"
+      "duration_ms": 226779,
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     },
     {
       "added_at": "2022-07-28 15:00:00",
@@ -1583,22 +1587,18 @@
     {
       "added_at": "2022-07-28 15:00:00",
       "album": {
-        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
         }
       ],
-      "duration_ms": 226779,
-      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
+      "duration_ms": 271889,
+      "name": "\u82b1\u706b",
+      "url": "https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs"
     },
     {
       "added_at": "2022-07-28 15:00:00",

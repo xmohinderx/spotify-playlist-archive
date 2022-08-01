@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Loredana
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,058 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,055 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 |
 | 20 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
 | 21 | [Harley Quinn](https://open.spotify.com/track/40cLuVN3G96ZcGjWluuBAQ) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Harley Quinn](https://open.spotify.com/album/1GeXEh6XRAv8tvnC7W8hZD) | 2:07 |
-| 22 | [Sunday Service](https://open.spotify.com/track/3jS8O4mbzowbNVgxKxyFgR) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Sunday Service](https://open.spotify.com/album/4BGe5o73hToBzQ0yQpRX0z) | 2:45 |
-| 23 | [Gotta Do This, Gurl](https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Gotta Do This, Gurl](https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3) | 3:45 |
+| 22 | [Gotta Do This, Gurl](https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Gotta Do This, Gurl](https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3) | 3:45 |
+| 23 | [Sunday Service](https://open.spotify.com/track/3jS8O4mbzowbNVgxKxyFgR) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Sunday Service](https://open.spotify.com/album/4BGe5o73hToBzQ0yQpRX0z) | 2:45 |
 | 24 | [Koma](https://open.spotify.com/track/0sOwPqGeO8FhLluS9dSOyc) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Koma](https://open.spotify.com/album/4JBwPoWGowNpzeVN615GTW) | 2:31 |
 | 25 | [It's My Life](https://open.spotify.com/track/2NDvAV0zPTxO5D0m2GgBcu) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [It's My Life](https://open.spotify.com/album/2sVXSuTadrnlrCzQlOSYvd) | 3:49 |
-| 26 | [Not For Me](https://open.spotify.com/track/0kZ60vnXZw6dkPnjxq6jZC) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Not For Me](https://open.spotify.com/album/3kYAKFbVeUAh6GLqflEvhR) | 2:51 |
-| 27 | [Fits Together](https://open.spotify.com/track/6TQoD0YJbQxfVCVVDXLjNO) | [Cassy](https://open.spotify.com/artist/7JNP0OcJnBFXQWixpWmb5V) | [Fits Together](https://open.spotify.com/album/1R0D5PSIQ8kmSsqBjNe8TN) | 4:35 |
+| 26 | [Fits Together](https://open.spotify.com/track/6TQoD0YJbQxfVCVVDXLjNO) | [Cassy](https://open.spotify.com/artist/7JNP0OcJnBFXQWixpWmb5V) | [Fits Together](https://open.spotify.com/album/1R0D5PSIQ8kmSsqBjNe8TN) | 4:35 |
+| 27 | [Not For Me](https://open.spotify.com/track/0kZ60vnXZw6dkPnjxq6jZC) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Not For Me](https://open.spotify.com/album/3kYAKFbVeUAh6GLqflEvhR) | 2:51 |
 | 28 | [Fight for Our Lives](https://open.spotify.com/track/3JsE8SDsJYd07TE2nvK11P) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L), [Janey Starling](https://open.spotify.com/artist/1w8xKjGOQWcbrkrpEXdmjB) | [Baby](https://open.spotify.com/album/3QUnWPhBPq5FRG3H2gcPat) | 3:35 |
 | 29 | [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 |
 | 30 | [Datenight](https://open.spotify.com/track/0GidMsZuqIjvguVbUT6NH9) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Datenight](https://open.spotify.com/album/5pRjBsA7ory33TmsAtktwx) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [My Body Is The Only Place](https://open.spotify.com/track/0z9Pv1rOJiRbsutrQHNU22) | [Kira Hummen](https://open.spotify.com/artist/2Xb59cTmrizcuBigliz8Hl) | [My Body Is The Only Place](https://open.spotify.com/album/3QSAkwsNnd084waFESgguy) | 2:59 |
 | 50 | [I AM WHAT I AM \- Original version](https://open.spotify.com/track/5ME8Ct0K0fxGEYqt4W9WRF) | [KARMA SHE](https://open.spotify.com/artist/6kuuHVyXGEt2Zcj67hoxlf) | [I AM WHAT I AM](https://open.spotify.com/album/4Mqh8LvAWrOYGa4WEvDRAE) | 6:18 |
 
-Snapshot ID: `MTY1NzA1ODQwMCwwMDAwMDAwMDFiMjZmMDA5MTQzNGY0Mjk2MzRiOWJkOTNlMDkyMzE1`
+Snapshot ID: `MTY1NzA1ODQwMCwwMDAwMDAwMDRiZGU3Y2E5MjhiNWNkN2FiMGNhNDE5Y2IyNTUxYjEx`

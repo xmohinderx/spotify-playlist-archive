@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-210 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+211 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Strangers](https://open.spotify.com/track/1ndN2xj0c486fDmilERzSg) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Deluxe Edition\)](https://open.spotify.com/album/5YUPhKtmR093OVGI4StTMx) | 3:14 | 2021-12-13 | 2022-07-29 |
 | [Strong Enough](https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [...but i'd rather be with you, too](https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS) | 3:17 | 2021-12-13 | 2022-07-29 |
 | [Take It With Me](https://open.spotify.com/track/3HqWGoi8pnK0YkqYR8Owlw) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Take It With Me](https://open.spotify.com/album/6i8Dp8VHJOawYl331h0qkl) | 4:59 | 2021-12-13 | 2022-07-28 |
-| [Take It With Me](https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow \(Ten Year Anniversary Edition\)](https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ) | 4:59 | 2022-06-03 |  |
+| [Take It With Me](https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow \(Ten Year Anniversary Edition\)](https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ) | 4:59 | 2022-06-03 | 2022-08-01 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Take Me Home, Country Roads](https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo) | 3:05 | 2021-12-13 |  |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/48exUPggYUmlxAdcDtsZmE) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Hammond Song](https://open.spotify.com/album/4cKTbNNaExr5S7MFeWENAy) | 2:45 | 2021-12-13 | 2022-07-29 |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 | 2022-06-03 |  |
@@ -213,6 +213,7 @@
 | [Will The Circle Be Unbroken](https://open.spotify.com/track/6bXVXxL9PbAUl0Zhz5lXTU) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Will The Circle Be Unbroken](https://open.spotify.com/album/4co3fekKkAONGfCwb4RC1Y) | 3:55 | 2022-01-14 | 2022-07-25 |
 | [Will the Circle Be Unbroken](https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:55 | 2022-06-03 |  |
 | [Wonderful \(Recorded Live at Kcsn, Los Angeles\)](https://open.spotify.com/track/6MdAwOYUTYDTOv0kb10Oq7) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Deluxe Edition\)](https://open.spotify.com/album/3FbnUTejfWegwYtIS8SRql) | 4:57 | 2021-12-13 | 2022-07-29 |
+| [Woodstock](https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Woodstock / Green Altar](https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL) | 4:33 | 2022-06-03 |  |
 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [Southern Family](https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi) | 6:13 | 2021-12-13 |  |
 | [You Can Call Me Al](https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Surrounded by the Sound: Ten Covers by Eddie Berman](https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe) | 4:13 | 2022-06-03 |  |
 | [You Can Call Me Al](https://open.spotify.com/track/5ByfgksA7N2f70dnuFABTE) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [You Can Call Me Al](https://open.spotify.com/album/2cfSqRUVoq2Q8Ds0upCXM4) | 4:13 | 2021-12-13 | 2022-07-29 |

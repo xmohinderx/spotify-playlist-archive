@@ -1,12 +1,12 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bunny Wailer",
-  "num_followers": 2672268,
+  "num_followers": 2673004,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDcwMTkwNiwwMDAwMDAwMDE1OTQ5ZjllMGFjNjM2Y2Q0NjhkMzk1ODk2MTRkNmJi",
+  "snapshot_id": "MTYxNDcwMTkwNiwwMDAwMDAwMDg3MGNjYmVkM2ViMzk4Y2VkODllOTUyNjVhN2M4NjBl",
   "tracks": [
     {
       "added_at": "2021-03-02 16:18:26",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-03-02 16:18:26",
       "album": {
+        "name": "Song Book: Chapter a Day",
+        "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Miller",
+          "url": "https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Tenement Yard",
+      "url": "https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE"
+    },
+    {
+      "added_at": "2021-03-02 16:18:26",
+      "album": {
         "name": "007 Shanty Town",
         "url": "https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 152866,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP"
-    },
-    {
-      "added_at": "2021-03-02 16:18:26",
-      "album": {
-        "name": "Song Book: Chapter a Day",
-        "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
-      },
-      "artists": [
-        {
-          "name": "Jacob Miller",
-          "url": "https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Tenement Yard",
-      "url": "https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE"
     },
     {
       "added_at": "2021-03-02 16:18:26",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-03-02 16:18:26",
       "album": {
+        "name": "Al Barry & Friends (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
+      },
+      "artists": [
+        {
+          "name": "Al Barry",
+          "url": "https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU"
+        }
+      ],
+      "duration_ms": 176091,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
+    },
+    {
+      "added_at": "2021-03-02 16:18:26",
+      "album": {
         "name": "Radiodread",
         "url": "https://open.spotify.com/album/775nfRVFPVu7WSsIju6ipJ"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 284386,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/4aCsgwFhbZ8CmYAotK7W2B"
-    },
-    {
-      "added_at": "2021-03-02 16:18:26",
-      "album": {
-        "name": "Al Barry & Friends (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
-      },
-      "artists": [
-        {
-          "name": "Al Barry",
-          "url": "https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU"
-        }
-      ],
-      "duration_ms": 176091,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
     },
     {
       "added_at": "2021-03-02 16:18:26",

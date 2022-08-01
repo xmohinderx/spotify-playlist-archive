@@ -1,12 +1,12 @@
 {
   "description": "Perfect sunshiney indie tracks for summer.",
-  "num_followers": 52348,
+  "num_followers": 52567,
   "original_name": "Indie Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc2OTkyMSwwMDAwMDAwMGQ0NTMyMjMwYmFiYTY1ZTA1ZWI4NjJmODNiYzM4MTlh",
+  "snapshot_id": "MTY1ODc2OTkyMSwwMDAwMDAwMDRhZmFiMWZmOGIxNmU1ODY2MmNkYzM0NTJhNDg4OGY1",
   "tracks": [
     {
       "added_at": "2022-06-10 04:05:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
     },
     {
-      "added_at": "2022-06-10 04:05:00",
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg"
-    },
-    {
       "added_at": "2022-07-25 17:25:21",
       "album": {
         "name": "Mona Lisa, Mona Lisa",
@@ -983,6 +967,22 @@
       "duration_ms": 172111,
       "name": "Mona Lisa, Mona Lisa",
       "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+    },
+    {
+      "added_at": "2022-06-10 04:05:00",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg"
     },
     {
       "added_at": "2022-06-10 04:05:00",

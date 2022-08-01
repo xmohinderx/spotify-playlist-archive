@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-338 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+339 songs - 1 day 0 hr 13 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 | 2021-12-17 |  |
 | [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 |  |
 | [Bonded by Blood](https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:44 | 2022-07-13 |  |
+| [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 | 2022-07-13 |  |
 | [Born of Hate](https://open.spotify.com/track/7snzHEKAaNQvzl4VBhN9xQ) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Born of Hate](https://open.spotify.com/album/0GCuoA1qUQQS507pkgUkJo) | 4:17 | 2021-12-17 | 2022-07-29 |
 | [Born to Perish](https://open.spotify.com/track/5n5Vp0U7rNR3H0UMP65n1k) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Born to Perish](https://open.spotify.com/album/1TUkDjkEpouUqM25s8seIy) | 5:20 | 2021-12-17 | 2022-07-29 |
 | [Bow Down To the Clowns](https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Bow Down To the Clowns](https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1) | 4:50 | 2021-12-17 | 2022-07-28 |
@@ -116,7 +117,7 @@
 | [Flames of Death](https://open.spotify.com/track/6tVBNgAnRuMzeptqFFlwFs) | [Gomorra](https://open.spotify.com/artist/4pR239AgGpMKJosbKZXsLv) | [Flames of Death](https://open.spotify.com/album/44Sf0IWt8DVpa0iuhe883w) | 4:31 | 2021-12-17 | 2022-07-19 |
 | [Flesh from Bone](https://open.spotify.com/track/5fopcFWgDjqmqWQK83QUlQ) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Flesh from Bone](https://open.spotify.com/album/3XAiBKyWClCBcJw64HIYHl) | 5:02 | 2022-01-14 | 2022-07-28 |
 | [Florida Man](https://open.spotify.com/track/2W8Equ4ngAucJi9ngHdaox) | [Sgt Slime](https://open.spotify.com/artist/5uJKlkS0xqYIFiav3tPzqm) | [Florida Man](https://open.spotify.com/album/1QMXl4s8q30ESwNotSuYjq) | 2:40 | 2021-12-17 | 2022-07-12 |
-| [For the Horde](https://open.spotify.com/track/1KOKew94NrIZITnpQAMa6p) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Ride Forth](https://open.spotify.com/album/5BIzHmMiJJoHFo8tLL9S87) | 4:40 | 2021-12-17 |  |
+| [For the Horde](https://open.spotify.com/track/1KOKew94NrIZITnpQAMa6p) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Ride Forth](https://open.spotify.com/album/5BIzHmMiJJoHFo8tLL9S87) | 4:40 | 2021-12-17 | 2022-08-01 |
 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 | 2021-12-17 | 2022-07-29 |
 | [Fuel for Fire](https://open.spotify.com/track/6KXZXc8GC0hNMirU7U1Osh) | [EXA](https://open.spotify.com/artist/1h7Hmq4S3N6KmKYhCs4J6P) | [Cut the Past](https://open.spotify.com/album/2xQVSFMtpz9g3sjhPWeBPD) | 4:00 | 2021-12-17 | 2022-03-04 |
 | [Fuel the Fire](https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI) | [Tonic Breed](https://open.spotify.com/artist/77xERzMN8ghZCov8PRbCVR), [Bernt Jansen](https://open.spotify.com/artist/2mxHsWZS5kzzF5KjFfmpUb), [Dirk Verbeuren](https://open.spotify.com/artist/4zG9AWbdwEqp2pjrjDnYNV) | [Fuel the Fire](https://open.spotify.com/album/2S93hqoq2uVn0yfihm5NIi) | 4:56 | 2022-07-22 | 2022-07-26 |

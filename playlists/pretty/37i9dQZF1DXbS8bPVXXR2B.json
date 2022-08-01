@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 166373,
+  "num_followers": 166508,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUxODMyMiwwMDAwMDAwMDE5OTgwNjg5OWEwNDlhNzRhNjBlMjJiMDU0NzgyZWEw",
+  "snapshot_id": "MTY0NDUxODMyMiwwMDAwMDAwMDgxOTZmYmE2YzIyN2VjYjk3Y2ZkNmZlYzNmNzJhOGY4",
   "tracks": [
     {
       "added_at": "2022-02-10 18:38:40",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Nights Over Egypt",
-      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 341426,
       "name": "Last Night a D.J. Saved My Life",
       "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
-      },
-      "artists": [
-        {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
-        }
-      ],
-      "duration_ms": 303573,
-      "name": "Going Back to My Roots",
-      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "Love Conquers All (Expanded Edition)",
         "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 320280,
       "name": "Looking Up to You",
       "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "duration_ms": 303573,
+      "name": "Going Back to My Roots",
+      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
       },
       "artists": [
         {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
         }
       ],
-      "duration_ms": 181698,
-      "name": "Kiss Me Again - Mix Edit",
-      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1151,6 +1135,22 @@
       "duration_ms": 272533,
       "name": "Whistle Bump",
       "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur",
+          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+        }
+      ],
+      "duration_ms": 181698,
+      "name": "Kiss Me Again - Mix Edit",
+      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Stop Your Life - Original Album",
+      "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
         "name": "Chicago Service",
         "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 328858,
       "name": "Disco Fantasy",
       "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
       "artists": [
         {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Stop Your Life - Original Album",
-      "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
-      },
-      "artists": [
-        {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
-        }
-      ],
-      "duration_ms": 453706,
-      "name": "Family - Stereo Version",
-      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 259413,
       "name": "Get It Right - Single Version",
       "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
+      },
+      "artists": [
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "duration_ms": 453706,
+      "name": "Family - Stereo Version",
+      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
     },
     {
       "added_at": "2022-02-10 18:38:40",

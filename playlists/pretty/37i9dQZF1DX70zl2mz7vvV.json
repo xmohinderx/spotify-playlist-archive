@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 31062,
+  "num_followers": 31094,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDNkNDM5ZmYxNDlkYTExMWI3ZGRmNjVkZGRhYmRmYzQ3",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMGZkNTYyZmYzYTdiYWM1N2NjNmJhNmJiZmIxZjVkMjAy",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -315,6 +315,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "A Moment In Time",
+        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "REGGAE Music Again",
         "url": "https://open.spotify.com/album/7JRTrGi5KSTpPQIg7f5DhM"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "A Moment In Time",
-        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
       },
       "artists": [
         {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 222960,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -375,22 +391,6 @@
       "duration_ms": 328240,
       "name": "Fisherman",
       "url": "https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Mr Vegas: The Hits",
-        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Heads High",
-      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Half Pint",
-        "url": "https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s"
-      },
-      "artists": [
-        {
-          "name": "Half Pint",
-          "url": "https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "It's Growing",
         "url": "https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 219240,
       "name": "It's Growing",
       "url": "https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Half Pint",
+        "url": "https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s"
+      },
+      "artists": [
+        {
+          "name": "Half Pint",
+          "url": "https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE"
     },
     {
       "added_at": "2020-10-19 09:02:25",

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 108467,
+  "num_followers": 108477,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGU0ZTg1Njg5OGIxNWYwOWJhNDJlYTE2ZDU4ZjQ5OTVl",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDlkMTVhNzAzNGUxY2U1NGEzY2ZjNmZjMDIwNDQ2Mzc1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "I Don't Wanna Go To Heaven (Choir Version)",
-        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "I Don't Wanna Go To Heaven - Choir Version",
-      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "All I Know About Girls",
         "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 162920,
       "name": "All I Know About Girls",
       "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "I Don't Wanna Go To Heaven (Choir Version)",
+        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 205305,
+      "name": "I Don't Wanna Go To Heaven - Choir Version",
+      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Drunk Too",
-        "url": "https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 162117,
-      "name": "Drunk Too",
-      "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 199986,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Drunk Too",
+        "url": "https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 162117,
+      "name": "Drunk Too",
+      "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "I Wanna Remember (feat. Carrie Underwood) [Acoustic]",
         "url": "https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 206334,
       "name": "I Wanna Remember (feat. Carrie Underwood) - Acoustic",
       "url": "https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Growing Up (Acoustic)",
+        "url": "https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 151828,
+      "name": "Growing Up (Are You Happy) - Acoustic",
+      "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Son Of A (Acoustic)",
         "url": "https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3"
       },
@@ -1599,8 +1615,8 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "One Percent (Acoustic)",
-        "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
+        "name": "As You Leave (undone)",
+        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
       },
       "artists": [
         {
@@ -1608,25 +1624,25 @@
           "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
         }
       ],
-      "duration_ms": 204900,
-      "name": "One Percent (Acoustic)",
-      "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
+      "duration_ms": 127500,
+      "name": "As You Leave (undone)",
+      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
     },
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Again (Stripped Bare)",
-        "url": "https://open.spotify.com/album/0lE5keuEk5Y10vK6fDEIe6"
+        "name": "Don't Come Lookin' (Live Acoustic)",
+        "url": "https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6"
       },
       "artists": [
         {
-          "name": "BEXAR",
-          "url": "https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 153249,
-      "name": "Again - Stripped Bare",
-      "url": "https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G"
+      "duration_ms": 215337,
+      "name": "Don't Come Lookin' - Live Acoustic",
+      "url": "https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1643,26 +1659,6 @@
       "duration_ms": 181359,
       "name": "Good Day - Acoustic",
       "url": "https://open.spotify.com/track/5vlkwSSNljB7vmnBFwYWrw"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "The Album (Acoustic)",
-        "url": "https://open.spotify.com/album/6HrXzPva9d1ucDAUO1lyS9"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 160761,
-      "name": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line) - Acoustic",
-      "url": "https://open.spotify.com/track/5WlaHL9HnkhRMrVkvsLcd5"
     }
   ],
   "unique_name": "Nashville Stripped",

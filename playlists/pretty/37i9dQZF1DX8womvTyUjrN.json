@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Pau Laggies",
-  "num_followers": 256824,
+  "num_followers": 256880,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAyMjUzMiwwMDAwMDAwMDc3MDFmMTVmODAwZTE0YzU3YTMzY2UzNjA1NmE3MzVi",
+  "snapshot_id": "MTY1OTAyMjUzMiwwMDAwMDAwMDYyYTkzZGFlYzRmNzRkOTNkOGJlOTA1NDI0YmU5MDIz",
   "tracks": [
     {
       "added_at": "2022-07-28 15:35:32",
@@ -31,26 +31,6 @@
     {
       "added_at": "2022-07-28 15:35:32",
       "album": {
-        "name": "QUEREME",
-        "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "QUEREME",
-      "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
-    },
-    {
-      "added_at": "2022-07-28 15:35:32",
-      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
@@ -71,6 +51,26 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "added_at": "2022-07-28 15:35:32",
+      "album": {
+        "name": "QUEREME",
+        "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "QUEREME",
+      "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
     },
     {
       "added_at": "2022-07-28 15:35:32",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-07-28 15:35:32",
       "album": {
-        "name": "NOSE",
-        "url": "https://open.spotify.com/album/2Bfs6ekarPGL93Rvtrjzkm"
-      },
-      "artists": [
-        {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "NOSE",
-      "url": "https://open.spotify.com/track/5xCCO1GYwnC0Pwt0CgNC2z"
-    },
-    {
-      "added_at": "2022-07-28 15:35:32",
-      "album": {
         "name": "Pa Que Te Digo Que No",
         "url": "https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 174213,
       "name": "Pa Que Te Digo Que No",
       "url": "https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx"
+    },
+    {
+      "added_at": "2022-07-28 15:35:32",
+      "album": {
+        "name": "NOSE",
+        "url": "https://open.spotify.com/album/2Bfs6ekarPGL93Rvtrjzkm"
+      },
+      "artists": [
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "NOSE",
+      "url": "https://open.spotify.com/track/5xCCO1GYwnC0Pwt0CgNC2z"
     },
     {
       "added_at": "2022-07-28 15:35:32",

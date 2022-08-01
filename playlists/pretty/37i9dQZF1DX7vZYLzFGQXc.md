@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent talents are here\. \(Cover: YUNNUGU\(윤누구\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
+> Fresh new Korean independent talents are here\. \(Cover: HUNJIYA\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,444 likes - 102 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,474 likes - 102 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 101 | [Answer \(stripped\)](https://open.spotify.com/track/21QBCAv8n2r3SOp8tdE3j5) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Answer \(stripped\)](https://open.spotify.com/album/0SGcO8HBEvjreo6qugr0DI) | 3:02 |
 | 102 | [will you and me fall in love \(feat\. Gawon\)](https://open.spotify.com/track/1NR4zjXtuxMvwGIh8i5XqC) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [will you and me fall in love](https://open.spotify.com/album/2TdJT39j1H1JJv2VFPiVbG) | 2:38 |
 
-Snapshot ID: `MTY1ODkwOTI1NywwMDAwMDAwMDgzZDMzYjAzMjg0OGY5M2JkMWNhNTVjN2Y4MGRjODc2`
+Snapshot ID: `MTY1OTI3OTYwMCwwMDAwMDAwMDIwNmZmMDVlZWNlMDhiMGIzYzEyMmQ3MzhmODYwNDcx`

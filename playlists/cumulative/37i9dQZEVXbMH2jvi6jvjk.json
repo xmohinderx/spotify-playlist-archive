@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 416321,
       "name": "Abalele",
       "url": "https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 169819,
       "name": "ALL UP IN YOUR MIND",
       "url": "https://open.spotify.com/track/3k4CoiIQXiNBrwrmbBMDxj"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 198897,
       "name": "AMERICA HAS A PROBLEM",
       "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 458777,
       "name": "Asibe Happy",
       "url": "https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -5051,13 +5051,17 @@
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 116729,
-      "name": "ENERGY",
+      "name": "ENERGY (feat. Beam)",
       "url": "https://open.spotify.com/track/2i5vu6GI7mJ2B2pf9gNFhn"
     },
     {
@@ -9555,7 +9559,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 382605,
       "name": "Kusezo Khanya",
       "url": "https://open.spotify.com/track/1LB6HHcswEA8yee4z10rbJ"
@@ -11949,13 +11953,21 @@
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203383,
-      "name": "MOVE",
+      "name": "MOVE (feat. Grace Jones & Tems)",
       "url": "https://open.spotify.com/track/7b1NUJTJq9xgg8JiVe0hd6"
     },
     {
@@ -13875,7 +13887,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 288254,
       "name": "PURE/HONEY",
       "url": "https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo"
@@ -14751,6 +14763,40 @@
       "duration_ms": 228440,
       "name": "Sal Jy Bly",
       "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
+    },
+    {
+      "album": {
+        "name": "Salary Salary",
+        "url": "https://open.spotify.com/album/4quyAgJ23twffpKkEgfhji"
+      },
+      "artists": [
+        {
+          "name": "Robot Boii",
+          "url": "https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Soul Revolver",
+          "url": "https://open.spotify.com/artist/1Z4N6qo86BmXMr5SqkHP1r"
+        },
+        {
+          "name": "Shaun MusiQ",
+          "url": "https://open.spotify.com/artist/4GxjM4diRMDmrJgOBSeoBL"
+        },
+        {
+          "name": "F Teearse",
+          "url": "https://open.spotify.com/artist/2CpQzZ1TBz2dTiCpzSrP1Z"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406160,
+      "name": "Salary Salary",
+      "url": "https://open.spotify.com/track/2icgqIMkjpToStO1FRAoyj"
     },
     {
       "album": {
@@ -15967,7 +16013,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 214285,
       "name": "sneaky",
       "url": "https://open.spotify.com/track/1KDGViRidQJ0UWV6J7n7Qs"
@@ -16719,7 +16765,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 273997,
       "name": "SUMMER RENAISSANCE",
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
@@ -17493,7 +17539,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 244792,
       "name": "THIQUE",
       "url": "https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9"
@@ -17959,7 +18005,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 428571,
       "name": "Trust Fund (feat. Focalistic, Mpura, Madumane & Mellow & Sleazy) - Live",
       "url": "https://open.spotify.com/track/4F7H87xusgYP3SEFj7gOVP"

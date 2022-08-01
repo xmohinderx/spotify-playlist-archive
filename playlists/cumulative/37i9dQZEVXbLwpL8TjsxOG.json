@@ -3254,6 +3254,24 @@
     },
     {
       "album": {
+        "name": "One and All",
+        "url": "https://open.spotify.com/album/1dmok6vCpRewkOnTsg0Ubv"
+      },
+      "artists": [
+        {
+          "name": "Mirror",
+          "url": "https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "One and All",
+      "url": "https://open.spotify.com/track/4Sq8dTIYcMNkGkxQoZMGle"
+    },
+    {
+      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -5679,7 +5697,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 253800,
       "name": "\u5b64\u7368\u75c5",
       "url": "https://open.spotify.com/track/5Gi88IBuzFwSTAAcYcqpqL"

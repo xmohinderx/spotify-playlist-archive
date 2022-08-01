@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Sean Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,688 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,733 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 90 | [K.H.W.K.](https://open.spotify.com/track/0dfe2OZq92uMjhBRgtHsNd) | [Why G](https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [K.H.W.K.](https://open.spotify.com/album/7lSBWG8wceGjO71xjvGLdj) | 2:25 |
 | 91 | [Ether](https://open.spotify.com/track/1Mxs3wyD4S81j9vpF6A6ov) | [EdwOrdS](https://open.spotify.com/artist/3Wps34Gtn7dTxmDADXDBBJ) | [Low Key EP](https://open.spotify.com/album/4oxBXOoRIccgbrtGMHYonQ) | 2:51 |
 | 92 | [Run Up](https://open.spotify.com/track/113hCEPA7eSOQWpOVqWsGe) | [Kwaejo](https://open.spotify.com/artist/5TLCJPbL1kDKCjHxhgOAts) | [Trip to the 6, Vol\. 2](https://open.spotify.com/album/1QinvrNry3to06iEzmgH5J) | 3:17 |
-| 93 | [Amanda](https://open.spotify.com/track/0kakbgTztKiPxig2Rxqetg) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4), [NC Capo](https://open.spotify.com/artist/28YnarJckzB3nbbZLhuedv) | [Amanda](https://open.spotify.com/album/6CaOSa0gG9LoWuuQ3xDBlK) | 2:08 |
+| 93 | [Amanda](https://open.spotify.com/track/4v7YM7fJ4y6hl05w7QY78t) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4), [NC Capo](https://open.spotify.com/artist/28YnarJckzB3nbbZLhuedv) | [Amanda](https://open.spotify.com/album/2dQ96TsEialQwVwUoMX04H) | 2:08 |
 | 94 | [Trust](https://open.spotify.com/track/02ofwHZyFSuW1LlVQ6DCye) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [The Fleur Print \(Vol\. 2\)](https://open.spotify.com/album/47mj6zu9AiNejasZn1Qvou) | 3:26 |
 | 95 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 |
 | 96 | [Figure of Speech](https://open.spotify.com/track/2NSq58JxsJE1k7h6BVeDDQ) | [Freddy Printz](https://open.spotify.com/artist/15L89B5Jg0z67nBZZxDH36) | [The Candidate](https://open.spotify.com/album/6b2SU7BJlvf0bAZyb7e9bw) | 2:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [Big Willy](https://open.spotify.com/track/6VAZPdIBl2UCiDPjhrwPkh) | [Tre Nyce](https://open.spotify.com/artist/3HOxm7dZ7yd2mHjE6HQlS5) | [Big Willy](https://open.spotify.com/album/51vRpCYDf1RD0C4VciFTIe) | 2:13 |
 | 99 | [Head Space Freestyle](https://open.spotify.com/track/6gAjaV0vxSuKVw6DIuplvP) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Head Space Freestyle](https://open.spotify.com/album/4pNVj7o6u8ol0UmQlHzJJa) | 1:49 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGY2OTlhZjc3MjI3OTQ2MzEzNzc3MjIwNzk1NThlYTBk`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDEzYzdhZWJkNGNhMGU5NmM0ZGJhZjk0MmY1Nzg5MThj`

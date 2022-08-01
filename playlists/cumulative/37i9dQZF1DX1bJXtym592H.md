@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-126 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
+127 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Space Fern](https://open.spotify.com/track/1Rh6LJdVGmt2A3GKGT1KFN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Midnight Glow, Vol\. 2](https://open.spotify.com/album/5OY4f2lUocQL384e0qV8ow) | 1:49 | 2022-04-22 |  |
 | [Space Shuttle](https://open.spotify.com/track/1T7QuMX3ALsqyrRciKYK0b) | [S M O L K](https://open.spotify.com/artist/6iP8ENSWlZujR7OZcnKEoQ) | [Space Shuttle](https://open.spotify.com/album/6Xe1OAoHzRUj7ezbqsjOA7) | 3:02 | 2022-04-22 |  |
 | [Stargazing](https://open.spotify.com/track/4cIsmISX8R4S6NDvmqXUDR) | [Bungus](https://open.spotify.com/artist/6G5hyAD5WnCvkW9CeUMsJA) | [Stargazing](https://open.spotify.com/album/3dLYFdh6latSJWKJK0FBDH) | 2:59 | 2022-04-22 | 2022-07-29 |
+| [Stargazing](https://open.spotify.com/track/5BclAg4Nv1wlFmQLfjGpya) | [Goostavo](https://open.spotify.com/artist/4JIs62O43gVoQ4EfuXRRZn) | [Euphoria](https://open.spotify.com/album/2voW7HF6fe8GnUZZRhAOT5) | 2:59 | 2022-05-27 |  |
 | [Stonecutter](https://open.spotify.com/track/6sA23FIxsg4TmejPXSaAXM) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:41 | 2022-04-22 |  |
 | [Street Of Gold](https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3) | [ShinE](https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH) | [Street Of Gold](https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH) | 3:03 | 2022-04-22 |  |
 | [Summer Nights](https://open.spotify.com/track/1TRQg2ZdYj8NjJkRL3oSfE) | [Priesemut](https://open.spotify.com/artist/4VFNwAe2jbnCiPi2OYKa6s) | [Summer Nights](https://open.spotify.com/album/152ULMOGfi947QazWQOu57) | 1:34 | 2022-04-22 |  |

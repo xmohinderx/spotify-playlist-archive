@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=wv3\-m5s\-TXS6zXBvn8C4zw"> Simi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,596 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,614 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

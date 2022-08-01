@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad instrumental and vocal jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,544 likes - 125 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,630 likes - 125 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 43 | [Casa](https://open.spotify.com/track/5W2c7aQe4ZbFNPOBS19q7z) | [Antonio Mazzei](https://open.spotify.com/artist/6Qt5MWQmYnJAEtRi385Ref), [David Xirgu](https://open.spotify.com/artist/3E27UZd7y2kH1DLQKKNxBT), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq) | [Casa](https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy) | 4:20 |
 | 44 | [The Thrill Is Gone \- Vocal Version](https://open.spotify.com/track/0kKQreifydSOeqZzHkNW67) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:51 |
 | 45 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/0vTF65diZnYgBD6fHKklAG) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Hello Love](https://open.spotify.com/album/2W0aI00N2KZJyRpGqD8cMn) | 3:17 |
-| 46 | [Seymour Reads the Constitution](https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:03 |
+| 46 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |
 | 47 | [Gloomy Sunday](https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Eternal](https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf) | 12:43 |
-| 48 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |
+| 48 | [Seymour Reads the Constitution](https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:03 |
 | 49 | [Naima](https://open.spotify.com/track/0D5PNTs1HSYe2nHlHulJQw) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Giant Steps](https://open.spotify.com/album/1mws5azyWvnyPkaNZEDGa4) | 5:02 |
 | 50 | [A Certain Sadness](https://open.spotify.com/track/3rNEyZg9zAnT5djNUpsUSc) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [A Certain Sadness](https://open.spotify.com/album/432pjknSR4Z25xrKOo7ZNo) | 5:39 |
 | 51 | [You Don't Know What Love Is](https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 5:11 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 83 | [I See Your Face Before Me \- RVG Remaster](https://open.spotify.com/track/5trHdgFGU5Upjv9nzyvEX2) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Musings Of Miles](https://open.spotify.com/album/7fRwdr4MvqlJhhhssTKutU) | 4:43 |
 | 84 | [Solitude](https://open.spotify.com/track/53IJzKLcLRdubQUzzhG1Zr) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:08 |
 | 85 | [Black Coffee](https://open.spotify.com/track/2Rejh16NV462TwiGGf5YNL) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald \- First Lady Of Song](https://open.spotify.com/album/7n5UUn75pwadVsF2nujN0V) | 3:30 |
-| 86 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 |
+| 86 | [Maybe You'll Be There](https://open.spotify.com/track/3CtayjiEM7bB0XMAtlLCsS) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 5:30 |
 | 87 | [I Can't Get Started](https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:15 |
-| 88 | [Maybe You'll Be There](https://open.spotify.com/track/3CtayjiEM7bB0XMAtlLCsS) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 5:30 |
+| 88 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 |
 | 89 | [Silence](https://open.spotify.com/track/7mUwgUAe0RGbNGdkCJ2vHn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs) | [Silence](https://open.spotify.com/album/2z7RHmHsRzRii3GrhGpF6U) | 8:44 |
 | 90 | [I'll Never Smile Again](https://open.spotify.com/track/4KdBR604ZOeCZvY8rA3i2N) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Sentimental Journey](https://open.spotify.com/album/39obEXynFOmw6sFXI4qhVl) | 2:59 |
 | 91 | [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 124 | [I'm Okay](https://open.spotify.com/track/44ugYcT4elLHdwItplCeln) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Tony Tixier](https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO) | [Guardians of the Heart Machine](https://open.spotify.com/album/0XJ08jnqwmTt8qWDs100Ut) | 7:40 |
 | 125 | [Willow Weep for Me \- Remastered](https://open.spotify.com/track/111VqNnQA1m6enKxaO77B5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 5:15 |
 
-Snapshot ID: `MTY1NjQ5MTI5NCwwMDAwMDAwMDc3MDUxMmZkOWUzMzM5NjQ3OWUyNTkzY2EzMGM1NTI3`
+Snapshot ID: `MTY1NjQ5MTI5NCwwMDAwMDAwMDYwNWY1NjE5YjhkOTRjN2QyZDUyZTVjZmE0ZGZlNmUz`

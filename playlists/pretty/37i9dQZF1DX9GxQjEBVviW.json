@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 190820,
+  "num_followers": 190885,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDQ0NTA5ODkyNjEwOWY3YzdhY2ExMmQzYzRmZjJjMWMz",
+  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMGY3NTYwODI5ZmYwMmU1YTM4MGFiMDRmYWYzYzViZGU3",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -403,18 +403,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Magic Touch: An Anthology",
-        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        },
+        {
+          "name": "Krips Johnson",
+          "url": "https://open.spotify.com/artist/1HaB4OY2BLW2ve9FHAwMRZ"
         }
       ],
-      "duration_ms": 157760,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
+      "duration_ms": 144266,
+      "name": "Whispering Bells",
+      "url": "https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -435,22 +439,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+        "name": "The Magic Touch: An Anthology",
+        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
       "artists": [
         {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        },
-        {
-          "name": "Krips Johnson",
-          "url": "https://open.spotify.com/artist/1HaB4OY2BLW2ve9FHAwMRZ"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 144266,
-      "name": "Whispering Bells",
-      "url": "https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs"
+      "duration_ms": 157760,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Dirty Dancing: Anniversary Edition",
-        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
+        "name": "Zoom Zoom Zoom - Single",
+        "url": "https://open.spotify.com/album/1P3tvYyZ40LS5DhAJASjfn"
       },
       "artists": [
         {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+          "name": "The Collegians",
+          "url": "https://open.spotify.com/artist/6l5YiEwurRr8zsnOyhJB4g"
         }
       ],
-      "duration_ms": 185333,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
+      "duration_ms": 149586,
+      "name": "Zoom Zoom Zoom",
+      "url": "https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw"
     }
   ],
   "unique_name": "Doo-Wop Dee Doo",

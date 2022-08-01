@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 57272,
+  "num_followers": 57327,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGYzZjc2NmY4NTdkYWZmZDdlN2Y3OTRiOWFmNGFmODM0",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGM5OWNhZjFmZGIwOWNjNTMyZDVkYTE4NTYwMmI0NWEx",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -895,6 +895,74 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Don Carlos",
+        "url": "https://open.spotify.com/album/1uo9YWpaTV5q1tcHvbwlHk"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Lars Cleveman",
+          "url": "https://open.spotify.com/artist/6If5rl77znI4TZbL8jBoT9"
+        },
+        {
+          "name": "Klas Hedlund",
+          "url": "https://open.spotify.com/artist/6tGIJGdFtkF9Y7XAOXl2l8"
+        },
+        {
+          "name": "Hilde Leidland",
+          "url": "https://open.spotify.com/artist/3uAVCpWYZR1stPVsnvO3fC"
+        },
+        {
+          "name": "Hillevi Martinpelto",
+          "url": "https://open.spotify.com/artist/1NRnnOzSJbPvfFTn1sBMpZ"
+        },
+        {
+          "name": "Peter Mattei",
+          "url": "https://open.spotify.com/artist/18Bm1xs8qFr9pPiy6GONgu"
+        },
+        {
+          "name": "Bengt Rundgren",
+          "url": "https://open.spotify.com/artist/7blnHh4c0F3cx2SApoY9Kq"
+        },
+        {
+          "name": "Iwa Sorenson",
+          "url": "https://open.spotify.com/artist/5s42aCJFgfbW8nTvXwL1Ln"
+        },
+        {
+          "name": "Martti Wall\u00e8n",
+          "url": "https://open.spotify.com/artist/6OUiqdDRUQA65pj4YoxbSu"
+        },
+        {
+          "name": "Jaakko Ryh\u00e4nen",
+          "url": "https://open.spotify.com/artist/5hGO3PSw41duTzqSCB1WKz"
+        },
+        {
+          "name": "Ingrid Tobiasson",
+          "url": "https://open.spotify.com/artist/1CiJKtwMtzf3Mmacm1FxCr"
+        },
+        {
+          "name": "Royal Swedish Opera Chorus",
+          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
+        },
+        {
+          "name": "Royal Swedish Opera Orchestra",
+          "url": "https://open.spotify.com/artist/2ie9VrHtKOtHL6eZzUYRqT"
+        },
+        {
+          "name": "Alberto Hold-Garrido",
+          "url": "https://open.spotify.com/artist/3gLFAOAJJLpXWjfrLHZjyT"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Don Carlo*: Act V: Aria: Tu, che le vanita (Elisabeth)",
+      "url": "https://open.spotify.com/track/5wI78BFZaRgCRi32AzjrKf"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Otello",
         "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
       },
@@ -967,110 +1035,6 @@
       "duration_ms": 85733,
       "name": "Aida: Danza di piccoli schiavi mori",
       "url": "https://open.spotify.com/track/1vmUKUlXXZChWhCdnE8LxS"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Don Carlos",
-        "url": "https://open.spotify.com/album/1uo9YWpaTV5q1tcHvbwlHk"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Lars Cleveman",
-          "url": "https://open.spotify.com/artist/6If5rl77znI4TZbL8jBoT9"
-        },
-        {
-          "name": "Klas Hedlund",
-          "url": "https://open.spotify.com/artist/6tGIJGdFtkF9Y7XAOXl2l8"
-        },
-        {
-          "name": "Hilde Leidland",
-          "url": "https://open.spotify.com/artist/3uAVCpWYZR1stPVsnvO3fC"
-        },
-        {
-          "name": "Hillevi Martinpelto",
-          "url": "https://open.spotify.com/artist/1NRnnOzSJbPvfFTn1sBMpZ"
-        },
-        {
-          "name": "Peter Mattei",
-          "url": "https://open.spotify.com/artist/18Bm1xs8qFr9pPiy6GONgu"
-        },
-        {
-          "name": "Bengt Rundgren",
-          "url": "https://open.spotify.com/artist/7blnHh4c0F3cx2SApoY9Kq"
-        },
-        {
-          "name": "Iwa Sorenson",
-          "url": "https://open.spotify.com/artist/5s42aCJFgfbW8nTvXwL1Ln"
-        },
-        {
-          "name": "Martti Wall\u00e8n",
-          "url": "https://open.spotify.com/artist/6OUiqdDRUQA65pj4YoxbSu"
-        },
-        {
-          "name": "Jaakko Ryh\u00e4nen",
-          "url": "https://open.spotify.com/artist/5hGO3PSw41duTzqSCB1WKz"
-        },
-        {
-          "name": "Ingrid Tobiasson",
-          "url": "https://open.spotify.com/artist/1CiJKtwMtzf3Mmacm1FxCr"
-        },
-        {
-          "name": "Royal Swedish Opera Chorus",
-          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
-        },
-        {
-          "name": "Royal Swedish Opera Orchestra",
-          "url": "https://open.spotify.com/artist/2ie9VrHtKOtHL6eZzUYRqT"
-        },
-        {
-          "name": "Alberto Hold-Garrido",
-          "url": "https://open.spotify.com/artist/3gLFAOAJJLpXWjfrLHZjyT"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Don Carlo*: Act V: Aria: Tu, che le vanita (Elisabeth)",
-      "url": "https://open.spotify.com/track/5wI78BFZaRgCRi32AzjrKf"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Requiem; Quattro pezzi sacri",
-        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Vienna State Opera Chorus",
-          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
-        },
-        {
-          "name": "Norbert Balatsch",
-          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
-        }
-      ],
-      "duration_ms": 801000,
-      "name": "4 Sacred Pieces (Quattro pezzi sacri): Stabat Mater",
-      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1163,6 +1127,42 @@
       "duration_ms": 180400,
       "name": "Nabucco / Act 4: Dio di Giuda!",
       "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Requiem; Quattro pezzi sacri",
+        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        },
+        {
+          "name": "Norbert Balatsch",
+          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
+        }
+      ],
+      "duration_ms": 801000,
+      "name": "4 Sacred Pieces (Quattro pezzi sacri): Stabat Mater",
+      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1731,6 +1731,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "duration_ms": 667640,
+      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" (Nabucco, Abigaille) / Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
+      "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Otello",
         "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
       },
@@ -1771,30 +1795,6 @@
       "duration_ms": 284253,
       "name": "Otello, Act II: Act II: Dove guardi splendono\u2026 Non parlo ancor di prova (Chorus, Jago, Desdemona, Otello)",
       "url": "https://open.spotify.com/track/3cwktPZ9dPAU51iT20JvUe"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        }
-      ],
-      "duration_ms": 667640,
-      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" (Nabucco, Abigaille) / Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
-      "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1943,6 +1943,34 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Villaz\u00f3n - Verdi",
+        "url": "https://open.spotify.com/album/2F96laLM8FRRWaiLotJ10h"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Rolando Villaz\u00f3n",
+          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
+        },
+        {
+          "name": "Orchestra del Teatro Regio di Torino",
+          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "duration_ms": 115920,
+      "name": "La traviata / Act II: \"O mio rimorso!\"",
+      "url": "https://open.spotify.com/track/3Ig1LumEIzvePVWC9uzgkF"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Rigoletto",
         "url": "https://open.spotify.com/album/2PUG3sEi7dq7YKoKrCxkZQ"
       },
@@ -1975,34 +2003,6 @@
       "duration_ms": 165160,
       "name": "Rigoletto / Act 1: Zitti, zitti...Soccorso, padre mio",
       "url": "https://open.spotify.com/track/5FYMMxgEbtYUkI7aDTG0cB"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Villaz\u00f3n - Verdi",
-        "url": "https://open.spotify.com/album/2F96laLM8FRRWaiLotJ10h"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Rolando Villaz\u00f3n",
-          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
-        },
-        {
-          "name": "Orchestra del Teatro Regio di Torino",
-          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
-        },
-        {
-          "name": "Gianandrea Noseda",
-          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
-        }
-      ],
-      "duration_ms": 115920,
-      "name": "La traviata / Act II: \"O mio rimorso!\"",
-      "url": "https://open.spotify.com/track/3Ig1LumEIzvePVWC9uzgkF"
     },
     {
       "added_at": "2022-06-27 14:42:44",

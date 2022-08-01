@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-549 songs - 1 day 7 hr 46 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
+550 songs - 1 day 7 hr 49 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Eres Para Mí](https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [Eres Para Mí](https://open.spotify.com/album/7JuFM0b8eP6FGTVvyQMfNP) | 2:54 | 2022-02-08 | 2022-02-13 |
 | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO) | 5:23 | 2022-04-16 | 2022-04-28 |
 | [Esclava](https://open.spotify.com/track/5ScRltS6KmeYTUiHULKNAx) | [Artistas Varios Colab](https://open.spotify.com/artist/6jsKi4HuQAUeLXjrlU5mOs) | [Esclava](https://open.spotify.com/album/7dtJi7bMzwn915s2yC82bz) | 4:41 | 2022-06-28 | 2022-07-10 |
-| [Espíritu Guanacasteco](https://open.spotify.com/track/3m2KbuNF6QTPrsssDujM0O) | [Mauricio Penagos Villegas](https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec) | [Costa Rica Pura Vida, Vol\. 1](https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN) | 3:09 | 2022-07-26 |  |
+| [Espíritu Guanacasteco](https://open.spotify.com/track/3m2KbuNF6QTPrsssDujM0O) | [Mauricio Penagos Villegas](https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec) | [Costa Rica Pura Vida, Vol\. 1](https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN) | 3:09 | 2022-07-26 | 2022-08-01 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-05-25 | 2022-06-01 |
 | [Estrella Fugaz](https://open.spotify.com/track/0tCN6oTrCLcgyietoPeIlU) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Estrella Fugaz](https://open.spotify.com/album/25off3TYlfdipMDUwDOz5W) | 3:18 | 2022-03-15 | 2022-03-28 |
 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-08 |  |
@@ -310,6 +310,7 @@
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/1JsWZiBPMGdrNrEV1yik7C) | [Original Songs \- Trends](https://open.spotify.com/artist/0urETZ7DcqT4XJi3dO8h5W), [Tito Silva](https://open.spotify.com/artist/1Ss1BvOOjfeYA6ITcKR6PW), [Tefi C](https://open.spotify.com/artist/79pg52L0FEIfrVEu36SVPX) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/0j3WPiwq5GwT3gAhVOc7Of) | 3:38 | 2022-07-27 | 2022-07-30 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs) | [Tito Silva Music](https://open.spotify.com/artist/2IFOwmcGO4WH8r3qPOh1Y8) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1) | 3:39 | 2022-06-28 | 2022-07-09 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/4Ke7vgenot8iGErbr6Bdwa) | [Tony Temperature](https://open.spotify.com/artist/39WQE9Gh5H6kiCETIwJGgv) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1XG3gnmKvB0kC5sFztQ0E8) | 3:39 | 2022-07-20 | 2022-07-27 |
+| [Mi Casi Algo](https://open.spotify.com/track/0JpuxOdaEbiiPQyH1UmW4H) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Mi Casi Algo](https://open.spotify.com/album/3fS8FJxewni07MgSvMKOtp) | 3:00 | 2022-07-31 |  |
 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 | 2022-02-05 | 2022-04-19 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-01-15 | 2022-04-09 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 | 2022-06-29 |  |

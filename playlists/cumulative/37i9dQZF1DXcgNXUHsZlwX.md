@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
 
-358 songs - 21 hr 11 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+359 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Insensible](https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Insensible](https://open.spotify.com/album/6QNrE7t6uU8QqlVpNaduIH) | 3:27 | 2021-01-03\* | 2022-07-29 |
 | [Invisible](https://open.spotify.com/track/6dstnzUD4KT1IJeHQI6PK7) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/5QwW6pRRmXneSFUjDFFkDt) | 3:43 | 2021-01-15 | 2022-07-24 |
 | [J'ai demandé à la lune](https://open.spotify.com/track/7ALLe4yro3cKzvMndHc5kX) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj), [Louis\-Étienne Santais](https://open.spotify.com/artist/0ZAl5PmCoUqY1PIuTYAghz) | [J'ai demandé à la lune](https://open.spotify.com/album/00oVQCf6moCjdGGiU2pIAg) | 3:25 | 2021-02-26 | 2021-05-03 |
-| [J'ai tout oublié](https://open.spotify.com/track/2VdpK4sQBqAuE4W8BtUYAK) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Et si j'étais à des années\-lumière](https://open.spotify.com/album/7IqJ0Tf87Lpi18CaA5SeyO) | 3:54 | 2022-07-08 |  |
+| [J'ai tout oublié](https://open.spotify.com/track/2VdpK4sQBqAuE4W8BtUYAK) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Et si j'étais à des années\-lumière](https://open.spotify.com/album/7IqJ0Tf87Lpi18CaA5SeyO) | 3:54 | 2022-07-08 | 2022-08-01 |
 | [J'ai tout oublié](https://open.spotify.com/track/1k1WXy8A5NjSMaTB5ibcO3) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [J'ai tout oublié \- Single](https://open.spotify.com/album/2JqB5rOeHapD0TdnReqeTo) | 3:55 | 2021-01-15 | 2022-07-28 |
 | [J'aime trop la vie](https://open.spotify.com/track/5mGDcrzJlFgPdhKmSBQpki) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'amour](https://open.spotify.com/album/1hRUtnckwxQzqdwcmA9tKy) | 5:33 | 2021-08-21 | 2021-10-09 |
 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 | 2021-07-24 |  |
@@ -206,6 +206,7 @@
 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 |  |
 | [Loulou](https://open.spotify.com/track/0g28Z0SKGBVZZq6NB8NsEt) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Loulou](https://open.spotify.com/album/6f0reSlDkHWcTyELvgkYzA) | 3:34 | 2021-10-17 | 2021-11-16 |
 | [Lubie](https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8) | 3:17 | 2021-01-03\* | 2022-07-29 |
+| [Lubie](https://open.spotify.com/track/62ZILfGIjQ9y7CUyfoR0z2) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/0PgBQ2nr9lGwY49QjAhMaa) | 3:17 | 2022-07-08 |  |
 | [Ma belle Clodie](https://open.spotify.com/track/6dIDM0vzyZqsqjODV3JK2a) | [Lauma](https://open.spotify.com/artist/7cHW7ZcuXJbucvesjvD4GK) | [Pixels](https://open.spotify.com/album/160lLNQ7uEPxrhosSwa5pk) | 5:02 | 2021-01-03\* | 2022-02-12 |
 | [Ma déroute \(Radio Edit\)](https://open.spotify.com/track/7tzJ2UyWtJX2CFUvKYVLuE) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [Ma déroute \(Radio Edit\)](https://open.spotify.com/album/13fBLkvKWZ5bfMLdngqNdJ) | 2:55 | 2021-03-27 | 2021-05-08 |
 | [Ma maladie mentale](https://open.spotify.com/track/6KICOrKKfsT0MGAVpxNpg9) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 3:25 | 2021-09-19 | 2021-09-20 |

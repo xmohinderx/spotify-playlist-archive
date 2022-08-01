@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Sean Leon
 
-464 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+465 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [All My Life](https://open.spotify.com/track/55HuOCeRlZ9lSUIwfxnX3n) | [L.I Freeze](https://open.spotify.com/artist/4kd8KtPKWxugiXSPAYjrZz) | [All My Life](https://open.spotify.com/album/2svbWVVsepSnCSdlFldeBY) | 3:15 | 2022-03-04 | 2022-03-26 |
 | [All the Smoke](https://open.spotify.com/track/75rSvt94l7MzoD374kq8eV) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [ALBUM MODE](https://open.spotify.com/album/6OfrJ7UtcsGI6y0dw9tHL6) | 3:48 | 2022-05-20 | 2022-07-09 |
 | [Already Made It](https://open.spotify.com/track/4YDOvcVVVYf9nyRHdWH0Dw) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Already Made It](https://open.spotify.com/album/5en7xLIvrTAYxRae9lBJH5) | 2:00 | 2022-01-21 | 2022-04-09 |
-| [Amanda](https://open.spotify.com/track/0kakbgTztKiPxig2Rxqetg) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4), [NC Capo](https://open.spotify.com/artist/28YnarJckzB3nbbZLhuedv) | [Amanda](https://open.spotify.com/album/6CaOSa0gG9LoWuuQ3xDBlK) | 2:08 | 2022-03-18 |  |
+| [Amanda](https://open.spotify.com/track/0kakbgTztKiPxig2Rxqetg) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4), [NC Capo](https://open.spotify.com/artist/28YnarJckzB3nbbZLhuedv) | [Amanda](https://open.spotify.com/album/6CaOSa0gG9LoWuuQ3xDBlK) | 2:08 | 2022-03-18 | 2022-08-01 |
+| [Amanda](https://open.spotify.com/track/4v7YM7fJ4y6hl05w7QY78t) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4), [NC Capo](https://open.spotify.com/artist/28YnarJckzB3nbbZLhuedv) | [Amanda](https://open.spotify.com/album/2dQ96TsEialQwVwUoMX04H) | 2:08 | 2022-07-29 |  |
 | [An Introduction](https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [An Introduction](https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d) | 2:26 | 2022-03-11 | 2022-04-09 |
 | [Andale](https://open.spotify.com/track/4Lk0nufAClU869ovcB1fU2) | [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [Fame Holiday](https://open.spotify.com/artist/2AjbOeYS0jcF0t2F0RDgNy) | [Andale](https://open.spotify.com/album/6NRBtjo7if3S4ui08r26yx) | 3:12 | 2022-04-08 | 2022-04-29 |
 | [Another One \- Remix](https://open.spotify.com/track/07b06ogQNYEW8xAnIdPrRw) | [NAYA ALI](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [Another One \(Remix\)](https://open.spotify.com/album/4e0a4s91wdBoAJcgWp4FjG) | 2:50 | 2022-02-18 | 2022-05-14 |

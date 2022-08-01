@@ -1,12 +1,12 @@
 {
   "description": "Welcome, you belong here.",
-  "num_followers": 1049,
+  "num_followers": 1103,
   "original_name": "Virtual Reality",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MTUwNSwwMDAwMDAwMDkyOGVkMTc5MWE0MWE3MGFlNmM2ZTA1NGExMWU0MjQ2",
+  "snapshot_id": "MTY1Nzg2MTUwNSwwMDAwMDAwMDM4YjU1MTMwZmVkMmNjZmIwMjllNmZkZDE5NTdiODg4",
   "tracks": [
     {
       "added_at": "2021-10-06 02:11:31",
@@ -195,22 +195,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc"
-      },
-      "artists": [
-        {
-          "name": "Hotel Silk",
-          "url": "https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd"
-        }
-      ],
-      "duration_ms": 431196,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/5liW7KNunCxMaEP3gbCI1C"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 255747,
       "name": "E d e n T r a n s i t",
       "url": "https://open.spotify.com/track/57LzKQoQDo4hWv7tdf894l"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc"
+      },
+      "artists": [
+        {
+          "name": "Hotel Silk",
+          "url": "https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd"
+        }
+      ],
+      "duration_ms": 431196,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Plays Bee Mask",
-        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 363380,
-      "name": "Vaporware 05",
-      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Especies Afines",
         "url": "https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 348000,
       "name": "Loba",
       "url": "https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Plays Bee Mask",
+        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "duration_ms": 363380,
+      "name": "Vaporware 05",
+      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/0t0hsYPyMuE4siG7GkDded"
     },
     {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Bright Curse (Edit)",
+        "url": "https://open.spotify.com/album/1NYDPhWgF8PKVtJ30rBVky"
+      },
+      "artists": [
+        {
+          "name": "Fenella",
+          "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Bright Curse - Edit",
+      "url": "https://open.spotify.com/track/0kVNpc8MOTj8ZPFKePVfm5"
+    },
+    {
       "added_at": "2022-01-14 02:01:09",
       "album": {
         "name": "Acrobatic Thoughts",
@@ -807,22 +823,6 @@
       "duration_ms": 369638,
       "name": "The Shape Of Trance To Come",
       "url": "https://open.spotify.com/track/6x71guQ6FQsyefFN3toj4n"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Bright Curse (Edit)",
-        "url": "https://open.spotify.com/album/1NYDPhWgF8PKVtJ30rBVky"
-      },
-      "artists": [
-        {
-          "name": "Fenella",
-          "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Bright Curse - Edit",
-      "url": "https://open.spotify.com/track/0kVNpc8MOTj8ZPFKePVfm5"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/3sv7dVSufdOzxx0YcGnNud"
     },
     {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Sensou EP",
-        "url": "https://open.spotify.com/album/0kyr0eyMiRtt7rr8galXOj"
-      },
-      "artists": [
-        {
-          "name": "Denial of Service",
-          "url": "https://open.spotify.com/artist/4pwAAA4HZr6ysZILkjQVaq"
-        }
-      ],
-      "duration_ms": 364439,
-      "name": "Sensou v3",
-      "url": "https://open.spotify.com/track/5e3KCTkAZVUSS2ZfuiuTuy"
-    },
-    {
       "added_at": "2022-04-12 01:34:51",
       "album": {
         "name": "I Can't Die as Well",
@@ -923,6 +907,22 @@
       "duration_ms": 145774,
       "name": "I Can't Die as Well",
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Sensou EP",
+        "url": "https://open.spotify.com/album/0kyr0eyMiRtt7rr8galXOj"
+      },
+      "artists": [
+        {
+          "name": "Denial of Service",
+          "url": "https://open.spotify.com/artist/4pwAAA4HZr6ysZILkjQVaq"
+        }
+      ],
+      "duration_ms": 364439,
+      "name": "Sensou v3",
+      "url": "https://open.spotify.com/track/5e3KCTkAZVUSS2ZfuiuTuy"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "The Mosaic of Transformation",
-        "url": "https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 339493,
-      "name": "The Steady Heart",
-      "url": "https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "The Mosaic of Transformation",
+        "url": "https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 339493,
+      "name": "The Steady Heart",
+      "url": "https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Starstuff",
-        "url": "https://open.spotify.com/album/2XoRKXr7y9755Auuvh9n1h"
-      },
-      "artists": [
-        {
-          "name": "Blanck Mass",
-          "url": "https://open.spotify.com/artist/73LvjicByRK5LazcQYZMAY"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Starstuff - Single Edit",
-      "url": "https://open.spotify.com/track/5LJ7a0wX9Ezslbqkbrwyrd"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Unlit Signals",
         "url": "https://open.spotify.com/album/4VA5lelPeYTDivRo2rf8ah"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 316645,
       "name": "Pax Cultura",
       "url": "https://open.spotify.com/track/3VCZmy8zxp1Bz7BQYTqEIS"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Starstuff",
+        "url": "https://open.spotify.com/album/2XoRKXr7y9755Auuvh9n1h"
+      },
+      "artists": [
+        {
+          "name": "Blanck Mass",
+          "url": "https://open.spotify.com/artist/73LvjicByRK5LazcQYZMAY"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Starstuff - Single Edit",
+      "url": "https://open.spotify.com/track/5LJ7a0wX9Ezslbqkbrwyrd"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "FIBS",
-        "url": "https://open.spotify.com/album/1y9d61gXNTgG0rZl7d6IFj"
-      },
-      "artists": [
-        {
-          "name": "Anna Meredith",
-          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
-        }
-      ],
-      "duration_ms": 278276,
-      "name": "Sawbones",
-      "url": "https://open.spotify.com/track/0tpho5AS8b6adlsHfJIrsN"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Sublunar Oracles",
         "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 367320,
       "name": "Dencity",
       "url": "https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "FIBS",
+        "url": "https://open.spotify.com/album/1y9d61gXNTgG0rZl7d6IFj"
+      },
+      "artists": [
+        {
+          "name": "Anna Meredith",
+          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
+        }
+      ],
+      "duration_ms": 278276,
+      "name": "Sawbones",
+      "url": "https://open.spotify.com/track/0tpho5AS8b6adlsHfJIrsN"
     },
     {
       "added_at": "2022-02-16 03:00:45",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/73ftARNcKnSjzzCodbBwWq"
     },
     {
-      "added_at": "2022-01-12 01:42:01",
-      "album": {
-        "name": "ocean side liveEP",
-        "url": "https://open.spotify.com/album/7gtaQeg3G5nKEOe3pENvc3"
-      },
-      "artists": [
-        {
-          "name": "zezeco",
-          "url": "https://open.spotify.com/artist/2M6p4lAUqQmhLYqlEgvbQc"
-        }
-      ],
-      "duration_ms": 238321,
-      "name": "underdog - ocean side Ver.",
-      "url": "https://open.spotify.com/track/1lnBAkz7bOLAphCVEEUbjs"
-    },
-    {
       "added_at": "2021-10-06 02:11:31",
       "album": {
         "name": "The Infinity File",
@@ -1387,6 +1371,22 @@
       "duration_ms": 220848,
       "name": "Occurrence at the Triple Door",
       "url": "https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu"
+    },
+    {
+      "added_at": "2022-01-12 01:42:01",
+      "album": {
+        "name": "ocean side liveEP",
+        "url": "https://open.spotify.com/album/7gtaQeg3G5nKEOe3pENvc3"
+      },
+      "artists": [
+        {
+          "name": "zezeco",
+          "url": "https://open.spotify.com/artist/2M6p4lAUqQmhLYqlEgvbQc"
+        }
+      ],
+      "duration_ms": 238321,
+      "name": "underdog - ocean side Ver.",
+      "url": "https://open.spotify.com/track/1lnBAkz7bOLAphCVEEUbjs"
     },
     {
       "added_at": "2022-01-21 20:16:34",
@@ -1423,26 +1423,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Spoken By The Other",
-        "url": "https://open.spotify.com/album/2Q4wyQW46RuPeVLyqSGxJt"
+        "name": "Beats By Gobby 2",
+        "url": "https://open.spotify.com/album/4x6P7VMRVCkQrybU4wyaFZ"
       },
       "artists": [
         {
-          "name": "Powell Tillmans",
-          "url": "https://open.spotify.com/artist/6mgbi682gE7em8zkppaGAE"
-        },
-        {
-          "name": "Powell",
-          "url": "https://open.spotify.com/artist/6jeKkBjseBOCCmqBvnhSkt"
-        },
-        {
-          "name": "Wolfgang Tillmans",
-          "url": "https://open.spotify.com/artist/6RVjyIvL2HuwiFSc7RROv9"
+          "name": "Gobby",
+          "url": "https://open.spotify.com/artist/2fWQldEUHscXhkIMlVfMSN"
         }
       ],
-      "duration_ms": 231241,
-      "name": "Feel the Night",
-      "url": "https://open.spotify.com/track/06igyVK0CTN41UHAGxWGXQ"
+      "duration_ms": 131299,
+      "name": "BB Guide",
+      "url": "https://open.spotify.com/track/3bXMsKLDabILI15Rt78V8K"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1463,18 +1455,26 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Beats By Gobby 2",
-        "url": "https://open.spotify.com/album/4x6P7VMRVCkQrybU4wyaFZ"
+        "name": "Spoken By The Other",
+        "url": "https://open.spotify.com/album/2Q4wyQW46RuPeVLyqSGxJt"
       },
       "artists": [
         {
-          "name": "Gobby",
-          "url": "https://open.spotify.com/artist/2fWQldEUHscXhkIMlVfMSN"
+          "name": "Powell Tillmans",
+          "url": "https://open.spotify.com/artist/6mgbi682gE7em8zkppaGAE"
+        },
+        {
+          "name": "Powell",
+          "url": "https://open.spotify.com/artist/6jeKkBjseBOCCmqBvnhSkt"
+        },
+        {
+          "name": "Wolfgang Tillmans",
+          "url": "https://open.spotify.com/artist/6RVjyIvL2HuwiFSc7RROv9"
         }
       ],
-      "duration_ms": 131299,
-      "name": "BB Guide",
-      "url": "https://open.spotify.com/track/3bXMsKLDabILI15Rt78V8K"
+      "duration_ms": 231241,
+      "name": "Feel the Night",
+      "url": "https://open.spotify.com/track/06igyVK0CTN41UHAGxWGXQ"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84"
     },
     {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/2uMPmTBUG37wuAr4t3D2RN"
-      },
-      "artists": [
-        {
-          "name": "Mark Guiliana",
-          "url": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1"
-        }
-      ],
-      "duration_ms": 305501,
-      "name": "GIRL",
-      "url": "https://open.spotify.com/track/4w5jdncM0hAJKQPkAe4KhW"
-    },
-    {
       "added_at": "2022-04-23 04:25:26",
       "album": {
         "name": "Musica Nova",
@@ -1591,6 +1575,22 @@
       "duration_ms": 313973,
       "name": "Musica Nova",
       "url": "https://open.spotify.com/track/3sjyx4ORFG6X4SAd0EsPmK"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/2uMPmTBUG37wuAr4t3D2RN"
+      },
+      "artists": [
+        {
+          "name": "Mark Guiliana",
+          "url": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1"
+        }
+      ],
+      "duration_ms": 305501,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/4w5jdncM0hAJKQPkAe4KhW"
     },
     {
       "added_at": "2021-10-06 02:11:31",

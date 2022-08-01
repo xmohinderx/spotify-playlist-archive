@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 4134,
+  "num_followers": 4158,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2MDk3NSwwMDAwMDAwMDk4ZTQzMGVkMDY5ZTc5N2I2NWYyNTJmYTA5MTkyZTM3",
+  "snapshot_id": "MTY1NzI2MDk3NSwwMDAwMDAwMGVlNjMyNTAxZjRmNzQzOTA0NmU1NjNhZTRjODkzYWMx",
   "tracks": [
     {
       "added_at": "2022-07-08 06:16:15",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8"
-      },
-      "artists": [
-        {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
-        }
-      ],
-      "duration_ms": 258532,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx"
-    },
-    {
-      "added_at": "2022-07-08 06:16:15",
-      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 229187,
       "name": "180 Degree",
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+    },
+    {
+      "added_at": "2022-07-08 06:16:15",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "duration_ms": 258532,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2022-07-08 06:16:15",
-      "album": {
         "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
         "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 211999,
       "name": "Can't Go",
       "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
+    },
+    {
+      "added_at": "2022-07-08 06:16:15",
+      "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
-        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Living in the same time",
-      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
-    },
-    {
-      "added_at": "2022-07-08 06:16:15",
-      "album": {
         "name": "Thank you for Goodbye",
         "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 159365,
       "name": "girl in red",
       "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
+    },
+    {
+      "added_at": "2022-07-08 06:16:15",
+      "album": {
+        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
+        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Living in the same time",
+      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.13",
+        "url": "https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "CANDO",
+          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
         }
       ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
+      "duration_ms": 189200,
+      "name": "A Long Night",
+      "url": "https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.13",
-        "url": "https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS"
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
       "artists": [
         {
-          "name": "CANDO",
-          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 189200,
-      "name": "A Long Night",
-      "url": "https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG"
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2022-07-08 06:16:15",

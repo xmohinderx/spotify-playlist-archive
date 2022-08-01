@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Trousdale",
-  "num_followers": 779507,
+  "num_followers": 779578,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzEyOTE5MiwwMDAwMDAwMGNmMWY4YzVkMWUzNWNiMDMyMWFmMzRjYjNmMDFlMjll",
+  "snapshot_id": "MTY0NzEyOTE5MiwwMDAwMDAwMDhlYmEzOTU3ZmU5YWZkYmQyNGNmYTk4NDA0OTNhNjY1",
   "tracks": [
     {
       "added_at": "2022-03-12 23:53:12",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
+        "name": "Those Younger Days",
+        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
+      },
+      "artists": [
+        {
+          "name": "The Hunts",
+          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
-        "name": "Those Younger Days",
-        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
-      },
-      "artists": [
-        {
-          "name": "The Hunts",
-          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Help Me to Feel Again",
-        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 262383,
-      "name": "Help Me to Feel Again",
-      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Help Me to Feel Again",
+        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 262383,
+      "name": "Help Me to Feel Again",
+      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
+        "name": "Omaha",
+        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
+      },
+      "artists": [
+        {
+          "name": "Falls",
+          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
         "name": "Kairos",
         "url": "https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Omaha",
-        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
       },
       "artists": [
         {
-          "name": "Falls",
-          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 198600,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
+      "duration_ms": 207400,
+      "name": "Ten Steps Back",
+      "url": "https://open.spotify.com/track/2isLKMPLn2TziEALHXsruK"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1295,22 +1311,6 @@
       "duration_ms": 144506,
       "name": "Searching",
       "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Ten Steps Back",
-      "url": "https://open.spotify.com/track/2isLKMPLn2TziEALHXsruK"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Left With The Wolves",
-        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
-      },
-      "artists": [
-        {
-          "name": "Nathan Hawes",
-          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
-        }
-      ],
-      "duration_ms": 229334,
-      "name": "Left With The Wolves",
-      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 211360,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Left With The Wolves",
+        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hawes",
+          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
+        }
+      ],
+      "duration_ms": 229334,
+      "name": "Left With The Wolves",
+      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Greatest Enemy",
-        "url": "https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Greatest Enemy",
-      "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/7wNsondY4Wz6ll9eF0XFzH"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 195000,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/4g3Ocpx03I8lvA8dx9GdQQ"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Greatest Enemy",
+        "url": "https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Greatest Enemy",
+      "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Clich\u00e9",
-        "url": "https://open.spotify.com/album/7fL5UDmFr1IdZH3DNP5xhG"
-      },
-      "artists": [
-        {
-          "name": "Cece Coakley",
-          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/2pBym9Ta4unUYYefC1qEjy"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Always, Joni",
         "url": "https://open.spotify.com/album/5kSFUmD1KNcPJP0A4Cdakp"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 189563,
       "name": "Always, Joni",
       "url": "https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/7fL5UDmFr1IdZH3DNP5xhG"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/2pBym9Ta4unUYYefC1qEjy"
     },
     {
       "added_at": "2022-03-12 23:53:12",

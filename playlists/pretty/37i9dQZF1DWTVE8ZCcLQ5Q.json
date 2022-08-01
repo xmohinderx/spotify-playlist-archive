@@ -1,12 +1,12 @@
 {
   "description": "Descubra Veigh e novos talentos brasileiros no horizonte.",
-  "num_followers": 421909,
+  "num_followers": 421878,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkyOTYwOCwwMDAwMDAwMGVmYjBiMmI4NDRjNGUzODU3ZDQ2ODE1ZGM0MzM5OWVl",
+  "snapshot_id": "MTY1ODkyOTYwOCwwMDAwMDAwMDQzNmJjOTkwM2ZhNzRlZDM0NjA0NTE5NjIzNzRmOWUy",
   "tracks": [
     {
       "added_at": "2022-07-27 13:46:48",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
+        "name": "Eu Fiquei Com a Puta",
+        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
+      },
+      "artists": [
+        {
+          "name": "MC Josh",
+          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Eu Fiquei Com a Puta",
+      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
         "name": "Incrivel Jogando a Potranca",
         "url": "https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 110769,
       "name": "Incrivel Jogando a Potranca",
       "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
-        "name": "Eu Fiquei Com a Puta",
-        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
-      },
-      "artists": [
-        {
-          "name": "MC Josh",
-          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Eu Fiquei Com a Puta",
-      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
     },
     {
       "added_at": "2022-07-27 13:46:48",

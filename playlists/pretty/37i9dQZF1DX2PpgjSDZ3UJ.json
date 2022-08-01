@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 18029,
+  "num_followers": 18040,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDE4ODYyMzM0OGFlYTVmZjU2YmVlYWZhNDcyZWE0YTBk",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDZhMTBjMjg0ZmU2MWQ3YmIxNTE4YjdjYmY2MGYyOWNj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "La Flor",
         "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 186474,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Estar Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2HJsQtPou9yNsfZazDibbM"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00edculas Geniales",
-          "url": "https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f"
-        },
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Estar Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6vASeQmZYvA59q4ZfHhCOH"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "AZUL\u00c6",
         "url": "https://open.spotify.com/album/1h7GakzHHoyEYyWhvlmiWo"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 220750,
       "name": "7 O 9 - Ep. 11: Las vidas de los gato",
       "url": "https://open.spotify.com/track/2s5ZDuhEmW9wte8vCSrgev"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Estar Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2HJsQtPou9yNsfZazDibbM"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00edculas Geniales",
+          "url": "https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f"
+        },
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Estar Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6vASeQmZYvA59q4ZfHhCOH"
     },
     {
       "added_at": "2020-12-01 05:03:00",

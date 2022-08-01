@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. MOSBI on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,965 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,970 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 15 | [sin tu fuego](https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Hasta en los sueños...](https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL) | 4:18 |
 | 16 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
 | 17 | [Aprendiendo por las Malas](https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Aprendiendo por las Malas](https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3) | 3:13 |
-| 18 | [Toxic](https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj) | [Lenay](https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D) | [Toxic](https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD) | 2:41 |
-| 19 | [Vamos pa' la Calle](https://open.spotify.com/track/6wYg8famUEPTy5T0GW88Ss) | [TGO](https://open.spotify.com/artist/60Qd4MNKoo1o3LwysjFVPV), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei) | [Vamos pa' la Calle](https://open.spotify.com/album/78ve7Z6x8WDVxoR6oUetPZ) | 2:27 |
+| 18 | [Vamos pa' la Calle](https://open.spotify.com/track/6wYg8famUEPTy5T0GW88Ss) | [TGO](https://open.spotify.com/artist/60Qd4MNKoo1o3LwysjFVPV), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei) | [Vamos pa' la Calle](https://open.spotify.com/album/78ve7Z6x8WDVxoR6oUetPZ) | 2:27 |
+| 19 | [Toxic](https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj) | [Lenay](https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D) | [Toxic](https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD) | 2:41 |
 | 20 | [Natural](https://open.spotify.com/track/03SLmnUTzDVHThnuFsZhcK) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Natural](https://open.spotify.com/album/4BLjShadSxoIYj899qy8Tw) | 3:28 |
 | 21 | [lunares](https://open.spotify.com/track/7FHOlF1iITc5lYpBXgzGys) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [lunares](https://open.spotify.com/album/6OmRozmFfSdu7iqogj00ER) | 2:30 |
 | 22 | [Nevel](https://open.spotify.com/track/6wZ02O2sdWq8uUTpKyA7l2) | [YUNG BOI](https://open.spotify.com/artist/2IZTXLWKJGbmFiqly8VmvG) | [Amanece](https://open.spotify.com/album/4tKJLsb1LZLuJ09coedQqo) | 2:14 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 26 | [Te Pierdo](https://open.spotify.com/track/6XEed18Rq0zBVE4PcqFSIX) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Amar y Perder](https://open.spotify.com/album/28TLMdVFUHBPqQiroXMU8L) | 3:50 |
 | 27 | [Otra Temporada](https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Santiago Palacios](https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I) | [Otra Temporada](https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ) | 4:01 |
 | 28 | [Huracan](https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Huracan](https://open.spotify.com/album/4FPzcCgliOsV62ZYXk9xqi) | 3:04 |
-| 29 | [No Tengo Ganas](https://open.spotify.com/track/7qiVRVykZr2xBvvJ888tTG) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [No Tengo Ganas](https://open.spotify.com/album/0YZ0V9DV5uQ19ejE0QuzbF) | 4:07 |
-| 30 | [Celular](https://open.spotify.com/track/52SOOJbQK43ThZpzJPkjbQ) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Celular](https://open.spotify.com/album/596veIoeFm89apz1MbGoNE) | 2:46 |
-| 31 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
-| 32 | [Todo el Brillo](https://open.spotify.com/track/6WqkTuNzBuPmEjW8MoCB49) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP), [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ), [Prinka](https://open.spotify.com/artist/0bXxVwNorsXZk9Q5HPxY2z) | [Todo el Brillo](https://open.spotify.com/album/5GJbUttuSGz0hXM4Lc4szW) | 2:50 |
+| 29 | [Celular](https://open.spotify.com/track/52SOOJbQK43ThZpzJPkjbQ) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Celular](https://open.spotify.com/album/596veIoeFm89apz1MbGoNE) | 2:46 |
+| 30 | [No Tengo Ganas](https://open.spotify.com/track/7qiVRVykZr2xBvvJ888tTG) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [No Tengo Ganas](https://open.spotify.com/album/0YZ0V9DV5uQ19ejE0QuzbF) | 4:07 |
+| 31 | [Todo el Brillo](https://open.spotify.com/track/6WqkTuNzBuPmEjW8MoCB49) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP), [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ), [Prinka](https://open.spotify.com/artist/0bXxVwNorsXZk9Q5HPxY2z) | [Todo el Brillo](https://open.spotify.com/album/5GJbUttuSGz0hXM4Lc4szW) | 2:50 |
+| 32 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
 | 33 | [Ansiedad](https://open.spotify.com/track/6fYvRdhJvYcCKRNeVG0S40) | [Dani Barranco](https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6) | [Siento](https://open.spotify.com/album/57HbKQsKQ98wY7CLUQhrw2) | 3:42 |
 | 34 | [Espejos](https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Lo que no ves](https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW) | 2:15 |
 | 35 | [azúcar](https://open.spotify.com/track/7ijx9EtHx1ImdRkC9LQoJW) | [mau](https://open.spotify.com/artist/0ZURfcYcS9GldV99dbHWCr) | [azúcar](https://open.spotify.com/album/5dugwIhpvF8pm3DfGeVsBL) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [¿Cuándo Vas a Volver?](https://open.spotify.com/track/464K8RZRkC4dhh8hpycRdX) | [EL YOWI GANG](https://open.spotify.com/artist/5Be5VwF6d9i0I7EOpu7rx4), [Yara](https://open.spotify.com/artist/4Yy7BNU597L8XTM2qjwgPv) | [Back In Loniess](https://open.spotify.com/album/0ycbCdYMzjpYsUpApj7TA7) | 2:44 |
 | 50 | [Pulso](https://open.spotify.com/track/4daYahumM3yi3b3qW8DYZ2) | [Brazo de Reina](https://open.spotify.com/artist/0Vw103BtOsKVeCoigzVqkG) | [Interfase](https://open.spotify.com/album/0D3z89WaIe5PMhQi7H1gjJ) | 5:39 |
 
-Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMGY1M2NlOGI4NGQ3ZjMxNzhmMDQ4MDI2YzQ5NTU1MDA2`
+Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMDA4MDBjODU4MGYyZDQ3ZDJhMzk0NjUyMDRkM2NmNmZk`

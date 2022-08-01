@@ -597,10 +597,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 128253,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/0kakbgTztKiPxig2Rxqetg"
+    },
+    {
+      "album": {
+        "name": "Amanda",
+        "url": "https://open.spotify.com/album/2dQ96TsEialQwVwUoMX04H"
+      },
+      "artists": [
+        {
+          "name": "MixTapper",
+          "url": "https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4"
+        },
+        {
+          "name": "NC Capo",
+          "url": "https://open.spotify.com/artist/28YnarJckzB3nbbZLhuedv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128253,
+      "name": "Amanda",
+      "url": "https://open.spotify.com/track/4v7YM7fJ4y6hl05w7QY78t"
     },
     {
       "album": {

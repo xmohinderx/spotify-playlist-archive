@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 786682,
+  "num_followers": 786944,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzE5NzA2OCwwMDAwMDAwMDQ4Njg0ZjRkM2JlNGZlNGJmZDc5MzBjYzYzODI1NGVk",
+  "snapshot_id": "MTY1NzE5NzA2OCwwMDAwMDAwMDZjNjYyY2QxYzU3M2ZmZWNkM2EwODVjNGI3MGUwOTAy",
   "tracks": [
     {
       "added_at": "2022-06-03 07:56:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 315640,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205162,
-      "name": "Madiba Riddim",
-      "url": "https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Madiba Riddim",
+      "url": "https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 181644,
       "name": "Everything (feat. John Legend)",
       "url": "https://open.spotify.com/track/0V6imIPZVXJEtl2umdNILO"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 381626,
       "name": "Spinning the Wheel",
       "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
+        "name": "Loose Tonight",
+        "url": "https://open.spotify.com/album/25zR8MQUJTJyj3TJecBRki"
+      },
+      "artists": [
+        {
+          "name": "Hips",
+          "url": "https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Loose Tonight",
+      "url": "https://open.spotify.com/track/3PE4AQbEvRXZf8Vdj1ph1V"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
         "name": "Playing For You",
         "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
       },
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "Conscience",
-        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
-      },
-      "artists": [
-        {
-          "name": "Womack & Womack",
-          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "M.P.B.",
-      "url": "https://open.spotify.com/track/0w4QlIOtXEJEPvftQo9VSe"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
         "name": "Limbo/Lagune",
         "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
       },
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "SoulMate",
-        "url": "https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX"
+        "name": "Conscience",
+        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Womack & Womack",
+          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
         }
       ],
-      "duration_ms": 196231,
-      "name": "SoulMate",
-      "url": "https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD"
+      "duration_ms": 238066,
+      "name": "M.P.B.",
+      "url": "https://open.spotify.com/track/0w4QlIOtXEJEPvftQo9VSe"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
+        "name": "SoulMate",
+        "url": "https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "SoulMate",
+      "url": "https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
       },
@@ -1703,6 +1719,22 @@
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/67W4biyQmCea38iD3vxlEV"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 205951,
+      "name": "Windy",
+      "url": "https://open.spotify.com/track/6xraWJ8FdIJ8c8HpwXhNgs"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -1727,18 +1759,18 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/67W4biyQmCea38iD3vxlEV"
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
       },
       "artists": [
         {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 205951,
-      "name": "Windy",
-      "url": "https://open.spotify.com/track/6xraWJ8FdIJ8c8HpwXhNgs"
+      "duration_ms": 206160,
+      "name": "Fool to Love",
+      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -1755,22 +1787,6 @@
       "duration_ms": 172874,
       "name": "Little Bit of Lovin",
       "url": "https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Fool to Love",
-      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/2pHzR4bE0L5HL2fpmHrItK"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/24wPEUf7xIYhwIuJM5HV8G"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -1843,6 +1843,22 @@
       "duration_ms": 162400,
       "name": "Have A Talk With God",
       "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/2pHzR4bE0L5HL2fpmHrItK"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/24wPEUf7xIYhwIuJM5HV8G"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -1979,22 +1995,6 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "Adojio",
-        "url": "https://open.spotify.com/album/3dfTeRPEPCLiBlzEQBMPAK"
-      },
-      "artists": [
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        }
-      ],
-      "duration_ms": 190152,
-      "name": "Starchild",
-      "url": "https://open.spotify.com/track/4Ku4jFPD4J7UxdjG0xpjPf"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
         "name": "Harmonies",
         "url": "https://open.spotify.com/album/2l6MYrhN7T3DwsH05XsXxp"
       },
@@ -2027,6 +2027,22 @@
       "duration_ms": 354093,
       "name": "Stop By",
       "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
+        "name": "Adojio",
+        "url": "https://open.spotify.com/album/3dfTeRPEPCLiBlzEQBMPAK"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        }
+      ],
+      "duration_ms": 190152,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/4Ku4jFPD4J7UxdjG0xpjPf"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -2127,6 +2143,22 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
+        "name": "Weird Invitations",
+        "url": "https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh"
+      },
+      "artists": [
+        {
+          "name": "Phlake",
+          "url": "https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Chunks",
+      "url": "https://open.spotify.com/track/3lFCbvyrJ7soEgTjIkELMT"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
         "name": "(04:30) Idler",
         "url": "https://open.spotify.com/album/25a6Z1lDoKJc3ifMCt3QW7"
       },
@@ -2171,22 +2203,6 @@
       "duration_ms": 169626,
       "name": "Video Girl",
       "url": "https://open.spotify.com/track/1QTwsvMPkxAhMNsuYamqZQ"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
-        "name": "Weird Invitations",
-        "url": "https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh"
-      },
-      "artists": [
-        {
-          "name": "Phlake",
-          "url": "https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Chunks",
-      "url": "https://open.spotify.com/track/3lFCbvyrJ7soEgTjIkELMT"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -2303,22 +2319,6 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "R.O.S.E. (Empowerment)",
-        "url": "https://open.spotify.com/album/0WLDf5V9llFSTpYTRKofs7"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "I Believe In Love",
-      "url": "https://open.spotify.com/track/4tOmFSoQA9ji8lTxAbbvq1"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/7nZpn7mqTxQuxjiKBxUVZ0"
       },
@@ -2335,18 +2335,18 @@
     {
       "added_at": "2022-06-03 07:56:00",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/69bgbAILh3pnvCe7W9AZ5q"
+        "name": "R.O.S.E. (Empowerment)",
+        "url": "https://open.spotify.com/album/0WLDf5V9llFSTpYTRKofs7"
       },
       "artists": [
         {
-          "name": "Joseph Lawrence",
-          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         }
       ],
-      "duration_ms": 191135,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/0Bc3PSRh7mZP0jgjMMG4zW"
+      "duration_ms": 229773,
+      "name": "I Believe In Love",
+      "url": "https://open.spotify.com/track/4tOmFSoQA9ji8lTxAbbvq1"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -2363,6 +2363,22 @@
       "duration_ms": 261933,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/7qeZlLUOEwoWAiNKHNo6Sw"
+    },
+    {
+      "added_at": "2022-06-03 07:56:00",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/69bgbAILh3pnvCe7W9AZ5q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "duration_ms": 191135,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0Bc3PSRh7mZP0jgjMMG4zW"
     },
     {
       "added_at": "2022-06-03 07:56:00",
@@ -2527,22 +2543,6 @@
       "duration_ms": 173444,
       "name": "Classic (feat. Leila Dey)",
       "url": "https://open.spotify.com/track/5PHgf88ChFGGMdF69wU4YQ"
-    },
-    {
-      "added_at": "2022-06-03 07:56:00",
-      "album": {
-        "name": "Strange Kind Of Love",
-        "url": "https://open.spotify.com/album/7Cu9jzQsOf0yLWr87bEtBT"
-      },
-      "artists": [
-        {
-          "name": "The Lovelines",
-          "url": "https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2"
-        }
-      ],
-      "duration_ms": 126979,
-      "name": "Strange Kind Of Love",
-      "url": "https://open.spotify.com/track/3M8N1bOe4Vrev4HAoOFeeY"
     }
   ],
   "unique_name": "Kitchen Swagger",

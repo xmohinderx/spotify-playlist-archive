@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 14829,
+  "num_followers": 14838,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDBjMTYwMjc1MDQ2OGE4MjE4MTljY2UxYTgwMzU2OGNk",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDUzNzY0NWNhMzdlZTgzZjA0N2E2ZWYxMmNlOTc2YTE2",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -827,22 +827,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
+        "name": "Brown Soul",
+        "url": "https://open.spotify.com/album/6MaJ3gngJJpiR4UNHwHrZu"
       },
       "artists": [
         {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
         },
         {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+          "name": "Southside Hoodlum",
+          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
         }
       ],
-      "duration_ms": 159653,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
+      "duration_ms": 132465,
+      "name": "Soul Different",
+      "url": "https://open.spotify.com/track/4v0X2b5R7OYMZgDrBTzTEM"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -867,22 +867,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Brown Soul",
-        "url": "https://open.spotify.com/album/6MaJ3gngJJpiR4UNHwHrZu"
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
       },
       "artists": [
         {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
         },
         {
-          "name": "Southside Hoodlum",
-          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
         }
       ],
-      "duration_ms": 132465,
-      "name": "Soul Different",
-      "url": "https://open.spotify.com/track/4v0X2b5R7OYMZgDrBTzTEM"
+      "duration_ms": 159653,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Fuck The Yotes",
-        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Fuck The Yotes",
-      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "El Idolo",
         "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 128000,
       "name": "El Idolo",
       "url": "https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Fuck The Yotes",
+        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Fuck The Yotes",
+      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
     },
     {
       "added_at": "2022-07-15 04:00:00",

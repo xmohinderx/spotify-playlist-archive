@@ -1,12 +1,12 @@
 {
   "description": "An exclusive collection of Malayalam super hit songs.\nCover: Aarattu",
-  "num_followers": 9641,
+  "num_followers": 9773,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5MTA0MCwwMDAwMDAwMDE5MGQ4M2E1MmM0Y2NiZTY0N2Q3MzgzNzk1YmYxNmM1",
+  "snapshot_id": "MTY1OTI3MjMxMiwwMDAwMDAwMGQ0NTZiODk4ZWQ5OGE2ZWZjZjdkMzA1N2MwMTM2Y2Iz",
   "tracks": [
     {
       "added_at": "2022-07-13 06:43:44",
@@ -145,6 +145,26 @@
       "url": "https://open.spotify.com/track/1wLZaMyjl09RFIyzc51hlx"
     },
     {
+      "added_at": "2022-07-31 12:58:32",
+      "album": {
+        "name": "Cholappenne (From \"Malayankunju\")",
+        "url": "https://open.spotify.com/album/3d18bx7mnfeA5Ne0S8Epyb"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        }
+      ],
+      "duration_ms": 222248,
+      "name": "Cholappenne - From \"Malayankunju\"",
+      "url": "https://open.spotify.com/track/6v0c0neh1gNUX5r8B4GdFT"
+    },
+    {
       "added_at": "2022-05-17 06:14:03",
       "album": {
         "name": "Jeevamshamayi (From \"Theevandi\")",
@@ -191,6 +211,26 @@
       "duration_ms": 261778,
       "name": "Alare",
       "url": "https://open.spotify.com/track/4xiOtiXXochXwmw3MU946g"
+    },
+    {
+      "added_at": "2022-07-31 12:58:32",
+      "album": {
+        "name": "Mannum Niranje (From \"Malayankunju\")",
+        "url": "https://open.spotify.com/album/1WfqVFC9GDAryyxOCoQQSP"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Swetha Mohan",
+          "url": "https://open.spotify.com/artist/7k9nUuuFVAXCPdKCbxUXpB"
+        }
+      ],
+      "duration_ms": 197342,
+      "name": "Mannum Niranje - From \"Malayankunju\"",
+      "url": "https://open.spotify.com/track/7c9OenjLTdDRASPXEEnrX8"
     },
     {
       "added_at": "2022-06-16 11:57:53",
@@ -315,26 +355,6 @@
       "duration_ms": 327155,
       "name": "Uyire - From \"Minnal Murali\"",
       "url": "https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg"
-    },
-    {
-      "added_at": "2022-05-17 07:47:48",
-      "album": {
-        "name": "Udaharanam Sujatha",
-        "url": "https://open.spotify.com/album/7Ha7xnNEVupZWoK0TtAYor"
-      },
-      "artists": [
-        {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
-        },
-        {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        }
-      ],
-      "duration_ms": 205244,
-      "name": "Ethu Mazhayilum",
-      "url": "https://open.spotify.com/track/3ZivUANfZkfsmOi7L29n5E"
     },
     {
       "added_at": "2022-06-16 11:57:53",
@@ -543,6 +563,26 @@
       "duration_ms": 233190,
       "name": "Pavizha Mazha",
       "url": "https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu"
+    },
+    {
+      "added_at": "2022-07-31 12:58:32",
+      "album": {
+        "name": "Kannu (From \"Visudha Mejo\")",
+        "url": "https://open.spotify.com/album/3o4GmyuH13xMxORlnTvO9j"
+      },
+      "artists": [
+        {
+          "name": "Adheef Muhamed",
+          "url": "https://open.spotify.com/artist/6Vaa0LrrwLHwX69gYjghH4"
+        },
+        {
+          "name": "Justin Varghese",
+          "url": "https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh"
+        }
+      ],
+      "duration_ms": 201937,
+      "name": "Kannu - From \"Visudha Mejo\"",
+      "url": "https://open.spotify.com/track/5kRHq7ShB1VqgCz7e7n2SM"
     },
     {
       "added_at": "2022-05-17 06:14:03",

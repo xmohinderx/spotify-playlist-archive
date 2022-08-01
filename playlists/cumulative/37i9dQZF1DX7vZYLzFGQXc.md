@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent talents are here\. \(Cover: YUNNUGU\(윤누구\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
+> Fresh new Korean independent talents are here\. \(Cover: HUNJIYA\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
 558 songs - 1 day 7 hr 53 min - [published](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
 

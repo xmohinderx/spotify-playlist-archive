@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-175 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+176 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Fired Up](https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f) | 4:22 | 2021-12-27 | 2022-07-29 |
 | [Floating World](https://open.spotify.com/track/0ZUeaIWcAtNikrncaYwjHl) | [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 3:21 | 2022-01-10 | 2022-07-29 |
 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 | 2021-12-27 |  |
+| [Forever Yours](https://open.spotify.com/track/2RrsWRwIovqT8NXqVohHJo) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6cF2eSwNvRcS8K1nYzI0tT) | 4:09 | 2022-07-18 |  |
 | [Forever Yours](https://open.spotify.com/track/3A8ZJNLPBYKLt2r1pbRKeQ) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6UHWGNhNxr24TCqUVUkUTh) | 4:09 | 2022-04-11 | 2022-04-17 |
 | [Get Up, Stand Up](https://open.spotify.com/track/6pojpuQZ2BdoMtUjJJveia) | [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu), [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/13irGIRyXzvK9b39Zqcljs) | 4:57 | 2022-04-11 | 2022-04-21 |
 | [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 | 2022-07-18 |  |
@@ -106,7 +107,7 @@
 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 | 2022-07-18 |  |
 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 | 2021-12-27 | 2022-07-29 |
 | [Listen to This](https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:13 | 2021-12-27 | 2022-05-12 |
-| [Long Road](https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Global Kiss](https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp) | 4:21 | 2022-01-17 |  |
+| [Long Road](https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Global Kiss](https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp) | 4:21 | 2022-01-17 | 2022-08-01 |
 | [Love Crazy](https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G) | 3:54 | 2021-12-27 | 2022-07-28 |
 | [Low and Slow](https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ) | 4:08 | 2021-12-27 | 2022-07-26 |
 | [Low And Slow](https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:08 | 2022-07-18 |  |

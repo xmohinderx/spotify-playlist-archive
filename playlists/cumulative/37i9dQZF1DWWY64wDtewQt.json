@@ -2344,6 +2344,24 @@
     },
     {
       "album": {
+        "name": "L.V.",
+        "url": "https://open.spotify.com/album/4bBGtuNCUaUVL662GFxjbd"
+      },
+      "artists": [
+        {
+          "name": "dopeskullz",
+          "url": "https://open.spotify.com/artist/0dNsB2HiVW3XGc31WXsIUa"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174276,
+      "name": "L.V.",
+      "url": "https://open.spotify.com/track/40p7aDMIgJZ6ELhfPMcCoI"
+    },
+    {
+      "album": {
         "name": "LAST ONE",
         "url": "https://open.spotify.com/album/20fCMIeYP46IRXINaR7wq5"
       },

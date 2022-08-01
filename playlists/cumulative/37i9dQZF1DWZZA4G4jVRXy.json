@@ -948,6 +948,28 @@
     },
     {
       "album": {
+        "name": "The Passions",
+        "url": "https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        },
+        {
+          "name": "Bas Sheva",
+          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
+        }
+      ],
+      "date_added": "2021-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179466,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV"
+    },
+    {
+      "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
         "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
       },

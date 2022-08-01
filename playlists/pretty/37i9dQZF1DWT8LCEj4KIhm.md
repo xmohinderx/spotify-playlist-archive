@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,056 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,059 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 42 | [Aftertaste](https://open.spotify.com/track/6n0rhPWs1KpjnFg3WQRNZn) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:17 |
 | 43 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
 | 44 | [My Frequency \(feat\. RebMoe\)](https://open.spotify.com/track/4jbWeX5w0Sa5BWBZpq5JU2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [7 Skies](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5), [RebMoe](https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM) | [My Frequency \(feat\. RebMoe\)](https://open.spotify.com/album/2ummn9lAG2z6GwpMurpkUJ) | 2:21 |
-| 45 | [Dancing In The Dark](https://open.spotify.com/track/1y9zOwyUjX3koxCsJ50VhA) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Dancing In The Dark](https://open.spotify.com/album/4D7F5kCUk9ME8Ip7mCcFb9) | 3:04 |
-| 46 | [You Do You](https://open.spotify.com/track/0Nek8bANm0dzO0vI9mmnJG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [You Do You](https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN) | 2:34 |
+| 45 | [You Do You](https://open.spotify.com/track/0Nek8bANm0dzO0vI9mmnJG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [You Do You](https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN) | 2:34 |
+| 46 | [Dancing In The Dark](https://open.spotify.com/track/1y9zOwyUjX3koxCsJ50VhA) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Dancing In The Dark](https://open.spotify.com/album/4D7F5kCUk9ME8Ip7mCcFb9) | 3:04 |
 | 47 | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V) | 3:19 |
 | 48 | [Chaud](https://open.spotify.com/track/4sPJpns1ma2kpfDEMvpAG5) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Maison](https://open.spotify.com/album/6a0kpW3K2zVsjnusyitG8Z) | 3:06 |
 | 49 | [Walk On Water](https://open.spotify.com/track/1gb1bIRb1iNuJRnZB2XxS5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Kat Nestel](https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E) | [Walk On Water](https://open.spotify.com/album/5KeZpqMjrFxCoba637xQEh) | 3:32 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 57 | [Wrong About You](https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Wrong About You](https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq) | 3:15 |
 | 58 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq) | 3:03 |
 | 59 | [Run Run](https://open.spotify.com/track/64TB6vy9OSpv8mlA7hBKJ0) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/38PlQgKM1ytIx0yOZRlzNU) | 3:43 |
-| 60 | [Kankan](https://open.spotify.com/track/1PZpmt3Hlih8ZSi0L7lKb3) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [VNCE CARTER](https://open.spotify.com/artist/11zy6I3LeMtIrIztaTl5rO) | [La Zayté](https://open.spotify.com/album/58camSsA9OmW7xvRGZcxy4) | 3:07 |
+| 60 | [P6](https://open.spotify.com/track/3jVJeAslQXRX5FEnOu0NEP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [P6](https://open.spotify.com/album/3w6GFeovX4Maso1xtfWFRv) | 3:38 |
 | 61 | [Chains \(with Project 46\)](https://open.spotify.com/track/7wMABXUD4FxX66u3eG1ax8) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Chains \(with Project 46\)](https://open.spotify.com/album/3Gv9iIhXkCtLvj3Czp2UF0) | 3:43 |
-| 62 | [P6](https://open.spotify.com/track/3jVJeAslQXRX5FEnOu0NEP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [P6](https://open.spotify.com/album/3w6GFeovX4Maso1xtfWFRv) | 3:38 |
+| 62 | [Kankan](https://open.spotify.com/track/1PZpmt3Hlih8ZSi0L7lKb3) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [VNCE CARTER](https://open.spotify.com/artist/11zy6I3LeMtIrIztaTl5rO) | [La Zayté](https://open.spotify.com/album/58camSsA9OmW7xvRGZcxy4) | 3:07 |
 | 63 | [Sweat](https://open.spotify.com/track/0drXYOymxrIl2lzhVnsiMH) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Sweat](https://open.spotify.com/album/0r5iMvc6l6oJDyHgQLMxaT) | 3:24 |
 | 64 | [Higher](https://open.spotify.com/track/02rpa9omMkxHb1wrA5dNyR) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Higher](https://open.spotify.com/album/4vsPp7l8q37wmtnSAJkfmb) | 2:22 |
 | 65 | [Le monde est à nous](https://open.spotify.com/track/4QYpXezeMH6SkpIqT8nFM2) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Le monde est à nous](https://open.spotify.com/album/2GO68pEg33eudiyr8GuxH6) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
 | 75 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDBiNjliOWExYzVmYzg4OTVhZmMyNmQ5ZjI5YWQwNTRj`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDRjNGMwMDExM2E0MmNkMmMwNmYzN2IwOGViNjYxNjdm`

@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 43142,
+  "num_followers": 43231,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjQwMCwwMDAwMDAwMGZlNTAzMDk5YTI3ZWVmMWU1MGNkZGFmZmIxMmY4ZTFj",
+  "snapshot_id": "MTY1NTk5NjQwMCwwMDAwMDAwMDc0YjA5Zjc2NzVkNzVhYTNlZjcwMzBmYzk4NWEwYWQ5",
   "tracks": [
     {
       "added_at": "2022-06-23 15:00:00",
@@ -331,18 +331,34 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "I need you!",
-        "url": "https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA"
+        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
       },
       "artists": [
         {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u30e2\u30ab",
+          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
+        },
+        {
+          "name": "\u30ea\u30b5",
+          "url": "https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35"
+        },
+        {
+          "name": "\u82b1\u97f3",
+          "url": "https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf"
+        },
+        {
+          "name": "\u3064\u3050\u307f",
+          "url": "https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ"
         }
       ],
-      "duration_ms": 233633,
-      "name": "Wacha-Mocha Pettan March",
-      "url": "https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl"
+      "duration_ms": 240725,
+      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -395,34 +411,18 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
+        "name": "I need you!",
+        "url": "https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA"
       },
       "artists": [
         {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u30e2\u30ab",
-          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
-        },
-        {
-          "name": "\u30ea\u30b5",
-          "url": "https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35"
-        },
-        {
-          "name": "\u82b1\u97f3",
-          "url": "https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf"
-        },
-        {
-          "name": "\u3064\u3050\u307f",
-          "url": "https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ"
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 240725,
-      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
+      "duration_ms": 233633,
+      "name": "Wacha-Mocha Pettan March",
+      "url": "https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Y.O.L.O!!!!!!",
-        "url": "https://open.spotify.com/album/4LDTFJvIlM2KZMBT8ZHchR"
+        "name": "fly with the night",
+        "url": "https://open.spotify.com/album/1PvPrmGPkkpjROBsHbFqBU"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 280500,
-      "name": "COMIC PANIC!!!",
-      "url": "https://open.spotify.com/track/6VqqHjxdGXkeqnvEbXsHbx"
+      "duration_ms": 240666,
+      "name": "fly with the night",
+      "url": "https://open.spotify.com/track/4KvQX4py0s4DQJeeOBlRoB"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "fly with the night",
-        "url": "https://open.spotify.com/album/1PvPrmGPkkpjROBsHbFqBU"
+        "name": "Y.O.L.O!!!!!!",
+        "url": "https://open.spotify.com/album/4LDTFJvIlM2KZMBT8ZHchR"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 240666,
-      "name": "fly with the night",
-      "url": "https://open.spotify.com/track/4KvQX4py0s4DQJeeOBlRoB"
+      "duration_ms": 280500,
+      "name": "COMIC PANIC!!!",
+      "url": "https://open.spotify.com/track/6VqqHjxdGXkeqnvEbXsHbx"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e"
+        "name": "Bloom Bloom",
+        "url": "https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 271506,
-      "name": "Y.O.L.O!!!!!",
-      "url": "https://open.spotify.com/track/6U3agujpZILhEyo0Esjy5y"
+      "duration_ms": 276933,
+      "name": "Bloom Bloom",
+      "url": "https://open.spotify.com/track/4cX6425aZsH2bBJoODN0eE"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Bloom Bloom",
-        "url": "https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 276933,
-      "name": "Bloom Bloom",
-      "url": "https://open.spotify.com/track/4cX6425aZsH2bBJoODN0eE"
+      "duration_ms": 271506,
+      "name": "Y.O.L.O!!!!!",
+      "url": "https://open.spotify.com/track/6U3agujpZILhEyo0Esjy5y"
     },
     {
       "added_at": "2022-06-23 15:00:00",

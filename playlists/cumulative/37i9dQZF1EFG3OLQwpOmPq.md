@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-86 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
+87 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Give It All](https://open.spotify.com/track/53g2iXyDr5wAaQifpNsZCf) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/6dCdUkSiLM2H6zsWzu0wUa) | 3:12 | 2022-05-29 |  |
 | [Give Up the Gold](https://open.spotify.com/track/5j9jatJTdfmJKJ7tFYbf32) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Give Up the Gold](https://open.spotify.com/album/0qpYNafkpUcFR6OFRCQcGL) | 2:03 | 2022-05-29 |  |
 | [Golden Roses](https://open.spotify.com/track/6CLvWzSVYzYNO2ePEqaQNl) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Blissful Ignorance](https://open.spotify.com/album/6teRzD3N6CNwWYHgHQyOPc) | 3:28 | 2022-05-29 |  |
-| [Good Catch](https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Good Catch](https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc) | 2:35 | 2022-05-29 |  |
+| [Good Catch](https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:35 | 2022-07-31 |  |
+| [Good Catch](https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Good Catch](https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc) | 2:35 | 2022-05-29 | 2022-08-01 |
 | [good stuff](https://open.spotify.com/track/6TBMFvQnjLcJCch1trUgtr) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [good stuff](https://open.spotify.com/album/6vqizk2b1jWTBkjUT0tUBb) | 3:11 | 2022-06-22 | 2022-07-28 |
 | [good stuff](https://open.spotify.com/track/6mglSejg7jejo0thhHQvER) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [good stuff](https://open.spotify.com/album/7bLybHcr7HWEAMghCBIKZL) | 3:11 | 2022-07-27 |  |
 | [Halftime](https://open.spotify.com/track/0dYC9Xt3t8SfY0CdK1Vitk) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Sounds Like Me](https://open.spotify.com/album/5JtVEQcCIuCuwnzndvF9Zp) | 3:05 | 2022-05-29 |  |

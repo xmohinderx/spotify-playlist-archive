@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-552 songs - 1 day 13 hr 9 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+553 songs - 1 day 13 hr 13 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [ANSWER](https://open.spotify.com/track/6HmrS7qJmdp5UtfNPex4h6) | [Only this time](https://open.spotify.com/artist/0jGQCMvbrhH1zfypjrAHDU) | [ANSWER](https://open.spotify.com/album/5cJ9pLerKueRKtQNHvZcGu) | 4:11 | 2022-06-07 | 2022-07-27 |
 | [Answers](https://open.spotify.com/track/0g3Nep5KmsTCCaw7GfWTKW) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [Answers](https://open.spotify.com/album/1qfMAmUaB8TORgYQXYyd4n) | 4:25 | 2022-06-07 | 2022-07-29 |
 | [Ash Like Snow](https://open.spotify.com/track/4opeH1F0Z1pL0BdZhuWzew) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [Ash Like Snow](https://open.spotify.com/album/1t4Yw7R1k19MPwUm6LpSNq) | 4:32 | 2022-06-07 | 2022-07-15 |
+| [Ash Like Snow](https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [complete single collection '97\-'08](https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2) | 4:32 | 2022-06-07 |  |
 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 | 2022-06-07 |  |
 | [auro nowe](https://open.spotify.com/track/5sVyvlVKcWVxYvEdQISHqR) | [inocencia](https://open.spotify.com/artist/7mVKRs1kuH2Av7XfXLW5LZ) | [auro nowe](https://open.spotify.com/album/4GbAolpg1rcEWLwSvogoRh) | 4:03 | 2022-06-07 | 2022-07-27 |
 | [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 | 2022-06-07 |  |
@@ -220,7 +221,7 @@
 | [Plastic Smile](https://open.spotify.com/track/3y7FUgB8mwJSo37YmDouYq) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Plastic Smile](https://open.spotify.com/album/6EKzeS69OIX5zvT57wWkrd) | 4:21 | 2022-06-07 | 2022-07-28 |
 | [Precious My Heroes](https://open.spotify.com/track/7ushnMUNnxdnCYenITjTAB) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [宮本一粋](https://open.spotify.com/artist/4xfWvTxGsQ64S07dogtUjD) | [Precious My Heroes](https://open.spotify.com/album/6dwAUn6nNHo7Od7oCXU3mZ) | 4:49 | 2022-06-07 | 2022-06-12 |
 | [Pride](https://open.spotify.com/track/1AI0jUdrMtoA2UBXf21WqG) | [Harumi](https://open.spotify.com/artist/01AnOmJCFPom13jKelxk8D) | [Pride](https://open.spotify.com/album/2bx5zIIZ0r1jd06uU4vAZh) | 4:35 | 2022-06-07 | 2022-07-14 |
-| [Prologue](https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WANDERING \(Special Edition\)](https://open.spotify.com/album/5zfUqHCsRWT7BaQT3mKuUY) | 3:37 | 2022-06-07 |  |
+| [Prologue](https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WANDERING \(Special Edition\)](https://open.spotify.com/album/5zfUqHCsRWT7BaQT3mKuUY) | 3:37 | 2022-06-07 | 2022-08-01 |
 | [Prologue](https://open.spotify.com/track/3g7Fpu5Ii99ZfR4JytRSeI) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Prologue](https://open.spotify.com/album/5ZWCH7ZaHbqcV8lvdyGNxV) | 3:37 | 2022-06-07 | 2022-07-29 |
 | [Q?](https://open.spotify.com/track/02l4CnXJXM2KE8IN99whsX) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Q?](https://open.spotify.com/album/4eInzp36x0Vjaif6ic8rDf) | 3:15 | 2022-06-07 | 2022-06-16 |
 | [Ready Set Go!!](https://open.spotify.com/track/1Mg2xpVLUfGkSYF33v3o2A) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Ready Set Go!!](https://open.spotify.com/album/18lCeDN7w8m2xqm0CAlM4N) | 3:51 | 2022-06-07 | 2022-07-23 |

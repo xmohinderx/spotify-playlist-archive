@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2016! Cover: Justin Bieber",
-  "num_followers": 5687,
+  "num_followers": 5697,
   "original_name": "Le Hit Del 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDc0MiwwMDAwMDAwMDc1YjI5NTA4NGVhMjZlZjlhNzdmYzM1MmQ0Mjg3ZTVl",
+  "snapshot_id": "MTYwNDUwMDc0MiwwMDAwMDAwMGRkNWM3OTVhYjVhOWYwOTQ1YmIwZjkxZTAwZTA0ZDZm",
   "tracks": [
     {
       "added_at": "2020-11-04 14:39:02",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]",
-        "url": "https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
-      "url": "https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]",
+        "url": "https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
+      "url": "https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "Unici",
-        "url": "https://open.spotify.com/album/5hRlCGiPRLc04zK97fGO6p"
-      },
-      "artists": [
-        {
-          "name": "Nek",
-          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
-        }
-      ],
-      "duration_ms": 174713,
-      "name": "Uno di questi giorni",
-      "url": "https://open.spotify.com/track/6Hk8KKWXKj2zfqlD363QP6"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "Il Mestiere Della Vita",
         "url": "https://open.spotify.com/album/7w6z4cJ9Now0y8rnYEKkEa"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 209173,
       "name": "Potremmo Ritornare",
       "url": "https://open.spotify.com/track/2aGvXKJ4ei5IwAOyOKPCx6"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "Unici",
+        "url": "https://open.spotify.com/album/5hRlCGiPRLc04zK97fGO6p"
+      },
+      "artists": [
+        {
+          "name": "Nek",
+          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
+        }
+      ],
+      "duration_ms": 174713,
+      "name": "Uno di questi giorni",
+      "url": "https://open.spotify.com/track/6Hk8KKWXKj2zfqlD363QP6"
     },
     {
       "added_at": "2020-11-04 14:39:02",

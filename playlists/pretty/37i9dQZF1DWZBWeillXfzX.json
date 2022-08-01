@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 12799,
+  "num_followers": 12815,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDE5Y2FmMzBjZWFlNTkzNmM5NmJmNzU2YmE3YTQwYTA0",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDk5MzQ0ZWZhOWNjMDA4ZTA2MTdkYTgwYjExYjQ0MDdh",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -331,18 +331,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+        "name": "Ashes & Dust",
+        "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        },
+        {
+          "name": "Railroad Earth",
+          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
         }
       ],
-      "duration_ms": 157413,
-      "name": "Got to Get Up",
-      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
+      "duration_ms": 446346,
+      "name": "Coal Tattoo",
+      "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -363,22 +367,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Ashes & Dust",
-        "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
       "artists": [
         {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        },
-        {
-          "name": "Railroad Earth",
-          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 446346,
-      "name": "Coal Tattoo",
-      "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
+      "duration_ms": 157413,
+      "name": "Got to Get Up",
+      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
     },
     {
       "added_at": "2020-10-21 17:37:12",

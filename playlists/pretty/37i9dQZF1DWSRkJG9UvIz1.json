@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 119371,
+  "num_followers": 119466,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTE3MjQxOSwwMDAwMDAwMDcyYjM3OWE2Mzg1MDg5MDI2ZmEyYzk3NTIzMzkzYmFj",
+  "snapshot_id": "MTY1NTE3MjQxOSwwMDAwMDAwMDQ3YTEwZjA5MzM0MzA0ZTExMDczMzIwNGU3YTc1ZGZj",
   "tracks": [
     {
       "added_at": "2022-06-14 02:06:59",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 230076,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
+    },
+    {
+      "added_at": "2022-06-14 02:06:59",
+      "album": {
         "name": "SEM MALDADE",
         "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 208279,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/1SYDXvP1rahganh8t5plez"
-    },
-    {
-      "added_at": "2022-06-14 02:06:59",
-      "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 230076,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
     },
     {
       "added_at": "2022-06-14 02:06:59",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
-        "name": "Quando Eu Te Vi / Sorriso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Ecoando",
-          "url": "https://open.spotify.com/artist/0xKSSq2tMMOz7UCSIKQJxu"
-        }
-      ],
-      "duration_ms": 329075,
-      "name": "Quando Eu Te Vi / Sorriso - Ao Vivo",
-      "url": "https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K"
-    },
-    {
-      "added_at": "2022-06-14 02:06:59",
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo)",
       "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
+    },
+    {
+      "added_at": "2022-06-14 02:06:59",
+      "album": {
+        "name": "Quando Eu Te Vi / Sorriso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Ecoando",
+          "url": "https://open.spotify.com/artist/0xKSSq2tMMOz7UCSIKQJxu"
+        }
+      ],
+      "duration_ms": 329075,
+      "name": "Quando Eu Te Vi / Sorriso - Ao Vivo",
+      "url": "https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K"
     },
     {
       "added_at": "2022-06-14 02:06:59",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
-        "name": "SELFIE",
-        "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 123596,
-      "name": "Noite Quente de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
-    },
-    {
-      "added_at": "2022-06-14 02:06:59",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
+    },
+    {
+      "added_at": "2022-06-14 02:06:59",
+      "album": {
+        "name": "SELFIE",
+        "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 123596,
+      "name": "Noite Quente de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
     },
     {
       "added_at": "2022-06-14 02:06:59",

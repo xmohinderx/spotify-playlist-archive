@@ -1,6 +1,6 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Chineke! Orchestra",
-  "num_followers": 651655,
+  "num_followers": 651810,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
@@ -139,13 +139,17 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Adagio Variation (Arr. for Violin and Piano from Adagio in G Minor by Svetoslav Karparov)",
+        "name": "Adagio Variation (From Adagio in G Minor, Arr. for Violin and Piano by Svetoslav Karparov)",
         "url": "https://open.spotify.com/album/0Nh2QA6p4cGydD4VTSZuQa"
       },
       "artists": [
         {
           "name": "Tomaso Albinoni",
           "url": "https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq"
+        },
+        {
+          "name": "Remo Giazotto",
+          "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
         },
         {
           "name": "Gabriele Bagnati",
@@ -157,7 +161,7 @@
         }
       ],
       "duration_ms": 192080,
-      "name": "Adagio Variation (Arr. for Violin and Piano from Adagio in G Minor by Svetoslav Karparov)",
+      "name": "Adagio Variation (From Adagio in G Minor, Arr. for Violin and Piano by Svetoslav Karparov)",
       "url": "https://open.spotify.com/track/3F6X1sIi94oXy7uOlZjapb"
     },
     {

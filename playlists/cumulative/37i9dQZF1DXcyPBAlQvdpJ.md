@@ -4,7 +4,7 @@
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-73 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
+74 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Mala Mala](https://open.spotify.com/track/4S9LQXEKuR1GBH34D0f277) | [MC Bin Laden](https://open.spotify.com/artist/6L7N8AEhRQFp4A2SzvPdUP), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94) | [Mala Mala](https://open.spotify.com/album/3o7qDzcxxtLvKwId3y9kmr) | 2:31 | 2020-05-22 | 2022-07-29 |
 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 | 2020-05-22 |  |
 | [Me Solta](https://open.spotify.com/track/5nqehpNGoRAz4wUFK3wT9k) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Me Solta](https://open.spotify.com/album/79k345pMXsXXi6doexvmFx) | 2:41 | 2020-05-22 |  |
-| [Mechendo Voce Vai](https://open.spotify.com/track/6Gn6hBURuafvtvrqAMR2Wb) | [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt), [Lonny Bello](https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc), [Dominic](https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx) | [Mechendo Voce Vai](https://open.spotify.com/album/1vZBSvvuF7Mf7rV7rZemim) | 3:16 | 2020-05-22 |  |
+| [Mechendo Voce Vai](https://open.spotify.com/track/6Gn6hBURuafvtvrqAMR2Wb) | [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt), [Lonny Bello](https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc), [Dominic](https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx) | [Mechendo Voce Vai](https://open.spotify.com/album/1vZBSvvuF7Mf7rV7rZemim) | 3:16 | 2020-05-22 | 2022-08-01 |
+| [Mechendo Voce Vai](https://open.spotify.com/track/6WOHqlRNvyvTIYWGTgKxPZ) | [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt), [Lonny Bello](https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc), [Dominic](https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx) | [Mechendo Voce Vai](https://open.spotify.com/album/0FfgTedsNzwUksBwaFVF8J) | 3:16 | 2020-05-22 |  |
 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 | 2020-05-22 |  |
 | [Mentalmente](https://open.spotify.com/track/0Chw8wzV8Fyjv8ahoCIr7u) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Mentalmente](https://open.spotify.com/album/3AQPCZzBkYeekl94fTtoOv) | 2:40 | 2020-05-22 |  |
 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 | 2020-05-22 |  |

@@ -1240,6 +1240,28 @@
     },
     {
       "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5"
+    },
+    {
+      "album": {
         "name": "Brrr Brrr Brrr",
         "url": "https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3"
       },
@@ -1751,7 +1773,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 182438,
       "name": "Dom Dom",
       "url": "https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm"
@@ -2793,7 +2815,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 155998,
       "name": "Habitha Ya Nas - From Bhabak",
       "url": "https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj"
@@ -6085,7 +6107,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 260713,
       "name": "Sayrena Ya Donia",
       "url": "https://open.spotify.com/track/7o6OBdhiwn3RX9BOa5JjMc"
@@ -6705,7 +6727,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 196363,
       "name": "TEGE GOAL",
       "url": "https://open.spotify.com/track/0TvMcVxIQaxZCkT4R6yjpS"
@@ -6943,6 +6965,24 @@
       "duration_ms": 308755,
       "name": "TSU",
       "url": "https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW"
+    },
+    {
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "album": {

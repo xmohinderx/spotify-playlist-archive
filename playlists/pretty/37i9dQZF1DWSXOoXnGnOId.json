@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 13490,
+  "num_followers": 13500,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDZlNmU2OTExOTBhMzUzOWMwOWZiODJmMDA0ZDMxZTRh",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGQwYWQzYjVjYmFkZTM1MDYxYjVmMjE2MTcwOTJjOGM5",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "HELLRAISERS Part 1 (Remixes)",
-        "url": "https://open.spotify.com/album/58ixpQo72RFa0lZvITHh7W"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Michael Calfan",
-          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
-        }
-      ],
-      "duration_ms": 129836,
-      "name": "Lean On Me (Michael Calfan Remix)",
-      "url": "https://open.spotify.com/track/4TRUfYQsuPx6hlX8Eav9St"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "BED (Joel Corry VIP Mix)",
         "url": "https://open.spotify.com/album/7LQyP0CttZ5pgZeM112RHT"
       },
@@ -1227,6 +1203,30 @@
       "duration_ms": 179078,
       "name": "BED - Joel Corry VIP Mix",
       "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "HELLRAISERS Part 1 (Remixes)",
+        "url": "https://open.spotify.com/album/58ixpQo72RFa0lZvITHh7W"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "Lean On Me (Michael Calfan Remix)",
+      "url": "https://open.spotify.com/track/4TRUfYQsuPx6hlX8Eav9St"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1375,6 +1375,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Self Care (with COIN) [The Knocks Remix]",
+        "url": "https://open.spotify.com/album/3017y3piJmBiFguacLqX51"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 197129,
+      "name": "Self Care (with COIN) - The Knocks Remix",
+      "url": "https://open.spotify.com/track/3aXVBYo7jW9CO1od4atawq"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
         "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
       },
@@ -1415,30 +1439,6 @@
       "duration_ms": 189747,
       "name": "LIES - VIP Mix",
       "url": "https://open.spotify.com/track/67hioVhWrtqUF5WOZpI2V6"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Self Care (with COIN) [The Knocks Remix]",
-        "url": "https://open.spotify.com/album/3017y3piJmBiFguacLqX51"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 197129,
-      "name": "Self Care (with COIN) - The Knocks Remix",
-      "url": "https://open.spotify.com/track/3aXVBYo7jW9CO1od4atawq"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Teen Scene (Remixes)",
-        "url": "https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 271915,
-      "name": "Teen Scene (ft Buddy) - Wax Motif Remix",
-      "url": "https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Spa (James Hype Remix)",
         "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
       },
@@ -1531,6 +1507,30 @@
       "duration_ms": 266666,
       "name": "Spa - James Hype Remix",
       "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Teen Scene (Remixes)",
+        "url": "https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 271915,
+      "name": "Teen Scene (ft Buddy) - Wax Motif Remix",
+      "url": "https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2187,26 +2187,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Impact (Soulwax Remix)",
         "url": "https://open.spotify.com/album/57KnQqHMB2x5OFcvnm6G8U"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 218234,
       "name": "Impact - Soulwax Remix \u2013 Edit",
       "url": "https://open.spotify.com/track/1bHrUhSO0HYL1bM8QeYJww"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2327,6 +2327,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "1 Day 2 Nights (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 134892,
+      "name": "1 Day 2 Nights - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Moving Blind (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
       },
@@ -2347,26 +2367,6 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "1 Day 2 Nights (Billen Ted Remix)",
-        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 134892,
-      "name": "1 Day 2 Nights - Billen Ted Remix",
-      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
     },
     {
       "added_at": "2021-07-30 04:00:00",

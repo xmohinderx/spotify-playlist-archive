@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 30312,
+  "num_followers": 30358,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDVmZmYwNzE4MmY3YTliZDU0MTcwZDU2YzkyNjE4ZDZm",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMGU4OWQzODhlMmEzMzE3ODAzZjEyOWFiYjhmNDQyYzI5",
   "tracks": [
     {
       "added_at": "2022-04-20 05:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
+        "name": "Caf\u00e9 Tacvba",
+        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 209652,
       "name": "Diez Pasos Hacia Ti",
       "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "Hijos Del Sol",
         "url": "https://open.spotify.com/album/6gnYcXVaffdG0vwVM34cr8"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 176698,
       "name": "Hijos Del Sol",
       "url": "https://open.spotify.com/track/0ds8HD4pYc88Po0RMygxiO"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "8 A\u00f1os",
-        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 200725,
-      "name": "El Jardin",
-      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+        "name": "8 A\u00f1os",
+        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+      "duration_ms": 200725,
+      "name": "El Jardin",
+      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "Mis Amigos",
         "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 180569,
       "name": "Mis Amigos",
       "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
     },
     {
-      "added_at": "2022-04-08 18:59:44",
-      "album": {
-        "name": "A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/4dtJr5ahr526kxisHBjWMa"
-      },
-      "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        }
-      ],
-      "duration_ms": 211444,
-      "name": "A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/5xr9zyuuc8uFks81hLejUo"
-    },
-    {
       "added_at": "2022-03-04 16:51:15",
       "album": {
         "name": "L\u00e1grimas Negras",
@@ -1373,6 +1357,22 @@
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
     },
     {
+      "added_at": "2022-04-08 18:59:44",
+      "album": {
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/4dtJr5ahr526kxisHBjWMa"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        }
+      ],
+      "duration_ms": 211444,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/5xr9zyuuc8uFks81hLejUo"
+    },
+    {
       "added_at": "2022-03-04 16:51:15",
       "album": {
         "name": "De Brujas, Peteneras y Chachalacas",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Mambo Sinuendo",
-        "url": "https://open.spotify.com/album/7Bbr1kphzvv9LEUoAFMmkj"
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
       },
       "artists": [
         {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        },
-        {
-          "name": "Manuel Galb\u00e1n",
-          "url": "https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 278626,
-      "name": "Bodas de oro",
-      "url": "https://open.spotify.com/track/4KOhE95xAsioxIVzpGCVgM"
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+        "name": "Mambo Sinuendo",
+        "url": "https://open.spotify.com/album/7Bbr1kphzvv9LEUoAFMmkj"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        },
+        {
+          "name": "Manuel Galb\u00e1n",
+          "url": "https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld"
         }
       ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
+      "duration_ms": 278626,
+      "name": "Bodas de oro",
+      "url": "https://open.spotify.com/track/4KOhE95xAsioxIVzpGCVgM"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Sabor a Mar",
-        "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        },
-        {
-          "name": "Mariano Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc"
-        }
-      ],
-      "duration_ms": 197862,
-      "name": "Sabor a M\u00ed - Amuzgo",
-      "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/2OQoV2aCykRNe95vvZC6Vl"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 180500,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/5j6tIKVYQm4IX34SWQGQoE"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Sabor a Mar",
+        "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        },
+        {
+          "name": "Mariano Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc"
+        }
+      ],
+      "duration_ms": 197862,
+      "name": "Sabor a M\u00ed - Amuzgo",
+      "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
     },
     {
       "added_at": "2022-03-09 15:08:51",

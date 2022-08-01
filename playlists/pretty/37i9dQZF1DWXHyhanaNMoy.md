@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en summer vibes! Cover: Bokoesam
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,285 likes - 78 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,320 likes - 78 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 30 | [Back It Up](https://open.spotify.com/track/3aWMxZQoBKQStdtc3nD514) | [DJ Quinna](https://open.spotify.com/artist/57aTfJMHZkUZjg9PSkI0gr), [Bandolien](https://open.spotify.com/artist/4kyQDKuSR4BvnxcQQqyu6d) | [Back It Up](https://open.spotify.com/album/2wFD5x3z9UNYrlYfgZlhlf) | 3:04 |
 | 31 | [No Mercy](https://open.spotify.com/track/7CCU1OSz9EJEHx0coLgLtR) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN) | [No Mercy](https://open.spotify.com/album/7wmThwufw03rjQoDUi5xeH) | 2:41 |
 | 32 | [Vamonos \(Kidd Keo Remix\)](https://open.spotify.com/track/6NK4btvHCxKGYiklcAt2vs) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Vamonos \(Kidd Keo Remix\)](https://open.spotify.com/album/1Aerjdt5Au1xvhPbzguLpF) | 3:07 |
-| 33 | [Fok \(feat\. Kalibwoy\)](https://open.spotify.com/track/5RIhH07XYJJ45nmJFzrCJ1) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Doe Het Nou Gewoon](https://open.spotify.com/album/2muVJPTQF1FXQZWgMgAQ3D) | 2:19 |
+| 33 | [Fok](https://open.spotify.com/track/5RIhH07XYJJ45nmJFzrCJ1) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Doe Het Nou Gewoon](https://open.spotify.com/album/2muVJPTQF1FXQZWgMgAQ3D) | 2:19 |
 | 34 | [Consciousness](https://open.spotify.com/track/3fDQa06TlrJoC4zDH1iuaB) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Consciousness](https://open.spotify.com/album/0D3M7NwWQe4iL0rMNfPWQk) | 1:51 |
 | 35 | [Tchickita](https://open.spotify.com/track/63mbb3ABZBBZuhLLNjjXed) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G) | [Tchickita](https://open.spotify.com/album/3jNF73L4ROzeb4SfejQu7y) | 2:20 |
 | 36 | [Gallis](https://open.spotify.com/track/7q8Tp091I66Nv4Vki6u2ru) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Doe Het Nou Gewoon](https://open.spotify.com/album/3ltzF8mEkuEygpncv6S9Ut) | 2:34 |

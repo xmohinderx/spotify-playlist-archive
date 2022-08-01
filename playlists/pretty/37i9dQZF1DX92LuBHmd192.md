@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 
 > Riscopri le più grandi hit del 2016! Cover: Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,687 likes - 122 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,697 likes - 122 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 | 51 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 |
 | 52 | [The Greatest \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:30 |
 | 53 | [DUELE EL CORAZON \(feat\. Wisin\)](https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [DUELE EL CORAZON \(feat\. Wisin\)](https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ) | 3:19 |
-| 54 | [This One's for You \(feat\. Zara Larsson\) \(Official Song UEFA EURO 2016\)](https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [This One's for You \(feat\. Zara Larsson\) \[Official Song UEFA EURO 2016\]](https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq) | 3:27 |
-| 55 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
+| 54 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
+| 55 | [This One's for You \(feat\. Zara Larsson\) \(Official Song UEFA EURO 2016\)](https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [This One's for You \(feat\. Zara Larsson\) \[Official Song UEFA EURO 2016\]](https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq) | 3:27 |
 | 56 | [Cold Water](https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Cold Water](https://open.spotify.com/album/3Kmo85mapQ2wTaCAHBkKsK) | 3:05 |
 | 57 | [Up&Up](https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 6:45 |
 | 58 | [No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [No Money](https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL) | 3:09 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 | 87 | [Come](https://open.spotify.com/track/02R2z7JWV0G8VuU1xs58OB) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 2:42 |
 | 88 | [Lay It All on Me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/38ismoqQYn75ruDSQ2Jtx8) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/0sztwpDG0COJ1HoJRD74bn) | 4:02 |
 | 89 | [Vivere a colori](https://open.spotify.com/track/0jmrRnVetXvXlU6RUqnoTY) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Vivere a colori](https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG) | 4:19 |
-| 90 | [Uno di questi giorni](https://open.spotify.com/track/6Hk8KKWXKj2zfqlD363QP6) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Unici](https://open.spotify.com/album/5hRlCGiPRLc04zK97fGO6p) | 2:54 |
-| 91 | [Potremmo Ritornare](https://open.spotify.com/track/2aGvXKJ4ei5IwAOyOKPCx6) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Il Mestiere Della Vita](https://open.spotify.com/album/7w6z4cJ9Now0y8rnYEKkEa) | 3:29 |
+| 90 | [Potremmo Ritornare](https://open.spotify.com/track/2aGvXKJ4ei5IwAOyOKPCx6) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Il Mestiere Della Vita](https://open.spotify.com/album/7w6z4cJ9Now0y8rnYEKkEa) | 3:29 |
+| 91 | [Uno di questi giorni](https://open.spotify.com/track/6Hk8KKWXKj2zfqlD363QP6) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Unici](https://open.spotify.com/album/5hRlCGiPRLc04zK97fGO6p) | 2:54 |
 | 92 | [Simili](https://open.spotify.com/track/53i6D188bSUeVZeR1sMucH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Simili](https://open.spotify.com/album/02vgS0e67Hdjt4lu6Yp11n) | 3:35 |
 | 93 | [Un Giorno Mi Dirai](https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [Miss Nostalgia](https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH) | 4:04 |
 | 94 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 | 121 | [Made in Italy](https://open.spotify.com/track/30bC7IMVX1BNoWjqjxVs6I) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Made in Italy](https://open.spotify.com/album/0ZRS84Eob7E3YLEAJ0xpyi) | 4:23 |
 | 122 | [La risposta](https://open.spotify.com/track/26bTvSqSOPEKHD0U5y0k4v) | [Samuel](https://open.spotify.com/artist/0zcmS7osRfOk8EJpwUvQFr) | [Il codice della bellezza](https://open.spotify.com/album/6QylQDwBMRaWcqAPgCUHDq) | 3:21 |
 
-Snapshot ID: `MTYwNDUwMDc0MiwwMDAwMDAwMDc1YjI5NTA4NGVhMjZlZjlhNzdmYzM1MmQ0Mjg3ZTVl`
+Snapshot ID: `MTYwNDUwMDc0MiwwMDAwMDAwMGRkNWM3OTVhYjVhOWYwOTQ1YmIwZjkxZTAwZTA0ZDZm`

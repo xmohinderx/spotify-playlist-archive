@@ -1836,6 +1836,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/2voW7HF6fe8GnUZZRhAOT5"
+      },
+      "artists": [
+        {
+          "name": "Goostavo",
+          "url": "https://open.spotify.com/artist/4JIs62O43gVoQ4EfuXRRZn"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179231,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/5BclAg4Nv1wlFmQLfjGpya"
+    },
+    {
+      "album": {
         "name": "Dissolve",
         "url": "https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS"
       },

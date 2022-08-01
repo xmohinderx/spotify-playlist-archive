@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,494 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,555 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 11 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
 | 12 | [Bumbum granada](https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq) | [MC's Zaac](https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Bumbum granada](https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV) | 3:07 |
 | 13 | [Papum](https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ) | 2:19 |
-| 14 | [Mechendo Voce Vai](https://open.spotify.com/track/6Gn6hBURuafvtvrqAMR2Wb) | [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt), [Lonny Bello](https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc), [Dominic](https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx) | [Mechendo Voce Vai](https://open.spotify.com/album/1vZBSvvuF7Mf7rV7rZemim) | 3:16 |
+| 14 | [Mechendo Voce Vai](https://open.spotify.com/track/6WOHqlRNvyvTIYWGTgKxPZ) | [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt), [Lonny Bello](https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc), [Dominic](https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx) | [Mechendo Voce Vai](https://open.spotify.com/album/0FfgTedsNzwUksBwaFVF8J) | 3:16 |
 | 15 | [Olha A Explosão \- Remix](https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Olha A Explosão \(Remix\)](https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp) | 3:30 |
 | 16 | [Bum Bum Tam Tam](https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bum Bum Tam Tam](https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm) | 3:33 |
 | 17 | [Não encosta](https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn) | [Não encosta](https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 49 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
 | 50 | [Glamurosa](https://open.spotify.com/track/5z2heUCSTRdGHWPy2gaOhs) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf) | [Tudo É Festa](https://open.spotify.com/album/194Bnhiszhqi3ljBwIHaqd) | 3:31 |
 
-Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAwMDJlMWJmOWYwMWY3MjdjM2Q1ODQwZDc3YjlhNTM3NTlk`
+Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAwMGY4ZTk3YWQ5MTJmMmRhNGRiZGMwYjkwYjk0NGY1NjVl`

@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 837107,
+  "num_followers": 837526,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzExNTkzNSwwMDAwMDAwMGViNzg1Nzg4YWIwNGM1NmM4NjY1MDRkNDAzYTRkNmQ2",
+  "snapshot_id": "MTY1NzExNTkzNSwwMDAwMDAwMDc1NWFjOTcxYTAwYWViMDFmZDY4NWMxZDE5YjY3YzA2",
   "tracks": [
     {
       "added_at": "2022-06-01 09:47:30",
@@ -339,22 +339,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
     },
     {
-      "added_at": "2019-08-01 09:13:54",
-      "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
-    },
-    {
       "added_at": "2019-08-02 12:01:33",
       "album": {
         "name": "Document - 25th Anniversary Edition",
@@ -537,6 +521,22 @@
       "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
     },
     {
+      "added_at": "2019-08-01 09:13:54",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+    },
+    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Three Imaginary Boys (Deluxe Edition)",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
-    },
-    {
       "added_at": "2021-08-31 07:26:09",
       "album": {
         "name": "The Pleasure Principle",
@@ -599,6 +583,22 @@
       "duration_ms": 238906,
       "name": "Cars",
       "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
     },
     {
       "added_at": "2021-01-06 11:26:11",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
     },
     {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Replicas",
+        "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
+      },
+      "artists": [
+        {
+          "name": "Tubeway Army",
+          "url": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
+        }
+      ],
+      "duration_ms": 323133,
+      "name": "Are 'Friends' Electric?",
+      "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
+    },
+    {
       "added_at": "2019-08-01 09:50:38",
       "album": {
         "name": "Night Time",
@@ -939,22 +955,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Replicas",
-        "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
-      },
-      "artists": [
-        {
-          "name": "Tubeway Army",
-          "url": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Are 'Friends' Electric?",
-      "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Shabooh Shoobah",
         "url": "https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 266026,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 282386,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
       "added_at": "2019-08-02 12:07:51",
@@ -999,6 +983,22 @@
       "duration_ms": 244120,
       "name": "Dancing with Tears in My Eyes",
       "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 282386,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
     },
     {
-      "added_at": "2020-01-07 15:19:52",
-      "album": {
-        "name": "Music for the Masses (2006 Remaster)",
-        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "Never Let Me Down Again - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Stereo-Typical: A's, B's & Rarities",
@@ -1095,6 +1079,22 @@
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2020-01-07 15:19:52",
+      "album": {
+        "name": "Music for the Masses (2006 Remaster)",
+        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Never Let Me Down Again - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
     },
     {
       "added_at": "2021-11-08 14:30:13",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "The Hurting",
-        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
-    },
-    {
       "added_at": "2021-06-15 11:00:16",
       "album": {
         "name": "Vienna [Deluxe Edition]: 40th Anniversary",
@@ -1207,6 +1191,22 @@
       "duration_ms": 294146,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/2LXjhNee4iPRVemx9NSZQ3"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Hurting",
+        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
     },
     {
       "added_at": "2019-08-02 12:01:33",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1"
     },
     {
-      "added_at": "2020-05-06 11:30:43",
-      "album": {
-        "name": "Darklands (Expanded Version)",
-        "url": "https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 239621,
-      "name": "April Skies",
-      "url": "https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Lovely",
@@ -1463,6 +1447,22 @@
       "duration_ms": 151693,
       "name": "Crash",
       "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
+    },
+    {
+      "added_at": "2020-05-06 11:30:43",
+      "album": {
+        "name": "Darklands (Expanded Version)",
+        "url": "https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 239621,
+      "name": "April Skies",
+      "url": "https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "The Pink Opaque",
-        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Pearly-Dewdrops' Drops - 7\" Version",
-      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "I Just Can't Stop It (Remastered)",
         "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 190333,
       "name": "Mirror In the Bathroom",
       "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Pink Opaque",
+        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Pearly-Dewdrops' Drops - 7\" Version",
+      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1559,6 +1559,22 @@
       "duration_ms": 277688,
       "name": "Someone Somewhere (In Summertime)",
       "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
+    },
+    {
+      "added_at": "2020-10-21 16:52:43",
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/0P9q63bMtm9s8VDQp6cJSK"
+      },
+      "artists": [
+        {
+          "name": "Flash and the Pan",
+          "url": "https://open.spotify.com/artist/573nSltoBinkbQXk5JSY9U"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Waiting For A Train",
+      "url": "https://open.spotify.com/track/42B78nSUeYYpdzmeWciyPM"
     },
     {
       "added_at": "2021-06-15 11:00:16",
@@ -1607,22 +1623,6 @@
       "duration_ms": 209266,
       "name": "Dirty Blvd.",
       "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
-    },
-    {
-      "added_at": "2020-10-21 16:52:43",
-      "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/0P9q63bMtm9s8VDQp6cJSK"
-      },
-      "artists": [
-        {
-          "name": "Flash and the Pan",
-          "url": "https://open.spotify.com/artist/573nSltoBinkbQXk5JSY9U"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Waiting For A Train",
-      "url": "https://open.spotify.com/track/42B78nSUeYYpdzmeWciyPM"
     },
     {
       "added_at": "2021-08-31 07:26:09",
@@ -1793,22 +1793,6 @@
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "The Golden Age Of Wireless",
-        "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dolby",
-          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "She Blinded Me With Science",
-      "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
-    },
-    {
       "added_at": "2019-08-01 09:50:38",
       "album": {
         "name": "Sparkle In The Rain",
@@ -1823,6 +1807,22 @@
       "duration_ms": 289920,
       "name": "Waterfront - Remastered 2002",
       "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Golden Age Of Wireless",
+        "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dolby",
+          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "She Blinded Me With Science",
+      "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
     },
     {
       "added_at": "2019-08-01 09:50:38",
@@ -2109,6 +2109,22 @@
       "url": "https://open.spotify.com/track/4NkNu6seQP1XttxabCJSx1"
     },
     {
+      "added_at": "2018-12-18 07:25:29",
+      "album": {
+        "name": "Eisb\u00e4r",
+        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
+      },
+      "artists": [
+        {
+          "name": "Grauzone",
+          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
+        }
+      ],
+      "duration_ms": 288305,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
+    },
+    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "On The Other Hand There's A Fist",
@@ -2139,22 +2155,6 @@
       "duration_ms": 243800,
       "name": "Cities In Dust - Single Version",
       "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
-    },
-    {
-      "added_at": "2018-12-18 07:25:29",
-      "album": {
-        "name": "Eisb\u00e4r",
-        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
-      },
-      "artists": [
-        {
-          "name": "Grauzone",
-          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
-        }
-      ],
-      "duration_ms": 288305,
-      "name": "Eisb\u00e4r",
-      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2253,22 +2253,6 @@
       "url": "https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f"
     },
     {
-      "added_at": "2019-08-02 11:52:58",
-      "album": {
-        "name": "Kilimanjaro",
-        "url": "https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5"
-      },
-      "artists": [
-        {
-          "name": "The Teardrop Explodes",
-          "url": "https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Reward",
-      "url": "https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Playlist: The Very Best of A Flock of Seagulls",
@@ -2283,6 +2267,22 @@
       "duration_ms": 330426,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
+    },
+    {
+      "added_at": "2019-08-02 11:52:58",
+      "album": {
+        "name": "Kilimanjaro",
+        "url": "https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5"
+      },
+      "artists": [
+        {
+          "name": "The Teardrop Explodes",
+          "url": "https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Reward",
+      "url": "https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2381,22 +2381,6 @@
       "url": "https://open.spotify.com/track/3bkcq1VrFlcoqa04VBs4J8"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Homosapien",
-        "url": "https://open.spotify.com/album/59sf1CK6QyJ5DDaeru4xqG"
-      },
-      "artists": [
-        {
-          "name": "Pete Shelley",
-          "url": "https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Homosapien",
-      "url": "https://open.spotify.com/track/7gBZxDfVolYTmpJ8eBCU68"
-    },
-    {
       "added_at": "2019-08-02 11:52:58",
       "album": {
         "name": "Mange Tout (Extended Version)",
@@ -2411,6 +2395,22 @@
       "duration_ms": 210746,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/493NNPBvpP6cj5r0VBqcL4"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Homosapien",
+        "url": "https://open.spotify.com/album/59sf1CK6QyJ5DDaeru4xqG"
+      },
+      "artists": [
+        {
+          "name": "Pete Shelley",
+          "url": "https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Homosapien",
+      "url": "https://open.spotify.com/track/7gBZxDfVolYTmpJ8eBCU68"
     },
     {
       "added_at": "2022-01-06 08:51:56",

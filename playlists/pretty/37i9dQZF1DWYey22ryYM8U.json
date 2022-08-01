@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Prince Royce, Nicky Jam & Jay Wheeler",
-  "num_followers": 523872,
+  "num_followers": 523983,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODIxODIxOCwwMDAwMDAwMDc1ZTEyMDc0MzU3YjI2ODUwYTQ1ZGQ2NGZiZDNjZWVi",
+  "snapshot_id": "MTY1ODIxODIxOCwwMDAwMDAwMGFlYjNhNDczMjcwNjg4ZTVmOTAwYzRkNmMzZmI2NTJl",
   "tracks": [
     {
       "added_at": "2022-07-19 08:10:18",
@@ -187,6 +187,26 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "LA FAMA (with The Weeknd)",
+      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "LA FAMA (with The Weeknd)",
-      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 213316,
       "name": "Dios Asi Lo Quiso",
       "url": "https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 197106,
       "name": "Cari\u00f1o M\u00edo",
       "url": "https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Traici\u00f3nalo Conmigo",
-        "url": "https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ"
+        "name": "Matilde Lina",
+        "url": "https://open.spotify.com/album/1uHVJ9nYkGjoVNrSAeVV7C"
       },
       "artists": [
         {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Traici\u00f3nalo Conmigo",
-      "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
+      "duration_ms": 230279,
+      "name": "Matilde Lina",
+      "url": "https://open.spotify.com/track/3np5gFTTf2SYxfW5zf0lQn"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Matilde Lina",
-        "url": "https://open.spotify.com/album/1uHVJ9nYkGjoVNrSAeVV7C"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 230279,
-      "name": "Matilde Lina",
-      "url": "https://open.spotify.com/track/3np5gFTTf2SYxfW5zf0lQn"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/56bXSFaka1UrXzxPBrQzvG"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 262933,
       "name": "Tiburona",
       "url": "https://open.spotify.com/track/35QguPAF5pYFlS2I66C7m0"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
+        "name": "Traici\u00f3nalo Conmigo",
+        "url": "https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Traici\u00f3nalo Conmigo",
+      "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Te Di (Bachata Version)",
+        "url": "https://open.spotify.com/album/2Qts95fsNILaro3JqadM8O"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "Pavel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Te Di - Bachata Version",
+      "url": "https://open.spotify.com/track/0UGwXhOY0puqYasfDDh8ZU"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Comienzos",
         "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
       },
@@ -2019,42 +2039,6 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Te Di (Bachata Version)",
-        "url": "https://open.spotify.com/album/2Qts95fsNILaro3JqadM8O"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "Pavel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Te Di - Bachata Version",
-      "url": "https://open.spotify.com/track/0UGwXhOY0puqYasfDDh8ZU"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Ziriguidum",
-        "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
-        }
-      ],
-      "duration_ms": 201250,
-      "name": "Ziriguidum",
-      "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
         "name": "SALSWING!",
         "url": "https://open.spotify.com/album/32x8zlcKcIvDyZMNI104Kf"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 336947,
       "name": "Paula C.",
       "url": "https://open.spotify.com/track/7FZ5WSbcZxfq6ij4PZgzja"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
+        "name": "Ziriguidum",
+        "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Ziriguidum",
+      "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -2199,22 +2199,22 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Soy Cordobe\u0301s",
-        "url": "https://open.spotify.com/album/2jLMR6wpMR1OX3GSgr0qOD"
+        "name": "Nuestra Esquina",
+        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
       "artists": [
         {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+          "name": "N'Klabe",
+          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
         },
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 314474,
-      "name": "Soy Cordobe\u0301s",
-      "url": "https://open.spotify.com/track/1jJ6OaUu1suh9XLERl2cf6"
+      "duration_ms": 248173,
+      "name": "Tranquila Bebe",
+      "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
     }
   ],
   "unique_name": "Tropical Hits",

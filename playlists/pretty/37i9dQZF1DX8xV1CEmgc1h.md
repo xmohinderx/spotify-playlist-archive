@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 
 > Chart topping hits from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,324 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,416 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 | 54 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
 | 55 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
 | 56 | [Love Machine](https://open.spotify.com/track/2j4k2Q2SGEijVhTv8pycv2) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND), [Billy Griffin](https://open.spotify.com/artist/1C4zTmHRkm3XRJSex4vTiZ) | [City Of Angels \(Expanded Edition\)](https://open.spotify.com/album/101T3Y64HDKs7vh8FdGOoO) | 6:55 |
-| 57 | [The Happening](https://open.spotify.com/track/2SusUbsUQnw8OJDq56ZMbE) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/7bPBdkx7Vm2vqDkwnfNlg8) | 2:49 |
+| 57 | [The Happening](https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Story Of The Supremes](https://open.spotify.com/album/23s2StHCeb3zO0B95ZDN2R) | 2:50 |
 | 58 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 59 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
 | 60 | [Papa Was A Rollin' Stone](https://open.spotify.com/track/31NAADgOqGlBU70Xg1bdwQ) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [All Directions](https://open.spotify.com/album/4Et98HH5UoYzwUH5583YE7) | 11:44 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 | 64 | [4 Seasons Of Loneliness](https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 4:52 |
 | 65 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 
-Snapshot ID: `MTU2MTk4NDkwNCwwMDAwMDAwMDU2NWVhMTQ5M2E3ODRlODdmMTk4YjhlOTQwYjY0OTAx`
+Snapshot ID: `MTU2MTk4NDkwNCwwMDAwMDAwMDRlMTI4NjAzYjRiMWFjMWRiOWQ3MzUwZWNiYjhhY2Yw`

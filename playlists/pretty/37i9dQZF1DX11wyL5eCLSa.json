@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Petite Amie en portada.",
-  "num_followers": 125032,
+  "num_followers": 125124,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDcyZDI2OTI4YmY0MGRiZDg3YzFmZjU1MWQ4YWY3M2Fh",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDE0Nzc2OTdjMDYzMWM1NzA2OWRiODUxYzMzYTllZWIw",
   "tracks": [
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "Rock en espa\u00f1ol",
+        "url": "https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Como T\u00fa (Magic Music Box)",
+      "url": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "Lanza Internacional",
         "url": "https://open.spotify.com/album/5MC0RCLUWwbTE4UHGhAtxm"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 338680,
       "name": "Tomar el Sol",
       "url": "https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
-      },
-      "artists": [
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Sentimiento",
-      "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

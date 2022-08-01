@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Dayglow
 
-1,312 songs - 2 day 20 hr 54 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,313 songs - 2 day 20 hr 57 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,6 +889,7 @@
 | [Over It](https://open.spotify.com/track/0gGD3kFDXo6jz8gvSxa9ya) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Over It](https://open.spotify.com/album/51ocifKtkmS3eEDfnU3Sc0) | 3:04 | 2020-11-10 | 2021-05-22 |
 | [Overkill](https://open.spotify.com/track/7LfjF1auPMDBtsPXJuXpON) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Overkill](https://open.spotify.com/album/1oc9rrlOPMwfMaHT2C2CvS) | 3:06 | 2020-10-20 | 2021-06-03 |
 | [Oxygen](https://open.spotify.com/track/3OSgKpb2c1VbFqDOqiz8tZ) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/0dVhYNE7j67jmzu7yX7zam) | 3:06 | 2021-11-12 | 2022-07-29 |
+| [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2022-06-17 |  |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-15 |  |
 | [PAIN](https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [PAIN](https://open.spotify.com/album/6npMxPQjBYL8FQAX7USLp3) | 3:38 | 2020-12-12 | 2021-05-29 |
 | [Paper Mache World](https://open.spotify.com/track/7ai2SCMNgZQOSdxh5Oq9Ke) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You To Know](https://open.spotify.com/album/5zFw70dBof3n5bva2TcWQH) | 2:59 | 2020-11-20 | 2021-06-03 |
@@ -1187,7 +1188,7 @@
 | [Things I Thought Were Mine](https://open.spotify.com/track/2WpMB2RxvNOnStRrT2e2kC) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Things I Thought Were Mine](https://open.spotify.com/album/6RMv7YvMivHcrnZuQrM8fq) | 3:13 | 2021-02-22 | 2021-05-28 |
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-21 | 2022-04-20 |
 | [Thirty Eight](https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Thirty Eight](https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr) | 3:45 | 2020-10-20 | 2021-01-25 |
-| [This Car Drives All by Itself](https://open.spotify.com/track/3kgUL6z42w6qC6Tp5FrZrU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:45 | 2022-01-14 |  |
+| [This Car Drives All by Itself](https://open.spotify.com/track/3kgUL6z42w6qC6Tp5FrZrU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:45 | 2022-01-14 | 2022-08-01 |
 | [This Side of Paradise](https://open.spotify.com/track/4qgbJZNqadJ9M0fW5ne4bk) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [This Side of Paradise](https://open.spotify.com/album/5lDkAV1UNJEF7WJKezuqDs) | 3:40 | 2021-02-23 | 2021-05-27 |
 | [through the looking glass](https://open.spotify.com/track/5gNFiKtsghTvymDRaaPL0J) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [THIS IS NOT WHAT IT LOOKS LIKE!](https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W) | 3:28 | 2021-09-10 | 2022-04-15 |
 | [Throw me out a window](https://open.spotify.com/track/6dXRZeiUDfq3znjy7IzbhN) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [Throw me out a window](https://open.spotify.com/album/14BUqv2KfDxKGL3fSGQp7S) | 2:26 | 2022-07-22 | 2022-07-24 |

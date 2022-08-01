@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 126857,
       "name": "bitter soil",
       "url": "https://open.spotify.com/track/5xmX8H9bWWlGZrs7UBuYLJ"
@@ -4831,7 +4831,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 148125,
       "name": "meraki",
       "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
@@ -5105,7 +5105,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 152000,
       "name": "montage",
       "url": "https://open.spotify.com/track/00KxObzgR4sppNsPoSFBar"
@@ -5261,6 +5261,24 @@
       "duration_ms": 80000,
       "name": "Morioka",
       "url": "https://open.spotify.com/track/75K6I2OaSRUa66asvVZw0U"
+    },
+    {
+      "album": {
+        "name": "82",
+        "url": "https://open.spotify.com/album/2APV4kqvbJkCrZGm11otCT"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Kondo",
+          "url": "https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107027,
+      "name": "morning bird",
+      "url": "https://open.spotify.com/track/3uePfJnilCndpwIOXXNF5J"
     },
     {
       "album": {
@@ -5699,7 +5717,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 241532,
       "name": "Night Lights 2020",
       "url": "https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe"
@@ -6502,6 +6520,28 @@
     },
     {
       "album": {
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123282,
+      "name": "re: Belief",
+      "url": "https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N"
+    },
+    {
+      "album": {
         "name": "re: Belief",
         "url": "https://open.spotify.com/album/0QWsMY7mIJFA7Rj4gDiHIN"
       },
@@ -6517,7 +6557,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 123282,
       "name": "re: Belief",
       "url": "https://open.spotify.com/track/0g1Pc2u4bltu3qWzidT1Yk"
@@ -7417,7 +7457,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 198000,
       "name": "sora no kanata",
       "url": "https://open.spotify.com/track/10g1elNvLdmdDgCzoJfwJY"

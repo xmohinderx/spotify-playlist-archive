@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Simi
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,933 likes - 67 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,886 likes - 67 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 |
 | 35 | [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 |
 | 36 | [各自安好](https://open.spotify.com/track/7ep5TafdBRpwCbwMciRPaU) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [各自安好](https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8) | 4:23 |
-| 37 | [like we're wired](https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [like we're wired](https://open.spotify.com/album/3MZUsQ4bHveRDrwIxVV40S) | 4:06 |
-| 38 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
-| 39 | [Moves](https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Moves](https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh) | 3:41 |
+| 37 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
+| 38 | [Moves](https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Moves](https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh) | 3:41 |
+| 39 | [like we're wired](https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [like we're wired](https://open.spotify.com/album/3MZUsQ4bHveRDrwIxVV40S) | 4:06 |
 | 40 | [ÖZGÜRLÜK \(feat\. Idyl\)](https://open.spotify.com/track/5ICnjQOex9xUQY6bf5aapg) | [Kool Jane](https://open.spotify.com/artist/2yZne9YF6l3lsnyU3tmj8V), [Idyl](https://open.spotify.com/artist/06y318eaH7JHOfd4u3THV0) | [ÖZGÜRLÜK \(feat\. Idyl\)](https://open.spotify.com/album/3XyYgUQ6wMs590HvIYzjfG) | 3:41 |
 | 41 | [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 |
-| 42 | [Vanilla](https://open.spotify.com/track/1JVS1j91lyFfLltcWerYSh) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:37 |
-| 43 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
+| 42 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
+| 43 | [Vanilla](https://open.spotify.com/track/1JVS1j91lyFfLltcWerYSh) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:37 |
 | 44 | [live\. laugh\. cry](https://open.spotify.com/track/6f7mhbSq9pW2jzoVWgphh5) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [live\. laugh\. cry](https://open.spotify.com/album/48qPWuZEfqbinvMRdfBKON) | 2:50 |
 | 45 | [Sad Violins](https://open.spotify.com/track/0bETVNceE2HiKNPkUoQ7yD) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Sad Violins](https://open.spotify.com/album/4rT6i1M0qbMvtTNBsHtgwx) | 2:56 |
 | 46 | [Anclada](https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Anclada](https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM) | 2:50 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 49 | [Zodiak](https://open.spotify.com/track/7LE63LIKe0mjjPiI3bMiKp) | [IGA](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Zodiak](https://open.spotify.com/album/2TmoiNAbvUzmgMSPYyWaOv) | 2:51 |
 | 50 | [BITCH PLEASE](https://open.spotify.com/track/5zogRWN8ZnNmFsUXKTUJaW) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [BITCH PLEASE](https://open.spotify.com/album/7elETr5klxxUoYsvdAPSwX) | 3:01 |
 | 51 | [Ghaayab](https://open.spotify.com/track/1iWAHeeJ1THfMn4KqWCQ2d) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Ghaayab](https://open.spotify.com/album/7fepu6i1ogynFzF4Lj8c8g) | 4:09 |
-| 52 | [捆縛](https://open.spotify.com/track/6Attg3Eg8FqrJ5uEb4S9uU) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [調教](https://open.spotify.com/album/5pd7J7w4Ku29uN91bIrD5c) | 3:41 |
-| 53 | [ไม่มีอะไรเหมือนเดิม](https://open.spotify.com/track/5K2H6OXsJvJWyWcOMqLS4g) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [ไม่มีอะไรเหมือนเดิม](https://open.spotify.com/album/1kMqTA20x0i4otfgBnFuHK) | 3:57 |
-| 54 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 |
+| 52 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 |
+| 53 | [捆縛](https://open.spotify.com/track/6Attg3Eg8FqrJ5uEb4S9uU) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [調教](https://open.spotify.com/album/5pd7J7w4Ku29uN91bIrD5c) | 3:41 |
+| 54 | [ไม่มีอะไรเหมือนเดิม](https://open.spotify.com/track/5K2H6OXsJvJWyWcOMqLS4g) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [ไม่มีอะไรเหมือนเดิม](https://open.spotify.com/album/1kMqTA20x0i4otfgBnFuHK) | 3:57 |
 | 55 | [Fini Kther](https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [One Playlist](https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3) | 4:11 |
-| 56 | [VERTIGO](https://open.spotify.com/track/4kyFxkkRdcSRpohL3bbNY3) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [VERTIGO](https://open.spotify.com/album/7isfqKCcilsr8W9lrTEdmz) | 2:43 |
-| 57 | [Ya Es Tarde](https://open.spotify.com/track/4iUxUVZpySaY1epUkDXCbh) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Sinergia](https://open.spotify.com/album/5SjeP0UHafaTMnfrzx4Q95) | 4:03 |
-| 58 | [Only Love](https://open.spotify.com/track/5a4LapS7L0iMuic84bXigB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/5HSPiHE3WHEjLfjVl8sIc1) | 3:05 |
-| 59 | [Tetris](https://open.spotify.com/track/57lHOi3fq27f7TdjVHrwgj) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Tetris](https://open.spotify.com/album/2rHpv5OMHVKHflZuPcoCRu) | 3:18 |
+| 56 | [Ya Es Tarde](https://open.spotify.com/track/4iUxUVZpySaY1epUkDXCbh) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Sinergia](https://open.spotify.com/album/5SjeP0UHafaTMnfrzx4Q95) | 4:03 |
+| 57 | [VERTIGO](https://open.spotify.com/track/4kyFxkkRdcSRpohL3bbNY3) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [VERTIGO](https://open.spotify.com/album/7isfqKCcilsr8W9lrTEdmz) | 2:43 |
+| 58 | [Tetris](https://open.spotify.com/track/57lHOi3fq27f7TdjVHrwgj) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Tetris](https://open.spotify.com/album/2rHpv5OMHVKHflZuPcoCRu) | 3:18 |
+| 59 | [Only Love](https://open.spotify.com/track/5a4LapS7L0iMuic84bXigB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/5HSPiHE3WHEjLfjVl8sIc1) | 3:05 |
 | 60 | [Be Kind](https://open.spotify.com/track/1r73DoCuAo0SN5Jh80z0gC) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Be Kind](https://open.spotify.com/album/7HM12F2hFEIuQW2URxMrkv) | 2:46 |
 | 61 | [Bella Kali](https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Bella Kali](https://open.spotify.com/album/1WIL297eRvqxkrhQur7qcd) | 3:34 |
 | 62 | [Decisions](https://open.spotify.com/track/1Vr1vDsnFyPtuQLi7cpUMW) | [WAYI](https://open.spotify.com/artist/6CbMqrM714vGa77HxOKoHI) | [Decisions](https://open.spotify.com/album/4o29z1nujib3PRGgdnU7ap) | 3:17 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 66 | [Woman Trueman](https://open.spotify.com/track/35riuC99CaJSizvUjB1vaO) | [Mahina](https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ) | [Woman Trueman](https://open.spotify.com/album/2aOXOGMG4WRB7axcNFxl7n) | 3:23 |
 | 67 | [Jahil Hoon Main](https://open.spotify.com/track/4l2Enq43g76mIXWrTI05Pw) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8) | [Khirad \(A Tribute to Allama Iqbal\)](https://open.spotify.com/album/1w99YQSlhxLfdnzPhLxN8b) | 4:45 |
 
-Snapshot ID: `MTY1OTAyODc4MiwwMDAwMDAwMDM2NGIyNzllODJhYjFkMGI5YjM3OTZiNGNiNWNhZTk0`
+Snapshot ID: `MTY1OTAyODc4MiwwMDAwMDAwMDY3ZTJiYzVjMWYyNjVmZDdkNTkxZGM3MmU5ZDMxYTNm`

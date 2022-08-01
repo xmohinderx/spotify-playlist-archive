@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 
 > A total apocalypse of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,427 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,497 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 | 2 | [Flame Thrower](https://open.spotify.com/track/4nScZyf3x7HJlcXOxuc60Q) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/3jwdZ5aqNto6V6XY2ob6Vv) | 2:35 |
 | 3 | [Fever](https://open.spotify.com/track/0PeoyvJCL9h669gLtFjoBX) | [Dreamcrusher](https://open.spotify.com/artist/2EcltAQF7JHjEk9Thd9Pui) | [Fever](https://open.spotify.com/album/6ONNO5I5QUaSF6UBs10QLF) | 3:46 |
 | 4 | [Honey](https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 6:09 |
-| 5 | [Clean](https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Jade](https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL) | 3:08 |
-| 6 | [Passed over Trail](https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9) | [Raime](https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu) | [Quarter Turns over a Living Line](https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg) | 4:30 |
+| 5 | [Passed over Trail](https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9) | [Raime](https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu) | [Quarter Turns over a Living Line](https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg) | 4:30 |
+| 6 | [Clean](https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Jade](https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL) | 3:08 |
 | 7 | [A Feast Before The Drought](https://open.spotify.com/track/2hXYggrEpQTAbwD90JEy1j) | [Puce Mary](https://open.spotify.com/artist/2ctwc8mjxxPLK9dbn6jjp6) | [The Drought](https://open.spotify.com/album/4FS3k3G2J2vA3mKxVDPYoG) | 6:44 |
 | 8 | [Away from You](https://open.spotify.com/track/640uPRDZr35rSH1EgZABEu) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [2R0I2P0](https://open.spotify.com/album/3yHKmmc0q9KDfLrdX2FKEE) | 7:35 |
 | 9 | [Bite The Bolster](https://open.spotify.com/track/5G409XrdJQBEurmgxn4AMG) | [Ramleh](https://open.spotify.com/artist/4cZ1kxYzzWA4WZYxFlQMHM) | [Hole in the Heart](https://open.spotify.com/album/6EsKaEdZdnvwdDFZpWG1C8) | 5:13 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 | 37 | [Trueno](https://open.spotify.com/track/4QFDiiPfq5shzyiGoY84vY) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Lucy & Aaron](https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA) | 3:37 |
 | 38 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 |
 | 39 | [Unisono](https://open.spotify.com/track/2cqx6VbS3ek3zZakZ8JQKQ) | [Paraadiso](https://open.spotify.com/artist/3f8gnRgP0tbPDt4aCMDsNU), [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE), [Seven Orbits](https://open.spotify.com/artist/0BDgLzGBHaXY79rQ38BMM8) | [Unison](https://open.spotify.com/album/59BUHmPp8hwGNmBIIJNyMj) | 4:32 |
-| 40 | [Drum Fife Bugle](https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW) | [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [PURGE](https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft) | 2:48 |
-| 41 | [Bureau](https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4) | [RK7](https://open.spotify.com/artist/5CaV9AH4gT7gSBH5SQe4a6) | [Illinois, Vol\. 1](https://open.spotify.com/album/7DLUDnsR6xKIDVcFrOkiZh) | 1:29 |
+| 40 | [Bureau](https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4) | [RK7](https://open.spotify.com/artist/5CaV9AH4gT7gSBH5SQe4a6) | [Illinois, Vol\. 1](https://open.spotify.com/album/7DLUDnsR6xKIDVcFrOkiZh) | 1:29 |
+| 41 | [Drum Fife Bugle](https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW) | [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [PURGE](https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft) | 2:48 |
 | 42 | [Floodwaters](https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx) | [Rites of Fall](https://open.spotify.com/artist/0lmo0WuKgZFuma8hHrI4So) | [Floodwaters](https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF) | 10:33 |
 | 43 | [Scarred](https://open.spotify.com/track/1FDhKdUxKpwM92vTiWSz9d) | [2nd Gen](https://open.spotify.com/artist/3a81Q4yNe9BIwJ5AZ2dIf2) | [Irony Is](https://open.spotify.com/album/5mTzFYJk9IzcjBeSiR764e) | 2:31 |
 | 44 | [Demands of Ordinary Devotion](https://open.spotify.com/track/4QC6ChCRikZUr6ppHQVNsM) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Demands of Ordinary Devotion](https://open.spotify.com/album/3Z09g2HZyHjxxdUhCyyTSi) | 3:31 |
-| 45 | [The Sacrifice](https://open.spotify.com/track/55xhBx627ivI3aWhI7HOck) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B), [Adam Sherry](https://open.spotify.com/artist/20niWzUm4Khvh3f1Y55NQi) | [The Sacrifice](https://open.spotify.com/album/7hQ4VwHV17rFjIachwQ8pp) | 3:48 |
-| 46 | [Final Head \(No.31\)](https://open.spotify.com/track/3SpHBVLudhv7kAmwgZBaAZ) | [Mirroreyes](https://open.spotify.com/artist/3YGdGNj1uzAXC7bhxMq3Xw) | [Final Head \(No.31\)](https://open.spotify.com/album/360yAVVVL9ydNiDJF7rBRz) | 5:18 |
-| 47 | [Swell](https://open.spotify.com/track/3vDCKdMRhIFjHogNngE6TW) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4), [David Wenngren](https://open.spotify.com/artist/5WDrO7XZNPb8krZgftfkpp) | [Strangers](https://open.spotify.com/album/783flv2FHsliDX36JbbmD3) | 8:01 |
-| 48 | [Walking on Moirai](https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB) | [Wanton Witch](https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g) | [Wanton Witch LP](https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA) | 4:36 |
-| 49 | [Bend](https://open.spotify.com/track/3nZGMUJSx5uA8BdaVA3Nl7) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 3:16 |
-| 50 | [Intro](https://open.spotify.com/track/4weSG9WPRs1G30c8kd2ThX) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC) | [Simulacrum](https://open.spotify.com/album/1JoOzfSC6Jh9mxxhvWhVTh) | 4:17 |
+| 45 | [Final Head \(No.31\)](https://open.spotify.com/track/3SpHBVLudhv7kAmwgZBaAZ) | [Mirroreyes](https://open.spotify.com/artist/3YGdGNj1uzAXC7bhxMq3Xw) | [Final Head \(No.31\)](https://open.spotify.com/album/360yAVVVL9ydNiDJF7rBRz) | 5:18 |
+| 46 | [The Sacrifice](https://open.spotify.com/track/55xhBx627ivI3aWhI7HOck) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B), [Adam Sherry](https://open.spotify.com/artist/20niWzUm4Khvh3f1Y55NQi) | [The Sacrifice](https://open.spotify.com/album/7hQ4VwHV17rFjIachwQ8pp) | 3:48 |
+| 47 | [Walking on Moirai](https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB) | [Wanton Witch](https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g) | [Wanton Witch LP](https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA) | 4:36 |
+| 48 | [Swell](https://open.spotify.com/track/3vDCKdMRhIFjHogNngE6TW) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4), [David Wenngren](https://open.spotify.com/artist/5WDrO7XZNPb8krZgftfkpp) | [Strangers](https://open.spotify.com/album/783flv2FHsliDX36JbbmD3) | 8:01 |
+| 49 | [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 |
+| 50 | [Bend](https://open.spotify.com/track/3nZGMUJSx5uA8BdaVA3Nl7) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 3:16 |
 
-Snapshot ID: `MTY1OTEwNTkyNywwMDAwMDAwMGM3NzgxNTgyZTBiYjU0ZjA2ZTQwZGZlNWY2YzE5YjAy`
+Snapshot ID: `MTY1OTEwNTkyNywwMDAwMDAwMGQzN2RjODI1MjQ3NTYxYjM3NmJiNTY0YjkwYjhmZTBk`

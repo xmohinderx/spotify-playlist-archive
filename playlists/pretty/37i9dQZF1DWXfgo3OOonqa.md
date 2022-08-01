@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,669 likes - 85 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,786 likes - 85 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 14 | [BÄSTFRIEND](https://open.spotify.com/track/5Ml5sKivSir3NaGABhIdnO) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [BÄSTFRIEND](https://open.spotify.com/album/4CKyLYdFdBTnY4um39sbv5) | 2:22 |
 | 15 | [AT](https://open.spotify.com/track/1QeTYlZFNKFzPaGWGRBfJd) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AT](https://open.spotify.com/album/7hVYtLgfLQzG4Lj13T3Zre) | 2:45 |
 | 16 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 |
-| 17 | [Livsstilen](https://open.spotify.com/track/2m77O2S1cYrE1qo3Akqj0T) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Jack](https://open.spotify.com/artist/04LiuQNBfnMaKgGRruqWyR) | [Livsstilen](https://open.spotify.com/album/43jTX63KglSLqHQM1NVQd9) | 3:02 |
+| 17 | [Livsstilen](https://open.spotify.com/track/2m77O2S1cYrE1qo3Akqj0T) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Jack](https://open.spotify.com/artist/1nAAfLCQgCSY9KowgqfgU4) | [Livsstilen](https://open.spotify.com/album/43jTX63KglSLqHQM1NVQd9) | 3:02 |
 | 18 | [A.P.T.A](https://open.spotify.com/track/1FxCzkOYYoILkg3QDqQnwM) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [A.P.T.A](https://open.spotify.com/album/05fMUIt5I3brgdau91tMR3) | 1:50 |
 | 19 | [Dansa \(feat\. Awave\)](https://open.spotify.com/track/5zIEQSVZcB3UTvMltGhpdV) | [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Trauma X](https://open.spotify.com/album/1IDM1qjiBFKFKVoeBCXkNs) | 2:37 |
 | 20 | [JB X YASIN \- DIE YOUNG](https://open.spotify.com/track/46fo800FpGqEjaCPLX4uHy) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [JB AHSP DEL 2](https://open.spotify.com/album/7KtrpUHy9JLhCskwG0MMrC) | 2:31 |

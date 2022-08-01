@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 238277,
+  "num_followers": 238310,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDE2ZjE4ZDY3OTczYzMzOGM2Yjc5MzNhYmM1NzZkNGQz",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDcxYzQ1ZGI1M2E1Y2E2OTk5YjcwMDA0ODFhODA0MGIx",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -267,6 +267,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Every High",
+        "url": "https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl"
+      },
+      "artists": [
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Every High",
+      "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Daydream feat. Joba",
         "url": "https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 200838,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Every High",
-        "url": "https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl"
-      },
-      "artists": [
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Every High",
-      "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
-      },
-      "artists": [
-        {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Self Edit",
         "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 236842,
       "name": "Zender",
       "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
+      },
+      "artists": [
+        {
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
     },
     {
       "added_at": "2018-12-11 21:12:31",

@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Himeno Tama / Boku to Georges Artwork: Thami Nabil",
-  "num_followers": 89594,
+  "num_followers": 89639,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTY3MCwwMDAwMDAwMDZjNDJiNzQwM2Y5ODUzMjAwMWJlNDcyZGQwOWRiYzI3",
+  "snapshot_id": "MTY1OTEwNTY3MCwwMDAwMDAwMGJjMmQ3NTdiYzM3MjdiZTcxODJjNzM3MGY1NDhlNzQ5",
   "tracks": [
     {
       "added_at": "2022-07-27 14:53:59",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "Fruits Of Labour",
-      "url": "https://open.spotify.com/track/7tB3VQuxTJP6GcIvgkddjT"
-    },
-    {
       "added_at": "2022-07-06 13:58:15",
       "album": {
         "name": "Strands",
@@ -551,6 +535,22 @@
       "duration_ms": 155980,
       "name": "Open Mind",
       "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 264533,
+      "name": "Fruits Of Labour",
+      "url": "https://open.spotify.com/track/7tB3VQuxTJP6GcIvgkddjT"
     },
     {
       "added_at": "2022-06-08 02:19:10",
@@ -685,26 +685,6 @@
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
-      "added_at": "2022-06-08 02:19:10",
-      "album": {
-        "name": "Axexan, espreitan",
-        "url": "https://open.spotify.com/album/7ESdKLT2LfrMzBF5tUzzbK"
-      },
-      "artists": [
-        {
-          "name": "Moura",
-          "url": "https://open.spotify.com/artist/0gUTcqiogophrLtO9UNPYW"
-        },
-        {
-          "name": "Elena V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/1wE27L8WdKipJoDTpqL8NB"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Alborada do al\u00e9n",
-      "url": "https://open.spotify.com/track/5vxqhMfBHfKy4uOMnlGgsy"
-    },
-    {
       "added_at": "2022-06-30 01:10:53",
       "album": {
         "name": "Slopped + Chewed, Volume 1",
@@ -735,6 +715,26 @@
       "duration_ms": 246593,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM"
+    },
+    {
+      "added_at": "2022-06-08 02:19:10",
+      "album": {
+        "name": "Axexan, espreitan",
+        "url": "https://open.spotify.com/album/7ESdKLT2LfrMzBF5tUzzbK"
+      },
+      "artists": [
+        {
+          "name": "Moura",
+          "url": "https://open.spotify.com/artist/0gUTcqiogophrLtO9UNPYW"
+        },
+        {
+          "name": "Elena V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/1wE27L8WdKipJoDTpqL8NB"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Alborada do al\u00e9n",
+      "url": "https://open.spotify.com/track/5vxqhMfBHfKy4uOMnlGgsy"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/4UwEQE7khjmmRdzCK46uab"
     },
     {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Comfy Place",
+        "url": "https://open.spotify.com/album/344hmSXinXIbznevcvCt7p"
+      },
+      "artists": [
+        {
+          "name": "Shoko Igarashi",
+          "url": "https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Comfy Place",
+      "url": "https://open.spotify.com/track/578IASw3v1cdtzMPrq254X"
+    },
+    {
       "added_at": "2022-06-08 02:19:10",
       "album": {
         "name": "For the Birds: The Birdsong Project, Vol. I",
@@ -1135,22 +1151,6 @@
       "duration_ms": 342000,
       "name": "Stinky",
       "url": "https://open.spotify.com/track/5ONj0MXsvwNOwGGajomnJC"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Comfy Place",
-        "url": "https://open.spotify.com/album/344hmSXinXIbznevcvCt7p"
-      },
-      "artists": [
-        {
-          "name": "Shoko Igarashi",
-          "url": "https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Comfy Place",
-      "url": "https://open.spotify.com/track/578IASw3v1cdtzMPrq254X"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/0J8HGawaxgKpOlpxkZq2OA"
     },
     {
-      "added_at": "2022-05-18 12:58:13",
-      "album": {
-        "name": "Eurybia",
-        "url": "https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm"
-      },
-      "artists": [
-        {
-          "name": "Francesca Heart",
-          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
-        }
-      ],
-      "duration_ms": 362069,
-      "name": "Eurybia",
-      "url": "https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX"
-    },
-    {
       "added_at": "2022-06-29 16:46:05",
       "album": {
         "name": "Hold Me Under",
@@ -1247,6 +1231,22 @@
       "duration_ms": 231431,
       "name": "Hold Me Under",
       "url": "https://open.spotify.com/track/6BgyBrCR3TV7M8aZ8C5fii"
+    },
+    {
+      "added_at": "2022-05-18 12:58:13",
+      "album": {
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "duration_ms": 362069,
+      "name": "Eurybia",
+      "url": "https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1281,6 +1281,22 @@
       "url": "https://open.spotify.com/track/4hyrGkNTxTF35DE4E4O9Pi"
     },
     {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Mother Earth Took Poison In Her Soil",
+        "url": "https://open.spotify.com/album/51khhV7FVRw8a8zetDivzq"
+      },
+      "artists": [
+        {
+          "name": "Belia Winnewisser",
+          "url": "https://open.spotify.com/artist/3YiwxlfcGepHV0kmXZZZrO"
+        }
+      ],
+      "duration_ms": 217792,
+      "name": "Unattainable Promises",
+      "url": "https://open.spotify.com/track/1Gv11gEwbxAzwhXhPRcjyd"
+    },
+    {
       "added_at": "2022-06-08 02:19:10",
       "album": {
         "name": "echoes of happenstance 4",
@@ -1301,38 +1317,6 @@
       "url": "https://open.spotify.com/track/7bKJ8YQ2TGBGA37Q6KMN22"
     },
     {
-      "added_at": "2022-06-08 02:19:10",
-      "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/4P0Svos3rBkH5RCYOpzlt9"
-      },
-      "artists": [
-        {
-          "name": "Wytchings",
-          "url": "https://open.spotify.com/artist/08wkL5BJixMdK3uk6GQ1ay"
-        }
-      ],
-      "duration_ms": 365528,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/1OJNUEqrNlQqiBywcol8dZ"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Mother Earth Took Poison In Her Soil",
-        "url": "https://open.spotify.com/album/51khhV7FVRw8a8zetDivzq"
-      },
-      "artists": [
-        {
-          "name": "Belia Winnewisser",
-          "url": "https://open.spotify.com/artist/3YiwxlfcGepHV0kmXZZZrO"
-        }
-      ],
-      "duration_ms": 217792,
-      "name": "Unattainable Promises",
-      "url": "https://open.spotify.com/track/1Gv11gEwbxAzwhXhPRcjyd"
-    },
-    {
       "added_at": "2022-06-29 16:46:05",
       "album": {
         "name": "Cruda",
@@ -1349,6 +1333,22 @@
       "url": "https://open.spotify.com/track/5jWvAfgvIjfM3gD247auvg"
     },
     {
+      "added_at": "2022-06-08 02:19:10",
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/4P0Svos3rBkH5RCYOpzlt9"
+      },
+      "artists": [
+        {
+          "name": "Wytchings",
+          "url": "https://open.spotify.com/artist/08wkL5BJixMdK3uk6GQ1ay"
+        }
+      ],
+      "duration_ms": 365528,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/1OJNUEqrNlQqiBywcol8dZ"
+    },
+    {
       "added_at": "2022-05-18 12:58:13",
       "album": {
         "name": "Desert Mirror",
@@ -1363,6 +1363,38 @@
       "duration_ms": 370214,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5dxALbYxlPYHu2eWgT3o0u"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "THIS MEANING TODAY",
+        "url": "https://open.spotify.com/album/5wsBvKjwgoTjUuZ8WryDKh"
+      },
+      "artists": [
+        {
+          "name": "Bienoise",
+          "url": "https://open.spotify.com/artist/3Cjbunxhy70lidSe6tOPum"
+        }
+      ],
+      "duration_ms": 473733,
+      "name": "LAC \u0096 Silence Half Speed",
+      "url": "https://open.spotify.com/track/05ttNAPwcldGNZvvcenEp3"
+    },
+    {
+      "added_at": "2022-05-18 12:58:13",
+      "album": {
+        "name": "Secret of the Megafauna",
+        "url": "https://open.spotify.com/album/39BFvLE1WNKS2kytZdCIlt"
+      },
+      "artists": [
+        {
+          "name": "Cool Maritime",
+          "url": "https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV"
+        }
+      ],
+      "duration_ms": 347104,
+      "name": "Secret of the Megafauna",
+      "url": "https://open.spotify.com/track/4CszGmgD0sckdDRvPeFBjb"
     },
     {
       "added_at": "2022-06-08 02:19:10",
@@ -1383,38 +1415,6 @@
       "duration_ms": 238001,
       "name": "Learn Nothing",
       "url": "https://open.spotify.com/track/62bdRTsoCLqWKuURUCqdDK"
-    },
-    {
-      "added_at": "2022-05-18 12:58:13",
-      "album": {
-        "name": "Secret of the Megafauna",
-        "url": "https://open.spotify.com/album/39BFvLE1WNKS2kytZdCIlt"
-      },
-      "artists": [
-        {
-          "name": "Cool Maritime",
-          "url": "https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV"
-        }
-      ],
-      "duration_ms": 347104,
-      "name": "Secret of the Megafauna",
-      "url": "https://open.spotify.com/track/4CszGmgD0sckdDRvPeFBjb"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "THIS MEANING TODAY",
-        "url": "https://open.spotify.com/album/5wsBvKjwgoTjUuZ8WryDKh"
-      },
-      "artists": [
-        {
-          "name": "Bienoise",
-          "url": "https://open.spotify.com/artist/3Cjbunxhy70lidSe6tOPum"
-        }
-      ],
-      "duration_ms": 473733,
-      "name": "LAC \u0096 Silence Half Speed",
-      "url": "https://open.spotify.com/track/05ttNAPwcldGNZvvcenEp3"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Blunt Force Trauma",
-        "url": "https://open.spotify.com/album/5AWmqA5u5TxKqbXVitq27h"
-      },
-      "artists": [
-        {
-          "name": "Logic Lost",
-          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
-        }
-      ],
-      "duration_ms": 349959,
-      "name": "Blunt Force Trauma",
-      "url": "https://open.spotify.com/track/6X1ic7gFcktaqbHzuwSClw"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Seed",
         "url": "https://open.spotify.com/album/0raV4wno6NFV57YqxjzTVH"
       },
@@ -1559,22 +1543,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Nebulosa di Orione",
-        "url": "https://open.spotify.com/album/2rPs0Gx8iuY0Yf6AopUUEq"
-      },
-      "artists": [
-        {
-          "name": "Jack Sapienza",
-          "url": "https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Nebulosa di Orione",
-      "url": "https://open.spotify.com/track/0DwbWhd5BzZI4P1xhrPzB0"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Leaving Your House",
         "url": "https://open.spotify.com/album/6Jr4gQWVm1nW578piBHO6i"
       },
@@ -1587,6 +1555,22 @@
       "duration_ms": 125714,
       "name": "Leaving Your House",
       "url": "https://open.spotify.com/track/0e5dMxPViv8XDK6ejcVZrY"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Nebulosa di Orione",
+        "url": "https://open.spotify.com/album/2rPs0Gx8iuY0Yf6AopUUEq"
+      },
+      "artists": [
+        {
+          "name": "Jack Sapienza",
+          "url": "https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Nebulosa di Orione",
+      "url": "https://open.spotify.com/track/0DwbWhd5BzZI4P1xhrPzB0"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1607,6 +1591,22 @@
       "duration_ms": 177903,
       "name": "Tum Trib\u00f9 Reworked",
       "url": "https://open.spotify.com/track/3dDXCkuYKpsRJ4UsXnDGiL"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Blunt Force Trauma",
+        "url": "https://open.spotify.com/album/5AWmqA5u5TxKqbXVitq27h"
+      },
+      "artists": [
+        {
+          "name": "Logic Lost",
+          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
+        }
+      ],
+      "duration_ms": 349959,
+      "name": "Blunt Force Trauma",
+      "url": "https://open.spotify.com/track/6X1ic7gFcktaqbHzuwSClw"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "anytrip k.o",
-        "url": "https://open.spotify.com/album/3NC7GEko4qsdWQBFTeq1VI"
-      },
-      "artists": [
-        {
-          "name": "Shshellsh",
-          "url": "https://open.spotify.com/artist/7mTsEcQSj8X0AnxJDFwQQK"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "anytrip k.o",
-      "url": "https://open.spotify.com/track/2mtC9Uv2xJIk8wjA1wwboo"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "TUKI TUKI",
         "url": "https://open.spotify.com/album/6F2MfJkJYAPAaZW2pFooTy"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 185777,
       "name": "TUKI TUKI",
       "url": "https://open.spotify.com/track/5UHr2nwlDQetW4GV8dxMD1"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "anytrip k.o",
+        "url": "https://open.spotify.com/album/3NC7GEko4qsdWQBFTeq1VI"
+      },
+      "artists": [
+        {
+          "name": "Shshellsh",
+          "url": "https://open.spotify.com/artist/7mTsEcQSj8X0AnxJDFwQQK"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "anytrip k.o",
+      "url": "https://open.spotify.com/track/2mtC9Uv2xJIk8wjA1wwboo"
     },
     {
       "added_at": "2022-06-29 16:46:05",

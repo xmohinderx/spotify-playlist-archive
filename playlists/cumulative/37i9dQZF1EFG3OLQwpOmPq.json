@@ -446,6 +446,28 @@
     },
     {
       "album": {
+        "name": "Ten Years",
+        "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
+      },
+      "artists": [
+        {
+          "name": "Win and Woo",
+          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155370,
+      "name": "Good Catch",
+      "url": "https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP"
+    },
+    {
+      "album": {
         "name": "Good Catch",
         "url": "https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc"
       },
@@ -461,7 +483,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 155370,
       "name": "Good Catch",
       "url": "https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W"

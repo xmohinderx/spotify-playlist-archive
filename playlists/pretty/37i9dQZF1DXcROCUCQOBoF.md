@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcROCUCQOBoF.md) - [plain]
 
 > Riscopri le più grandi hit del 2015! Cover: Marco Mengoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,704 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,711 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

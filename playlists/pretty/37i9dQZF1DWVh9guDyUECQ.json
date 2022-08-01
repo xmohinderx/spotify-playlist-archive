@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Jaydan",
-  "num_followers": 145443,
+  "num_followers": 145484,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIyMjA5NiwwMDAwMDAwMDI1OGYxNTQ2YWMyNzZlZjgxYTM5MTJjYTZiMDJkYTM4",
+  "snapshot_id": "MTY1MTIyMjA5NiwwMDAwMDAwMDU0NmFiNmVkYzNkYWQ2Y2YzMWE1OGIzMDliYjcyMDlk",
   "tracks": [
     {
       "added_at": "2022-04-29 08:48:16",
@@ -979,26 +979,6 @@
     {
       "added_at": "2022-04-29 08:48:16",
       "album": {
-        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 206230,
-      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
-    },
-    {
-      "added_at": "2022-04-29 08:48:16",
-      "album": {
         "name": "Vine a Salvarte",
         "url": "https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 209458,
       "name": "Vine a Salvarte",
       "url": "https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC"
+    },
+    {
+      "added_at": "2022-04-29 08:48:16",
+      "album": {
+        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 206230,
+      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
     },
     {
       "added_at": "2022-04-29 08:48:16",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2022-04-29 08:48:16",
       "album": {
-        "name": "Los Haters",
-        "url": "https://open.spotify.com/album/3U1OJJtrmrMkK9mnTUZBcU"
-      },
-      "artists": [
-        {
-          "name": "Mesianico",
-          "url": "https://open.spotify.com/artist/1UNM4KxpdpffcCWFYqkTdL"
-        },
-        {
-          "name": "New Generation Music",
-          "url": "https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v"
-        }
-      ],
-      "duration_ms": 152467,
-      "name": "Los Haters",
-      "url": "https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS"
-    },
-    {
-      "added_at": "2022-04-29 08:48:16",
-      "album": {
         "name": "Se Enamor\u00f3",
         "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 219500,
       "name": "Se Enamor\u00f3",
       "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
+    },
+    {
+      "added_at": "2022-04-29 08:48:16",
+      "album": {
+        "name": "Los Haters",
+        "url": "https://open.spotify.com/album/3U1OJJtrmrMkK9mnTUZBcU"
+      },
+      "artists": [
+        {
+          "name": "Mesianico",
+          "url": "https://open.spotify.com/artist/1UNM4KxpdpffcCWFYqkTdL"
+        },
+        {
+          "name": "New Generation Music",
+          "url": "https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v"
+        }
+      ],
+      "duration_ms": 152467,
+      "name": "Los Haters",
+      "url": "https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS"
     },
     {
       "added_at": "2022-04-29 08:48:16",
@@ -1395,26 +1395,6 @@
       "duration_ms": 229565,
       "name": "Rap Alto Calibre",
       "url": "https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI"
-    },
-    {
-      "added_at": "2022-04-29 08:48:16",
-      "album": {
-        "name": "Un Call",
-        "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Un Call",
-      "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
     },
     {
       "added_at": "2022-04-29 08:48:16",
@@ -1499,6 +1479,26 @@
       "duration_ms": 213798,
       "name": "Sin Exigir",
       "url": "https://open.spotify.com/track/2ryqtwvpQWCsys0DAXl1In"
+    },
+    {
+      "added_at": "2022-04-29 08:48:16",
+      "album": {
+        "name": "Un Call",
+        "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Un Call",
+      "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
     },
     {
       "added_at": "2022-04-29 08:48:16",

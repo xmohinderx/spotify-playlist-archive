@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Kane Brown, Kelsea Ballerini & Breland",
-  "num_followers": 108175,
+  "num_followers": 108183,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkzMzI3NSwwMDAwMDAwMDQzMTEwOTY2ZWQzNDk3YWQwY2E2OTYwYWNjYzczYTZh",
+  "snapshot_id": "MTY1NTkzMzI3NSwwMDAwMDAwMDM2NWVkYWRhNGMxODg1ODVkYzZjNjAxOTFkYjY3MGM1",
   "tracks": [
     {
       "added_at": "2022-05-25 15:22:18",
@@ -540,22 +540,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 259373,
-      "name": "Man in the Mirror",
-      "url": "https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
       },
       "artists": [
@@ -567,6 +551,22 @@
       "duration_ms": 253735,
       "name": "Mercy - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 259373,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm"
     },
     {
       "added_at": "2022-06-21 22:04:06",

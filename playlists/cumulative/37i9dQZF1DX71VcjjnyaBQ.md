@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-138 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+139 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Den Grønbenede Rørhøne](https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL) | [Tobias Stavngaard](https://open.spotify.com/artist/0xE90kt9Ep1DwjmFgYCckA), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Aske Drasbæk](https://open.spotify.com/artist/0Hvho6Koqqy0L3x8W1eQpi), [Carl\-Emil Dons Christensen](https://open.spotify.com/artist/27SjjVrhLG67xZPGl5tnfJ), [William Mannerland](https://open.spotify.com/artist/2W3TmmwZ3G8WwbMUQlI3yB), [Nikolaj Bangsgaard](https://open.spotify.com/artist/4uDLtTKpXFUSlKBjGX7B5i) | [Den Grønbenede Rørhøne](https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV) | 5:54 | 2022-02-24 |  |
 | [Elisian/Inutil Paisagem](https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX) | [Michel Benita](https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd), [Philippe Garcia](https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg) | [Elisian/Inutil Paisagem](https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs) | 4:56 | 2021-12-21 |  |
 | [End Of Summer](https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 3:55 | 2022-01-07 |  |
-| [Expansions](https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q) | 6:54 | 2022-06-30 |  |
+| [Expansions](https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q) | 6:54 | 2022-06-30 | 2022-08-01 |
 | [Expansions](https://open.spotify.com/track/4kXTfxvuCkyV2f0IyCwCFP) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/7MreUClNVIul1cGQNPipYU) | 6:54 | 2021-12-21 | 2022-07-28 |
 | [Fanølyng](https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:18 | 2022-06-30 |  |
 | [Fanølyng](https://open.spotify.com/track/738PEBfX2XWfUG0ceTKQvT) | [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Fanølyng](https://open.spotify.com/album/1L6SNp76cpF2Ldkvje0Ldj) | 5:18 | 2022-03-10 | 2022-07-29 |
@@ -145,6 +145,7 @@
 | [Without Deception](https://open.spotify.com/track/503UAqvRFIcoNaUYZM2WUZ) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Dave Holland Trio](https://open.spotify.com/artist/7fFLGyDMrSHUmuY6wdAcXe), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Without Deception](https://open.spotify.com/album/6LUlAvbrFf5GdxXAO0Fznc) | 6:35 | 2021-12-21 |  |
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-12-21 | 2022-07-28 |
+| [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 |  |
 | [Yesterday's Dreams](https://open.spotify.com/track/0rT1BwALaymdi8Ivsl0Oew) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light](https://open.spotify.com/album/1FziKW5OiiPik3VeXFhtf2) | 3:56 | 2021-12-21 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > All of the classic hits from the 50s and 60s.
 
-263 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/7KF7Evm7HugJ0ZFYg9Yj0E)
+264 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7KF7Evm7HugJ0ZFYg9Yj0E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Charlie Brown](https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 2:21 | 2020-12-16 | 2022-07-29 |
 | [Come Go With Me](https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 2:40 | 2020-12-16 | 2022-07-29 |
 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 | 2022-03-07 |  |
-| [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 | 2020-12-16 |  |
+| [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 | 2020-12-16 | 2022-08-01 |
 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 | 2020-12-16 | 2022-07-30 |
 | [Cry](https://open.spotify.com/track/74uuI8nGoIPIydD7oXF0O8) | [Johnnie Ray](https://open.spotify.com/artist/5gIQFnxcN2d1jRFG2TpCT6), [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [Vintage Vocal Jazz / Swing No\. 101 \- EP: Walking And Crying](https://open.spotify.com/album/678y1iMnItQmbkZOLZWaM8) | 2:17 | 2022-03-07 | 2022-04-21 |
 | [Cry Baby](https://open.spotify.com/track/6BiQOxPWVZvum3BZ2Bd4a7) | [Garnet Mimms & The Enchanters](https://open.spotify.com/artist/1ktvF9yU9iWgY0aGlKfTS4) | [The Best Of Barnet Mimms: Cry Baby](https://open.spotify.com/album/0Kj6PjTGFNnh8EsFPPj3cI) | 3:26 | 2022-03-07 | 2022-04-19 |
@@ -113,6 +113,7 @@
 | [I Will Follow Him](https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac) | [Little Peggy March](https://open.spotify.com/artist/09vvlnqwFaimZwGAvpXgqy) | [I Will Follow Him](https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg) | 2:28 | 2020-12-16 | 2022-04-17 |
 | [I'll Never Dance Again](https://open.spotify.com/track/5fxChRcnmyk2en0r5YMF6E) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Best Of Bobby Rydell](https://open.spotify.com/album/4zjFtmowRVcKgO5l0sFKi1) | 2:29 | 2020-12-16 | 2022-07-17 |
 | [I'm In Love Again](https://open.spotify.com/track/64tWwNVw8RPIY2N4IYGUBk) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them](https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b) | 1:57 | 2020-12-16 | 2022-07-29 |
+| [I'm Sorry](https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Brenda Lee](https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm) | 2:41 | 2022-03-07 |  |
 | [I'm Sorry \- Single Version](https://open.spotify.com/track/5VyBNCSb8VXoSxD281PRod) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [20th Century Masters: The Millennium Collection: Best of Brenda Lee](https://open.spotify.com/album/7G6znc9ko7BHfWh8olwYg4) | 2:40 | 2022-03-07 | 2022-04-20 |
 | [I'm Walking Behind You](https://open.spotify.com/track/2FqOLG4ViICqhx35v8xoBx) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [The Very Best Of Eddie Fisher](https://open.spotify.com/album/1N97ksukEGmwRDYk1BrOL7) | 3:05 | 2022-03-07 | 2022-04-21 |
 | [I've Gotta Get A Message To You \(2008 Remastered LP Version\)](https://open.spotify.com/track/1VoBFxdOwUGLR2Sn5d2lRK) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Best Of Bee Gees, Vol\. 1](https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU) | 2:58 | 2020-12-16 | 2022-07-29 |
