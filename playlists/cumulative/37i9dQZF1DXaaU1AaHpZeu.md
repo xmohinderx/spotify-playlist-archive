@@ -2,7 +2,7 @@
 
 ### [Novedades Indie](https://open.spotify.com/playlist/37i9dQZF1DXaaU1AaHpZeu)
 
-> Nuevos hallazgos de música indie latina\. En portada: Mira Paula
+> Nuevos hallazgos de música indie latina\. En portada: RPLK
 
 779 songs - 1 day 20 hr 21 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 

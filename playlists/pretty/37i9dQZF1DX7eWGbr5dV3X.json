@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 6014,
+  "num_followers": 6021,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIyODg2MCwwMDAwMDAwMDNmYzM4NGZjN2UwOGZmNWM4YWI2NzA1ZWIzMzQ0ZTlj",
+  "snapshot_id": "MTY1NDIyODg2MCwwMDAwMDAwMDNjYjNlOTQzMDA5MDdkYTNiZWI0ZjYxYzliNmIxOGYx",
   "tracks": [
     {
       "added_at": "2022-06-03 04:01:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 164295,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
         "name": "Party Sickness",
         "url": "https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf"
       },
@@ -179,18 +195,18 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y"
       },
       "artists": [
         {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 164295,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -215,22 +231,6 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/6r8yNzbwBpa3Ftm1BxpV11"
-      },
-      "artists": [
-        {
-          "name": "Vardaan Arora",
-          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/0zmEFpSH6KwZnBHr0cGe9a"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
         "name": "whatever u like",
         "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
       },
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Crutches",
-        "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/6r8yNzbwBpa3Ftm1BxpV11"
       },
       "artists": [
         {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+          "name": "Vardaan Arora",
+          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
         }
       ],
-      "duration_ms": 170066,
-      "name": "Crutches",
-      "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
+      "duration_ms": 200347,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/0zmEFpSH6KwZnBHr0cGe9a"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y"
+        "name": "Crutches",
+        "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
         }
       ],
-      "duration_ms": 199070,
-      "name": "chance",
-      "url": "https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR"
+      "duration_ms": 170066,
+      "name": "Crutches",
+      "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 203997,
       "name": "Safe",
       "url": "https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2022-06-03 04:01:00",

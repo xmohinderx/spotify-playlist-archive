@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2013! Cover: Avicii",
-  "num_followers": 6455,
+  "num_followers": 6464,
   "original_name": "Le Hit Del 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDI2MSwwMDAwMDAwMGZkMGE5NjkwNTc0MGU2OWUwOTE3ZTBmNWE5MjFmZDMw",
+  "snapshot_id": "MTYwNDUwMDI2MSwwMDAwMDAwMGVlYzJmYzJkZjBjM2JlZjFlYTc2OTAwM2UwZDU3Yzcz",
   "tracks": [
     {
       "added_at": "2020-11-04 14:31:01",
@@ -199,22 +199,6 @@
     {
       "added_at": "2020-11-04 14:31:01",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -227,22 +211,6 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "When I Was Your Man",
-      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
     },
     {
       "added_at": "2020-11-04 14:31:01",
@@ -263,6 +231,38 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
     },
     {
       "added_at": "2020-11-04 14:31:01",
@@ -359,22 +359,6 @@
     {
       "added_at": "2020-11-04 14:31:01",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
         "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     },
     {
       "added_at": "2020-11-04 14:31:01",
@@ -815,6 +815,22 @@
     {
       "added_at": "2020-11-04 14:31:01",
       "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "It's a Beautiful Day",
+      "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 221272,
       "name": "Reload - Radio Edit",
       "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
-        "name": "To Be Loved",
-        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "It's a Beautiful Day",
-      "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
     },
     {
       "added_at": "2020-11-04 14:31:01",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2020-11-04 14:31:01",
       "album": {
+        "name": "#PRONTOACORRERE",
+        "url": "https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Pronto a correre",
+      "url": "https://open.spotify.com/track/7BYmOx8ouIHV7iVkgTI6Fp"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
         "name": "L'Anima Vola (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6IWcTSqWt2Xd712WckzTp1"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 204308,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/3trO6hc3NY7lDrfsKrulVa"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
-        "name": "#PRONTOACORRERE",
-        "url": "https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Pronto a correre",
-      "url": "https://open.spotify.com/track/7BYmOx8ouIHV7iVkgTI6Fp"
     },
     {
       "added_at": "2020-11-04 14:31:01",
@@ -1531,6 +1531,22 @@
       "duration_ms": 258720,
       "name": "Se Si Potesse Non Morire",
       "url": "https://open.spotify.com/track/4zjBp0Jp1Ij3e1flAn2BPq"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
+        "name": "#PRONTOACORRERE",
+        "url": "https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Non passerai",
+      "url": "https://open.spotify.com/track/23a3Emy57SQYTRJtp8a4LV"
     },
     {
       "added_at": "2020-11-04 14:31:01",
@@ -1615,22 +1631,6 @@
       "duration_ms": 268280,
       "name": "La Nuova Stella Di Broadway - Remastered 2019",
       "url": "https://open.spotify.com/track/74fH2e2XNsBt35U0lfhI47"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
-        "name": "#PRONTOACORRERE",
-        "url": "https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Non passerai",
-      "url": "https://open.spotify.com/track/23a3Emy57SQYTRJtp8a4LV"
     },
     {
       "added_at": "2020-11-04 14:31:01",

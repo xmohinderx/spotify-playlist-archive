@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78799,
+  "num_followers": 78798,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzUwMCxlMzZhNDhhOGQzNTllMmJkMjViYjBiNGY3YWE0Y2M0YzViZWJiYTRj",
+  "snapshot_id": "MzUwMSw1ZmQ3YjUwZDNmY2RmYjMyODQ3YjBiMTYxOGJmYTZlYzAyODk4MWJl",
   "tracks": [
+    {
+      "added_at": "2022-08-01 14:16:05",
+      "album": {
+        "name": "Night Crawling",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "Night Crawling",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
     {
       "added_at": "2022-07-27 14:34:34",
       "album": {

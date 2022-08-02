@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-128 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+134 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Beauty And The Beast](https://open.spotify.com/track/4cuhDcdaWgkvoSaj016y6T) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [My Own Home](https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz) | 4:33 | 2022-01-21 |  |
 | [Beneath your beautiful](https://open.spotify.com/track/2man3BqdNICmahlzaSfybW) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [Olly Chesterman](https://open.spotify.com/album/6vCqifvpOb3yGCKkk7X62r) | 4:13 | 2022-01-21 |  |
 | [Blinding Lights \- Piano Instrumental](https://open.spotify.com/track/6ITPNmzJsCrh6yVrKezsmU) | [Chilled Pig](https://open.spotify.com/artist/1m7V9rstnZ264nGJe9MDUq) | [Blinding Lights \(Piano Instrumental\)](https://open.spotify.com/album/6W02DhaFOr3p1PkEOUDLJT) | 2:19 | 2022-05-02 |  |
+| [Both Sides Now](https://open.spotify.com/track/5BlwpCcj5AE8KVLgUM1SKl) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Both Sides Now](https://open.spotify.com/album/6em41apjqOtmJadQCcmysZ) | 3:48 | 2022-08-01 |  |
 | [Can You Feel The Love Tonight](https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 2:10 | 2022-01-21 |  |
 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 | 2022-01-21 | 2022-05-03 |
 | [Can't Help Falling In Love](https://open.spotify.com/track/3Al9JtsJjMBHt2UjxvnBzD) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Can't Help Falling In Love](https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn) | 2:47 | 2022-06-08 |  |
@@ -36,6 +37,7 @@
 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 | 2022-01-21 |  |
 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2022-01-21 |  |
 | [Dancing With A Stranger](https://open.spotify.com/track/2u2DHwVcSQZjxwYXjUYHgT) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Dancing With A Stranger](https://open.spotify.com/album/1hXPgb69uhDHdFttRkOgBZ) | 3:35 | 2022-01-21 |  |
+| [Danny Boy](https://open.spotify.com/track/5iX5XoYIjAtD4oLlfQlSuw) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Danny Boy](https://open.spotify.com/album/6WUgyBKlfD2KGBwWgv3NWM) | 4:17 | 2022-08-01 |  |
 | [Defying Gravity](https://open.spotify.com/track/28cY40buH89cMkAMxdMznk) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:52 | 2022-01-21 |  |
 | [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 | 2022-05-18 |  |
 | [Don't Kill My Vibe](https://open.spotify.com/track/6vB8QDhABiypQcVNpEOuQV) | [Franz Schröder](https://open.spotify.com/artist/5eK0TWmJd1D9tqBEVUe7xf) | [Don't Kill My Vibe](https://open.spotify.com/album/1Rv2l98pHdPeY1P2a76264) | 3:07 | 2022-05-18 |  |
@@ -96,6 +98,9 @@
 | [Nothing Compares 2 U](https://open.spotify.com/track/0rPLpzCJKIwMkM5GHZNm4F) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [Nothing Compares 2 U](https://open.spotify.com/album/2DNhkwLs1DMGYrQjBbamuF) | 3:13 | 2022-01-21 |  |
 | [One Of Us](https://open.spotify.com/track/7vS01bOyErbineyhSYAHsb) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [One Of Us](https://open.spotify.com/album/1MoSFx6eT5FbFieAKNYapF) | 3:05 | 2022-01-21 |  |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-01-21 |  |
+| [Photograph \(Instrumental Piano\)](https://open.spotify.com/track/0UNXTLCFf3erUgsO8IH4aK) | [Matchstick Piano Man](https://open.spotify.com/artist/4aKuEXqhHmIZKdDRkaPPKO) | [Photograph \(Instrumental Piano\)](https://open.spotify.com/album/6I1ceSGsVPEfRnqyyTHwKj) | 5:08 | 2022-08-01 |  |
+| [Running Up That Hill \(A Deal with God\) \- Pure Piano](https://open.spotify.com/track/0kUqGFiFX5jQFvbBIwbpdv) | [Roman Tee](https://open.spotify.com/artist/3PIoXFAkfmqo9V6hbpm450) | [Piano Pop Vol\. 23 \(Instrumental Piano\)](https://open.spotify.com/album/10VRewjf1fuN8HsqLGmCTg) | 2:58 | 2022-08-01 |  |
+| [Sacrifice](https://open.spotify.com/track/44633u1bq8n7f4q3yU1hSX) | [Maximizer SE](https://open.spotify.com/artist/7KytdkKiffW17VMUFo7Kys) | [Sacrifice](https://open.spotify.com/album/50VFoLMFlnDjLrvuMmJSAJ) | 3:56 | 2022-08-01 |  |
 | [Sailing](https://open.spotify.com/track/06cOOxoGCN55Py9ypH6m3t) | [Kim Jones](https://open.spotify.com/artist/1brHxXGIgbKvFinKaLvzSX) | [Sailing](https://open.spotify.com/album/4hGFyQGxIvpa1Pnpb4UrPM) | 2:42 | 2022-01-21 |  |
 | [Samson](https://open.spotify.com/track/2YehhUUNcwZCW9CcTpAYU9) | [Inkoolu](https://open.spotify.com/artist/6kJB0MyF34MKnohZ96E0LY) | [Samson](https://open.spotify.com/album/50Ob7iAvJ7liLLtnukKsEo) | 2:56 | 2022-01-21 |  |
 | [Say You Wont Let Go](https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:50 | 2022-01-21 |  |
@@ -130,6 +135,7 @@
 | [Whiter Shade Of Pale](https://open.spotify.com/track/5tad82kRjYxtO4Ed6zvdPT) | [Maya Jackson](https://open.spotify.com/artist/0Fk3a9naiKu7BbE7UgtKfI) | [Whiter Shade Of Pale](https://open.spotify.com/album/4bdQKUBmMXxBCpECgwqTWD) | 2:27 | 2022-02-10 |  |
 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 | 2022-01-21 |  |
 | [Wicked Little Town](https://open.spotify.com/track/2pUSuzYdYL7slVFPBFlWGp) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 3:16 | 2022-01-21 |  |
+| [Wild Horses](https://open.spotify.com/track/0w4UTfFR62G4Tv0u1lJIED) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Wild Horses](https://open.spotify.com/album/7ojqnKT6vCuQN5yG9arN1N) | 3:56 | 2022-08-01 |  |
 | [Wonderwall](https://open.spotify.com/track/5YO7hivGzpGctGedUVRmFv) | [Regina Scallí](https://open.spotify.com/artist/6z4uxWlsx9rzh24RYxntWy) | [Wonderwall](https://open.spotify.com/album/5nBdxHBN2bSn9XlqEvtAks) | 2:54 | 2022-01-21 |  |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2022-01-21 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [You'll Be In My Heart](https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU) | 4:32 | 2022-01-21 |  |

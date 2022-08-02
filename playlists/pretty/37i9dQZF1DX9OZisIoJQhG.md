@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,660 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,786 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 39 | [Guiding Light](https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:17 |
 | 40 | [Puccini: Gianni Schicchi, Act 1: "O mio babbino caro" \(Lauretta\)](https://open.spotify.com/track/18VNXlRteVgchjjqaTKZmm) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Un violon à Paris](https://open.spotify.com/album/1lZyDr7mP2qj6jTl8kj9US) | 2:01 |
 
-Snapshot ID: `MTY1MzYyNDA2MCwwMDAwMDAwMGE4YjE5NWI5Y2VkZGI3ODg0NjJhOTlkNmY3ZjA2NWNi`
+Snapshot ID: `MTY1OTM0ODQ2OCwwMDAwMDAwMDMwMmRlMDhiZTQ0YzE5OGQ3M2U5OWI5MjhmYTQxMWMx`

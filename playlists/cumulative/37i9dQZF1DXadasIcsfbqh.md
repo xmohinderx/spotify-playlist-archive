@@ -2,7 +2,7 @@
 
 ### [PopCo](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Brooke Eden
+> Pop country hits of today and tomorrow\. Cover: Ingrid Andress
 
 177 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 

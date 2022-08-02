@@ -4,7 +4,7 @@
 
 > A collection of hits that will have you singing every word\. Cover: Dustin Lynch
 
-100 songs - 5 hr 29 min - not published yet
+100 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/5Q1iirswdRnV2OItF004D6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

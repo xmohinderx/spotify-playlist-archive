@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 419818,
+  "num_followers": 421790,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTExODczNywwMDAwMDAwMGQxNmI2NDlkZTYwNzQ1MWI0NTRhOTlkYTQ5ZmY0Mjlh",
+  "snapshot_id": "MTY1OTExODczNywwMDAwMDAwMDdkZDFiZGZiNGJlNjA5OGY5MzgzNjRiMDgzOTY3ZmFh",
   "tracks": [
     {
       "added_at": "2022-07-29 18:17:09",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-07-29 18:17:09",
       "album": {
+        "name": "Vision (Slowed)",
+        "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
+      },
+      "artists": [
+        {
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+        }
+      ],
+      "duration_ms": 299572,
+      "name": "Vision - Slowed",
+      "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
+    },
+    {
+      "added_at": "2022-07-29 18:17:09",
+      "album": {
         "name": "Happier (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 240531,
       "name": "Happier - Slowed + Reverb",
       "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
-    },
-    {
-      "added_at": "2022-07-29 18:17:09",
-      "album": {
-        "name": "Vision (Slowed)",
-        "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
-      },
-      "artists": [
-        {
-          "name": "Hucci",
-          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
-        }
-      ],
-      "duration_ms": 299572,
-      "name": "Vision - Slowed",
-      "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
     },
     {
       "added_at": "2022-07-29 18:17:09",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-07-29 18:17:09",
       "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/3CFTu4CTLeQOogO51E6ki3"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 203491,
+      "name": "SNAP - Low and Slow",
+      "url": "https://open.spotify.com/track/7ImqL72aFPAxe9ZvEg2ebe"
+    },
+    {
+      "added_at": "2022-07-29 18:17:09",
+      "album": {
         "name": "Wrap Me In Plastic",
         "url": "https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 167369,
       "name": "dirty laundry - slowed",
       "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
-    },
-    {
-      "added_at": "2022-07-29 18:17:09",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/3CFTu4CTLeQOogO51E6ki3"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 203491,
-      "name": "SNAP - Low and Slow",
-      "url": "https://open.spotify.com/track/7ImqL72aFPAxe9ZvEg2ebe"
     },
     {
       "added_at": "2022-07-29 18:17:09",
@@ -851,18 +851,22 @@
     {
       "added_at": "2022-07-29 18:17:09",
       "album": {
-        "name": "This December (slow)",
-        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
+        "name": "Wet (She Got That\u2026) [Slowed & Reverbed]",
+        "url": "https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "DJ Slow Verb",
+          "url": "https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s"
         }
       ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
+      "duration_ms": 229260,
+      "name": "Wet (She Got That\u2026) - Slowed & Reverbed",
+      "url": "https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1"
     },
     {
       "added_at": "2022-07-29 18:17:09",
@@ -887,22 +891,18 @@
     {
       "added_at": "2022-07-29 18:17:09",
       "album": {
-        "name": "Wet (She Got That\u2026) [Slowed & Reverbed]",
-        "url": "https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP"
+        "name": "This December (slow)",
+        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
       },
       "artists": [
         {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "DJ Slow Verb",
-          "url": "https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 229260,
-      "name": "Wet (She Got That\u2026) - Slowed & Reverbed",
-      "url": "https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1"
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
     },
     {
       "added_at": "2022-07-29 18:17:09",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-07-29 18:17:09",
       "album": {
-        "name": "Don't Forget My Love (slowed + reverb)",
-        "url": "https://open.spotify.com/album/3RwnUNG3BffFA0ocBpPhBo"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 223472,
-      "name": "Don't Forget My Love - slowed + reverb",
-      "url": "https://open.spotify.com/track/3C2o6Iw5yLpe6HViGP9OYX"
-    },
-    {
-      "added_at": "2022-07-29 18:17:09",
-      "album": {
         "name": "Faster (Slowed & Reverb)",
         "url": "https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 199817,
       "name": "Faster (Slowed & Reverb)",
       "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
+    },
+    {
+      "added_at": "2022-07-29 18:17:09",
+      "album": {
+        "name": "Don't Forget My Love (slowed + reverb)",
+        "url": "https://open.spotify.com/album/3RwnUNG3BffFA0ocBpPhBo"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 223472,
+      "name": "Don't Forget My Love - slowed + reverb",
+      "url": "https://open.spotify.com/track/3C2o6Iw5yLpe6HViGP9OYX"
     }
   ],
   "unique_name": "slowed and reverbed",

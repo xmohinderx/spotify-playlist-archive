@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-203 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/1vSJyoseXwXuO64ij78YrM)
+204 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/1vSJyoseXwXuO64ij78YrM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Resistencia indigena](https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:09 | 2021-12-10 | 2022-07-27 |
 | [Resistir](https://open.spotify.com/track/0LFSbyvl4LjLTMvCWKb1Ue) | [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Resistir](https://open.spotify.com/album/0f2OynhFGw9vY0TtcdqTfg) | 3:12 | 2022-02-04 | 2022-07-18 |
 | [Reverdeciendo](https://open.spotify.com/track/1x5xeLTf0SAzXVCQ4ymqrV) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Estacion Wirikuta](https://open.spotify.com/album/6KlEtLRaQBAM1BONHyzflQ) | 3:18 | 2021-12-10 | 2022-07-23 |
+| [Reverdeciendo \(feat\. Zion Train\)](https://open.spotify.com/track/4nb2PWEPQmLAOFpWtYSds8) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Resonante](https://open.spotify.com/album/7LyG75D5tZFBLM9u6i5C1E) | 3:19 | 2022-07-08 |  |
 | [Revolucionario](https://open.spotify.com/track/5XYDJ2lnwf712Ojud1TLHE) | [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Revolucionario](https://open.spotify.com/album/65xKhqwGlfcVOxBEk9ta6B) | 4:12 | 2021-12-10 | 2022-07-29 |
 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 | 2021-12-10 | 2022-04-19 |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2021-12-10 |  |
@@ -175,7 +176,7 @@
 | [Sisters](https://open.spotify.com/track/64javozcRkMoxYdbhIiUXo) | [Panal](https://open.spotify.com/artist/49pcyFdsrBRYnbTXZUOurP) | [Sisters](https://open.spotify.com/album/4CvPKgGnPxfiE2X2Tm4Hmx) | 3:23 | 2021-12-10 | 2022-07-15 |
 | [Sound System](https://open.spotify.com/track/2GhQb581GzsrGtIhemqrRT) | [Ska Beat City](https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o), [King Hammond](https://open.spotify.com/artist/65MIdx4CJERQ0esySuu05f) | [Sound System](https://open.spotify.com/album/41v1Y8axovxvY18ArshdGi) | 3:33 | 2022-02-04 | 2022-04-20 |
 | [Soy Latino](https://open.spotify.com/track/08W016xoCPlcEFCfcbZg1n) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Soy Latino](https://open.spotify.com/album/4vpU0mnMhhUpi4crJhWiFN) | 3:53 | 2022-04-01 | 2022-04-21 |
-| [Soy un Lion](https://open.spotify.com/track/5asB0dIZTE4mHbX9mhm89g) | [Little Pepe](https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Soy un Lion](https://open.spotify.com/album/66PzOEOI6XehXOEG9rtJ8B) | 3:24 | 2022-01-21 |  |
+| [Soy un Lion](https://open.spotify.com/track/5asB0dIZTE4mHbX9mhm89g) | [Little Pepe](https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Soy un Lion](https://open.spotify.com/album/66PzOEOI6XehXOEG9rtJ8B) | 3:24 | 2022-01-21 | 2022-08-02 |
 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 | 2021-12-10 |  |
 | [Te Crees Tú](https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Te Crees Tú](https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd) | 3:32 | 2022-04-28 | 2022-07-09 |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-03-11 |  |

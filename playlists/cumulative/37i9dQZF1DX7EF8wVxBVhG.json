@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Binaural Zones",
+        "url": "https://open.spotify.com/album/25HMKjzXf5IpFE1Zfw9Kba"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194816,
+      "name": "Alpha Zone 12 Hz",
+      "url": "https://open.spotify.com/track/5pvXmEJq200PuwgHxHJALZ"
+    },
+    {
+      "album": {
         "name": "Relaxing Delta",
         "url": "https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn"
       },

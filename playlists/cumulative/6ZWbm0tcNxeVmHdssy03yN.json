@@ -18042,6 +18042,24 @@
     },
     {
       "album": {
+        "name": "Mockingbird (Remix)",
+        "url": "https://open.spotify.com/album/7BXb7pTQSCicF0duwhWd9E"
+      },
+      "artists": [
+        {
+          "name": "E1 (3x3)",
+          "url": "https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192362,
+      "name": "Mockingbird - Remix",
+      "url": "https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw"
+    },
+    {
+      "album": {
         "name": "Moi aussi (John Dean Remix)",
         "url": "https://open.spotify.com/album/02wtj3c7UmFlMOtsP07CbR"
       },

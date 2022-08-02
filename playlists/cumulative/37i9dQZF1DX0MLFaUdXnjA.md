@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: beabadoobee
 
-1,012 songs - 2 day 5 hr 39 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,013 songs - 2 day 5 hr 42 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-07-17 |
 | [At My Worst](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:50 | 2020-10-02 | 2021-06-12 |
 | [Atlanta](https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Atlanta](https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2) | 3:25 | 2020-05-01 | 2020-08-07 |
-| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2020-07-31 | 2020-10-09 |
+| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2020-07-31 |  |
 | [avalanche](https://open.spotify.com/track/1RlmAzI27AlIpvoRN3u6Iy) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [avalanche](https://open.spotify.com/album/0ISJeQO2OoleGkf5ZxNyuE) | 3:19 | 2021-06-26 | 2021-09-11 |
 | [AWOOO!](https://open.spotify.com/track/33C1sEVNSwk1P5nTzQ2Wky) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [AWOOO!](https://open.spotify.com/album/6dQgJv3DYQAtE9OmOaEqXl) | 3:41 | 2021-08-14 | 2021-09-11 |
 | [Baby Blue](https://open.spotify.com/track/775VDC6Vc73XE0fI80EVOj) | [Joel Blackmon](https://open.spotify.com/artist/4XBNTfuiL1ful1Erm746lY) | [Baby Blue](https://open.spotify.com/album/6MMwgmGGMquTXH54gbEjEi) | 2:46 | 2020-11-13 | 2021-01-15 |
@@ -233,7 +233,7 @@
 | [Deep end](https://open.spotify.com/track/1hmcogF6Lz6QqiibEZqXjQ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 2:03 | 2021-10-02 | 2022-04-09 |
 | [Deja Vu](https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p) | [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Deja Vu](https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY) | 2:31 | 2022-06-10 | 2022-07-16 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-03 | 2021-06-26 |
-| [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2022-07-08 |  |
+| [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2022-07-08 | 2022-08-02 |
 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-18 | 2022-04-09 |
 | [Devil On My Shoulder](https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Devil On My Shoulder](https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ) | 3:32 | 2021-10-02 | 2022-05-07 |
 | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/track/2yJgLxRS3qzh8MwPogWG7d) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/album/1Wz4TaOdgu0xzFcn4itx7M) | 3:43 | 2021-04-03 | 2021-04-30 |
@@ -526,7 +526,7 @@
 | [Life Goes On](https://open.spotify.com/track/7HbKIvZWeJPD6JmxQymOZ8) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Life Goes On](https://open.spotify.com/album/5XCwUCcCM9fw79tU9Ga1BV) | 3:21 | 2020-07-31 | 2020-10-09 |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-07-31 | 2022-03-26 |
 | [life sentence](https://open.spotify.com/track/54nRf8BUmZNITMxpKIM8Dj) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [tendency to be a loner](https://open.spotify.com/album/65gYIY8CGaLB852cyVhvFI) | 3:58 | 2021-08-07 | 2021-09-25 |
-| [Light Of My Life](https://open.spotify.com/track/4FXo9YwwZMXyl1lzZUg5js) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Light Of My Life](https://open.spotify.com/album/2IMYa5ygz6GiEoN6nbVkVU) | 3:04 | 2022-06-24 |  |
+| [Light Of My Life](https://open.spotify.com/track/4FXo9YwwZMXyl1lzZUg5js) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Light Of My Life](https://open.spotify.com/album/2IMYa5ygz6GiEoN6nbVkVU) | 3:04 | 2022-06-24 | 2022-08-02 |
 | [Light On](https://open.spotify.com/track/5AdnkoZJuRJCYqYBIzSqFb) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Light On](https://open.spotify.com/album/4uRuM5mq316R7PdLsmJmBK) | 3:53 | 2020-04-26\* | 2020-06-19 |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2021-12-24 |  |
 | [lights coming down](https://open.spotify.com/track/0mq2PA59wm8mxRDv2dcS4S) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [looking for something](https://open.spotify.com/album/30c4YWZhA9V9umtvaY1Bcr) | 3:10 | 2021-08-07 | 2021-10-09 |
@@ -997,6 +997,7 @@
 | [Wildflowers](https://open.spotify.com/track/0aKcjCM4U2z8bATGl5IChO) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Wildflowers](https://open.spotify.com/album/0Rhjgq6JGglDsooABCeTU8) | 3:19 | 2021-08-14 | 2021-10-23 |
 | [Wings](https://open.spotify.com/track/6p56fflyWLspRsipBqZabq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/5c7AV4LuaA4vmi3x2h0IUx) | 2:48 | 2021-09-25 | 2021-10-09 |
 | [Winter City](https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Winter City](https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG) | 2:41 | 2020-12-13 | 2021-03-19 |
+| [Winter is Hopeful](https://open.spotify.com/track/4YUSjeeznV0HhsbWdSkHx0) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:01 | 2022-08-01 |  |
 | [wisdom teeth](https://open.spotify.com/track/0eEcs8LmGk1TKfGgUiYosw) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [wisdom teeth](https://open.spotify.com/album/27HcSfqPn8Vrdy3Kjp0Or0) | 3:01 | 2020-10-09 | 2020-11-06 |
 | [Wish You Did](https://open.spotify.com/track/5kGPIXJQJMLG1FGj38UlMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Wish You Did](https://open.spotify.com/album/71T6Aaz3gVFGg1fHjCnC7K) | 2:50 | 2021-08-28 | 2021-12-24 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2021-09-25 | 2021-11-06 |

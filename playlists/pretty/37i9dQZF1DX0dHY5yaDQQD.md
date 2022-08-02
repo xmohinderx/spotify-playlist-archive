@@ -1,19 +1,19 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain](/playlists/plain/37i9dQZF1DX0dHY5yaDQQD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0dHY5yaDQQD)
 
-### [DECONSTRUCTED CLUBBING](https://open.spotify.com/playlist/37i9dQZF1DX0dHY5yaDQQD)
+### [DECONSTRUCTED CLUB](https://open.spotify.com/playlist/37i9dQZF1DX0dHY5yaDQQD)
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,613 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,628 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
-| 2 | [SEQUENCE](https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [22122](https://open.spotify.com/album/0mEMOUGU3MA2epy6Xk38Ai) | 2:39 |
-| 3 | [Ballast](https://open.spotify.com/track/26UfYyC9eZyavP1oJ4Dpsg) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#5](https://open.spotify.com/album/7g6AaylaH6MMPVYfX8QWqj) | 4:57 |
-| 4 | [Purple Jelly Disc](https://open.spotify.com/track/5TV3iyQjjitXlJBdIfHvZj) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Purple Jelly Disc](https://open.spotify.com/album/2eq0YvJEfcPmQNA49DqlxD) | 6:12 |
-| 5 | [PSYCHOPATH](https://open.spotify.com/track/0X0adwHtGl66OjVSgC6qKt) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [PSYCHOPATH](https://open.spotify.com/album/3PuB3XXpz94FxTWSXVsILH) | 3:25 |
-| 6 | [Tinsel Teeth](https://open.spotify.com/track/0uFX5UEW0EZfuIvyWWsbLk) | [Kilbourne](https://open.spotify.com/artist/2puJJyoBDCIvN9N7M4yRh3) | [Tinsel Teeth](https://open.spotify.com/album/15JsxKquneMjlzZGL0rfrn) | 4:56 |
+| 1 | [Ballast](https://open.spotify.com/track/26UfYyC9eZyavP1oJ4Dpsg) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#5](https://open.spotify.com/album/7g6AaylaH6MMPVYfX8QWqj) | 4:57 |
+| 2 | [Exploration of You](https://open.spotify.com/track/6SYmM33C8qGztUgCzDOP8c) | [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Exploration of You](https://open.spotify.com/album/4wqwwIRo6aWenhjkrMyShE) | 4:30 |
+| 3 | [Tinsel Teeth](https://open.spotify.com/track/0uFX5UEW0EZfuIvyWWsbLk) | [Kilbourne](https://open.spotify.com/artist/2puJJyoBDCIvN9N7M4yRh3) | [Tinsel Teeth](https://open.spotify.com/album/15JsxKquneMjlzZGL0rfrn) | 4:56 |
+| 4 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
+| 5 | [SEQUENCE](https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [22122](https://open.spotify.com/album/0mEMOUGU3MA2epy6Xk38Ai) | 2:39 |
+| 6 | [PSYCHOPATH](https://open.spotify.com/track/0X0adwHtGl66OjVSgC6qKt) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [PSYCHOPATH](https://open.spotify.com/album/3PuB3XXpz94FxTWSXVsILH) | 3:25 |
 | 7 | [LSD Superhero](https://open.spotify.com/track/68rF8EIqQhXAZUnT2z3vnF) | [Piezo](https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM) | [LSD Superhero](https://open.spotify.com/album/0UIe5wti37P33mVU499vL6) | 5:06 |
 | 8 | [in my closet](https://open.spotify.com/track/3AZto3MZaVePHEXvt0Me9V) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 3:32 |
 | 9 | [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 17 | [Hidden Teeth](https://open.spotify.com/track/5iFPLOnxNlBZqTHoqghuLw) | [Osheyack](https://open.spotify.com/artist/1juz0H48u94THg3gHf0rGE) | [Empty Hell](https://open.spotify.com/album/0NGXTrjqRMtXpguErqr9aK) | 3:42 |
 | 18 | [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 |
 | 19 | [Sylph](https://open.spotify.com/track/20XLvRLUpKvD4cHwScEemQ) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [KABLAM](https://open.spotify.com/artist/5NIwUZbLiRHu7rOFeDkKeX) | [ERIKA JANE](https://open.spotify.com/album/1mhpsVl1cwUzc55K5H92jQ) | 3:13 |
-| 20 | [All I Want For Christmas Is An Acoustic Guitar \(1\-2\-3\-4\)](https://open.spotify.com/track/058qbji24jQ1c8g1RYkDtA) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Meilleurs Vœux V](https://open.spotify.com/album/3iJoM42qpzkJaLeHCah3bg) | 3:20 |
-| 21 | [Exploration of You](https://open.spotify.com/track/6SYmM33C8qGztUgCzDOP8c) | [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Exploration of You](https://open.spotify.com/album/4wqwwIRo6aWenhjkrMyShE) | 4:30 |
+| 20 | [Purple Jelly Disc](https://open.spotify.com/track/5TV3iyQjjitXlJBdIfHvZj) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Purple Jelly Disc](https://open.spotify.com/album/2eq0YvJEfcPmQNA49DqlxD) | 6:12 |
+| 21 | [All I Want For Christmas Is An Acoustic Guitar \(1\-2\-3\-4\)](https://open.spotify.com/track/058qbji24jQ1c8g1RYkDtA) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Meilleurs Vœux V](https://open.spotify.com/album/3iJoM42qpzkJaLeHCah3bg) | 3:20 |
 | 22 | [self destruction worldwide broadcast](https://open.spotify.com/track/3x8QKvIFop2DQQ4HMdEWKs) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [we had good times together, don't forget that](https://open.spotify.com/album/6Hs9pYq5ionwBpGAp6iqi9) | 4:46 |
 | 23 | [Bloto](https://open.spotify.com/track/0CqXIsqFJakfr2AN5NRCUa) | [Rapala700](https://open.spotify.com/artist/2HXbJNbekm1NSPEhrW7iQ4) | [Barotrauma](https://open.spotify.com/album/79IMXVfdJVO1LGkiDpgQiK) | 3:22 |
 | 24 | [Cicatriz](https://open.spotify.com/track/62yXOFrJ4ZBOxHFjYoL5kC) | [Kamixlo](https://open.spotify.com/artist/047OAyUhKioOpwIRFrRVfx) | [Cicatriz](https://open.spotify.com/album/5oscN40PXzyQuyrccT4vUE) | 3:36 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 54 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 |
 | 55 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 |
 
-Snapshot ID: `MTY1OTA4NzMwOCwwMDAwMDAwMGQwNjU2NzY4MGUxNGYwZGJmZTJmNDRiYjc2NzJlYzdl`
+Snapshot ID: `MTY1OTM0MjE1NCwwMDAwMDAwMGY4MzcwYzFjYWI1MDRhODBiMzdkMWM2YjIzNTc3OTcx`

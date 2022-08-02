@@ -2450,6 +2450,24 @@
     },
     {
       "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146842,
+      "name": "Lanza Tus Penas Al Viento",
+      "url": "https://open.spotify.com/track/4RyW9qyWhEU0UY3Nwh4mFN"
+    },
+    {
+      "album": {
         "name": "16 Exitos Baladas - Alberto Vazquez",
         "url": "https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX"
       },
@@ -3017,7 +3035,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 170657,
       "name": "Olvida",
       "url": "https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn"

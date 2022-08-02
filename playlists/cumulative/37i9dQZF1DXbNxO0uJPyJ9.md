@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-216 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
+217 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [True Faith \- Shep Pettibone 12" Remix](https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 9:03 | 2020-08-07 | 2022-07-29 |
 | [Two Tribes \(Carnage Mix\)](https://open.spotify.com/track/1KoL3cW4vnCEF6paWaveeH) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Reload! Frankie: The Whole 12 Inches](https://open.spotify.com/album/7bfpkbku6m1cMU4UPQAggE) | 7:56 | 2020-08-07 | 2022-07-28 |
 | [Two Tribes \- Annihilation](https://open.spotify.com/track/04HO96V1POrb0L0iZ8kfK0) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 9:08 | 2020-08-07 | 2022-07-29 |
+| [Two Tribes \- Carnage Mix](https://open.spotify.com/track/3ZcO8ST2AxksjntIk91Mms) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Reload! Frankie: The Whole 12 Inches](https://open.spotify.com/album/0YIzOsXGWV9ywnRlZSqORh) | 7:56 | 2022-06-10 |  |
 | [Uncertain Smile \- 12" Remix](https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [45 RPM \- The Singles Of The The](https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa) | 9:59 | 2020-08-07 | 2022-07-29 |
 | [Vienna \- 2008 Remastered Version](https://open.spotify.com/track/4a8FQmchPNHwrVTSRQVXtw) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Forever Young \- Best of The 80's](https://open.spotify.com/album/1cdWbTN6ri5Ynjb0Lvqf7x) | 4:58 | 2021-12-22 | 2022-07-29 |
 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 | 2020-08-07 |  |
@@ -211,7 +212,7 @@
 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 | 2022-06-10 |  |
 | [What Is Love? \[Extended Mix\]](https://open.spotify.com/track/76ubLHclAKDHQUwcuQRrkj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Ix2UjgjjXwOWnBFopkKkb) | 6:36 | 2020-08-07 | 2022-07-28 |
 | [When the Going Gets Tough \- Extended Version](https://open.spotify.com/track/3tT3CqBYG3peXXZx7xZUx9) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Love Zone \(Expanded Edition\)](https://open.spotify.com/album/7oUQQI3USlnBTUeN6KXXoo) | 7:32 | 2021-12-22 | 2022-04-28 |
-| [White Lines \(Long Version\) \[Re\-Recorded\]](https://open.spotify.com/track/0Dj3iMM3fvHMOqWsqS64Fu) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [Hip Hop Soundtrack To The Concrete Jungle \(Re\-Recorded\)](https://open.spotify.com/album/5bl0ggdoV1nNEGuVkUG9c3) | 7:45 | 2022-06-10 |  |
+| [White Lines \(Long Version\) \[Re\-Recorded\]](https://open.spotify.com/track/0Dj3iMM3fvHMOqWsqS64Fu) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [Hip Hop Soundtrack To The Concrete Jungle \(Re\-Recorded\)](https://open.spotify.com/album/5bl0ggdoV1nNEGuVkUG9c3) | 7:45 | 2022-06-10 | 2022-08-02 |
 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/47BEhf9uxs5s4TB58CBx2c) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5HFgAlSpTgGprj1sJUZOiP) | 6:18 | 2021-12-22 | 2022-07-19 |
 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 | 2022-06-10 |  |
 | [Word Up! \- Extended Version](https://open.spotify.com/track/5F7UEYzWQ1vO5io3nRGEIQ) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [80's](https://open.spotify.com/album/36MWEr7SBcQQrSHVDgpSN2) | 4:13 | 2021-12-22 | 2022-07-19 |

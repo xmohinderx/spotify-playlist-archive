@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765 likes - 30 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 763 likes - 31 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 28 | [Behind Enemy Lines](https://open.spotify.com/track/259aWf01uewSao9r9oBYP6) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 2:57 |
 | 29 | [ACMA](https://open.spotify.com/track/1c7jZViK1RDHr9WOZzIvCV) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 22:43 |
 | 30 | [LET GO](https://open.spotify.com/track/1jHZ8q4QPVHaxunYsrScnR) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:08 |
+| 31 | [AMARO AMORE](https://open.spotify.com/track/34aLJYyLaPXQoQEa2rls0a) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 6:00 |
 
-Snapshot ID: `Mjc2NTQ1ODUsMDAwMDAwMDBiM2RkYjhjMDI3ZjJhNTRiMDJmMTMxY2VkOThiYzFiNA==`
+Snapshot ID: `Mjc2NTYwMDYsMDAwMDAwMDBmN2VmNGZjOGMwOTdiNDdmNmI2YTQyOGM4YzdiM2RmNw==`

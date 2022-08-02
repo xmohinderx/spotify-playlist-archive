@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26782,
+  "num_followers": 26789,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzEwMCxiY2NhZTI2ZGIxYzMwMzk0OGJjMWZjYWU3Y2Q0ZWFlM2MzYzViYWM4",
+  "snapshot_id": "MzEwMywzZjEzN2ZiZjYxODY0ZTNmYzRmZjIwYTY3MDI4MTcxYWFkZTUwMTg3",
   "tracks": [
     {
       "added_at": "2022-07-22 15:12:17",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI"
     },
     {
+      "added_at": "2022-08-01 22:48:47",
+      "album": {
+        "name": "Infinite Window",
+        "url": "https://open.spotify.com/album/53VgkRoJgtIKjXTFqpc8gR"
+      },
+      "artists": [
+        {
+          "name": "Kuedo",
+          "url": "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
+        }
+      ],
+      "duration_ms": 174647,
+      "name": "Time Glide",
+      "url": "https://open.spotify.com/track/0NlzQhUzaV2jaswePcQp0s"
+    },
+    {
       "added_at": "2022-07-13 19:54:32",
       "album": {
         "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
@@ -135,22 +151,6 @@
       "duration_ms": 236500,
       "name": "1994",
       "url": "https://open.spotify.com/track/5CW8hkWUdJLVw8mbavDh1h"
-    },
-    {
-      "added_at": "2022-07-21 04:12:49",
-      "album": {
-        "name": "Shadow Dance",
-        "url": "https://open.spotify.com/album/6WOWUHCLX8C2tQYJwpc0p4"
-      },
-      "artists": [
-        {
-          "name": "Kuedo",
-          "url": "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
-        }
-      ],
-      "duration_ms": 239121,
-      "name": "Shadow Dance",
-      "url": "https://open.spotify.com/track/38XjbDDpMxZTzmA7eCbgaM"
     },
     {
       "added_at": "2022-07-14 04:21:33",

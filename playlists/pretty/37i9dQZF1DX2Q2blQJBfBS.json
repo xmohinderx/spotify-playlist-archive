@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 110309,
+  "num_followers": 110501,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5NjAwMCwwMDAwMDAwMDZkYTFlN2VlMDFkYzQxOTBiZTA0Mjc5NDZjYmQwZTlj",
+  "snapshot_id": "MTY1OTA5NjAwMCwwMDAwMDAwMGMyNjc4OTQ2ZDQ2ODAxMWIyYTQ3YmVmYTIwMTQyMmE3",
   "tracks": [
     {
       "added_at": "2022-07-29 12:00:00",
@@ -789,6 +789,38 @@
       "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Jazzy Belle",
+      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
+    },
+    {
       "added_at": "2022-07-01 12:00:00",
       "album": {
         "name": "Uptown Saturday Night",
@@ -835,50 +867,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Wrath Of The Math",
+        "url": "https://open.spotify.com/album/7jvuTIYaBYqbTcLZZwXlIZ"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Jeru The Damaja",
+          "url": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Jazzy Belle",
-      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "The Water (S)",
-        "url": "https://open.spotify.com/album/39yAlNzbQD6MAvveqeY3IP"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 260160,
-      "name": "Jazz",
-      "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
+      "duration_ms": 265533,
+      "name": "Me Or The Papes",
+      "url": "https://open.spotify.com/track/1h20yRsf5WeuHbohrlfcCt"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Wrath Of The Math",
-        "url": "https://open.spotify.com/album/7jvuTIYaBYqbTcLZZwXlIZ"
+        "name": "The Water (S)",
+        "url": "https://open.spotify.com/album/39yAlNzbQD6MAvveqeY3IP"
       },
       "artists": [
         {
-          "name": "Jeru The Damaja",
-          "url": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 265533,
-      "name": "Me Or The Papes",
-      "url": "https://open.spotify.com/track/1h20yRsf5WeuHbohrlfcCt"
+      "duration_ms": 260160,
+      "name": "Jazz",
+      "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -951,6 +951,22 @@
       "duration_ms": 268339,
       "name": "Crowns for Kings (Feat. Black Thought)",
       "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
+      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1003,22 +1019,6 @@
       "duration_ms": 98720,
       "name": "Time: The Donut of the Heart",
       "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
-      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1111,6 +1111,22 @@
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "DRILL MUSIC IN ZION",
+        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 271883,
+      "name": "DRILL MUSIC IN ZION",
+      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1207,22 +1223,6 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
-    },
-    {
-      "added_at": "2022-06-24 12:00:00",
-      "album": {
-        "name": "DRILL MUSIC IN ZION",
-        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 271883,
-      "name": "DRILL MUSIC IN ZION",
-      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Makeda",
         "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 96067,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
     },
     {
-      "added_at": "2022-07-08 12:00:00",
-      "album": {
-        "name": "Lyrics to GO, Vol. 3",
-        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 68830,
-      "name": "Cherry Beach",
-      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
-    },
-    {
       "added_at": "2022-05-27 13:52:51",
       "album": {
         "name": "Yod Stewart",
@@ -1711,6 +1695,22 @@
       "duration_ms": 197410,
       "name": "Nightmares And Dreams",
       "url": "https://open.spotify.com/track/756fnIk0VMH2PTLjnVO7eR"
+    },
+    {
+      "added_at": "2022-07-08 12:00:00",
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
       "added_at": "2022-05-20 12:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/79N96g4sh8QwGGp09VMJZN"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Ironman",
         "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 166840,
       "name": "260 (feat. Raekwon)",
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/79N96g4sh8QwGGp09VMJZN"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1807,6 +1807,26 @@
       "duration_ms": 218297,
       "name": "Cruisin USA",
       "url": "https://open.spotify.com/track/7gwQIgCoMKxY0zrALk86Zc"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "To Kill A Sunrise",
+        "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "The Cold",
+      "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
     },
     {
       "added_at": "2022-05-27 12:00:00",
@@ -1855,26 +1875,6 @@
       "duration_ms": 147031,
       "name": "Cosmonaut",
       "url": "https://open.spotify.com/track/2Lt9iwXSIbQBEgWvQe0Dxa"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "To Kill A Sunrise",
-        "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "The Cold",
-      "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
     },
     {
       "added_at": "2022-05-20 12:00:00",

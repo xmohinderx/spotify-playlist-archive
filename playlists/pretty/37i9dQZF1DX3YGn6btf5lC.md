@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YGn6btf5lC.md) - [plain]
 
 > 100% fan\-made music\. Gaming parodies of famous songs and unique creations, inspired by Minecraft, Warcraft, Pokémon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,990 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,000 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YGn6btf5lC.md) - [plain]
 | 48 | [The Shaping Of The World \(From "World Of Warcraft"\)](https://open.spotify.com/track/72VYFpLw6oZIaWUauREwsY) | [Music Legends](https://open.spotify.com/artist/0cf25EACpDMSXZam6GgQe5) | [More 8 Bit Videogame Themes](https://open.spotify.com/album/6yIeV6c18bRagVED9r03DC) | 2:18 |
 | 49 | [tommy innit](https://open.spotify.com/track/57Cmwk9oZjTrFVrkBCmexZ) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [tommy innit](https://open.spotify.com/album/6yYoskP7PW5awOnIcOwAaX) | 3:01 |
 
-Snapshot ID: `MTY1MjM3OTEzOSwwMDAwMDAwMDYzYTM3OWI0M2QwMjFlNjllNDcyNjg4MTM4ZTc1Njg1`
+Snapshot ID: `MTY1OTM3NDc0MywwMDAwMDAwMDcwM2IyNzdhZjI1NGU3ODUzOWVjNTI0YTViMzc1MWQy`

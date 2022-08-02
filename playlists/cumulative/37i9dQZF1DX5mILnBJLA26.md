@@ -4,7 +4,7 @@
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=bDrTnbegSAK2FgCjdBlnhw">Mellow & Sleazy</a>
 
-492 songs - 2 day 2 hr 27 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
+493 songs - 2 day 2 hr 34 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Khuphuka](https://open.spotify.com/track/4dCw4y68bhjbV2z24wKj4Y) | [Blackbwoy](https://open.spotify.com/artist/4hoiuhZAy1h8duhE4dIO5e), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Man's](https://open.spotify.com/artist/1Y3xMbd3DsR8Y9I1dR1cMN), [RARA](https://open.spotify.com/artist/427FEFmp92z32Y2e1VHFpG), [Token DJ](https://open.spotify.com/artist/7in0MReMRM8bVEYai2K4bD) | [Khuphuka](https://open.spotify.com/album/6cJrWoPPFalK2sWijSa0oZ) | 4:00 | 2022-05-26 | 2022-07-15 |
 | [Khusela \(feat\. Msaki\)](https://open.spotify.com/track/1mg27ci1uDANuJ2ghZBrir) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Khusela \(feat\. Msaki\)](https://open.spotify.com/album/2sfjcZkqiS1bQT3zb4EiVL) | 8:21 | 2022-06-02 |  |
 | [Khuza Labantwana](https://open.spotify.com/track/2OKTM6buz69CRfuAGgq0Gy) | [Daloo Deey](https://open.spotify.com/artist/5VzNXZjzBGIEkl00x8GRxg), [Titow](https://open.spotify.com/artist/5OqaeUQvohTvam0iZNrA1b), [Chillibite](https://open.spotify.com/artist/5XzCLDgWfv3t1oVlqaZMQq) | [Khuza Labantwana](https://open.spotify.com/album/5E7IjHynoZZA0qEoNKJq6m) | 5:26 | 2022-03-17 | 2022-03-25 |
+| [Khwela](https://open.spotify.com/track/4qD1k0Ybmkl7Q7XtqGKgjl) | [Classic Deep](https://open.spotify.com/artist/1rbnrcQsBvYBgtDub77NGe), [Six40](https://open.spotify.com/artist/7sZYEChP7RJtogpY1oqzPt), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Mzu M](https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb) | [Tom & Jerri](https://open.spotify.com/album/3O1PtDpCCwnz8v9Zd9zNSx) | 7:16 | 2022-08-01 |  |
 | [Kids From the North](https://open.spotify.com/track/4zkcnlQspqsx8l2N6VR8uc) | [Duncan R32](https://open.spotify.com/artist/52X5UIn4TQYFTDbcwpZYCN) | [Drill Season](https://open.spotify.com/album/4jsMPeesYU9Vmv8axDB2hY) | 6:32 | 2022-01-20 | 2022-03-25 |
 | [King's Whistle](https://open.spotify.com/track/2UZQwlxeJl6DYVjb9wGOBC) | [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr), [Welle SA](https://open.spotify.com/artist/3NH5vTJooOUzGg3ptOtPKv), [Lusha](https://open.spotify.com/artist/7DoBbWLRnEjO5AHavWmyHU) | [King's Whistle](https://open.spotify.com/album/5dKKJJBL2ce8N6jYDpRW1h) | 4:39 | 2022-06-09 | 2022-07-12 |
 | [Konka](https://open.spotify.com/track/2e2Hney6QuL9vXHtpce7GJ) | [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Konka](https://open.spotify.com/album/54HJoUpBRAhjUgDfL4nx0T) | 5:51 | 2021-12-09 | 2022-03-04 |

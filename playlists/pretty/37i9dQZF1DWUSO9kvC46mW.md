@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSO9kvC46mW.md) - [plain]
 
 > Riscopri le più grandi hit del 2006! Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,457 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,460 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSO9kvC46mW.md) - [plain]
 | 47 | [Stars Are Blind](https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:56 |
 | 48 | [Is It Any Wonder?](https://open.spotify.com/track/5xT8JXJSyHYNfC11OFqzFL) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa) | 3:06 |
 | 49 | [Stupid Girls](https://open.spotify.com/track/1Ab6RxeKl3e07zP7Get7CX) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:17 |
-| 50 | [From Paris to Berlin](https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [From Paris to Berlin](https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx) | 3:29 |
-| 51 | [Song to Say Goodbye](https://open.spotify.com/track/2DO7ywgu9cdNqXf7Cukys9) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Meds](https://open.spotify.com/album/7cfTTszDP3KgMjtxhE8Re7) | 3:36 |
-| 52 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 50 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 51 | [From Paris to Berlin](https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [From Paris to Berlin](https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx) | 3:29 |
+| 52 | [Song to Say Goodbye](https://open.spotify.com/track/2DO7ywgu9cdNqXf7Cukys9) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Meds](https://open.spotify.com/album/7cfTTszDP3KgMjtxhE8Re7) | 3:36 |
 | 53 | [I Don't Feel Like Dancin'](https://open.spotify.com/track/13pyGLYmBjYgvOMIEivX2K) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 4:48 |
 | 54 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 |
 | 55 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSO9kvC46mW.md) - [plain]
 | 82 | [Stop! Dimentica](https://open.spotify.com/track/7dfZaSRWloJY0Jx2VlMGMO) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Nessuno è solo](https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi) | 3:48 |
 | 83 | [Rock Steady](https://open.spotify.com/track/0yZOIfLr0rMlmFwelSxy4W) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Studio 1](https://open.spotify.com/album/2Oc0FlPHqn3w1JMYC5YRVf) | 2:49 |
 | 84 | [Forse un angelo](https://open.spotify.com/track/6xSURliah5JAMguWCvgIbx) | [Studio 3](https://open.spotify.com/artist/4jXkNFi7TpPU18PJmfEwh4) | [Forse un angelo \(Versione 2010\)](https://open.spotify.com/album/1vagslYxICXJKLiWJoWaPm) | 3:32 |
-| 85 | [Lovelight](https://open.spotify.com/track/7GWoMZsG9tM3p6xm0qgjGl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Rudebox](https://open.spotify.com/album/0ghFsyZKCJOpC0CtXbfS9D) | 4:02 |
-| 86 | [Beat Of My Heart](https://open.spotify.com/track/4tglB1pOtnay3gN2F8ma7T) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Most Wanted](https://open.spotify.com/album/4BPk3LHOtllvzwljCIvbkv) | 3:09 |
-| 87 | [Siamo Una Squadra Fortissimi](https://open.spotify.com/track/0CuTlmtd8SLVMzzEWcet3B) | [Checco Zalone](https://open.spotify.com/artist/5P123kT8lqNw7yhTqsbztH) | [Siamo Una Squadra Fortissimi](https://open.spotify.com/album/5vr3jlewOhBqATq937YZ7Q) | 2:22 |
-| 88 | [The Saints Are Coming](https://open.spotify.com/track/6uQL0epVs9N9Bergafaf6x) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 3:21 |
-| 89 | [Put Your Hands Up For Detroit \- Radio Edit](https://open.spotify.com/track/6WoC2b3CCpyrDQJKkBQZn1) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/4DcsHjjs2adHwgWDxFbln0) | 2:28 |
+| 85 | [Beat Of My Heart](https://open.spotify.com/track/4tglB1pOtnay3gN2F8ma7T) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Most Wanted](https://open.spotify.com/album/4BPk3LHOtllvzwljCIvbkv) | 3:09 |
+| 86 | [Siamo Una Squadra Fortissimi](https://open.spotify.com/track/0CuTlmtd8SLVMzzEWcet3B) | [Checco Zalone](https://open.spotify.com/artist/5P123kT8lqNw7yhTqsbztH) | [Siamo Una Squadra Fortissimi](https://open.spotify.com/album/5vr3jlewOhBqATq937YZ7Q) | 2:22 |
+| 87 | [The Saints Are Coming](https://open.spotify.com/track/6uQL0epVs9N9Bergafaf6x) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 3:21 |
+| 88 | [Put Your Hands Up For Detroit \- Radio Edit](https://open.spotify.com/track/6WoC2b3CCpyrDQJKkBQZn1) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/4DcsHjjs2adHwgWDxFbln0) | 2:28 |
+| 89 | [Lovelight](https://open.spotify.com/track/7GWoMZsG9tM3p6xm0qgjGl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Rudebox](https://open.spotify.com/album/0ghFsyZKCJOpC0CtXbfS9D) | 4:02 |
 | 90 | [Promiscuous \- Radio Edit](https://open.spotify.com/track/2qQaSqqhKdhuSrUEu1P0Uv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Promiscuous \(Radio Edit\)](https://open.spotify.com/album/1jiR4AiGmajU5oeHXkSwli) | 3:40 |
 | 91 | [L'alfabeto degli amanti](https://open.spotify.com/track/2mDy9uIwaCXBXxde0Fq6LW) | [Michele Zarrillo](https://open.spotify.com/artist/7GQA0yMdSaivapYpUqgfKJ) | [L'Alfabeto Degli Amanti](https://open.spotify.com/album/05LuZwzZ6DeEmzvl8lQ9fs) | 3:52 |
 | 92 | [A Pain That I'm Used To](https://open.spotify.com/track/2pbZiAFyhKPmVyjIHipYLa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSO9kvC46mW.md) - [plain]
 | 99 | [Tutto è possibile](https://open.spotify.com/track/64cGRwJlKWlUHaMFEn0O3d) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc) | [Tutto è possibile](https://open.spotify.com/album/4mjfAifgM9M1diG3u7Gow0) | 3:26 |
 | 100 | [Solo te](https://open.spotify.com/track/5aKgY0dSW7RuzluWTnROVw) | [Studio 3](https://open.spotify.com/artist/4jXkNFi7TpPU18PJmfEwh4) | [Forse un angelo](https://open.spotify.com/album/67rgogCalyoS7c9N2fdVPu) | 3:30 |
 
-Snapshot ID: `MTYwNDU2ODIxNCwwMDAwMDAwMDViMDM1ZjY0YjFlZmM0MjUxMGRmODUwNDgyZjk5YWFi`
+Snapshot ID: `MTYwNDU2ODIxNCwwMDAwMDAwMGJiMmIxM2EwNTc1N2U2ZGJhNzE4N2Y5ZjBlMTgzNmEx`

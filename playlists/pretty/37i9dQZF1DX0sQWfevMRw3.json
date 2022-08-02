@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 94862,
+  "num_followers": 94882,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDNlMDM3YTAyMzgwYTY1NTBmNWVhODE4NGM2NzAwMTgx",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDJiMmI5OWI0YmZiMTYyYzlhYWE4MmE3OTllZmRlMjYw",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -863,6 +843,46 @@
       "duration_ms": 165388,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Turn The Lights Down Low (with R3HAB)",
+        "url": "https://open.spotify.com/album/1usPxiJgVaGlHimpLVMgox"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Turn The Lights Down Low (with R3HAB)",
+      "url": "https://open.spotify.com/track/6k330QxFV5VXZSDj5wTUNR"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -923,26 +943,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Turn The Lights Down Low (with R3HAB)",
-        "url": "https://open.spotify.com/album/1usPxiJgVaGlHimpLVMgox"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Turn The Lights Down Low (with R3HAB)",
-      "url": "https://open.spotify.com/track/6k330QxFV5VXZSDj5wTUNR"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "To the Moon",
         "url": "https://open.spotify.com/album/7a33tuAXRrTQpjzIlUv57M"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 178812,
       "name": "To the Moon",
       "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Life Like This",
+        "url": "https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 187214,
+      "name": "Life Like This",
+      "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1019,6 +1035,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/5DUeygGSuFifWXYp68l8cD"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        }
+      ],
+      "duration_ms": 122181,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/4GFpaMQrDhrrOQ7CUzNTiU"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "123 (Dolly Song) (feat. Karma Child)",
         "url": "https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp"
       },
@@ -1043,22 +1075,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Can You Feel My Heart",
-        "url": "https://open.spotify.com/album/5DUeygGSuFifWXYp68l8cD"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        }
-      ],
-      "duration_ms": 122181,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/4GFpaMQrDhrrOQ7CUzNTiU"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Survivors",
         "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
       },
@@ -1071,6 +1087,26 @@
       "duration_ms": 164400,
       "name": "Survivors",
       "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Another Level (ft. Lovespeake)",
+        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 145941,
+      "name": "Another Level (ft. Lovespeake)",
+      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1111,22 +1147,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Life Like This",
-        "url": "https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 187214,
-      "name": "Life Like This",
-      "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/13wCTAFQmBT53bMTK7R4oA"
       },
@@ -1159,6 +1179,22 @@
       "duration_ms": 184611,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/5PLfjUnpV6eFXymcsXwa37"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        }
+      ],
+      "duration_ms": 150348,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1211,38 +1247,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Another Level (ft. Lovespeake)",
-        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
+        "name": "Blink 2022",
+        "url": "https://open.spotify.com/album/3KQQcrP3wiHcZb8YfxXoFQ"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 145941,
-      "name": "Another Level (ft. Lovespeake)",
-      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy"
-      },
-      "artists": [
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
         {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
         }
       ],
-      "duration_ms": 150348,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
+      "duration_ms": 206769,
+      "name": "Blink 2022",
+      "url": "https://open.spotify.com/track/3g8DqSjSZyY1o30Y4xnWqs"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1271,26 +1295,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/5WCbGsEaqNdhJKp2PewRsa"
-      },
-      "artists": [
-        {
-          "name": "B3nte",
-          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
-        },
-        {
-          "name": "B3VA",
-          "url": "https://open.spotify.com/artist/03D4LIjTc757nhPDNmiZ1x"
-        }
-      ],
-      "duration_ms": 135692,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/5FzWSLtPEnVc3knAh070CA"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "SKOGSREJV",
         "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
       },
@@ -1303,30 +1307,6 @@
       "duration_ms": 180588,
       "name": "SKOGSREJV",
       "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Sao Paulo",
-        "url": "https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "The Lost Shepherds",
-          "url": "https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU"
-        },
-        {
-          "name": "Sonny Wilson",
-          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
-        }
-      ],
-      "duration_ms": 190312,
-      "name": "Sao Paulo",
-      "url": "https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1355,26 +1335,46 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Blink 2022",
-        "url": "https://open.spotify.com/album/3KQQcrP3wiHcZb8YfxXoFQ"
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/5WCbGsEaqNdhJKp2PewRsa"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
         },
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "B3VA",
+          "url": "https://open.spotify.com/artist/03D4LIjTc757nhPDNmiZ1x"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Blink 2022",
-      "url": "https://open.spotify.com/track/3g8DqSjSZyY1o30Y4xnWqs"
+      "duration_ms": 135692,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/5FzWSLtPEnVc3knAh070CA"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Sao Paulo",
+        "url": "https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "The Lost Shepherds",
+          "url": "https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU"
+        },
+        {
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+        }
+      ],
+      "duration_ms": 190312,
+      "name": "Sao Paulo",
+      "url": "https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1443,46 +1443,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Dance Until We Die",
-        "url": "https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        }
-      ],
-      "duration_ms": 122306,
-      "name": "Dance Until We Die",
-      "url": "https://open.spotify.com/track/3UX5bcccqDs6KYxqmeHvYb"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5jQxnJIy96OrUKQy8phVzh"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Stars Align (with Jolin Tsai)",
         "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
       },
@@ -1523,6 +1483,62 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5jQxnJIy96OrUKQy8phVzh"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Dance Until We Die",
+        "url": "https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 122306,
+      "name": "Dance Until We Die",
+      "url": "https://open.spotify.com/track/3UX5bcccqDs6KYxqmeHvYb"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Rave In My Garage",
+        "url": "https://open.spotify.com/album/493kHHcF2GPYpqtdMOxrcz"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 140921,
+      "name": "Rave In My Garage",
+      "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Ring The Alarm (Remixes)",
         "url": "https://open.spotify.com/album/6161quyAWtf6v1f0kIUd4w"
       },
@@ -1543,46 +1559,6 @@
       "duration_ms": 176250,
       "name": "Ring The Alarm - Habstrakt Remix",
       "url": "https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "I like to move it",
-        "url": "https://open.spotify.com/album/6EonmeQCputEtgBPyfxx1X"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Mert Can",
-          "url": "https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q"
-        },
-        {
-          "name": "Tony Koma",
-          "url": "https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh"
-        }
-      ],
-      "duration_ms": 114377,
-      "name": "I like to move it",
-      "url": "https://open.spotify.com/track/14u71NkqEHOB9QbhXoabkz"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Rave In My Garage",
-        "url": "https://open.spotify.com/album/493kHHcF2GPYpqtdMOxrcz"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 140921,
-      "name": "Rave In My Garage",
-      "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1635,22 +1611,42 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Booty Call",
-        "url": "https://open.spotify.com/album/1arVLyiIrvLgfFzvCG6N3I"
+        "name": "I like to move it",
+        "url": "https://open.spotify.com/album/6EonmeQCputEtgBPyfxx1X"
       },
       "artists": [
         {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
         },
         {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+          "name": "Mert Can",
+          "url": "https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q"
+        },
+        {
+          "name": "Tony Koma",
+          "url": "https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh"
         }
       ],
-      "duration_ms": 126500,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/41kMShsVIBgBYl3dIu6I0L"
+      "duration_ms": 114377,
+      "name": "I like to move it",
+      "url": "https://open.spotify.com/track/14u71NkqEHOB9QbhXoabkz"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "IN I DIMMAN",
+        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "IN I DIMMAN",
+      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
     }
   ],
   "unique_name": "Det blir kaoz!",

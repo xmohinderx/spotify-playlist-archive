@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-852 songs - 1 day 22 hr 13 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+853 songs - 1 day 22 hr 16 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Abracadabra](https://open.spotify.com/track/41ubrQZx1njkpB2qpRYryW) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Ggreco](https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 3:09 | 2021-04-18 | 2021-04-19 |
 | [Acropoli](https://open.spotify.com/track/3nYbyt3ZGAQfbLmzZPshZO) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [Nos](https://open.spotify.com/album/0XlORSbgngaZZaKPvJbv3d) | 2:58 | 2021-07-09 | 2021-07-10 |
 | [Aeraki \- To Thiliko](https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Aeraki \(To Thiliko\)](https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv) | 3:11 | 2021-07-09 | 2022-01-15 |
+| [Afou Se Vrika De S' Afino \- \(Part 2 \- Fos\)](https://open.spotify.com/track/0yRUYU3DF2znFYgi7oUGx2) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [22](https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC) | 3:32 | 2022-08-01 |  |
 | [Aftoktonia](https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP) | [Aftoktonia](https://open.spotify.com/album/5F4LJOszRloSlIEQpXesHv) | 2:44 | 2021-12-04 |  |
 | [Aima](https://open.spotify.com/track/7dbwdaU5belAQj5Qc0cFle) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Aima](https://open.spotify.com/album/75xcQVgmDHtACY4ekzTQyL) | 3:28 | 2022-05-31 | 2022-06-04 |
 | [Air Max](https://open.spotify.com/track/3OGv5aAfxKGmkstUtsfFUC) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:07 | 2022-05-13 | 2022-07-15 |
@@ -462,7 +463,7 @@
 | [Malagouzia](https://open.spotify.com/track/3EwR28JPLbbppYhjGajTcv) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Kales Douleies](https://open.spotify.com/album/5uHT0lG46ofxqFdrDVIB7k) | 2:46 | 2022-07-08 | 2022-07-12 |
 | [Mama Dukes](https://open.spotify.com/track/05hQCNWONOgCc0VDxEgp5M) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 3:24 | 2022-04-29 | 2022-05-15 |
 | [Mamacita](https://open.spotify.com/track/4lBnnKUVT4sN5hnAhm7ZYk) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [BOSSIDONAS](https://open.spotify.com/album/7xpeeJKLPPbfvrKPjSYkHz) | 3:42 | 2022-07-02 | 2022-07-06 |
-| [Mamacita](https://open.spotify.com/track/6yX6XrUgaES6HDOYRbQIOc) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Mamacita](https://open.spotify.com/album/6gtVR30UwdVsyLEvavxg8n) | 3:42 | 2022-07-05 |  |
+| [Mamacita](https://open.spotify.com/track/6yX6XrUgaES6HDOYRbQIOc) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Mamacita](https://open.spotify.com/album/6gtVR30UwdVsyLEvavxg8n) | 3:42 | 2022-07-05 | 2022-08-02 |
 | [Mamacita](https://open.spotify.com/track/4Wsom89nrtQXcK8xPGoViM) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 3:37 | 2022-07-08 |  |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-11 |
 | [Man Down](https://open.spotify.com/track/6CG4hzdavLVJYrLq8MfH7i) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX) | [Man Down](https://open.spotify.com/album/6SaiSfMdWrFV9d5rbo3Tp5) | 3:39 | 2021-04-01 | 2021-04-02 |

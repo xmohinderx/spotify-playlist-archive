@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Luchè, Sfera Ebbasta, Rhove, Paky e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,807 likes - 96 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,846 likes - 96 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 95 | [Al ladro](https://open.spotify.com/track/03MnE7T7IGkL6f7K7lQj2L) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Al ladro](https://open.spotify.com/album/2cA3xbw2V831gZOsFtWATb) | 2:51 |
 | 96 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 |
 
-Snapshot ID: `MTY1OTMwNDg2MCwwMDAwMDAwMDFlODgxOGIyZWQ2MDI3YTE3Zjk2YzFlNjBmNzQ3MzBj`
+Snapshot ID: `MTY1OTM1NjU2OCwwMDAwMDAwMGE2YTNjODc1YTY4ZjQzNGEwNjhlOTE5ODAzM2M3NDE0`

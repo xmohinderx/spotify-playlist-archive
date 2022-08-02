@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2016! Cover: Justin Bieber",
-  "num_followers": 5697,
+  "num_followers": 5703,
   "original_name": "Le Hit Del 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDc0MiwwMDAwMDAwMGRkNWM3OTVhYjVhOWYwOTQ1YmIwZjkxZTAwZTA0ZDZm",
+  "snapshot_id": "MTYwNDUwMDc0MiwwMDAwMDAwMDEwZDI4NGJkN2ZiNTRjY2Q3NmMwM2Q2MWY3N2JiMWUw",
   "tracks": [
     {
       "added_at": "2020-11-04 14:39:02",
@@ -475,6 +475,22 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
         "name": "In the Name of Love",
         "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 195706,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -807,6 +807,22 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Dark Necessities",
+      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Dark Necessities",
-      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Side To Side",
+      "url": "https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
         "name": "Oh My My",
         "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 218493,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/7yCqehT9dKACTFy7YugP0J"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Side To Side",
-      "url": "https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1235,22 +1235,6 @@
       "duration_ms": 212640,
       "name": "Chic",
       "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
-        "name": "Oh My My",
-        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1339,6 +1323,22 @@
       "duration_ms": 225866,
       "name": "Vorrei ma non posto",
       "url": "https://open.spotify.com/track/3SGYnEhg1vUHVlGnGdS6ed"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "Oh My My",
+        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "Miss Nostalgia",
-        "url": "https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH"
-      },
-      "artists": [
-        {
-          "name": "Stadio",
-          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "Un Giorno Mi Dirai",
-      "url": "https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "di20are",
         "url": "https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 219933,
       "name": "Nessun grado di separazione",
       "url": "https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "Miss Nostalgia",
+        "url": "https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH"
+      },
+      "artists": [
+        {
+          "name": "Stadio",
+          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "Un Giorno Mi Dirai",
+      "url": "https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "Vivere a colori",
-        "url": "https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG"
-      },
-      "artists": [
-        {
-          "name": "Alessandra Amoroso",
-          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "Sul ciglio senza far rumore",
-      "url": "https://open.spotify.com/track/0p3x5S3Ay0sVUQhjebIxDb"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "Eterno Agosto",
         "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
       },
@@ -1735,22 +1719,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Un Mondo Migliore",
-      "url": "https://open.spotify.com/track/08dZN3mdRwQ78jZy79twqn"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "On (WW)",
         "url": "https://open.spotify.com/album/3Bdz9sPLclDWkKg3A0ynp5"
       },
@@ -1767,6 +1735,38 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
+        "name": "Vivere a colori",
+        "url": "https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Sul ciglio senza far rumore",
+      "url": "https://open.spotify.com/track/0p3x5S3Ay0sVUQhjebIxDb"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Un Mondo Migliore",
+      "url": "https://open.spotify.com/track/08dZN3mdRwQ78jZy79twqn"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
         "name": "Il bello d'esser brutti Multiplatinum Edition",
         "url": "https://open.spotify.com/album/7iUmsB7eRMLpvebU57KMv0"
       },
@@ -1779,6 +1779,22 @@
       "duration_ms": 209013,
       "name": "Il bello d'esser brutti",
       "url": "https://open.spotify.com/track/3i9Xk6dQsgM5lJJwKOH8PW"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "Le cose che non ho",
+        "url": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Solo due satelliti",
+      "url": "https://open.spotify.com/track/3efQmQl7VA3ukppVtbzzMI"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "Le cose che non ho",
-        "url": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Solo due satelliti",
-      "url": "https://open.spotify.com/track/3efQmQl7VA3ukppVtbzzMI"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "Love Life Peace",
         "url": "https://open.spotify.com/album/4PoYieaGNMr4TZi6QhQ3ac"
       },
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "Scriver\u00f2 il tuo nome (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y"
+        "name": "Sai che",
+        "url": "https://open.spotify.com/album/585jVNpXbZIBn4Tamcwbhz"
       },
       "artists": [
         {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
         }
       ],
-      "duration_ms": 165511,
-      "name": "Guardami amore",
-      "url": "https://open.spotify.com/track/0UmmSFh7Kpk50unE55OdOm"
+      "duration_ms": 266785,
+      "name": "Sai che",
+      "url": "https://open.spotify.com/track/42SagJ9g8a6luF4QHJGSpQ"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
+        "name": "Scriver\u00f2 il tuo nome (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y"
+      },
+      "artists": [
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        }
+      ],
+      "duration_ms": 165511,
+      "name": "Guardami amore",
+      "url": "https://open.spotify.com/track/0UmmSFh7Kpk50unE55OdOm"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
         "name": "Peace Is The Mission (Extended)",
         "url": "https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 198718,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/3r5cW1Sepzv1lr2xsi3B2Q"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
-        "name": "Sai che",
-        "url": "https://open.spotify.com/album/585jVNpXbZIBn4Tamcwbhz"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 266785,
-      "name": "Sai che",
-      "url": "https://open.spotify.com/track/42SagJ9g8a6luF4QHJGSpQ"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "Eternamente ora",
-        "url": "https://open.spotify.com/album/1kQi3reAguN9t2KJgdRZIg"
-      },
-      "artists": [
-        {
-          "name": "Francesco Gabbani",
-          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Amen - Radio Edit",
-      "url": "https://open.spotify.com/track/65vgXIDCtqfGc3bKIeHbcH"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "Made in Italy",
         "url": "https://open.spotify.com/album/0ZRS84Eob7E3YLEAJ0xpyi"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 263813,
       "name": "Made in Italy",
       "url": "https://open.spotify.com/track/30bC7IMVX1BNoWjqjxVs6I"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "Eternamente ora",
+        "url": "https://open.spotify.com/album/1kQi3reAguN9t2KJgdRZIg"
+      },
+      "artists": [
+        {
+          "name": "Francesco Gabbani",
+          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Amen - Radio Edit",
+      "url": "https://open.spotify.com/track/65vgXIDCtqfGc3bKIeHbcH"
     },
     {
       "added_at": "2020-11-04 14:39:02",

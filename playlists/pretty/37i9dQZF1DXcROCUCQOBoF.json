@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2015! Cover: Marco Mengoni",
-  "num_followers": 4711,
+  "num_followers": 4720,
   "original_name": "Le Hit Del 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDIzOCwwMDAwMDAwMDhjOGVlNGEyNGYyZWE5ZjU1YTlmZDE2M2EwMzZhMDA4",
+  "snapshot_id": "MTYwNDUwMDIzOCwwMDAwMDAwMDE3ZGMxZGJkMzExOTg5ZDFjNDMyZDg3NWQyMDkxNWNh",
   "tracks": [
     {
       "added_at": "2020-11-04 14:30:38",
@@ -295,18 +295,18 @@
     {
       "added_at": "2020-11-04 14:30:38",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+      "duration_ms": 230613,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -331,22 +331,6 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
-    },
-    {
-      "added_at": "2020-11-04 14:30:38",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Waiting For Love",
-      "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -387,6 +371,22 @@
       "duration_ms": 227266,
       "name": "Outside (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
+    },
+    {
+      "added_at": "2020-11-04 14:30:38",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -691,6 +691,26 @@
     {
       "added_at": "2020-11-04 14:30:38",
       "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "El Perd\u00f3n (with Enrique Iglesias)",
+      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+    },
+    {
+      "added_at": "2020-11-04 14:30:38",
+      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 250285,
       "name": "Where Are \u00dc Now (with Justin Bieber)",
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
-    },
-    {
-      "added_at": "2020-11-04 14:30:38",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "El Perd\u00f3n (with Enrique Iglesias)",
-      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2020-11-04 14:30:38",
       "album": {
-        "name": "Listen Again",
-        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Bang My Head (feat. Sia & Fetty Wap)",
-      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
-    },
-    {
-      "added_at": "2020-11-04 14:30:38",
-      "album": {
         "name": "Goodbye (feat. Lyse) [Radio Edit]",
         "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 201938,
       "name": "Goodbye (feat. Lyse) - Radio Edit",
       "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
+    },
+    {
+      "added_at": "2020-11-04 14:30:38",
+      "album": {
+        "name": "Listen Again",
+        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Bang My Head (feat. Sia & Fetty Wap)",
+      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2020-11-04 14:30:38",
       "album": {
-        "name": "Maximilian",
-        "url": "https://open.spotify.com/album/15gGqbI9XtUGoClVR33kmn"
-      },
-      "artists": [
-        {
-          "name": "Max Gazz\u00e8",
-          "url": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
-        }
-      ],
-      "duration_ms": 233204,
-      "name": "La Vita Com'\u00e8",
-      "url": "https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW"
-    },
-    {
-      "added_at": "2020-11-04 14:30:38",
-      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 158474,
       "name": "Reality",
       "url": "https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ"
+    },
+    {
+      "added_at": "2020-11-04 14:30:38",
+      "album": {
+        "name": "Maximilian",
+        "url": "https://open.spotify.com/album/15gGqbI9XtUGoClVR33kmn"
+      },
+      "artists": [
+        {
+          "name": "Max Gazz\u00e8",
+          "url": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
+        }
+      ],
+      "duration_ms": 233204,
+      "name": "La Vita Com'\u00e8",
+      "url": "https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2020-11-04 14:30:38",
       "album": {
+        "name": "Lorenzo 2015 CC.",
+        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 231306,
+      "name": "Gli Immortali",
+      "url": "https://open.spotify.com/track/2KAdlibMw9xWLIIHt1dzsd"
+    },
+    {
+      "added_at": "2020-11-04 14:30:38",
+      "album": {
         "name": "La Rivoluzione Sta Arrivando",
         "url": "https://open.spotify.com/album/57WRsytuIm4lKqt46xs69f"
       },
@@ -1679,6 +1695,22 @@
       "duration_ms": 280480,
       "name": "Attenta",
       "url": "https://open.spotify.com/track/6BuD1i98DGRDrbLUOqUo3I"
+    },
+    {
+      "added_at": "2020-11-04 14:30:38",
+      "album": {
+        "name": "Parole in circolo",
+        "url": "https://open.spotify.com/album/0XZk3coJHXIQnpj1J7R3FD"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Esseri umani",
+      "url": "https://open.spotify.com/track/1tefUBqLAW9l6HC10qOtCA"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -1699,22 +1731,6 @@
       "duration_ms": 258880,
       "name": "L'amore eternit (feat. Noemi)",
       "url": "https://open.spotify.com/track/2vAzyP21f777MdZNcyt6yt"
-    },
-    {
-      "added_at": "2020-11-04 14:30:38",
-      "album": {
-        "name": "Lorenzo 2015 CC.",
-        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 231306,
-      "name": "Gli Immortali",
-      "url": "https://open.spotify.com/track/2KAdlibMw9xWLIIHt1dzsd"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -1751,22 +1767,6 @@
       "duration_ms": 214789,
       "name": "Don't Worry (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/1XlRA078Zp2Q0IfWliK42q"
-    },
-    {
-      "added_at": "2020-11-04 14:30:38",
-      "album": {
-        "name": "Parole in circolo",
-        "url": "https://open.spotify.com/album/0XZk3coJHXIQnpj1J7R3FD"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Esseri umani",
-      "url": "https://open.spotify.com/track/1tefUBqLAW9l6HC10qOtCA"
     },
     {
       "added_at": "2020-11-04 14:30:38",

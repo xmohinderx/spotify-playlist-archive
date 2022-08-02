@@ -4,7 +4,7 @@
 
 > Best Bollywood love songs from last 10 years\. Cover\- Shamshera
 
-95 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
+96 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Marjaawaan](https://open.spotify.com/track/2uBlWwG0P6cUOUBiZhPmBM) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Marjaawaan \- BellBottom](https://open.spotify.com/album/0I4IivFBvs4rHWh4nsskpA) | 3:45 | 2022-05-19 | 2022-07-29 |
 | [Marjaawaan \(From "BellBottom"\)](https://open.spotify.com/track/6nDFhdxDZBbwEDbsJYVdqS) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Marjaawaan \(From "BellBottom"\) \- Single](https://open.spotify.com/album/5p9PjysGBFUg57pxmGhqvh) | 3:45 | 2022-07-25 |  |
 | [Mast Magan](https://open.spotify.com/track/3uL1IBFhg52VcQqOwAG01E) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:40 | 2022-05-19 |  |
-| [Mehabooba](https://open.spotify.com/track/3P3mOcFeu7OYcsZEZSUiLl) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2](https://open.spotify.com/album/2NgI9PKY8KxRp5az0NxlQU) | 3:33 | 2022-05-19 |  |
+| [Mehabooba](https://open.spotify.com/track/3P3mOcFeu7OYcsZEZSUiLl) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2](https://open.spotify.com/album/2NgI9PKY8KxRp5az0NxlQU) | 3:33 | 2022-05-19 | 2022-08-02 |
+| [Mehabooba](https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1) | 3:33 | 2022-07-25 |  |
 | [Mehram \(From "Jersey"\)](https://open.spotify.com/track/4Xqz9Rb62iJjmLUxt9Qa7K) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Mehram \(From "Jersey"\)](https://open.spotify.com/album/2GA7JVQFsmRHu8bKVBZRyV) | 3:47 | 2022-05-19 |  |
 | [Mehrama](https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:09 | 2022-05-19 |  |
 | [Mere Liye Tum Kaafi Ho \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/track/3qrdLVOClRU4yPkcXZ7c5u) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Tanishk\-Vayu](https://open.spotify.com/artist/5LrOikR4dNgBA8JwZO68NE) | [Mere Liye Tum Kaafi Ho \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/album/1fUXh8MW0KHacBvURrLG96) | 2:12 | 2022-05-19 |  |

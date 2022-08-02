@@ -1,12 +1,12 @@
 {
   "description": "Heavy, intense and aggressive tracks. Chaotic in all the good ways. Cover: Underoath",
-  "num_followers": 2845,
+  "num_followers": 2982,
   "original_name": "Complete Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMGVhM2QwYjVjMTQyOTNiYTZhYzliMGQ1NTdjNzhjZTM2",
+  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDU1Y2Y3MGQ4NzgzNDg3NWYwNDBhZmY2YzhmYTc4ZTNm",
   "tracks": [
     {
       "added_at": "2022-04-01 16:27:04",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "STRENGTH IN NUMB333RS",
-        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "BURN IT",
-      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Welcome To Horrorwood: The Silver Scream 2",
         "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 208346,
       "name": "Assault & Batteries",
       "url": "https://open.spotify.com/track/49pK9QQ6zYLM8xMTliDYQl"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "STRENGTH IN NUMB333RS",
+        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "BURN IT",
+      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G"
     },
     {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Heaven in Hiding",
-        "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 255418,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4UfJEKd1mJlHawZD35wJYo"
-    },
-    {
       "added_at": "2022-05-20 09:54:52",
       "album": {
         "name": "Abuse Me (ft. L'exquisite Douleur)",
@@ -607,34 +591,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "A Different Shade of Blue",
-        "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
+        "name": "Heaven in Hiding",
+        "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
       },
       "artists": [
         {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 222006,
-      "name": "...And Still I Wander South",
-      "url": "https://open.spotify.com/track/4UADTNRQNw9PrzUbJe045m"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "When the Blade Drops",
-        "url": "https://open.spotify.com/album/1oDKZmaoLbk456SzkJsJIm"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 124573,
-      "name": "When the Blade Drops",
-      "url": "https://open.spotify.com/track/37R4aMmLKMberEOPKZidH8"
+      "duration_ms": 255418,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4UfJEKd1mJlHawZD35wJYo"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -655,6 +623,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "When the Blade Drops",
+        "url": "https://open.spotify.com/album/1oDKZmaoLbk456SzkJsJIm"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 124573,
+      "name": "When the Blade Drops",
+      "url": "https://open.spotify.com/track/37R4aMmLKMberEOPKZidH8"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 176110,
       "name": "Wings of Nightmares",
       "url": "https://open.spotify.com/track/4SCNgSASITJ4D07x08xjjc"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Bankrupt",
+        "url": "https://open.spotify.com/album/0wAjbACLoPoKowOiQochJI"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Bankrupt",
-        "url": "https://open.spotify.com/album/0wAjbACLoPoKowOiQochJI"
+        "name": "A Different Shade of Blue",
+        "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd"
+      "duration_ms": 222006,
+      "name": "...And Still I Wander South",
+      "url": "https://open.spotify.com/track/4UADTNRQNw9PrzUbJe045m"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Anthems",
+        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 161540,
+      "name": "Venomous",
+      "url": "https://open.spotify.com/track/2qTyInGP9V30gDQgvjHcGT"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Heavy Steps",
         "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Anthems",
-        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 161540,
-      "name": "Venomous",
-      "url": "https://open.spotify.com/track/2qTyInGP9V30gDQgvjHcGT"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "In Darkness",
         "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Moment Of Violence",
-        "url": "https://open.spotify.com/album/50f1iQiiAIznNY2lttY2lT"
-      },
-      "artists": [
-        {
-          "name": "Kharma",
-          "url": "https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/0kNPO6bdi3vMlVPhXTQA2T"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Private Room",
         "url": "https://open.spotify.com/album/7vRLQapPrGyF7H6Wfkp7wk"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 110811,
       "name": "Monument",
       "url": "https://open.spotify.com/track/3wAvZs9WFYK8elxJmt1CVy"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Moment Of Violence",
+        "url": "https://open.spotify.com/album/50f1iQiiAIznNY2lttY2lT"
+      },
+      "artists": [
+        {
+          "name": "Kharma",
+          "url": "https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL"
+        }
+      ],
+      "duration_ms": 135493,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/0kNPO6bdi3vMlVPhXTQA2T"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Anthems",
-        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
+        "name": "For the Cause",
+        "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
       },
       "artists": [
         {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
         }
       ],
-      "duration_ms": 213992,
-      "name": "Into This World",
-      "url": "https://open.spotify.com/track/7ybc7JwVUpdAStRIMWZMSu"
+      "duration_ms": 211746,
+      "name": "Smile Now Pay Later",
+      "url": "https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "For the Cause",
-        "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
+        "name": "Anthems",
+        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
       },
       "artists": [
         {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Smile Now Pay Later",
-      "url": "https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be"
+      "duration_ms": 213992,
+      "name": "Into This World",
+      "url": "https://open.spotify.com/track/7ybc7JwVUpdAStRIMWZMSu"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Pressure Cracks",
-        "url": "https://open.spotify.com/album/3OfRN295t9gx0PogJ255Hg"
-      },
-      "artists": [
-        {
-          "name": "Pressure Cracks",
-          "url": "https://open.spotify.com/artist/45PHqnv401IRwLynDIALcg"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Collages & Collagen",
-      "url": "https://open.spotify.com/track/14SJHx2N9R26OvzXxSj09K"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/7vau9Q6JFCJpgHmoY0Hu5r"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 242480,
       "name": "Time's Up",
       "url": "https://open.spotify.com/track/7bJqnD3FA13soXXjH9PCxn"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Pressure Cracks",
+        "url": "https://open.spotify.com/album/3OfRN295t9gx0PogJ255Hg"
+      },
+      "artists": [
+        {
+          "name": "Pressure Cracks",
+          "url": "https://open.spotify.com/artist/45PHqnv401IRwLynDIALcg"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Collages & Collagen",
+      "url": "https://open.spotify.com/track/14SJHx2N9R26OvzXxSj09K"
     },
     {
       "added_at": "2022-04-01 16:27:04",

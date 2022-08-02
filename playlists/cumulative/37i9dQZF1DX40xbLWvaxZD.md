@@ -4,7 +4,7 @@
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-80 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4ztLVpYM0zp9t21HvM8c7j)
+82 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/4ztLVpYM0zp9t21HvM8c7j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [幸せならいいや \- Full Spec Edition](https://open.spotify.com/track/7cb0nlO69Cf4qNudDKXhGZ) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [真島吾朗 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/0vDgbOvtqmjdJCcKzN8p5w) | 6:30 | 2021-05-21 | 2022-07-29 |
 | [悪魔の地獄鍋 \- Full Spec Edition](https://open.spotify.com/track/4hv3C2dBdZ2mGBMwTDU34r) | [春日一番\(中谷一博\)](https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS) | [龍が如く7 カラオケ新曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/2jshSvMBzHKtD5mjrqp0Nb) | 4:25 | 2021-05-21 | 2022-07-29 |
 | [想いがあふれたら](https://open.spotify.com/track/637VpdPjdkmSNyNDcmMiVA) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [YES](https://open.spotify.com/album/2xjU9Hgfo1BUrBZwg7ddt4) | 4:37 | 2021-05-21 | 2022-07-29 |
+| [想いがあふれたら \- Remastered 2022](https://open.spotify.com/track/4ZdHdVHDpbZcXKEHoBwQge) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [YES \(50th Anniversary Remastered\)](https://open.spotify.com/album/02MlLY7GeHVDXCSXyjUvWS) | 4:37 | 2021-05-21 |  |
 | [意地桜 \- Full Spec Edition](https://open.spotify.com/track/1IFmX1oMmlI0Mru3OjozNE) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [齋藤 一\(黒田 崇矢\)](https://open.spotify.com/artist/0JEtUo0kVK4epnMOfZVNh0) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH) | 3:47 | 2021-05-21 |  |
 | [意地桜2000 \- Full Spec Edition](https://open.spotify.com/track/6izSFKc1KYwqzeCW5ICsUk) | [桐生 一馬\(黒田 崇矢\)](https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn) | [龍が如く極 オリジナルサウンドトラック](https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL) | 3:52 | 2021-05-21 |  |
 | [指の行方](https://open.spotify.com/track/0G3Dr0z1hXzshZ6uzOgd4j) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック Volume2](https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb) | 2:04 | 2021-05-21 | 2022-07-29 |
@@ -78,6 +79,7 @@
 | [故郷に錦を飾るべし \- Full Spec Edition](https://open.spotify.com/track/5tSE70eZAUF10eH9GBfKDl) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [永倉 新八\(小山 力也\)](https://open.spotify.com/artist/15WzGZ0yHJsBClOXh1hKt0) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH) | 3:58 | 2021-05-21 |  |
 | [故郷に錦を飾るべし \- Full Spec Edition](https://open.spotify.com/track/56OY1A6LnXXwzKwsHTwBgw) | [永倉新八\(小山力也\)](https://open.spotify.com/artist/2LMmRBb5yDz3rzu3oQTff8) | [龍が如くシリーズ・カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/1QQbyZUbtv9eOOzfgDDF7H) | 3:58 | 2021-05-21 | 2022-07-29 |
 | [時間よ止まれ](https://open.spotify.com/track/09TIAps17rTEFzqXEMR2dV) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [SUBWAY EXPRESS 2](https://open.spotify.com/album/2WaM3JMPn0rTsrL3BMjS3j) | 5:21 | 2021-05-21 | 2022-07-29 |
+| [時間よ止まれ \- Remastered 2022](https://open.spotify.com/track/2I0WPizsVHeTWkB8GHSYCd) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [SUBWAY EXPRESS 2 \(50th Anniversary Remastered\)](https://open.spotify.com/album/28VMhd1eZ2ldWKUcOoYZjI) | 5:21 | 2021-05-21 |  |
 | [本日はダイヤモンド \- Full Spec Edition](https://open.spotify.com/track/1993DrL8RR2XNsgwBBACTb) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 3:31 | 2021-05-21 | 2022-07-29 |
 | [煩悩コントロール](https://open.spotify.com/track/6qSwDufLenGnRbSagSon0Q) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [18](https://open.spotify.com/album/6JliEwRyg4RmWdndGIqQMi) | 4:39 | 2021-05-21 |  |
 | [神室純恋歌 \~桐生&支静加\~](https://open.spotify.com/track/5FiMCLLAuaSnFPhiABx3ZX) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック Volume2](https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb) | 2:02 | 2021-05-21 | 2022-07-29 |

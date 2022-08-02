@@ -2,9 +2,9 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Nicolle Galyon
+> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Josh Kerr
 
-199 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+201 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Better Boat](https://open.spotify.com/track/0AP1oqhd2cAs0q4X3hBtNk) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [First Cigarette](https://open.spotify.com/album/0LjnNjuO0XLc239qIRXj8F) | 4:53 | 2022-01-01 |  |
 | [Blue Ain't Your Color](https://open.spotify.com/track/2Ynzb3b6Ddpi1EtovAuvVE) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:38 | 2022-01-01 |  |
 | [Blue Clear Sky](https://open.spotify.com/track/297oP9NrGDfiin3oG5yjdJ) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 3:00 | 2022-01-01 |  |
+| [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2022-08-01 |  |
 | [boy crazy.](https://open.spotify.com/track/6GlMlyTTDhzMJO1EzvAa5H) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [boy crazy.](https://open.spotify.com/album/1QbzS32RcFDFKLWzD0ovf0) | 2:37 | 2022-07-01 |  |
 | [Brand New Broken Heart](https://open.spotify.com/track/1yXtoLagLsZdhZY3d6QQNM) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 2:49 | 2022-01-01 |  |
 | [Bye Bye](https://open.spotify.com/track/6CebGuHR99xrFitTnOgeu2) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Greatest Hits Volume 1](https://open.spotify.com/album/3VGDlSx2xTIllFz4qxMmqM) | 3:17 | 2022-01-01 |  |
@@ -91,7 +92,7 @@
 | [I Won't Take Less Than Your Love](https://open.spotify.com/track/7imykP5YlWnO5MWbdpURAv) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr), [Del McCoury](https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Mountaintop](https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6) | 3:28 | 2022-01-01 |  |
 | [I'm Alright](https://open.spotify.com/track/3mHFsVnH6lQDAU2T13W1Jm) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Greatest Hits Volume 1](https://open.spotify.com/album/3VGDlSx2xTIllFz4qxMmqM) | 4:11 | 2022-01-01 |  |
 | [If the Boot Fits](https://open.spotify.com/track/39XSf0AnSQYbTrfC9G2cZo) | [Jordan Schmidt](https://open.spotify.com/artist/4iCsvE9FD8ZQbvb0B4CHmu), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 2:42 | 2022-01-01 |  |
-| [In His Arms](https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 2:30 | 2022-02-28 |  |
+| [In His Arms](https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 2:30 | 2022-02-28 | 2022-08-02 |
 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2022-01-01 |  |
 | [Jesus Take the Wheel](https://open.spotify.com/track/2uNdFwTYXDzAahBUeURWLJ) | [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Live from the Archives of 650am Wsm \- Volume 1](https://open.spotify.com/album/2fB9vCOs2bHnLkZGHcJzEY) | 3:40 | 2022-01-01 |  |
 | [John Cougar, John Deere, John 3:16](https://open.spotify.com/track/0diBrA66034Rcq9foo6j1A) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 2:55 | 2022-01-01 |  |
@@ -205,6 +206,7 @@
 | [Whiskey Mode](https://open.spotify.com/track/37Vr9VYnUtMZXxZ9DkR6Qv) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Whiskey Mode](https://open.spotify.com/album/7N1YlqTjrOBPWZ8uccFmJ7) | 3:30 | 2022-02-28 |  |
 | [Wichita Lineman](https://open.spotify.com/track/4LKUWvk6kQDJSTkxP6TUYN) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Ten Easy Pieces](https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL) | 4:15 | 2022-01-01 |  |
 | [Wild](https://open.spotify.com/track/0b1lMyBxI1KmBkROLwDz05) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 3:32 | 2022-01-01 |  |
+| [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 | 2022-08-01 |  |
 | [Wink](https://open.spotify.com/track/3npzejFbPBy7sJIbkvTuZl) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 2:52 | 2022-01-01 |  |
 | [winner.](https://open.spotify.com/track/0nac6fGT0ROzUgG56c9RMZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [winner.](https://open.spotify.com/album/1kWyKD40f10OOX1w68su1O) | 2:58 | 2022-06-06 |  |
 

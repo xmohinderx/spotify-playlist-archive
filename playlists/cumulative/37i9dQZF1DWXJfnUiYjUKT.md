@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Beyoncé
 
-3,058 songs - 6 day 16 hr 18 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+3,059 songs - 6 day 16 hr 21 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [Bad At Parties](https://open.spotify.com/track/4jCLdCkeE7Y1GvmYtdmAA4) | [Helena Mayer](https://open.spotify.com/artist/3Cgfb3YtMWmIqo4I1BmCCU) | [Bad At Parties](https://open.spotify.com/album/4KnGjU2WGBhf3clbp68bjt) | 2:20 | 2021-12-30 | 2022-01-07 |
 | [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 | 2022-03-24 | 2022-04-01 |
 | [Bad Bad](https://open.spotify.com/track/1md6otYHFdOp8itdRp4r2h) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Bad Bad](https://open.spotify.com/album/1bQvvahTarm2ZJN7iFHr5A) | 3:39 | 2022-07-15 | 2022-07-22 |
-| [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 |  |
+| [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 |  |
+| [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 | 2022-08-02 |
 | [bad dream](https://open.spotify.com/track/1rNivTOt4vBbta3vYWruTL) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [bad dream](https://open.spotify.com/album/7eL4zkRptGACvb00H6wjvv) | 2:53 | 2022-01-21 | 2022-01-28 |
 | [Bad Energy](https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [The Character](https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx) | 2:22 | 2022-07-29 |  |
 | [Bad For Me](https://open.spotify.com/track/5igBmMvQ0kJ6rShqSUAIHq) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Bad For Me](https://open.spotify.com/album/76P0Wtel19KTU0nrKiecim) | 2:24 | 2022-05-20 | 2022-05-27 |

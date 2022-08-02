@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,237 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,329 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 104 | [Daggers](https://open.spotify.com/track/7Hkm8hp3AhX4bEokfsvGhd) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Four \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3kuoaGXmBaGgkqTCDqMcZd) | 2:33 |
 | 105 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGNlNDhjNzdkOTkwMjU0MTYyZTMzYjM0YzY5ZTkzNjdm`
+Snapshot ID: `MTY1OTM0MzAzMywwMDAwMDAwMDM4MWRkZDU1NjRiNjE5Yjc2MjI4OThjZjYxMjY2MTU2`

@@ -4,7 +4,7 @@
 
 > This is Kendrick Lamar\. Essential tracks all in one playlist.
 
-85 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/2gURM4VFY4GNBKA4eJjlmx)
+86 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/2gURM4VFY4GNBKA4eJjlmx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Forbidden Fruit \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5kpnUpMNV9dPNCKY7JtW3Q) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Born Sinner](https://open.spotify.com/album/1NfrmcXk8xNennyxQ57JcW) | 4:28 | 2018-02-19 | 2022-07-29 |
 | [HiiiPower](https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 4:39 | 2018-02-19 |  |
 | [HiiiPower](https://open.spotify.com/track/4fVqQKbROkz8Z9FFJS7vls) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1) | 4:39 | 2018-02-19 | 2022-07-29 |
+| [Hood Gone Love It](https://open.spotify.com/track/6usIgzctskoOR0JeM3fkSI) | [muqzy](https://open.spotify.com/artist/1mO8Q2bLXCFlFvyeGdnef9) | [Hood Gone Love It](https://open.spotify.com/album/4w9lrUz2Vgz7mZPGxc9qzs) | 4:05 | 2018-02-19 |  |
 | [Hood Gone Love It \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Follow Me Home](https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9) | 4:05 | 2018-02-19 | 2022-07-29 |
 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2018-02-19 |  |
 | [Hustla’s Story \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4J56uEZtgVjuTi27Rvclag) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Effected](https://open.spotify.com/album/6CNwXxGCLQtWhG2VHOuiib) | 4:28 | 2018-02-19 |  |

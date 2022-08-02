@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-202 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+203 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-23 | 2022-07-28 |
 | [Hana炎](https://open.spotify.com/track/1DarVtvEs9DOwJBeVhCsMO) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [LISACHRIS](https://open.spotify.com/artist/2E738wjchAb3fUOxY3bxMr), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [Hana炎](https://open.spotify.com/album/4uiFrJYts1Rb9X2Kpczrwm) | 4:37 | 2022-07-26 |  |
 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 | 2022-05-26 |  |
-| [HAVE A NICE DAY](https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [HAVE A NICE DAY](https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq) | 2:36 | 2022-07-05 |  |
+| [HAVE A NICE DAY](https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [HAVE A NICE DAY](https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq) | 2:36 | 2022-07-05 | 2022-08-02 |
 | [Haze \(feat\. ZIN\)](https://open.spotify.com/track/0kAvxscFHuKuri23Y0mmXF) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Haze \(feat\. ZIN\)](https://open.spotify.com/album/7ECgPOTif7XpNIgKlK7kVf) | 4:05 | 2022-05-26 | 2022-06-17 |
 | [heartless](https://open.spotify.com/track/49Yut8s5gHUJwsMPrDetUF) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [heartless](https://open.spotify.com/album/5dXuCf4UxtpKAJND4Hc5hD) | 2:57 | 2022-06-16 | 2022-07-20 |
 | [Heavy Fog](https://open.spotify.com/track/0HlFGdDMoTns4Ye8lVsClr) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Heavy Fog](https://open.spotify.com/album/3ZUffdWBcMr5zGAeX4U9vf) | 3:42 | 2022-06-28 | 2022-07-20 |
@@ -178,6 +178,7 @@
 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 | 2022-07-26 |  |
 | [ランチタイム・ラブ](https://open.spotify.com/track/4IpYnXf5V3A6h0DS8UyFJL) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [オカモトコウキ](https://open.spotify.com/artist/7jiN2HCXOBi9W0ZJFwfGHi) | [ランチタイム・ラブ](https://open.spotify.com/album/2rVr0WAgddWIw5y4tO1rR8) | 5:08 | 2022-06-30 | 2022-07-06 |
 | [リップル](https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [リップル](https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb) | 2:44 | 2022-06-17 | 2022-07-29 |
+| [リビド](https://open.spotify.com/track/0YxhIRKmlFq7MnXU8K5oA0) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [リビド](https://open.spotify.com/album/2yhMN24X0Jjz1DogK5eliH) | 2:37 | 2022-08-01 |  |
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [北酒場 \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/6RPLd7T2Viv2MCXJp9lcQm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [北酒場 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/album/4fE21MtzOKLym1kMnkOS66) | 3:35 | 2022-06-30 | 2022-07-27 |
 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-26 | 2022-06-07 |

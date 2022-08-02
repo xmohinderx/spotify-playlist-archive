@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 284022,
+  "num_followers": 284430,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMGE0MWM2ODRmZjBlYTJlODIxN2NmNGRkZTE1MTRkNjhl",
+  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDZhMDE1Y2E5ZTYwNzI4MjgwYjUzOWQyZjFmNGVjODYx",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:17",
@@ -143,6 +143,26 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
         "name": "Encore - Live and Direct",
         "url": "https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 200333,
       "name": "Played-A-Live (The Bongo Song) - Radio Edit",
       "url": "https://open.spotify.com/track/71cEGt2SrA5toSCCTVpLMU"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
+        "name": "Magik Seven (Live in Los Angeles)",
+        "url": "https://open.spotify.com/album/10GbeqAjKBwl1xxatxLZV7"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 476920,
+      "name": "Strange World - 2000 Remake",
+      "url": "https://open.spotify.com/track/7iD2wBI87eTW6CNubpNe3c"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
         "name": "Bits N Pianos",
         "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
       },
@@ -895,26 +911,6 @@
       "duration_ms": 329337,
       "name": "Bits N Pianos",
       "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "C'est Musique (Armin van Buuren Mix)",
-        "url": "https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX"
-      },
-      "artists": [
-        {
-          "name": "Shane",
-          "url": "https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 669685,
-      "name": "C'est Musique - Armin van Buuren Mix",
-      "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
     }
   ],
   "unique_name": "Trance Classics",

@@ -4,7 +4,7 @@
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-108 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/3kaynFvn5ToDNicsQuxKNh)
+109 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/3kaynFvn5ToDNicsQuxKNh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cosa Nostra](https://open.spotify.com/track/7At3CefKNTxcUAFeHgWFRO) | [Cossa Nostra](https://open.spotify.com/artist/3wLZEAt80jqCe3F2XJaSIT) | [Cosa Nostra](https://open.spotify.com/album/0E2pdvJQkI37xy9A8FDGyG) | 5:13 | 2021-09-06 | 2022-07-25 |
 | [Dama Con Alma](https://open.spotify.com/track/3B8bO0zU861MfWo71ItySI) | [División Del Norte](https://open.spotify.com/artist/1tWeuKQu8RxbmUNMCpnFjr) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 3:31 | 2021-09-06 | 2022-07-27 |
 | [Di por Qué](https://open.spotify.com/track/0NyhbeZXibgrC5Cd0AOa9E) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/63B4lWimPrXKs9XfNfAgRa) | 3:12 | 2021-09-06 | 2022-07-24 |
+| [Di por Qué](https://open.spotify.com/track/0XSnUE3EFdWhFdAA8qXUBQ) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:12 | 2021-09-06 |  |
 | [Do What Ever You Want It´s All Rigth](https://open.spotify.com/track/6ZV9QXg7Jk3sh3n1PnOWtz) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Segunda Vez](https://open.spotify.com/album/6YjPw7HED2x54RJSq0CKX5) | 4:09 | 2021-09-06 | 2022-07-29 |
 | [Easy Woman](https://open.spotify.com/track/2wcCHVRTtIzdHjbgbQxMVH) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [Colección Avandaro](https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP) | 3:13 | 2021-09-06 |  |
 | [Eclipse](https://open.spotify.com/track/68Ta3hyeW5klPKqi0F4t5L) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [RCA 100 Años de Música](https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7) | 2:42 | 2021-09-06 | 2022-08-01 |
@@ -70,7 +71,7 @@
 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 | 2021-09-06 | 2022-07-27 |
 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 | 2021-09-06 |  |
 | [My Way Is Love](https://open.spotify.com/track/0CI67v7SM4HohMbUcffnmT) | [La Division Del Norte](https://open.spotify.com/artist/4vWM7TI7ArFXtfFFACYY9p) | [Division Del Norte](https://open.spotify.com/album/6FipROEDfMRlEN1WALqs1S) | 3:23 | 2021-09-06 | 2022-07-25 |
-| [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 | 2021-09-06 |  |
+| [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 | 2021-09-06 | 2022-08-02 |
 | [Nadie En Especial](https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd) | [Chac Mool](https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22) | [Nadie En Especial](https://open.spotify.com/album/7iKk5AQokTUn012tYH347o) | 4:43 | 2021-09-06 |  |
 | [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 | 2021-09-06 | 2022-07-29 |
 | [Nati Bati Yi](https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Monster A Go\-Go: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 1\)](https://open.spotify.com/album/0d3ymarURd8tsiawQJJxl7) | 2:29 | 2021-09-06 |  |

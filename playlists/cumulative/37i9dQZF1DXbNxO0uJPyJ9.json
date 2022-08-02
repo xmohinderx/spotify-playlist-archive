@@ -3558,6 +3558,24 @@
     },
     {
       "album": {
+        "name": "Reload! Frankie: The Whole 12 Inches",
+        "url": "https://open.spotify.com/album/0YIzOsXGWV9ywnRlZSqORh"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476466,
+      "name": "Two Tribes - Carnage Mix",
+      "url": "https://open.spotify.com/track/3ZcO8ST2AxksjntIk91Mms"
+    },
+    {
+      "album": {
         "name": "45 RPM - The Singles Of The The",
         "url": "https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa"
       },
@@ -3749,7 +3767,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 465048,
       "name": "White Lines (Long Version) [Re-Recorded]",
       "url": "https://open.spotify.com/track/0Dj3iMM3fvHMOqWsqS64Fu"

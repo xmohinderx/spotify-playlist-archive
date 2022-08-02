@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Tmk
 
-201 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+202 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [We Them Boyz \(feat\. Jaecy\)](https://open.spotify.com/track/05jey8nJnyBzV6FBtn4MIq) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [We Them Boyz \(feat\. Jaecy\)](https://open.spotify.com/album/0qn4k950Hux9jAGQGrkRX7) | 2:47 | 2022-03-21 | 2022-03-25 |
 | [What We Saying?](https://open.spotify.com/track/4MkcARWzqjSsoLe7vUBoZt) | [Imperial Collective](https://open.spotify.com/artist/0d2VYzQHpvclvMtj0iPjNf), [Steez Malase](https://open.spotify.com/artist/4TPrFPcmonEoLJse8dS8Eo), [Kei Leeza](https://open.spotify.com/artist/5JRhaOlZVpXZfB6yx6YOe0), [Billz 90](https://open.spotify.com/artist/2GAkIQ6pAg0O22r0KlVOh7) | [What We Saying?](https://open.spotify.com/album/0aioFhC4M28NB1QYsQEsU2) | 2:37 | 2022-07-14 |  |
 | [WHO](https://open.spotify.com/track/5UpbNdHBHsWWespVWRBicM) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [TMB The Driver](https://open.spotify.com/artist/1kUBxtJ8z3wybn5wGAu0H2), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Perry P](https://open.spotify.com/artist/1hGnXrS3sPLcOmjJ8TtkIQ) | [WHO](https://open.spotify.com/album/3arCfti8W6CPLlmn23nrgq) | 2:40 | 2022-05-12 |  |
+| [Who You Foolin](https://open.spotify.com/track/0pyDwHz8zCjYxMaXRUfY4q) | [RED Honcho](https://open.spotify.com/artist/2pIfm9a2rMaHkdarjTM5o5), [LDP68](https://open.spotify.com/artist/7mumML0dR6NB5uMSzS8lAN) | [Who You Foolin](https://open.spotify.com/album/3zUhWiR8jNBFmCh68KGgLq) | 3:02 | 2022-08-01 |  |
 | [Whoever](https://open.spotify.com/track/4IWt8KJhg6sIoLcjy8LHm5) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [Whoever](https://open.spotify.com/album/5qgNkLb4H6QctvrT7E9O5Z) | 2:38 | 2022-03-21 | 2022-03-25 |
 | [Wicked](https://open.spotify.com/track/79nJFSXOGCb5tAM6pzhSCi) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Wicked](https://open.spotify.com/album/3s8eNk47rNa9CXdK2exLUo) | 2:03 | 2022-03-25 |  |
 | [WOAH](https://open.spotify.com/track/0VzQP07n5NgOInr8iuk9Gr) | [AJ Curtis](https://open.spotify.com/artist/5wrtj0ptwZ8Z4ZL0w5YLYE) | [WOAH](https://open.spotify.com/album/2lOMrmiYzXyzntqtIct6bM) | 2:22 | 2022-03-21 | 2022-03-25 |

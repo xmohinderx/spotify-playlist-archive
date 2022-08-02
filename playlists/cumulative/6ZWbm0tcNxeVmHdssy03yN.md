@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-1,584 songs - 3 day 14 hr 41 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
+1,585 songs - 3 day 14 hr 44 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,6 +925,7 @@
 | [Misunderstood](https://open.spotify.com/track/5c38uvbdvtrco6KyvjFRHZ) | [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Misunderstood](https://open.spotify.com/album/0mMvgkjJXcPOLIOesCYtiY) | 3:47 | 2020-11-03\* | 2020-11-14 |
 | [Mmutla](https://open.spotify.com/track/1xOcUmvfl2mIcV7xsWdhWz) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Mmutla](https://open.spotify.com/album/2No7GgFKmpZWIHvaM73CPQ) | 6:19 | 2022-06-24 | 2022-07-23 |
 | [Moana](https://open.spotify.com/track/5t2PfH0sWBCMEEmiGPD65O) | [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [Creed Tha Kid](https://open.spotify.com/artist/0Gzx0kLgEZkaNJYGJCbdYR) | [Moana](https://open.spotify.com/album/16tFrnD4CFTCQmcFUACRKD) | 2:48 | 2021-04-03 | 2021-05-03 |
+| [Mockingbird \- Remix](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw) | [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B) | [Mockingbird \(Remix\)](https://open.spotify.com/album/7BXb7pTQSCicF0duwhWd9E) | 3:12 | 2022-08-01 |  |
 | [Moi aussi \- John Dean Remix](https://open.spotify.com/track/6iMetTq9QuBf6Ea55RC4M7) | [BeLOey](https://open.spotify.com/artist/5yVpByp84R9Fr0kmilnVmM), [John Dean](https://open.spotify.com/artist/7DFCTZV4zVojnURoTReOQ6) | [Moi aussi \(John Dean Remix\)](https://open.spotify.com/album/02wtj3c7UmFlMOtsP07CbR) | 4:34 | 2022-07-29 |  |
 | [Mom… It's Not a Phase](https://open.spotify.com/track/7MvOuMw8VpRmYp6jOgJtcC) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [Mom… It's Not a Phase](https://open.spotify.com/album/1HHaOacZAFWrkJO6AK6XKs) | 1:45 | 2022-07-29 |  |
 | [Mon Amour](https://open.spotify.com/track/1qPKt8MG919YFhw57d2pRL) | [GIULIA](https://open.spotify.com/artist/272hx0MPx7cQoRzIvePVyj), [Samuel Storm](https://open.spotify.com/artist/7wiQXIythuokw2YQIpPPSL) | [Mon Amour](https://open.spotify.com/album/5mZtwU2tYc2SXmexTptLXL) | 3:19 | 2020-11-03\* | 2020-11-07 |

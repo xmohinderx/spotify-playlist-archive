@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Plains \(Waxahatchee + Jess Williamson\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,684 likes - 155 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,860 likes - 155 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Problem With It](https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Problem With It](https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR) | 3:32 |
 | 2 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 |
-| 3 | [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 |
+| 3 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 |
 | 4 | [That's How I Got To Memphis](https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [That's How I Got To Memphis](https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI) | 3:41 |
 | 5 | [Two Ways](https://open.spotify.com/track/1IYzmTiQXKfNJ8VUVm7Fnf) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 2:36 |
 | 6 | [Pterodactyl](https://open.spotify.com/track/3K8sjM8kS4LnJGjDwg8dSQ) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Pterodactyl](https://open.spotify.com/album/757iG6V3Y2AYwEwGONa6DS) | 4:06 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 154 | [Piece of Shit](https://open.spotify.com/track/6fhqNzbeBYEND5PcpPGLHg) | [Lauren Balthrop](https://open.spotify.com/artist/5PrF4W2kRW8ZGvLLCu4w21) | [Piece of Shit](https://open.spotify.com/album/0LQdHH87zUsacL1s3Zf8la) | 3:56 |
 | 155 | [Keep Moving](https://open.spotify.com/track/7MXvN7VcRzylgnmlRDAZqZ) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Keep Moving](https://open.spotify.com/album/06lFUQTcMPK4YtlU2cdTqb) | 4:22 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGQxOTNhMjM3ZTQ1NjkwMmEwMTU5YzkwNTI1ZjQ2NGMw`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDVjMDFjYjRhMDFmZTk3NTI5YjAzMGVjMTgyYTE1ZmM2`

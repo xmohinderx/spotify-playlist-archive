@@ -1,12 +1,12 @@
 {
   "description": "Female-identifying only grooves  with a few of  <a href=\u201cspotify:artist:12Zk1DFhCbHY6v3xep2ZjI\u201d>070 Shake's</a> personally picked tunes. Cover: 070 Shake",
-  "num_followers": 19494,
+  "num_followers": 19509,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA4MDAwMCwwMDAwMDAwMDE2ZjM2ZTlkNjVlNDk5Yjg4NjAzMTViNmQzZTMyYzIx",
+  "snapshot_id": "MTY1NzA4MDAwMCwwMDAwMDAwMDdjYWQ4NmU4NjQyNTZiY2M4MmMzN2NlYmIwM2FmMDM0",
   "tracks": [
     {
       "added_at": "2022-07-06 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-07-06 04:00:00",
       "album": {
+        "name": "Madeline Edwards",
+        "url": "https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "duration_ms": 180136,
+      "name": "Hold My Horses",
+      "url": "https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn"
+    },
+    {
+      "added_at": "2022-07-06 04:00:00",
+      "album": {
         "name": "Believe the Hype (feat. Oli Sykes)",
         "url": "https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 137865,
       "name": "FOOL 4 U",
       "url": "https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy"
-    },
-    {
-      "added_at": "2022-07-06 04:00:00",
-      "album": {
-        "name": "Madeline Edwards",
-        "url": "https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD"
-      },
-      "artists": [
-        {
-          "name": "Madeline Edwards",
-          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
-        }
-      ],
-      "duration_ms": 180136,
-      "name": "Hold My Horses",
-      "url": "https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn"
     },
     {
       "added_at": "2022-07-06 04:00:00",

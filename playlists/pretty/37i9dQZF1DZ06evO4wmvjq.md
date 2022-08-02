@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549 likes - 50 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 547 likes - 50 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 16 | [Silver Murray](https://open.spotify.com/track/2lS12W3RNRPvamj3ZsLMR2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Silver Murray](https://open.spotify.com/album/2t32IlKJGGudD7IT5wvxkQ) | 0:37 |
 | 17 | [Church of Anthrax](https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 9:05 |
 | 18 | [Descending Moonshine Dervishes](https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8) | 51:48 |
-| 19 | [Zamorra](https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 9:52 |
-| 20 | [Happy Ending](https://open.spotify.com/track/1ANtwKTLblLWqpDSG5W5CV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 18:26 |
+| 19 | [Happy Ending](https://open.spotify.com/track/1ANtwKTLblLWqpDSG5W5CV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 18:26 |
+| 20 | [Zamorra](https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 9:52 |
 | 21 | [The Soul of Patrick Lee](https://open.spotify.com/track/0GaT82s6CpgvesuSpV8nZg) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 2:48 |
-| 22 | [Marley Bell](https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Marley Bell](https://open.spotify.com/album/54M5KG5jozhKKSW73EFJ30) | 0:43 |
-| 23 | [The Harp of New Albion: I\. The New Abion Chorale / The Discovery](https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 21:33 |
+| 22 | [The Harp of New Albion: I\. The New Abion Chorale / The Discovery](https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 21:33 |
+| 23 | [Marley Bell](https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Marley Bell](https://open.spotify.com/album/54M5KG5jozhKKSW73EFJ30) | 0:43 |
 | 24 | [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 |
 | 25 | [Quijote](https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:33 |
 | 26 | [Music for the Gift, Pt\. 2](https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Late Night Tales: Four Tet](https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3) | 1:48 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 43 | [In The Summer](https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 6:40 |
 | 44 | [The Pipes Of Medb](https://open.spotify.com/track/7llIs9Vk75pI5HsDXPg75x) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Chanting The Light Of Foresight](https://open.spotify.com/album/2nqvQX2JMumuvwVvA0WPqp) | 7:06 |
 | 45 | [The Harp of New Albion: II\. The Orchestra of Tao](https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 15:30 |
-| 46 | [Emerald Runner](https://open.spotify.com/track/1MaSYb6iRmbCOdWfphWMcX) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 13:22 |
-| 47 | [You're Nogood](https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [You're Nogood](https://open.spotify.com/album/45yDhxNW3kC8ezn2iN9KGZ) | 20:30 |
-| 48 | [The Hall of Mirrors In the Palace of Versailles](https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 8:01 |
-| 49 | [Part II \- Live 1974](https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 9:34 |
+| 46 | [You're Nogood](https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [You're Nogood](https://open.spotify.com/album/45yDhxNW3kC8ezn2iN9KGZ) | 20:30 |
+| 47 | [Emerald Runner](https://open.spotify.com/track/1MaSYb6iRmbCOdWfphWMcX) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 13:22 |
+| 48 | [Part II \- Live 1974](https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 9:34 |
+| 49 | [The Hall of Mirrors In the Palace of Versailles](https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 8:01 |
 | 50 | [See Them Out There](https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 2:51 |
 
-Snapshot ID: `Mjc2NTQ1ODUsMDAwMDAwMDA5NzFmZTI2NWMyMWI3ZjdmODU4NjYyOTBiOTc1NzgzZQ==`
+Snapshot ID: `Mjc2NTYwMDYsMDAwMDAwMDAyNTNmN2YzZTdjMTU5NGE4YTFiZjA0OTVjZWRhZjg5Ng==`

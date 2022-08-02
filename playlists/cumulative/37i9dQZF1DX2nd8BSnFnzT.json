@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 222917,
       "name": "Hey, Babe",
       "url": "https://open.spotify.com/track/1TUv8ap6Kr4ilS1nKBAH4l"
@@ -2843,7 +2843,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 150066,
       "name": "Queima!",
       "url": "https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY"
@@ -3049,7 +3049,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 212880,
       "name": "Selva de Concreto",
       "url": "https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw"
@@ -3393,6 +3393,28 @@
       "duration_ms": 206468,
       "name": "Tudo Vale A Pena?",
       "url": "https://open.spotify.com/track/7z2BlOn5mRJiRaXQb6e8Ef"
+    },
+    {
+      "album": {
+        "name": ": ( UMA BAD UMA FARRA : )",
+        "url": "https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "Badau\u00ed",
+          "url": "https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167754,
+      "name": "UM BRINDE",
+      "url": "https://open.spotify.com/track/31QQG8R4qmLQjIDoguBCzZ"
     },
     {
       "album": {

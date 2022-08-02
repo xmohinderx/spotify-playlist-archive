@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 258732,
+  "num_followers": 258854,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGFlOWU3YmU5ZDM4NmQxN2IwMDI1ZDFhYTgwOGVmNDJi",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGI1OTE5ODA0Nzg1ZGM3OGFhZDAzZDRmMTM0NDg0NjZj",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Damn I'm Tired",
-        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 225732,
-      "name": "Damn I'm Tired",
-      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Heavy Days",
         "url": "https://open.spotify.com/album/6qkZLHCIMcG8dFSWLTnteo"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 227683,
       "name": "Heavy Days",
       "url": "https://open.spotify.com/track/6Nr8U7LKb4B07ZTbXA1RbX"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Damn I'm Tired",
+        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 225732,
+      "name": "Damn I'm Tired",
+      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Jay II",
-        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
-      },
-      "artists": [
-        {
-          "name": "Jay Arner",
-          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Earth to Jay",
-      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Love Addict",
         "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Twin Heavy",
-        "url": "https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V"
+        "name": "Jay II",
+        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
       },
       "artists": [
         {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+          "name": "Jay Arner",
+          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
         }
       ],
-      "duration_ms": 227681,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/7FX5YbkSnFCOLASH7MLxjU"
+      "duration_ms": 240426,
+      "name": "Earth to Jay",
+      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -871,6 +855,22 @@
       "duration_ms": 206134,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7FX5YbkSnFCOLASH7MLxjU"
     },
     {
       "added_at": "2022-07-06 15:18:34",

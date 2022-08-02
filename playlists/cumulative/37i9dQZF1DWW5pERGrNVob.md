@@ -4,7 +4,7 @@
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-110 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/5zopyzdU1aouRbUczCajzc)
+111 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5zopyzdU1aouRbUczCajzc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Pink Cloud](https://open.spotify.com/track/4FoMtD0b7zQYAxZAQbLxjh) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:01 | 2022-04-28 |  |
 | [Play With Life](https://open.spotify.com/track/3IScamh9ikxPrBdVzLx3PE) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Play With Life](https://open.spotify.com/album/7wqMVSBS2Y1QA9EZCAlovf) | 2:21 | 2022-04-28 |  |
 | [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 | 2022-04-28 |  |
-| [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 | 2022-04-28 |  |
+| [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 | 2022-04-28 | 2022-08-02 |
+| [Say Yes \(feat\. Moon Byul\)](https://open.spotify.com/track/6E9Utxp16LMVJWQVyKmzCG) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [안부](https://open.spotify.com/album/1ug4v28RlPr7U6ZsjoKuAJ) | 3:24 | 2022-04-28 |  |
 | [SELFISH \(Feat\. Seulgi of Red Velvet\)](https://open.spotify.com/track/7bKJmbS7y93C9U2LKvz2PB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [4colors](https://open.spotify.com/album/232T6PgapFXcufLzzRJU8u) | 3:15 | 2022-04-28 | 2022-07-29 |
 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 | 2022-04-28 |  |
 | [Shine On You](https://open.spotify.com/track/4oI4cFG1H57TEWRbjVqOD0) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Record of Youth \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY) | 4:30 | 2022-04-28 |  |

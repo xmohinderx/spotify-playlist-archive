@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Tray Wellington
 
-355 songs - 21 hr 27 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
+356 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 | 2022-05-13 |  |
 | [Ain’t That Fine](https://open.spotify.com/track/22Is0mpoTCXoz5EE1U2yjb) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [See You Around](https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Ain’t That Fine](https://open.spotify.com/track/1TrLKX7IZyktQzBy6TeBpC) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:08 | 2022-07-22 |  |
-| [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 | 2022-07-29 |  |
+| [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 | 2022-07-29 | 2022-08-02 |
 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2021-12-17 |  |
 | [All The Lilacs In Ohio](https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [All The Lilacs In Ohio](https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au) | 3:29 | 2021-12-17 |  |
 | [All the Way](https://open.spotify.com/track/0JDlDoYQi0MDJMHEwulRF4) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All the Way](https://open.spotify.com/album/5gF6ODODJ89NIuvLVCc14x) | 2:22 | 2022-02-25 | 2022-07-15 |
@@ -264,6 +264,7 @@
 | [Say Your Mind](https://open.spotify.com/track/6DOTRLTpmkFhkZUVVjPJ4y) | [Head for the Hills](https://open.spotify.com/artist/7xKRWodRPGPamCMTGSQtBU) | [Say Your Mind](https://open.spotify.com/album/1cLYkEy1YYNHAGRPIN2Vif) | 4:02 | 2021-12-17 | 2022-07-22 |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7) | 3:00 | 2022-07-22 |  |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/2snpAgA7u9kPs1amwGkVNo) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/1pLEZLzXrFWCG8sEtcwXnq) | 3:00 | 2021-12-17 | 2022-07-29 |
+| [Seasons Don't Change](https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Seasons Don't Change](https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr) | 4:29 | 2022-07-29 |  |
 | [Shamrock](https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 4:40 | 2021-12-17 |  |
 | [She Sings](https://open.spotify.com/track/0LHHBhcQQ23V0p7Y5MyjC0) | [One Grass Two Grass](https://open.spotify.com/artist/4DOmXqtkPNBgVaJEkYSaQJ) | [She Sings](https://open.spotify.com/album/46M1uGVjeV2Ydw0MPhkqpn) | 4:52 | 2021-12-17 | 2022-01-28 |
 | [She'll Change](https://open.spotify.com/track/3d3mxvxLxdBtW5OYLV7faR) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [She'll Change](https://open.spotify.com/album/6wYpaSgmMDzyfQxNmcTIXf) | 2:41 | 2021-12-17 |  |

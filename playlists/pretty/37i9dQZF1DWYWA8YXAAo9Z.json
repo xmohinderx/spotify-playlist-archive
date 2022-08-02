@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 26772,
+  "num_followers": 26808,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY5NjQ5NiwwMDAwMDAwMDc5YWUwY2JkZmE1MDg0MGRlYzE3MTY4Y2I4NDdmZGY3",
+  "snapshot_id": "MTY1NjY5NjQ5NiwwMDAwMDAwMGFlMGViODE1ZThkOTU4YmNiOGQ3Y2Q2YWU0ZjE2YmVj",
   "tracks": [
     {
       "added_at": "2022-07-01 17:28:16",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-07-01 17:28:16",
       "album": {
+        "name": "Iniziare",
+        "url": "https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 342395,
+      "name": "Iniziare",
+      "url": "https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i"
+    },
+    {
+      "added_at": "2022-07-01 17:28:16",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 134000,
       "name": "Moon In Your Eye",
       "url": "https://open.spotify.com/track/2H5hsIskRNVnO5IIbOfcko"
-    },
-    {
-      "added_at": "2022-07-01 17:28:16",
-      "album": {
-        "name": "Iniziare",
-        "url": "https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 342395,
-      "name": "Iniziare",
-      "url": "https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i"
     },
     {
       "added_at": "2022-07-01 17:28:16",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-07-01 17:28:16",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 372930,
+      "name": "Lumina",
+      "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
+    },
+    {
+      "added_at": "2022-07-01 17:28:16",
+      "album": {
         "name": "Where Do You Get Your Dreams From?",
         "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2022-07-01 17:28:16",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
       },
       "artists": [
         {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
         }
       ],
-      "duration_ms": 372930,
-      "name": "Lumina",
-      "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
     },
     {
       "added_at": "2022-07-01 17:28:16",
@@ -543,22 +559,6 @@
       "duration_ms": 145376,
       "name": "cells_",
       "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
-    },
-    {
-      "added_at": "2022-07-01 17:28:16",
-      "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
-      },
-      "artists": [
-        {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
     },
     {
       "added_at": "2022-07-01 17:28:16",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-07-01 17:28:16",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
-      },
-      "artists": [
-        {
-          "name": "Hoavi",
-          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
-    },
-    {
-      "added_at": "2022-07-01 17:28:16",
-      "album": {
         "name": "Vu Hijera",
         "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 261333,
       "name": "Vu Hijera",
       "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
+    },
+    {
+      "added_at": "2022-07-01 17:28:16",
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
+      },
+      "artists": [
+        {
+          "name": "Hoavi",
+          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
     },
     {
       "added_at": "2022-07-01 17:28:16",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-07-01 17:28:16",
       "album": {
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2022-07-01 17:28:16",
+      "album": {
         "name": "Sonic Winds",
         "url": "https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 166965,
       "name": "Sonic Winds",
       "url": "https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY"
-    },
-    {
-      "added_at": "2022-07-01 17:28:16",
-      "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2022-07-01 17:28:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-01 17:28:16",
       "album": {
-        "name": "Slow Tide",
-        "url": "https://open.spotify.com/album/4l7kQfYL5bJDfPBcLTS4sF"
-      },
-      "artists": [
-        {
-          "name": "Poulson Sq.",
-          "url": "https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp"
-        }
-      ],
-      "duration_ms": 288685,
-      "name": "Slow Tide",
-      "url": "https://open.spotify.com/track/41O6rwSFgVZJc1XKdK1b02"
-    },
-    {
-      "added_at": "2022-07-01 17:28:16",
-      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 192019,
       "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
       "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
+    },
+    {
+      "added_at": "2022-07-01 17:28:16",
+      "album": {
+        "name": "Slow Tide",
+        "url": "https://open.spotify.com/album/4l7kQfYL5bJDfPBcLTS4sF"
+      },
+      "artists": [
+        {
+          "name": "Poulson Sq.",
+          "url": "https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp"
+        }
+      ],
+      "duration_ms": 288685,
+      "name": "Slow Tide",
+      "url": "https://open.spotify.com/track/41O6rwSFgVZJc1XKdK1b02"
     },
     {
       "added_at": "2022-07-01 17:28:16",

@@ -1,29 +1,13 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Lupe Fiasco",
-  "num_followers": 1104130,
+  "num_followers": 1104486,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDJkZTk5OGE0MDI5ZTk0NDIxNTE4OTY5NjIwYTBmMjMz",
+  "snapshot_id": "MTY1OTMyMTAwNCwwMDAwMDAwMGZmYzRkYjE1ZjAyOGZlZDM4MzUxMDZkZjNmMTEwOWE0",
   "tracks": [
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "In My Pockets",
-        "url": "https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "In My Pockets",
-      "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
-    },
     {
       "added_at": "2022-07-15 04:15:57",
       "album": {
@@ -247,6 +231,22 @@
       "duration_ms": 180705,
       "name": "Stone Rolling",
       "url": "https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "In My Pockets",
+        "url": "https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "In My Pockets",
+      "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
     },
     {
       "added_at": "2022-04-29 04:30:50",

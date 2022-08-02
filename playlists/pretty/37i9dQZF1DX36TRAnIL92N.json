@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 12011,
+  "num_followers": 12479,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMGM4ZjhjYzFiOTA0MjU4ZGYxMWE0NTMzOWNhZTQ3Mjcy",
+  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMDNlMjY4NDRhNzU0ZGM3NmZiZjcyZmZhODVjYmIzMWEz",
   "tracks": [
     {
       "added_at": "2022-07-29 06:24:48",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Timeless EP",
+        "url": "https://open.spotify.com/album/6iutev2dbJ6dSkLunk50cG"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 403308,
+      "name": "Timeless - Original Mix",
+      "url": "https://open.spotify.com/track/76P1a7VfRpxXqBUqcIi3Ub"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "String Theory",
         "url": "https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 261230,
       "name": "String Theory",
       "url": "https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Timeless EP",
-        "url": "https://open.spotify.com/album/6iutev2dbJ6dSkLunk50cG"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 403308,
-      "name": "Timeless - Original Mix",
-      "url": "https://open.spotify.com/track/76P1a7VfRpxXqBUqcIi3Ub"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -459,22 +459,18 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
       },
       "artists": [
         {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 253242,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -499,22 +495,6 @@
       "duration_ms": 272221,
       "name": "Saw of Olympus",
       "url": "https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -547,6 +527,26 @@
       "duration_ms": 469612,
       "name": "Asura",
       "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "duration_ms": 253242,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -759,22 +759,18 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Hypnos",
-        "url": "https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P"
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
         }
       ],
-      "duration_ms": 289928,
-      "name": "Hypnos",
-      "url": "https://open.spotify.com/track/347YMNFo0pJ43u0joTb8ww"
+      "duration_ms": 384000,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -795,18 +791,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
+        "name": "Hypnos",
+        "url": "https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P"
       },
       "artists": [
         {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
+      "duration_ms": 289928,
+      "name": "Hypnos",
+      "url": "https://open.spotify.com/track/347YMNFo0pJ43u0joTb8ww"
     },
     {
       "added_at": "2022-07-29 06:24:48",

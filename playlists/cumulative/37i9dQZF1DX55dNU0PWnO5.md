@@ -4,14 +4,14 @@
 
 > Jazzy blips and blops\. Cover: Glimlip
 
-227 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/3EWDflGVJ6h7JcHAvsf1Hs)
+228 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/3EWDflGVJ6h7JcHAvsf1Hs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19](https://open.spotify.com/track/7G37IzJIxkrZFeIBzPqvoH) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [COLOR OF NOIZE](https://open.spotify.com/album/4eARmd0GWRsEMrodDDHkug) | 4:57 | 2021-01-29 | 2022-03-26 |
 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 | 2021-01-29 | 2021-12-22 |
 | [2 FUNKY](https://open.spotify.com/track/5YC5hyGD9Mp7GY1Exqufp7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO) | [2 FUNKY](https://open.spotify.com/album/6qag4GDrLrMCGpTDbN8Aha) | 2:48 | 2022-06-10 |  |
-| [37,000 Feet](https://open.spotify.com/track/0ECKs70DzRZ937EgkDs8uU) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Midnight Snacks vol.1](https://open.spotify.com/album/3u0nEa0WmDG65OzPylGtwK) | 3:10 | 2021-09-24 |  |
+| [37,000 Feet](https://open.spotify.com/track/0ECKs70DzRZ937EgkDs8uU) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Midnight Snacks vol.1](https://open.spotify.com/album/3u0nEa0WmDG65OzPylGtwK) | 3:10 | 2021-09-24 | 2022-08-02 |
 | [856](https://open.spotify.com/track/4jlFJMEgi8SRPuWywYvBhB) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Freedom Exercise](https://open.spotify.com/album/501assmGyiYAl2u9PGUNEL) | 2:09 | 2021-01-29 | 2022-03-26 |
 | [A Vibe](https://open.spotify.com/track/0ajpCcbA9tTaY4WycQJhm8) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:38 | 2022-03-18 | 2022-07-29 |
 | [Afro Blue](https://open.spotify.com/track/0if7xE45Jdg7QiJcXqMA12) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Satin Doll](https://open.spotify.com/album/3U2s9YywNQ7kA5TNgEFHyM) | 3:15 | 2021-01-29 | 2022-01-13 |
@@ -232,6 +232,7 @@
 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 | 2022-04-29 |  |
 | [XPBTTMS.MMBL](https://open.spotify.com/track/5glJ3oP3FC2KQbQHQ9nqLE) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ) | [XPBTTMS.MMBL](https://open.spotify.com/album/4UzayOSjHT3mYjBw44s725) | 2:16 | 2022-07-15 |  |
 | [Yanavy Obaki](https://open.spotify.com/track/58vQhz3CLq2WbjVZXZpvwb) | [delay\_ok](https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935) | [Modern Uganda](https://open.spotify.com/album/7yyNdeishrr78limvFPivT) | 6:01 | 2022-02-11 | 2022-07-29 |
+| [Yanavy Obaki](https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz) | [delay\_ok](https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935) | [Modern Uganda](https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R) | 6:01 | 2022-02-11 |  |
 | [Yesterday's Forest Magic](https://open.spotify.com/track/3SBKwRZXM7Ev7XHRCA1GA6) | [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [Energy Dreams](https://open.spotify.com/album/5NbcAITHDzXJmJ7BDovK7v) | 3:35 | 2021-01-29 | 2022-03-23 |
 | [Yipee](https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Yipee](https://open.spotify.com/album/65f6s3zvSKgc39bx0IsDJD) | 2:16 | 2022-01-14 | 2022-07-29 |
 | [Youthful Expression](https://open.spotify.com/track/7KKJlwhwo70acLmRqkuSto) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Josh Koslow](https://open.spotify.com/artist/1mpMVEpY7lb8AUgLgk3Y8n) | [Youthful Expression](https://open.spotify.com/album/77HfNVVK0wUIbZrBNdPwwk) | 3:01 | 2021-08-20 | 2022-07-29 |

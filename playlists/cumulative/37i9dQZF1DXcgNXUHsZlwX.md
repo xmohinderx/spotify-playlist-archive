@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
 
-359 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+360 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 |  |
 | [Loulou](https://open.spotify.com/track/0g28Z0SKGBVZZq6NB8NsEt) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Loulou](https://open.spotify.com/album/6f0reSlDkHWcTyELvgkYzA) | 3:34 | 2021-10-17 | 2021-11-16 |
 | [Lubie](https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8) | 3:17 | 2021-01-03\* | 2022-07-29 |
-| [Lubie](https://open.spotify.com/track/62ZILfGIjQ9y7CUyfoR0z2) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/0PgBQ2nr9lGwY49QjAhMaa) | 3:17 | 2022-07-08 |  |
+| [Lubie](https://open.spotify.com/track/62ZILfGIjQ9y7CUyfoR0z2) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/0PgBQ2nr9lGwY49QjAhMaa) | 3:17 | 2022-07-08 | 2022-08-02 |
 | [Ma belle Clodie](https://open.spotify.com/track/6dIDM0vzyZqsqjODV3JK2a) | [Lauma](https://open.spotify.com/artist/7cHW7ZcuXJbucvesjvD4GK) | [Pixels](https://open.spotify.com/album/160lLNQ7uEPxrhosSwa5pk) | 5:02 | 2021-01-03\* | 2022-02-12 |
 | [Ma déroute \(Radio Edit\)](https://open.spotify.com/track/7tzJ2UyWtJX2CFUvKYVLuE) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [Ma déroute \(Radio Edit\)](https://open.spotify.com/album/13fBLkvKWZ5bfMLdngqNdJ) | 2:55 | 2021-03-27 | 2021-05-08 |
 | [Ma maladie mentale](https://open.spotify.com/track/6KICOrKKfsT0MGAVpxNpg9) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 3:25 | 2021-09-19 | 2021-09-20 |
@@ -226,6 +226,7 @@
 | [Mille et un](https://open.spotify.com/track/4zxigPiHkizg6tHTDkC8GW) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Mille et un \- Single](https://open.spotify.com/album/2IIFewmPDob11DbgFCE7kq) | 3:34 | 2021-01-15 | 2022-07-29 |
 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 | 2021-01-15 | 2022-07-29 |
 | [Mille requiems](https://open.spotify.com/track/5R8pIhrZExMhSN6L1kb4zC) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [2004\-2019 Point Picot](https://open.spotify.com/album/5sNqgXko9G1IC8lIGJ718D) | 3:06 | 2021-01-18 | 2021-11-07 |
+| [Milles fois par jour](https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:26 | 2022-07-08 |  |
 | [Mirador](https://open.spotify.com/track/28G4d150k0L97C2rEBlafm) | [Ambre ciel](https://open.spotify.com/artist/33ZTmzZfwF05EqmpxweL2v) | [Mirador](https://open.spotify.com/album/51fwq1pDme4wmvmp97VSnc) | 4:09 | 2021-01-03\* | 2022-07-29 |
 | [Miroir](https://open.spotify.com/track/5TDFaPYthBso4zax3EbpAO) | [Georgian Bay](https://open.spotify.com/artist/2E2f1LWGVylKbzx2S8YAwi) | [Courage, Vol\. 2: Moon](https://open.spotify.com/album/7gAdZXiEQqp8pDVH8jgSLN) | 3:23 | 2021-01-15 | 2021-10-02 |
 | [Moi, Elsie](https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [There Will Be Stars](https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9) | 5:18 | 2021-10-03 | 2022-07-28 |

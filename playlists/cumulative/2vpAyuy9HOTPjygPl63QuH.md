@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-306 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+308 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 | 2022-07-15 | 2022-07-30 |
 | [Bite Back](https://open.spotify.com/track/2WainKUK5xbAI8s1l6LHk0) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ), [Morelia](https://open.spotify.com/artist/5IYl99kFybVzejVo5MyoRS) | [Bite Back](https://open.spotify.com/album/4MwbhD8HEFrLQPjRe3Baoi) | 3:18 | 2022-07-29 |  |
 | [Blaze It](https://open.spotify.com/track/3TtNh2nAVhqYeQkMcJHIDe) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Blaze It](https://open.spotify.com/album/190eeNb9A5E7HOZBoX005M) | 3:29 | 2022-04-28 | 2022-05-14 |
+| [Body](https://open.spotify.com/track/6BUtF5tCg0SyVYqYPuiwI1) | [Mylonrae](https://open.spotify.com/artist/4xgaco7Zmmyjhkaz5ZTa4j), [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Body](https://open.spotify.com/album/369ILWuXAASSBnDQgk7N0t) | 3:08 | 2022-08-01 |  |
 | [Body Heat](https://open.spotify.com/track/6L8m03xqrhwyLZ5ptN28CE) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Body Heat](https://open.spotify.com/album/51jFumSXhqsS5DaseOhCgj) | 2:38 | 2022-06-10 | 2022-06-18 |
 | [Boomye](https://open.spotify.com/track/6PKdBNmb63iBVWjl8kr8Qc) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Boomye](https://open.spotify.com/album/5gKJqA0ZBMBBUm6N2PqGiB) | 2:51 | 2022-05-13 | 2022-05-30 |
 | [Booth Lingerer Anthem](https://open.spotify.com/track/5DvFxs44qDbp3Ed3J8X9LG) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH) | [Booth Lingerer Anthem](https://open.spotify.com/album/3HsRkMpSYeVpYIhJvn3pFp) | 4:46 | 2022-05-29 | 2022-06-04 |
@@ -83,6 +84,7 @@
 | [Dusty Jackson \(Hijack Remix\)](https://open.spotify.com/track/6hNuDYKc3u8PO3CboYnkZ1) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Hijack](https://open.spotify.com/artist/226zu4qI43DLCGVySgvYcQ) | [Hijack: The Remixes](https://open.spotify.com/album/7z1WmzGdlfq6VRc61NTEy3) | 6:07 | 2022-07-01 | 2022-07-10 |
 | [East Coast](https://open.spotify.com/track/6KOh37HUNW3XLbDn3yIIk3) | [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [East Coast](https://open.spotify.com/album/5jVbvbPAaQp0Um5XxvV7Un) | 3:21 | 2022-04-29 | 2022-05-14 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-06-24 | 2022-07-02 |
+| [Easy To Love](https://open.spotify.com/track/3KGmBpekWkmNk8CDyjW9h4) | [Autodepth](https://open.spotify.com/artist/1UdV4KYu2FYUcEyuD1mbCz), [Riski Pramana](https://open.spotify.com/artist/1LMTupkLAUKPjTZxNGyTJY) | [Easy To Love](https://open.spotify.com/album/5eBeEanzqE1DftmUfjsg1E) | 2:23 | 2022-08-01 |  |
 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 | 2022-07-29 |  |
 | [El Cocinero](https://open.spotify.com/track/7xLw0oaDSQxogs0VpxfopW) | [Lasko \(FR\)](https://open.spotify.com/artist/4iOv7v4Lgy0gOELBBR0ufC), [Camilo Morales](https://open.spotify.com/artist/7kccNofrJwObif3kszY1Tc) | [El Cocinero](https://open.spotify.com/album/7fuxCpnnBML7tOsN02ZJrO) | 5:47 | 2022-06-19 | 2022-06-25 |
 | [El Oh Vee Ee](https://open.spotify.com/track/2qg9rX4JsmSXIsv1aqucm9) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [El Oh Vee Ee](https://open.spotify.com/album/1RSEErTX6MymSpxhNR4PYm) | 3:31 | 2022-06-24 | 2022-07-02 |

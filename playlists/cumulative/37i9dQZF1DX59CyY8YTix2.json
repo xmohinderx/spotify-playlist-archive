@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 254053,
       "name": "LITMUS",
       "url": "https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk"
@@ -9329,6 +9329,24 @@
       "duration_ms": 247000,
       "name": "\u990c\u306b\u3082\u306a\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/5a2dhJIsvfkDVVj5MWZGPN"
+    },
+    {
+      "album": {
+        "name": "\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
+      },
+      "artists": [
+        {
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258974,
+      "name": "\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2"

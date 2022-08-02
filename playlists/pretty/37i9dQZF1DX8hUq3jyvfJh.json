@@ -1,12 +1,12 @@
 {
   "description": "Lu\u00edsa Sonza e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 121583,
+  "num_followers": 121660,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4ODgwMCwwMDAwMDAwMDhmMTRmNTM2MzdkMDUzOGYyNDY3OTFhZmVlMjBjMzIy",
+  "snapshot_id": "MTY1ODE4ODgwMCwwMDAwMDAwMDI1YjJmZTYyYjAyOTAzOWVmMzAzNjUyNDRlMzMyOWFi",
   "tracks": [
     {
       "added_at": "2022-07-19 00:00:00",
@@ -159,78 +159,6 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Sem Filtro",
-        "url": "https://open.spotify.com/album/7M2Wfg14YrNPGmkMyv9dtA"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 206181,
-      "name": "Sem Filtro",
-      "url": "https://open.spotify.com/track/0bfyJd1OWcUUDcexrOn9bz"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 136011,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/5tQj2mfKL21L9mQ643z5zw"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
         "name": "Barbie (feat. Danny Bond)",
         "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
       },
@@ -255,6 +183,58 @@
       "duration_ms": 149514,
       "name": "Barbie (feat. Danny Bond)",
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 136011,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/5tQj2mfKL21L9mQ643z5zw"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "Sem Filtro",
+        "url": "https://open.spotify.com/album/7M2Wfg14YrNPGmkMyv9dtA"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 206181,
+      "name": "Sem Filtro",
+      "url": "https://open.spotify.com/track/0bfyJd1OWcUUDcexrOn9bz"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -343,6 +323,26 @@
       "duration_ms": 140800,
       "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
       "url": "https://open.spotify.com/track/707X30zRZYb1HYe1BtiY69"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Voc\u00ea Aprendeu A Amar?",
-        "url": "https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 181434,
-      "name": "Tem Dias",
-      "url": "https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
         "name": "Apollo 11",
         "url": "https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 141284,
       "name": "Beijo De Judas",
       "url": "https://open.spotify.com/track/1FBLziBYf0gJ2yKC1CruTw"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "Voc\u00ea Aprendeu A Amar?",
+        "url": "https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 181434,
+      "name": "Tem Dias",
+      "url": "https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Brinco Muito",
-        "url": "https://open.spotify.com/album/7epgvJOimE2lSwW5bczStJ"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 173639,
-      "name": "Brinco Muito",
-      "url": "https://open.spotify.com/track/4wlnIEgKh6HjUb413AzHK4"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
         "name": "Shonda D+",
         "url": "https://open.spotify.com/album/0suGmBaRPl2eUAt37mh8z8"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+        "name": "Brinco Muito",
+        "url": "https://open.spotify.com/album/7epgvJOimE2lSwW5bczStJ"
       },
       "artists": [
         {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
         }
       ],
-      "duration_ms": 122666,
-      "name": "convoca (Prod. Maikinho)",
-      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
+      "duration_ms": 173639,
+      "name": "Brinco Muito",
+      "url": "https://open.spotify.com/track/4wlnIEgKh6HjUb413AzHK4"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 150508,
       "name": "Embalagem",
       "url": "https://open.spotify.com/track/0YT1YdhHUTiltVHzwtDRpx"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "convoca (Prod. Maikinho)",
+      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
     },
     {
       "added_at": "2022-07-19 00:00:00",

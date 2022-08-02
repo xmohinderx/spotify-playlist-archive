@@ -2966,6 +2966,24 @@
     },
     {
       "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
+      },
+      "artists": [
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "Freaky (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
+    },
+    {
+      "album": {
         "name": "FREE HAEE (Feat. OLNL, Ji Chanel, EXN, Jehwwn, h3hyeon, Quokka, yourbeagle)",
         "url": "https://open.spotify.com/album/17FHGj3dr8m9jksj3bX49k"
       },
@@ -3989,7 +4007,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 157398,
       "name": "how's your summer?",
       "url": "https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp"
@@ -6011,7 +6029,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 205125,
       "name": "Model House (Feat. Koonta)",
       "url": "https://open.spotify.com/track/2au4vnPtLBMAHnjH6fmi93"
@@ -8937,6 +8955,24 @@
       "duration_ms": 214813,
       "name": "Summer Tights",
       "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "album": {
+        "name": "SUN & MOON",
+        "url": "https://open.spotify.com/album/6zeyo05K5MbpV6ck1m422P"
+      },
+      "artists": [
+        {
+          "name": "wethefuture(\uc704\ub354\ud4e8\uccd0)",
+          "url": "https://open.spotify.com/artist/1MvKRHxbDeKDNdyl4avLT2"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "SUN & MOON",
+      "url": "https://open.spotify.com/track/5hydYnlC66FvUwY5nYp9sI"
     },
     {
       "album": {

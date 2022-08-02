@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-286 songs - 1 day 6 hr 9 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+287 songs - 1 day 6 hr 15 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Fixed Nostalgia](https://open.spotify.com/track/1NrxsJ8tPjxG24VWXA4k8P) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Dixon & Âme Present Limbo](https://open.spotify.com/album/4mG0wdymDEjVc8S8LcShI5) | 7:46 | 2021-05-26 | 2022-04-21 |
 | [Fluminnese \- Edit](https://open.spotify.com/track/5s9tEo2dnKiXIYZiossJjF) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Fluminnese \(Edit\)](https://open.spotify.com/album/58v3VkgqWzK4UFBn9RymaB) | 4:37 | 2022-02-18 | 2022-07-29 |
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2022-03-25 |  |
+| [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-01 |  |
 | [Forest Moon](https://open.spotify.com/track/5p7vUQP5xkQY6qP8SqqIlU) | [Quivver](https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD) | [Forest Moon](https://open.spotify.com/album/4lzTuaJRwJCb6CRjOv9j1L) | 6:47 | 2021-04-21 | 2022-07-16 |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-08 |  |
 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 | 2022-07-01 |  |
@@ -163,7 +164,7 @@
 | [Mariposa](https://open.spotify.com/track/4vBoDgmhEeGd8mNBS9gTso) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Mariposa](https://open.spotify.com/album/7c431xYw1mJqGslm1DkQ3g) | 7:31 | 2021-07-09 | 2022-07-10 |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-01-21 |  |
-| [Melt](https://open.spotify.com/track/6PXLUDOUGRlvQU5ZX8sncU) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Land Of Heroes](https://open.spotify.com/album/4PEEAEwfRHYm6G623lwyhC) | 6:37 | 2022-04-11 |  |
+| [Melt](https://open.spotify.com/track/6PXLUDOUGRlvQU5ZX8sncU) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Land Of Heroes](https://open.spotify.com/album/4PEEAEwfRHYm6G623lwyhC) | 6:37 | 2022-04-11 | 2022-08-02 |
 | [Menq \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/4uWFK5qbPLrwuoTZipEPmz) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO), [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Armat](https://open.spotify.com/album/207uRcfNbu0k7zd2zdXsEy) | 8:34 | 2021-04-21 | 2022-06-16 |
 | [Mental \(feat\. Cabadzi\)](https://open.spotify.com/track/0p5LyGZBJCiC9I7yUQDyWM) | [VAPA](https://open.spotify.com/artist/6RgqlEYDVX9kAnsujuG7H7), [Cabadzi](https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn) | [Mental \- EP](https://open.spotify.com/album/0J1nw3aoVtiH5z6gF5iqf0) | 4:23 | 2021-06-11 | 2022-04-21 |
 | [Meru](https://open.spotify.com/track/5UrfK59oICoOgbJRn1uTyL) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Meru](https://open.spotify.com/album/6WiYzBqw0cmhVKVVqZDF7y) | 7:12 | 2021-04-21 | 2022-07-23 |

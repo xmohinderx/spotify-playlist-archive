@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1EBIvjCbIEj.md) - [plain]
 
 > Riscopri le più grandi hit del 2003! Cover: Tiziano Ferro
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,972 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,977 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1EBIvjCbIEj.md) - [plain]
 | 97 | [La canzone del capitano](https://open.spotify.com/track/1UhtIQE0XsYAWeopYuQ4r3) | [DJ Francesco](https://open.spotify.com/artist/68f6Rzx4oXYvdJ8QQMys1D) | [Bella di padella](https://open.spotify.com/album/7qCZmdbKAIvc0xzqZWBiYv) | 3:40 |
 | 98 | [La Danza Delle Streghe \- Corto Mix](https://open.spotify.com/track/1swOzhcAXtzoylZwhjlBA7) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [La Danza Delle Streghe](https://open.spotify.com/album/5DGR51Tt4TMZXedgHVNnvr) | 4:51 |
 | 99 | [Un attimo di pace](https://open.spotify.com/track/794UTL4DvaM3WObQmoCdoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:34 |
-| 100 | [Sound Of The Underground](https://open.spotify.com/track/25Mn17RDbdJHiKL5SEhLnL) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Sound Of The Underground](https://open.spotify.com/album/46F1BBxOIi3Vg30ooBnWYX) | 3:41 |
+| 100 | [Gocce di memoria](https://open.spotify.com/track/1qGUCfrYav01b8sokQsL3T) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Spirito Libero](https://open.spotify.com/album/2Z9l7x2Q5kzRZOcY3Ak3oS) | 4:10 |
 
-Snapshot ID: `MTYwNDUwMDM1NiwwMDAwMDAwMGVkNDY0NjA4MzQ5NGJmMTk3OTBjYWZlOGRhMThiN2Uy`
+Snapshot ID: `MTYwNDUwMDM1NiwwMDAwMDAwMGQwMTczYzg5NTg0Yzg2ZjM1MzM0Nzk1NTQ4YTQxMTgz`

@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 590883,
+  "num_followers": 591017,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTEzMTQ2MiwwMDAwMDAwMGYzMjVkMjFmMjNmNTMwYWM1MjE5ZDI2OGNkMTA2YWQ3",
+  "snapshot_id": "MTY1NTEzMTQ2MiwwMDAwMDAwMDA0MzliMmU5YTBhYjdmZTAwYTNkZDM3ODdjMzYxNDc3",
   "tracks": [
     {
       "added_at": "2022-04-27 00:01:15",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
         "name": "That Was Yesterday",
         "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
-      },
-      "artists": [
-        {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Let's Move To The Country",
-      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
       },
       "artists": [
         {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
         }
       ],
-      "duration_ms": 220405,
-      "name": "Help Me Down",
-      "url": "https://open.spotify.com/track/1MrgHn4BWUcxFolDAezsXJ"
+      "duration_ms": 185800,
+      "name": "Let's Move To The Country",
+      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1103,6 +1087,22 @@
       "duration_ms": 138226,
       "name": "Great Big Bundle Of Love",
       "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 220405,
+      "name": "Help Me Down",
+      "url": "https://open.spotify.com/track/1MrgHn4BWUcxFolDAezsXJ"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
+        "name": "Victim of Love",
+        "url": "https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Victim of Love",
+      "url": "https://open.spotify.com/track/2qcPsPqgTpl1KYgVptu3Oc"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
         "name": "Saint Cloud +3",
         "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 353506,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
-        "name": "Victim of Love",
-        "url": "https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Victim of Love",
-      "url": "https://open.spotify.com/track/2qcPsPqgTpl1KYgVptu3Oc"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
+        "name": "Mouthoil",
+        "url": "https://open.spotify.com/album/0n2DviOOZZeNwgCSPQrFMp"
+      },
+      "artists": [
+        {
+          "name": "The Shouting Matches",
+          "url": "https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ"
+        }
+      ],
+      "duration_ms": 392106,
+      "name": "I Had a Real Good Lover",
+      "url": "https://open.spotify.com/track/1XMQ4v75bj65rHBCDwaBGc"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
         "name": "Wilton",
         "url": "https://open.spotify.com/album/6rOXMsIBhPQfMuGqIjCI8O"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 185397,
       "name": "Colors",
       "url": "https://open.spotify.com/track/62FVFc1vz3NmSlqOOKTlTF"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
-        "name": "Mouthoil",
-        "url": "https://open.spotify.com/album/0n2DviOOZZeNwgCSPQrFMp"
-      },
-      "artists": [
-        {
-          "name": "The Shouting Matches",
-          "url": "https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ"
-        }
-      ],
-      "duration_ms": 392106,
-      "name": "I Had a Real Good Lover",
-      "url": "https://open.spotify.com/track/1XMQ4v75bj65rHBCDwaBGc"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE"
     },
     {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
-        "name": "Sticky Thumb",
-        "url": "https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 194398,
-      "name": "Twinkle",
-      "url": "https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf"
-    },
-    {
       "added_at": "2022-06-13 14:44:22",
       "album": {
         "name": "Bananamour",
@@ -1615,6 +1599,22 @@
       "duration_ms": 347023,
       "name": "When Your Parents Go to Sleep - 2003 Remaster",
       "url": "https://open.spotify.com/track/5HUFcB9PHfVcvXF44u98SI"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
+        "name": "Sticky Thumb",
+        "url": "https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 194398,
+      "name": "Twinkle",
+      "url": "https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf"
     },
     {
       "added_at": "2022-04-27 00:01:15",

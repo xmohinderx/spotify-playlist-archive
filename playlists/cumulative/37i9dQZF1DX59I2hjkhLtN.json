@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 200045,
       "name": "Apert\u00e1",
       "url": "https://open.spotify.com/track/7aReKeLwVz4IdlxMQCP4e0"
@@ -268,6 +268,24 @@
     },
     {
       "album": {
+        "name": "D. O. A. R.",
+        "url": "https://open.spotify.com/album/5bEAf9u5EePNwa0v5F2wy6"
+      },
+      "artists": [
+        {
+          "name": "MM Apl",
+          "url": "https://open.spotify.com/artist/0KcJBLwVL3uO3FwvrVqLrf"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155188,
+      "name": "D. O. A. R.",
+      "url": "https://open.spotify.com/track/7KiovhUGk45iadvIYt5GxG"
+    },
+    {
+      "album": {
         "name": "Desabafo 2",
         "url": "https://open.spotify.com/album/0xTKCN4JJkXIqYLkpol7ZP"
       },
@@ -440,6 +458,32 @@
     },
     {
       "album": {
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/2vUAJmh4JYgV6270tkjIjT"
+      },
+      "artists": [
+        {
+          "name": "\u00c2ngela Pol\u00edcia",
+          "url": "https://open.spotify.com/artist/74x38c8gsGWjatfGzES9FA"
+        },
+        {
+          "name": "Beiro",
+          "url": "https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn"
+        },
+        {
+          "name": "Stone Jones",
+          "url": "https://open.spotify.com/artist/4H7q2a75WxPjfhEu4L7NSu"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288110,
+      "name": "Estrela",
+      "url": "https://open.spotify.com/track/4yf1Fj734jtCNDl9k3IuKw"
+    },
+    {
+      "album": {
         "name": "Evita",
         "url": "https://open.spotify.com/album/7yGZfqPqtkpgb6Eq4djrMh"
       },
@@ -469,7 +513,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 167969,
       "name": "Face ao ponto",
       "url": "https://open.spotify.com/track/1YuC9YKAwDW2dleHikdhkB"
@@ -499,6 +543,24 @@
       "duration_ms": 174451,
       "name": "Fakes",
       "url": "https://open.spotify.com/track/1DyU5WQzWtsoRtRs36IUjq"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6kak6DjKK5k2Asb2BQZo7b"
+      },
+      "artists": [
+        {
+          "name": "Rastalyon",
+          "url": "https://open.spotify.com/artist/0XDHxCSuzHM2tPfWCnumQE"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182439,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/1Pb2N00UhC3ZRixWmtIgv8"
     },
     {
       "album": {
@@ -535,7 +597,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 76464,
       "name": "Forca",
       "url": "https://open.spotify.com/track/5nfKywRaBHkTcwAaoIGf8n"
@@ -575,7 +637,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 213557,
       "name": "F\u00f3rmula",
       "url": "https://open.spotify.com/track/3xr7pXPS5rg1F9cIPzTQva"
@@ -641,7 +703,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 228363,
       "name": "H.N.V.",
       "url": "https://open.spotify.com/track/4zsBU5xirplLsJ8YTPEf2J"
@@ -793,6 +855,24 @@
       "duration_ms": 163038,
       "name": "Lei de Atra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/61bULnso8xS3uuA4sRMbSA"
+    },
+    {
+      "album": {
+        "name": "Longe",
+        "url": "https://open.spotify.com/album/1EP5tUh0CW2natbEpmO8kp"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3jico",
+          "url": "https://open.spotify.com/artist/6PRzGdn4WO9juMXyq2QRBw"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200581,
+      "name": "Longe",
+      "url": "https://open.spotify.com/track/5098hp2v4D9nwR7eYAP6NE"
     },
     {
       "album": {
@@ -1096,6 +1176,24 @@
     },
     {
       "album": {
+        "name": "Novo Amor",
+        "url": "https://open.spotify.com/album/5ttr4tROKnkujLTmzz9bXb"
+      },
+      "artists": [
+        {
+          "name": "Eudreezy",
+          "url": "https://open.spotify.com/artist/4SSvV9YET4ifk8VPTHHH24"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135250,
+      "name": "Novo Amor",
+      "url": "https://open.spotify.com/track/6NlakJnwjiQ1jHpGlJGWsI"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Desistas",
         "url": "https://open.spotify.com/album/15W8AKHBsJIdZsMNeBJ1JL"
       },
@@ -1111,6 +1209,24 @@
       "duration_ms": 161904,
       "name": "N\u00e3o Desistas",
       "url": "https://open.spotify.com/track/0g2mHkXpRXMbmwZcNVu0Gm"
+    },
+    {
+      "album": {
+        "name": "Obra de Arte",
+        "url": "https://open.spotify.com/album/24zyIeHOx45uy9PkHRvnXn"
+      },
+      "artists": [
+        {
+          "name": "Amaro",
+          "url": "https://open.spotify.com/artist/2PFhhQZgtdqOT8mXiAHJ0A"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160416,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/3605p9xetxzSMpOlqBby3n"
     },
     {
       "album": {
@@ -1295,10 +1411,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 196626,
       "name": "Pricey",
       "url": "https://open.spotify.com/track/7i4ADbj2hN3ZCGuKkBttpT"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/1sNXyev22uuqRL1L5BNZOM"
+      },
+      "artists": [
+        {
+          "name": "Van zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/5Tl4w6rF8jjqGlSQ0uIuEa"
     },
     {
       "album": {
@@ -1393,7 +1527,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 195814,
       "name": "Satisfeito",
       "url": "https://open.spotify.com/track/24qakudGyiOuOhTDTaTQ20"
@@ -1491,7 +1625,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 141210,
       "name": "Sin Sabeba",
       "url": "https://open.spotify.com/track/7cAiu8YUA2jh7GVqeX1v0Q"
@@ -1593,6 +1727,28 @@
       "duration_ms": 152766,
       "name": "Tao Dar Bandeira",
       "url": "https://open.spotify.com/track/1udzRBwHBWYiWmwryLa59X"
+    },
+    {
+      "album": {
+        "name": "Tou a Ver",
+        "url": "https://open.spotify.com/album/1c01J8ZoE7AGBZafNtv3c3"
+      },
+      "artists": [
+        {
+          "name": "Dero Vibez",
+          "url": "https://open.spotify.com/artist/3IanMX1UeovArtHM4j4D7z"
+        },
+        {
+          "name": "Ali Badd",
+          "url": "https://open.spotify.com/artist/3jvmwIPJVEZ7rvVUJ7fpck"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202602,
+      "name": "Tou a Ver",
+      "url": "https://open.spotify.com/track/6EgbWI2J1Hykfd3gd3hO2L"
     },
     {
       "album": {
@@ -1709,6 +1865,24 @@
       "duration_ms": 172408,
       "name": "Vento",
       "url": "https://open.spotify.com/track/7sn5PxtRuPDS8HuWyWxOHr"
+    },
+    {
+      "album": {
+        "name": "Corpo & Alma",
+        "url": "https://open.spotify.com/album/1VJWSayoxhvr7ASQHKoWqe"
+      },
+      "artists": [
+        {
+          "name": "Guii",
+          "url": "https://open.spotify.com/artist/0YCzur9vTCSmievDpR3s7h"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192812,
+      "name": "versus gui",
+      "url": "https://open.spotify.com/track/1ojTMI2xUl021R3qVSexiP"
     },
     {
       "album": {

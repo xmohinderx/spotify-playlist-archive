@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-111 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+112 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Look at it in the Light](https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:46 | 2022-06-08 | 2022-06-17 |
 | [Macca The Mutt](https://open.spotify.com/track/2kpi8kAf9mrQwLKmdCxJ45) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Macca The Mutt](https://open.spotify.com/album/4f7VB6WcKvRfxepC6FgirJ) | 4:01 | 2022-06-16 | 2022-07-28 |
 | [Nattens Sista Strimma Ljus](https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Nattens Sista Strimma Ljus](https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5) | 4:28 | 2022-07-06 |  |
+| [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-01 |  |
 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 | 2022-06-08 | 2022-07-14 |
 | [Option 8](https://open.spotify.com/track/5dxk732O5asDxSLeW6H0cg) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Versions of Modern Performance](https://open.spotify.com/album/435br4I9UOHTrQI5qbxVbI) | 3:33 | 2022-06-08 | 2022-07-14 |
 | [Our Love Remains](https://open.spotify.com/track/27fhKlrPdZ2V3ifyyM6DiV) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [I'm Not Here](https://open.spotify.com/album/3UuoN91OpPc62Cqiwmwo95) | 3:49 | 2022-06-08 | 2022-07-07 |

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Titãs
 
-188 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+189 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Grão](https://open.spotify.com/track/6Q9qlZBRJlBEEaZkbDwsDa) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp) | [Aponte para o Amor](https://open.spotify.com/album/6L57HZXTfINznVAuKzC9DQ) | 3:15 | 2022-07-15 |  |
 | [Herói Made In Brazil](https://open.spotify.com/track/52liB1QyL7lMJ9MuaxFTG7) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Herói Made In Brazil](https://open.spotify.com/album/4EZKHk2601rGKn8zeRhWbz) | 4:20 | 2022-03-25 | 2022-04-02 |
 | [Heróis](https://open.spotify.com/track/01OpgNtN21P2nqUMTkRwN0) | [Lemak](https://open.spotify.com/artist/1DCcKAbUBRbTURZ6x8A7qx), [Rádio Moscou](https://open.spotify.com/artist/31VICQtQGiuRd39wIJTHPH) | [Heróis](https://open.spotify.com/album/1zruPtXvZdq143cxRar34i) | 3:26 | 2022-01-14 |  |
-| [Hey, Babe](https://open.spotify.com/track/1TUv8ap6Kr4ilS1nKBAH4l) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Hey, Babe](https://open.spotify.com/album/2EeHe5LaOe1diWalr9K4iT) | 3:42 | 2022-05-20 | 2022-06-04 |
+| [Hey, Babe](https://open.spotify.com/track/1TUv8ap6Kr4ilS1nKBAH4l) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Hey, Babe](https://open.spotify.com/album/2EeHe5LaOe1diWalr9K4iT) | 3:42 | 2022-05-20 |  |
 | [Hipnose](https://open.spotify.com/track/7FeR0yVfu44pb0AzaCjep6) | [Orbtao](https://open.spotify.com/artist/0YdpMujOaWAFADHmO9mpED) | [Transitando a Olho Nu](https://open.spotify.com/album/6ucz37FZZk8WinxGpe8FwQ) | 3:03 | 2022-04-15 |  |
 | [Hora do Brasil](https://open.spotify.com/track/1oFIcBntvDjPU1tZ0yNYIN) | [Notívagos](https://open.spotify.com/artist/0llzGPxlorxbuUUwg04Emr) | [Hora do Brasil](https://open.spotify.com/album/73UFcMw5mHNqu682gX6vqx) | 3:15 | 2022-01-14 |  |
 | [Impossível de Ser Assim](https://open.spotify.com/track/2YRkVJ8oEfXME75J8DRsZh) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Impossível de Ser Assim](https://open.spotify.com/album/6Z0DzOwJwVCUlMhfjsmJd2) | 3:12 | 2022-01-14 | 2022-04-29 |
@@ -156,7 +156,7 @@
 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 | 2022-01-14 |  |
 | [Quase Perfeito](https://open.spotify.com/track/6uoeSnJvGJuLWaC5z1eG4X) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Quase Perfeito](https://open.spotify.com/album/03mhwPYhBSC24PVjOQEvuF) | 2:43 | 2022-06-24 | 2022-07-06 |
 | [Queda Livre](https://open.spotify.com/track/6bbJfRj9tp9BN2FTqqKzIB) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 2](https://open.spotify.com/album/6o0zg6G1XY9KqwyTPmZCsV) | 3:40 | 2022-07-08 |  |
-| [Queima!](https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Queima!](https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h) | 2:30 | 2022-07-29 |  |
+| [Queima!](https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Queima!](https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h) | 2:30 | 2022-07-29 | 2022-08-02 |
 | [Quero Ser Eu Mesmo](https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN), [Samurai Ghile](https://open.spotify.com/artist/3kSm6WL86cVmLKLTFS3G6N) | [Quero Ser Eu Mesmo](https://open.spotify.com/album/04YbltMjXDT4Kmv07nbxXO) | 3:26 | 2022-01-14 | 2022-04-16 |
 | [raiva](https://open.spotify.com/track/5ohmUHZRVYckbotO3zP30w) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [raiva](https://open.spotify.com/album/3ahG4lLXnrvZjc9Sb89BP1) | 3:15 | 2022-05-20 |  |
 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 | 2022-01-14 |  |
@@ -167,7 +167,7 @@
 | [Sangue Sujo](https://open.spotify.com/track/5dQw3OmCf8HaTtsom1DavG) | [Os Replicantes](https://open.spotify.com/artist/6hP7JNm3e4E0c5bldlKlO6) | [Demo Tape 2008](https://open.spotify.com/album/5qFyxN4UEQJ1KcT0NBomeg) | 3:55 | 2022-05-20 | 2022-06-04 |
 | [Se Divertir](https://open.spotify.com/track/0SlGvj1SPXarziNUdQpOcD) | [Terra Celta](https://open.spotify.com/artist/2DBsooS9qDY79dtnqMBRuF) | [Se Divertir](https://open.spotify.com/album/6lrWb8lGht50fWq6PbHDo9) | 6:13 | 2022-03-18 | 2022-03-26 |
 | [Se Lembrar de Mim](https://open.spotify.com/track/13JRJM8CcGhyTzgGCiAFWf) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Se Lembrar de Mim](https://open.spotify.com/album/4ow3axuDmPUKCnUXH3imuM) | 3:09 | 2022-04-29 | 2022-05-14 |
-| [Selva de Concreto](https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Selva de Concreto](https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n) | 3:32 | 2022-05-20 |  |
+| [Selva de Concreto](https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Selva de Concreto](https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n) | 3:32 | 2022-05-20 | 2022-08-02 |
 | [Sem Pensar \- Ao Vivo](https://open.spotify.com/track/4B8ZYIPUh7YKNrYpzb8TLo) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Sem Pensar \(Ao Vivo\)](https://open.spotify.com/album/6MOUKlQW1Qslv0uTPIn9fX) | 3:32 | 2022-01-14 | 2022-02-05 |
 | [sem rumo](https://open.spotify.com/track/5dK4KjIqd60Y0W3rivvSgP) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sem rumo](https://open.spotify.com/album/4Y9ZIUWf8hnvsMi5GAyUVf) | 4:27 | 2022-01-14 | 2022-02-05 |
 | [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 | 2022-06-24 | 2022-07-16 |
@@ -186,6 +186,7 @@
 | [Trem](https://open.spotify.com/track/1nRjROWexBREzWAMz0KgEu) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Trem](https://open.spotify.com/album/6DUBL8znMB5eXC9NVbZ04t) | 5:10 | 2022-01-14 | 2022-04-23 |
 | [Tudo Destruído](https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Tudo Destruído](https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp) | 3:09 | 2022-05-27 |  |
 | [Tudo Vale A Pena?](https://open.spotify.com/track/7z2BlOn5mRJiRaXQb6e8Ef) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP), [Sérgio Britto](https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI) | [Tudo Vale A Pena?](https://open.spotify.com/album/5MTUG2PWhhgLcN22r6Y4kV) | 3:26 | 2022-07-15 |  |
+| [UM BRINDE](https://open.spotify.com/track/31QQG8R4qmLQjIDoguBCzZ) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 2:47 | 2022-08-01 |  |
 | [UM CUPIDO ME FLECHOU](https://open.spotify.com/track/2oebIxdd8SZpGmdRsU90Bd) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [UM CUPIDO ME FLECHOU](https://open.spotify.com/album/3MqwDkJ5JdvYrKNzaTINia) | 2:22 | 2022-07-01 |  |
 | [Um Segundo a +](https://open.spotify.com/track/73JqxNvW3ZHv2TcTI1kh6q) | [Estação 77](https://open.spotify.com/artist/3upWS8cr9YTI656ZTuwUem) | [Um Segundo a +](https://open.spotify.com/album/6eNgn576a5qQmsMMGXssL2) | 2:42 | 2022-01-14 |  |
 | [Um Tempo](https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Um Tempo](https://open.spotify.com/album/05aOvLoWx7xOIrnomiqCeV) | 3:30 | 2022-01-14 | 2022-04-02 |

@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-70 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+71 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,5 +78,6 @@
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
 | [Worship](https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY) | [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU) | [Worship](https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF) | 4:26 | 2022-07-08 |  |
 | [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 |  |
+| [You and I](https://open.spotify.com/track/3vulAtIt4ZWhugoTDpD7ak) | [LLOYD PAUL](https://open.spotify.com/artist/2SjfyRr3Jg4w0DL4kKmxTH), [BRUNAJ](https://open.spotify.com/artist/7j9wSYmlFpmTjMOEvBQsrk) | [You and I](https://open.spotify.com/album/3NdL9odlpnHutVVFlPtIfZ) | 3:03 | 2022-08-01 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

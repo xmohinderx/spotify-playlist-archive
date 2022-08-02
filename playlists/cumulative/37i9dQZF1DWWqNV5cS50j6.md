@@ -4,7 +4,7 @@
 
 > Indie music antimatter\. Cover: brakence
 
-1,040 songs - 2 day 2 hr 32 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,041 songs - 2 day 2 hr 36 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,6 +737,7 @@
 | [RACECAR](https://open.spotify.com/track/7JdarpX08FLhmfNZpxqgUO) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [WELCOME HOME](https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc) | 2:37 | 2020-10-13\* | 2020-11-03 |
 | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/track/4hie5sbZpqiMzzZY25dOVp) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:50 | 2020-10-13\* | 2021-01-23 |
 | [Rainbow Bap](https://open.spotify.com/track/5xAOiPReWwiepAJWmLQDYZ) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Rainbow Bap](https://open.spotify.com/album/4uYYweXMMvr8K5OAkpquRG) | 4:40 | 2020-10-13\* | 2021-05-03 |
+| [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2022-08-01 |  |
 | [Rapture](https://open.spotify.com/track/2YD9JIchaD9JfWrdSKBQcg) | [David Wolves](https://open.spotify.com/artist/0mejDRXAzKjEa0PT239f29) | [VIOLENT](https://open.spotify.com/album/0HjenmKj15BTab56NaHMpp) | 4:49 | 2022-02-04 | 2022-05-10 |
 | [Rapture in Blue](https://open.spotify.com/track/70nSRYtNo2blmYYAZV4tui) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love \(Deluxe\)](https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO) | 2:24 | 2022-02-28 | 2022-03-04 |
 | [Rapture in Blue](https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Rapture in Blue](https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy) | 2:24 | 2022-01-14 | 2022-03-01 |

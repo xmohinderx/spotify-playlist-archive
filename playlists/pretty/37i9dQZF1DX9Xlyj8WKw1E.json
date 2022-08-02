@@ -1,32 +1,32 @@
 {
   "description": "Midwest music breaking waves. PGF NUK",
-  "num_followers": 2177,
+  "num_followers": 2182,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUxOTk2NSwwMDAwMDAwMGFmMWU1YzY5ZmQxNTUxNWVjMTk2NmFlY2U3NjM2NDY4",
+  "snapshot_id": "MTY1OTM2NDA5MCwwMDAwMDAwMDBlODdkMTc5MTA1OWIzOWQ2MTc3NTQ1ODEwNDNlYmEx",
   "tracks": [
     {
-      "added_at": "2022-07-22 19:59:25",
+      "added_at": "2022-08-01 14:28:10",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn"
+        "name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa"
       },
       "artists": [
         {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
         },
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 173987,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
+      "duration_ms": 194560,
+      "name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z"
     },
     {
       "added_at": "2022-07-18 21:46:49",
@@ -47,6 +47,26 @@
       "duration_ms": 212960,
       "name": "Waddup (Swervo Mix) (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4i1LWSslhvIyS9IKBWcxl5"
+    },
+    {
+      "added_at": "2022-07-22 19:59:25",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
     },
     {
       "added_at": "2022-07-18 21:46:49",
@@ -87,30 +107,6 @@
       "duration_ms": 231085,
       "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
       "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"
-    },
-    {
-      "added_at": "2022-07-18 21:46:49",
-      "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2022-07-01 03:55:56",
@@ -163,18 +159,26 @@
     {
       "added_at": "2022-07-18 21:46:49",
       "album": {
-        "name": "It's Up",
-        "url": "https://open.spotify.com/album/6pR1DHdUWyihfwqL01WeLk"
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
       "artists": [
         {
-          "name": "Lil Zay Osama",
-          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 104613,
-      "name": "It's Up",
-      "url": "https://open.spotify.com/track/0AhrUFYzHDz0K6bckowtmt"
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2022-06-07 21:57:42",
@@ -211,6 +215,22 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2022-08-01 14:28:10",
+      "album": {
+        "name": "CATCH ME IF YOU CAN",
+        "url": "https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "duration_ms": 156543,
+      "name": "FOOT ON NECK",
+      "url": "https://open.spotify.com/track/3MJ3z0VOd9pzRXbQIA4Lmf"
     },
     {
       "added_at": "2022-07-22 19:59:25",
@@ -251,34 +271,6 @@
       "duration_ms": 204750,
       "name": "GENGAR",
       "url": "https://open.spotify.com/track/67aZ6BmM33bI7yEcleZOgg"
-    },
-    {
-      "added_at": "2022-07-22 19:59:25",
-      "album": {
-        "name": "Down Bad (feat. Ivory Scott)",
-        "url": "https://open.spotify.com/album/1f8Buk5BLXSzIJ4ycOhpjz"
-      },
-      "artists": [
-        {
-          "name": "Hitmaka",
-          "url": "https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Ivory Scott",
-          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
-        }
-      ],
-      "duration_ms": 130505,
-      "name": "Down Bad (feat. Ivory Scott)",
-      "url": "https://open.spotify.com/track/1MGxL5Z0Jebu8EkOMjfcMe"
     },
     {
       "added_at": "2022-07-01 03:55:56",
@@ -477,26 +469,6 @@
       "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
     },
     {
-      "added_at": "2022-04-29 17:32:29",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "KEEP IT BURNIN (feat. Kanye West)",
-      "url": "https://open.spotify.com/track/7rWCWzPRftzZTZtIyQtaDU"
-    },
-    {
       "added_at": "2022-07-01 03:55:56",
       "album": {
         "name": "Drive By",
@@ -519,6 +491,22 @@
       "duration_ms": 221094,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/6THXudILWQ4VZQ3mganpt8"
+    },
+    {
+      "added_at": "2022-08-01 14:28:10",
+      "album": {
+        "name": "Hustler Vs. Scammer",
+        "url": "https://open.spotify.com/album/06WD1dBDmLfc5XMBHUsHbG"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "duration_ms": 117237,
+      "name": "Hustler Vs. Scammer",
+      "url": "https://open.spotify.com/track/34IvlsOoRhdEtBm53y9Sh6"
     },
     {
       "added_at": "2022-06-07 21:57:42",
@@ -585,28 +573,20 @@
       "url": "https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T"
     },
     {
-      "added_at": "2022-07-01 03:55:56",
+      "added_at": "2022-08-01 14:28:10",
       "album": {
-        "name": "CRUNKSTAR",
-        "url": "https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV"
+        "name": "Vier",
+        "url": "https://open.spotify.com/album/4ygFnoFAaK7itvJnopevQO"
       },
       "artists": [
         {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
         }
       ],
-      "duration_ms": 250282,
-      "name": "MONEY BANDANNA (feat. DOE BOY & BABY FACE RAY)",
-      "url": "https://open.spotify.com/track/7xiTieWJbhZbT0xJB8djKD"
+      "duration_ms": 163137,
+      "name": "Private Matter",
+      "url": "https://open.spotify.com/track/2mLXfDjh2F75PyfmZc0ZRc"
     },
     {
       "added_at": "2022-06-07 21:57:42",
@@ -647,22 +627,6 @@
     {
       "added_at": "2022-07-01 03:55:56",
       "album": {
-        "name": "Daddy Issues",
-        "url": "https://open.spotify.com/album/3xlufhdQ1AnwtwD2IuvIz6"
-      },
-      "artists": [
-        {
-          "name": "Pretty Brayah",
-          "url": "https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb"
-        }
-      ],
-      "duration_ms": 158746,
-      "name": "Sneaky Link",
-      "url": "https://open.spotify.com/track/2CNJfTUzkmIXnzRKWmp881"
-    },
-    {
-      "added_at": "2022-07-01 03:55:56",
-      "album": {
         "name": "Step 1",
         "url": "https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf"
       },
@@ -679,6 +643,30 @@
       "duration_ms": 177731,
       "name": "Step 1 (with Offset)",
       "url": "https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS"
+    },
+    {
+      "added_at": "2022-08-01 14:28:10",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/5UsPv8xhVsRB7htl7Bc6qj"
+      },
+      "artists": [
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "Keara Alyse",
+          "url": "https://open.spotify.com/artist/02H48vsx5HKCncQp9pJRya"
+        },
+        {
+          "name": "DJ Yung 1",
+          "url": "https://open.spotify.com/artist/4DhI0jf08AoCtHTKkt1PTD"
+        }
+      ],
+      "duration_ms": 161139,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/1AhsFz02X7WPTUzWym9Tam"
     },
     {
       "added_at": "2022-07-18 21:46:49",
@@ -737,6 +725,22 @@
       "url": "https://open.spotify.com/track/7CG8yhP3ybtiNsZjfyjOv0"
     },
     {
+      "added_at": "2022-08-01 14:28:10",
+      "album": {
+        "name": "Do That for Me",
+        "url": "https://open.spotify.com/album/7fmyP5Fx55d3umiGGN0gpf"
+      },
+      "artists": [
+        {
+          "name": "Young Roc",
+          "url": "https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ"
+        }
+      ],
+      "duration_ms": 140064,
+      "name": "Do That for Me",
+      "url": "https://open.spotify.com/track/4yY6i7uuZ1wD6FUYikUG2c"
+    },
+    {
       "added_at": "2022-07-18 21:46:49",
       "album": {
         "name": "broken",
@@ -751,6 +755,26 @@
       "duration_ms": 154885,
       "name": "broken",
       "url": "https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja"
+    },
+    {
+      "added_at": "2022-08-01 14:28:10",
+      "album": {
+        "name": "Pussy",
+        "url": "https://open.spotify.com/album/7CzOnnleudNddTigDbqEOa"
+      },
+      "artists": [
+        {
+          "name": "King Louie",
+          "url": "https://open.spotify.com/artist/7yd1ITel4z3jXwEFinWmGN"
+        },
+        {
+          "name": "Leek",
+          "url": "https://open.spotify.com/artist/46RgZuldvSGy8Sclx6no0U"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/0ysbK0QNV5IzEndiTtth0T"
     },
     {
       "added_at": "2022-06-07 21:57:42",
@@ -867,30 +891,6 @@
       "duration_ms": 146519,
       "name": "Troo",
       "url": "https://open.spotify.com/track/5VkGkl11NE2lw2z1yCqwXh"
-    },
-    {
-      "added_at": "2022-07-22 19:59:25",
-      "album": {
-        "name": "The Sky",
-        "url": "https://open.spotify.com/album/7zEmKwxwqbVnWqzaoVu1dm"
-      },
-      "artists": [
-        {
-          "name": "Mark Battles",
-          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
-        },
-        {
-          "name": "Redd Simpkins",
-          "url": "https://open.spotify.com/artist/5N7CQIKm0Ln8p6z5Jo4m3v"
-        },
-        {
-          "name": "Yd",
-          "url": "https://open.spotify.com/artist/3IkUR4T3vqGtLqMEccMrho"
-        }
-      ],
-      "duration_ms": 175610,
-      "name": "The Sky",
-      "url": "https://open.spotify.com/track/24yvC3Ly4CCOAqE8OXjHBy"
     },
     {
       "added_at": "2022-03-04 18:28:49",

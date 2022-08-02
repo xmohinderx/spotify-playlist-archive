@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2010! Cover: Bruno Mars",
-  "num_followers": 4695,
+  "num_followers": 4697,
   "original_name": "Le Hit Del 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDE5OSwwMDAwMDAwMGU3NDEyN2I3MDYzOTNkZTA3MTY0NWQ2ZTUyYTY0N2Rl",
+  "snapshot_id": "MTYwNDUwMDE5OSwwMDAwMDAwMGQ3YmMyZGYyMTIwNDhhZDkyOTVhYzczYjk1OGYyYjU2",
   "tracks": [
     {
       "added_at": "2020-11-04 14:29:59",
@@ -519,6 +519,22 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
         "name": "Zaz",
         "url": "https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 231786,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/4nVyHATevhl5RC6Qmoko5H"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 274213,
-      "name": "Alejandro",
-      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "She Wolf (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/3FESsHW8mAuiIsYpK6aJ6u"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
         "name": "2C2C",
         "url": "https://open.spotify.com/album/2QZokHy4nyBsOySWxoBI5x"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 287506,
       "name": "Mondo (feat. Jovanotti) - Remastered 2019",
       "url": "https://open.spotify.com/track/43jktIPo6WCtUZacyoTqpd"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
+        "name": "She Wolf (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/3FESsHW8mAuiIsYpK6aJ6u"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "Head First",
-        "url": "https://open.spotify.com/album/1wwazNvPsfWfQU6vkmZiR4"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/1AWObBqIxRl6GoGu5uCVkx"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
         "name": "Mod\u00e0 2004 - 2014 L'Originale",
         "url": "https://open.spotify.com/album/4PW5FUWDk0kdselXPHiq7y"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "Night Work",
-        "url": "https://open.spotify.com/album/60reR4muRZj5MRsI9giZjk"
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/1wwazNvPsfWfQU6vkmZiR4"
       },
       "artists": [
         {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
         }
       ],
-      "duration_ms": 253173,
-      "name": "Fire With Fire",
-      "url": "https://open.spotify.com/track/5iisd7hdraB6hwI47W2jz8"
+      "duration_ms": 231333,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/1AWObBqIxRl6GoGu5uCVkx"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "Eliza Doolittle",
-        "url": "https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe"
+        "name": "Night Work",
+        "url": "https://open.spotify.com/album/60reR4muRZj5MRsI9giZjk"
       },
       "artists": [
         {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Pack Up",
-      "url": "https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb"
+      "duration_ms": 253173,
+      "name": "Fire With Fire",
+      "url": "https://open.spotify.com/track/5iisd7hdraB6hwI47W2jz8"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1419,6 +1403,22 @@
       "duration_ms": 192053,
       "name": "Per tutta la vita",
       "url": "https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
+        "name": "Eliza Doolittle",
+        "url": "https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe"
+      },
+      "artists": [
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Pack Up",
+      "url": "https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "Alle porte del sogno",
-        "url": "https://open.spotify.com/album/5tieSZcVagH4d9jdVaJ79w"
-      },
-      "artists": [
-        {
-          "name": "Irene Grandi",
-          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
-        }
-      ],
-      "duration_ms": 232388,
-      "name": "La cometa di Halley",
-      "url": "https://open.spotify.com/track/0SrP7bWzZzT78obX4MRCBg"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
         "name": "C'eravamo tanto odiati",
         "url": "https://open.spotify.com/album/74anEVpxxV7P1pJpz9WGJ5"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 256760,
       "name": "Fare a meno di te",
       "url": "https://open.spotify.com/track/2r9F9jgBfQEKJyuqnTpM8Y"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
+        "name": "Alle porte del sogno",
+        "url": "https://open.spotify.com/album/5tieSZcVagH4d9jdVaJ79w"
+      },
+      "artists": [
+        {
+          "name": "Irene Grandi",
+          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
+        }
+      ],
+      "duration_ms": 232388,
+      "name": "La cometa di Halley",
+      "url": "https://open.spotify.com/track/0SrP7bWzZzT78obX4MRCBg"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "Alle porte del sogno",
-        "url": "https://open.spotify.com/album/5tieSZcVagH4d9jdVaJ79w"
-      },
-      "artists": [
-        {
-          "name": "Irene Grandi",
-          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
-        }
-      ],
-      "duration_ms": 224749,
-      "name": "Alle porte del sogno",
-      "url": "https://open.spotify.com/track/0BUgplh0pOdWmXmoYjCW7k"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
         "name": "Stronger withEach Tear",
         "url": "https://open.spotify.com/album/2iy4MXWRu0roV5N7u2GBZk"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 181016,
       "name": "Malamoren\u00f2",
       "url": "https://open.spotify.com/track/53ehR92whzj2enxnuWsOIw"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
+        "name": "Alle porte del sogno",
+        "url": "https://open.spotify.com/album/5tieSZcVagH4d9jdVaJ79w"
+      },
+      "artists": [
+        {
+          "name": "Irene Grandi",
+          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
+        }
+      ],
+      "duration_ms": 224749,
+      "name": "Alle porte del sogno",
+      "url": "https://open.spotify.com/track/0BUgplh0pOdWmXmoYjCW7k"
     }
   ],
   "unique_name": "Le Hit Del 2010",

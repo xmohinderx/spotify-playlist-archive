@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Tiago PZK
 
-150 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+152 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 | 2021-12-13 |  |
 | [Loop](https://open.spotify.com/track/3w3aUB2r1gcAeO8OsBTtjN) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Loop](https://open.spotify.com/album/3yNmliCH10IlyFsMRUk564) | 2:40 | 2021-12-13 | 2022-07-29 |
 | [Loop](https://open.spotify.com/track/5wIplDRMg13vvFOmkLOPwG) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/3Qp9rzY87PqpkcYh3ePpCa) | 2:40 | 2022-07-22 |  |
+| [Luces De Tokyo](https://open.spotify.com/track/5o9L3Gpg5TZx5pKfKztBLa) | [B.A.M](https://open.spotify.com/artist/1eSpKHplhQCnjokd9wvAlV), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Luces De Tokyo](https://open.spotify.com/album/2stpbyfmnwBCbxktTLBppi) | 3:38 | 2022-08-01 |  |
 | [Luz de Luna](https://open.spotify.com/track/0iA0fZPjdfsc7cmlL164Qg) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO) | [Fuego](https://open.spotify.com/album/42myA7rDKd1QWWMATQldju) | 4:39 | 2021-12-13 |  |
 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 | 2022-04-18 |  |
 | [Margaritas](https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Margaritas](https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2) | 2:46 | 2021-12-13 | 2022-01-13 |
@@ -114,7 +115,7 @@
 | [Otra Vez](https://open.spotify.com/track/5uaemjcyPUf8tE6TwnQWtr) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/7elv2otFkZlylI55zFPIDP) | 3:12 | 2021-12-13 | 2022-07-29 |
 | [Otra Vez](https://open.spotify.com/track/39ODVcFAUYHCPE1qOlrJqe) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu), [X3ON](https://open.spotify.com/artist/5EmpZL6gdhcyNuTRlyBdu6) | [Otra Vez](https://open.spotify.com/album/086d5t5KWRaHqyZTPnqfI4) | 3:12 | 2022-07-22 |  |
 | [Para Dos](https://open.spotify.com/track/32UUJ4GlnEzQ6S7OlUxC8P) | [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [Para Dos](https://open.spotify.com/album/1BncYNNGSaBgFKDJEdDCS9) | 2:37 | 2021-12-13 | 2022-05-13 |
-| [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-02-04 |  |
+| [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-02-04 | 2022-08-02 |
 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 | 2021-12-13 | 2022-01-29 |
 | [Pieles](https://open.spotify.com/track/53P2WWtGXFQFyxS8u93RHK) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Pieles](https://open.spotify.com/album/1uMhYncnSaolYPFuA15Y0R) | 2:51 | 2021-12-13 |  |
 | [Poco a Poco](https://open.spotify.com/track/3e15NJd8BBsJnH3i0TazGl) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Poco a Poco](https://open.spotify.com/album/0FLcWLgnOawb7flfHAabBk) | 3:20 | 2022-03-07 |  |
@@ -153,10 +154,11 @@
 | [Tírame Un Hello \- Remix](https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tírame Un Hello \(Remix\)](https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx) | 2:49 | 2022-02-28 |  |
 | [Tóxico](https://open.spotify.com/track/2L2fv02jz6It9vWAyWiccb) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Tóxico](https://open.spotify.com/album/61HvOB4NvnJOcfP1T4vbXb) | 2:33 | 2021-12-13 |  |
 | [Verte](https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Verte](https://open.spotify.com/album/0lR6GCdnyfY3kela8SCWdS) | 3:35 | 2021-12-13 | 2022-01-29 |
+| [vienes y te vas :\|](https://open.spotify.com/track/7JYmphizKecTyAicTJYgco) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [vienes y te vas :\|](https://open.spotify.com/album/6BhQ6hPpS3saH0zGNdXIrU) | 3:09 | 2022-08-01 |  |
 | [Vuelve](https://open.spotify.com/track/2NTW4OAxduyf9PmLhMZxZ5) | [Lula Miranda](https://open.spotify.com/artist/5QdliCUikV62vIkzFJV2IR), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Vuelve](https://open.spotify.com/album/4d0PIi01cYvFx7Ew1qCl8a) | 3:37 | 2022-03-11 |  |
 | [Wiken](https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wiken](https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP) | 3:43 | 2021-12-13 |  |
 | [Yo sigo aquí](https://open.spotify.com/track/1MRoHyLRphJUWL2hmVC9VN) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Yo sigo aquí](https://open.spotify.com/album/4yAlIlVC8mk5tLKAGxf9cd) | 3:28 | 2021-12-13 | 2022-03-09 |
-| [Zaï](https://open.spotify.com/track/1oXr8VGtgPHF3niV9lA21u) | [BFlecha](https://open.spotify.com/artist/269q1RiWEIZ2IwKRF0jXNO) | [Vacío / Zaï](https://open.spotify.com/album/3Mse1uCmatA3uZmCAIwgY3) | 3:04 | 2021-12-13 |  |
+| [Zaï](https://open.spotify.com/track/1oXr8VGtgPHF3niV9lA21u) | [BFlecha](https://open.spotify.com/artist/269q1RiWEIZ2IwKRF0jXNO) | [Vacío / Zaï](https://open.spotify.com/album/3Mse1uCmatA3uZmCAIwgY3) | 3:04 | 2021-12-13 | 2022-08-02 |
 | [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-14 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

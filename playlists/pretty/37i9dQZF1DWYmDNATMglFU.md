@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. Huddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,585 likes - 84 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,624 likes - 84 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

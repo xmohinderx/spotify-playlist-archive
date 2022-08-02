@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,133 likes - 46 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,177 likes - 46 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 23 | [Skin It Back](https://open.spotify.com/track/4660oWp7DdhrJPcugJpKEQ) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 4:12 |
 | 24 | [Tripping Billies](https://open.spotify.com/track/4fXoeBGrVWfNKpdcmL8tw6) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:00 |
 | 25 | [In Memory Of Elizabeth Reed](https://open.spotify.com/track/23KUlJNvJmKrRVmo3XBvxM) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T) | 6:59 |
-| 26 | [I Wanna Ride You](https://open.spotify.com/track/1zJDoUYkc0nEE0uCeWOphX) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Uninvisible](https://open.spotify.com/album/0Vq79tx5GtV8hxrTccSguA) | 3:28 |
-| 27 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 26 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 27 | [I Wanna Ride You](https://open.spotify.com/track/1zJDoUYkc0nEE0uCeWOphX) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Uninvisible](https://open.spotify.com/album/0Vq79tx5GtV8hxrTccSguA) | 3:28 |
 | 28 | [I Want to Take You Higher](https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 5:22 |
 | 29 | [Paint It, Black](https://open.spotify.com/track/0hBZCHzVNvboVLWS7aNKRO) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:22 |
 | 30 | [Message In A Bottle](https://open.spotify.com/track/7A27Rj3872xK0LcUMI8aAl) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:49 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 33 | [Madison Square](https://open.spotify.com/track/0W4kbKzbiZl3XV98Hb84tT) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:16 |
 | 34 | [First Tube](https://open.spotify.com/track/0pVKmDcMdrbiiGqsztIcL3) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Farmhouse](https://open.spotify.com/album/63pJMk3S5vS5e8wrInkDhi) | 6:45 |
 | 35 | [2112 Overture / The Temples Of Syrinx](https://open.spotify.com/track/6Po9FqcwIJq4xQtNZVXY6v) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Chronicles](https://open.spotify.com/album/5mf2xdvPd0I88j9jxUWMNM) | 6:45 |
-| 36 | [Funky Drummer \- Bonus Beat Reprise](https://open.spotify.com/track/0u84hZFHLRZc9TgdDIOXLU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 2:56 |
-| 37 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 |
+| 36 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 |
+| 37 | [Funky Drummer \- Bonus Beat Reprise](https://open.spotify.com/track/0u84hZFHLRZc9TgdDIOXLU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 2:56 |
 | 38 | [Him Belly No Go Sweet](https://open.spotify.com/track/23mGLE0XzRu6kwf3Phzvhc) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/2iS8BbypqWnaU4GlJQlJAF) | 6:55 |
 | 39 | [A Quick One While He's Away \- Live "Rock And Roll Circus" Version](https://open.spotify.com/track/0J2ykLMJWeJzc46T7mx0XW) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 7:24 |
 | 40 | [Scent of a Mule](https://open.spotify.com/track/4YNh0ccitCOE0kwp7cKvPY) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hoist](https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf) | 4:02 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 45 | [Soul Sacrifice \- Live](https://open.spotify.com/track/258S3Wyb21XJLasu0NcBUF) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/5GHkjPVlwVaHIqI5e2O9rV) | 4:52 |
 | 46 | [The Oh Kee Pa Ceremony \- Live in Brooklyn](https://open.spotify.com/track/174K2TV5eQ2pxtr83emEVL) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 1:47 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDFmZjVlYzVmNDIwMjg1NDk4ZWIwYWY2Mzc0MTVjNzVk`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDUzM2Q0OGQ4ZWQ3NmFiMzdlZjczZTM2M2Q0MDY0ZThm`

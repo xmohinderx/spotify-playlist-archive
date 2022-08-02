@@ -2367,7 +2367,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 230960,
       "name": "Sleep When I'm Dead",
       "url": "https://open.spotify.com/track/0UZCGE8Uk1rmDRHqrGIVa9"
@@ -2433,6 +2433,24 @@
       "duration_ms": 246320,
       "name": "Solo un volo",
       "url": "https://open.spotify.com/track/0x0lXpFQXD6TsIVpzQMvR7"
+    },
+    {
+      "album": {
+        "name": "e2",
+        "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273853,
+      "name": "Somos Grandes O No (Ci Parliamo Da Grandi)",
+      "url": "https://open.spotify.com/track/2h5xzVCfHSG66Dg4IXATXj"
     },
     {
       "album": {

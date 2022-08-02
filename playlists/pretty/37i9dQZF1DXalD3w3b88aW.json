@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 10216,
+  "num_followers": 10223,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNzA2MjcwNCwwMDAwMDAwMDQyMjBhZDI5OGY2YWFjMjI2ZDBmNDJjNTE5MDYwNTY3",
+  "snapshot_id": "MTYyNzA2MjcwNCwwMDAwMDAwMDY4MWM3NmNkNGIyZTViY2VkOTBiZDA5ODZhNGZhNGU1",
   "tracks": [
     {
       "added_at": "2020-09-30 16:37:26",
@@ -149,22 +149,6 @@
       "url": "https://open.spotify.com/track/1BSZGNpIm2nBt1hWSK2bRp"
     },
     {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 64626,
-      "name": "Superstar - Interlude",
-      "url": "https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB"
-    },
-    {
       "added_at": "2020-10-01 20:23:12",
       "album": {
         "name": "So Far Gone",
@@ -183,6 +167,22 @@
       "duration_ms": 139574,
       "name": "Bria's Interlude (feat. Omarion)",
       "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 64626,
+      "name": "Superstar - Interlude",
+      "url": "https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq"
     },
     {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "End",
+      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
+    },
+    {
       "added_at": "2021-07-01 22:52:38",
       "album": {
         "name": "Overgrown",
@@ -235,22 +251,6 @@
       "duration_ms": 80741,
       "name": "Kaytra's Interlude (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/5Sf02v5Q9Z9Ewfxmn69JOt"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "End",
-      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 94440,
-      "name": "Use Your Heart - Interlude",
-      "url": "https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Songs In A Minor (Expanded Edition)",
         "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "New Amerykah Part Two: Return Of The Ankh",
-        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
         }
       ],
-      "duration_ms": 64733,
-      "name": "You Loving Me (Session)",
-      "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
+      "duration_ms": 94440,
+      "name": "Use Your Heart - Interlude",
+      "url": "https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -447,6 +431,22 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
+        "name": "New Amerykah Part Two: Return Of The Ankh",
+        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 64733,
+      "name": "You Loving Me (Session)",
+      "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 76280,
       "name": "I Wanna Be Where You Are",
       "url": "https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Nobody Not Really (Interlude)",
+      "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -491,22 +507,6 @@
       "duration_ms": 118200,
       "name": "Q, Mike, Slim, Daron - Interlude",
       "url": "https://open.spotify.com/track/3GuliNti6PIEJoqUoPp8Wl"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Nobody Not Really (Interlude)",
-      "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Danity Kane",
-        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
-      },
-      "artists": [
-        {
-          "name": "Danity Kane",
-          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
-        }
-      ],
-      "duration_ms": 104093,
-      "name": "Come Over Interlude",
-      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 150226,
       "name": "Makings Of You - Interlude",
       "url": "https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Danity Kane",
+        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "duration_ms": 104093,
+      "name": "Come Over Interlude",
+      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 61866,
-      "name": "I Dedicate (Pt. 3)",
-      "url": "https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 110466,
       "name": "Sexy You (Interlude)",
       "url": "https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 61866,
+      "name": "I Dedicate (Pt. 3)",
+      "url": "https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -739,42 +739,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr"
-      },
-      "artists": [
-        {
-          "name": "Theophilus London",
-          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
-        },
-        {
-          "name": "Soko",
-          "url": "https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "Smoke (Interlude) (feat. Soko)",
-      "url": "https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 89066,
-      "name": "I Dedicate (Pt. 1)",
-      "url": "https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
@@ -803,6 +767,42 @@
       "duration_ms": 107733,
       "name": "Interlude (553-Nasty)",
       "url": "https://open.spotify.com/track/3ogLRGMQpt0VcsOrgItCSb"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 89066,
+      "name": "I Dedicate (Pt. 1)",
+      "url": "https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr"
+      },
+      "artists": [
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Soko",
+          "url": "https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "Smoke (Interlude) (feat. Soko)",
+      "url": "https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -875,18 +875,18 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 74173,
-      "name": "I Surrender - Interlude",
-      "url": "https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ"
+      "duration_ms": 130693,
+      "name": "Room 454: De Vante's \" Inhermission\"",
+      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -907,6 +907,22 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 74173,
+      "name": "I Surrender - Interlude",
+      "url": "https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
         "name": "Subject",
         "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 216320,
       "name": "Whoomp (Interlude)",
       "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 116306,
-      "name": "Stay (Interlude)",
-      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
     },
     {
       "added_at": "2021-07-23 17:51:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 130693,
-      "name": "Room 454: De Vante's \" Inhermission\"",
-      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Miss Thang",
         "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 97240,
       "name": "Woman In Me - Interlude",
       "url": "https://open.spotify.com/track/043ZLCXdYqnD8TK0UkLBNK"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Usher",
+        "url": "https://open.spotify.com/album/0euolARSHQGtySLAWUvilr"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Interlude 2 (Can't Stop)",
+      "url": "https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Usher",
-        "url": "https://open.spotify.com/album/0euolARSHQGtySLAWUvilr"
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 162240,
-      "name": "Interlude 2 (Can't Stop)",
-      "url": "https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk"
+      "duration_ms": 116306,
+      "name": "Stay (Interlude)",
+      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
     },
     {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 61093,
-      "name": "Special Place - Interlude",
-      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
-    },
-    {
       "added_at": "2020-09-30 16:45:30",
       "album": {
         "name": "The Beauty Created",
@@ -1127,6 +1111,22 @@
       "duration_ms": 158030,
       "name": "There Will Be No Fuck Tonight (Interlude)",
       "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 61093,
+      "name": "Special Place - Interlude",
+      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
     },
     {
       "added_at": "2020-09-30 16:37:26",

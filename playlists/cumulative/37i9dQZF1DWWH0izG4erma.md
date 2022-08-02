@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS!!  <br/>Cover: Randy Houser
+> Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
 
 173 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 

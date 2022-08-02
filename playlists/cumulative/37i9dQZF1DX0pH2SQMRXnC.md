@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-442 songs - 1 day 1 hr 51 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
+443 songs - 1 day 1 hr 54 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Good Times](https://open.spotify.com/track/1DAERWYDdlSiRLCOr7vq9t) | [Necroformers](https://open.spotify.com/artist/3zMzp2r0t2tmgQ2TlrFtur) | [Good Times](https://open.spotify.com/album/1WZz6GbvaWU1RX1t3RUJuR) | 3:02 | 2021-12-16 | 2022-07-24 |
 | [Gucci Boii](https://open.spotify.com/track/1YEC2CQCqvvy4XoDChlxB0) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Forgotten Future](https://open.spotify.com/album/0mnEvrzyfOlpLW3xxS8xxL) | 3:29 | 2022-05-23 | 2022-05-30 |
 | [HALO](https://open.spotify.com/track/4R7k9w4XBSYSUhlmXFr4xm) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [HALO](https://open.spotify.com/album/0CdsPSUAFyI58HXxgQFLax) | 3:08 | 2021-12-16 | 2022-07-29 |
+| [HALO](https://open.spotify.com/track/5OnLWxxMNmTmXFaT8uRm3m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Renaissance Of Rave](https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz) | 3:08 | 2022-07-22 |  |
 | [Hammertime](https://open.spotify.com/track/5KgReCVMtv4Tsmt0Hb0Tyu) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Hammertime](https://open.spotify.com/album/1TUd6ubxSOTE8etAejyRkK) | 2:15 | 2021-12-16 | 2022-05-30 |
 | [Happy Place \(feat\. Cathrine Lassen\) \- Refuzion Remix](https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1), [Cathrine Lassen](https://open.spotify.com/artist/5i09Vd9N18qRJl2RcXODOp) | [Happy Place \(feat\. Cathrine Lassen\) \[Remixes\]](https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev) | 3:17 | 2021-12-16 |  |
 | [Hard 2 Hire](https://open.spotify.com/track/1OB78PnhUrUSmzDHgitVSD) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Hard 2 Hire](https://open.spotify.com/album/7fuqKRuqVsjekxjCpdMdly) | 4:01 | 2021-12-16 |  |
@@ -334,7 +335,7 @@
 | [Side Fx's](https://open.spotify.com/track/7fwYN5u0dYRNqshCjhJWDF) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Artificial Intoxication](https://open.spotify.com/album/1UzOa746jQMejJtvImrB5O) | 3:06 | 2022-04-26 | 2022-05-03 |
 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 | 2021-12-16 |  |
 | [Silently](https://open.spotify.com/track/34UvfSXQ04wpz1O2qflzXJ) | [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC) | [Silently](https://open.spotify.com/album/2ytBlkqmBsFBmnooLQeUi9) | 2:54 | 2022-03-24 | 2022-04-20 |
-| [Sinners Paradise](https://open.spotify.com/track/3zpOfaD3mZDnobX66g8hx6) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Sinners Paradise](https://open.spotify.com/album/0nTyKpGROZA2uxwUoHUGtZ) | 3:27 | 2021-12-16 |  |
+| [Sinners Paradise](https://open.spotify.com/track/3zpOfaD3mZDnobX66g8hx6) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Sinners Paradise](https://open.spotify.com/album/0nTyKpGROZA2uxwUoHUGtZ) | 3:27 | 2021-12-16 | 2022-08-02 |
 | [Slaves To The System](https://open.spotify.com/track/4WNpRHWCjNNKeqrPSbdkH4) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Slaves To The System](https://open.spotify.com/album/4t7GX4zaobtye1dT4oJ1L3) | 4:13 | 2021-12-28 | 2022-07-19 |
 | [Sleepless Nights](https://open.spotify.com/track/4hUgcnHG88227kHDlQLkwi) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Sleepless Nights](https://open.spotify.com/album/2SLpTMVddcRjcBTuSB5Abr) | 5:40 | 2021-12-16 | 2022-07-28 |
 | [Snatch](https://open.spotify.com/track/0yTzy8hWBrN0rLlM7oUF7L) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Snatch](https://open.spotify.com/album/0msKhN4mG47SotMWEqzqoo) | 3:01 | 2021-12-16 |  |

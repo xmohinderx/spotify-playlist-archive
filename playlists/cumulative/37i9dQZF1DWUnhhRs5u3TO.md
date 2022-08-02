@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-348 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
+349 songs - 1 day 1 hr 37 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Here Comes Revenge](https://open.spotify.com/track/4Ixe61Sv0WlxBhDjRtEgH3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 7:17 | 2022-07-13 | 2022-07-26 |
 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 | 2022-01-03 |  |
 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 | 2022-07-13 |  |
-| [Hold On](https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 2:57 | 2022-07-13 |  |
+| [Hold On](https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 2:57 | 2022-07-13 | 2022-08-02 |
 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2022-07-13 |  |
 | [Honest Eyes](https://open.spotify.com/track/0RcpgSqleSWsmhFi4LC1tA) | [Black Tide](https://open.spotify.com/artist/7wMYATkanaMX5FH4GMVZ4E) | [Post Mortem](https://open.spotify.com/album/4P5AnuXeQ8tQv9i0WVvJkq) | 3:54 | 2022-07-13 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/4quQVCnbwQ5kraewiIWFjV) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Tracing Back Roots](https://open.spotify.com/album/6sXe63cz9GMPey89TyoHya) | 4:08 | 2022-04-24 | 2022-07-28 |
@@ -210,6 +210,7 @@
 | [Perennial](https://open.spotify.com/track/2eqFIWCNNKU94iFUvBCOMR) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Micro](https://open.spotify.com/album/78FHhcWpJO7CGHUGhSCXVT) | 4:37 | 2022-07-13 | 2022-07-19 |
 | [Pisces](https://open.spotify.com/track/5t8NXa2fugcTPsTfhVILmS) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [King of Everything](https://open.spotify.com/album/34d5piioQWqO1vuqAHuFT1) | 5:05 | 2022-04-24 |  |
 | [Pisces](https://open.spotify.com/track/65NCSimdLk7UIWwOKJPOJB) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [King Of Everything](https://open.spotify.com/album/5tPsMHA3GY2q0HtcjNqf3p) | 5:05 | 2022-01-03 | 2022-07-29 |
+| [Planets](https://open.spotify.com/track/4BqYQ1WQ0GFE1xmIaduKLi) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:56 | 2022-07-13 |  |
 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 | 2022-01-03 |  |
 | [Preachers of Death](https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Strength in Numbers](https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN) | 4:55 | 2022-01-03 | 2022-07-29 |
 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 | 2022-01-03 |  |

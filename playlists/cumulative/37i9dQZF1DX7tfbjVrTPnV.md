@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-232 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
+233 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Down To The River To Pray \- From “O Brother, Where Art Thou” Soundtrack](https://open.spotify.com/track/3WJ8xIHrNTtP5YsXOqqyml) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [A Hundred Miles Or More: A Collection](https://open.spotify.com/album/2i3Fr0qXGyR57MfWNPcMKP) | 2:56 | 2022-04-22 |  |
 | [Down To The River To Pray \- From “O Brother, Where Art Thou” Soundtrack](https://open.spotify.com/track/5HVHKtP234OzwCSrZlVS30) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7mNWca5S6eg21krZzHAoZt) | 2:56 | 2021-11-11 | 2022-07-29 |
 | [Drinkin' Smokin' Cheatin'](https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Big Day in a Small Town](https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl) | 2:57 | 2021-11-11 |  |
+| [Dry Town \(Demo\)](https://open.spotify.com/track/0ddo16GDbp9RoNzT285C4R) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 1: The Official Revival Bootleg](https://open.spotify.com/album/235ZzGz026rUvay44aA8JU) | 2:55 | 2022-04-22 |  |
 | [Dry Town \(Demo\)](https://open.spotify.com/track/6Stz1ACN3hgkPpY1DShA4Z) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Dry Town \(Demo\)](https://open.spotify.com/album/71v9uww2ohOHLHTKw8SSgw) | 2:55 | 2021-11-11 | 2022-07-29 |
 | [Dusty Old Man](https://open.spotify.com/track/2Srh0DDIMbirFH3rRSzKLO) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Dusty Old Man](https://open.spotify.com/album/0n03AglCe68fjvdJeyj833) | 3:47 | 2021-11-11 | 2022-07-29 |
 | [Dusty Old Man](https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Stitch of the World](https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs) | 3:47 | 2022-04-22 |  |
@@ -115,7 +116,7 @@
 | [Iowa \(Traveling, Pt\. 3\)](https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [Mortal City](https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG) | 4:47 | 2021-11-11 |  |
 | [It Ain't Over Yet](https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [It Ain't Over Yet](https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL) | 5:14 | 2021-11-11 |  |
 | [Jackson](https://open.spotify.com/track/0Vc2d6rwDyTNfNRUUV1TkT) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [All The Good Times](https://open.spotify.com/album/3J6294UKc6u7arMq07H2HR) | 3:32 | 2021-11-11 | 2022-07-29 |
-| [Jackson](https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [All The Good Times](https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD) | 3:32 | 2022-04-22 |  |
+| [Jackson](https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [All The Good Times](https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD) | 3:32 | 2022-04-22 | 2022-08-02 |
 | [Jerusalem](https://open.spotify.com/track/04LpPNq2WuR0mZkHATmxTZ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Jerusalem](https://open.spotify.com/album/0KNl6D74M7TPHxl0hEmIbc) | 3:56 | 2021-11-11 | 2022-07-29 |
 | [Jerusalem](https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Jerusalem](https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs) | 3:56 | 2022-04-22 |  |
 | [Johnson Blvd](https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mountains Of Sorrow, Rivers Of Song \(Deluxe\)](https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx) | 4:15 | 2021-11-11 |  |

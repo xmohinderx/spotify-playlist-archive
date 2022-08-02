@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Travis Denning
+> Top country hits you know and love! Cover: Cole Swindell
 
 138 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 

@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 107130,
+  "num_followers": 107185,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMGI3M2VkOWE2MDlhZDczMDAzMTlhZjJiM2I0YWJmYThm",
+  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMDM5MTk5OTU2ODhlZGE4NmJhZGNmNWE5NTFmMDZhNDU4",
   "tracks": [
     {
       "added_at": "2022-07-24 19:41:51",
@@ -159,22 +159,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+        "name": "Can The Circle Be Unbroken: Country Music's First Family",
+        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+          "name": "The Carter Family",
+          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
         }
       ],
-      "duration_ms": 165800,
-      "name": "Cold, Cold Heart",
-      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
+      "duration_ms": 195040,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -199,18 +195,22 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Can The Circle Be Unbroken: Country Music's First Family",
-        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
       "artists": [
         {
-          "name": "The Carter Family",
-          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
-      "duration_ms": 195040,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
+      "duration_ms": 165800,
+      "name": "Cold, Cold Heart",
+      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Essential Bill Monroe (1945-1949)",
-        "url": "https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Blue Moon of Kentucky",
-      "url": "https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Can The Circle Be Unbroken: Country Music's First Family",
         "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 166160,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/4bLFRNxLjFltxVPjvUbgJ7"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "The Essential Bill Monroe (1945-1949)",
+        "url": "https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Blue Moon of Kentucky",
+      "url": "https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -379,26 +379,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Honky Tonkin'",
-      "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
       },
@@ -431,6 +411,42 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Honky Tonkin'",
+      "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "duration_ms": 140280,
+      "name": "Ida Red",
+      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 163560,
       "name": "Deep In the Heart of Texas",
       "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
-        }
-      ],
-      "duration_ms": 140280,
-      "name": "Ida Red",
-      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "The Late Great - 14 Greatest Hits",
+        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
         }
       ],
-      "duration_ms": 196293,
-      "name": "Old Shep",
-      "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
+      "duration_ms": 153373,
+      "name": "Room Full of Roses",
+      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Late Great - 14 Greatest Hits",
-        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
       "artists": [
         {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
         }
       ],
-      "duration_ms": 153373,
-      "name": "Room Full of Roses",
-      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
+      "duration_ms": 196293,
+      "name": "Old Shep",
+      "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Nippers 50's-Vol.1",
-        "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee King & His Golden West Cowboys",
-          "url": "https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Slow Poke",
-      "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 156373,
       "name": "New San Antonio Rose",
       "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Nippers 50's-Vol.1",
+        "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee King & His Golden West Cowboys",
+          "url": "https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Slow Poke",
+      "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -903,8 +903,8 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
+        "name": "Rockabilly Gold Masters",
+        "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
       },
       "artists": [
         {
@@ -912,25 +912,9 @@
           "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
         }
       ],
-      "duration_ms": 178226,
-      "name": "So, Round, So Firm, So Fully Packed",
-      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Cotton Eyed Joe - Single Version",
-      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
+      "duration_ms": 165986,
+      "name": "Hot Rod Lincoln",
+      "url": "https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -951,22 +935,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Louisiana",
-        "url": "https://open.spotify.com/album/46ui9aK1fJ94NsF9yurEAv"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Davis",
-          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "There's A New Moon Over My Shoulder",
-      "url": "https://open.spotify.com/track/37wv3n0GnamPkVaO0H5OLz"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -983,54 +951,34 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Rockabilly Gold Masters",
-        "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Hot Rod Lincoln",
-      "url": "https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/0Bc4Eoh8xt6fX5T67ki655"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
       },
       "artists": [
         {
           "name": "Bob Wills & His Texas Playboys",
           "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        },
-        {
-          "name": "Tommy Duncan",
-          "url": "https://open.spotify.com/artist/2xS555UhAr5LdCV4nL4c8N"
         }
       ],
-      "duration_ms": 135706,
-      "name": "Bubbles In My Beer - Single Version",
-      "url": "https://open.spotify.com/track/4A2dABZi18gmKGizp0ubyn"
+      "duration_ms": 157373,
+      "name": "Cotton Eyed Joe - Single Version",
+      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
     },
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+        "name": "Louisiana",
+        "url": "https://open.spotify.com/album/46ui9aK1fJ94NsF9yurEAv"
       },
       "artists": [
         {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+          "name": "Jimmie Davis",
+          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
         }
       ],
-      "duration_ms": 208066,
-      "name": "Blue Yodel No. 4",
-      "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
+      "duration_ms": 135973,
+      "name": "There's A New Moon Over My Shoulder",
+      "url": "https://open.spotify.com/track/37wv3n0GnamPkVaO0H5OLz"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1047,6 +995,38 @@
       "duration_ms": 185200,
       "name": "Tumbling Tumbleweeds",
       "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "So, Round, So Firm, So Fully Packed",
+      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Blue Yodel No. 4",
+      "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1083,6 +1063,42 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/3i93odjqBn7pV8SNJIkxca"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Davis",
+          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/32Mjgo3oqzlVwaTpidm000"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/0Bc4Eoh8xt6fX5T67ki655"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        },
+        {
+          "name": "Tommy Duncan",
+          "url": "https://open.spotify.com/artist/2xS555UhAr5LdCV4nL4c8N"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "Bubbles In My Beer - Single Version",
+      "url": "https://open.spotify.com/track/4A2dABZi18gmKGizp0ubyn"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/3i93odjqBn7pV8SNJIkxca"
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
       },
       "artists": [
         {
-          "name": "Jimmie Davis",
-          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
         }
       ],
-      "duration_ms": 172000,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/32Mjgo3oqzlVwaTpidm000"
+      "duration_ms": 153960,
+      "name": "Rocky Road Blues",
+      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1159,26 +1175,6 @@
       "duration_ms": 138000,
       "name": "One Kiss Too Many",
       "url": "https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
-        "name": "16 Great Songs of the Old West",
-        "url": "https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6"
-      },
-      "artists": [
-        {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
-        },
-        {
-          "name": "Dale Evans",
-          "url": "https://open.spotify.com/artist/57FYvfgFq1D892GiwJCYgz"
-        }
-      ],
-      "duration_ms": 137856,
-      "name": "Whopee Ti Yi Yo",
-      "url": "https://open.spotify.com/track/0rAuUGTWBabj1Rbwm3e9ex"
     }
   ],
   "unique_name": "40s Country",

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 18040,
+  "num_followers": 18052,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDZhMTBjMjg0ZmU2MWQ3YmIxNTE4YjdjYmY2MGYyOWNj",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDk5YzU1NmZlYjczOGNhY2Q4Nzc3NDIzMjQxNmIyZTUy",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Lluvia",
         "url": "https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 173793,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2020-12-01 05:03:00",

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-458 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+460 songs - 1 day 1 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Chalo Mannya](https://open.spotify.com/track/3JAHmBtj0tynb50kziPAlG) | [Romaana](https://open.spotify.com/artist/424s65ZBz4Alruua67iFmO) | [Chalo Mannya](https://open.spotify.com/album/6rMF3sY9ue7xNwKUBgaP4c) | 2:44 | 2022-04-21 | 2022-07-06 |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2021-12-02 |  |
 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2022-02-07 | 2022-04-06 |
+| [Changa na lage](https://open.spotify.com/track/5booVo7Su2BgAeVq6eCOMZ) | [Nikk](https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR) | [Changa na lage](https://open.spotify.com/album/1SRU1k6hekc4KECdPq9Zps) | 2:59 | 2022-08-01 |  |
 | [Cheen Meen](https://open.spotify.com/track/4KoJEd1038csBExw6n39UH) | [Mani Singh](https://open.spotify.com/artist/1qAmt00nD6coJWljU0je1n), [Isha Sharma](https://open.spotify.com/artist/1rRlivUi0R6P0eoXr1UquS) | [Cheen Meen](https://open.spotify.com/album/6ALlXv8l0vHVkHKkmWJNwO) | 2:37 | 2022-02-04 | 2022-03-11 |
 | [Cheer](https://open.spotify.com/track/5fYImUzPeRhtgcNVjumIVS) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Cheer](https://open.spotify.com/album/2j81LvsRNm1tFi2t24EOgC) | 2:45 | 2022-07-21 |  |
 | [Chobar](https://open.spotify.com/track/4P7YZWgXIYWN5mzrAxC8UU) | [Mansher Manna](https://open.spotify.com/artist/0kXzjHtVtzMbAAnFPcnUBA) | [Chobar](https://open.spotify.com/album/1qEsfN5qg3xEmxIl5wXaPb) | 2:36 | 2022-01-21 | 2022-01-28 |
@@ -466,5 +467,6 @@
 | [Zaruri Nai](https://open.spotify.com/track/0LYi767EQ0pN0Kps9PRa8l) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Zaruri Nai](https://open.spotify.com/album/2ohc2qpaaUPHlLLhxj1q7V) | 2:30 | 2022-06-24 | 2022-06-29 |
 | [Zindagi](https://open.spotify.com/track/1IsbvmZLFPfe0P8XCNBtOX) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Zindagi](https://open.spotify.com/album/6FTS94l96Gerr6Yfk9Yqpz) | 2:35 | 2022-03-18 | 2022-04-06 |
 | [Zindagi](https://open.spotify.com/track/1JXVletUD9V2oXmsTty7uU) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Zindagi](https://open.spotify.com/album/2I1WtJkNisBQFcWWNrGRLN) | 2:35 | 2022-05-31 |  |
+| [Zulf](https://open.spotify.com/track/6wZPqrmbzTuoRijqeo56Xf) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [CLICK](https://open.spotify.com/album/2SzjjrJmR20Muo3sN6uxkg) | 2:56 | 2022-08-01 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

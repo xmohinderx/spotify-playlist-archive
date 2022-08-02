@@ -4,7 +4,7 @@
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-238 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/6NSbCsk7MC2tfdc3H3iht8)
+239 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/6NSbCsk7MC2tfdc3H3iht8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Lagrimas de Cristal](https://open.spotify.com/track/2prHxySM45N4XDbCAIrvhQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [20 Exitos Colleccion de Oro](https://open.spotify.com/album/4DuPz55YjEpWxyYhvcbjym) | 2:49 | 2020-04-17 | 2022-07-22 |
 | [Lanza a tus Penas al Viento](https://open.spotify.com/track/4XzmHOeqiWKcQ6dNzt1mFh) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [20 Exitos Colleccion de Oro](https://open.spotify.com/album/4DuPz55YjEpWxyYhvcbjym) | 3:18 | 2020-04-17 | 2022-07-26 |
 | [Lanza a tus Penas al Viento](https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [20 Exitos Colleccion de Oro](https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A) | 3:18 | 2020-04-17 |  |
+| [Lanza Tus Penas Al Viento](https://open.spotify.com/track/4RyW9qyWhEU0UY3Nwh4mFN) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:26 | 2020-04-17 |  |
 | [Lanza Tus Penas Al Viento](https://open.spotify.com/track/13mqmYz0oB4cWUv4TFo9XO) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Exitos Baladas \- Alberto Vazquez](https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX) | 2:27 | 2020-04-17 | 2022-07-29 |
 | [Las Cerezas](https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Los Grandes Éxitos del Rock & Roll \(En Español\), Vol\. 1](https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV) | 2:55 | 2020-04-17 |  |
 | [Las Cerezas \(Le Celiege\)](https://open.spotify.com/track/22QsJTK2JQXZKSUW2sKj9w) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Lo Mejor De Los Hermanos](https://open.spotify.com/album/5pdI245Kbb9krwAdURocn4) | 3:02 | 2020-04-17 |  |
@@ -173,7 +174,7 @@
 | [Nomas Contigo](https://open.spotify.com/track/0iBQqqoq2Qa8EeM4NgNBP0) | [Mario Quintero](https://open.spotify.com/artist/1em8XoX89lrjj8DLdiPswM) | [Mi Pueblo](https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2) | 2:57 | 2020-04-17 |  |
 | [Nos Pertenecemos](https://open.spotify.com/track/2fZoRApJfOKxPq1WgRris4) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH) | 1:50 | 2020-04-17 | 2022-07-29 |
 | [Nos Pertenecemos](https://open.spotify.com/track/2mvAbsRCWBxQdU82eB4t5e) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 1:50 | 2020-04-17 |  |
-| [Olvida](https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Dieciseis Toneladas](https://open.spotify.com/album/65N5QOAYP8ZEZOMDoUnDh8) | 2:50 | 2020-04-17 |  |
+| [Olvida](https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Dieciseis Toneladas](https://open.spotify.com/album/65N5QOAYP8ZEZOMDoUnDh8) | 2:50 | 2020-04-17 | 2022-08-02 |
 | [Olvida](https://open.spotify.com/track/2yGVIH86Bc28HFqU60cNTn) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Idolos del Rock & Roll \- Alberto Vazquez](https://open.spotify.com/album/1k4042gbahCtD4v3viiQ8L) | 2:51 | 2020-04-17 | 2022-07-29 |
 | [Oye](https://open.spotify.com/track/1flNevZKMFGEUjOaW6PIGC) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Idolos del Rock de los 60's: Enrique Guzman](https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA) | 2:18 | 2020-04-17 | 2022-07-23 |
 | [Pan Con Mantequilla](https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:37 | 2020-04-17 | 2022-07-28 |

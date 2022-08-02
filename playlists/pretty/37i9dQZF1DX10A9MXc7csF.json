@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: El Proyecto",
-  "num_followers": 93135,
+  "num_followers": 93143,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDAwMGNhMzE0ZjMxNjY4ZjE0YWYzOTg5NDE3MmNiMjZlMWU3",
+  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDAwMDAwY2JhN2E0Y2I1M2MwOWZjYzNkMzc5ZTNmMTg0ZDVh",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Aqui Nadie Va Llorar",
         "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 195311,
       "name": "Aqui Nadie Va Llorar",
       "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Mafia De La Calle",
-        "url": "https://open.spotify.com/album/5ES7hYzsnWJWPUpIn34Foq"
-      },
-      "artists": [
-        {
-          "name": "Angel Tumbado",
-          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
-        }
-      ],
-      "duration_ms": 143859,
-      "name": "Mafia De La Calle",
-      "url": "https://open.spotify.com/track/0OjyXDwYxedaS3mhXBpfbE"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Maldito Olvido",
         "url": "https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 214804,
       "name": "Maldito Olvido",
       "url": "https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Mafia De La Calle",
+        "url": "https://open.spotify.com/album/5ES7hYzsnWJWPUpIn34Foq"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "duration_ms": 143859,
+      "name": "Mafia De La Calle",
+      "url": "https://open.spotify.com/track/0OjyXDwYxedaS3mhXBpfbE"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -707,6 +707,22 @@
       "duration_ms": 171625,
       "name": "Dejen Les Cuento",
       "url": "https://open.spotify.com/track/5t65YQyrgDPPmgT8Z4Iy7M"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Loco y Enamorado",
+        "url": "https://open.spotify.com/album/6LdEvPHHmTenzOEJqwZsq5"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 126771,
+      "name": "Loco y Enamorado",
+      "url": "https://open.spotify.com/track/5iAqV54YrGxX0t7ks3CMqQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Loco y Enamorado",
-        "url": "https://open.spotify.com/album/6LdEvPHHmTenzOEJqwZsq5"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 126771,
-      "name": "Loco y Enamorado",
-      "url": "https://open.spotify.com/track/5iAqV54YrGxX0t7ks3CMqQ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "As\u00ed Soy",
         "url": "https://open.spotify.com/album/5DsyGnotkIR6K9It6lFOJH"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Bajo La Gorra",
-        "url": "https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo_NR",
-          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Bajo La Gorra",
-      "url": "https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Esperame",
         "url": "https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180451,
       "name": "Esperame",
       "url": "https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Bajo La Gorra",
+        "url": "https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Bajo La Gorra",
+      "url": "https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Ense\u00f1andoles Maldad",
+        "url": "https://open.spotify.com/album/3jmNVF5yujzQ7hFQN4xdv9"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "duration_ms": 216624,
+      "name": "Ense\u00f1andoles Maldad",
+      "url": "https://open.spotify.com/track/6L9FXIEPTKiiqlaJi2iW8T"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "TMP",
         "url": "https://open.spotify.com/album/429thKPz8y0s5sgOivSWBx"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Ense\u00f1andoles Maldad",
-        "url": "https://open.spotify.com/album/3jmNVF5yujzQ7hFQN4xdv9"
+        "name": "me olvidaste",
+        "url": "https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke"
       },
       "artists": [
         {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 216624,
-      "name": "Ense\u00f1andoles Maldad",
-      "url": "https://open.spotify.com/track/6L9FXIEPTKiiqlaJi2iW8T"
+      "duration_ms": 135069,
+      "name": "me olvidaste",
+      "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -991,6 +1007,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Las Guerras de Califas",
+        "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
+      },
+      "artists": [
+        {
+          "name": "Clave Secreta",
+          "url": "https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN"
+        }
+      ],
+      "duration_ms": 215402,
+      "name": "Las Guerras de Califas",
+      "url": "https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Historias Pa\u2019 Contar",
         "url": "https://open.spotify.com/album/6i8fnbUdHbs68xHQKgjEpg"
       },
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "me olvidaste",
-        "url": "https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 135069,
-      "name": "me olvidaste",
-      "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Atrapado En El Papel",
         "url": "https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 132548,
       "name": "Ya Les Contaron",
       "url": "https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Las Guerras de Califas",
-        "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
-      },
-      "artists": [
-        {
-          "name": "Clave Secreta",
-          "url": "https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN"
-        }
-      ],
-      "duration_ms": 215402,
-      "name": "Las Guerras de Califas",
-      "url": "https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/69smyPeNaxRkiBahOoKNLo"
-      },
-      "artists": [
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        }
-      ],
-      "duration_ms": 201508,
-      "name": "En Un Deportivo Voy",
-      "url": "https://open.spotify.com/track/5tjAFuUzHkOlTfL7eX8T6B"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "La Tormenta",
         "url": "https://open.spotify.com/album/02yUE3GbV3gY6PtkiH9VQt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 206304,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/69smyPeNaxRkiBahOoKNLo"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "duration_ms": 201508,
+      "name": "En Un Deportivo Voy",
+      "url": "https://open.spotify.com/track/5tjAFuUzHkOlTfL7eX8T6B"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Tu Coraz\u00f3n A Mi Me Falta",
-        "url": "https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "Tu Coraz\u00f3n A Mi Me Falta",
-      "url": "https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Confiar En Mi",
         "url": "https://open.spotify.com/album/07pKI6CF1hD9kTgLGQrNhp"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 284672,
       "name": "Confiar En Mi",
       "url": "https://open.spotify.com/track/3wVm1plAjtErQGzWeAsNT4"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Tu Coraz\u00f3n A Mi Me Falta",
+        "url": "https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "Tu Coraz\u00f3n A Mi Me Falta",
+      "url": "https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Temporadas Emocionales",
-        "url": "https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 247692,
-      "name": "Maravillosa",
-      "url": "https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Archive Muzik Vol. 1",
         "url": "https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 274775,
       "name": "Fumamos Mota",
       "url": "https://open.spotify.com/track/3vSq4gnH2PnKRWV9Nca8Pl"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Temporadas Emocionales",
+        "url": "https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 247692,
+      "name": "Maravillosa",
+      "url": "https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Una Empresa",
-        "url": "https://open.spotify.com/album/6kLHvyOJWhZ4PwYf2zFhgD"
-      },
-      "artists": [
-        {
-          "name": "Lluvia Ar\u00e1mbula",
-          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/1LsnmssHeyjWIVEplI4S5s"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "En Vivo Desde La Angelina",
         "url": "https://open.spotify.com/album/61N8v3Zws2PXt6bZT5lYlF"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Enfocado",
-        "url": "https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY"
+        "name": "Una Empresa",
+        "url": "https://open.spotify.com/album/6kLHvyOJWhZ4PwYf2zFhgD"
       },
       "artists": [
         {
-          "name": "Pecado Fino",
-          "url": "https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj"
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
         }
       ],
-      "duration_ms": 152914,
-      "name": "Enfocado",
-      "url": "https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j"
+      "duration_ms": 206510,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/1LsnmssHeyjWIVEplI4S5s"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Como Quiera",
-        "url": "https://open.spotify.com/album/6DrGqqLabbWi10BHJf7a6d"
+        "name": "Enfocado",
+        "url": "https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY"
       },
       "artists": [
         {
-          "name": "Pr\u00f3digo Secreto",
-          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+          "name": "Pecado Fino",
+          "url": "https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj"
         }
       ],
-      "duration_ms": 230213,
-      "name": "Como Quiera",
-      "url": "https://open.spotify.com/track/0WaFzSRnJzAIyKY5jmcuFw"
+      "duration_ms": 152914,
+      "name": "Enfocado",
+      "url": "https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 143000,
       "name": "A Pata",
       "url": "https://open.spotify.com/track/0nLK5ol9VxY6OzYhjNwyvy"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Como Quiera",
+        "url": "https://open.spotify.com/album/6DrGqqLabbWi10BHJf7a6d"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Como Quiera",
+      "url": "https://open.spotify.com/track/0WaFzSRnJzAIyKY5jmcuFw"
     },
     {
       "added_at": "2022-07-22 04:00:00",

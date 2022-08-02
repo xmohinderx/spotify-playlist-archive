@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-56 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
+57 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages](https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ) | 3:59 | 2021-09-24 | 2022-07-29 |
 | [Amazing Grace \(arr\. Mercurio\)](https://open.spotify.com/track/1OWoYQ9tGoufbJGY0YOdAI) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Believe \(Deluxe\)](https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr) | 3:56 | 2021-09-24 |  |
 | [Amore e Musica](https://open.spotify.com/track/7CLOYF0QFHyQQRENkJDbR8) | [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 3:59 | 2021-09-24 |  |
+| [Ave Maria, D\. 839 \(Arr\. Garrett / van der Heijden for Voice, Violin and Orchestra\)](https://open.spotify.com/track/6Djg0bJXADJyZzWR6WXtEZ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw), [Orchestra the Prezent](https://open.spotify.com/artist/25y9UwLKC3bZJFNkHRdUzZ) | [Schubert: Ave Maria, D\. 839 \(Arr\. Garrett / van der Heijden for Voice, Violin and Orchestra\)](https://open.spotify.com/album/7C2bSB28pcWwq3ymkz6tj5) | 4:09 | 2022-08-01 |  |
 | [Barcarolle \(from The Tales of Hoffman\)](https://open.spotify.com/track/0QesxIlKPMUvRlsUeAdRat) | [All Angels](https://open.spotify.com/artist/1nlqYzoK1LAlS8MmnUhfEs) | [All Angels](https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT) | 3:25 | 2021-09-24 |  |
 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 | 2021-09-24 |  |
 | [Bring Him Home \- From "Les Misérables"](https://open.spotify.com/track/6vb1E9HQ9V0vqxUaiGmgej) | [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [Danish National Chamber Orchestra](https://open.spotify.com/artist/5tqGSxgUWgnJf09eOwCvEz), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC) | [Bring Him Home](https://open.spotify.com/album/50c1kQsjZ7RWsIHvq1wxPl) | 3:40 | 2021-09-24 |  |

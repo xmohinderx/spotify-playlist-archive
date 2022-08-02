@@ -1,12 +1,12 @@
 {
   "description": "As novidades dos artistas independentes que voc\u00ea precisa conhecer. Foto: Ceci Reis. Arte: Isu Kim",
-  "num_followers": 11282,
+  "num_followers": 11298,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2MzYwMCwwMDAwMDAwMGUzNTJjMGUwMzBjMDc0ODU2ZGZmZWY4MDJkMGJiYTNm",
+  "snapshot_id": "MTY1OTA2MzYwMCwwMDAwMDAwMGNjNmI1NjM3MjA3OGZhMWViZjQ4MmRkODNjZTllMmFj",
   "tracks": [
     {
       "added_at": "2022-07-29 03:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/6JAI4RgT7MCp8tEoKTwmKB"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 192653,
-      "name": "Saltos de Realidade",
-      "url": "https://open.spotify.com/track/2AXZSybVqhbRbRuI7aGO19"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "CHICO E O MAR",
         "url": "https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 213750,
       "name": "sei l\u00e1",
       "url": "https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/6JAI4RgT7MCp8tEoKTwmKB"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 192653,
+      "name": "Saltos de Realidade",
+      "url": "https://open.spotify.com/track/2AXZSybVqhbRbRuI7aGO19"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "UM",
-        "url": "https://open.spotify.com/album/4BrdjlUCGMUkAqbSVVH7N0"
-      },
-      "artists": [
-        {
-          "name": "Luna Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1xwQvoELtGoQL2HVGnd9fK"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/7liHoUtzVaTmU9jbsUlEzf"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "Diga-me",
         "url": "https://open.spotify.com/album/6NrL8zeO6CKcwdFnC2ooS0"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 199322,
       "name": "Diga-me",
       "url": "https://open.spotify.com/track/1NuJEGUFkcygXNjcSMcbdP"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "UM",
+        "url": "https://open.spotify.com/album/4BrdjlUCGMUkAqbSVVH7N0"
+      },
+      "artists": [
+        {
+          "name": "Luna Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1xwQvoELtGoQL2HVGnd9fK"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/7liHoUtzVaTmU9jbsUlEzf"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
+        "name": "DEPRIMIDA",
+        "url": "https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp"
+      },
+      "artists": [
+        {
+          "name": "Julia Joia",
+          "url": "https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "DEPRIMIDA",
+      "url": "https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
         "name": "<del>",
         "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 164000,
       "name": "Pulando",
       "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
-        "name": "DEPRIMIDA",
-        "url": "https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp"
-      },
-      "artists": [
-        {
-          "name": "Julia Joia",
-          "url": "https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "DEPRIMIDA",
-      "url": "https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
+        "name": "AUGE",
+        "url": "https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Meu Foco",
+      "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
         "name": "Quartas",
         "url": "https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1"
       },
@@ -531,38 +547,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Livre Demais",
-        "url": "https://open.spotify.com/album/5qAEvQ49A6y6EmctXgKr0B"
-      },
-      "artists": [
-        {
-          "name": "MARI DK",
-          "url": "https://open.spotify.com/artist/7DOnSkR7q0ollBBQp6yzs5"
-        }
-      ],
-      "duration_ms": 205401,
-      "name": "Livre Demais",
-      "url": "https://open.spotify.com/track/1pSno5Vgb2OxrLrKj2mzdW"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
-        "name": "AUGE",
-        "url": "https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ"
-      },
-      "artists": [
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "Meu Foco",
-      "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "dita.",
         "url": "https://open.spotify.com/album/7vFI2GsrK80S4BZwlxhDYx"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 135103,
       "name": "quase s\u00e3o",
       "url": "https://open.spotify.com/track/1Ly9OIXDO3mgrNFhPTkigp"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "Livre Demais",
+        "url": "https://open.spotify.com/album/5qAEvQ49A6y6EmctXgKr0B"
+      },
+      "artists": [
+        {
+          "name": "MARI DK",
+          "url": "https://open.spotify.com/artist/7DOnSkR7q0ollBBQp6yzs5"
+        }
+      ],
+      "duration_ms": 205401,
+      "name": "Livre Demais",
+      "url": "https://open.spotify.com/track/1pSno5Vgb2OxrLrKj2mzdW"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Uma Nova Forma de Enxergar a Vida",
-        "url": "https://open.spotify.com/album/0XtsARQNFAuGxChVgyMMgl"
-      },
-      "artists": [
-        {
-          "name": "Versa Libert\u00e1lia",
-          "url": "https://open.spotify.com/artist/3oyRcui3kEHDq4LNvvR4ht"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Eu Voltei",
-      "url": "https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "Varanda",
         "url": "https://open.spotify.com/album/16vCNvwG9Rj4dC8N8rRokI"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 156874,
       "name": "Plano Perfeito",
       "url": "https://open.spotify.com/track/6M85C6Rbmuftj2S3wyndQS"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "Uma Nova Forma de Enxergar a Vida",
+        "url": "https://open.spotify.com/album/0XtsARQNFAuGxChVgyMMgl"
+      },
+      "artists": [
+        {
+          "name": "Versa Libert\u00e1lia",
+          "url": "https://open.spotify.com/artist/3oyRcui3kEHDq4LNvvR4ht"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Eu Voltei",
+      "url": "https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
+        "name": "Toda Rabadinha",
+        "url": "https://open.spotify.com/album/3g7UnIxeGOJr0PGkRuhXRb"
+      },
+      "artists": [
+        {
+          "name": "Maria Ma",
+          "url": "https://open.spotify.com/artist/5j7SMH5FMSDxpcw29nJRvZ"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "Toda Rabadinha",
+      "url": "https://open.spotify.com/track/0F6IvU6dxaEf8Z9PSVljSl"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
         "name": "V\u00edcio",
         "url": "https://open.spotify.com/album/15o7kghlFD3WBZoHsJpQAx"
       },
@@ -759,38 +775,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Toda Rabadinha",
-        "url": "https://open.spotify.com/album/3g7UnIxeGOJr0PGkRuhXRb"
-      },
-      "artists": [
-        {
-          "name": "Maria Ma",
-          "url": "https://open.spotify.com/artist/5j7SMH5FMSDxpcw29nJRvZ"
-        }
-      ],
-      "duration_ms": 172297,
-      "name": "Toda Rabadinha",
-      "url": "https://open.spotify.com/track/0F6IvU6dxaEf8Z9PSVljSl"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
-        "name": "ROCINHA",
-        "url": "https://open.spotify.com/album/4OvfJwaPFkTOnHJyXoZj8c"
-      },
-      "artists": [
-        {
-          "name": "Mb\u00e9",
-          "url": "https://open.spotify.com/artist/4BX83dK6A0IGZuCbnLfNv2"
-        }
-      ],
-      "duration_ms": 279065,
-      "name": "Celebra\u00e7\u00e3o do Xingu ao Congo",
-      "url": "https://open.spotify.com/track/2o96Fy3tpJkB9OWl2Yl77r"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "Ciberneticamar\u00e1",
         "url": "https://open.spotify.com/album/3lWH340RTmPGs5qU2agBCC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 204000,
       "name": "Ciberneticamar\u00e1",
       "url": "https://open.spotify.com/track/6w4wyRmLicvlRDG9ooxjB5"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "ROCINHA",
+        "url": "https://open.spotify.com/album/4OvfJwaPFkTOnHJyXoZj8c"
+      },
+      "artists": [
+        {
+          "name": "Mb\u00e9",
+          "url": "https://open.spotify.com/artist/4BX83dK6A0IGZuCbnLfNv2"
+        }
+      ],
+      "duration_ms": 279065,
+      "name": "Celebra\u00e7\u00e3o do Xingu ao Congo",
+      "url": "https://open.spotify.com/track/2o96Fy3tpJkB9OWl2Yl77r"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "O Disco Que Escrevi Da Janela",
-        "url": "https://open.spotify.com/album/3gZQC1bcCd5hFMYFmKpOad"
+        "name": "Mozamba",
+        "url": "https://open.spotify.com/album/1Bowmic2a700xN2Np4T3hS"
       },
       "artists": [
         {
-          "name": "Lvtz",
-          "url": "https://open.spotify.com/artist/1Y8F4Is3wceZwvWmlq9juL"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+          "name": "Josy.Anne",
+          "url": "https://open.spotify.com/artist/5rdOdB9NEcJP2azuJI8cNH"
         }
       ],
-      "duration_ms": 191885,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/3eXEO5e0GsKElU5etvbhIk"
+      "duration_ms": 285829,
+      "name": "Pedra Preta",
+      "url": "https://open.spotify.com/track/53AjZ7qqYQerJHxuPyZyOq"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -1059,22 +1055,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Mozamba",
-        "url": "https://open.spotify.com/album/1Bowmic2a700xN2Np4T3hS"
-      },
-      "artists": [
-        {
-          "name": "Josy.Anne",
-          "url": "https://open.spotify.com/artist/5rdOdB9NEcJP2azuJI8cNH"
-        }
-      ],
-      "duration_ms": 285829,
-      "name": "Pedra Preta",
-      "url": "https://open.spotify.com/track/53AjZ7qqYQerJHxuPyZyOq"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "Capsula do Tempo",
         "url": "https://open.spotify.com/album/5DFSztWFj6wfvm19f2jSSA"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 143734,
       "name": "Capsula do Tempo",
       "url": "https://open.spotify.com/track/489aEO9UR1aPjzsZhBmyyz"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "O Disco Que Escrevi Da Janela",
+        "url": "https://open.spotify.com/album/3gZQC1bcCd5hFMYFmKpOad"
+      },
+      "artists": [
+        {
+          "name": "Lvtz",
+          "url": "https://open.spotify.com/artist/1Y8F4Is3wceZwvWmlq9juL"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 191885,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/3eXEO5e0GsKElU5etvbhIk"
     },
     {
       "added_at": "2022-07-29 03:00:00",

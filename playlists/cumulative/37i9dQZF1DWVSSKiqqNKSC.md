@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-187 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/2HGElLQ4Q40P5HXdU6etvf)
+188 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/2HGElLQ4Q40P5HXdU6etvf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA) | 4:35 | 2020-08-25 | 2022-07-29 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2020-08-25 |  |
 | [Llévame Papá](https://open.spotify.com/track/5e4Lg7p7FEujZmtvctbQiR) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [Más Duro](https://open.spotify.com/album/3zR9fk3CXln9qMLVMrJyK6) | 6:15 | 2020-08-25 | 2022-06-08 |
+| [Lo Malo Se Va Bailando](https://open.spotify.com/track/6Bsf8cM6kJVyjaeiiIxrBC) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [Lo Malo Se Va Bailando](https://open.spotify.com/album/3jNnSCfnuKoIkqSAorW7jj) | 4:15 | 2020-08-25 |  |
 | [Lo Malo Se Va Bailando](https://open.spotify.com/track/06wy8VY2vCWNSEnEL7BY56) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [Hot Salsa 2016 \(21 Salsa Latin Hits \- Salsa Romántica, Urbana, para Bailar\)](https://open.spotify.com/album/6RQOGuxcTdIY58h1Vvx9pA) | 4:16 | 2020-08-25 | 2022-07-28 |
 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 | 2020-08-25 |  |
 | [Lola, Lola](https://open.spotify.com/track/28Eukx1RTcCZnQ0Kj9Vc85) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw), [David Calzado](https://open.spotify.com/artist/1HErZPy6NWMXof7wXGdBTB) | [Tremendo Delirio](https://open.spotify.com/album/27tO4aQc8CBver58vs2ALk) | 6:32 | 2020-08-25 | 2022-04-28 |
@@ -112,7 +113,7 @@
 | [Marcando La Distancia](https://open.spotify.com/track/0txizV883uXWqJEyxxJHrp) | [Manolito Simonet y su Trabuco](https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR) | [Latino! Greatest Hits \- 56 Latin Top Hits \(Original Versions!\)](https://open.spotify.com/album/0VSYBKZgle28fILiupe1Bv) | 5:41 | 2020-08-25 | 2022-07-29 |
 | [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 | 2020-08-25 |  |
 | [Me Dicen Cuba](https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 4:58 | 2020-08-25 |  |
-| [Me Dicen Cuba](https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 5:42 | 2020-08-25 |  |
+| [Me Dicen Cuba](https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 5:42 | 2020-08-25 | 2022-08-02 |
 | [Me Quedo Contigo](https://open.spotify.com/track/46vkxSDE2mKEDjRjt48gUj) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Me Quedo Contigo](https://open.spotify.com/album/16QGmbXuGq7E8lSXkriGdS) | 3:21 | 2020-08-25 | 2022-07-21 |
 | [Me Quedo Contigo](https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Amor Bonito](https://open.spotify.com/album/03qKkg0zLrtuOkRJD6MfNI) | 3:23 | 2020-08-25 |  |
 | [Mi Historia Entre Tus](https://open.spotify.com/track/2hl7R0VVe4OphNXZ50XEtZ) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2 \(Deluxe Edition\)](https://open.spotify.com/album/5ZHOSr8oTScyC7vk199jXg) | 5:07 | 2020-08-25 | 2022-04-29 |

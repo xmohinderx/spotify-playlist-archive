@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,062 likes - 156 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,230 likes - 156 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

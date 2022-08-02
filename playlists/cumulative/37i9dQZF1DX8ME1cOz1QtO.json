@@ -1351,6 +1351,24 @@
     {
       "album": {
         "name": "The First Seven Days",
+        "url": "https://open.spotify.com/album/4YZWubqC55tYqj1HjyUkUR"
+      },
+      "artists": [
+        {
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376333,
+      "name": "Oceans And Continents",
+      "url": "https://open.spotify.com/track/0ed3H4bTqKqEVGfIlxFpSo"
+    },
+    {
+      "album": {
+        "name": "The First Seven Days",
         "url": "https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1"
       },
       "artists": [
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 323693,
       "name": "Processional: Root Chakra",
       "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"

@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2008! Cover: Giusy Ferreri
 
-157 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/6hJ5zVMj5XDFihC9i8CkxC)
+158 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/6hJ5zVMj5XDFihC9i8CkxC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,10 +134,11 @@
 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 | 2020-11-04 |  |
 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:50 | 2020-11-04 |  |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2020-11-04 |  |
-| [Sleep When I'm Dead](https://open.spotify.com/track/0UZCGE8Uk1rmDRHqrGIVa9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 3:50 | 2020-11-04 |  |
+| [Sleep When I'm Dead](https://open.spotify.com/track/0UZCGE8Uk1rmDRHqrGIVa9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 3:50 | 2020-11-04 | 2022-08-02 |
 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 | 2020-11-04 |  |
 | [Solo un volo](https://open.spotify.com/track/4un2v9zFm8n0F3OnbFR8Gk) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Un pugno di stelle](https://open.spotify.com/album/0qmqbYNIVHsFglvS1E0Gzo) | 4:05 | 2020-11-04 |  |
 | [Solo un volo](https://open.spotify.com/track/0x0lXpFQXD6TsIVpzQMvR7) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Più Di Me](https://open.spotify.com/album/2JSbP1l4iW58NA6Z0CuXAi) | 4:06 | 2020-11-04 | 2022-07-29 |
+| [Somos Grandes O No \(Ci Parliamo Da Grandi\)](https://open.spotify.com/track/2h5xzVCfHSG66Dg4IXATXj) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [e2](https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a) | 4:33 | 2020-11-04 |  |
 | [Sono come tu mi vuoi](https://open.spotify.com/track/3v2ELsPtfx1PYRp2K1dTZE) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Irene Grandi.Hits](https://open.spotify.com/album/4XdsOWusX2zOgXDBuzAjuE) | 3:31 | 2020-11-04 |  |
 | [Stop And Stare](https://open.spotify.com/track/0pg4ptWsO9eMH6nEhrM9fD) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/5KIGFE6IFlVQPA4Vsl15nV) | 3:43 | 2020-11-04 | 2022-07-29 |
 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 | 2020-11-04 |  |

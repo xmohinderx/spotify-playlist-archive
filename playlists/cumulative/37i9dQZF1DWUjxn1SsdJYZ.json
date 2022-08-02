@@ -4084,6 +4084,28 @@
     },
     {
       "album": {
+        "name": "Who You Foolin",
+        "url": "https://open.spotify.com/album/3zUhWiR8jNBFmCh68KGgLq"
+      },
+      "artists": [
+        {
+          "name": "RED Honcho",
+          "url": "https://open.spotify.com/artist/2pIfm9a2rMaHkdarjTM5o5"
+        },
+        {
+          "name": "LDP68",
+          "url": "https://open.spotify.com/artist/7mumML0dR6NB5uMSzS8lAN"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182616,
+      "name": "Who You Foolin",
+      "url": "https://open.spotify.com/track/0pyDwHz8zCjYxMaXRUfY4q"
+    },
+    {
+      "album": {
         "name": "Whoever",
         "url": "https://open.spotify.com/album/5qgNkLb4H6QctvrT7E9O5Z"
       },

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-356 songs - 21 hr 12 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+357 songs - 21 hr 15 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Manos](https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Manos](https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Mantra](https://open.spotify.com/track/3MLndDZtxRXBdtzfdRLiKd) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Mantra](https://open.spotify.com/album/2L62ofrt1QOsE8dNSuRAxH) | 5:12 | 2022-06-03 | 2022-07-29 |
 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 | 2022-07-15 |  |
+| [Melodia de extrañar](https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El bosque del recuerdo](https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q) | 2:46 | 2022-07-15 |  |
 | [Melodía de Extrañar](https://open.spotify.com/track/5R332yPmr1HnfvevX73Tb0) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Melodía de Extrañar](https://open.spotify.com/album/6iwm50gytq0b0BMuWcXNiR) | 2:46 | 2022-06-03 | 2022-07-27 |
 | [Mensajitos al Amanecer](https://open.spotify.com/track/3mSpGG3XJ3gruH18lcwmIO) | [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Mensajitos al Amanecer](https://open.spotify.com/album/3545sPfmr4yIeb8yuDNi30) | 4:00 | 2022-07-15 |  |
 | [Mensajitos al Amanecer](https://open.spotify.com/track/6d5VKLeGnNTS9V2SbBhb8D) | [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Mensajitos al Amanecer](https://open.spotify.com/album/00rGxQlViL8GF8nPse3S51) | 4:00 | 2022-06-03 | 2022-07-24 |
@@ -287,7 +288,7 @@
 | [Qué Tarde Que Es](https://open.spotify.com/track/7pkAQv1OfeZutSFCCZgNpN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Melodía y Drama](https://open.spotify.com/album/3yjeOGRuuuFhIBtd1E1cA2) | 4:01 | 2022-07-01 | 2022-07-26 |
 | [Ramona](https://open.spotify.com/track/6Ua8Ce78UqIR2CoGZG1GR9) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Chupalapija](https://open.spotify.com/album/7kOKGjiQQuqeDmaBIr86sA) | 1:57 | 2022-06-03 |  |
 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 | 2022-06-03 |  |
-| [Recuerdos de Ya](https://open.spotify.com/track/4slvAIKvQN5d8jCuzlFHZW) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Ataque Suave](https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI) | 2:11 | 2022-06-03 |  |
+| [Recuerdos de Ya](https://open.spotify.com/track/4slvAIKvQN5d8jCuzlFHZW) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Ataque Suave](https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI) | 2:11 | 2022-06-03 | 2022-08-02 |
 | [Refugio](https://open.spotify.com/track/4bQJ17TT3eASeV5C2GezAK) | [Tølva](https://open.spotify.com/artist/3lLKxv9sE05lDe7VnXgUAo) | [Refugio](https://open.spotify.com/album/18OetE9OcCk7uFBDRsTfKA) | 2:50 | 2022-07-01 | 2022-07-24 |
 | [Remanso](https://open.spotify.com/track/7jEFt1fSOHEtoHPOiJYH61) | [Las Luchas](https://open.spotify.com/artist/3su0QV5CGNkE3xwpgEXNVe) | [Remanso](https://open.spotify.com/album/43q2gluh9bHCHDutBMkw11) | 5:12 | 2022-07-01 | 2022-07-17 |
 | [Remolinos](https://open.spotify.com/track/0PK1R9RJ4vPE0zEkpe3vTw) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Remolinos](https://open.spotify.com/album/28vyd694kAghyQToA3q1L1) | 4:16 | 2022-06-03 | 2022-07-20 |

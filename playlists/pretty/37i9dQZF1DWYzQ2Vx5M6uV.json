@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 96459,
+  "num_followers": 96495,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMDc1ODQ4NjUyYjdmZmVmYWE1MDE1NWUzNjYyMjg0MDM0",
+  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMGEwNTkwN2JjMTM3YmZjYTViMzE1YmU3OGE5Mzg3MzNi",
   "tracks": [
     {
       "added_at": "2022-05-12 19:39:03",
@@ -767,30 +767,6 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
-        "name": "Mimosas (Remix)",
-        "url": "https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 273370,
-      "name": "Mimosas - Remix",
-      "url": "https://open.spotify.com/track/07grlLnIM285o7Y69mge5L"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
         "name": "TumbaGobierno",
         "url": "https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "Mimosas (Remix)",
+        "url": "https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 273370,
+      "name": "Mimosas - Remix",
+      "url": "https://open.spotify.com/track/07grlLnIM285o7Y69mge5L"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1351,34 +1351,6 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
-        "name": "Next To You Part II (feat. Rvssian & Davido)",
-        "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 179257,
-      "name": "Next To You Part II (feat. Rvssian & Davido)",
-      "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
         "name": "Te Gusta",
         "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
       },
@@ -1423,6 +1395,34 @@
       "duration_ms": 145909,
       "name": "lo siento",
       "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "Next To You Part II (feat. Rvssian & Davido)",
+        "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 179257,
+      "name": "Next To You Part II (feat. Rvssian & Davido)",
+      "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
     },
     {
       "added_at": "2022-05-12 19:39:03",

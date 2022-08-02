@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 173669,
+  "num_followers": 173750,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzOTYwMCwwMDAwMDAwMDZlYWJhZjk3YWFmY2NlZjhmMWZkYjM0ZWMzNjkwZTNk",
+  "snapshot_id": "MTY1NzgzOTYwMCwwMDAwMDAwMDE2OWFjMDU5Yjk5MjNmM2VlZGJmZDcxNDNjNTkzOGZk",
   "tracks": [
     {
       "added_at": "2022-07-14 23:00:00",
@@ -587,6 +587,26 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/1r4AXEEkYShSDf7iGTNmuL"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 248841,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/3cy2jsGqXCDVGyWzVQ9tu0"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
@@ -619,26 +639,6 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Secure the Bag",
-        "url": "https://open.spotify.com/album/1r4AXEEkYShSDf7iGTNmuL"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 248841,
-      "name": "Secure the Bag",
-      "url": "https://open.spotify.com/track/3cy2jsGqXCDVGyWzVQ9tu0"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
         "name": "Skanker",
         "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
         "name": "Solid Ground",
         "url": "https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 241860,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP"
-      },
-      "artists": [
-        {
-          "name": "Wittyboy",
-          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
-        }
-      ],
-      "duration_ms": 310909,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
         "name": "One Ting",
         "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 232500,
       "name": "One Ting",
       "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP"
+      },
+      "artists": [
+        {
+          "name": "Wittyboy",
+          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
+        }
+      ],
+      "duration_ms": 310909,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3nX64Yz5zsL9GfAS7YJmck"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 195558,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
     },
     {
       "added_at": "2022-07-14 23:00:00",

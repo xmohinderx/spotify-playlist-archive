@@ -1070,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Changa na lage",
+        "url": "https://open.spotify.com/album/1SRU1k6hekc4KECdPq9Zps"
+      },
+      "artists": [
+        {
+          "name": "Nikk",
+          "url": "https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179982,
+      "name": "Changa na lage",
+      "url": "https://open.spotify.com/track/5booVo7Su2BgAeVq6eCOMZ"
+    },
+    {
+      "album": {
         "name": "Cheen Meen",
         "url": "https://open.spotify.com/album/6ALlXv8l0vHVkHKkmWJNwO"
       },
@@ -9301,6 +9319,24 @@
       "duration_ms": 155675,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/1JXVletUD9V2oXmsTty7uU"
+    },
+    {
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/2SzjjrJmR20Muo3sN6uxkg"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "Zulf",
+      "url": "https://open.spotify.com/track/6wZPqrmbzTuoRijqeo56Xf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt"

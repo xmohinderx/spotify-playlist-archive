@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-427 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+428 songs - 1 day 0 hr 52 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [La Lluvia de Estrellas](https://open.spotify.com/track/4RlCIhIaKnSjKsmdniPM1b) | [María Fernanda Aldana](https://open.spotify.com/artist/01zNB3m5VtB1vpQllADiLY) | [Resonancia](https://open.spotify.com/album/0BwRaT6ZgLQcJOr9LWpvhF) | 2:49 | 2022-04-01 | 2022-04-17 |
 | [La Luna](https://open.spotify.com/track/6b2XIKwoVZhFEKgTkOJ5Ro) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 3:43 | 2022-01-21 | 2022-07-27 |
 | [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 | 2022-07-15 |  |
-| [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 |  |
+| [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 | 2022-08-02 |
 | [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 3:19 | 2022-01-14 | 2022-07-23 |
 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 | 2022-01-21 | 2022-07-06 |
 | [La Mariposa](https://open.spotify.com/track/7rwX7XG5n6uZQJb56wi6Ps) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La Mariposa](https://open.spotify.com/album/6z8h6Kt2P7N89CveweUf37) | 4:28 | 2022-01-21 | 2022-07-26 |
@@ -216,6 +216,7 @@
 | [Los Límites del Sueño](https://open.spotify.com/track/7g9iuJfq7wmdB7jVmdoQun) | [Sofía y Sus Paracaídas](https://open.spotify.com/artist/0vLW3E3sxu3dBfvbD2hVQR) | [Los Límites del Sueño](https://open.spotify.com/album/0MPqONH7eK5YV2QphsEYCY) | 4:04 | 2022-01-21 | 2022-07-16 |
 | [Los Segundos](https://open.spotify.com/track/6nHvrVoLWkyfqvxubRQ1Z1) | [María Viola](https://open.spotify.com/artist/1roFBD0EmElVwimb3qpkSK) | [Los Segundos](https://open.spotify.com/album/0q9l4LrCSLBTNHShkzhVLU) | 2:46 | 2022-06-03 | 2022-06-15 |
 | [Luna Blanca](https://open.spotify.com/track/4CmR7OzhllsOtUt9fN93cR) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Luna Blanca](https://open.spotify.com/album/3wqao1R6kX82CGRmTteWgO) | 3:40 | 2022-01-14 | 2022-07-29 |
+| [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 | 2022-07-29 |  |
 | [Luna de Valencia](https://open.spotify.com/track/6Yr9dye7jD65QDW3DRXSDD) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Luna de Valencia](https://open.spotify.com/album/3fuKGTuuYBRvVxaulGq2Mx) | 2:49 | 2022-01-21 | 2022-07-18 |
 | [Lágrimas](https://open.spotify.com/track/0B5OGKU6OD2IKQBb3k84vk) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [Lágrimas](https://open.spotify.com/album/1IXegWF19PGkqmkaL1xQwh) | 3:08 | 2022-01-14 | 2022-07-29 |
 | [M2](https://open.spotify.com/track/45JFy1hrbnfTzS18foQ5yZ) | [Maia Basso](https://open.spotify.com/artist/7zNrkkdNEcYNogDpjZMAEI) | [La Pregunta Última](https://open.spotify.com/album/2DFkYtvFtgBHYoGeUZjkrR) | 4:53 | 2022-02-11 | 2022-07-18 |

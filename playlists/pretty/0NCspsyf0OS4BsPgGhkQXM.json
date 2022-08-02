@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2036745,
+  "num_followers": 2036654,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTIwNjIsNjZmOWJlNDIxMjAyODU5NTYyOTYyNjY2YWM4Nzg5MWU3YTE0OGRmNA==",
+  "snapshot_id": "MTIwNjYsMWJkMDNjZmMzZDBiZTUwNjZiOWFjNWE5YzI5NDgxMDZiMTRjMWYwNg==",
   "tracks": [
     {
       "added_at": "2022-07-22 13:45:59",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/7q6WPPeZP3lU8Xb9YPRFBV"
     },
     {
+      "added_at": "2022-08-01 23:12:43",
+      "album": {
+        "name": "Balloons",
+        "url": "https://open.spotify.com/album/2HzFi3G0lKXDTSVECN5eKS"
+      },
+      "artists": [
+        {
+          "name": "Confetti",
+          "url": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Just Playin",
+      "url": "https://open.spotify.com/track/3XsAyr3P0DQ53lDfPixDWS"
+    },
+    {
       "added_at": "2022-07-22 13:45:59",
       "album": {
         "name": "Pieces (Remixes)",
@@ -395,6 +411,26 @@
       "duration_ms": 221538,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/6eHdUZDZppaYodOTmnRQOM"
+    },
+    {
+      "added_at": "2022-08-01 23:12:20",
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/4CrUHnPZyVV7jkdusTQ2Xo"
+      },
+      "artists": [
+        {
+          "name": "Crypto",
+          "url": "https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ"
+        },
+        {
+          "name": "L8NCY",
+          "url": "https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD"
+        }
+      ],
+      "duration_ms": 144864,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/4E3k3edQ18uvRwuODo39UP"
     },
     {
       "added_at": "2022-07-27 16:45:48",

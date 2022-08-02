@@ -2,9 +2,9 @@
 
 ### [K\-Hip\-Hop +82](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: ZICO\(지코\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
+> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: Kid Milli\(키드밀리\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-521 songs - 1 day 5 hr 39 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+523 songs - 1 day 5 hr 45 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [BE ! \(Feat\. Paloalto, lIlBOI\) \(Prod\. PEEJAY & Slom\)](https://open.spotify.com/track/6oKcSOOwqdyNjyL4HiviRH) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:16 | 2021-12-21 | 2022-07-02 |
 | [Be Grateful](https://open.spotify.com/track/3ypx2iCs9VyghLu5zuqdZ5) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1Fpaupka34rhkBJ0kwvYGd) | 2:47 | 2022-03-24 | 2022-04-16 |
 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 | 2021-12-18 | 2022-07-05 |
+| [BENZO](https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BENZO](https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa) | 2:22 | 2022-08-01 |  |
 | [Better Days](https://open.spotify.com/track/4VrBh5AlottbINgmoVlcZg) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [PROMISED LAND](https://open.spotify.com/album/20ba9oqwqyIpYrZHpGTsHy) | 3:43 | 2022-03-24 | 2022-07-08 |
 | [Big Vibes](https://open.spotify.com/track/1K72CWGjzSeHyx13Lja99g) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Gunplay](https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34) | [Filipino South Korean Rapstar Mixtape \(CD 1\)](https://open.spotify.com/album/3cYWrV94zpYAwl68tmNMVY) | 3:07 | 2022-06-09 |  |
 | [Bk Love \(feat\. Hae Ri Lee\)](https://open.spotify.com/track/03DoKMhwtyQUiNLD3QEYOQ) | [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74), [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Chronicles](https://open.spotify.com/album/6lafcDkExPftiiaL3yAq7o) | 4:30 | 2021-12-18 | 2022-07-03 |
@@ -456,6 +457,7 @@
 | [TAIJI](https://open.spotify.com/track/4kTZPPL28sYltXKMJramko) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:13 | 2021-12-29 | 2022-07-08 |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2021-12-18 | 2022-07-08 |
 | [Tango \(Feat\. CAMO, Ourealgoat\) \(Prod\. Way Ched\)](https://open.spotify.com/track/1y6zQbzb5hyvCsjDR8ka6n) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [Time Table \- The Trip](https://open.spotify.com/album/5XrdPk3JCyE2QVUNeHcfxg) | 3:51 | 2021-12-29 | 2022-07-08 |
+| [Tattoo \(feat\. Jayci yucca, YongYong\)](https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yuccca](https://open.spotify.com/artist/4UtXYQ3HyQPpVrAysjgFGA), [용용](https://open.spotify.com/artist/1HcWymkJxBhuXVIwnyN4j2) | [\#LOVEMEORHATEME](https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk) | 3:15 | 2022-08-01 |  |
 | [Thank you](https://open.spotify.com/track/7n8txCop7N6Cqdw5hhXvBQ) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Thank you](https://open.spotify.com/album/13hzcWq5bzDBiB0997zK00) | 2:16 | 2022-03-03 | 2022-06-14 |
 | [That's me be \(Feat\. TimeFeveR\)](https://open.spotify.com/track/43uFVfnm2JzlSFJ0q7InIH) | [Taeb2](https://open.spotify.com/artist/2PWVaWdOdocqnJhIdaGMRT), [TimeFeveR](https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m) | [That's me be \(Feat\. TimeFeveR\)](https://open.spotify.com/album/47jbFjVlXBMbAwNSDQCUXj) | 3:10 | 2022-02-03 | 2022-05-08 |
 | [That's We](https://open.spotify.com/track/0ELxYNhnn8OPywuQT00GEc) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [영독](https://open.spotify.com/artist/4dVGwChUNSKQBsCWuVwkop), [Young Chang](https://open.spotify.com/artist/10Q98X72E0f5yLez0jEbQt), [obiegogle](https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to), [achillo](https://open.spotify.com/artist/0r5yZki2ePDv8EZ7ah01RA) | [That's We](https://open.spotify.com/album/1ydKFtQJ6R5zXrt9fCTOAg) | 4:31 | 2022-05-11 | 2022-06-30 |

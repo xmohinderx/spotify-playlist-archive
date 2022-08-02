@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,990 likes - 41 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,094 likes - 41 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 40 | [Dom / Hollow \- Live](https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 3:43 |
 | 41 | [You've Got to Belong to It](https://open.spotify.com/track/0lk9vkhW4n1lb2zkrmo22y) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 4:13 |
 
-Snapshot ID: `Mjc2NTQ1ODQsMDAwMDAwMDA3NmY1N2Q2YzRjYzYxMjg2NjIwNGQ4MjNjZWVmNTA5Ng==`
+Snapshot ID: `Mjc2NTYwMDYsMDAwMDAwMDBjNzhhNjc2NjY1OWYyZTg0NGZmZDYyZTI0ODQ3NjgyYg==`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1075947,
+  "num_followers": 1076082,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDY4NmE1NmU5MzM5M2U3OWM2NWFmOWZjNGJlYjk0MzAz",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDc5NmQ0ZjhjMjhhZTMzYjllMzRjNmQ2ZjUyMDI0MjA0",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -415,6 +415,30 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 158807,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Summer Feeling",
         "url": "https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY"
       },
@@ -447,30 +471,6 @@
       "duration_ms": 171359,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7C5E9v2djtVRnNXGsdWd8D"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Anywhere With You",
-        "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
-      },
-      "artists": [
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 158807,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -683,30 +683,6 @@
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "After You (feat. Calle Lehmann)",
-        "url": "https://open.spotify.com/album/1RDosPV9LVUjxUxpzyXHB6"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "Calle Lehmann",
-          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
-        }
-      ],
-      "duration_ms": 224569,
-      "name": "After You (feat. Calle Lehmann)",
-      "url": "https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -771,6 +747,50 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "After You (feat. Calle Lehmann)",
+        "url": "https://open.spotify.com/album/1RDosPV9LVUjxUxpzyXHB6"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Calle Lehmann",
+          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+        }
+      ],
+      "duration_ms": 224569,
+      "name": "After You (feat. Calle Lehmann)",
+      "url": "https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Face To Face",
         "url": "https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg"
       },
@@ -831,26 +851,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Alive (with Calle Lehmann)",
-        "url": "https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Calle Lehmann",
-          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
-        }
-      ],
-      "duration_ms": 222830,
-      "name": "Alive (with Calle Lehmann)",
-      "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Take Me To The Sunshine (feat. BullySongs)",
         "url": "https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd"
       },
@@ -895,26 +895,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij"
       },
@@ -931,22 +911,6 @@
       "duration_ms": 166465,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Love You Back",
-        "url": "https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 214103,
-      "name": "Love You Back",
-      "url": "https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -975,6 +939,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Love You Back",
+        "url": "https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 214103,
+      "name": "Love You Back",
+      "url": "https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Alive (with Calle Lehmann)",
+        "url": "https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calle Lehmann",
+          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+        }
+      ],
+      "duration_ms": 222830,
+      "name": "Alive (with Calle Lehmann)",
+      "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Love Runs Deep",
+        "url": "https://open.spotify.com/album/3ZFHeK3HYytlTh7LASxQwU"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Tiina",
+          "url": "https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8"
+        }
+      ],
+      "duration_ms": 166004,
+      "name": "Love Runs Deep",
+      "url": "https://open.spotify.com/track/33oQaDZex8PFThfgpCpOdH"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Wide Awake (Deluxe)",
         "url": "https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 142334,
       "name": "Be My One",
       "url": "https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Love Runs Deep",
-        "url": "https://open.spotify.com/album/3ZFHeK3HYytlTh7LASxQwU"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Tiina",
-          "url": "https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8"
-        }
-      ],
-      "duration_ms": 166004,
-      "name": "Love Runs Deep",
-      "url": "https://open.spotify.com/track/33oQaDZex8PFThfgpCpOdH"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Burning My Bridges",
+        "url": "https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Burning My Bridges",
+      "url": "https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "LIGHTWAVES",
         "url": "https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 141453,
       "name": "LIGHTWAVES",
       "url": "https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Burning My Bridges",
-        "url": "https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84"
-      },
-      "artists": [
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Burning My Bridges",
-      "url": "https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Sooner Or Later",
+        "url": "https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 200322,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/04NJXwtxjX0mAitFmXHT7O"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 156580,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/0MH5FOAb8S35Lqdt6Jjrly"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Sooner Or Later",
-        "url": "https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 200322,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Waiting For A Lifetime",
-        "url": "https://open.spotify.com/album/31x7YGZaSAiRhSBzh0uVZA"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 172025,
-      "name": "Waiting For A Lifetime",
-      "url": "https://open.spotify.com/track/1Wm5An0CgcaLHkxtPYopfT"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Waiting For A Lifetime",
+        "url": "https://open.spotify.com/album/31x7YGZaSAiRhSBzh0uVZA"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 172025,
+      "name": "Waiting For A Lifetime",
+      "url": "https://open.spotify.com/track/1Wm5An0CgcaLHkxtPYopfT"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Side By Side (with MKLA)",
-        "url": "https://open.spotify.com/album/41tTMz5QHSUZgrKEYzsPlH"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 153870,
-      "name": "Side By Side (with MKLA)",
-      "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 200000,
       "name": "Adicto (feat. Gigolo y La Exce)",
       "url": "https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Side By Side (with MKLA)",
+        "url": "https://open.spotify.com/album/41tTMz5QHSUZgrKEYzsPlH"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 153870,
+      "name": "Side By Side (with MKLA)",
+      "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Heavenly Side",
+        "url": "https://open.spotify.com/album/5zboD55XbkrZ3JJkvXC2EE"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Heavenly Side",
+      "url": "https://open.spotify.com/track/1xddmaN7Ivc2SQ940oBskZ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Getting Late (feat. Danni Carra)",
         "url": "https://open.spotify.com/album/1U1KPw61pnyjLktp0nCiPj"
       },
@@ -1699,22 +1719,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Heavenly Side",
-        "url": "https://open.spotify.com/album/5zboD55XbkrZ3JJkvXC2EE"
+        "name": "La Cita (feat. Ally Brooke)",
+        "url": "https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+          "name": "Ally Brooke",
+          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Heavenly Side",
-      "url": "https://open.spotify.com/track/1xddmaN7Ivc2SQ940oBskZ"
+      "duration_ms": 156007,
+      "name": "La Cita (feat. Ally Brooke)",
+      "url": "https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1735,26 +1755,6 @@
       "duration_ms": 161634,
       "name": "Wild Feelings",
       "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "La Cita (feat. Ally Brooke)",
-        "url": "https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Ally Brooke",
-          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
-        }
-      ],
-      "duration_ms": 156007,
-      "name": "La Cita (feat. Ally Brooke)",
-      "url": "https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "22 Love",
+        "url": "https://open.spotify.com/album/5Y5KPWlPEZnNghuf1bQtMD"
+      },
+      "artists": [
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 137443,
+      "name": "22 Love",
+      "url": "https://open.spotify.com/track/64S5EzF4dYoRWpwbkWLE0R"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/60TLg9E2U94FbEzeYJviHA"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 260312,
       "name": "Heart",
       "url": "https://open.spotify.com/track/1BKpgXxb9OgZfmQsHRcbls"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "22 Love",
-        "url": "https://open.spotify.com/album/5Y5KPWlPEZnNghuf1bQtMD"
-      },
-      "artists": [
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 137443,
-      "name": "22 Love",
-      "url": "https://open.spotify.com/track/64S5EzF4dYoRWpwbkWLE0R"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "IN TOO DEEP",
+        "url": "https://open.spotify.com/album/2uIDS0BENME252QVzy7vQt"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "IN TOO DEEP",
+      "url": "https://open.spotify.com/track/6X4Xy1lGpei1QwmH0jP8Xu"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/5LUsziW09ak7DdjhsBOyfo"
       },
@@ -2031,26 +2047,6 @@
       "duration_ms": 154730,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/2XqUheri1UqUWzzMGIN2fW"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 175292,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2075,6 +2071,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 175292,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/5O2uZU8F0jiMbUvWnXap9Q"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 296567,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2c4dLyo3OqHdaej5tafhfR"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "IN TOO DEEP",
-        "url": "https://open.spotify.com/album/2uIDS0BENME252QVzy7vQt"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "IN TOO DEEP",
-      "url": "https://open.spotify.com/track/6X4Xy1lGpei1QwmH0jP8Xu"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Watercolor",
+        "url": "https://open.spotify.com/album/3DkCczN0suDVGt6TAM9oGi"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 225154,
+      "name": "Watercolor",
+      "url": "https://open.spotify.com/track/0lsrtWc4kEYkLs9Nr0xu3s"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Magnets",
         "url": "https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 219666,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Watercolor",
-        "url": "https://open.spotify.com/album/3DkCczN0suDVGt6TAM9oGi"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 225154,
-      "name": "Watercolor",
-      "url": "https://open.spotify.com/track/0lsrtWc4kEYkLs9Nr0xu3s"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "IF THIS IS A DREAM",
+        "url": "https://open.spotify.com/album/5XPz6B85YTvHKMwFr3nUub"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "IF THIS IS A DREAM",
+      "url": "https://open.spotify.com/track/5yUMvEnrULn5zjYAmltw4c"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Holding Out",
         "url": "https://open.spotify.com/album/6wn2UoElvYYhxpwUWShYEA"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 133220,
       "name": "Holding Out",
       "url": "https://open.spotify.com/track/0dPCSrtlGF3u1ZmsCAypyA"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "IF THIS IS A DREAM",
-        "url": "https://open.spotify.com/album/5XPz6B85YTvHKMwFr3nUub"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "IF THIS IS A DREAM",
-      "url": "https://open.spotify.com/track/5yUMvEnrULn5zjYAmltw4c"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2543,6 +2543,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/0iaxJy9W6DrkrnvwKgdyjf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "duration_ms": 164609,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5tOq0CP7E8025oB6l9eghz"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Stars Belong With You",
         "url": "https://open.spotify.com/album/6XWOydRIMwfeCZG2KytXc6"
       },
@@ -2603,26 +2623,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/0iaxJy9W6DrkrnvwKgdyjf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "TWERL",
-          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
-        }
-      ],
-      "duration_ms": 164609,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5tOq0CP7E8025oB6l9eghz"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "The Way Back Up",
         "url": "https://open.spotify.com/album/6JI14Iisr1vEyw3YiMe1rs"
       },
@@ -2663,26 +2663,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "More Than A Feeling (feat. Grace Tither)",
-        "url": "https://open.spotify.com/album/2qkuefgzRm1yK8ckW9iR22"
-      },
-      "artists": [
-        {
-          "name": "Blinkie",
-          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
-        },
-        {
-          "name": "Grace Tither",
-          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
-        }
-      ],
-      "duration_ms": 207754,
-      "name": "More Than A Feeling (feat. Grace Tither)",
-      "url": "https://open.spotify.com/track/55dEeQaniZNKnePkzZNJGg"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Know",
         "url": "https://open.spotify.com/album/1nxBOq1s4IrC4W0eqiwrpV"
       },
@@ -2699,6 +2679,26 @@
       "duration_ms": 251687,
       "name": "Know",
       "url": "https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "More Than A Feeling (feat. Grace Tither)",
+        "url": "https://open.spotify.com/album/2qkuefgzRm1yK8ckW9iR22"
+      },
+      "artists": [
+        {
+          "name": "Blinkie",
+          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
+        },
+        {
+          "name": "Grace Tither",
+          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
+        }
+      ],
+      "duration_ms": 207754,
+      "name": "More Than A Feeling (feat. Grace Tither)",
+      "url": "https://open.spotify.com/track/55dEeQaniZNKnePkzZNJGg"
     },
     {
       "added_at": "2022-07-29 04:01:00",

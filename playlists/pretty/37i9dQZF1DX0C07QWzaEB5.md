@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783 likes - 107 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785 likes - 107 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 28 | [RETRO FUTURE](https://open.spotify.com/track/7Lq1Z8VIW7oE7m34kksHYp) | [Triple H](https://open.spotify.com/artist/1klFdLh3pak3eOtJP0styY) | [REtro Futurism](https://open.spotify.com/album/2NHBgZwncUhQbmcRmYKm8z) | 3:15 |
 | 29 | [셀럽파이브 \(셀럽이 되고 싶어\)](https://open.spotify.com/track/3MyHNAUvpUninlj0v0JgeF) | [Celeb Five](https://open.spotify.com/artist/6uxtW6aFdPmCXF6GWbVaOU) | [셀럽파이브 \(셀럽이 되고 싶어\)](https://open.spotify.com/album/53Dc3UlkQWGHZSCoXxv6ul) | 2:28 |
 | 30 | [In The Summer by SSAK3 \(Feat\. Kwang Hee Hwang\)](https://open.spotify.com/track/1MELIJNsr1KyHJOJufbheK) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [Kwang Hee Hwang](https://open.spotify.com/artist/2aU36OPcjBFlI8lkXrnxxE) | [In The Summer by SSAK3](https://open.spotify.com/album/6r63LLH5HEEtTE86btnJD8) | 4:41 |
-| 31 | [Play the Summer](https://open.spotify.com/track/3DbJBVdTQb4fFcVnSgirer) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M) | [Play the Summer](https://open.spotify.com/album/46yrNWQHbUAdWamoWhu69e) | 3:24 |
+| 31 | [Play the Summer](https://open.spotify.com/track/3DbJBVdTQb4fFcVnSgirer) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh), [B.RYONG](https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo) | [Play the Summer](https://open.spotify.com/album/46yrNWQHbUAdWamoWhu69e) | 3:24 |
 | 32 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 |
 | 33 | [Shutter](https://open.spotify.com/track/3xHp63YdYpsZdprLhDzj9m) | [Celeb Five](https://open.spotify.com/artist/6uxtW6aFdPmCXF6GWbVaOU), [Duck Hwa Lee](https://open.spotify.com/artist/6tSOt2aIfCwzZPWi6dhzEf) | [Shutter](https://open.spotify.com/album/65I3kacETR0ekRVQPqCIhg) | 2:30 |
 | 34 | [Rocking Roll Again](https://open.spotify.com/track/5pUFte88lrOobecyIvce3q) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 4:08 |

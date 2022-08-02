@@ -576,6 +576,28 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/369ILWuXAASSBnDQgk7N0t"
+      },
+      "artists": [
+        {
+          "name": "Mylonrae",
+          "url": "https://open.spotify.com/artist/4xgaco7Zmmyjhkaz5ZTa4j"
+        },
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188593,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/6BUtF5tCg0SyVYqYPuiwI1"
+    },
+    {
+      "album": {
         "name": "Body Heat",
         "url": "https://open.spotify.com/album/51jFumSXhqsS5DaseOhCgj"
       },
@@ -1503,6 +1525,28 @@
       "duration_ms": 178629,
       "name": "Eastern Dub",
       "url": "https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh"
+    },
+    {
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5eBeEanzqE1DftmUfjsg1E"
+      },
+      "artists": [
+        {
+          "name": "Autodepth",
+          "url": "https://open.spotify.com/artist/1UdV4KYu2FYUcEyuD1mbCz"
+        },
+        {
+          "name": "Riski Pramana",
+          "url": "https://open.spotify.com/artist/1LMTupkLAUKPjTZxNGyTJY"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143149,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/3KGmBpekWkmNk8CDyjW9h4"
     },
     {
       "album": {

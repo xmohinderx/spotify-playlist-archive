@@ -1,12 +1,12 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: Brennan Savage",
-  "num_followers": 1312579,
+  "num_followers": 1313154,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MjU0MCwwMDAwMDAwMDEyYmZhMjM0ZWFkMDAyMjVhZTNjZTQ2ODVhMzcyZWVi",
+  "snapshot_id": "MTY1OTM4NjYxOSwwMDAwMDAwMDYzZWU3MTU3ZDhiNTAwZGRiZTdkYmNhZjAzYzIyMDA0",
   "tracks": [
     {
       "added_at": "2022-07-29 05:29:00",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
     },
     {
+      "added_at": "2022-08-01 20:43:39",
+      "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 238145,
+      "name": "Matte Black",
+      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
+    },
+    {
       "added_at": "2022-07-29 05:29:00",
       "album": {
         "name": "Star Shopping",
@@ -87,6 +103,22 @@
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "\u2022NOTDEAD!\u2022",
+        "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 190188,
+      "name": "\u2022NOTDEAD!\u2022",
+      "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -111,18 +143,34 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "\u2022NOTDEAD!\u2022",
-        "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
+        "name": "Ode",
+        "url": "https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi"
       },
       "artists": [
         {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+          "name": "Yoshi Flower",
+          "url": "https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il"
         }
       ],
-      "duration_ms": 190188,
-      "name": "\u2022NOTDEAD!\u2022",
-      "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
+      "duration_ms": 217853,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 166605,
+      "name": "SAD!",
+      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -143,22 +191,6 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "Ode",
-        "url": "https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi"
-      },
-      "artists": [
-        {
-          "name": "Yoshi Flower",
-          "url": "https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -171,22 +203,6 @@
       "duration_ms": 165819,
       "name": "All Girls Are The Same",
       "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
-        "name": "LIFE'S A TRIP",
-        "url": "https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 121680,
-      "name": "Taking A Walk",
-      "url": "https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -207,18 +223,18 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 166605,
-      "name": "SAD!",
-      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+      "duration_ms": 121680,
+      "name": "Taking A Walk",
+      "url": "https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -291,26 +307,6 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu"
-      },
-      "artists": [
-        {
-          "name": "itssvd",
-          "url": "https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 120546,
-      "name": "Losing Interest",
-      "url": "https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -347,6 +343,42 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu"
+      },
+      "artists": [
+        {
+          "name": "itssvd",
+          "url": "https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 120546,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "Come Over When You're Sober, Pt. 1",
+        "url": "https://open.spotify.com/album/33TJ52PuwenGmysJrwMGCe"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "Save That Shit",
+      "url": "https://open.spotify.com/track/0S0vWvyZ6Rc79TXkWxT9QA"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
         "name": "ALL GIRLS ARE THE SAME",
         "url": "https://open.spotify.com/album/0j5TwvQkHVoLX2n7iERVOl"
       },
@@ -359,6 +391,22 @@
       "duration_ms": 121949,
       "name": "ALL GIRLS ARE THE SAME",
       "url": "https://open.spotify.com/track/4xhWfr0tyA7BGL7eXo8KnV"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 194621,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -423,38 +471,6 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 194621,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
-        "name": "Come Over When You're Sober, Pt. 1",
-        "url": "https://open.spotify.com/album/33TJ52PuwenGmysJrwMGCe"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "Save That Shit",
-      "url": "https://open.spotify.com/track/0S0vWvyZ6Rc79TXkWxT9QA"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
         "name": "Dead and Cold",
         "url": "https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU"
       },
@@ -467,6 +483,42 @@
       "duration_ms": 89624,
       "name": "Dead and Cold",
       "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "beamer boy",
+        "url": "https://open.spotify.com/album/69nnJOr40uKMOFvB1sSKLp"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Nedarb",
+          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "beamer boy",
+      "url": "https://open.spotify.com/track/7hf89cT5FEmLV5E9fjrjG7"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -503,38 +555,6 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "F*CK LOVE (SAVAGE)",
-        "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -567,22 +587,34 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "beamer boy",
-        "url": "https://open.spotify.com/album/69nnJOr40uKMOFvB1sSKLp"
+        "name": "Cherry Blossoms",
+        "url": "https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9"
       },
       "artists": [
         {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "Nedarb",
-          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
         }
       ],
-      "duration_ms": 203373,
-      "name": "beamer boy",
-      "url": "https://open.spotify.com/track/7hf89cT5FEmLV5E9fjrjG7"
+      "duration_ms": 138311,
+      "name": "Cherry Blossoms",
+      "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "F*CK LOVE (SAVAGE)",
+        "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -627,18 +659,22 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "Cherry Blossoms",
-        "url": "https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9"
+        "name": "CASTLES II",
+        "url": "https://open.spotify.com/album/4PBXjrqtjZmYtt37kB7px5"
       },
       "artists": [
         {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
         }
       ],
-      "duration_ms": 138311,
-      "name": "Cherry Blossoms",
-      "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
+      "duration_ms": 177386,
+      "name": "your favorite dress",
+      "url": "https://open.spotify.com/track/1i5VGJwl7gFw0hQP4dVDgK"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -679,6 +715,22 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
+        "name": "Thbk.",
+        "url": "https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo"
+      },
+      "artists": [
+        {
+          "name": "Papithbk",
+          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
+        }
+      ],
+      "duration_ms": 100120,
+      "name": "Love Is a Drug",
+      "url": "https://open.spotify.com/track/0Q06s7TNQH8irO2sfvuFnn"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
         "name": "you never meant it",
         "url": "https://open.spotify.com/album/6qT7iBnEv3I56ESve2jgfn"
       },
@@ -699,22 +751,6 @@
       "duration_ms": 117692,
       "name": "you never meant it",
       "url": "https://open.spotify.com/track/4LMlIX9Y8qziRafzW30mGc"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
-        "name": "Thbk.",
-        "url": "https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo"
-      },
-      "artists": [
-        {
-          "name": "Papithbk",
-          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
-        }
-      ],
-      "duration_ms": 100120,
-      "name": "Love Is a Drug",
-      "url": "https://open.spotify.com/track/0Q06s7TNQH8irO2sfvuFnn"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -747,26 +783,6 @@
       "duration_ms": 159381,
       "name": "Falling",
       "url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
-        "name": "CASTLES II",
-        "url": "https://open.spotify.com/album/4PBXjrqtjZmYtt37kB7px5"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "Lil Tracy",
-          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "your favorite dress",
-      "url": "https://open.spotify.com/track/1i5VGJwl7gFw0hQP4dVDgK"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -975,6 +991,22 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
         "name": "why am i crying",
         "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
       },
@@ -991,6 +1023,22 @@
       "duration_ms": 204659,
       "name": "Letter to Jarad",
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "F*ck Love",
+        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 197368,
+      "name": "F*ck Love",
+      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -1015,22 +1063,6 @@
       "duration_ms": 134608,
       "name": "Memory",
       "url": "https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
-        "name": "F*ck Love",
-        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
-      },
-      "artists": [
-        {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
-        }
-      ],
-      "duration_ms": 197368,
-      "name": "F*ck Love",
-      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -1067,18 +1099,18 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
+        "name": "dream girl",
+        "url": "https://open.spotify.com/album/04rhxkRkDHgofGYxLkmg9a"
       },
       "artists": [
         {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+          "name": "8percent",
+          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
         }
       ],
-      "duration_ms": 154893,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
+      "duration_ms": 87379,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/3agflhasTpwVk5opeCab2a"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -1099,22 +1131,6 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "dream girl",
-        "url": "https://open.spotify.com/album/04rhxkRkDHgofGYxLkmg9a"
-      },
-      "artists": [
-        {
-          "name": "8percent",
-          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
-        }
-      ],
-      "duration_ms": 87379,
-      "name": "dream girl",
-      "url": "https://open.spotify.com/track/3agflhasTpwVk5opeCab2a"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
         "name": "EAT YOUR HEART OUT",
         "url": "https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 249475,
       "name": "KILL CUPID",
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 119371,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "i think you're really cool",
-        "url": "https://open.spotify.com/album/5MwIUCqx7rO5LQpS3KOzW6"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
       },
       "artists": [
         {
-          "name": "guardin",
-          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 160660,
-      "name": "i think you're really cool",
-      "url": "https://open.spotify.com/track/78cIbVjU1xn7mbQ9i35avl"
+      "duration_ms": 119371,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -1271,6 +1271,22 @@
       "duration_ms": 172307,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "i think you're really cool",
+        "url": "https://open.spotify.com/album/5MwIUCqx7rO5LQpS3KOzW6"
+      },
+      "artists": [
+        {
+          "name": "guardin",
+          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
+        }
+      ],
+      "duration_ms": 160660,
+      "name": "i think you're really cool",
+      "url": "https://open.spotify.com/track/78cIbVjU1xn7mbQ9i35avl"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "Tell Me Why I'm Waiting",
-        "url": "https://open.spotify.com/album/3XqC5Id2B3Ak8fGawP8NQt"
-      },
-      "artists": [
-        {
-          "name": "creamy",
-          "url": "https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu"
-        }
-      ],
-      "duration_ms": 139357,
-      "name": "Tell Me Why I'm Waiting",
-      "url": "https://open.spotify.com/track/7gu0zaym9C9Kp1va4ZeYXR"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
         "name": "jaded",
         "url": "https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 160624,
       "name": "jaded",
       "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "Tell Me Why I'm Waiting",
+        "url": "https://open.spotify.com/album/3XqC5Id2B3Ak8fGawP8NQt"
+      },
+      "artists": [
+        {
+          "name": "creamy",
+          "url": "https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu"
+        }
+      ],
+      "duration_ms": 139357,
+      "name": "Tell Me Why I'm Waiting",
+      "url": "https://open.spotify.com/track/7gu0zaym9C9Kp1va4ZeYXR"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 165238,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 177866,
       "name": "BLUE MOON (feat. Teddi Jones)",
       "url": "https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 165238,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH"
     },
     {
       "added_at": "2022-07-29 05:29:00",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
         "name": "Outta Time",
         "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
       },
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-07-29 05:29:00",
       "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
+    },
+    {
+      "added_at": "2022-07-29 05:29:00",
+      "album": {
         "name": "THEY DON'T KNOW",
         "url": "https://open.spotify.com/album/2xAgOtruwnkJarTLexy2DS"
       },
@@ -1759,26 +1775,6 @@
       "duration_ms": 103783,
       "name": "THEY DON'T KNOW",
       "url": "https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4"
-    },
-    {
-      "added_at": "2022-07-29 05:29:00",
-      "album": {
-        "name": "Disappointment (feat. Rxseboy)",
-        "url": "https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        },
-        {
-          "name": "Rxseboy",
-          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
-        }
-      ],
-      "duration_ms": 142092,
-      "name": "Disappointment (feat. Rxseboy)",
-      "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
     }
   ],
   "unique_name": "tear drop",

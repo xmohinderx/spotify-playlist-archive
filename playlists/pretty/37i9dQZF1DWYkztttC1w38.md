@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,881 likes - 69 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,044 likes - 69 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 68 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 |
 | 69 | [Debussy: Piano Trio in G Major, L\. 5: III\. Andante espressivo](https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Debussy: Sonatas and Piano Trio](https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ) | 3:47 |
 
-Snapshot ID: `MTY1MTU5MDk0NywwMDAwMDAwMGY2NGE1MjkyOTlmZWM5ZmZjYTA4Mjg2ZWMxMmJiMDFh`
+Snapshot ID: `MTY1OTM2MTU0NCwwMDAwMDAwMDU4NmRiNGNmZmVkMTZiNGEzNTI1OTcyODY3ZmQyMTBk`

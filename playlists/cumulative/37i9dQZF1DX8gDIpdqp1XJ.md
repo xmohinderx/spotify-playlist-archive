@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-581 songs - 1 day 14 hr 57 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+582 songs - 1 day 15 hr 0 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [High Planes Drifter](https://open.spotify.com/track/5wOusANJawBx6g4h0cEsZK) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Laughing Matter](https://open.spotify.com/album/7bW72XJFGvtFYpq8To57rs) | 2:41 | 2021-04-02 | 2022-04-21 |
 | [High School](https://open.spotify.com/track/1w4f9jhKm3UpxPwptOmKWB) | [Maus Haus](https://open.spotify.com/artist/7iEdCBYWlsafMAitS8gaUt) | [High School / White Kids](https://open.spotify.com/album/6trPEKXe7KdMxhQuX2CtXS) | 3:44 | 2021-04-02 | 2022-04-14 |
 | [Hippo](https://open.spotify.com/track/62ik4X7W26bB7X9JtJcTjY) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Hippo](https://open.spotify.com/album/1w2SKr8HERIcQbsP3kWEUB) | 2:20 | 2022-03-08 | 2022-07-05 |
+| [Holy Hell](https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Holy Hell](https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj) | 3:24 | 2022-08-01 |  |
 | [Holy Horses](https://open.spotify.com/track/0atPVK6261u8TWcLYeCDum) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Hot Motion](https://open.spotify.com/album/4I7hYmqMM1FcLQu1GI6gji) | 3:05 | 2021-04-02 | 2022-04-19 |
 | [Honey](https://open.spotify.com/track/01IuTsgAlgKlgrvPhZ2c95) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Honey](https://open.spotify.com/album/0dEEs01PwyL7KQbhJsNJKQ) | 4:33 | 2021-04-02 | 2022-04-21 |
 | [Hot Motion](https://open.spotify.com/track/1P7n72AsDVcl9dTgTW5LGw) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Hot Motion](https://open.spotify.com/album/0FYLRZNgY3IJv6LepnK8ub) | 5:48 | 2022-04-20 | 2022-07-03 |
@@ -324,7 +325,7 @@
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/4N5JhudHz0Wlj9r3FDpGyi) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Me Myself and Dollar Hell](https://open.spotify.com/album/3vZXuT5lKdbUFKNhXLtN81) | 3:00 | 2021-08-20 | 2022-07-09 |
 | [Meet You in the Dark](https://open.spotify.com/track/5QOmCG8ujCRA7lgDOFJXv6) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Meet You in the Dark](https://open.spotify.com/album/5BqQM6aij8GzQgcNyuOQln) | 2:55 | 2021-04-02 | 2022-07-07 |
 | [Message to Belial](https://open.spotify.com/track/10UowVLIvh4tRKl5fyyxEf) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Message to Belial](https://open.spotify.com/album/5SkWuKri1hKZj18j33maZ3) | 3:15 | 2022-03-08 | 2022-07-02 |
-| [Metronomic Underground](https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn) | 7:54 | 2022-07-22 |  |
+| [Metronomic Underground](https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn) | 7:54 | 2022-07-22 | 2022-08-02 |
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2021-06-04 | 2022-07-09 |
 | [Midnight Wine](https://open.spotify.com/track/0lNcAOT252WBjdJO7rFUa4) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Midnight Wine](https://open.spotify.com/album/4AviuLYZTU7Bc0bk87H4uj) | 3:18 | 2021-08-20 | 2022-04-21 |
 | [Moment to Change](https://open.spotify.com/track/1ML1hKOswbviGfAGVLXA3k) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [At the Moment](https://open.spotify.com/album/6AANVkZf5rOwMb1emJOPpe) | 3:11 | 2021-08-20 | 2022-07-30 |

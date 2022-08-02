@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 5390,
+  "num_followers": 5409,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMDJhYTVjOGI3YjM2YzNhY2NkNTI4YTliNWIyN2RmZjcx",
+  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMDQ1MDQwZmFjYjI5ZWFiOTU3OTQwODhlMmY2MDU2NjE2",
   "tracks": [
     {
       "added_at": "2022-05-05 23:00:00",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
         "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
@@ -143,18 +159,18 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -241,22 +257,6 @@
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
       "added_at": "2021-06-07 12:50:41",
       "album": {
         "name": "Woman",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/2zMTOFjChHz0XEcM0kRt4K"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
-    },
-    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Mufasa",
@@ -353,22 +337,6 @@
       "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
     },
     {
-      "added_at": "2022-07-04 07:22:23",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
-    },
-    {
       "added_at": "2022-02-17 23:00:00",
       "album": {
         "name": "Ololade Asake",
@@ -383,6 +351,22 @@
       "duration_ms": 190791,
       "name": "Sungba",
       "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
+    },
+    {
+      "added_at": "2022-07-04 07:22:23",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2022-07-25 06:25:14",
@@ -407,6 +391,22 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
     },
     {
       "added_at": "2022-03-24 23:00:00",
@@ -613,6 +613,30 @@
       "url": "https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Bad Girl (feat. Wande Coal and Victony)",
+        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 204232,
+      "name": "Bad Girl (feat. Wande Coal and Victony)",
+      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
+    },
+    {
       "added_at": "2022-05-19 23:00:00",
       "album": {
         "name": "Fvck Off",
@@ -713,22 +737,6 @@
       "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
     },
     {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "S\u00e1r\u00e9",
-        "url": "https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "S\u00e1r\u00e9",
-      "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
-    },
-    {
       "added_at": "2022-07-22 04:29:24",
       "album": {
         "name": "Jaiye (Ihe Geme)",
@@ -745,28 +753,20 @@
       "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
+      "added_at": "2022-02-17 23:00:00",
       "album": {
-        "name": "Bad Girl (feat. Wande Coal and Victony)",
-        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
+        "name": "S\u00e1r\u00e9",
+        "url": "https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 204232,
-      "name": "Bad Girl (feat. Wande Coal and Victony)",
-      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
+      "duration_ms": 154000,
+      "name": "S\u00e1r\u00e9",
+      "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
     },
     {
       "added_at": "2022-05-19 23:00:00",
@@ -893,26 +893,6 @@
       "url": "https://open.spotify.com/track/6dzK4aJJaO3NBYNVGcuPH7"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
-      "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/58caLgwj61i831LmHAu6kU"
-      },
-      "artists": [
-        {
-          "name": "Jay Moore",
-          "url": "https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 157647,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/2t4dEWxR7CaMAlM6TMIMT3"
-    },
-    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "YARD (feat. Black Sherif, Bella Shmurda & Alpha P)",
@@ -939,6 +919,26 @@
       "duration_ms": 189913,
       "name": "YARD (feat. Black Sherif, Bella Shmurda & Alpha P)",
       "url": "https://open.spotify.com/track/41OAbUwS3yasOZU7CGAPy7"
+    },
+    {
+      "added_at": "2022-06-23 23:00:00",
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/58caLgwj61i831LmHAu6kU"
+      },
+      "artists": [
+        {
+          "name": "Jay Moore",
+          "url": "https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 157647,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/2t4dEWxR7CaMAlM6TMIMT3"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -981,28 +981,20 @@
       "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
+      "added_at": "2022-07-22 04:29:24",
       "album": {
-        "name": "Hennessy (Remix)",
-        "url": "https://open.spotify.com/album/0nZh7vzE6SPFK7qQckplwZ"
+        "name": "Shaye",
+        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
       },
       "artists": [
         {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Hennessy - Remix",
-      "url": "https://open.spotify.com/track/6B6yXEraBwQVlTdqtT03Lx"
+      "duration_ms": 169043,
+      "name": "Shaye",
+      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -1029,20 +1021,28 @@
       "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
     },
     {
-      "added_at": "2022-07-22 04:29:24",
+      "added_at": "2022-06-23 23:00:00",
       "album": {
-        "name": "Shaye",
-        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
+        "name": "Hennessy (Remix)",
+        "url": "https://open.spotify.com/album/0nZh7vzE6SPFK7qQckplwZ"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
         }
       ],
-      "duration_ms": 169043,
-      "name": "Shaye",
-      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
+      "duration_ms": 183829,
+      "name": "Hennessy - Remix",
+      "url": "https://open.spotify.com/track/6B6yXEraBwQVlTdqtT03Lx"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -1137,26 +1137,6 @@
       "url": "https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5"
     },
     {
-      "added_at": "2021-11-25 23:01:00",
-      "album": {
-        "name": "Nataraja",
-        "url": "https://open.spotify.com/album/70Maw3SbX3PPtRbgHc9VKj"
-      },
-      "artists": [
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6W79tvE9ZPzHtV2wPwwGUT"
-    },
-    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "Kuacha",
@@ -1183,6 +1163,26 @@
       "duration_ms": 190839,
       "name": "Kuacha",
       "url": "https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7"
+    },
+    {
+      "added_at": "2021-11-25 23:01:00",
+      "album": {
+        "name": "Nataraja",
+        "url": "https://open.spotify.com/album/70Maw3SbX3PPtRbgHc9VKj"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6W79tvE9ZPzHtV2wPwwGUT"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1213,24 +1213,24 @@
       "url": "https://open.spotify.com/track/2TPeS0lnHdt9ekFmpkQ3pj"
     },
     {
-      "added_at": "2021-07-09 00:00:00",
+      "added_at": "2022-07-28 23:00:00",
       "album": {
-        "name": "High Tension 2.0",
-        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
+        "name": "Full Current (That's My baby)",
+        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
       },
       "artists": [
         {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 199280,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0xHd7j5lVaKaHbOjs0EXIq"
+      "duration_ms": 208296,
+      "name": "Full Current (That's My Baby)",
+      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
     }
   ],
   "unique_name": "Keep Fit Club ",

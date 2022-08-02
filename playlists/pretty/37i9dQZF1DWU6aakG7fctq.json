@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Kevin Kaarl",
-  "num_followers": 499946,
+  "num_followers": 499983,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUxOTIzMiwwMDAwMDAwMGQwMGI4NjE2MDliMDA2ZGQ0M2VkMzIwYzczYTMwNDAz",
+  "snapshot_id": "MTY1NjUxOTIzMiwwMDAwMDAwMDY2OGY2ODZkNDNkNDM4ZWMzZTUyMDA3OWJmZTQ2MGNi",
   "tracks": [
     {
       "added_at": "2022-06-29 16:13:51",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f"
+      "duration_ms": 174622,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 174622,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "Querer Querer",
-        "url": "https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Nunca Es Tarde",
-      "url": "https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
+        "name": "Querer Querer",
+        "url": "https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Nunca Es Tarde",
+      "url": "https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
+        "name": "Everybody Wants to Rule the World",
+        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
+      },
+      "artists": [
+        {
+          "name": "Making Movies",
+          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
         "name": "Mal Hecha (Deluxe)",
         "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 197768,
       "name": "s a l u d o s",
       "url": "https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
-        "name": "Everybody Wants to Rule the World",
-        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
-      },
-      "artists": [
-        {
-          "name": "Making Movies",
-          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -735,6 +735,22 @@
       "duration_ms": 180746,
       "name": "Puente",
       "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
+        "name": "Handful of Water",
+        "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 151746,
+      "name": "Handful of Water",
+      "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -783,22 +799,6 @@
       "duration_ms": 138741,
       "name": "un poco m\u00e1s",
       "url": "https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
-        "name": "Handful of Water",
-        "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 151746,
-      "name": "Handful of Water",
-      "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/519wEU7Sp6ZoypwPArhgny"
-      },
-      "artists": [
-        {
-          "name": "Esty",
-          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1Mr9Uiv2AFiiqmKWOpzXjW"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
         "name": "\u00a1p\u00e1rate!",
         "url": "https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 153189,
       "name": "\u00a1p\u00e1rate!",
       "url": "https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/519wEU7Sp6ZoypwPArhgny"
+      },
+      "artists": [
+        {
+          "name": "Esty",
+          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1Mr9Uiv2AFiiqmKWOpzXjW"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "IN MY ROOM!",
-      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
         "name": "ELET\u00c9",
         "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 222466,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/0g9lp41XLg8wgSaZlXtt6G"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
+        "name": "Que Sufras",
+        "url": "https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "duration_ms": 282069,
+      "name": "Que Sufras",
+      "url": "https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E"
     }
   ],
   "unique_name": "el nuevo indie",

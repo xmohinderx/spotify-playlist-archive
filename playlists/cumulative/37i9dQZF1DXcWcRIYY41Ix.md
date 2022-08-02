@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Pedro Pastor
 
-278 songs - 17 hr 16 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+279 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 | 2021-12-24 |  |
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2021-12-24 |  |
 | [Lo que hay afuera](https://open.spotify.com/track/2bwGFuDKsVxfIV1nIWadcP) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [Lo que hay afuera](https://open.spotify.com/album/7xmlhbWss64Cozcucei7Ys) | 5:20 | 2022-04-01 | 2022-04-21 |
+| [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2022-07-22 |  |
 | [Los Fugaces](https://open.spotify.com/track/1pmz5PiqPyhAWbRN5sSwpg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Los Fugaces](https://open.spotify.com/album/25rWkoEU6iw4EBuvH7BrBr) | 3:28 | 2021-12-24 | 2022-05-24 |
 | [Los Pájaros de Ciudad](https://open.spotify.com/track/07IHpkOUmcE2wlNbWYnxQ9) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Los Pájaros de Ciudad](https://open.spotify.com/album/5ZFzN977yU8AAMkUmZwVfQ) | 3:19 | 2021-12-24 | 2022-04-29 |
 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 | 2021-12-24 |  |
@@ -171,7 +172,7 @@
 | [Mirando el Mar \- Versión Palmera](https://open.spotify.com/track/6gu0EkZTYS1fomV6G3XBIH) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Vuela Lejos \(Abriendo Latidos\)](https://open.spotify.com/album/7gMauUcw3rCV8hxRVbAruM) | 3:07 | 2022-06-10 | 2022-06-25 |
 | [Miña Rula / Non Teñas Medo](https://open.spotify.com/track/6t5rXtW76GQiCfdR4IWHQW) | [Santi Araújo](https://open.spotify.com/artist/4OhOLgx55siRiNJmSXoAMc), [Leonor Watling](https://open.spotify.com/artist/3Ugtds1yOqfTzTwP9iHFZ3) | [Miña Rula / Non Teñas Medo](https://open.spotify.com/album/68eQTK4Za02Ytl2IJ9qF1w) | 3:32 | 2022-02-04 | 2022-05-27 |
 | [Momentánea](https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Momentánea](https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a) | 4:00 | 2021-12-24 |  |
-| [Multicolor](https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr) | [Suav](https://open.spotify.com/artist/6ikNnbnMCZksFowOy5W1qb) | [Bajamar](https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh) | 4:46 | 2022-07-22 |  |
+| [Multicolor](https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr) | [Suav](https://open.spotify.com/artist/6ikNnbnMCZksFowOy5W1qb) | [Bajamar](https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh) | 4:46 | 2022-07-22 | 2022-08-02 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-12-24 | 2022-07-29 |
 | [nana triste](https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Otras Alas](https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4) | 3:07 | 2021-12-24 |  |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2021-12-24 |  |

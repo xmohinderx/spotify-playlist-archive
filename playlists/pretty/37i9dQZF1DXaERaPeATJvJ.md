@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: Funny Little Dream
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,250 likes - 84 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,259 likes - 84 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

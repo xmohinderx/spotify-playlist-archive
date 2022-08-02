@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,303 likes - 97 songs - 5 hr 27 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,303 likes - 98 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 95 | [Stay \- Slow Magic Remix](https://open.spotify.com/track/7311fH65MZV550TYVwRfFG) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:55 |
 | 96 | [All This Motion \(with Louis the Child\)](https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:27 |
 | 97 | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/track/65X5k4AUa5sWiTld3zUXns) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/album/0B3RsQ68U3zlZlGmO1kIsi) | 2:25 |
+| 98 | [Falcon](https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD) | [Cherry Flavored Antacids](https://open.spotify.com/artist/45WhFmbNarLeiAJr9YElJ7) | [Falcon](https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth) | 5:41 |
 
-Snapshot ID: `OTg4Niw4ZWYyMTFkZDU1YWVkYmIwMjg2YTg1MmMyYmIyZmMyZDFjNzQ4M2Zm`
+Snapshot ID: `OTg4NyxjMzUzODZkOGE0MjY0NDU0MTE3M2I3OGY1NjMyYzc5NzdhOWI0YjQx`

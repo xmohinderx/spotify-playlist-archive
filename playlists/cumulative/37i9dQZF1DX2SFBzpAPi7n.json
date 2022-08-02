@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Banana yum-yum",
+        "url": "https://open.spotify.com/album/77gMAEvPFfjkLDbNKNOKyY"
+      },
+      "artists": [
+        {
+          "name": "6band",
+          "url": "https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Banana yum-yum",
+      "url": "https://open.spotify.com/track/7dvpAoNujFptWBBuPz4UDA"
+    },
+    {
+      "album": {
         "name": "Be The Rockstar",
         "url": "https://open.spotify.com/album/7rlIdvxHB7X7DKervWcjzY"
       },
@@ -849,7 +867,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 246706,
       "name": "Break Through",
       "url": "https://open.spotify.com/track/7A45JvsGzoiGPZBFmPIxGp"
@@ -1009,6 +1027,46 @@
       "duration_ms": 264813,
       "name": "Circle",
       "url": "https://open.spotify.com/track/5ovDdxNULZDItJXsrN5O3o"
+    },
+    {
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/7mN3JTbV6i4xL2LpM8K3g8"
+      },
+      "artists": [
+        {
+          "name": "moneto",
+          "url": "https://open.spotify.com/artist/2fDgVWeIDSt1EOqFbPRXu7"
+        },
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220177,
+      "name": "Classic (feat. MRCH)",
+      "url": "https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW"
+    },
+    {
+      "album": {
+        "name": "Colors of",
+        "url": "https://open.spotify.com/album/6a3yd7PCqC4GYDJQlAWPb3"
+      },
+      "artists": [
+        {
+          "name": "Doorlesshouse",
+          "url": "https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209953,
+      "name": "Colors of",
+      "url": "https://open.spotify.com/track/4mGo0G3WCny26CJRiCyXUU"
     },
     {
       "album": {
@@ -1659,6 +1717,24 @@
       "duration_ms": 363080,
       "name": "Flare",
       "url": "https://open.spotify.com/track/5qvCcpVLeYGwJSIP2aU5uP"
+    },
+    {
+      "album": {
+        "name": "Fly!",
+        "url": "https://open.spotify.com/album/6H7O2x05Dg5toCVrSBJST4"
+      },
+      "artists": [
+        {
+          "name": "Kim Marie",
+          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Fly!",
+      "url": "https://open.spotify.com/track/2q4Y6cC3bv8UoXjVZEArgo"
     },
     {
       "album": {
@@ -3225,7 +3301,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 332500,
       "name": "Love Scene",
       "url": "https://open.spotify.com/track/4msc0gNZXxZYWdRUlQgDsj"
@@ -3571,6 +3647,24 @@
       "duration_ms": 211826,
       "name": "New days",
       "url": "https://open.spotify.com/track/6SPEL89GtDGf1LoZaYLnUr"
+    },
+    {
+      "album": {
+        "name": "New Plant",
+        "url": "https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302178,
+      "name": "New Plant",
+      "url": "https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M"
     },
     {
       "album": {
@@ -5207,7 +5301,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 205076,
       "name": "stuck on you",
       "url": "https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE"
@@ -5679,7 +5773,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 241692,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
@@ -6361,7 +6455,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 194773,
       "name": "You Make Me Back",
       "url": "https://open.spotify.com/track/1cwHRnup3iQoGAzUDwXQsh"

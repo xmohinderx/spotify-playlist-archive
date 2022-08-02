@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-54 songs - 2 hr 51 min - not published yet
+54 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/7j0hx8xgFXlZXHslHq43a6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep & OJ Reambillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,707 likes - 82 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,713 likes - 82 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 81 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 |
 | 82 | [Hotel V](https://open.spotify.com/track/1WhCMZuYVLqRoSHFTYkYCi) | [Distant Vega](https://open.spotify.com/artist/3nj7zqPOrLe1f2lPZN3W0U) | [Hotel V](https://open.spotify.com/album/4iLFOuFjU5pQfxjnNdHcki) | 3:23 |
 
-Snapshot ID: `MTY1OTIwNzM2NiwwMDAwMDAwMGUzYzAzMjliMDNhYTYzOTBhYWUxMGE4ZGEyYjIxYjRh`
+Snapshot ID: `MTY1OTM3Mzk0OCwwMDAwMDAwMGM2ODUyODE2ZGM4YmE3MzIxMTYzNTBkYmVkMTYxZWJm`

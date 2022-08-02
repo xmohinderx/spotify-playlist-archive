@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Aqueous",
-  "num_followers": 3054,
+  "num_followers": 3126,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDQyMzVlMmQ1MmVlMzkyMDJjZGM1ZDJlY2Q0YzI2YzMw",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDZmODNiM2E3YjBmZTUxOTgyYWZmNjgxODJiNGFmMjMw",
   "tracks": [
     {
       "added_at": "2022-07-08 04:02:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Hungersite",
-        "url": "https://open.spotify.com/album/1wETfTNS1qbWxCJ1cxYY3m"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 426602,
-      "name": "Hungersite",
-      "url": "https://open.spotify.com/track/24SSx6gMzDtVB0njwSzChH"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Phone.Keys.Wallet",
         "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Microdosio",
-        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
+        "name": "Hungersite",
+        "url": "https://open.spotify.com/album/1wETfTNS1qbWxCJ1cxYY3m"
       },
       "artists": [
         {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
         }
       ],
-      "duration_ms": 331570,
-      "name": "Cubensis",
-      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
+      "duration_ms": 426602,
+      "name": "Hungersite",
+      "url": "https://open.spotify.com/track/24SSx6gMzDtVB0njwSzChH"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -363,6 +347,22 @@
       "duration_ms": 370666,
       "name": "Just A Little",
       "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Microdosio",
+        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 331570,
+      "name": "Cubensis",
+      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Dopapod",
         "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 304826,
       "name": "Nuff",
       "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Jambands Ruined My Life",
-        "url": "https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU"
-      },
-      "artists": [
-        {
-          "name": "The Mantras",
-          "url": "https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji"
-        }
-      ],
-      "duration_ms": 375939,
-      "name": "Kinetic Bump",
-      "url": "https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "What'cha Gonna Do",
         "url": "https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 346346,
       "name": "What'cha Gonna Do",
       "url": "https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Jambands Ruined My Life",
+        "url": "https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU"
+      },
+      "artists": [
+        {
+          "name": "The Mantras",
+          "url": "https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji"
+        }
+      ],
+      "duration_ms": 375939,
+      "name": "Kinetic Bump",
+      "url": "https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt"
     },
     {
       "added_at": "2022-06-23 13:45:43",

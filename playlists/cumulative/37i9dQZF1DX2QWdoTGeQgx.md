@@ -4,7 +4,7 @@
 
 > Sit back and unwind to the most selamba songs around.
 
-238 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/7538s5dwa1woUVGGycWJCO)
+239 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7538s5dwa1woUVGGycWJCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Find Me](https://open.spotify.com/track/1jj10r2Ra8SkfLjcfqZpw7) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [A Sea That Never Stops](https://open.spotify.com/album/0HzLcxaTQkEdWSEraRAvKZ) | 3:19 | 2022-05-27 | 2022-07-28 |
 | [Fix \(Acoustic\)](https://open.spotify.com/track/0Pcw5iOYMB6vVjobuCNnsR) | [DEON](https://open.spotify.com/artist/2m3AQebiU86qWsrwG9Y6gN), [Shohey Uemura](https://open.spotify.com/artist/0I3pApw5jL765ZjkdcLDjL) | [Fix \(Acoustic\)](https://open.spotify.com/album/6R0PNQ6oOK05MtWciMIC73) | 3:31 | 2022-05-27 | 2022-07-27 |
 | [Fly Me To The Sun](https://open.spotify.com/track/6UsNGfDVuoMhbgkmdWRvnz) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Fly Me To The Sun](https://open.spotify.com/album/3rA2enTCB87keTrwFKcncI) | 4:34 | 2022-06-25 |  |
-| [Fool](https://open.spotify.com/track/0OfwiVN2Y6ANw9xneUi3sW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Fool](https://open.spotify.com/album/2WsVcJa42xo5RsbUwGnNSh) | 3:16 | 2022-05-27 |  |
+| [Fool](https://open.spotify.com/track/0OfwiVN2Y6ANw9xneUi3sW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Fool](https://open.spotify.com/album/2WsVcJa42xo5RsbUwGnNSh) | 3:16 | 2022-05-27 | 2022-08-02 |
 | [for any weather](https://open.spotify.com/track/3zmBY4SMD0dsjupuZCCwxU) | [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa), [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [the songs i wrote for you](https://open.spotify.com/album/2j4j5Se6EOO0puQYd6pJaK) | 3:40 | 2022-06-10 | 2022-06-17 |
 | [For U](https://open.spotify.com/track/5bcuRsJnisJLjAHP4Ewmf1) | [Maruxa Lynd](https://open.spotify.com/artist/1qqvY6v4Hj9i4bPp5neCFh), [Reckless Escapades](https://open.spotify.com/artist/6leCbCvi7oiUDCCee0wDrm) | [For U](https://open.spotify.com/album/6mZbIGHQ5UePOx7QqlNc2X) | 3:13 | 2022-06-03 | 2022-07-28 |
 | [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 | 2022-07-10 |  |
@@ -203,6 +203,7 @@
 | [Spring Will Always Come](https://open.spotify.com/track/3I0s4RQYDXPSZ5v6dEnaxf) | [Annette Lee](https://open.spotify.com/artist/7DOJeU8k34aMTZl014gcEC) | [Spring Will Always Come](https://open.spotify.com/album/7MBq8el4axrJJG811qiraL) | 3:05 | 2022-06-03 | 2022-07-27 |
 | [Springtime](https://open.spotify.com/track/12OsT8udgAJilYkSMHU6tl) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Springtime](https://open.spotify.com/album/2SZuHCD2C6ePvxkL81QoGE) | 3:52 | 2022-05-27 | 2022-07-28 |
 | [Stay Where You Are](https://open.spotify.com/track/1hCss2zjMPOdWFbr5Ryf3F) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/4gHiYSPUmmPoTT8h4AHHaS) | 3:29 | 2022-05-27 | 2022-07-20 |
+| [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-07-10 |  |
 | [Summertime](https://open.spotify.com/track/6oFFjz1MwyU3qtaXnyqQ8X) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Summertime](https://open.spotify.com/album/72mAZGmywwA8WkAjyceo6T) | 2:38 | 2022-05-27 | 2022-07-24 |
 | [Sumthin Bout Love](https://open.spotify.com/track/36PagkhheRVG0iFaM55njV) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Sumthin Bout Love](https://open.spotify.com/album/6eqKKHirJmjLlVBJCN87i9) | 3:50 | 2022-06-16 | 2022-07-08 |
 | [sweet girl](https://open.spotify.com/track/6R0YOHfWscZ5RDmkgHLInC) | [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1) | [sweet girl](https://open.spotify.com/album/1KIN0eKn4uiVvNNNGltm4n) | 3:10 | 2022-06-03 | 2022-06-11 |

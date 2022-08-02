@@ -1,13 +1,33 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42703,
+  "num_followers": 42711,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjkwMCxjNGI0MTM3YjIyZmZiZTQ3N2RkZTg4NGM5ODNmZDU0MDY2YmVlODAy",
+  "snapshot_id": "MjkwMyw4MGI2OWVhZTE1NmI0NTE1OWU3MTk4MDkyMGQ5MmIxMWFkMGMxODBi",
   "tracks": [
+    {
+      "added_at": "2022-08-01 08:18:15",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3NdL9odlpnHutVVFlPtIfZ"
+      },
+      "artists": [
+        {
+          "name": "LLOYD PAUL",
+          "url": "https://open.spotify.com/artist/2SjfyRr3Jg4w0DL4kKmxTH"
+        },
+        {
+          "name": "BRUNAJ",
+          "url": "https://open.spotify.com/artist/7j9wSYmlFpmTjMOEvBQsrk"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3vulAtIt4ZWhugoTDpD7ak"
+    },
     {
       "added_at": "2022-07-27 08:36:18",
       "album": {

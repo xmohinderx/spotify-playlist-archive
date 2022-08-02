@@ -4,7 +4,7 @@
 
 > It's a hot girl summer\. 🥵
 
-176 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6cghO0Da93k5eTyAVNppYC)
+177 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/6cghO0Da93k5eTyAVNppYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Deja De Decirme Que Sí](https://open.spotify.com/track/0naoHc4XvdtxYyFATmN5L3) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Singles Table \(Deluxe\)](https://open.spotify.com/album/4BseeVs595AB7Pfza1zA8X) | 2:22 | 2021-12-24 | 2022-07-09 |
 | [Descifrar](https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Descifrar](https://open.spotify.com/album/0CNmIBrerT1NQGzIkm20eA) | 2:58 | 2022-01-26 | 2022-05-12 |
 | [desde dentro](https://open.spotify.com/track/0q6GyKJUROqHWYqT0wzGBx) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [desde dentro](https://open.spotify.com/album/05rgpXmPuYezlXeibYD6Hb) | 3:02 | 2021-12-24 | 2022-07-09 |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-01 |  |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-07-08 |  |
 | [Destino](https://open.spotify.com/track/27UVFLpWhu9aLIfDNWKbjB) | [MUSAS](https://open.spotify.com/artist/1HiS2zHzXOuNgyYeZXSRJ9), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [Destino](https://open.spotify.com/album/32JyYzPX0wW8H2D0Pb2hmi) | 2:37 | 2021-12-24 | 2022-01-05 |
 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 | 2022-03-07 | 2022-05-12 |
@@ -120,7 +121,7 @@
 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 | 2022-05-23 | 2022-07-09 |
 | [n0 pued0 hacer que me quieras](https://open.spotify.com/track/5iREbRfjnB6kYtDdnhHpk9) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [n0 pued0 hacer que me quieras](https://open.spotify.com/album/677bpUVlOJTxXxHVDTf5Y7) | 3:04 | 2022-02-17 | 2022-07-09 |
 | [NACÍ PARA BRILLAR](https://open.spotify.com/track/1IYiOYIAMCZf8KhOO0UTM2) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [333](https://open.spotify.com/album/09zewDHNQMvYoIM3Mn9xcV) | 2:23 | 2021-12-24 | 2022-07-09 |
-| [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 | 2022-07-08 |  |
+| [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 | 2022-07-08 | 2022-08-02 |
 | [no eres tu soy yo](https://open.spotify.com/track/0IvlHe6K0YCAtOMSEpZ9FB) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Alan Matheus](https://open.spotify.com/artist/0YFYRpgJX7gM7elqpovTW9) | [no eres tu soy yo](https://open.spotify.com/album/4S9DBKH30bRTRi9gG9Y1Ab) | 2:34 | 2021-12-24 | 2022-07-09 |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 5:09 | 2022-07-08 |  |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2022-07-08 |  |

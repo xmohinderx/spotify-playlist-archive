@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-253 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
+254 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [99 Red Balloons](https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Music From The Motion Picture Not Another Teen Movie](https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4) | 4:02 | 2020-12-16 |  |
 | [Across The Universe](https://open.spotify.com/track/1oM1aPwxsXeDlstW1r6SOM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/2WNelmpjFLNWWRhrgefbsi) | 3:42 | 2021-12-17 | 2022-07-25 |
 | [Addicted to Love](https://open.spotify.com/track/7EVqaT1bzmFdUfnynRQDPc) | [Black Heart Saints](https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE) | [Addicted to Love](https://open.spotify.com/album/4XjiLfkxDeGgOamI6hccCl) | 3:47 | 2020-12-16 | 2022-07-06 |
-| [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 | 2022-06-17 |  |
+| [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 | 2022-06-17 | 2022-08-02 |
 | [Addicted To Love](https://open.spotify.com/track/5Z9qwpdBdEEF9h4yl3p8Ns) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs: The B\-Sides](https://open.spotify.com/album/6icauA0OftmxTkEEioCEbs) | 3:19 | 2022-03-25 | 2022-04-21 |
 | [Africa](https://open.spotify.com/track/36Pim2ANczp82lCWIb8GHy) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Africa](https://open.spotify.com/album/6tQbPTiNSrq91AGxZcFlhi) | 3:58 | 2022-03-25 | 2022-04-21 |
 | [Africa](https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:58 | 2022-06-17 |  |
@@ -214,6 +214,7 @@
 | [Stand By Me](https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Wild Card/A Word To The Wise](https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r) | 3:07 | 2020-12-16 |  |
 | [Steppin' Out](https://open.spotify.com/track/1Bff9RtUVaeoADbqBluahM) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [Steppin' Out](https://open.spotify.com/album/7vDsyjnfUwYLuQqFhvKKlf) | 4:17 | 2020-12-16 | 2022-05-24 |
 | [Summer In the City](https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Summer In the City](https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu) | 3:08 | 2020-12-16 | 2022-07-28 |
+| [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 | 2022-07-29 |  |
 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:51 | 2020-12-16 |  |
 | [Tainted Love](https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4), [NOCTURN](https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K) | [Tainted Love](https://open.spotify.com/album/3obOuWdKKDTA5toHFQhQ0z) | 3:24 | 2021-02-11 | 2022-07-27 |
 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 | 2020-12-16 |  |

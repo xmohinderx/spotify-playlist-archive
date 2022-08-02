@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Flippter x Soulja
 
-123 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+124 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [قيود](https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/3ipg4bP7o5IWZP44gtWX0W) | 2:56 | 2022-05-08 |  |
 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 | 2022-06-06 |  |
 | [كِخ](https://open.spotify.com/track/4DR2qwQubTm9GpRodqYvis) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [كِخ](https://open.spotify.com/album/44FvX2fCYGeRX2iRKzmYeM) | 3:05 | 2022-05-08 | 2022-05-27 |
+| [مش شايفك](https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg) | 3:01 | 2022-08-01 |  |
 | [مش فير](https://open.spotify.com/track/1JdRPaDFswfqCpAhBPKqUw) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [مش فير](https://open.spotify.com/album/3CIm2qnP74RIoein82TmMs) | 3:50 | 2022-05-08 | 2022-07-05 |
 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 | 2022-05-08 |  |
 | [يمّا ٢](https://open.spotify.com/track/6ka4CAlYTH3TetmF1vThLi) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [القمر و المحيط](https://open.spotify.com/album/4jz1dahfl0ZDXhZVwL3rzu) | 3:31 | 2022-05-08 | 2022-07-05 |

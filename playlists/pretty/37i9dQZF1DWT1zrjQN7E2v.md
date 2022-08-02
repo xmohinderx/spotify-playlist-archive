@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1zrjQN7E2v.md) - [plain]
 
 > Top of the top K\-Pop artists this year! Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,082 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,085 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1zrjQN7E2v.md) - [plain]
 | 41 | [No More](https://open.spotify.com/track/2hlLKf7meSIz1q7N303Gz8) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [No More](https://open.spotify.com/album/2E7Bi4jNUfcaqe2zJn1Wxw) | 3:15 |
 | 42 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 |
 | 43 | [My Bad \(feat\. Julie Bergan\) \- KSHMR Edit](https://open.spotify.com/track/7rM4FWiY8PqU2TxdXX6BXh) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [My Bad \(feat\. Julie Bergan\) \[KSHMR Edit\]](https://open.spotify.com/album/35NGvCNRwl2NiWfcai5k4G) | 3:32 |
-| 44 | [I Miss U](https://open.spotify.com/track/7Eci2cF5f9UgXct3YBuKVU) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [I Miss U](https://open.spotify.com/album/68iuZymaE4nIkTRS1FiBJl) | 3:14 |
+| 44 | [너의 목소리](https://open.spotify.com/track/0Gphq1AfOtvgLsObZDKZvw) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [너의 목소리](https://open.spotify.com/album/2KSkTytarjFoWwjN48ZOMN) | 3:14 |
 | 45 | [Lyricist](https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Lyricist](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) | 3:16 |
 | 46 | [Holiday](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Holiday Night \- The 6th Album](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) | 3:19 |
 | 47 | [IDEA \(理想\)](https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:13 |
 | 48 | [GUNSHOT](https://open.spotify.com/track/4qMt92hgQlJMyJjdI0Nw2h) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 1st Single ‘Way With Words’](https://open.spotify.com/album/23qHJjHFUstyeqN9oHotCI) | 3:01 |
 | 49 | [Countless](https://open.spotify.com/track/6mI6dpwRDteVr3ZQsDeD6e) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' Epilogue \- The 6th Album](https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f) | 3:08 |
 
-Snapshot ID: `MTYyOTM0NzI0MiwwMDAwMDAwMDMwNmRjNWJlZTI1MzY5NDM0MDI5ZTRiZDViN2I2MzU1`
+Snapshot ID: `MTYyOTM0NzI0MiwwMDAwMDAwMGM0OGU0ZDc0ZGMwZjk1MTdiNzE1YzFmZjM2ZDMxYmI2`

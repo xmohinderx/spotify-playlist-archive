@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/2UrvUzq4A6MFnvVp8Na0eW"
+      },
+      "artists": [
+        {
+          "name": "Jang Keun-suk",
+          "url": "https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/482cI88g68VDxoSnnvetMA"
+    },
+    {
+      "album": {
         "name": "B-Side",
         "url": "https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu"
       },

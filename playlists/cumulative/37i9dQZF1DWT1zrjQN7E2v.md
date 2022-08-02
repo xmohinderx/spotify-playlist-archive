@@ -4,7 +4,7 @@
 
 > Top of the top K\-Pop artists this year! Cover: BLACKPINK
 
-64 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/4h4fci6lHwU5hzbKKm3nOD)
+65 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/4h4fci6lHwU5hzbKKm3nOD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Holiday](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Holiday Night \- The 6th Album](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) | 3:19 | 2020-12-01 |  |
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2020-12-01 |  |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-12-01 |  |
-| [I Miss U](https://open.spotify.com/track/7Eci2cF5f9UgXct3YBuKVU) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [I Miss U](https://open.spotify.com/album/68iuZymaE4nIkTRS1FiBJl) | 3:14 | 2020-12-01 |  |
+| [I Miss U](https://open.spotify.com/track/7Eci2cF5f9UgXct3YBuKVU) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [I Miss U](https://open.spotify.com/album/68iuZymaE4nIkTRS1FiBJl) | 3:14 | 2020-12-01 | 2022-08-02 |
 | [IDEA \(理想\)](https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:13 | 2020-12-01 |  |
 | [Kick It](https://open.spotify.com/track/1ayaOin9hxCtyhg4UsBTpg) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:53 | 2020-12-01 |  |
 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 | 2020-12-01 | 2022-07-29 |
@@ -72,5 +72,6 @@
 | [Twist The Plot](https://open.spotify.com/track/22AUepm772KRmj5jRoaK4V) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everybody Sucks](https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l) | 2:17 | 2020-12-01 |  |
 | [Why Not?](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:25 | 2020-12-01 |  |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2020-12-01 |  |
+| [너의 목소리](https://open.spotify.com/track/0Gphq1AfOtvgLsObZDKZvw) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [너의 목소리](https://open.spotify.com/album/2KSkTytarjFoWwjN48ZOMN) | 3:14 | 2020-12-01 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

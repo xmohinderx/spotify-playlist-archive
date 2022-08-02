@@ -1820,6 +1820,28 @@
     },
     {
       "album": {
+        "name": "Soft Lounge Favorites",
+        "url": "https://open.spotify.com/album/3FX1HqExDaUMaUfG2KsjLK"
+      },
+      "artists": [
+        {
+          "name": "Michelle Simonal",
+          "url": "https://open.spotify.com/artist/6Q5cnVb5SfF6RWedEp57Al"
+        },
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220723,
+      "name": "Over My Shoulder",
+      "url": "https://open.spotify.com/track/5Eg6sYvA3b3tv5RKG11pAi"
+    },
+    {
+      "album": {
         "name": "Peaches",
         "url": "https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr"
       },
@@ -2439,6 +2461,28 @@
       "duration_ms": 148183,
       "name": "Standing Outside in the Rain",
       "url": "https://open.spotify.com/track/6MmUiXsyqAehKtQrTOp9JH"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/58jnBLSB88oRJDKMt2ijKc"
+      },
+      "artists": [
+        {
+          "name": "Bossa Players",
+          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
+        },
+        {
+          "name": "Siri Klinth",
+          "url": "https://open.spotify.com/artist/2MLl4fOfncxNI3R8oBZc0d"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174878,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0WYE5MQtaUkcmSlT1QiLAj"
     },
     {
       "album": {

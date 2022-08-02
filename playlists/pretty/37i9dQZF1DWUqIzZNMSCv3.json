@@ -1,12 +1,12 @@
 {
   "description": "Relaxing classical piano.",
-  "num_followers": 121510,
+  "num_followers": 121757,
   "original_name": "Classical Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzI3OCwwMDAwMDAwMDQyNjM1YTczNDNmOWY4MDU2Y2RlNTdlYzcxN2VlZmQ1",
+  "snapshot_id": "MTY1OTM0MzQ4MSwwMDAwMDAwMDI4MWE3NTk0OGU3MmM2NTA3MjQ2NjEwZWFjZjM4YzM1",
   "tracks": [
     {
       "added_at": "2022-07-08 04:02:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Bach and Beyond",
-        "url": "https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gabriela Montero",
-          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
-        }
-      ],
-      "duration_ms": 301400,
-      "name": "Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",
-      "url": "https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
         "name": "Gnossienne No. 1",
         "url": "https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 193320,
       "name": "Minuet in A major, D. 334",
       "url": "https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Mendelssohn, Felix: Songs Without Words, Vol. 1",
+        "url": "https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "P\u00e9ter Nagy",
+          "url": "https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM"
+        }
+      ],
+      "duration_ms": 282813,
+      "name": "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",
+      "url": "https://open.spotify.com/track/00CXUMREit80f2McJsjcIz"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -547,26 +547,6 @@
       "duration_ms": 221160,
       "name": "2 Pieces for 6 Hands: No. 2, Romance",
       "url": "https://open.spotify.com/track/4KRNma9TJAZQh7dOa8fT3R"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Mendelssohn, Felix: Songs Without Words, Vol. 1",
-        "url": "https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "P\u00e9ter Nagy",
-          "url": "https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",
-      "url": "https://open.spotify.com/track/00CXUMREit80f2McJsjcIz"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -795,26 +775,6 @@
     {
       "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Chopin: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Jan Lisiecki",
-          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
-        }
-      ],
-      "duration_ms": 433933,
-      "name": "Nocturnes, Op. 27: No. 2 in D Flat Major. Lento sostenuto",
-      "url": "https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
         "name": "Nocturnes",
         "url": "https://open.spotify.com/album/4W4WygqfXLiIKtaiv1snAc"
       },
@@ -851,46 +811,6 @@
       "duration_ms": 287960,
       "name": "Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 (Spohr)",
       "url": "https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
-        "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Arcadi Volodos",
-          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
-        }
-      ],
-      "duration_ms": 535186,
-      "name": "Piano Sonata No. 20 in A Major, D. 959: II. Andantino",
-      "url": "https://open.spotify.com/track/2lZ4IicfSIP3e1vwUZ4MQj"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Beethoven: Piano Sonatas Nos 8, \"Path\u00e9tique\", 9 & 10",
-        "url": "https://open.spotify.com/album/5AuBjTnxyHHKNNKiGt8V0c"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Faz\u0131l Say",
-          "url": "https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "Beethoven: Piano Sonata No. 8 in C Minor, Op. 13, \"Path\u00e9tique\": II. Adagio cantabile",
-      "url": "https://open.spotify.com/track/4l5zWNPyET6PqBhxQEyKgt"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1015,6 +935,86 @@
     {
       "added_at": "2022-07-08 04:02:00",
       "album": {
+        "name": "Field: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
+      },
+      "artists": [
+        {
+          "name": "John Field",
+          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+        },
+        {
+          "name": "Elizabeth Joy Roe",
+          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+        }
+      ],
+      "duration_ms": 221731,
+      "name": "Nocturne No. 1 in E Flat Major, H.24",
+      "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Bach and Beyond",
+        "url": "https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+        }
+      ],
+      "duration_ms": 301400,
+      "name": "Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",
+      "url": "https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos 8, \"Path\u00e9tique\", 9 & 10",
+        "url": "https://open.spotify.com/album/5AuBjTnxyHHKNNKiGt8V0c"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Faz\u0131l Say",
+          "url": "https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "Beethoven: Piano Sonata No. 8 in C Minor, Op. 13, \"Path\u00e9tique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/4l5zWNPyET6PqBhxQEyKgt"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
+        "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+        }
+      ],
+      "duration_ms": 535186,
+      "name": "Piano Sonata No. 20 in A Major, D. 959: II. Andantino",
+      "url": "https://open.spotify.com/track/2lZ4IicfSIP3e1vwUZ4MQj"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Field: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
+        "name": "Chopin: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw"
       },
       "artists": [
         {
-          "name": "John Field",
-          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Elizabeth Joy Roe",
-          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
         }
       ],
-      "duration_ms": 221731,
-      "name": "Nocturne No. 1 in E Flat Major, H.24",
-      "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
+      "duration_ms": 433933,
+      "name": "Nocturnes, Op. 27: No. 2 in D Flat Major. Lento sostenuto",
+      "url": "https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl"
     }
   ],
   "unique_name": "Classical Piano",

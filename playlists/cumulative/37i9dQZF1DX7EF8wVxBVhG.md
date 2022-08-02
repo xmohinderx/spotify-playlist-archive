@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-253 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+254 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Alpha Texture](https://open.spotify.com/track/1xPhw3ANIfXgmjhP94yyNY) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 3:02 | 2021-08-18 |  |
 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 | 2021-02-24 |  |
 | [Alpha Waves 136Hz \- 143Hz](https://open.spotify.com/track/4ijiUV9s3zXUASLVoTq42I) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:52 | 2020-09-29 | 2020-12-02 |
+| [Alpha Zone 12 Hz](https://open.spotify.com/track/5pvXmEJq200PuwgHxHJALZ) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Zones](https://open.spotify.com/album/25HMKjzXf5IpFE1Zfw9Kba) | 3:14 | 2022-08-01 |  |
 | [Angel Gamma Choir](https://open.spotify.com/track/3ecLObZD4KDhSTokl9HGOS) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:46 | 2020-06-03 | 2021-06-18 |
 | [Basic \- Alpha Sinus 85,2hz \- 89,4 hz](https://open.spotify.com/track/0OHNBGd4rLVAyBO3SufMzM) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:47 | 2021-06-04 |  |
 | [Beta \(L\-87.9Hz R\-104.8Hz\)](https://open.spotify.com/track/5413JASgWEQxoKLN6IrkOk) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Relief](https://open.spotify.com/album/6rVi7kAYDY3yOBm5l0rYva) | 4:18 | 2021-06-04 | 2022-03-19 |

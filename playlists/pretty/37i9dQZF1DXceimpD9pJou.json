@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Visi\u00f3n Juvenil",
-  "num_followers": 102855,
+  "num_followers": 102938,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA4OTA5NSwwMDAwMDAwMGY3YWJiYmRiYTcxNjJhNDNlZjBlOWJiNTI5M2IzNmU5",
+  "snapshot_id": "MTY1OTA4OTA5NSwwMDAwMDAwMDI5YzNiMmMwZmRiN2VhYjE2MzMxMWE4MmYzNGMyNzUw",
   "tracks": [
     {
       "added_at": "2022-07-29 10:04:55",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
+        "name": "Why Do We Fear Still?",
+        "url": "https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Para La Wifey :)",
+      "url": "https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
         "name": "Rompiendo",
         "url": "https://open.spotify.com/album/094Bflyi6Lb34vrl1QbA4B"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 541826,
       "name": "Kings And Queens feat. Lexico HT, Ch Gedeones, Eva Nova, Fanny Plaza, Tomi Perfetti, Mr Yeison, INDYFOR, DesXa, Ada Betsab\u00e9, H-SUFIA",
       "url": "https://open.spotify.com/track/2FsiRBP3WoBkfEO7mQuout"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
-        "name": "Why Do We Fear Still?",
-        "url": "https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Para La Wifey :)",
-      "url": "https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
+        "name": "Bendito Amor",
+        "url": "https://open.spotify.com/album/55YEkVmbGvPoefXkH61QhL"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 148030,
+      "name": "Bendito Amor",
+      "url": "https://open.spotify.com/track/76lCr666St0dE5DXbhdTL6"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
         "name": "Este Es Mi Tiempo",
         "url": "https://open.spotify.com/album/2bjaQFCYh5qpzolSXvsFql"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 239063,
       "name": "Este Es Mi Tiempo",
       "url": "https://open.spotify.com/track/3Sge1EEIo3YeYa3SsgNXrw"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
-        "name": "Bendito Amor",
-        "url": "https://open.spotify.com/album/55YEkVmbGvPoefXkH61QhL"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 148030,
-      "name": "Bendito Amor",
-      "url": "https://open.spotify.com/track/76lCr666St0dE5DXbhdTL6"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -619,6 +619,26 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/24w1NsYr1HPGiSLzccvV2A"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        },
+        {
+          "name": "Chary Goodman",
+          "url": "https://open.spotify.com/artist/5H9IgoOhJu6nQPmZOPhb6F"
+        }
+      ],
+      "duration_ms": 184765,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/60YS7XYRdzEyCXsVpqYf2W"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
         "name": "Llama (Remix)",
         "url": "https://open.spotify.com/album/3nKmCo8C4gnEQhmtSoRAK4"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 270388,
       "name": "Llama - Remix",
       "url": "https://open.spotify.com/track/2Vljoc3nf8IoCX1OYUxzIp"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
-        "name": "Contracorriente",
-        "url": "https://open.spotify.com/album/24w1NsYr1HPGiSLzccvV2A"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        },
-        {
-          "name": "Chary Goodman",
-          "url": "https://open.spotify.com/artist/5H9IgoOhJu6nQPmZOPhb6F"
-        }
-      ],
-      "duration_ms": 184765,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/60YS7XYRdzEyCXsVpqYf2W"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -799,6 +799,38 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
+        "name": "No Necesito Doctor.",
+        "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
+      },
+      "artists": [
+        {
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "No Necesito Doctor.",
+      "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
+        "name": "Por Su Esp\u00edritu",
+        "url": "https://open.spotify.com/album/6X5kP1SBihGi99Z7mR1GlT"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
+        }
+      ],
+      "duration_ms": 315163,
+      "name": "Por Su Esp\u00edritu",
+      "url": "https://open.spotify.com/track/0BRzZYB9McVQJc5XlXOt2g"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
         "name": "RDV",
         "url": "https://open.spotify.com/album/1YCrXzHbzSTt8OUJMmNvOA"
       },
@@ -823,54 +855,6 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
-        "name": "Por Su Esp\u00edritu",
-        "url": "https://open.spotify.com/album/6X5kP1SBihGi99Z7mR1GlT"
-      },
-      "artists": [
-        {
-          "name": "M\u00fasica M\u00e1s Vida",
-          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
-        }
-      ],
-      "duration_ms": 315163,
-      "name": "Por Su Esp\u00edritu",
-      "url": "https://open.spotify.com/track/0BRzZYB9McVQJc5XlXOt2g"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
-        "name": "No Necesito Doctor.",
-        "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
-      },
-      "artists": [
-        {
-          "name": "Josh Gamez",
-          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "No Necesito Doctor.",
-      "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
-        "name": "Digno Eres T\u00fa (Biling\u00fce)",
-        "url": "https://open.spotify.com/album/34Jd30Axl3rFbMMpT4Ay6G"
-      },
-      "artists": [
-        {
-          "name": "Free Worship",
-          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Digno Eres T\u00fa (Biling\u00fce)",
-      "url": "https://open.spotify.com/track/1chC3vYLW72tgv2GGcBmoN"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 231627,
       "name": "Firme Y Enfocado",
       "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
+        "name": "Digno Eres T\u00fa (Biling\u00fce)",
+        "url": "https://open.spotify.com/album/34Jd30Axl3rFbMMpT4Ay6G"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Digno Eres T\u00fa (Biling\u00fce)",
+      "url": "https://open.spotify.com/track/1chC3vYLW72tgv2GGcBmoN"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
-        "name": "Fuiste La Cura",
-        "url": "https://open.spotify.com/album/0kx8L6MKRRhRnRnuB0lcKY"
-      },
-      "artists": [
-        {
-          "name": "MAJU",
-          "url": "https://open.spotify.com/artist/0AhvXXcXDmqGRkqKGA2rXk"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Fuiste La Cura",
-      "url": "https://open.spotify.com/track/4MnCQpCCDroSRDczGV0eqB"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
         "name": "Ruge (Live)",
         "url": "https://open.spotify.com/album/1Ze1Eu8yoWYb5oB7p1oToa"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 252134,
       "name": "Corro Ante Ti",
       "url": "https://open.spotify.com/track/7i0LfXbTNpFVu4gE9TIh6o"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
+        "name": "Fuiste La Cura",
+        "url": "https://open.spotify.com/album/0kx8L6MKRRhRnRnuB0lcKY"
+      },
+      "artists": [
+        {
+          "name": "MAJU",
+          "url": "https://open.spotify.com/artist/0AhvXXcXDmqGRkqKGA2rXk"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Fuiste La Cura",
+      "url": "https://open.spotify.com/track/4MnCQpCCDroSRDczGV0eqB"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
+        "name": "Haz Lo Que Quieras",
+        "url": "https://open.spotify.com/album/3jYG6h2nn8WfZV4j2M9jn9"
+      },
+      "artists": [
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        }
+      ],
+      "duration_ms": 704231,
+      "name": "Haz Lo Que Quieras",
+      "url": "https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
         "name": "Sin Temor",
         "url": "https://open.spotify.com/album/5bgIKTDKzVy2p2Ef2TxOWU"
       },
@@ -1123,18 +1139,22 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
-        "name": "Haz Lo Que Quieras",
-        "url": "https://open.spotify.com/album/3jYG6h2nn8WfZV4j2M9jn9"
+        "name": "Valor",
+        "url": "https://open.spotify.com/album/4a7I2zC17cptqkC2cu5MHl"
       },
       "artists": [
         {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
         }
       ],
-      "duration_ms": 704231,
-      "name": "Haz Lo Que Quieras",
-      "url": "https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe"
+      "duration_ms": 181266,
+      "name": "Valor",
+      "url": "https://open.spotify.com/track/1HRxYEsZog4p6x8gRbrFqG"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -1215,22 +1235,6 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
-        "name": "El Sinai",
-        "url": "https://open.spotify.com/album/5j9d7bgwddtvZcFFulOgee"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 186604,
-      "name": "El Sinai",
-      "url": "https://open.spotify.com/track/45OBkLttM0UzDhAFtZeIV8"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
         "name": "As\u00ed Ser\u00e1",
         "url": "https://open.spotify.com/album/2j9eRIqy911zusKpNfwGGW"
       },
@@ -1247,6 +1251,22 @@
       "duration_ms": 176201,
       "name": "As\u00ed Ser\u00e1",
       "url": "https://open.spotify.com/track/7D2UmdU3pYblpgD2VARtRd"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
+        "name": "El Sinai",
+        "url": "https://open.spotify.com/album/5j9d7bgwddtvZcFFulOgee"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 186604,
+      "name": "El Sinai",
+      "url": "https://open.spotify.com/track/45OBkLttM0UzDhAFtZeIV8"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -1283,26 +1303,6 @@
       "duration_ms": 216365,
       "name": "U Love Me",
       "url": "https://open.spotify.com/track/13zloswXBqSlWz7ZNhzKBc"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
-        "name": "Valor",
-        "url": "https://open.spotify.com/album/4a7I2zC17cptqkC2cu5MHl"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        },
-        {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Valor",
-      "url": "https://open.spotify.com/track/1HRxYEsZog4p6x8gRbrFqG"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
-        "name": "Sencilla",
-        "url": "https://open.spotify.com/album/2HJpsX28qtcadY83yp9bzf"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ramirez",
-          "url": "https://open.spotify.com/artist/5EB2fVqgc03woRe0QG3gj1"
-        }
-      ],
-      "duration_ms": 201100,
-      "name": "Sencilla",
-      "url": "https://open.spotify.com/track/15HsYedFmsctJwujTQ8xUI"
-    },
-    {
-      "added_at": "2022-07-29 10:04:55",
-      "album": {
         "name": "This is What We Came For",
         "url": "https://open.spotify.com/album/1pSBztmBA4hsDbnClXY6ii"
       },
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2022-07-29 10:04:55",
       "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
+        "name": "Sencilla",
+        "url": "https://open.spotify.com/album/2HJpsX28qtcadY83yp9bzf"
       },
       "artists": [
         {
-          "name": "Harborside Music",
-          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
+          "name": "Nancy Ramirez",
+          "url": "https://open.spotify.com/artist/5EB2fVqgc03woRe0QG3gj1"
         }
       ],
-      "duration_ms": 404794,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/1iMCR8Y8cSmPF6SC95pRYJ"
+      "duration_ms": 201100,
+      "name": "Sencilla",
+      "url": "https://open.spotify.com/track/15HsYedFmsctJwujTQ8xUI"
     },
     {
       "added_at": "2022-07-29 10:04:55",
@@ -1863,6 +1847,22 @@
       "duration_ms": 179310,
       "name": "VIVO X TI",
       "url": "https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j"
+    },
+    {
+      "added_at": "2022-07-29 10:04:55",
+      "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
+      },
+      "artists": [
+        {
+          "name": "Harborside Music",
+          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
+        }
+      ],
+      "duration_ms": 404794,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/1iMCR8Y8cSmPF6SC95pRYJ"
     }
   ],
   "unique_name": "Novedades Cristianas",

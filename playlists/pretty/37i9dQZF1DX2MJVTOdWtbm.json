@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del R&B Latino. Fresh R&B Latin tracks. Cover: Destiny Rogers",
-  "num_followers": 99027,
+  "num_followers": 99057,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NDY5MCwwMDAwMDAwMDUzMDgwYjIxZjFkODZiMTczOWQwMzQ1ZWJjNzg2N2Vk",
+  "snapshot_id": "MTY1ODg1NDY5MCwwMDAwMDAwMGI2NDM2NDRmNTFiNWM0NjcyYTUyMzgxMTVkZWVkZDc5",
   "tracks": [
     {
       "added_at": "2022-07-26 16:58:10",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 188890,
-      "name": "Supersticiones",
-      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "\u00c1mate",
         "url": "https://open.spotify.com/album/5gnlVxxdWhPoGs63rKZtv3"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 189762,
       "name": "\u00c1mate",
       "url": "https://open.spotify.com/track/6yMDseBOe0gWib8CSr20Lc"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 188890,
+      "name": "Supersticiones",
+      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Tu Boca",
-        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
-      },
-      "artists": [
-        {
-          "name": "HAL\u00c9",
-          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
-        }
-      ],
-      "duration_ms": 182281,
-      "name": "Tu Boca",
-      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "desde dentro",
         "url": "https://open.spotify.com/album/05rgpXmPuYezlXeibYD6Hb"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 182337,
       "name": "desde dentro",
       "url": "https://open.spotify.com/track/0q6GyKJUROqHWYqT0wzGBx"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "Tu Boca",
+        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
+      },
+      "artists": [
+        {
+          "name": "HAL\u00c9",
+          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
+        }
+      ],
+      "duration_ms": 182281,
+      "name": "Tu Boca",
+      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
+        "name": "PAELLA",
+        "url": "https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
+      "duration_ms": 182753,
+      "name": "PAELLA",
+      "url": "https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "PAELLA",
-        "url": "https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM"
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
       },
       "artists": [
         {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 182753,
-      "name": "PAELLA",
-      "url": "https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW"
+      "duration_ms": 178500,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 169317,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/3xRL44yxBVRAReOGShbXaG"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Profundo",
         "url": "https://open.spotify.com/album/4tBrXEiFZmYpkJOB3rUHu9"
       },
@@ -1239,6 +1215,30 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 169317,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/3xRL44yxBVRAReOGShbXaG"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "Desilusion\u00e1ndome",
         "url": "https://open.spotify.com/album/1uJ1YdzDnJ3ghyv0sltJAJ"
       },
@@ -1263,6 +1263,38 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs"
+      },
+      "artists": [
+        {
+          "name": "Fer Altuzar",
+          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "IDWLH (I Don't Wanna Love Him)",
+        "url": "https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr"
+      },
+      "artists": [
+        {
+          "name": "Agina",
+          "url": "https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD"
+        }
+      ],
+      "duration_ms": 173156,
+      "name": "IDWLH (I Don't Wanna Love Him)",
+      "url": "https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "C.A.T.",
         "url": "https://open.spotify.com/album/1Vj9qMFet03QxbDwdptIms"
       },
@@ -1283,22 +1315,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs"
-      },
-      "artists": [
-        {
-          "name": "Fer Altuzar",
-          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Beso Picor",
         "url": "https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 226500,
       "name": "Beso Picor",
       "url": "https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
-        "name": "IDWLH (I Don't Wanna Love Him)",
-        "url": "https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr"
-      },
-      "artists": [
-        {
-          "name": "Agina",
-          "url": "https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD"
-        }
-      ],
-      "duration_ms": 173156,
-      "name": "IDWLH (I Don't Wanna Love Him)",
-      "url": "https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "MANQUE",
-        "url": "https://open.spotify.com/album/18ZdVMvxaRkcqy1mBvNRlY"
-      },
-      "artists": [
-        {
-          "name": "Taylor DeBlock",
-          "url": "https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "SLOW",
-      "url": "https://open.spotify.com/track/64HetK6UsMjOxAZGedxGpU"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 181253,
       "name": "Arrocito Frito",
       "url": "https://open.spotify.com/track/68BjkLhM0Sb0wGDd6w5jKU"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "MANQUE",
+        "url": "https://open.spotify.com/album/18ZdVMvxaRkcqy1mBvNRlY"
+      },
+      "artists": [
+        {
+          "name": "Taylor DeBlock",
+          "url": "https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD"
+        }
+      ],
+      "duration_ms": 173482,
+      "name": "SLOW",
+      "url": "https://open.spotify.com/track/64HetK6UsMjOxAZGedxGpU"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "Mi Cama",
+        "url": "https://open.spotify.com/album/4GqnDhhhYDasj34XJMIHrT"
+      },
+      "artists": [
+        {
+          "name": "Iza",
+          "url": "https://open.spotify.com/artist/6UEg14BmF105iMIZcz9Bw7"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Mi Cama",
+      "url": "https://open.spotify.com/track/3aCuRkhwq3gTII6b3WWESK"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "Ojos Tristes (feat. Karin B.)",
         "url": "https://open.spotify.com/album/2pyPc0slNJ0OLxrN3owx9E"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 218218,
       "name": "Ojos Tristes (feat. Karin B.)",
       "url": "https://open.spotify.com/track/4LyInTQ5BgnQuDud2JAUdf"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
-        "name": "Mi Cama",
-        "url": "https://open.spotify.com/album/4GqnDhhhYDasj34XJMIHrT"
-      },
-      "artists": [
-        {
-          "name": "Iza",
-          "url": "https://open.spotify.com/artist/6UEg14BmF105iMIZcz9Bw7"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Mi Cama",
-      "url": "https://open.spotify.com/track/3aCuRkhwq3gTII6b3WWESK"
     }
   ],
   "unique_name": "Latin R&B",

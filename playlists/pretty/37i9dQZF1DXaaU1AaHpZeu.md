@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 ### [Novedades Indie](https://open.spotify.com/playlist/37i9dQZF1DXaaU1AaHpZeu)
 
-> Nuevos hallazgos de música indie latina\. En portada: Mira Paula
+> Nuevos hallazgos de música indie latina\. En portada: RPLK
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,305 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,321 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [RAMONA \(REPUTA\)](https://open.spotify.com/track/5oqT7jmVqyrEmOZ94jWm3E) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu), [PRETTY PRETTY 2000](https://open.spotify.com/artist/2A8lmxvTtdh5nYLYJ9OExB) | [RAMONA \(REPUTA\)](https://open.spotify.com/album/2s1FEsVrsUi6M4tOqtGgVv) | 4:19 |
 | 50 | [Ronca \(Carta para una mija\)](https://open.spotify.com/track/4mrMJOIEADfaiKA4JGOxGI) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Ronca \(Carta para una mija\)](https://open.spotify.com/album/0ZMTvuqQsratPmmf2v4hva) | 3:42 |
 
-Snapshot ID: `MTY1OTA3NDQ2MCwwMDAwMDAwMDA1NTRhMWEyNDkwMzViMWE4MDkwMDQzMmUyNmVjOGJh`
+Snapshot ID: `MTY1OTM5MjY2OSwwMDAwMDAwMDI1ZDViZDc5ZDMwODYxMThlYzdiZjU1NjYzZDYzMDg3`

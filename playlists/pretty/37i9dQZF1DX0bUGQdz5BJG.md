@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Kylie Morgan
+> Music City must\-hears\. Cover: Kameron Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,714 likes - 155 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,801 likes - 155 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Her On Out](https://open.spotify.com/track/2zP9v1DeorQeZx1Z3EA3pu) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [Her On Out](https://open.spotify.com/album/3pZeTBS3yxRyg8eBgpVR4S) | 3:09 |
-| 2 | [Seein' somebody](https://open.spotify.com/track/4ovKTEqARZhyd9LSonX3ow) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Seein' somebody](https://open.spotify.com/album/6h3efEu7JiInwNKiRjfN8k) | 3:18 |
-| 3 | [Love Like We're Drunk](https://open.spotify.com/track/6oxftprduyrsoueRYStp2e) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:34 |
-| 4 | [New Bartender](https://open.spotify.com/track/5uY8LuoMPdC0JVJ4Q1FDXa) | [Eric Dodd](https://open.spotify.com/artist/1JhyDAwoxeTdklxjHDcdpe) | [New Bartender](https://open.spotify.com/album/4JADj9bTfiWWUjzgL3EFll) | 2:57 |
-| 5 | [We Were Cowboys](https://open.spotify.com/track/5Nbq6BNkf5gedpzWeNIH8e) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/6C8xaLNV3IpwwtOFUqLKsC) | 3:39 |
+| 1 | [We Were Cowboys](https://open.spotify.com/track/5Nbq6BNkf5gedpzWeNIH8e) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/6C8xaLNV3IpwwtOFUqLKsC) | 3:39 |
+| 2 | [Her On Out](https://open.spotify.com/track/2zP9v1DeorQeZx1Z3EA3pu) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [Her On Out](https://open.spotify.com/album/3pZeTBS3yxRyg8eBgpVR4S) | 3:09 |
+| 3 | [Seein' somebody](https://open.spotify.com/track/4ovKTEqARZhyd9LSonX3ow) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Seein' somebody](https://open.spotify.com/album/6h3efEu7JiInwNKiRjfN8k) | 3:18 |
+| 4 | [Love Like We're Drunk](https://open.spotify.com/track/6oxftprduyrsoueRYStp2e) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:34 |
+| 5 | [New Bartender](https://open.spotify.com/track/5uY8LuoMPdC0JVJ4Q1FDXa) | [Eric Dodd](https://open.spotify.com/artist/1JhyDAwoxeTdklxjHDcdpe) | [New Bartender](https://open.spotify.com/album/4JADj9bTfiWWUjzgL3EFll) | 2:57 |
 | 6 | [Knock](https://open.spotify.com/track/3tpyT5Tm40TbuVJYdFgk30) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/75mIJPlA0LEXhRf2tBAwmf) | 3:19 |
 | 7 | [One Day Tonight](https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl) | 2:45 |
 | 8 | [When It Wasn't](https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [When It Wasn't](https://open.spotify.com/album/0fhQxTXDGEB3ahvmWLas0W) | 2:49 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 154 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 |
 | 155 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDk0ZGYwYjhmY2M5YWUwM2E3ZGIxZTExYWI4Njg4OTM2`
+Snapshot ID: `MTY1OTMyNjQwMCwwMDAwMDAwMDNkYzhmNzlkMDcwM2E5YzdkZDNmMGQ3MzM2NWI2ZGMz`

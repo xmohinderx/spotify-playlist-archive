@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-394 songs - 21 hr 26 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+396 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Judgment](https://open.spotify.com/track/6cNI4u2l16hLBrbwTV8FMn) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [ARIA VEIL](https://open.spotify.com/artist/545ajuo5TGZsKToAf1CS6j) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 5:14 | 2022-07-01 | 2022-07-29 |
 | [JUPITER \- Slow Magic Juno Remix](https://open.spotify.com/track/2m35MFQGUaEJeYlI8C7HBl) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [JUPITER \(Slow Magic Juno Remix\)](https://open.spotify.com/album/0HgzxRbs60fJGk6ynToiOB) | 2:43 | 2022-01-14 |  |
 | [Just Burn VIP \- Message North Remix](https://open.spotify.com/track/6C1cBvvl9waNnkaAxKndPy) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F), [Alter.](https://open.spotify.com/artist/6QbSwCeNaIhbfp1jpZ02nZ), [Message North](https://open.spotify.com/artist/0Ah39SwMEBX3eacVMTGiUm) | [Just Burn VIP \(Message North Remix\)](https://open.spotify.com/album/0N6KZyZ3oTMT8lxZDgURLj) | 3:56 | 2022-05-06 | 2022-06-04 |
+| [Just Playin](https://open.spotify.com/track/3XsAyr3P0DQ53lDfPixDWS) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Balloons](https://open.spotify.com/album/2HzFi3G0lKXDTSVECN5eKS) | 2:27 | 2022-08-01 |  |
 | [Just Say It](https://open.spotify.com/track/29IvBvGq3vxRQ13fbMESYV) | [Charlie Crown](https://open.spotify.com/artist/3UB9E49EhIaD8mr9qJPe6r), [Helen Tess](https://open.spotify.com/artist/6CgLAgCJ6veWxsHIBFqc7P) | [Just Say It](https://open.spotify.com/album/7BFI5Dvh36EwEDwcF3a5m8) | 2:30 | 2022-05-06 | 2022-06-04 |
 | [KALI](https://open.spotify.com/track/02opLMfvddBcSmrmFE7zjq) | [BEATSMASH](https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB) | [KALI](https://open.spotify.com/album/4lKjLdlLVIIduCfms6YnGo) | 3:25 | 2022-01-14 | 2022-02-17 |
 | [Killa](https://open.spotify.com/track/3SAVQuGKu1n1Ri7AoZnJcV) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Killa](https://open.spotify.com/album/5yV6fUUC9Z36bYYMtrM4sV) | 3:05 | 2022-01-14 | 2022-02-17 |
@@ -300,6 +301,7 @@
 | [Run Like the Wind](https://open.spotify.com/track/1QTioKoSnWLDde5BunQnCp) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 2:51 | 2022-01-14 |  |
 | [Run Like The Wind \- Ookay Remix](https://open.spotify.com/track/13iTzttt2HngeGOKtWFOmi) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [IDK, Vol\. 2 \(Remixes\)](https://open.spotify.com/album/7EEYkZsi5x7PJwXYGRuPXX) | 3:07 | 2022-03-15 |  |
 | [Running Up That Hill](https://open.spotify.com/track/6k3q5dxWoip5EvfkfqHXAS) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB), [Reigan](https://open.spotify.com/artist/1LLc1LysYwIKPmcDVfrdMn) | [Running Up That Hill](https://open.spotify.com/album/5urx8cz1XMky3QYY99CRwx) | 2:44 | 2022-07-22 |  |
+| [Running Up That Hill](https://open.spotify.com/track/4E3k3edQ18uvRwuODo39UP) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ), [L8NCY](https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD) | [Running Up That Hill](https://open.spotify.com/album/4CrUHnPZyVV7jkdusTQ2Xo) | 2:24 | 2022-08-01 |  |
 | [Sad Reality \(feat\. Casey Cook\)](https://open.spotify.com/track/2O15uKcn4bG7XJNGgILDTE) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Sad Reality \(feat\. Casey Cook\)](https://open.spotify.com/album/4xpSlpbHECkXO1v72p888V) | 3:40 | 2022-07-27 |  |
 | [Safe Life](https://open.spotify.com/track/5MREUK9W3AYQ1YNowow8s8) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:19 | 2022-05-13 |  |
 | [SAKURA BURST \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/track/3Zj9WSEjueL8UecCOC67tT) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [SAKURA BURST \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/album/06XBg45fb1ASwRGAwFyeD7) | 4:07 | 2022-02-11 | 2022-04-08 |

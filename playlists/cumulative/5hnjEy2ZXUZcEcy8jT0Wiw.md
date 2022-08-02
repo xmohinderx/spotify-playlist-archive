@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-337 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+338 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Robo Sapiens](https://open.spotify.com/track/16DHGCBRqsJlJn2f62l2Gz) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Androids Anonymous](https://open.spotify.com/album/5UKblNtIsmZVDtsrOHTqn8) | 3:33 | 2020-12-07\* | 2020-12-15 |
 | [Runaway](https://open.spotify.com/track/0RLwGBV2JbR3ZVAcCyt29H) | [Starunner](https://open.spotify.com/artist/0QJ0LfgErdcNtOQndH1m80) | [Be Kind Rewind](https://open.spotify.com/album/1FXZi6FQNDCHr66BchnyVH) | 4:23 | 2019-07-19 |  |
 | [Samurai Cyberpunk](https://open.spotify.com/track/2lWT0z0Clbh9lBFklgvLln) | [Shredder 1984](https://open.spotify.com/artist/1OnOuA3QcYGa4rAWtu8GrQ) | [Dystopian Future](https://open.spotify.com/album/2lUz6Pdbdct8tG24oT6mvJ) | 3:12 | 2019-07-15 |  |
+| [save states](https://open.spotify.com/track/1UOTXqK4T6hseoOkDjksH6) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [save states](https://open.spotify.com/album/7g3kpYucY8onA8SRCvdqzl) | 3:45 | 2022-08-01 |  |
 | [Second Chances](https://open.spotify.com/track/7LHiyNIttVYA73cAfATD1L) | [Turbo Vice](https://open.spotify.com/artist/2LCKyAC0HIYvaIAC38ViVz) | [Second Chances](https://open.spotify.com/album/5MYzwP7mt0rjIZeFY2Cra5) | 4:37 | 2019-07-26 |  |
 | [Shadow Instinct](https://open.spotify.com/track/7nSx56wdGScR60FyLvyDh7) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Shadow Instinct](https://open.spotify.com/album/7e1OeT8afjO22h6Gq7pk1y) | 3:33 | 2021-03-12 |  |
 | [Shoot Out at Flamingo Plaza](https://open.spotify.com/track/2enOJAgl6pGw127ke87deb) | [Flamingo Jones](https://open.spotify.com/artist/2wgA99jSrhAvb4YCx4maGH) | [Flight of the Flamingo EP](https://open.spotify.com/album/037fAl7EYH5KfwGQkJaHF4) | 3:37 | 2019-09-04 |  |

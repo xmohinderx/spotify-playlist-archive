@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 39395,
+  "num_followers": 39453,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDk2NzU0MDk5YjZkMGMzMjRlY2Y2YmIyOGMyMzg5ZGFm",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGQxZjYyZjBmMGZjMWNlODVlMmExOTNhODQxNjIxMzdj",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Savannah Grass",
-        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Savannah Grass",
-      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bakanation",
         "url": "https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd"
       },
@@ -179,22 +163,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Greatest Hitz",
-        "url": "https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS"
-      },
-      "artists": [
-        {
-          "name": "Maestro",
-          "url": "https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Rampage",
-      "url": "https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Purple Heart Riddim",
         "url": "https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ"
       },
@@ -211,6 +179,38 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Greatest Hitz",
+        "url": "https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS"
+      },
+      "artists": [
+        {
+          "name": "Maestro",
+          "url": "https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Savannah Grass",
+        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Savannah Grass",
+      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Soca 101 Vol. 1",
         "url": "https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 347866,
       "name": "Dollar Wine",
       "url": "https://open.spotify.com/track/7m9QpC8iqp4GrQ6Ag0BICY"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -271,22 +287,6 @@
       "duration_ms": 218549,
       "name": "Happiest Man Alive",
       "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "Ministry of Road (M.O.R.)",
-      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold 2005",
         "url": "https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 219226,
       "name": "Body Water",
       "url": "https://open.spotify.com/track/3LKnTJqisnDLNzaMBIxwCg"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 239967,
+      "name": "Ministry of Road (M.O.R.)",
+      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Born Wit It (Bumpa Riddim)",
-        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 202448,
-      "name": "Born Wit It (Bumpa Riddim)",
-      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wining Season",
         "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 261493,
       "name": "Defense (The Anthem) (feat. Lil Jon)",
       "url": "https://open.spotify.com/track/4XfHo2SjVk7c6WeVxPDMYK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Born Wit It (Bumpa Riddim)",
+        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 202448,
+      "name": "Born Wit It (Bumpa Riddim)",
+      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -675,6 +675,54 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Soca 101 Vol. 1",
+        "url": "https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa"
+      },
+      "artists": [
+        {
+          "name": "Speady",
+          "url": "https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG"
+        }
+      ],
+      "duration_ms": 292533,
+      "name": "Hold Ya Bam Bam",
+      "url": "https://open.spotify.com/track/7oDtXMihSU1Sp5g0ukw56N"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Debble-Ish Rage",
+        "url": "https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Get on Bad",
+      "url": "https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds Feat. Peter Ram",
+          "url": "https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Wave Wid Me",
+      "url": "https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Charge",
         "url": "https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY"
       },
@@ -699,54 +747,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Debble-Ish Rage",
-        "url": "https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Get on Bad",
-      "url": "https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca 101 Vol. 1",
-        "url": "https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa"
-      },
-      "artists": [
-        {
-          "name": "Speady",
-          "url": "https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG"
-        }
-      ],
-      "duration_ms": 292533,
-      "name": "Hold Ya Bam Bam",
-      "url": "https://open.spotify.com/track/7oDtXMihSU1Sp5g0ukw56N"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds Feat. Peter Ram",
-          "url": "https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Wave Wid Me",
-      "url": "https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Gilded Collection 1986 - 1989",
         "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Gold",
-        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
-        }
-      ],
-      "duration_ms": 395866,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Dance Party Gold",
         "url": "https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 370933,
       "name": "Congo Man",
       "url": "https://open.spotify.com/track/3q4Sj5DLRjnoSaPyujVQkm"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold",
+        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
+        }
+      ],
+      "duration_ms": 395866,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Dance Party Gold",
-        "url": "https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE"
-      },
-      "artists": [
-        {
-          "name": "Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w"
-        }
-      ],
-      "duration_ms": 595866,
-      "name": "Miss Mary - Medley",
-      "url": "https://open.spotify.com/track/2oMTYzJIlpQBYQoIk7YeLT"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold 2004",
         "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 294360,
       "name": "Soca Train",
       "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Dance Party Gold",
+        "url": "https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE"
+      },
+      "artists": [
+        {
+          "name": "Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w"
+        }
+      ],
+      "duration_ms": 595866,
+      "name": "Miss Mary - Medley",
+      "url": "https://open.spotify.com/track/2oMTYzJIlpQBYQoIk7YeLT"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "X Man",
-        "url": "https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp"
-      },
-      "artists": [
-        {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
-        }
-      ],
-      "duration_ms": 221776,
-      "name": "X Man",
-      "url": "https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold",
         "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Switch Vol. 5",
-        "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
+        "name": "X Man",
+        "url": "https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp"
       },
       "artists": [
         {
-          "name": "Blue Ventures",
-          "url": "https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO"
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
         }
       ],
-      "duration_ms": 272400,
-      "name": "De River",
-      "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
+      "duration_ms": 221776,
+      "name": "X Man",
+      "url": "https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Very Best of Super Blue",
-        "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
+        "name": "Soca Switch Vol. 5",
+        "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
       },
       "artists": [
         {
-          "name": "Super Blue",
-          "url": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+          "name": "Blue Ventures",
+          "url": "https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO"
         }
       ],
-      "duration_ms": 348706,
-      "name": "Ethel",
-      "url": "https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG"
+      "duration_ms": 272400,
+      "name": "De River",
+      "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 274173,
       "name": "Craziness",
       "url": "https://open.spotify.com/track/5Bunj5XOX1ojVpgWMraiBk"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "The Very Best of Super Blue",
+        "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
+      },
+      "artists": [
+        {
+          "name": "Super Blue",
+          "url": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+        }
+      ],
+      "duration_ms": 348706,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG"
     },
     {
       "added_at": "2022-02-24 18:00:00",

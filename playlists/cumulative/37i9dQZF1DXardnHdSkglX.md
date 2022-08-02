@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-154 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
+156 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/6H9YOcdqbggBgH3eOaCPE0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 4:32 | 2021-12-09 |  |
 | [O Negócio É Amar](https://open.spotify.com/track/75GdH53EoZBW6ninKYW9yF) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [O Negócio É Amar](https://open.spotify.com/album/5T0ngrl4wkJuMeTwNIH2zl) | 3:19 | 2021-12-09 |  |
 | [O Samba é Meu Dom](https://open.spotify.com/track/1xvF5QCzObDTJi1jDqK9y0) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [O Samba é Meu Dom](https://open.spotify.com/album/3uC7h8E2fgHMiksDQCerNv) | 4:20 | 2021-12-09 |  |
+| [Over My Shoulder](https://open.spotify.com/track/5Eg6sYvA3b3tv5RKG11pAi) | [Michelle Simonal](https://open.spotify.com/artist/6Q5cnVb5SfF6RWedEp57Al), [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Soft Lounge Favorites](https://open.spotify.com/album/3FX1HqExDaUMaUfG2KsjLK) | 3:40 | 2022-08-01 |  |
 | [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 | 2022-07-01 |  |
 | [Peaches](https://open.spotify.com/track/6IitwPWNn52CN3mgYBawXM) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0oEJZParSytcfpfKoQFdhs) | 3:16 | 2021-12-09 | 2022-07-29 |
 | [Poker Face \(Bossa Version\)](https://open.spotify.com/track/3tCo6yIax5tmjwvxqlngxi) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 3:03 | 2021-12-09 | 2022-06-15 |
@@ -135,6 +136,7 @@
 | [Stand by Me](https://open.spotify.com/track/5JagoCyaJWBriQfGdhTAVs) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Stand by Me](https://open.spotify.com/album/6VWQ5Fx6Cra41j3zSDBvVE) | 3:06 | 2021-12-09 |  |
 | [Stand By Me \(Bossa version\)](https://open.spotify.com/track/7C7qWqnoMSzm1Dqphcua78) | [Bruno Camurati](https://open.spotify.com/artist/5EfKwJn5Hq1F8hoZ8zXl0F) | [Relaxing Bossa Lounge 5](https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ) | 3:42 | 2021-12-09 |  |
 | [Standing Outside in the Rain](https://open.spotify.com/track/6MmUiXsyqAehKtQrTOp9JH) | [Groove Da Praia](https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw), [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [Standing Outside in the Rain](https://open.spotify.com/album/7nnDMT5mu5FjjKpKjzRKFF) | 2:28 | 2021-12-09 |  |
+| [Stay](https://open.spotify.com/track/0WYE5MQtaUkcmSlT1QiLAj) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm), [Siri Klinth](https://open.spotify.com/artist/2MLl4fOfncxNI3R8oBZc0d) | [Stay](https://open.spotify.com/album/58jnBLSB88oRJDKMt2ijKc) | 2:54 | 2022-08-01 |  |
 | [Summertime Sadness \(Bossa Nova Version\) \[Originally Performed By Lana Del Rey\]](https://open.spotify.com/track/7fu2faNjkEZWrHxpBdHJw6) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 4:32 | 2021-12-09 |  |
 | [Sunday Best](https://open.spotify.com/track/5RrY34g0sNf76ynA3SEarW) | [Hot Spot Band](https://open.spotify.com/artist/280Ye8CB89v9PCZE1b2H8s), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best](https://open.spotify.com/album/4K3x2c6Juuuq5nTHR56TYr) | 2:36 | 2021-12-09 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Sweet Child O' Mine](https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a) | 3:24 | 2021-12-09 |  |

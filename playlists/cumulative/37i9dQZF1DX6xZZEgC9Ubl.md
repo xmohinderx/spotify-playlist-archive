@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: Brennan Savage
 
-705 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+706 songs - 1 day 8 hr 11 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Difference](https://open.spotify.com/track/6tiENvREXsXPDdnMGoioP0) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Difference](https://open.spotify.com/album/0rsaIaZUYzykvEd88ibh6g) | 3:07 | 2021-08-07 | 2022-07-08 |
 | [Differences](https://open.spotify.com/track/0T9WvScJDL8KbL9yXUzILh) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [Differences](https://open.spotify.com/album/1rzEWfb1kdKajdSCOSfZX1) | 2:56 | 2021-06-26 | 2022-04-21 |
 | [dim, dark, depleting](https://open.spotify.com/track/0vWwwVn6Ug5SuNSzPxNT0T) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [things could be worse](https://open.spotify.com/album/2sfAaYpGaErUpCO3Lg4HLO) | 2:12 | 2021-09-22 | 2022-07-04 |
-| [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-31 |  |
+| [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-31 | 2022-08-02 |
 | [Disaster](https://open.spotify.com/track/7sGKwnocBLJ7Joeg2Fy1fO) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [Disaster](https://open.spotify.com/album/0msRnjujqjhMdR9JmanUqs) | 2:19 | 2021-05-22 | 2021-06-19 |
 | [Dishonest](https://open.spotify.com/track/3lKIg3YiHa7o8Wvtiqd3FX) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [PAINKILLER TWILIGHT](https://open.spotify.com/album/5WI1jTegDlbRFqrQAbuC2z) | 2:34 | 2021-08-28 | 2022-04-09 |
 | [Doesn't Matter](https://open.spotify.com/track/5UsE4qe2pZXO7tnuunalrU) | [Kill Red](https://open.spotify.com/artist/23DVe5LDb89r0z5wmSjNSc) | [Doesn't Matter](https://open.spotify.com/album/00PvhElonquwWCDEfMUj0X) | 2:02 | 2020-12-13\* | 2021-02-19 |
@@ -384,6 +384,7 @@
 | [Makima!](https://open.spotify.com/track/0sEOonCcFO8GrbcZN8SKpg) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [Makima!](https://open.spotify.com/album/7o6DSLMlxs4UQsQmpmOMTL) | 2:57 | 2022-02-01 | 2022-03-02 |
 | [MANSION](https://open.spotify.com/track/4NXF1TfkD1uKMgftFylsNJ) | [Lucus](https://open.spotify.com/artist/5ESTmhLb7NwtF2qKDv434t), [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ) | [MANSION](https://open.spotify.com/album/3E7T1yqLPJOrQQtwVxi0Y6) | 1:58 | 2021-05-29 | 2022-04-18 |
 | [Materialism as a Means to an End](https://open.spotify.com/track/4t2dQ3OQaAJQn52BNszPnY) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Materialism as a Means to an End](https://open.spotify.com/album/2wg5abR3D5AFa0Ls7b0hok) | 2:46 | 2021-07-17 | 2022-01-13 |
+| [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 | 2022-08-01 |  |
 | [Me and You](https://open.spotify.com/track/3f1ChZHm6v4KdUaEW5y5qd) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Me and You](https://open.spotify.com/album/4M2UFUU2fSUeD3fn3jxIvd) | 3:44 | 2020-12-13\* | 2022-01-15 |
 | [Mean](https://open.spotify.com/track/4gncrdopojb9Xe8KoNXKGY) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Mean](https://open.spotify.com/album/3cOGCXAKUcJGpk0vQvz5RX) | 2:04 | 2020-12-13\* | 2021-02-26 |
 | [MEAN GIRLS](https://open.spotify.com/track/5KLo5emoCJT8Xk8MeOrSm5) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MEAN GIRLS](https://open.spotify.com/album/7BNrJv8BcbLsUlvKXrTBvl) | 2:10 | 2021-07-31 | 2022-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,415 likes - 123 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,599 likes - 123 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 122 | […And at the Hour of Death](https://open.spotify.com/track/1gU5jNTPxkrF52O7vUTWzR) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 1\)](https://open.spotify.com/album/2SpKHUMv3voHKHsmNhuD38) | 2:32 |
 | 123 | [An Ending, a Beginning](https://open.spotify.com/track/2t6aXckrRWNnKb0ysc1vBc) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:08 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDViYjRjZDJmNjhlZGQxODgwZDM1Y2ZjYmE1Y2MyODY2`
+Snapshot ID: `MTY1OTM0ODgyNywwMDAwMDAwMGIwYjQxYjc3YzY4MzNlMzg5ZmFiMDk1NTkwMTYzYTA5`

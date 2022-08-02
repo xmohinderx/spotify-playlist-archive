@@ -4,7 +4,7 @@
 
 > New music from Beyoncé, ROSALÍA, Maggie Rogers, Calvin Harris, and more!
 
-14,257 songs - 31 day 4 hr 58 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
+14,258 songs - 31 day 5 hr 1 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1011,7 +1011,8 @@
 | [Bad Bad](https://open.spotify.com/track/1md6otYHFdOp8itdRp4r2h) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Bad Bad](https://open.spotify.com/album/1bQvvahTarm2ZJN7iFHr5A) | 3:39 | 2022-07-15 | 2022-07-23 |
 | [BAD BAD News](https://open.spotify.com/track/414ffw6iwJgQqPmIu3Kg9d) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [BAD BAD News](https://open.spotify.com/album/479uhZ3MGxZpBSZgZD3n2Z) | 3:28 | 2021-02-06 | 2021-02-12 |
 | [Bad Bad Place](https://open.spotify.com/track/2NXdqxegbWy3wWs2toH6GP) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Bad Bad Place](https://open.spotify.com/album/6h5o1qPzst346wjPbCHoiZ) | 3:36 | 2021-12-11 | 2021-12-18 |
-| [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 |  |
+| [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 |  |
+| [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 | 2022-08-02 |
 | [Bad Behavior](https://open.spotify.com/track/5QvLKIo27yVB5Rns0VXGrI) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bad Behavior](https://open.spotify.com/album/0KdhMV76LQ8yhulP067Sbn) | 3:22 | 2019-11-15 | 2019-11-22 |
 | [Bad Bitch](https://open.spotify.com/track/7EvNBhI2uO0GunCCbzo2PI) | [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF) | [King Of The Trap 2 \(Deluxe\)](https://open.spotify.com/album/6PMDRce4bzlXYzXlsEPWtP) | 2:10 | 2022-07-29 |  |
 | [bad blood](https://open.spotify.com/track/7lqyiS447jxNlaMpzsYfkY) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [bad blood](https://open.spotify.com/album/0IYR6AlNwF9HW1u4Jzf1oo) | 3:08 | 2020-05-15 | 2020-05-22 |
