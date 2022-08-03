@@ -2386,6 +2386,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [New & Bold](/playlists/pretty/37i9dQZF1DX7fPhUztqfIX.md)
 - [New Age Classics](/playlists/pretty/37i9dQZF1DWTWhA27mtRFK.md)
 - [New Alt\-Rock Mixtape](/playlists/pretty/37i9dQZF1DXa6YOhGMjjgx.md)
+- [New Alternative: Pop Rock/Indie Rock/Punk Rock](/playlists/pretty/1cSCtZ3SgAV8pcjEfeiVdw.md)
 - [New Boots](/playlists/pretty/37i9dQZF1DX8S0uQvJ4gaa.md)
 - [New Jams](/playlists/pretty/37i9dQZF1DWUzFXarNiofw.md)
 - [New Joints](/playlists/pretty/37i9dQZF1DX4SrOBCjlfVi.md)
