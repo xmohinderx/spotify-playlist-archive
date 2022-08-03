@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 102427,
+  "num_followers": 102449,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEyNjY3MDEwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEyNzUzNTA0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
         "url": "https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
         "url": "https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Dear My Friend,",
         "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u93e1\u4e2d\u93e1",
         "url": "https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/3JKrNHh8gVviwWycHE9DDm"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1UJYWfzyPjRwmlCawgJroV"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Master Class",
         "url": "https://open.spotify.com/album/03psvIea883UU385SIAccE"
@@ -105,39 +105,7 @@
       "url": "https://open.spotify.com/track/7xE3HkKaZFhtzrt2FiwNOd"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 185032,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "\u8a18\u61b6\u68c9",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 273390,
-      "name": "\u8a18\u61b6\u68c9",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "One and All",
         "url": "https://open.spotify.com/album/1dmok6vCpRewkOnTsg0Ubv"
@@ -153,7 +121,39 @@
       "url": "https://open.spotify.com/track/4Sq8dTIYcMNkGkxQoZMGle"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 185032,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "\u8a18\u61b6\u68c9",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 273390,
+      "name": "\u8a18\u61b6\u68c9",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
         "url": "https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj"
@@ -169,23 +169,7 @@
       "url": "https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "Megahit",
-        "url": "https://open.spotify.com/album/3vwAviwOj5HoFL7WKlOH61"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 204994,
-      "name": "Megahit",
-      "url": "https://open.spotify.com/track/33bb4ipPqbeTdZLOAix27Z"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u5c0f\u5fc3\u5730\u6ed1",
         "url": "https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm"
@@ -201,7 +185,23 @@
       "url": "https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "Megahit",
+        "url": "https://open.spotify.com/album/3vwAviwOj5HoFL7WKlOH61"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 204994,
+      "name": "Megahit",
+      "url": "https://open.spotify.com/track/33bb4ipPqbeTdZLOAix27Z"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Mr. Stranger",
         "url": "https://open.spotify.com/album/0Uq2MMZXlZFzSZytUMBLPn"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4pnqbvjkdoIKUzmfr1bUho"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u6642\u5019\u4e0d\u65e9",
         "url": "https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u53cd\u5c0d\u7121\u6548",
         "url": "https://open.spotify.com/album/580J4faNuujItQTyIVzNxs"
@@ -249,7 +249,23 @@
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "Got U",
+        "url": "https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 172419,
+      "name": "Got U",
+      "url": "https://open.spotify.com/track/2pFkBa11TZLwI4t4uzIWdi"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u98c4\u6d41\u6559\u5ba4",
         "url": "https://open.spotify.com/album/7lMwgXZvrG5rhwHTA4tlbJ"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/5AnD1Tmu5hKPeHGyxGq6LJ"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u8cfd\u52d2\u65af\u7684\u611b",
         "url": "https://open.spotify.com/album/5XwD4GmcpKNosw2lXoHes9"
@@ -285,23 +301,7 @@
       "url": "https://open.spotify.com/track/7wDHnKKyw7GSw9ihEHTXm3"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "Got U",
-        "url": "https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 172419,
-      "name": "Got U",
-      "url": "https://open.spotify.com/track/2pFkBa11TZLwI4t4uzIWdi"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u6c61\u7cdf\u5152",
         "url": "https://open.spotify.com/album/3cAI5qxC8Tk84aCtlyVISB"
@@ -317,23 +317,7 @@
       "url": "https://open.spotify.com/track/2W9MxlcyMWmeHgZNnCSosb"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
-        "url": "https://open.spotify.com/album/5bObDBd0n0q1zdlimWdIGH"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 229887,
-      "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
-      "url": "https://open.spotify.com/track/7zYZYyaMmfsc7Jp4ZHd6UX"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "OFF/ON",
         "url": "https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P"
@@ -349,23 +333,23 @@
       "url": "https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/3NojOcL4RvJ2viZf1LqqQm"
+        "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
+        "url": "https://open.spotify.com/album/5bObDBd0n0q1zdlimWdIGH"
       },
       "artists": [
         {
-          "name": "Mirror",
-          "url": "https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM"
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
         }
       ],
-      "duration_ms": 255289,
-      "name": "WE ARE",
-      "url": "https://open.spotify.com/track/7CSW3iTdFPl3ITtljie7iW"
+      "duration_ms": 229887,
+      "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
+      "url": "https://open.spotify.com/track/7zYZYyaMmfsc7Jp4ZHd6UX"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u81ea\u6bc0\u7684\u7a0b\u5e8f",
         "url": "https://open.spotify.com/album/3aCajItUBZrwQZtdNTady7"
@@ -381,7 +365,23 @@
       "url": "https://open.spotify.com/track/5cGipBquhoVjNn5U6XX61k"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/3NojOcL4RvJ2viZf1LqqQm"
+      },
+      "artists": [
+        {
+          "name": "Mirror",
+          "url": "https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM"
+        }
+      ],
+      "duration_ms": 255289,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/7CSW3iTdFPl3ITtljie7iW"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u9be8\u843d",
         "url": "https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u5982\u679c\u53ef\u4ee5 (\u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
@@ -413,23 +413,7 @@
       "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "The Brightest Darkness",
-        "url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8"
-      },
-      "artists": [
-        {
-          "name": "Hins Cheung",
-          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
-        }
-      ],
-      "duration_ms": 280822,
-      "name": "\u4fcf\u90ce\u541b",
-      "url": "https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u7d66\u7f3a\u5e2d\u7684\u4eba\u5531\u9996\u6b4c",
         "url": "https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik"
@@ -445,7 +429,23 @@
       "url": "https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
@@ -469,23 +469,23 @@
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+        "name": "The Brightest Darkness",
+        "url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
         }
       ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+      "duration_ms": 280822,
+      "name": "\u4fcf\u90ce\u541b",
+      "url": "https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Learning Curve",
         "url": "https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd"
@@ -501,7 +501,39 @@
       "url": "https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 244046,
+      "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "\u8499\u8457\u5634\u8aaa\u611b\u4f60",
+        "url": "https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 240774,
+      "name": "\u8499\u8457\u5634\u8aaa\u611b\u4f60",
+      "url": "https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u67d0\u7a2e\u8001\u670b\u53cb",
         "url": "https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u4e00\u8868\u4eba\u624d",
         "url": "https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs"
@@ -537,103 +569,7 @@
       "url": "https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "\u8499\u8457\u5634\u8aaa\u611b\u4f60",
-        "url": "https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 240774,
-      "name": "\u8499\u8457\u5634\u8aaa\u611b\u4f60",
-      "url": "https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "\u590f\u4e4b\u98a8\u7269\u8a69",
-        "url": "https://open.spotify.com/album/2upqPm9Pq0youkJZ9qgoJa"
-      },
-      "artists": [
-        {
-          "name": "Terence Lam",
-          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
-        }
-      ],
-      "duration_ms": 208636,
-      "name": "\u590f\u4e4b\u98a8\u7269\u8a69",
-      "url": "https://open.spotify.com/track/0u3En4cJMAjcIQ6zLIlmqY"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 244046,
-      "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "\u5c0f\u8ae7\u661f",
-        "url": "https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj"
-      },
-      "artists": [
-        {
-          "name": "Edan \u5442\u7235\u5b89",
-          "url": "https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "\u5c0f\u8ae7\u661f",
-      "url": "https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "to be honest",
-        "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 199547,
-      "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
-      "url": "https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "Learning Curve",
-        "url": "https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 223627,
-      "name": "\u4e3b\u89d2\u5149\u74b0",
-      "url": "https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u96e2\u5225\u7684\u898f\u77e9",
         "url": "https://open.spotify.com/album/4zmlpzipP0VIn0YQyfUknJ"
@@ -649,7 +585,71 @@
       "url": "https://open.spotify.com/track/5tHHZJbJgs6zQmvqewePEf"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "\u590f\u4e4b\u98a8\u7269\u8a69",
+        "url": "https://open.spotify.com/album/2upqPm9Pq0youkJZ9qgoJa"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "duration_ms": 208636,
+      "name": "\u590f\u4e4b\u98a8\u7269\u8a69",
+      "url": "https://open.spotify.com/track/0u3En4cJMAjcIQ6zLIlmqY"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "Learning Curve",
+        "url": "https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "duration_ms": 223627,
+      "name": "\u4e3b\u89d2\u5149\u74b0",
+      "url": "https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "\u5c0f\u8ae7\u661f",
+        "url": "https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj"
+      },
+      "artists": [
+        {
+          "name": "Edan \u5442\u7235\u5b89",
+          "url": "https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "\u5c0f\u8ae7\u661f",
+      "url": "https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "to be honest",
+        "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 199547,
+      "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
+      "url": "https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "E\u5148\u751f \u9023\u74b0\u4e0d\u5e78\u4e8b\u4ef6",
         "url": "https://open.spotify.com/album/3BigkQlwdh92lAgiPtd1Ko"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/06sDxr7MbbwFyTP1f6rvvl"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -701,23 +701,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "\u4eba\u985e\u4e16",
-        "url": "https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V"
-      },
-      "artists": [
-        {
-          "name": "C AllStar",
-          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
-        }
-      ],
-      "duration_ms": 244735,
-      "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
-      "url": "https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -733,7 +717,23 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "\u4eba\u985e\u4e16",
+        "url": "https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V"
+      },
+      "artists": [
+        {
+          "name": "C AllStar",
+          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
+        }
+      ],
+      "duration_ms": 244735,
+      "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
+      "url": "https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
@@ -749,23 +749,7 @@
       "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
-      "album": {
-        "name": "Never-never Land",
-        "url": "https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4"
-      },
-      "artists": [
-        {
-          "name": "COLLAR",
-          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
-        }
-      ],
-      "duration_ms": 212182,
-      "name": "Never-never Land",
-      "url": "https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F"
-    },
-    {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "\u6a39\u6728\u771f\u7f8e",
         "url": "https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU"
@@ -781,23 +765,23 @@
       "url": "https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
-        "name": "\u547c\u5438\u4e4b\u9593",
-        "url": "https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR"
+        "name": "Never-never Land",
+        "url": "https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4"
       },
       "artists": [
         {
-          "name": "Janice Vidal",
-          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
         }
       ],
-      "duration_ms": 253994,
-      "name": "\u547c\u5438\u4e4b\u9593",
-      "url": "https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi"
+      "duration_ms": 212182,
+      "name": "Never-never Land",
+      "url": "https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Innerspace",
         "url": "https://open.spotify.com/album/2XLO3r4aoXtdTa6nGpR9uL"
@@ -813,7 +797,27 @@
       "url": "https://open.spotify.com/track/1TC1xwWe4QVFlx6cPGWOaH"
     },
     {
-      "added_at": "2022-08-01 11:03:30",
+      "added_at": "2022-08-02 11:05:04",
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2022-08-02 11:05:04",
       "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/1yC451iXNkoxQrPoOHrC9h"

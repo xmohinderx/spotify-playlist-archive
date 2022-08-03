@@ -1,12 +1,12 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 204350,
+  "num_followers": 204524,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU5OTA4MCwwMDAwMDAwMDY3ZWJlZjVmOWM3MjQ0ZTYzMTUxZmMyZTMxYzM1NDY5",
+  "snapshot_id": "MTY1NjU5OTA4MCwwMDAwMDAwMDc2OTNjNjU5NzNmNTM5N2YwZGYwN2JjOWQ2N2Q0MmE0",
   "tracks": [
     {
       "added_at": "2022-06-30 14:24:40",
@@ -419,38 +419,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178534,
-      "name": "Por Eso Vine",
-      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 169247,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 216066,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 169247,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178534,
+      "name": "Por Eso Vine",
+      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -719,42 +719,26 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Tamo Chelo (Remix)",
-        "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
+        "name": "Sigues Con El",
+        "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
       },
       "artists": [
         {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "DINERO EN EL BEAT",
-          "url": "https://open.spotify.com/artist/6z6d7XTjd4u2sXVJTVwzE0"
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
         }
       ],
-      "duration_ms": 338437,
-      "name": "Tamo Chelo - Remix",
-      "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
+      "duration_ms": 226532,
+      "name": "Sigues Con El",
+      "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -799,26 +783,42 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Sigues Con El",
-        "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
+        "name": "Tamo Chelo (Remix)",
+        "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
       },
       "artists": [
         {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         },
         {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "DINERO EN EL BEAT",
+          "url": "https://open.spotify.com/artist/6z6d7XTjd4u2sXVJTVwzE0"
         }
       ],
-      "duration_ms": 226532,
-      "name": "Sigues Con El",
-      "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
+      "duration_ms": 338437,
+      "name": "Tamo Chelo - Remix",
+      "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -967,6 +967,38 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
+        "name": "Si Tu Lo Dejas",
+        "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Kosa",
+          "url": "https://open.spotify.com/artist/2DR7MOGAwxMZUA7U4N5X6t"
+        }
+      ],
+      "duration_ms": 275478,
+      "name": "Si Tu Lo Dejas",
+      "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
       },
@@ -1007,38 +1039,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Si Tu Lo Dejas",
-        "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Kosa",
-          "url": "https://open.spotify.com/artist/2DR7MOGAwxMZUA7U4N5X6t"
-        }
-      ],
-      "duration_ms": 275478,
-      "name": "Si Tu Lo Dejas",
-      "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Me Ama Me Odia",
         "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
       },
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Te Quemaste",
+      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 219520,
       "name": "Solita",
       "url": "https://open.spotify.com/track/0tJCo71s7HT9Mu5Z4juuLw"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Te Quemaste",
-      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Dime Cuantas Veces",
-        "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 213959,
-      "name": "Dime Cuantas Veces",
-      "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 255506,
       "name": "La Modelo",
       "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Dime Cuantas Veces",
+        "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 213959,
+      "name": "Dime Cuantas Veces",
+      "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Sexflix",
-        "url": "https://open.spotify.com/album/16JKU7ALzmQ8pFiHcgXUcH"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 243035,
-      "name": "D\u00e9jate Llevar",
-      "url": "https://open.spotify.com/track/1g4h47nGXrMyaRP7Za4Fuy"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Pensabas",
         "url": "https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 292000,
       "name": "Pensabas",
       "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Sexflix",
+        "url": "https://open.spotify.com/album/16JKU7ALzmQ8pFiHcgXUcH"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 243035,
+      "name": "D\u00e9jate Llevar",
+      "url": "https://open.spotify.com/track/1g4h47nGXrMyaRP7Za4Fuy"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1623,38 +1623,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "T\u00fa No Amas",
-        "url": "https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh"
-      },
-      "artists": [
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 273321,
-      "name": "T\u00fa No Amas",
-      "url": "https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo) [Remix]",
         "url": "https://open.spotify.com/album/3jWqAeLO9g2IR9iKEXTwF8"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 415792,
       "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo) - Remix",
       "url": "https://open.spotify.com/track/0O8XuLi337OtgoXUgKORQ5"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "T\u00fa No Amas",
+        "url": "https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh"
+      },
+      "artists": [
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 273321,
+      "name": "T\u00fa No Amas",
+      "url": "https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1835,6 +1835,42 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
+        "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
+        "url": "https://open.spotify.com/album/1ZriaC9kT8i4L51al45sgZ"
+      },
+      "artists": [
+        {
+          "name": "Pepe Quintana",
+          "url": "https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
+      "url": "https://open.spotify.com/track/2opYh9ZmKbiVrzEuPgrCTX"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
         "name": "Infiel (Remix)",
         "url": "https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf"
       },
@@ -1899,42 +1935,6 @@
       "duration_ms": 189826,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/464uJVLmr0fDJGXOnciaDe"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
-        "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
-        "url": "https://open.spotify.com/album/1ZriaC9kT8i4L51al45sgZ"
-      },
-      "artists": [
-        {
-          "name": "Pepe Quintana",
-          "url": "https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Tempo",
-          "url": "https://open.spotify.com/artist/5QmZNcdq0h1NuL1G7t2yGp"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
-      "url": "https://open.spotify.com/track/2opYh9ZmKbiVrzEuPgrCTX"
     }
   ],
   "unique_name": "Andando De Noche",

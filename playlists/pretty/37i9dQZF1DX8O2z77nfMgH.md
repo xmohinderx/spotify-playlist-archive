@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,653 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,764 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 41 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 |
 | 42 | [la pestaña que soplé](https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la pestaña que soplé](https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r) | 2:20 |
 | 43 | [Buenos Dias](https://open.spotify.com/track/7x9hzXvD8qtEyiLkHceCHM) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Hocho](https://open.spotify.com/artist/7AqAhkwNkdfelG651nTnQP) | [Comida para Llevar \(2ª Season\)](https://open.spotify.com/album/5UvvQXgXlGIleqQDPiklcR) | 2:46 |
-| 44 | [COMPL1CADO](https://open.spotify.com/track/09LiLT8Uh9CgJSXV6RDU5O) | [Fufu](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [COMPL1CADO](https://open.spotify.com/album/0bwMwYtt9incXsUsRiS9Vy) | 3:04 |
+| 44 | [COMPL1CADO](https://open.spotify.com/track/09LiLT8Uh9CgJSXV6RDU5O) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [COMPL1CADO](https://open.spotify.com/album/0bwMwYtt9incXsUsRiS9Vy) | 3:04 |
 | 45 | [Holograma](https://open.spotify.com/track/2pCB7iBACJRFm7TqD5TJGx) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Holograma](https://open.spotify.com/album/767JuVpwlgXhpRPnwryvY6) | 3:17 |
 | 46 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
 | 47 | [Lucifer](https://open.spotify.com/track/3Jtosgz3o85FHYpXr6YjEE) | [Yeieme](https://open.spotify.com/artist/4kgqEEUm1KUt6IYJmwq4OZ), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Horas](https://open.spotify.com/album/5HWqhCluWKBZUzZFKLrku3) | 2:45 |

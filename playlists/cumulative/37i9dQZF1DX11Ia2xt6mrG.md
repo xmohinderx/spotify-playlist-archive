@@ -2,7 +2,7 @@
 
 ### [mint MX](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Foto: RAYBEN
+> Descubre lo más fresco de la electrónica mexicana\. Foto: Mr\. Pig
 
 171 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/6ndsqys7EQOockTFuddjf1)
 

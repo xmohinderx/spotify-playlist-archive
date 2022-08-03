@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: CATTY, Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,731 likes - 68 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,747 likes - 68 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

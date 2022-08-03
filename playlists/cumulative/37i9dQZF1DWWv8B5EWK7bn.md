@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-138 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+139 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 | 2021-10-06 |  |
 | [Mouth](https://open.spotify.com/track/05cL1sVT4MNyBqBw3ef5vb) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Mouth](https://open.spotify.com/album/6pgLIoWlqTwulgAFoZhjve) | 4:01 | 2021-10-06 |  |
 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 | 2022-07-29 |  |
+| [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 |  |
 | [Ocean noir](https://open.spotify.com/track/0JWtd6oSI8wlvMz4Tvctts) | [SKYGGE](https://open.spotify.com/artist/4aGSoPUP1v4qh7RfBlvgbR), [Benoît Carré](https://open.spotify.com/artist/3CmH9mzBhbcOu7ugWxFW5V) | [Ocean noir](https://open.spotify.com/album/6loTihjQ0lHtEFxjOcPjC3) | 3:57 | 2022-02-15 |  |
 | [Oil on Troubled Waters](https://open.spotify.com/track/7mj9kYMykOPsuDDI2Qm5s2) | [Martin Thulin](https://open.spotify.com/artist/0wEgzu3Y9aQ5mVdliG4L8l) | [Oil on Troubled Waters](https://open.spotify.com/album/0NxnBrqJ0PC0Gg4bfcLfch) | 3:26 | 2022-03-09 |  |
 | [Okandjambameya](https://open.spotify.com/track/04fNJ0ZewYhVTBBJEF5bsm) | [Hologram Teen](https://open.spotify.com/artist/1u5weRHG0G3kj2VLqO2DUA) | [Pizza Conspiracy](https://open.spotify.com/album/0yWP0bki3piEYrWzRZH369) | 3:33 | 2021-10-06 |  |
@@ -107,7 +108,7 @@
 | [Running Away](https://open.spotify.com/track/7AocbcViWJ73c5iu1N9OvR) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 5:43 | 2021-10-18 |  |
 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 | 2021-10-06 |  |
 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 | 2021-10-06 |  |
-| [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/album/34AeLleD5JHCTphmCLyCgI) | 4:00 | 2022-01-18 |  |
+| [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/album/34AeLleD5JHCTphmCLyCgI) | 4:00 | 2022-01-18 | 2022-08-03 |
 | [Shadow in the Frame](https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Shadow in the Frame](https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6) | 5:16 | 2022-01-20 |  |
 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2021-10-06 |  |
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2021-10-06 | 2022-07-29 |

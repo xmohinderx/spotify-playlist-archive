@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Beyonce
 
-12,407 songs - 29 day 16 hr 41 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+12,408 songs - 29 day 16 hr 45 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2174,7 +2174,8 @@
 | [Coloratura](https://open.spotify.com/track/6P2Y4KnF2x8uwZV2cZWA8t) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Coloratura](https://open.spotify.com/album/0G0WNcM706ASd6n7UxXuKu) | 10:18 | 2021-07-23 | 2021-07-30 |
 | [Colorful Shit](https://open.spotify.com/track/2Ghg48UuNyTaDo99FGDYK6) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Colorful Shit](https://open.spotify.com/album/2ZfnZbhmdOjRD3kcYigOzj) | 2:30 | 2020-09-25 | 2020-10-02 |
 | [Colors](https://open.spotify.com/track/1pwNyj2TMRtJdASAPKcLUn) | [RAYHAN NOOR](https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA), [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd) | [Colors](https://open.spotify.com/album/5N8Iz1S1nASlsrBPxLj0rM) | 3:56 | 2020-08-14 | 2020-08-21 |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-28 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-28 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-28 |  |
 | [Colors and Shapes](https://open.spotify.com/track/1Hgko2YssPJNjOhfJgJ6uo) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Colors and Shapes](https://open.spotify.com/album/5KBdvvmKJE0vVJkzZGfLzj) | 5:31 | 2021-09-17 | 2021-09-24 |
 | [Colour](https://open.spotify.com/track/7KRCHgEliLDp8UGA9yWtG8) | [Eternal Day](https://open.spotify.com/artist/3G9lyPjUBkuwIpSlVnKKTB), [Koridy](https://open.spotify.com/artist/5TTIs28NFF6FFt9DbLkqW6) | [Colour](https://open.spotify.com/album/7rIKP4JDdKYIsBddnOmE7z) | 2:44 | 2021-12-03 | 2021-12-10 |
 | [Colour Me Blue](https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Colour Me Blue](https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA) | 3:16 | 2022-04-14 | 2022-04-22 |

@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Magnolia Park
 
-154 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
+155 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Embrace](https://open.spotify.com/track/5lYsGl4zkG80JH1FOYIxDI) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Embrace](https://open.spotify.com/album/1hD2NvQFp7ou66bZXVYRW7) | 3:14 | 2021-12-20 | 2022-03-01 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-07 | 2022-07-29 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-07-18 |  |
-| [Emotion Sickness](https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 | 2022-02-21 |  |
+| [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 | 2022-07-18 |  |
+| [Emotion Sickness](https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 | 2022-02-21 | 2022-08-03 |
 | [Erase You](https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Erase You](https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI) | 2:58 | 2021-12-20 | 2022-07-19 |
 | [Escape](https://open.spotify.com/track/5Ws8QOTBn4fJP3ZZ2tx9ma) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 3:15 | 2021-12-20 | 2022-06-15 |
 | [Every Guy Ever](https://open.spotify.com/track/5pgOXFPQROrmboHmcTYonC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Every Guy Ever](https://open.spotify.com/album/71uSY3G4j624cwlyt9w1Q0) | 2:39 | 2021-12-20 |  |

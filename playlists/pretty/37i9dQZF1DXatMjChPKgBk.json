@@ -1,12 +1,12 @@
 {
   "description": "Dinner music that includes well known and new tracks.",
-  "num_followers": 659087,
+  "num_followers": 659168,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI3NDQwMCwwMDAwMDAwMDQ2ZDZiYjRiMzRlMmM4MTkyN2YxNDQ1ZmMzZWM5NWIw",
+  "snapshot_id": "MTY1NzI3NDQwMCwwMDAwMDAwMDc4Njg2OTg1NWFlMzliZTJhYTZhYzA2NWZlMTg2YzUy",
   "tracks": [
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Heavier Things",
         "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 292933,
       "name": "Rush Rush",
       "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245560,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 274266,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Rush Street",
         "url": "https://open.spotify.com/album/0hNMHkt0vLHIioGUoOTk0F"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 230000,
       "name": "Your Shirt",
       "url": "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 298026,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Now We May Begin",
+        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 298026,
+      "name": "One Day I'll Fly Away",
+      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "This Thing Called Living",
+        "url": "https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 144962,
+      "name": "Left Side",
+      "url": "https://open.spotify.com/track/6WpE1zKOrnVKNDUHzwsUJ7"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 175400,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "This Thing Called Living",
-        "url": "https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 144962,
-      "name": "Left Side",
-      "url": "https://open.spotify.com/track/6WpE1zKOrnVKNDUHzwsUJ7"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Black & White (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Gypsy Heart",
         "url": "https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 224573,
       "name": "Try",
       "url": "https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Black & White (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 244106,
       "name": "Realize",
       "url": "https://open.spotify.com/track/5OGkKx8jP0A5KSULEc6XYZ"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "If That's Alright",
-        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
-      },
-      "artists": [
-        {
-          "name": "Dylan Dunlap",
-          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
-        }
-      ],
-      "duration_ms": 235393,
-      "name": "If That's Alright",
-      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Harlem On My Mind",
         "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
       },
@@ -2743,6 +2727,22 @@
       "duration_ms": 292288,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "If That's Alright",
+        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "duration_ms": 235393,
+      "name": "If That's Alright",
+      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2911,6 +2911,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 263813,
+      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
+      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Dreamers of The Shore",
         "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
       },
@@ -2927,22 +2943,6 @@
       "duration_ms": 171908,
       "name": "Dreamers Of The Shore",
       "url": "https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 263813,
-      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
-      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2995,22 +2995,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Lionel Richie",
-        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6l9fOwFZ2pZzGUAVnPM76l"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
       },
@@ -3023,6 +3007,22 @@
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Lionel Richie",
+        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6l9fOwFZ2pZzGUAVnPM76l"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3043,22 +3043,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Waterfalls (Remixes)",
-        "url": "https://open.spotify.com/album/3tzcimbANTDy0VQKI1c0JJ"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Waterfalls - Single Edit",
-      "url": "https://open.spotify.com/track/76fn6jLgMwrQDS08ACFIU1"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
@@ -3075,18 +3059,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
-        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
+        "name": "Waterfalls (Remixes)",
+        "url": "https://open.spotify.com/album/3tzcimbANTDy0VQKI1c0JJ"
       },
       "artists": [
         {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
         }
       ],
-      "duration_ms": 270760,
-      "name": "Almaz",
-      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
+      "duration_ms": 259933,
+      "name": "Waterfalls - Single Edit",
+      "url": "https://open.spotify.com/track/76fn6jLgMwrQDS08ACFIU1"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3103,6 +3087,22 @@
       "duration_ms": 148040,
       "name": "Bitter With The Sweet",
       "url": "https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
+        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Almaz",
+      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Mind Body & Soul",
-        "url": "https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Spoiled",
-      "url": "https://open.spotify.com/track/08ydcS9NTm1a2csSppGsJT"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Undiscovered",
         "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 212933,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Mind Body & Soul",
+        "url": "https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Spoiled",
+      "url": "https://open.spotify.com/track/08ydcS9NTm1a2csSppGsJT"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Only Trust Your Heart",
-        "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 337866,
-      "name": "Squeeze Me",
-      "url": "https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Late Teens / Early Twenties",
         "url": "https://open.spotify.com/album/0HTwVQTBJLcpgvgtf78j55"
       },
@@ -3291,6 +3275,22 @@
       "duration_ms": 132581,
       "name": "Stay The Way I Left You (feat. Dahl)",
       "url": "https://open.spotify.com/track/1wT9hNHjSdpKAK8ysEdAg7"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Only Trust Your Heart",
+        "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 337866,
+      "name": "Squeeze Me",
+      "url": "https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3331,6 +3331,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Take It Further",
+        "url": "https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Take It Further",
+      "url": "https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Wood Fire",
         "url": "https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant"
       },
@@ -3347,18 +3363,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Take It Further",
-        "url": "https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE"
+        "name": "Whispers (Deluxe)",
+        "url": "https://open.spotify.com/album/6hEJyyBGeuKvITh19MfC0n"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Take It Further",
-      "url": "https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS"
+      "duration_ms": 253160,
+      "name": "Heart's on Fire",
+      "url": "https://open.spotify.com/track/4oAu3hSqE2EpboB74jTZKr"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3379,22 +3395,6 @@
       "duration_ms": 275800,
       "name": "The Last Waltz Suite: The Weight (feat. The Staples)",
       "url": "https://open.spotify.com/track/3TKOJWYOMrp98OB19y1A0n"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Whispers (Deluxe)",
-        "url": "https://open.spotify.com/album/6hEJyyBGeuKvITh19MfC0n"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "Heart's on Fire",
-      "url": "https://open.spotify.com/track/4oAu3hSqE2EpboB74jTZKr"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3615,6 +3615,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "duration_ms": 229415,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Runaway (feat. Khalid)",
         "url": "https://open.spotify.com/album/6Xrspi637ex7NEio0geFO4"
       },
@@ -3631,22 +3647,6 @@
       "duration_ms": 238033,
       "name": "Runaway (feat. Khalid)",
       "url": "https://open.spotify.com/track/6mXMILvElYiWu4fa9oaJXe"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv"
-      },
-      "artists": [
-        {
-          "name": "Abraham Alexander",
-          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
-        }
-      ],
-      "duration_ms": 229415,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3819,22 +3819,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "See Inside",
-        "url": "https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db"
-      },
-      "artists": [
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Cold Hands",
-      "url": "https://open.spotify.com/track/3P6DtjIrFOrg5SAidrPoUE"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Moments that mattered",
         "url": "https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S"
       },
@@ -3847,6 +3831,22 @@
       "duration_ms": 215061,
       "name": "bartender",
       "url": "https://open.spotify.com/track/4vIfaQtTXdbZShr3oOErlP"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "See Inside",
+        "url": "https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db"
+      },
+      "artists": [
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Cold Hands",
+      "url": "https://open.spotify.com/track/3P6DtjIrFOrg5SAidrPoUE"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -4015,22 +4015,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Dear Earth, I\u2019m Lost",
         "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
       },
@@ -4043,6 +4027,22 @@
       "duration_ms": 260000,
       "name": "Heaven Knows, Right?",
       "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2022-07-08 10:00:00",

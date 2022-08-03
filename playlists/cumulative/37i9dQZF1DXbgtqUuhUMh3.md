@@ -2,7 +2,7 @@
 
 ### [EQUAL Arabia ](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: RYM
+> Listen to Arab women, at full volume\. Cover: Almas
 
 290 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
@@ -10,9 +10,9 @@
 |---|---|---|---|---|---|
 | [100 Marra](https://open.spotify.com/track/3EyINOzArWZExhx4Pro7ip) | [Reem Soliman](https://open.spotify.com/artist/2TalKIo6VXqeqei5Pw5qUR) | [100 Marra](https://open.spotify.com/album/09PDu4TjYVTeuCL4E94fH7) | 3:02 | 2021-12-23 | 2022-02-28 |
 | [111](https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD) | 3:50 | 2022-03-03 | 2022-07-26 |
-| [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 | 2022-07-28 |  |
+| [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 | 2022-07-21 |  |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2021-12-23 | 2022-03-02 |
-| [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-07-28 |  |
+| [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-07-21 |  |
 | [3ARI](https://open.spotify.com/track/4lyUy5RvVYTQAYWOGcehGA) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/0bOC0hLjsOTpfKEkWrNEFv) | 3:09 | 2022-03-10 | 2022-07-28 |
 | [7alti 7ala](https://open.spotify.com/track/4LWhfDV6erIgAPKDTFsWbZ) | [Tara Salah Moneka](https://open.spotify.com/artist/0Sw2vMYAGpfSHYhYVB5fcZ) | [7alti 7ala](https://open.spotify.com/album/1l9sj2T7Rx4bJxZtykaDQE) | 3:20 | 2021-12-23 | 2022-03-02 |
 | [966](https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [966](https://open.spotify.com/album/2ktaCKF0w3JBw3De5yzbq0) | 3:29 | 2021-12-23 | 2022-07-27 |
@@ -79,7 +79,7 @@
 | [El Tabour \- Arabic adaptation of Bambino](https://open.spotify.com/track/0URyUHND8op34XymZ2mP5y) | [Lara Scandar](https://open.spotify.com/artist/3eh2JDunlzmEpvdUzaxDji) | [El Tabour \(Arabic adaptation of Bambino\)](https://open.spotify.com/album/5LeC664WD7waXmySxsmUua) | 3:24 | 2021-12-23 | 2022-02-26 |
 | [Elain Tebki](https://open.spotify.com/track/0sd7Nw1PMval64C1YZjj4q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Elain Tebki](https://open.spotify.com/album/5Y5e4ZbvgGgnPmTTfZzjUH) | 3:56 | 2021-12-23 | 2022-02-25 |
 | [Elbet CDhat](https://open.spotify.com/track/020A1vGLssPEhWUhSnDPS7) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [Elbet CDhat](https://open.spotify.com/album/4dtDTpiF5qAVRSpwaOu126) | 3:17 | 2021-12-23 | 2022-03-01 |
-| [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-21 |  |
+| [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-21 | 2022-08-03 |
 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 | 2021-12-23 | 2022-02-28 |
 | [Ensani Jdidi](https://open.spotify.com/track/418acwEsYYWdtuUW6fYMxE) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Mona K](https://open.spotify.com/artist/5ODayvnpNQjrzyeUrrdAvU) | [Ensani Jdidi](https://open.spotify.com/album/7y2ihN3XTC9ANP5vqkt2MO) | 3:34 | 2022-06-16 | 2022-07-07 |
 | [Enti Ana](https://open.spotify.com/track/4hCXCFzQkkzeYyTk7oUYTs) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Enti Ana](https://open.spotify.com/album/5e3ALxjtiE8Y7w7IL66skx) | 3:33 | 2021-12-23 | 2022-03-02 |
@@ -292,7 +292,7 @@
 | [من أنا](https://open.spotify.com/track/3OscCnbSCyJQiHzN9zhang) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [من أنا](https://open.spotify.com/album/3jjB43pfvp1v3ZH55nYBNV) | 5:08 | 2021-12-23 | 2022-03-01 |
 | [هاجر نعمان \- مسعود هجر](https://open.spotify.com/track/7jA6AqFb0h95bne8OAFQyj) | [هاجر نعمان](https://open.spotify.com/artist/6SeRGZj4fBqstC7JBv2Rb8) | [هاجر نعمان \- مسعود هجر](https://open.spotify.com/album/1aQuxtQPo3W1PNRUKkYT8u) | 6:45 | 2021-12-23 | 2022-03-02 |
 | [وذا مارحت](https://open.spotify.com/track/0yBbI752cyXl1lioeMrn1v) | [ضحى ذاكر](https://open.spotify.com/artist/2YscB4ch7eFXGvGiv6uSV5) | [واذا مارحت \- Single](https://open.spotify.com/album/0rga8umlOMLhiJ6deifelZ) | 2:47 | 2021-12-23 | 2022-03-02 |
-| [ولو](https://open.spotify.com/track/4YkNQggwRFNWBxCOrNf7nj) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [ولو](https://open.spotify.com/album/44ixYLqJfjnmY5UKLOpbgf) | 2:58 | 2022-03-01 | 2022-07-29 |
+| [ولو](https://open.spotify.com/track/4YkNQggwRFNWBxCOrNf7nj) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [ولو](https://open.spotify.com/album/44ixYLqJfjnmY5UKLOpbgf) | 2:58 | 2022-03-01 |  |
 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 | 2022-03-01 |  |
 | [يا طير السنونو](https://open.spotify.com/track/7uJYDaD71XHFUCcm3CDOZV) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1) | [يا طير السنونو](https://open.spotify.com/album/6y4JKfeGDumM3k7OVgoYST) | 1:52 | 2021-12-23 | 2022-03-02 |
 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-12-30 | 2022-03-02 |

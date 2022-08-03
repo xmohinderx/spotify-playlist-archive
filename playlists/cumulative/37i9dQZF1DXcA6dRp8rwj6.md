@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Warren Hue \)
 
-603 songs - 1 day 6 hr 20 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+604 songs - 1 day 6 hr 23 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,7 +448,7 @@
 | [Running Business \(with iayze\)](https://open.spotify.com/track/3Tn2jRgZpObn1I0SpFaWnm) | [Calvary Kylan](https://open.spotify.com/artist/3GJruOCHZYChqnOxMcGipy), [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Running Business \(with iayze\)](https://open.spotify.com/album/2hz3mvOk9yy419wW4D7E56) | 3:36 | 2022-03-18 | 2022-04-01 |
 | [Salad Days \(feat\. sokodomo, pH\-1 & BE'O\)](https://open.spotify.com/track/2MrBAJUseysxVN63HrPZL3) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 4:00 | 2022-07-14 |  |
 | [SAMO](https://open.spotify.com/track/2EtXdURPULumBUeXyyJr4q) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H) | [SAMO](https://open.spotify.com/album/5XwmIpn3aoLeWxzxu03AgZ) | 2:37 | 2022-03-18 | 2022-04-01 |
-| [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 | 2022-07-22 |  |
+| [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 | 2022-07-22 |  |
 | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1) | 2:38 | 2022-04-07 | 2022-05-13 |
 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 | 2022-04-21 | 2022-06-03 |
 | [Self Made](https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Self Made](https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl) | 2:48 | 2022-01-20 | 2022-01-28 |
@@ -514,8 +514,9 @@
 | [Take Off, Touch Down](https://open.spotify.com/track/2pHEN9mazPrfeUP8nmGpQA) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [Take Off, Touch Down](https://open.spotify.com/album/0JTTzIBxPuyHl0Ju2LhRzK) | 3:39 | 2022-05-19 | 2022-07-01 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-24 | 2022-04-08 |
 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-21 | 2022-07-31 |
+| [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 | 2022-07-28 |  |
 | [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 | 2022-07-28 | 2022-08-02 |
-| [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 | 2022-07-28 |  |
+| [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 | 2022-07-28 | 2022-08-03 |
 | [Tell Santa](https://open.spotify.com/track/1i7Nwas0VfXrUIm4qDcbyL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tell Santa](https://open.spotify.com/album/70PAbNnWnfmU3IF2OK67yY) | 2:27 | 2022-01-20 | 2022-01-28 |
 | [Tempat Pulang](https://open.spotify.com/track/0u5GeVYHGRdqruncvoXQlU) | [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ), [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Tempat Pulang](https://open.spotify.com/album/45LnkhfTEfmOs5UXoRcpCl) | 3:44 | 2022-02-10 | 2022-03-04 |
 | [Texture.](https://open.spotify.com/track/654Vru27jmXMzQq0xUFtLg) | [Shanii22](https://open.spotify.com/artist/2yYM0ttZlVqxIjzj2MWlQc), [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [Texture.](https://open.spotify.com/album/0z9yvUsyKDHlU2tDDgGrhI) | 1:50 | 2022-01-20 | 2022-01-28 |

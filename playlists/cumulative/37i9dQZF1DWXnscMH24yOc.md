@@ -4,7 +4,7 @@
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-250 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
+251 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Are You That Somebody](https://open.spotify.com/track/2f4SFBQcbVLQbtgrzBb26O) | [Lynn Olsen](https://open.spotify.com/artist/5WcA4NKAuR5fPBiyfN8Reh) | [Alright](https://open.spotify.com/album/0J0o7JLeWXyykOEvkFYfOn) | 3:39 | 2022-03-22 | 2022-04-20 |
 | [Atlantic City](https://open.spotify.com/track/5KZmeBnCiuX4rnwVw0x5QL) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Atlantic City](https://open.spotify.com/album/2e792asbrPWJQoANSeVWVZ) | 3:16 | 2021-10-21 | 2022-07-15 |
 | [Avant Gardener](https://open.spotify.com/track/1AbLKGveV3jFFKVKFYP2Ur) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/2QeazQ3EKDtLZ6lRdZceNa) | 4:19 | 2021-10-21 | 2022-07-29 |
-| [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 | 2022-03-22 |  |
+| [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 | 2022-03-22 | 2022-08-03 |
 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 | 2021-10-21 | 2022-07-29 |
 | [Berlin \(Ry X cover\)](https://open.spotify.com/track/3f6UOwEl6v3n3EjXcjxX9E) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Berlin \(Ry X cover\)](https://open.spotify.com/album/7JYiPQpbtta8oswaR48xhD) | 3:49 | 2022-03-22 | 2022-05-25 |
 | [Bills, Bills, Bills](https://open.spotify.com/track/3h9soIPxDnm7EqKv6u0cYu) | [Masquer](https://open.spotify.com/artist/4DsqMBB1CcYRrccjTV8rxB) | [Covers](https://open.spotify.com/album/5b1R3TKWbWNWeSwHn2VO5a) | 4:09 | 2022-03-22 | 2022-04-20 |
@@ -204,6 +204,7 @@
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 | 2021-10-21 |  |
 | [Swingin Party](https://open.spotify.com/track/2aNLWRTcFXLspSLLuWOQwW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Tennis Court](https://open.spotify.com/album/3cyAckv74LsJfbV5rCZ4bO) | 3:42 | 2022-03-22 | 2022-04-21 |
 | [Swingin Party](https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Tennis Court](https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47) | 3:42 | 2022-03-22 |  |
+| [Tainted Love](https://open.spotify.com/track/0veEsZjFQOLS0H0xXVyrtu) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/2kqTrkRJWDlXwurRmhatdA) | 2:29 | 2022-03-22 |  |
 | [Tainted Love](https://open.spotify.com/track/1SZ63wN0pk18Dr4Epyhcsf) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/3EDsEmujCvWc5ZzUIR17Ss) | 2:33 | 2022-03-22 | 2022-04-21 |
 | [Take on Me](https://open.spotify.com/track/5idADky7mHihopJGObd4hf) | [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Take on Me](https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq) | 3:28 | 2021-10-21 | 2022-07-28 |
 | [Tea, Milk & Honey](https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Tea, Milk & Honey](https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX) | 5:04 | 2021-10-21 | 2022-07-29 |

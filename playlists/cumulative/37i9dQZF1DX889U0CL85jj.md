@@ -4,7 +4,7 @@
 
 > Just chill...
 
-296 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+297 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Angel's Song](https://open.spotify.com/track/5hXTMmVXz1Ablgu34BkTz1) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Angel's Song](https://open.spotify.com/album/0Ym8AaoLrK5HHQ0lCYgASd) | 3:17 | 2019-12-06 | 2022-01-22 |
 | [angels \(emily\)](https://open.spotify.com/track/4CwgOt8rqXn4t9wOQB6Lej) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [angels \(emily\)](https://open.spotify.com/album/33RyzgCDN8X2JhPVolscRw) | 2:49 | 2020-12-11 | 2022-01-22 |
 | [anywhere](https://open.spotify.com/track/2AuLEJxJsMVjFggVyv80ev) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [souvenir](https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq) | 3:08 | 2022-04-29 |  |
+| [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-08-02 |  |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-06-07 | 2022-01-22 |
 | [Azul](https://open.spotify.com/track/5ft3oLnoWPgrH7xMf5auO7) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Azul](https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6) | 3:06 | 2020-07-31 | 2022-01-22 |
 | [Back To You](https://open.spotify.com/track/5kdMBPrJNUjFnT9scCIIZq) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [iamnotshane](https://open.spotify.com/album/3UOa7f8LdL49ghQq1aWHd0) | 2:40 | 2020-03-19 | 2022-01-22 |
@@ -260,7 +261,7 @@
 | [Tetris People](https://open.spotify.com/track/51sZWHGW1PXyATnMsHxE78) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Tetris People EP](https://open.spotify.com/album/5MiTTycfjIfhePXay7ui0z) | 2:57 | 2021-11-19 | 2022-01-22 |
 | [Thanks Again](https://open.spotify.com/track/6ilACBUGWBHjHugUdYzhtT) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Thanks Again](https://open.spotify.com/album/7xrTBBDHk3tsPLVgQWoqxR) | 3:30 | 2022-04-29 |  |
 | [that's us](https://open.spotify.com/track/1anxX1NLxxdIjVzomBJK45) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [The Nicholas](https://open.spotify.com/artist/2HOeKK6JSrvz00FoQk0biZ), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF) | [that's us](https://open.spotify.com/album/7tmJkPTraTuKBJPxQPp4fY) | 2:42 | 2020-10-02 |  |
-| [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 | 2020-04-02 |  |
+| [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 | 2020-04-02 | 2022-08-03 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/7EncNzyGs8uJiQittB38ef) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Most Beautiful Thing](https://open.spotify.com/album/1HPfv8XBrL0EiWOcNPr9q9) | 3:55 | 2020-05-01 | 2022-01-22 |
 | [The Shaman](https://open.spotify.com/track/7FzTEzwDcjfxCFlNGkkrAU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Shaman](https://open.spotify.com/album/3kp75Hdfwnpnw78eEIXbir) | 2:36 | 2021-11-19 |  |
 | [There's No Other](https://open.spotify.com/track/4715EDyKjQ9UhAV0vLlo0U) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS), [Westerns](https://open.spotify.com/artist/4dYYNJWW0gqWLVGIfrxEsl) | [There's No Other](https://open.spotify.com/album/064lwS8gemYnNBWv5W9qib) | 3:02 | 2020-04-24 | 2022-01-22 |

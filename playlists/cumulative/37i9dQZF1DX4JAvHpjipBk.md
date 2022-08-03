@@ -4,7 +4,7 @@
 
 > New music from Beyoncé, ROSALÍA, Maggie Rogers, Calvin Harris, and more!
 
-14,258 songs - 31 day 5 hr 1 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
+14,259 songs - 31 day 5 hr 5 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2539,7 +2539,8 @@
 | [Colors](https://open.spotify.com/track/3TLDjitfkg0QaHwpgmwOqY) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Colors](https://open.spotify.com/album/5WDKfVsa1Ze7yGjw0e5El5) | 1:54 | 2021-01-08 | 2021-01-15 |
 | [Colors](https://open.spotify.com/track/54FLoJOBXpKe9fULTucRNh) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Colors](https://open.spotify.com/album/69Vsy8d9xTebQRt2i7z9qy) | 2:34 | 2021-10-09 | 2021-10-16 |
 | [Colors \(feat\. Wale\)](https://open.spotify.com/track/0FqFoOcSoUdvahikY8TGbq) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Colors \(feat\. Wale\)](https://open.spotify.com/album/09YyXFNmNBLrMOAJdyx8HF) | 3:31 | 2020-08-07 | 2020-08-14 |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |
 | [Colors and Shapes](https://open.spotify.com/track/1Hgko2YssPJNjOhfJgJ6uo) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Colors and Shapes](https://open.spotify.com/album/5KBdvvmKJE0vVJkzZGfLzj) | 5:31 | 2021-09-18 | 2021-09-25 |
 | [Colour Me Blue](https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Colour Me Blue](https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA) | 3:16 | 2022-04-15 | 2022-04-23 |
 | [Colours](https://open.spotify.com/track/4cGPfZv4bRv7lWWQwT8g0k) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Colours](https://open.spotify.com/album/5SdQKVXfV4oyTINfMtmonx) | 3:02 | 2021-01-29 | 2021-02-06 |

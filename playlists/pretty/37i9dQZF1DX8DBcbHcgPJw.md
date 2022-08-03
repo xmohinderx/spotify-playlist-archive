@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: TINI TINI TINI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,677 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,735 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 11 | [Universo Paralelo \- DJ Alex Remix](https://open.spotify.com/track/2GaBEJHDEo7752Ggvq1Z6j) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Universo Paralelo \(DJ Alex Remix\)](https://open.spotify.com/album/56cmp0jNbl5esgSyOV4Y0l) | 2:16 |
 | 12 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
 | 13 | [Le Mandamos Fiu Fiu](https://open.spotify.com/track/1jf1TVox5bpLjpprBGd0W6) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Le Mandamos Fiu Fiu](https://open.spotify.com/album/5JDZMdKfrdX4fEl18uE06Z) | 3:05 |
-| 14 | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/track/5LtwSwkkWZ3QGdrpcf6gHh) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Locho](https://open.spotify.com/artist/2wyYiawOxau1sbsG9fxRmq) | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/album/4rPgckceMkw5f90Dk6055G) | 6:07 |
+| 14 | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/track/5LtwSwkkWZ3QGdrpcf6gHh) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Locho](https://open.spotify.com/artist/187Mm9XkT2XrJNPzRN5akm) | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/album/4rPgckceMkw5f90Dk6055G) | 6:07 |
 | 15 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 |
 | 16 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 |
 | 17 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 93 | [Déjate Querer](https://open.spotify.com/track/5MBBsIHpiYiqmMbp7OQJcq) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Déjate Querer](https://open.spotify.com/album/4wJBjofsAF8HV04FfwtPyK) | 3:29 |
 | 94 | [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 |
 | 95 | [Una Cumbia](https://open.spotify.com/track/5yQMJ4KDVaTlTQ7lVq14aO) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Una Cumbia](https://open.spotify.com/album/0x5gIzkxBkX890iLnH2oKM) | 2:03 |
-| 96 | [La Foto](https://open.spotify.com/track/2uRo9meMZUiellRCmE4osu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Chiara Scanzerra](https://open.spotify.com/artist/3ycdNHDlAbsOcgoVUTN3ec) | [La Foto](https://open.spotify.com/album/0AnhGG26unK4mTzFXYCr7k) | 2:08 |
-| 97 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 |
+| 96 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 |
+| 97 | [La Foto](https://open.spotify.com/track/2uRo9meMZUiellRCmE4osu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Chiara Scanzerra](https://open.spotify.com/artist/3ycdNHDlAbsOcgoVUTN3ec) | [La Foto](https://open.spotify.com/album/0AnhGG26unK4mTzFXYCr7k) | 2:08 |
 | 98 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
 | 99 | [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 |
 | 100 | [Cerca de Ti](https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Farovi](https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Cerca de Ti](https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA) | 2:25 |
 
-Snapshot ID: `MTY1OTEzMzUyOSwwMDAwMDAwMGFiZGY3NjU3NGEwYTA2NzczYTI3MDgzMTFkYTg2MGY5`
+Snapshot ID: `MTY1OTEzMzUyOSwwMDAwMDAwMGU2ZGM3M2FiMjJkMjY3MzRkYzI1ZjEzMGJhMDgwMTJi`

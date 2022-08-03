@@ -1,12 +1,12 @@
 {
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
-  "num_followers": 55359,
+  "num_followers": 55382,
   "original_name": "Rockabilly Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3NzU3OSwwMDAwMDAwMDkwNDE5MDY1MDA1NjkwYTA4YzYwYzdlMDZkYjQ5MmEz",
+  "snapshot_id": "MTY0OTQ3NzU3OSwwMDAwMDAwMGY5NjRiZGU4MzlmZjE2OTgyOTgyYWU2MDEzMDljNTMw",
   "tracks": [
     {
       "added_at": "2021-09-03 04:14:33",
@@ -343,18 +343,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Walk Don't Run - All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6OezD06HfOjBAQiXqTsXTJ"
+        "name": "Bestiario de Santa Lucia",
+        "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
       },
       "artists": [
         {
-          "name": "The Ventures",
-          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
         }
       ],
-      "duration_ms": 126733,
-      "name": "Walk, Don't Run",
-      "url": "https://open.spotify.com/track/74Qp7hzjPFQZUBMpNDqUIM"
+      "duration_ms": 209536,
+      "name": "Labios Carmin",
+      "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -391,18 +391,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Bestiario de Santa Lucia",
-        "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
+        "name": "Walk Don't Run - All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6OezD06HfOjBAQiXqTsXTJ"
       },
       "artists": [
         {
-          "name": "Los Vaguens",
-          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+          "name": "The Ventures",
+          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
         }
       ],
-      "duration_ms": 209536,
-      "name": "Labios Carmin",
-      "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
+      "duration_ms": 126733,
+      "name": "Walk, Don't Run",
+      "url": "https://open.spotify.com/track/74Qp7hzjPFQZUBMpNDqUIM"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Death Calavera 2.2",
-        "url": "https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW"
-      },
-      "artists": [
-        {
-          "name": "Los Elasticos",
-          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
-        }
-      ],
-      "duration_ms": 172573,
-      "name": "Vaquero",
-      "url": "https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Wheeltappers and Shunters",
         "url": "https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 129186,
       "name": "Ferryboat of the Mind",
       "url": "https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Death Calavera 2.2",
+        "url": "https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW"
+      },
+      "artists": [
+        {
+          "name": "Los Elasticos",
+          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Vaquero",
+      "url": "https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Defcon 5...4...3...2...1",
+        "url": "https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe"
+      },
+      "artists": [
+        {
+          "name": "Man Or Astro-Man?",
+          "url": "https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY"
+        }
+      ],
+      "duration_ms": 155763,
+      "name": "Antimatter Man",
+      "url": "https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Guitar Legend: The Very Best Of Dick Dale",
         "url": "https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 394213,
       "name": "Third Stone From The Sun",
       "url": "https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Swingin' Singles",
-        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
-      },
-      "artists": [
-        {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
-        }
-      ],
-      "duration_ms": 115266,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -659,18 +659,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Defcon 5...4...3...2...1",
-        "url": "https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe"
+        "name": "Swingin' Singles",
+        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
       },
       "artists": [
         {
-          "name": "Man Or Astro-Man?",
-          "url": "https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY"
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
         }
       ],
-      "duration_ms": 155763,
-      "name": "Antimatter Man",
-      "url": "https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE"
+      "duration_ms": 115266,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Surf Riders from the Swamp Lagoon",
+        "url": "https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp"
+      },
+      "artists": [
+        {
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Popcorno Revenge",
+      "url": "https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 162013,
       "name": "Hombre Lobo Adolescente",
       "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Surf Riders from the Swamp Lagoon",
-        "url": "https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp"
-      },
-      "artists": [
-        {
-          "name": "Messer Chups",
-          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Popcorno Revenge",
-      "url": "https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -811,6 +811,34 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Marcela Viejo",
+          "url": "https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx"
+        },
+        {
+          "name": "Mario Cobo",
+          "url": "https://open.spotify.com/artist/4Wq5nHO913AYYjcuHr59ML"
+        },
+        {
+          "name": "Dani Nel-lo",
+          "url": "https://open.spotify.com/artist/4pYQYbMal0JjX4kwmGgGdd"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Mala Influencia",
+      "url": "https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Daikaiju",
         "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
       },
@@ -859,34 +887,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Marcela Viejo",
-          "url": "https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx"
-        },
-        {
-          "name": "Mario Cobo",
-          "url": "https://open.spotify.com/artist/4Wq5nHO913AYYjcuHr59ML"
-        },
-        {
-          "name": "Dani Nel-lo",
-          "url": "https://open.spotify.com/artist/4pYQYbMal0JjX4kwmGgGdd"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Mala Influencia",
-      "url": "https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Garaje o Muerte",
         "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Taste the Blood of Guitaracula",
-        "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
+        "name": "Guadalupe Plata 2017",
+        "url": "https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H"
       },
       "artists": [
         {
-          "name": "Messer Chups",
-          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
         }
       ],
-      "duration_ms": 165720,
-      "name": "Surf De L'amour",
-      "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
+      "duration_ms": 297942,
+      "name": "Qu\u00e9 He Sacado Con Quererte (aka Violeta Parra)",
+      "url": "https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -935,18 +935,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Guadalupe Plata 2017",
-        "url": "https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H"
+        "name": "Taste the Blood of Guitaracula",
+        "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
       },
       "artists": [
         {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
         }
       ],
-      "duration_ms": 297942,
-      "name": "Qu\u00e9 He Sacado Con Quererte (aka Violeta Parra)",
-      "url": "https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5"
+      "duration_ms": 165720,
+      "name": "Surf De L'amour",
+      "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Daddy-O Grande In Mexico",
-        "url": "https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv"
-      },
-      "artists": [
-        {
-          "name": "Danny Amis with Lost Acapulco",
-          "url": "https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Miradas de Amor",
-      "url": "https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Guadalupe Plata 2015",
         "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 209453,
       "name": "New Siberia",
       "url": "https://open.spotify.com/track/0hv5S1haHiCCKYTMCgUYIO"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Daddy-O Grande In Mexico",
+        "url": "https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv"
+      },
+      "artists": [
+        {
+          "name": "Danny Amis with Lost Acapulco",
+          "url": "https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Miradas de Amor",
+      "url": "https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Organ Grinder",
-        "url": "https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR"
-      },
-      "artists": [
-        {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
-        }
-      ],
-      "duration_ms": 120866,
-      "name": "Return Of The Death Ray",
-      "url": "https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Canciones Basura",
         "url": "https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 171080,
       "name": "Abuela Zombie",
       "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Organ Grinder",
+        "url": "https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR"
+      },
+      "artists": [
+        {
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+        }
+      ],
+      "duration_ms": 120866,
+      "name": "Return Of The Death Ray",
+      "url": "https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe"
     },
     {
       "added_at": "2021-09-03 04:14:33",

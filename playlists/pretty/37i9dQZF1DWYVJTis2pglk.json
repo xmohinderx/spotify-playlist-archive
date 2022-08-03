@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2008! Cover: Giusy Ferreri",
-  "num_followers": 4066,
+  "num_followers": 4069,
   "original_name": "Le Hit Del 2008",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDU2Nzk1MCwwMDAwMDAwMDZiMGQxMjZhYTdhMGNkYmNiMmQxN2JlZmIwYzllODQ3",
+  "snapshot_id": "MTYwNDU2Nzk1MCwwMDAwMDAwMDQwNjkzY2ZiYTdiZDNmMDc0MjA4YmNiYjAyNzRiMDZi",
   "tracks": [
     {
       "added_at": "2020-11-04 14:30:06",
@@ -987,22 +987,6 @@
     {
       "added_at": "2020-11-04 14:30:06",
       "album": {
-        "name": "Helldorado",
-        "url": "https://open.spotify.com/album/7xN7SjBG4LHSiIUgKSgngX"
-      },
-      "artists": [
-        {
-          "name": "Negrita",
-          "url": "https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "Che Rumore Fa La Felicit\u00e0?",
-      "url": "https://open.spotify.com/track/5lwcMFalrs3LfxyTI9IIuQ"
-    },
-    {
-      "added_at": "2020-11-04 14:30:06",
-      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 230226,
       "name": "Come Musica",
       "url": "https://open.spotify.com/track/5gsvZaXWEFjAo1j4pqbr9t"
+    },
+    {
+      "added_at": "2020-11-04 14:30:06",
+      "album": {
+        "name": "Helldorado",
+        "url": "https://open.spotify.com/album/7xN7SjBG4LHSiIUgKSgngX"
+      },
+      "artists": [
+        {
+          "name": "Negrita",
+          "url": "https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "Che Rumore Fa La Felicit\u00e0?",
+      "url": "https://open.spotify.com/track/5lwcMFalrs3LfxyTI9IIuQ"
     },
     {
       "added_at": "2020-11-04 14:30:06",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2020-11-04 14:30:06",
       "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 274360,
+      "name": "Fango",
+      "url": "https://open.spotify.com/track/5ADDmkTk0hzjt2YHgR5qG9"
+    },
+    {
+      "added_at": "2020-11-04 14:30:06",
+      "album": {
         "name": "Scream",
         "url": "https://open.spotify.com/album/4YZNEE7JvTrw3uQVU02HRS"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 197213,
       "name": "Pop porno",
       "url": "https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO"
-    },
-    {
-      "added_at": "2020-11-04 14:30:06",
-      "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 274360,
-      "name": "Fango",
-      "url": "https://open.spotify.com/track/5ADDmkTk0hzjt2YHgR5qG9"
     },
     {
       "added_at": "2020-11-04 14:30:06",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2020-11-04 14:30:06",
       "album": {
-        "name": "Mai dire mai",
-        "url": "https://open.spotify.com/album/6XdVtYkcrl0XyScRqdeXjd"
-      },
-      "artists": [
-        {
-          "name": "Anna Tatangelo",
-          "url": "https://open.spotify.com/artist/2TtebnfWKMq7LCi2A9BlU4"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Il Mio Amico",
-      "url": "https://open.spotify.com/track/3at21457tnlcqHrnHUk0V0"
-    },
-    {
-      "added_at": "2020-11-04 14:30:06",
-      "album": {
         "name": "4:13 Dream",
         "url": "https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 235360,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/6C2MCGgNdVmtrZMIh3rZVY"
+    },
+    {
+      "added_at": "2020-11-04 14:30:06",
+      "album": {
+        "name": "Mai dire mai",
+        "url": "https://open.spotify.com/album/6XdVtYkcrl0XyScRqdeXjd"
+      },
+      "artists": [
+        {
+          "name": "Anna Tatangelo",
+          "url": "https://open.spotify.com/artist/2TtebnfWKMq7LCi2A9BlU4"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Il Mio Amico",
+      "url": "https://open.spotify.com/track/3at21457tnlcqHrnHUk0V0"
     },
     {
       "added_at": "2020-11-04 14:30:06",

@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 243050,
       "name": "134",
       "url": "https://open.spotify.com/track/0PvkPaT5WXWNpByL1m49E8"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 272657,
       "name": "After Party",
       "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 238720,
       "name": "Atami",
       "url": "https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 185117,
       "name": "BITTER!",
       "url": "https://open.spotify.com/track/6dmvgAl7jBgYbLBaFw3t3R"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 243652,
       "name": "CITY BOY",
       "url": "https://open.spotify.com/track/3v0JBtr2GRE7fONwUaIGrS"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 252293,
       "name": "Cosmic Love (2021 Remix)",
       "url": "https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU"
@@ -1056,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239745,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+    },
+    {
+      "album": {
         "name": "Hooray Hooray",
         "url": "https://open.spotify.com/album/2qFtotDNT7IqsqyFu9OHFw"
       },
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 274795,
       "name": "Ima Doushiteruno",
       "url": "https://open.spotify.com/track/76ZTtz38HroV1ocCCLSbuP"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 235700,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
@@ -1515,6 +1533,28 @@
       "duration_ms": 190906,
       "name": "MOON NIGHT",
       "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
+    },
+    {
+      "album": {
+        "name": "Moonset with KozyPop",
+        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Moonset",
+      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
     },
     {
       "album": {
@@ -2007,10 +2047,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 287569,
       "name": "SANDIE",
       "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
+    },
+    {
+      "album": {
+        "name": "Sentimental (Neon Mix)",
+        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u7af9\u5185\u7f8e\u5ba5",
+          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203588,
+      "name": "Sentimental - Neon Mix",
+      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
     },
     {
       "album": {
@@ -2047,10 +2109,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Shinin' World, Ridin' Road",
       "url": "https://open.spotify.com/track/25YgZdoImkhYt1PaFc7qTT"
+    },
+    {
+      "album": {
+        "name": "Signpost",
+        "url": "https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212418,
+      "name": "Signpost",
+      "url": "https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc"
     },
     {
       "album": {
@@ -2543,7 +2623,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 234452,
       "name": "Wave",
       "url": "https://open.spotify.com/track/2ZRFVRgQwYKViuStRrVKHH"
@@ -2619,7 +2699,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
@@ -2637,10 +2717,32 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 201617,
       "name": "yugi",
       "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+    },
+    {
+      "album": {
+        "name": "Zurukunai?",
+        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208981,
+      "name": "Zurukunai?",
+      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
     },
     {
       "album": {
@@ -2789,6 +2891,28 @@
       "duration_ms": 259999,
       "name": "\u304f\u3061\u3076\u3048",
       "url": "https://open.spotify.com/track/5pLJN1059GYVb8RxONcG4f"
+    },
+    {
+      "album": {
+        "name": "NOTE",
+        "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
+      },
+      "artists": [
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        },
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234936,
+      "name": "\u3053\u306e\u307e\u307e\u5922\u3067 feat. AAAMYYY",
+      "url": "https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0"
     },
     {
       "album": {
@@ -3267,10 +3391,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 267595,
       "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM"
+    },
+    {
+      "album": {
+        "name": "Grow apart",
+        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
     },
     {
       "album": {
@@ -3627,7 +3769,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 201355,
       "name": "\u5929\u6c17\u96e8 -Still Love me- (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/7trAsgfCsb4zWYAu1ydGM9"
@@ -4269,7 +4411,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 267575,
       "name": "\u96e8",
       "url": "https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY"

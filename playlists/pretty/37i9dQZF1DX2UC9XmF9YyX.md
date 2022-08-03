@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UC9XmF9YyX.md) - [plain]
 
 > Listen to Calvin Harris presents Funk Wav Bounces\. Vol 2\. Album out August 5th.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,848 likes - 15 songs - 55 min 53 sec
+[Spotify](https://open.spotify.com/user/spotify) - 8,479 likes - 15 songs - 55 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

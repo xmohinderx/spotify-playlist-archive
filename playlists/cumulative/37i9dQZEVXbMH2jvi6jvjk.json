@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 480000,
       "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
       "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
@@ -3589,7 +3589,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d"
@@ -3925,7 +3925,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 325876,
       "name": "Dali Nguwe",
       "url": "https://open.spotify.com/track/584B5N5x0phtVVpBtSNcPt"
@@ -5129,7 +5129,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 407826,
       "name": "Eningi (feat. Njelic, Simmy & Mhaw Keys)",
       "url": "https://open.spotify.com/track/3p15jik1b9bQk8PnyaDClI"
@@ -5779,7 +5779,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 192257,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/1TlTzdsEpgfsmbuNfYmWfG"
@@ -7735,7 +7735,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -11987,6 +11987,32 @@
     {
       "album": {
         "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203383,
+      "name": "MOVE (feat. Grace Jones & Tems)",
+      "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
+    },
+    {
+      "album": {
+        "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
       },
       "artists": [
@@ -12199,7 +12225,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
@@ -13267,7 +13293,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 415714,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7BH6nyhnWTSfMUwwrCYbJF"
@@ -15301,7 +15327,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 340846,
       "name": "Selema (Po Po)",
       "url": "https://open.spotify.com/track/2UNdr8gnOQrVkSmLDeC59w"
@@ -15459,7 +15485,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -16137,7 +16163,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 248424,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw"
@@ -16581,7 +16607,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -17597,7 +17623,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 244792,
       "name": "THIQUE",
       "url": "https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9"
@@ -18327,7 +18353,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 443091,
       "name": "uMlando",
       "url": "https://open.spotify.com/track/03GRsjCSytQo3LuspJayKT"
@@ -19767,7 +19793,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

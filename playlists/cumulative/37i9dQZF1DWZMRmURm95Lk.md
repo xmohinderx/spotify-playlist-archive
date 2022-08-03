@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. In cover, Nerone.
 
-207 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
+208 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Courage](https://open.spotify.com/track/3jUYGBOwKFqhIrgVhhTgEm) | [Assalti Frontali](https://open.spotify.com/artist/56PAFc5EkAWofBQfKUNpvb) | [Courage](https://open.spotify.com/album/0bh5nUKa7R7M4wgxJnD7QX) | 4:23 | 2022-07-14 |  |
 | [Cronaca quotidiana](https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Chicoria](https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce) | [La calda notte](https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT) | 4:33 | 2022-07-28 |  |
 | [Cronache di resistenza \- Hard to do](https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Mi fist \(Remastered version\)](https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8) | 3:41 | 2022-05-05 | 2022-07-28 |
+| [Cumbia Sobre el Mar](https://open.spotify.com/track/26KXwICOkpTjlPtF518xj3) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Dj MS](https://open.spotify.com/artist/2zx8hW1HdhkTCMa6V2GGNa) | [Cumbia Sobre el Mar](https://open.spotify.com/album/3RQx0XOIB3iequw6uFktYl) | 2:39 | 2022-07-28 |  |
 | [Curre curre guagliò](https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB) | [99 Posse](https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW) | [Curre curre guagliò](https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC) | 5:23 | 2022-05-05 | 2022-07-27 |
 | [Daimon](https://open.spotify.com/track/64XdgtHEsUoYNqg0ZHyGcb) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Daimon](https://open.spotify.com/album/4GvLhJ5Am3n68AamyaDabP) | 4:06 | 2022-06-23 |  |
 | [Dalla A Alla Zeta](https://open.spotify.com/track/3Aq2V5lm5dV9z8qwiXByRb) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Turbe Giovanili](https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ) | 2:47 | 2022-05-12 | 2022-07-29 |
@@ -143,7 +144,7 @@
 | [Orizzonte Arancio.](https://open.spotify.com/track/4XQe4g2zRCD7WOy02zKlPR) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9) | [Orizzonte Arancio.](https://open.spotify.com/album/0jeiHa9d1h6FTsbCIDFLWf) | 3:25 | 2022-05-05 | 2022-07-29 |
 | [Panico](https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Guerra E Pace](https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE) | 4:13 | 2022-07-28 |  |
 | [Parla piano](https://open.spotify.com/track/37IHphajTmd27MDLG76zEd) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Dead Poets 3 \- Maledetti](https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74) | 3:07 | 2022-05-05 |  |
-| [Parole](https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [Parole](https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37) | 3:49 | 2022-05-12 |  |
+| [Parole](https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [Parole](https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37) | 3:49 | 2022-05-12 | 2022-08-03 |
 | [Pezzi sparsi](https://open.spotify.com/track/1ps5LD9MCffeLAaneaVQDG) | [Eclectic Witches](https://open.spotify.com/artist/0FBrNrWKtC3WZgCsuckZR2), [LoneWolf](https://open.spotify.com/artist/09XnkGwE0de4hKvHdllajf), [O.K.O\. project](https://open.spotify.com/artist/744ECJgeEifVhZKD7dDs4w) | [Pezzi sparsi](https://open.spotify.com/album/4C212s6Y6mmROehhc9am5N) | 4:27 | 2022-05-12 | 2022-06-01 |
 | [PIAZZA DELLA STAZIONE](https://open.spotify.com/track/1Km9eE7oAaR3HVh6wrvzIr) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Sanchee](https://open.spotify.com/artist/3zcrLOprEtgvuaTmLi7vOa) | [PIAZZA DELLA STAZIONE](https://open.spotify.com/album/4cmkNHlTyCMGMjCOVDcLOa) | 3:34 | 2022-05-12 | 2022-07-20 |
 | [PICCOLI PEZZI DI INFERNO](https://open.spotify.com/track/1xRhCgDc6kb1v3ybsSEtsc) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [PICCOLI PEZZI DI INFERNO](https://open.spotify.com/album/7E2UekWy1gFv0xwXa21rxZ) | 3:36 | 2022-05-12 | 2022-06-21 |

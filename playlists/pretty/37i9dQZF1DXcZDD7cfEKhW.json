@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Lizzo.",
-  "num_followers": 3316502,
+  "num_followers": 3316684,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGZmZjI2YTdmZjEyMTg5ODRhMWJkOWRlMWI0MzZkYWQ4",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGEwZmI0YjYyZDFmODBhNzNhYWYyMmNhZDQ4ODA5N2Vl",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "So Good (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 189143,
       "name": "So Good - Jax Jones Remix",
       "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -815,6 +815,30 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
+        "url": "https://open.spotify.com/album/75G6Xu4kuB1hfbBjUaRYyt"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/6NazIrzaE4n57E7ObZNVFC"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Crazy What Love Can Do (with Becky Hill) [\u00d6wnboss Remix]",
         "url": "https://open.spotify.com/album/69IqzaBTW4Ok0UzGFOJfhb"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 156749,
       "name": "Crazy What Love Can Do (with Becky Hill) [\u00d6wnboss Remix]",
       "url": "https://open.spotify.com/track/0UV1xzcuNfWs4fWc8ZsB3Y"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
-        "url": "https://open.spotify.com/album/75G6Xu4kuB1hfbBjUaRYyt"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/6NazIrzaE4n57E7ObZNVFC"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "this is what falling in love feels like (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1lz0KrBP6HQtgv3A6w7fap"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "this is what falling in love feels like - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1oUisglJjlTLsSd9OFqSf2"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "CAN'T TOUCH THIS (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
       },
@@ -1115,26 +1135,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "this is what falling in love feels like (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/1lz0KrBP6HQtgv3A6w7fap"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "this is what falling in love feels like - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1oUisglJjlTLsSd9OFqSf2"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
         "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
       },
@@ -1151,30 +1151,6 @@
       "duration_ms": 201711,
       "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
       "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
-        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
-      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1303,6 +1279,30 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
+        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
+      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Summertime Sadness (Imanbek Remix)",
         "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
       },
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Jungle (Rico Nasty Remix)",
+        "url": "https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Jungle - Rico Nasty Remix",
+      "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Good Luck (D.O.D Remix)",
         "url": "https://open.spotify.com/album/0SwhUVYIId1xWWjk02CY4g"
       },
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Jungle (Rico Nasty Remix)",
-        "url": "https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Jungle - Rico Nasty Remix",
-      "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Don't Forget My Love (John Summit Remix)",
         "url": "https://open.spotify.com/album/0MmNbl4bIo9dSupmyxKBx7"
       },
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Better Days (Remixes)",
+        "url": "https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 181927,
+      "name": "Better Days - Galantis Remix",
+      "url": "https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Yo Yo (R3HAB Remix)",
         "url": "https://open.spotify.com/album/52jxeUG9W6mR78udHkQRo0"
       },
@@ -1487,22 +1507,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Better Days (Remixes)",
-        "url": "https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ"
+        "name": "On My Way (Marry Me) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/14irOjLIV5xNvGmO2c66qr"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 181927,
-      "name": "Better Days - Galantis Remix",
-      "url": "https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF"
+      "duration_ms": 218209,
+      "name": "On My Way (Marry Me) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/0ldyOpAYtavIapulYOwGfz"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1535,26 +1555,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "On My Way (Marry Me) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/14irOjLIV5xNvGmO2c66qr"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 218209,
-      "name": "On My Way (Marry Me) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/0ldyOpAYtavIapulYOwGfz"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "My Love (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/7MMKSqLZsScjyX29FNqDou"
       },
@@ -1571,30 +1571,6 @@
       "duration_ms": 211200,
       "name": "My Love - MEDUZA Remix",
       "url": "https://open.spotify.com/track/1yyQxEZcZBSTyI1sShNGKC"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Run (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/6SaJxv8ncND3eMn45iJ3Km"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 207096,
-      "name": "Run - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/6GULHU9yNAGXYxCItTcLDz"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1619,6 +1595,30 @@
       "duration_ms": 236065,
       "name": "Don\u2019t Wake Me Up - Sevenn Remix",
       "url": "https://open.spotify.com/track/6k5vdsmeY5yFWLcKhMBIsN"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Run (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/6SaJxv8ncND3eMn45iJ3Km"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "Run - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/6GULHU9yNAGXYxCItTcLDz"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Catching A Dream (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 173709,
-      "name": "Catching A Dream (Sam Feldt Remix)",
-      "url": "https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "i hope ur miserable until ur dead (Jauz Remix)",
         "url": "https://open.spotify.com/album/0hy69B5DiAkwSeQGhVhWrG"
       },
@@ -1927,22 +1907,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "What, Me Worry? (A-Trak Remix)",
-        "url": "https://open.spotify.com/album/2JVRZc2yaAmXj89hYQS8oT"
+        "name": "Catching A Dream (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         },
         {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 207107,
-      "name": "What, Me Worry? - A-Trak Remix",
-      "url": "https://open.spotify.com/track/5Et1Ou9NJaX3f6vuWcsJDm"
+      "duration_ms": 173709,
+      "name": "Catching A Dream (Sam Feldt Remix)",
+      "url": "https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1963,6 +1943,26 @@
       "duration_ms": 186856,
       "name": "Nothing Hurts (Afrojack Remix)",
       "url": "https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "What, Me Worry? (A-Trak Remix)",
+        "url": "https://open.spotify.com/album/2JVRZc2yaAmXj89hYQS8oT"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 207107,
+      "name": "What, Me Worry? - A-Trak Remix",
+      "url": "https://open.spotify.com/track/5Et1Ou9NJaX3f6vuWcsJDm"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2179,26 +2179,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Still Dancing (Kito Remix)",
-        "url": "https://open.spotify.com/album/4gwW16lbnbPPkPU16JwF30"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        },
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        }
-      ],
-      "duration_ms": 188031,
-      "name": "Still Dancing - Kito Remix",
-      "url": "https://open.spotify.com/track/1XttwTKO9oQAPnAwiLrK2S"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Close To You (Kyle Watson Remix)",
         "url": "https://open.spotify.com/album/1ytknwYOG3GS6yMmauLhrj"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 202381,
       "name": "Close To You - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/1YOF2DRwmMpXoEq6ikjwCc"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Still Dancing (Kito Remix)",
+        "url": "https://open.spotify.com/album/4gwW16lbnbPPkPU16JwF30"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "duration_ms": 188031,
+      "name": "Still Dancing - Kito Remix",
+      "url": "https://open.spotify.com/track/1XttwTKO9oQAPnAwiLrK2S"
     }
   ],
   "unique_name": "Pop Remix",

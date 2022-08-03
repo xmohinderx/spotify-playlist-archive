@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Mi Amigo Invencible en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,835 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,837 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 |
 | 2 | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/track/1mr6dXlWBIiSjTY44bcEhs) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/album/3PbE2A6hMQIejFQUHImi5U) | 3:01 |
 | 3 | [Los Tesoros Imposibles \(con Rulo\)](https://open.spotify.com/track/5UzqFwCA78f4FmQ0l9ylX1) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [Los Tesoros Imposibles \(con Rulo\)](https://open.spotify.com/album/4B4046OyVaZAAfboAlRT2n) | 3:54 |
-| 4 | [Aerolíneas Rebeldes \- En Vivo, Sábado 11 de Diciembre de 2021 / Estadio Único de la Plata](https://open.spotify.com/track/3HECeXJtkb2B4m3QoAW7UM) | [Indio Solari y los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Aerolíneas Rebeldes \(En Vivo, Sábado 11 de Diciembre de 2021 / Estadio Único de la Plata\)](https://open.spotify.com/album/3CWYeEPdANiQu8PaxHYE2H) | 3:49 |
+| 4 | [Aerolíneas Rebeldes \- En Vivo, Sábado 11 de Diciembre de 2021 / Estadio Único de la Plata](https://open.spotify.com/track/3HECeXJtkb2B4m3QoAW7UM) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Aerolíneas Rebeldes \(En Vivo, Sábado 11 de Diciembre de 2021 / Estadio Único de la Plata\)](https://open.spotify.com/album/3CWYeEPdANiQu8PaxHYE2H) | 3:49 |
 | 5 | [Esfera de Cristal](https://open.spotify.com/track/7tJdAZGqP0nFaHPXnh3NAo) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Esfera de Cristal](https://open.spotify.com/album/1xwZJ7GDxoYzmsvq9qpT49) | 3:36 |
 | 6 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 |
 | 7 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 |

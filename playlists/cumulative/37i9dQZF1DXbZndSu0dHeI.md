@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-320 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+321 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 | 2021-11-12 |  |
 | [artificial](https://open.spotify.com/track/0vvTPpHQ9pv5DsWXwKiTlz) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [artificial](https://open.spotify.com/album/1ocZVYlGbIgRcVXPJlpfuU) | 3:49 | 2022-03-19 | 2022-07-07 |
 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-11-12 | 2022-07-23 |
+| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 |  |
 | [Australia](https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 3:56 | 2022-06-22 |  |
 | [Australia](https://open.spotify.com/track/6OwwTVRndoy9aoDxsmrteR) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Zl638FA70c4Oxh4AimZLh) | 3:56 | 2022-03-19 | 2022-06-19 |
 | [Back Of My Hand](https://open.spotify.com/track/2tNGLZLYpG7LUc8PuBXAb6) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Paradise Heights](https://open.spotify.com/album/5truT1ytaeAQFiq6BNPI9d) | 2:10 | 2021-11-12 | 2022-07-07 |
@@ -242,7 +243,7 @@
 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 | 2022-03-19 | 2022-07-29 |
 | [Skin And Bone](https://open.spotify.com/track/0cihUuV8xMJHVv2vKIxl5I) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [How It Feels](https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0) | 3:30 | 2021-11-12 | 2022-06-27 |
 | [Sleep Talk](https://open.spotify.com/track/0yDdaDzHXrisGbhm7mvZ0v) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Fall Back Asleep](https://open.spotify.com/album/5qLtchUaugg04COY4RE1rT) | 3:11 | 2021-11-12 | 2022-06-24 |
-| [Slow \(feat\. Henjila\)](https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Slow \(feat\. Henjila\)](https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw) | 3:13 | 2021-11-12 |  |
+| [Slow \(feat\. Henjila\)](https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Slow \(feat\. Henjila\)](https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw) | 3:13 | 2021-11-12 | 2022-08-03 |
 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 | 2022-03-19 |  |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2022-02-04 | 2022-07-26 |
 | [Snooza](https://open.spotify.com/track/1e7Uf0Y3ce3grVrZYmiF8N) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Däggdjur](https://open.spotify.com/album/3bSgmderTD253oYZN3HdTr) | 3:42 | 2022-03-19 | 2022-04-16 |

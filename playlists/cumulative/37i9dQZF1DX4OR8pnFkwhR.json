@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Penthouse",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: ao",
   "name": "RADAR: Early Noise ",
   "published_playlist_ids": [
     "3egMOJl8BjDmQKjIUlEPsP"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 177731,
       "name": "Businessman",
       "url": "https://open.spotify.com/track/4pFT8B1n09iD1gMhcZnGcf"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 274417,
       "name": "Devil's Kiss",
       "url": "https://open.spotify.com/track/4H2WRCEiJviNs9c3kCItMM"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 221846,
       "name": "escape",
       "url": "https://open.spotify.com/track/54I4yCRiTczv8HGgc97h9j"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 179066,
       "name": "KILLER,Muddy Greed",
       "url": "https://open.spotify.com/track/0Yo7YBmvoA36hmRAM1F7NN"
@@ -2009,7 +2009,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 218674,
       "name": "nothin'",
       "url": "https://open.spotify.com/track/0Y7NneU33uLwvMPm3FoKtr"
@@ -2231,7 +2231,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 241777,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/2m8m4d1g1bTdBRzduDnJqB"
@@ -2303,7 +2303,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 225500,
       "name": "pure",
       "url": "https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb"
@@ -2401,7 +2401,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 164909,
       "name": "ripple",
       "url": "https://open.spotify.com/track/3kQMsWayIAqbgRou15Y9Wy"
@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 204141,
       "name": "So far",
       "url": "https://open.spotify.com/track/1FlHF3KWU8dOjpevI888yB"
@@ -2817,7 +2817,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 215898,
       "name": "Super Junky Monkey",
       "url": "https://open.spotify.com/track/0Us823Ur65e4Jc0u3UdhD0"
@@ -4439,7 +4439,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 335529,
       "name": "\u30ef\u30f3\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/1IZjP9p8OvqJ6Niar0KIEK"
@@ -4951,7 +4951,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 201227,
       "name": "\u5fc3\u3092\u7167\u3089\u305b!",
       "url": "https://open.spotify.com/track/7EPAubvUXuj7fMmQ7GBJBd"
@@ -5607,6 +5607,24 @@
       "duration_ms": 272313,
       "name": "\u7834\u7247",
       "url": "https://open.spotify.com/track/2zcHNGvWvdeSwOd6iyCug5"
+    },
+    {
+      "album": {
+        "name": "\u795d\u65e5\u5929\u56fd",
+        "url": "https://open.spotify.com/album/5n0s8subG1xzl9SDxBT58D"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241066,
+      "name": "\u795d\u65e5\u5929\u56fd",
+      "url": "https://open.spotify.com/track/6zTD1K9pkrFg4UN7reegf1"
     },
     {
       "album": {

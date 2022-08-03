@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: August Burns Red",
-  "num_followers": 868557,
+  "num_followers": 868519,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDJjMmNlMzQ4NzAwMWRkYTM2MDkxZmMzOWVjOWRkNWQy",
+  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDE4ZDM0MDE2ZjY2MzE1ZjA2NWU3YzViNjAyOTRjMjY4",
   "tracks": [
     {
       "added_at": "2022-07-08 00:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "Your Love I'll Never Need",
         "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 192290,
       "name": "Jabberwocky",
       "url": "https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 209564,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Cross My Heart",
         "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 198000,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -777,20 +777,20 @@
       "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
     },
     {
-      "added_at": "2022-07-22 13:00:00",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Eden Will Drown",
-        "url": "https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR"
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
       },
       "artists": [
         {
-          "name": "END",
-          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 192360,
-      "name": "Eden Will Drown",
-      "url": "https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE"
+      "duration_ms": 203290,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -809,20 +809,20 @@
       "url": "https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk"
     },
     {
-      "added_at": "2022-07-08 00:00:00",
+      "added_at": "2022-07-22 13:00:00",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
+        "name": "Eden Will Drown",
+        "url": "https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR"
       },
       "artists": [
         {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+          "name": "END",
+          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
         }
       ],
-      "duration_ms": 203290,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
+      "duration_ms": 192360,
+      "name": "Eden Will Drown",
+      "url": "https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Fault Line",
-        "url": "https://open.spotify.com/album/1uOILLHZaV1sjCVHVyS4JA"
-      },
-      "artists": [
-        {
-          "name": "Patient Sixty-Seven",
-          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Fault Line",
-      "url": "https://open.spotify.com/track/3dbLhhWTAh1JcezKuttLFo"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "A King To Rise",
         "url": "https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 188307,
       "name": "A King To Rise",
       "url": "https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Fault Line",
+        "url": "https://open.spotify.com/album/1uOILLHZaV1sjCVHVyS4JA"
+      },
+      "artists": [
+        {
+          "name": "Patient Sixty-Seven",
+          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/3dbLhhWTAh1JcezKuttLFo"
     },
     {
       "added_at": "2022-07-08 00:00:00",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Raashi Sood & Raja Kumari.
+> Listen to Indian women, at full volume\. Cover: Neeti Mohan
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,830 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,872 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 41 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 |
 | 42 | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 |
 
-Snapshot ID: `MTY1NzA4NDYyNCwwMDAwMDAwMGM4MmE5MWY3NjRmMmFkNmFlYWE5YzY2YWUxYWY5ZmUz`
+Snapshot ID: `MTY1OTQ2NTAwMCwwMDAwMDAwMDNhMjliNDcwODE4YzE2YjQ2MWVmYTYyMzU1MmE3ZDEx`

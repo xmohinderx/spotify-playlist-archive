@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists.  Cover: Garth Brooks and Trisha Yearwood",
-  "num_followers": 74881,
+  "num_followers": 74961,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGZlNWM2NjgwMmIwMzc0YWQ4M2VkYjUxZWNkNGZiYzMx",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDlmYjk3ZGI4YWQ5Mjg3MWQyYWMxN2NjYWRhYTVlNGU5",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Buenas Noches From a Lonely Room",
-        "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Streets of Bakersfield",
-      "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Simply The Hits",
         "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 257733,
       "name": "Walking In Memphis",
       "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Buenas Noches From a Lonely Room",
+        "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Streets of Bakersfield",
+      "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -547,30 +547,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/0LRJCqgduJF7dmTdKcXbEK"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Highwayman",
-      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+      "duration_ms": 189000,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/2DP7FXMdejVk2sx6sFd2ne"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -607,18 +595,30 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Vienna",
-        "url": "https://open.spotify.com/album/0LRJCqgduJF7dmTdKcXbEK"
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
       "artists": [
         {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/2DP7FXMdejVk2sx6sFd2ne"
+      "duration_ms": 182973,
+      "name": "Highwayman",
+      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 246226,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -835,22 +835,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Graffiti U",
-        "url": "https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         }
       ],
-      "duration_ms": 213938,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq"
+      "duration_ms": 194459,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -871,18 +867,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
+        "name": "Graffiti U",
+        "url": "https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z"
       },
       "artists": [
         {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 194459,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
+      "duration_ms": 213938,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
-      },
-      "artists": [
-        {
-          "name": "Rayne Johnson",
-          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Whoever's In New England",
         "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
       },
@@ -931,22 +915,6 @@
       "duration_ms": 226960,
       "name": "Whoever's in New England",
       "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -967,6 +935,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Dreams (The Campfire Sessions)",
         "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 226293,
       "name": "Dreams - The Campfire Sessions",
       "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
+      },
+      "artists": [
+        {
+          "name": "Rayne Johnson",
+          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Cosmic Hallelujah",
-        "url": "https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 301146,
-      "name": "I Want to Know What Love Is",
-      "url": "https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "34 Number Ones",
         "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 191533,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/5HBjOCb4Z38T6b3ywNGwWF"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Cosmic Hallelujah",
+        "url": "https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 301146,
+      "name": "I Want to Know What Love Is",
+      "url": "https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Ain't Goin' Down (Til the Sun Comes up)",
-        "url": "https://open.spotify.com/album/7DuXhaPbr8SI066tDEwubh"
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
       },
       "artists": [
         {
-          "name": "Home Free",
-          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 185654,
-      "name": "Ain't Going Down (Til the Sun Comes up)",
-      "url": "https://open.spotify.com/track/3klE9CXDio6dDgY9yU1wKU"
+      "duration_ms": 251960,
+      "name": "Bartender's Blues",
+      "url": "https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q"
     }
   ],
   "unique_name": "Country Covers",

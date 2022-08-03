@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-122 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/6Kv5FB2j0bACWv8Ol5GxDe)
+123 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/6Kv5FB2j0bACWv8Ol5GxDe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Everybody \(All over the World\) \- Dance Version](https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Everybody \(All Over The World\)](https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg) | 5:13 | 2021-09-17 |  |
 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 | 2021-09-17 |  |
 | [Everybody Everybody \(Le Freak Mix\)](https://open.spotify.com/track/7aqab3VQOMuUNNLI7pL8EJ) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW), [DJ Lelewel](https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL) | [Everybody Everybody](https://open.spotify.com/album/218q3hata7TGdBZF6u5nvF) | 5:20 | 2021-09-17 | 2022-07-29 |
+| [Everybody Everybody \(Le Freak Mix\)](https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW), [DJ Lelewel](https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL) | [Everybody Everybody](https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H) | 5:20 | 2021-09-17 |  |
 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 | 2021-09-17 |  |
 | [Finally](https://open.spotify.com/track/4kYHN7CfG0asKuOwirbhpV) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:16 | 2021-09-17 | 2022-07-29 |
 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 | 2021-09-17 |  |
@@ -104,7 +105,7 @@
 | [Salsa House \- Edit](https://open.spotify.com/track/0lYftlVimwk7bTZ1LzeBuV) | [Richie Rich](https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd) | [Dance Anthems Classics](https://open.spotify.com/album/7D7y3vKUI95Zdx3ROo7YBh) | 3:53 | 2021-09-17 | 2022-07-24 |
 | [Samba Magic](https://open.spotify.com/track/64O1UkAVbdTfbqfyxBS74i) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Summer Daze](https://open.spotify.com/album/36IOsN6LAZLn8Mauc3z77g) | 7:59 | 2021-09-17 | 2022-07-28 |
 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:15 | 2021-09-17 |  |
-| [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 | 2021-09-17 |  |
+| [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 | 2021-09-17 | 2022-08-03 |
 | [Showing Out \(Get Fresh At the Weekend\) \- 7" Version](https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:34 | 2021-09-17 |  |
 | [Sindae \(feat\. L.G.\) \- Masters At Work Club Mix](https://open.spotify.com/track/4f7PglDSAmthAX0iq7E8Mt) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1), [L.G.](https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA) | [Sindae \(feat\. L.G.\)](https://open.spotify.com/album/2dfXqrgiXOekles5uIiWeL) | 5:50 | 2021-09-17 | 2022-07-29 |
 | [Sound Of Eden](https://open.spotify.com/track/06OpZKNfGIC0hHFIz03SCA) | [Shades of Rhythm](https://open.spotify.com/artist/1BRpMOjIH52Y93hbROTMXc) | [The Album](https://open.spotify.com/album/44YQzFb9cQMoMtCHboYObz) | 5:02 | 2021-09-17 | 2022-07-28 |

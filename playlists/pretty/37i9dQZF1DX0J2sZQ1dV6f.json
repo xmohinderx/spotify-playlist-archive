@@ -1,12 +1,12 @@
 {
   "description": "Perreo after hours.",
-  "num_followers": 42730,
+  "num_followers": 42909,
   "original_name": "4AM Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3OTA0MywwMDAwMDAwMGY4N2I2ODRjM2I1YTY4NmU3MWM0ZTkyNjY5NjMzNDg2",
+  "snapshot_id": "MTY1OTA3OTA0MywwMDAwMDAwMDdjMzk0MTlmY2QyYmFmNzk3Y2FjN2M1YmMxMmEzOTYw",
   "tracks": [
     {
       "added_at": "2022-07-29 07:17:23",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2022-07-29 07:17:23",
       "album": {
-        "name": "ENR",
-        "url": "https://open.spotify.com/album/7c3cZS4ScoPCEmtZFIPqLF"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "Se Le Ve",
-      "url": "https://open.spotify.com/track/1ntqvhJlheHh2uFEcK9fqY"
-    },
-    {
-      "added_at": "2022-07-29 07:17:23",
-      "album": {
         "name": "Castigada",
         "url": "https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 196849,
       "name": "Castigada",
       "url": "https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk"
+    },
+    {
+      "added_at": "2022-07-29 07:17:23",
+      "album": {
+        "name": "ENR",
+        "url": "https://open.spotify.com/album/7c3cZS4ScoPCEmtZFIPqLF"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "Se Le Ve",
+      "url": "https://open.spotify.com/track/1ntqvhJlheHh2uFEcK9fqY"
     },
     {
       "added_at": "2022-07-29 07:17:23",

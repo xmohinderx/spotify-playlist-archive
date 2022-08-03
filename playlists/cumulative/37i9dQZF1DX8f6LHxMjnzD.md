@@ -4,7 +4,7 @@
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Huddy
 
-1,263 songs - 2 day 18 hr 4 min - [published](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
+1,264 songs - 2 day 18 hr 8 min - [published](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Cold December](https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Cold December](https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K) | 3:12 | 2022-01-24 | 2022-02-01 |
 | [Cold Shoulder](https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Cold Shoulder](https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub) | 3:12 | 2022-01-31 | 2022-02-09 |
 | [Colorado Boulder](https://open.spotify.com/track/415cidxCKnjZg9l7dAnVJp) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Colorado Boulder](https://open.spotify.com/album/5hF6qsppuOKFRmgeCKwj2T) | 2:43 | 2022-03-01 | 2022-03-08 |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-08-01 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-08-01 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-08-01 |  |
 | [Colour Me Blue](https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Colour Me Blue](https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA) | 3:16 | 2022-04-18 | 2022-04-27 |
 | [Come & Go](https://open.spotify.com/track/1jTrQnMziyawXMHjd6y4R1) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Come & Go](https://open.spotify.com/album/1iOQNkFxtPkiZDYq9RZDyV) | 2:59 | 2022-03-08 | 2022-03-15 |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-17 | 2022-01-25 |

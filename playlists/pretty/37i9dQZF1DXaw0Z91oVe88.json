@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 990,
+  "num_followers": 1004,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjgxNiwwMDAwMDAwMDc5YzZhZGFhNjAwZGMyNDVhY2M2ZGU3MmY2OGI0ZjZl",
+  "snapshot_id": "MTY1ODQ4MjgxNiwwMDAwMDAwMGU3ODc4MWE2ODc0ODhlYzY4YzllZTU1NzJkMmJkODc4",
   "tracks": [
     {
       "added_at": "2022-07-22 09:40:16",
@@ -275,18 +275,22 @@
     {
       "added_at": "2022-07-22 09:40:16",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+        "name": "How To Love (Feat.Paul Kim)",
+        "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "Peakboy",
+          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 213200,
-      "name": "2 KIDS",
-      "url": "https://open.spotify.com/track/7MYf8wY7RdOgT7fPxJKIR8"
+      "duration_ms": 180000,
+      "name": "How To Love (Feat.Paul Kim)",
+      "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
     },
     {
       "added_at": "2022-07-22 09:40:16",
@@ -307,22 +311,18 @@
     {
       "added_at": "2022-07-22 09:40:16",
       "album": {
-        "name": "How To Love (Feat.Paul Kim)",
-        "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "Peakboy",
-          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
-        },
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         }
       ],
-      "duration_ms": 180000,
-      "name": "How To Love (Feat.Paul Kim)",
-      "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
+      "duration_ms": 213200,
+      "name": "2 KIDS",
+      "url": "https://open.spotify.com/track/7MYf8wY7RdOgT7fPxJKIR8"
     },
     {
       "added_at": "2022-07-22 09:40:16",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-07-22 09:40:16",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 282118,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
-    },
-    {
-      "added_at": "2022-07-22 09:40:16",
-      "album": {
         "name": "You Erase Me",
         "url": "https://open.spotify.com/album/13dKrAwZZZAVChkOuhZ9LB"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2022-07-22 09:40:16",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4"
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
       },
       "artists": [
         {
-          "name": "\ub8e8\uc544\uba5c (LUAMEL)",
-          "url": "https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy"
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 197960,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9"
+      "duration_ms": 282118,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
       "added_at": "2022-07-22 09:40:16",
@@ -751,6 +735,22 @@
       "duration_ms": 265000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
+    },
+    {
+      "added_at": "2022-07-22 09:40:16",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4"
+      },
+      "artists": [
+        {
+          "name": "\ub8e8\uc544\uba5c (LUAMEL)",
+          "url": "https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9"
     },
     {
       "added_at": "2022-07-22 09:40:16",

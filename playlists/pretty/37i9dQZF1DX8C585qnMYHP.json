@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Himeno Tama / Boku to Georges Artwork: Thami Nabil",
-  "num_followers": 89705,
+  "num_followers": 89757,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTY3MCwwMDAwMDAwMDY3ZjQ3MTc2MjcxYjJiZGM5MWEyZDk1Y2YzYjQ1Njgw",
+  "snapshot_id": "MTY1OTEwNTY3MCwwMDAwMDAwMDhiMGIxZWQyYjA5ODAyNTI0Y2U0MTMyY2Y2ZTBmYjM1",
   "tracks": [
     {
       "added_at": "2022-07-27 14:53:59",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/3Kmn0mu69Lu2FEgyFkIaXs"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Picnic",
-        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
-      },
-      "artists": [
-        {
-          "name": "Picnic",
-          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
-        }
-      ],
-      "duration_ms": 436796,
-      "name": "Plush Hooves",
-      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
-    },
-    {
       "added_at": "2022-07-06 13:58:15",
       "album": {
         "name": "Strands",
@@ -535,6 +519,22 @@
       "duration_ms": 155980,
       "name": "Open Mind",
       "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Picnic",
+        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
+      },
+      "artists": [
+        {
+          "name": "Picnic",
+          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
+        }
+      ],
+      "duration_ms": 436796,
+      "name": "Plush Hooves",
+      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-06-08 02:19:10",
       "album": {
-        "name": "C Tactile Afferent",
-        "url": "https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2"
-      },
-      "artists": [
-        {
-          "name": "Ola Szmidt",
-          "url": "https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw"
-        }
-      ],
-      "duration_ms": 216102,
-      "name": "C Tactile Afferent",
-      "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
-    },
-    {
-      "added_at": "2022-06-08 02:19:10",
-      "album": {
         "name": "Umbra",
         "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
       },
@@ -585,20 +569,20 @@
       "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
+      "added_at": "2022-06-08 02:19:10",
       "album": {
-        "name": "Leidenzwang",
-        "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
+        "name": "C Tactile Afferent",
+        "url": "https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2"
       },
       "artists": [
         {
-          "name": "Kenji Araki",
-          "url": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
+          "name": "Ola Szmidt",
+          "url": "https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw"
         }
       ],
-      "duration_ms": 290500,
-      "name": "Nabelschnurtanz",
-      "url": "https://open.spotify.com/track/7DL4cfG56dc8iDIl6l8eNP"
+      "duration_ms": 216102,
+      "name": "C Tactile Afferent",
+      "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 437059,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Leidenzwang",
+        "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
+      },
+      "artists": [
+        {
+          "name": "Kenji Araki",
+          "url": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
+        }
+      ],
+      "duration_ms": 290500,
+      "name": "Nabelschnurtanz",
+      "url": "https://open.spotify.com/track/7DL4cfG56dc8iDIl6l8eNP"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -639,6 +639,22 @@
       "duration_ms": 391899,
       "name": "Tloque Nahuaque",
       "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
+    },
+    {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "K\u00fcbler-Ross",
+        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcbler-Ross",
+          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+        }
+      ],
+      "duration_ms": 258174,
+      "name": "Victims of Victimless Crimes",
+      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
       "added_at": "2022-06-08 02:19:10",
@@ -667,38 +683,6 @@
       "duration_ms": 298151,
       "name": "Chapter 2 (feat. Laurel Halo) - Peverelist Remix",
       "url": "https://open.spotify.com/track/1xNjNoGC0SbQBkMvPxQWe1"
-    },
-    {
-      "added_at": "2022-07-20 05:00:00",
-      "album": {
-        "name": "K\u00fcbler-Ross",
-        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
-      },
-      "artists": [
-        {
-          "name": "K\u00fcbler-Ross",
-          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
-        }
-      ],
-      "duration_ms": 258174,
-      "name": "Victims of Victimless Crimes",
-      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
-    },
-    {
-      "added_at": "2022-06-30 01:10:53",
-      "album": {
-        "name": "Slopped + Chewed, Volume 1",
-        "url": "https://open.spotify.com/album/5GZmKpx3tboxuJ1cfqYhQw"
-      },
-      "artists": [
-        {
-          "name": "TUAWKI",
-          "url": "https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "All the Way up",
-      "url": "https://open.spotify.com/track/1vUbhcm7MIRuqFYi0FZSuu"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -733,6 +717,22 @@
       "url": "https://open.spotify.com/track/7rH2MHD1iX2405rkYFO4uC"
     },
     {
+      "added_at": "2022-06-30 01:10:53",
+      "album": {
+        "name": "Slopped + Chewed, Volume 1",
+        "url": "https://open.spotify.com/album/5GZmKpx3tboxuJ1cfqYhQw"
+      },
+      "artists": [
+        {
+          "name": "TUAWKI",
+          "url": "https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "All the Way up",
+      "url": "https://open.spotify.com/track/1vUbhcm7MIRuqFYi0FZSuu"
+    },
+    {
       "added_at": "2022-06-08 02:19:10",
       "album": {
         "name": "Axexan, espreitan",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/5vxqhMfBHfKy4uOMnlGgsy"
     },
     {
+      "added_at": "2022-06-08 02:19:10",
+      "album": {
+        "name": "NON-BACKGROUND MUSIC",
+        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
+      },
+      "artists": [
+        {
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+        }
+      ],
+      "duration_ms": 296543,
+      "name": "BUG",
+      "url": "https://open.spotify.com/track/06XaxwXwSFobXivqcLW3Mw"
+    },
+    {
       "added_at": "2022-07-20 05:00:00",
       "album": {
         "name": "At the Opposite Pole of Architectural Virtue",
@@ -771,22 +787,6 @@
       "duration_ms": 316693,
       "name": "At the Opposite Pole of Architectural Virtue",
       "url": "https://open.spotify.com/track/5RedG0fnDPdtnyqTlUQW9n"
-    },
-    {
-      "added_at": "2022-06-08 02:19:10",
-      "album": {
-        "name": "NON-BACKGROUND MUSIC",
-        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
-      },
-      "artists": [
-        {
-          "name": "72-HOUR POST FIGHT",
-          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
-        }
-      ],
-      "duration_ms": 296543,
-      "name": "BUG",
-      "url": "https://open.spotify.com/track/06XaxwXwSFobXivqcLW3Mw"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/3pnVNfUWS1qAiulCmtmepT"
     },
     {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ"
+      },
+      "artists": [
+        {
+          "name": "FFT",
+          "url": "https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6"
+        }
+      ],
+      "duration_ms": 312571,
+      "name": "3 Sided",
+      "url": "https://open.spotify.com/track/0QMv6RWTMqR2OqiUBke2mV"
+    },
+    {
       "added_at": "2022-07-06 13:58:15",
       "album": {
         "name": "Business Class",
@@ -891,22 +907,6 @@
       "duration_ms": 339711,
       "name": "Situazioni Distinte",
       "url": "https://open.spotify.com/track/2mzphnIh0Q5VTx6FVK6UQH"
-    },
-    {
-      "added_at": "2022-07-20 05:00:00",
-      "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ"
-      },
-      "artists": [
-        {
-          "name": "FFT",
-          "url": "https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6"
-        }
-      ],
-      "duration_ms": 312571,
-      "name": "3 Sided",
-      "url": "https://open.spotify.com/track/0QMv6RWTMqR2OqiUBke2mV"
     },
     {
       "added_at": "2022-07-06 13:58:15",
@@ -975,6 +975,38 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
+        "name": "Tongues",
+        "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "Colonizer",
+      "url": "https://open.spotify.com/track/5f4EAqwXpQ7kJGgZ7oVN60"
+    },
+    {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "Veneer of Tolerance",
+        "url": "https://open.spotify.com/album/2ZKMmk6g07oqWVAnEJZO7f"
+      },
+      "artists": [
+        {
+          "name": "JK Flesh",
+          "url": "https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3"
+        }
+      ],
+      "duration_ms": 317091,
+      "name": "Urge",
+      "url": "https://open.spotify.com/track/6VeH9dmbSC8jj9EGUqvygV"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
         "name": "deciduous tree emoji",
         "url": "https://open.spotify.com/album/1MegsLrU1nOAce60GX6J30"
       },
@@ -1011,38 +1043,6 @@
       "duration_ms": 267880,
       "name": "deciduous tree emoji",
       "url": "https://open.spotify.com/track/4sG0oxVJgEt5aZfs5UxN1T"
-    },
-    {
-      "added_at": "2022-07-20 05:00:00",
-      "album": {
-        "name": "Veneer of Tolerance",
-        "url": "https://open.spotify.com/album/2ZKMmk6g07oqWVAnEJZO7f"
-      },
-      "artists": [
-        {
-          "name": "JK Flesh",
-          "url": "https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3"
-        }
-      ],
-      "duration_ms": 317091,
-      "name": "Urge",
-      "url": "https://open.spotify.com/track/6VeH9dmbSC8jj9EGUqvygV"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Tongues",
-        "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tagaq",
-          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "Colonizer",
-      "url": "https://open.spotify.com/track/5f4EAqwXpQ7kJGgZ7oVN60"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
+        "name": "Hold Me Under",
+        "url": "https://open.spotify.com/album/73DLdTZBv5A9yEgKWb25tC"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        }
+      ],
+      "duration_ms": 231431,
+      "name": "Hold Me Under",
+      "url": "https://open.spotify.com/track/6BgyBrCR3TV7M8aZ8C5fii"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
         "name": "Threshold",
         "url": "https://open.spotify.com/album/5CGMLqwfDvBOe7qirylp4G"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Hold Me Under",
-        "url": "https://open.spotify.com/album/73DLdTZBv5A9yEgKWb25tC"
+        "name": "Psyko Tropix",
+        "url": "https://open.spotify.com/album/41dR5jrIi0s9jXi5PSXp4N"
       },
       "artists": [
         {
-          "name": "RamonPang",
-          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+          "name": "Vox Populi",
+          "url": "https://open.spotify.com/artist/1ytw8aB9k7QB3z4jg3zKgR"
         }
       ],
-      "duration_ms": 231431,
-      "name": "Hold Me Under",
-      "url": "https://open.spotify.com/track/6BgyBrCR3TV7M8aZ8C5fii"
+      "duration_ms": 203317,
+      "name": "Caballo Blanco",
+      "url": "https://open.spotify.com/track/4hyrGkNTxTF35DE4E4O9Pi"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1263,22 +1279,6 @@
       "duration_ms": 193500,
       "name": "Lluvi\u00e1cida",
       "url": "https://open.spotify.com/track/2m0uz2JRA6tgjJOdOq08H5"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Psyko Tropix",
-        "url": "https://open.spotify.com/album/41dR5jrIi0s9jXi5PSXp4N"
-      },
-      "artists": [
-        {
-          "name": "Vox Populi",
-          "url": "https://open.spotify.com/artist/1ytw8aB9k7QB3z4jg3zKgR"
-        }
-      ],
-      "duration_ms": 203317,
-      "name": "Caballo Blanco",
-      "url": "https://open.spotify.com/track/4hyrGkNTxTF35DE4E4O9Pi"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Tum Trib\u00f9 Reworked",
-        "url": "https://open.spotify.com/album/4UyiActwdoFeWE5JYVB9m5"
-      },
-      "artists": [
-        {
-          "name": "John Bringwolves",
-          "url": "https://open.spotify.com/artist/0zT3ikJN0N8OJOPDuGLp93"
-        },
-        {
-          "name": "Indianizer",
-          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
-        }
-      ],
-      "duration_ms": 177903,
-      "name": "Tum Trib\u00f9 Reworked",
-      "url": "https://open.spotify.com/track/3dDXCkuYKpsRJ4UsXnDGiL"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "No Rival",
         "url": "https://open.spotify.com/album/5OVvImHFdHqNf2hNRT5MS2"
       },
@@ -1635,18 +1615,22 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "TUKI TUKI",
-        "url": "https://open.spotify.com/album/6F2MfJkJYAPAaZW2pFooTy"
+        "name": "Tum Trib\u00f9 Reworked",
+        "url": "https://open.spotify.com/album/4UyiActwdoFeWE5JYVB9m5"
       },
       "artists": [
         {
-          "name": "CRRDR",
-          "url": "https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I"
+          "name": "John Bringwolves",
+          "url": "https://open.spotify.com/artist/0zT3ikJN0N8OJOPDuGLp93"
+        },
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
         }
       ],
-      "duration_ms": 185777,
-      "name": "TUKI TUKI",
-      "url": "https://open.spotify.com/track/5UHr2nwlDQetW4GV8dxMD1"
+      "duration_ms": 177903,
+      "name": "Tum Trib\u00f9 Reworked",
+      "url": "https://open.spotify.com/track/3dDXCkuYKpsRJ4UsXnDGiL"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1679,6 +1663,22 @@
       "duration_ms": 368710,
       "name": "WilB",
       "url": "https://open.spotify.com/track/3BK8MsRPv81VX36EYT2o4n"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "TUKI TUKI",
+        "url": "https://open.spotify.com/album/6F2MfJkJYAPAaZW2pFooTy"
+      },
+      "artists": [
+        {
+          "name": "CRRDR",
+          "url": "https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "TUKI TUKI",
+      "url": "https://open.spotify.com/track/5UHr2nwlDQetW4GV8dxMD1"
     },
     {
       "added_at": "2022-06-29 16:46:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Lava La Rue
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,119 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,149 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 35 | [paranoia](https://open.spotify.com/track/25jpA6Nwk0BzPpzOTYLCXA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [paranoia](https://open.spotify.com/album/7cKJ7ywktloxEDpY8fxHJR) | 3:22 |
 | 36 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 |
 | 37 | [I'm Back](https://open.spotify.com/track/3wfBUXi1QSmTzoYPpf6g9U) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [I'm Back](https://open.spotify.com/album/18LjCDwTSsXwhrwmYe2VC6) | 3:39 |
-| 38 | [Air To Your Hidden Lung](https://open.spotify.com/track/4nF8Cd7JAbTEp6829NjY5i) | [Mr Jukes & Barney Artist](https://open.spotify.com/artist/1kuIEJwmnDAC3mFdB7Q2jv), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO) | [Air To Your Hidden Lung](https://open.spotify.com/album/7nlQ23XKHgPBLucJvQpNsm) | 3:19 |
+| 38 | [Air To Your Hidden Lung](https://open.spotify.com/track/4nF8Cd7JAbTEp6829NjY5i) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO) | [Air To Your Hidden Lung](https://open.spotify.com/album/7nlQ23XKHgPBLucJvQpNsm) | 3:19 |
 | 39 | [Cut](https://open.spotify.com/track/7sdQ5zwswFQOZIN5qqdaVF) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Fear Fear](https://open.spotify.com/album/5qKXYz1XhJhJV3BHJR3eq5) | 6:50 |
 | 40 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |
 | 41 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 |

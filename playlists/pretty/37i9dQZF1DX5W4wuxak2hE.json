@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 121774,
+  "num_followers": 121831,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjUxMCwwMDAwMDAwMDViMmE1MTA1NTk5MDQ1MmYzNWU4OGI1ZDQ0ZmZiYmFl",
+  "snapshot_id": "MTY1MzQyMjUxMCwwMDAwMDAwMDRjNjZhMDhkODZiY2JkODM5ODQ1N2U0MjVjMjMzMDFh",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Band On The Run (Standard)",
-        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Jet - Remastered 2010",
-      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 178760,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Band On The Run (Standard)",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Jet - Remastered 2010",
+      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
     },
     {
       "added_at": "2021-12-16 19:14:26",

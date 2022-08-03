@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 
 > All his biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,197,310 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,197,998 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 | 53 | [Hearts Don't Break Around Here](https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:08 |
 | 54 | [Save Myself](https://open.spotify.com/track/6TIU9Ehmi6dMzZK73Ym4yj) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:07 |
 | 55 | [Bibia Be Ye Ye](https://open.spotify.com/track/6SznMYPQJHzr3IwsAHLId2) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:56 |
-| 56 | [Boa Me \(feat\. Ed Sheeran & Mugeez\)](https://open.spotify.com/track/5iYqXLSwFkrsgXl53pAnhd) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Mugeez](https://open.spotify.com/artist/1NkTRytYsWaecygtgV5TRX) | [New Africa Nation](https://open.spotify.com/album/0KU0gyxTRTN36CyjO8fWPL) | 3:00 |
+| 56 | [Boa Me \(feat\. Ed Sheeran & Mugeez\)](https://open.spotify.com/track/5iYqXLSwFkrsgXl53pAnhd) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [New Africa Nation](https://open.spotify.com/album/0KU0gyxTRTN36CyjO8fWPL) | 3:00 |
 | 57 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 |
 | 58 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
 | 59 | [10,000 Tears \(feat\. Ed Sheeran\)](https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Conflict Of Interest](https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4) | 4:34 |

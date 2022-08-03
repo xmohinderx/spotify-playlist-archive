@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 173750,
+  "num_followers": 173836,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzOTYwMCwwMDAwMDAwMDE2OWFjMDU5Yjk5MjNmM2VlZGJmZDcxNDNjNTkzOGZk",
+  "snapshot_id": "MTY1NzgzOTYwMCwwMDAwMDAwMDk0ZTliMDE0ZTQ5YjdiYjU1MDhiMjExNjAzODllMzI1",
   "tracks": [
     {
       "added_at": "2022-07-14 23:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
+      },
+      "artists": [
+        {
+          "name": "Sisko",
+          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
         "name": "Secure the Bag",
         "url": "https://open.spotify.com/album/1r4AXEEkYShSDf7iGTNmuL"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 248841,
       "name": "Secure the Bag",
       "url": "https://open.spotify.com/track/3cy2jsGqXCDVGyWzVQ9tu0"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
-      },
-      "artists": [
-        {
-          "name": "Sisko",
-          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
         "name": "Mock Man (The VIP)",
         "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
       },
       "artists": [
         {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+          "name": "Dom Scanlon",
+          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
         }
       ],
-      "duration_ms": 283636,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
+      "duration_ms": 277500,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 207360,
       "name": "Flow - Habstrakt Remix",
       "url": "https://open.spotify.com/track/4oSebgS2hJQ9ZTkZwq2kUd"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
-      },
-      "artists": [
-        {
-          "name": "Dom Scanlon",
-          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
+        "name": "Acid",
+        "url": "https://open.spotify.com/album/6OqBUNn9xm5YCEWGAjUWTg"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/34GR9jBULKi91lqNSo5og7"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
         "name": "Hard Hitters",
         "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Acid",
-        "url": "https://open.spotify.com/album/6OqBUNn9xm5YCEWGAjUWTg"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/34GR9jBULKi91lqNSo5og7"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
         }
       ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc"
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         }
       ],
-      "duration_ms": 221024,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "In Two Worlds",
-        "url": "https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9"
+        "name": "Lazerbeams",
+        "url": "https://open.spotify.com/album/5D5gK0AmP6x16TiGqzUEN6"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+          "name": "Wheeto",
+          "url": "https://open.spotify.com/artist/5YZNr5ukMm2xAT7Y4LbTl2"
         }
       ],
-      "duration_ms": 270461,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj"
+      "duration_ms": 251076,
+      "name": "Lazerbeams",
+      "url": "https://open.spotify.com/track/4Hj1uH3V9BRbVuafRXKjNK"
     }
   ],
   "unique_name": "Bassline Bangers",

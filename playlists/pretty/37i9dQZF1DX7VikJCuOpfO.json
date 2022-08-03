@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 60591,
+  "num_followers": 60639,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGU0NGZmNjRiNDU2MTZjMTkwZTE5NmNiMDk4MzRjYTlk",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGM0YjdmYzBhNmZkOTM4MjEyNzIzNGUxYTRkZGJlYWNh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "No Lo Beses (Mariachi)",
-        "url": "https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "No Lo Beses - Mariachi",
-      "url": "https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Amor Ilegal",
         "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 170253,
       "name": "Amor Ilegal",
       "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "No Lo Beses (Mariachi)",
+        "url": "https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "No Lo Beses - Mariachi",
+      "url": "https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 164054,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 153946,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 164054,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 180000,
       "name": "Quiero - Mariachi",
       "url": "https://open.spotify.com/track/7hIwQgldC4w99nPtZyScgN"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Es Mejor Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
+        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 272426,
-      "name": "Es Mejor Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
+      "duration_ms": 215487,
+      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
+        "name": "Es Mejor Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 215487,
-      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
+      "duration_ms": 272426,
+      "name": "Es Mejor Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Ya no me importa",
+        "url": "https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf"
+      },
+      "artists": [
+        {
+          "name": "Sebas Estrada",
+          "url": "https://open.spotify.com/artist/2zRwtBlZ7NdX5M1YeFVQnx"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Ya no me importa",
+      "url": "https://open.spotify.com/track/71ATzRONbggfWE2KJ0L6XN"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Hasta el Cielo",
         "url": "https://open.spotify.com/album/7fDSPyDbQQbHT47Spts4YV"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 190800,
       "name": "Si Es Feliz",
       "url": "https://open.spotify.com/track/2U9JrW474b8IOcmwk9Hj7X"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Ya no me importa",
-        "url": "https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf"
-      },
-      "artists": [
-        {
-          "name": "Sebas Estrada",
-          "url": "https://open.spotify.com/artist/2zRwtBlZ7NdX5M1YeFVQnx"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Ya no me importa",
-      "url": "https://open.spotify.com/track/71ATzRONbggfWE2KJ0L6XN"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Cartas Marcadas",
-        "url": "https://open.spotify.com/album/42KB9YEhXM4jHbtB3zf0B9"
-      },
-      "artists": [
-        {
-          "name": "Santiago Arroyo",
-          "url": "https://open.spotify.com/artist/6uvBoFUSlKquPBsj8qrSUq"
-        }
-      ],
-      "duration_ms": 189527,
-      "name": "Cartas Marcadas",
-      "url": "https://open.spotify.com/track/71uuSDIUcy2AWBM9H7uWwq"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Lamentablemente",
         "url": "https://open.spotify.com/album/7J6VNwvGoPyZW0DnSnbrOl"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 202779,
       "name": "Lamentablemente",
       "url": "https://open.spotify.com/track/1s76QNibNLVKAxUg1KIXgr"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Cartas Marcadas",
+        "url": "https://open.spotify.com/album/42KB9YEhXM4jHbtB3zf0B9"
+      },
+      "artists": [
+        {
+          "name": "Santiago Arroyo",
+          "url": "https://open.spotify.com/artist/6uvBoFUSlKquPBsj8qrSUq"
+        }
+      ],
+      "duration_ms": 189527,
+      "name": "Cartas Marcadas",
+      "url": "https://open.spotify.com/track/71uuSDIUcy2AWBM9H7uWwq"
     },
     {
       "added_at": "2022-07-29 04:00:00",

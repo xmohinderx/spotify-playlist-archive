@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,832 likes - 100 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,893 likes - 100 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Cumbé \- Cuzco Mix](https://open.spotify.com/track/6XUrR2Es01NOJxDueRRJSC) | [Kintar](https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT), [Medusa Odyssey](https://open.spotify.com/artist/1P0GxzCg57SIrXtBnR26UO), [Bahramji](https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B) | [Cumbé EP](https://open.spotify.com/album/4KdhLnoEFxGDQtWq4Lu2wL) | 7:26 |
 | 100 | [Aslaf](https://open.spotify.com/track/29kOMrezSzRfTQqj4QhGsk) | [Homeboyz](https://open.spotify.com/artist/6HJOiEmoNQGDSexCsQQooX), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Ifarada](https://open.spotify.com/album/6HAEQocvyO7btHXW1cfBCf) | 6:24 |
 
-Snapshot ID: `MTY1ODQ0MDkyMCwwMDAwMDAwMDNkMzhkY2VhN2Q2MDgxM2YxZTRjNTdiMTliMTI2Yzk5`
+Snapshot ID: `MTY1OTQ0NzM4OSwwMDAwMDAwMGNjMDVhZjBjYTRhZTVmMWRiODBkNjljMTk1NWM4Zjhl`

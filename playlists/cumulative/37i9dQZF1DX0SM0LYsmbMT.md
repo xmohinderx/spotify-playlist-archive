@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-2,958 songs - 4 day 18 hr 45 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+2,959 songs - 4 day 18 hr 47 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Carefree](https://open.spotify.com/track/2JoldRgAmfsIyCU6UxvtPT) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Carefree](https://open.spotify.com/album/44WqHprpyduzvItokpHTRM) | 2:07 | 2021-12-17 | 2022-07-01 |
 | [Careful](https://open.spotify.com/track/21JzIbHNQOpIrsLqve9M3X) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Careful](https://open.spotify.com/album/6Y7kZO9Q5XHpA71BKp0uKM) | 2:07 | 2021-02-07 | 2021-05-28 |
 | [Carla](https://open.spotify.com/track/36ZfivTaEGVH1W2VfziDf5) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [The Potion of Creativity](https://open.spotify.com/album/5EWwx31Z70eV3TDlFxfEB4) | 2:38 | 2021-07-31 | 2021-09-17 |
+| [Carnaval](https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Carnaval](https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO) | 1:53 | 2022-08-01 |  |
 | [Carpe Diem](https://open.spotify.com/track/3i1cfiDvK3Yg34l7GESQfE) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Carpe Diem](https://open.spotify.com/album/2cSiEfiPKKAbAsCTFYgwH0) | 2:02 | 2021-07-24 | 2021-09-03 |
 | [Carwash](https://open.spotify.com/track/0W9PbTHjnrlhfEFX8g1Irn) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Tom Doolie](https://open.spotify.com/artist/5JshGIunTNL0tNCoqlzWrZ) | [Carwash](https://open.spotify.com/album/41Tv65YzFtuCkF8ajqzjRK) | 2:03 | 2019-08-09 | 2020-02-11 |
 | [Casablanca](https://open.spotify.com/track/5YQxSoa9DJvbRz49X9BTc8) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Casablanca](https://open.spotify.com/album/3jhucNSJo6W1gzn2IHSaQr) | 2:26 | 2021-08-14 | 2021-10-22 |
@@ -2285,7 +2286,7 @@
 | [Slim Jacket](https://open.spotify.com/track/0pGJnOkY6i8JTDPUjPYES2) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Slim Jacket](https://open.spotify.com/album/75OvIustTjKXC7O3jtjzM0) | 1:44 | 2021-10-08 | 2021-11-19 |
 | [slip away](https://open.spotify.com/track/1xru1k74u5d6e4WAOkB68d) | [p1H](https://open.spotify.com/artist/2BLdsgIde6vS1z9GIGRYrm) | [slip away](https://open.spotify.com/album/7IU1Itc2QrYY5FKjewYNsB) | 1:45 | 2020-04-24 | 2020-06-19 |
 | [Slow Churn](https://open.spotify.com/track/3jmCNLAvM4dQ1cNED4RPZ0) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Slow Churn](https://open.spotify.com/album/1Ud4ufBC49rkLbqbWyST0T) | 1:56 | 2020-07-24 | 2021-03-06 |
-| [Slow Down](https://open.spotify.com/track/1upQ0IyUimyLT91FRJ7Z9p) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Slow Down](https://open.spotify.com/album/2jZBhwLmcxnwPSjQ2GHDeV) | 2:09 | 2022-07-21 |  |
+| [Slow Down](https://open.spotify.com/track/1upQ0IyUimyLT91FRJ7Z9p) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Slow Down](https://open.spotify.com/album/2jZBhwLmcxnwPSjQ2GHDeV) | 2:09 | 2022-07-21 | 2022-08-03 |
 | [Slow Down](https://open.spotify.com/track/4YZBKmk5yi7N3wVpbUucHi) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Anthony Drawn](https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo), [BASTi](https://open.spotify.com/artist/2gNbgRJeCgOHet4gqNwWhF) | [Slow Down with Me](https://open.spotify.com/album/4vHrpfgqx8SVrf0D2f6LHI) | 2:40 | 2020-11-07 | 2021-02-06 |
 | [Slow Jazz](https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Slow Jazz](https://open.spotify.com/album/0q1v98Yh9bkyPWdZrLSNWB) | 1:53 | 2022-03-31 |  |
 | [Slow That](https://open.spotify.com/track/6yvE2h68zkfEfYQkfcolsA) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Slow That](https://open.spotify.com/album/30gNFtVX8PFMd0ekh3cNyz) | 2:40 | 2021-06-19 | 2021-07-16 |

@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 12530,
+  "num_followers": 12581,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA4ODI5NiwwMDAwMDAwMDM5NDUxNGM0Njc5NDYxM2M5ZjEzZDY3Yjc1M2I5MTdm",
+  "snapshot_id": "MTY1OTA4ODI5NiwwMDAwMDAwMGI5MWZlZjkyZDA3MTM1OTBiZmNiYWEyY2U2YThiNzAz",
   "tracks": [
     {
       "added_at": "2022-07-29 09:51:36",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "ZOOM",
-        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "ZOOM",
-      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 155933,
       "name": "Alien Blues",
       "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "Phonky Town",
-        "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
-      },
-      "artists": [
-        {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
-        }
-      ],
-      "duration_ms": 141343,
-      "name": "Phonky Town",
-      "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "Phonky Town",
+        "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "duration_ms": 141343,
+      "name": "Phonky Town",
+      "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
-        "url": "https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c"
-      },
-      "artists": [
-        {
-          "name": "Hiko",
-          "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
-      "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "Drowning (Sped Up Version)",
         "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
+        "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
+        "url": "https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c"
+      },
+      "artists": [
+        {
+          "name": "Hiko",
+          "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
+      "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "sex money feelings die (slowed version)",
+        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 168810,
+      "name": "sex money feelings die - slowed version",
+      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "sex money feelings die (slowed version)",
-        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
+        "name": "#miles",
+        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 168810,
-      "name": "sex money feelings die - slowed version",
-      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
+      "duration_ms": 115138,
+      "name": "#miles",
+      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -1271,22 +1287,6 @@
       "duration_ms": 171904,
       "name": "FINIMONDO",
       "url": "https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
-        "name": "#miles",
-        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 115138,
-      "name": "#miles",
-      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
     },
     {
       "added_at": "2022-07-29 09:51:36",

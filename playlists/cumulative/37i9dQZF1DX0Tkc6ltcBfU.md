@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Lil Baby
 
-342 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+343 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 | 2022-02-04 | 2022-05-20 |
 | [RUN \[Feat\. Young Thug\]](https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [RUN](https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU) | 3:53 | 2022-07-08 |  |
 | [Sad Song \(with Spinabenz\)](https://open.spotify.com/track/4aPRR0I9gIDJGJxlez3WE0) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Rae Rae's Son](https://open.spotify.com/album/5GptyXvoJ2Zg260GOvmsJy) | 3:15 | 2022-05-20 | 2022-06-04 |
-| [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 | 2022-07-22 |  |
+| [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 | 2022-07-22 |  |
 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 | 2022-05-27 |  |
 | [Serial Killers](https://open.spotify.com/track/5KcZNsrl7PMIxJ2xBbTwH3) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Serial Killers](https://open.spotify.com/album/1Odwcvb4QNe1pCYZnG8K25) | 3:08 | 2022-04-15 | 2022-06-18 |
 | [Set Up Story Part 1](https://open.spotify.com/track/3t6HeF7UPZmdA3DLupbyqJ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Set Up Story Part 1](https://open.spotify.com/album/2ujkEL9F2W32Sg5GTSvuVI) | 2:49 | 2022-05-27 | 2022-06-18 |
@@ -293,8 +293,9 @@
 | [Take Care \(feat\. Toosii & Millie Go Lightly\)](https://open.spotify.com/track/5s8PjlqUnh2JwF6fkMJK3L) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Millie Go Lightly](https://open.spotify.com/artist/3eSQPLy8hktGQTGSVB51lD) | [Take Care \(feat\. Toosii & Millie Go Lightly\)](https://open.spotify.com/album/56P5pwahGAQrkSBxIiCw11) | 2:52 | 2022-04-01 | 2022-04-29 |
 | [Talk My Shit](https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Talk My Shit](https://open.spotify.com/album/2iQMcX4Rm7wNAuAR7ArUxS) | 2:29 | 2022-01-21 | 2022-02-12 |
 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-22 | 2022-07-31 |
+| [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 | 2022-07-22 |  |
 | [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 | 2022-07-22 | 2022-08-02 |
-| [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 | 2022-07-22 |  |
+| [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 | 2022-07-22 | 2022-08-03 |
 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 | 2022-01-14 | 2022-02-05 |
 | [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-08 | 2022-07-29 |
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-08 | 2022-07-30 |

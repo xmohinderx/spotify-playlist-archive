@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,036,654 likes - 143 songs - 8 hr 6 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,036,557 likes - 143 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 142 | [Angst](https://open.spotify.com/track/3NivHilTTTs8SQwp51yG0X) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Angst](https://open.spotify.com/album/34yT8o727Ynu63TeOVZcIY) | 3:22 |
 | 143 | [Conversations](https://open.spotify.com/track/2Nshfrn35tC9Brncf8W3G3) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Moria](https://open.spotify.com/album/2cWxHrXLktYn2jh0dptnut) | 3:06 |
 
-Snapshot ID: `MTIwNjYsMWJkMDNjZmMzZDBiZTUwNjZiOWFjNWE5YzI5NDgxMDZiMTRjMWYwNg==`
+Snapshot ID: `MTIwNjksZTY2NmQ4YWVhZDE1NDQwMTc2ODBhOWMyYjg5ZGUxNDYzYmY3ZDY2ZA==`

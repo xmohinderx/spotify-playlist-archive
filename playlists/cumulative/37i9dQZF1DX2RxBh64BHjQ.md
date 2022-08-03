@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: SleazyWorld Go
 
-550 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+551 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,8 +481,9 @@
 | [TALK2ME](https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TALK2ME](https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt) | 2:20 | 2022-06-10 |  |
 | [Teacher](https://open.spotify.com/track/0PZYcvesIgVsiOSQEUVgUA) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Teacher](https://open.spotify.com/album/2FPmhFzGjnZUKXfLjLljAZ) | 2:30 | 2021-10-29 | 2022-01-22 |
 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-22 | 2022-07-31 |
+| [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 | 2022-07-22 |  |
 | [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 | 2022-07-22 | 2022-08-02 |
-| [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 | 2022-07-22 |  |
+| [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 | 2022-07-22 | 2022-08-03 |
 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-04-29 | 2022-07-02 |
 | [The Commission](https://open.spotify.com/track/5Ao3zphwFOT0tNJLTJfPX6) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [The Commission](https://open.spotify.com/album/67qfz6pLu2dX0jfCQY3AIp) | 2:33 | 2022-06-24 |  |
 | [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-08 | 2022-07-29 |

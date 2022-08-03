@@ -1,12 +1,12 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bunny Wailer",
-  "num_followers": 2673563,
+  "num_followers": 2674120,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDcwMTkwNiwwMDAwMDAwMDYwNTdhNDEyZmVhMDFjNzlkZTRhYWEyMjBmMDBiMDI4",
+  "snapshot_id": "MTYxNDcwMTkwNiwwMDAwMDAwMDZmZTIxNDQ0NzI4ZjdmYzI3MWQzNzE2YWY2ZWRmMmM0",
   "tracks": [
     {
       "added_at": "2021-03-02 16:18:26",
@@ -903,6 +903,22 @@
     {
       "added_at": "2021-03-02 16:18:26",
       "album": {
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+      },
+      "artists": [
+        {
+          "name": "Pressure",
+          "url": "https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+    },
+    {
+      "added_at": "2021-03-02 16:18:26",
+      "album": {
         "name": "Equal Rights (Legacy Edition)",
         "url": "https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 194293,
       "name": "Y\u00e8gell\u00e9 Tezeta",
       "url": "https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg"
-    },
-    {
-      "added_at": "2021-03-02 16:18:26",
-      "album": {
-        "name": "Reggae Gold 2007",
-        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
-      },
-      "artists": [
-        {
-          "name": "Pressure",
-          "url": "https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
     },
     {
       "added_at": "2021-03-02 16:18:26",

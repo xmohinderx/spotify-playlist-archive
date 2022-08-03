@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 64374,
+  "num_followers": 64644,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI1NDAyOCwwMDAwMDAwMDhkOGY0MzFlODMxMmNjOTEyMGNkNWY3NGVmYWZhMjc2",
+  "snapshot_id": "MTY1ODI1NDAyOCwwMDAwMDAwMDUzOTMyZTQyZjJmYjc4MWQ0Y2IyNzUwYjEyNDJmNWE1",
   "tracks": [
     {
       "added_at": "2022-07-19 18:07:08",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
+        "name": "Coraz\u00f3n de Papel",
+        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Amores como el nuestro",
+      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 247000,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
-        "name": "Coraz\u00f3n de Papel",
-        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Amores como el nuestro",
-      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Como un Dulce Poema, Vol. 3",
-        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
-      },
-      "artists": [
-        {
-          "name": "Rossy War y Su Banda Kaliente",
-          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Nunca Pense Llorar",
-      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Como un Dulce Poema, Vol. 3",
+        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+      },
+      "artists": [
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Nunca Pense Llorar",
+      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "A Morir",
         "url": "https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 234736,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Con Carino A Oaxaca",
-        "url": "https://open.spotify.com/album/2qPnHEDa57bLxSHN0h81Rv"
-      },
-      "artists": [
-        {
-          "name": "Simba Musical",
-          "url": "https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J"
-        }
-      ],
-      "duration_ms": 354520,
-      "name": "Mix Juguito De Pina",
-      "url": "https://open.spotify.com/track/3rd5giXt6nK1Ri6x9OYlHG"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Duelo de Sonoras",
         "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 288560,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Con Carino A Oaxaca",
+        "url": "https://open.spotify.com/album/2qPnHEDa57bLxSHN0h81Rv"
+      },
+      "artists": [
+        {
+          "name": "Simba Musical",
+          "url": "https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J"
+        }
+      ],
+      "duration_ms": 354520,
+      "name": "Mix Juguito De Pina",
+      "url": "https://open.spotify.com/track/3rd5giXt6nK1Ri6x9OYlHG"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "20 \u00c9xitos Bailables",
-        "url": "https://open.spotify.com/album/0iaD5gNCR3LNMkXpNYBizV"
-      },
-      "artists": [
-        {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/3JzsuJd0ZkxxRxTwVokRnO"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Puros Vatos...Choca Y Rebota",
         "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 273893,
       "name": "Mentirosa (Eres Mentirosa)",
       "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "20 \u00c9xitos Bailables",
+        "url": "https://open.spotify.com/album/0iaD5gNCR3LNMkXpNYBizV"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/3JzsuJd0ZkxxRxTwVokRnO"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "El Color de tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Amor de Adolescentes",
-      "url": "https://open.spotify.com/track/1ksna7ji7FVlKDpq6FUHSE"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Nuevamente! Salsas y Cumbias",
         "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 230243,
       "name": "El Amor Se Fue",
       "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "El Color de tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Amor de Adolescentes",
+      "url": "https://open.spotify.com/track/1ksna7ji7FVlKDpq6FUHSE"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Tambo Tambo",
-        "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
-      },
-      "artists": [
-        {
-          "name": "Tamb\u00f3 Tamb\u00f3",
-          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5JihaewVTYmV1VexpMQxPp"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Exitos Bailables",
         "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 282746,
       "name": "Vestida De Blanco",
       "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Tambo Tambo",
+        "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
+      },
+      "artists": [
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5JihaewVTYmV1VexpMQxPp"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "No Mientas Mas",
         "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 234605,
       "name": "No Mientas Mas",
       "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
     },
     {
       "added_at": "2022-07-19 18:07:08",

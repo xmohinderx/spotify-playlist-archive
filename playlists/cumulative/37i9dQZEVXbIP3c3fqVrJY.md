@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-699 songs - 1 day 11 hr 54 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
+700 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Piatoček](https://open.spotify.com/track/0S4R6vsr5MlIJyOutUjHd3) | [Cico Band](https://open.spotify.com/artist/6nMtwu4CkZncCnnOzoPOyl), [Rene Rendy](https://open.spotify.com/artist/5ZwzbUSPdEEyWKqDr8dcHQ) | [Piatoček](https://open.spotify.com/album/2WVPMhr9Z5b53XYmGypt0Q) | 2:54 | 2022-06-11 | 2022-07-04 |
 | [Plakala](https://open.spotify.com/track/3h9EMra1EG4oncHLPiEJce) | [DIVOKEJ BILL](https://open.spotify.com/artist/2e3fdJ9ezTUu9Yj9f7XU08) | [Propustka do pekel](https://open.spotify.com/album/1g3CDuUwQSEcoaMN0Qpr2H) | 2:43 | 2021-04-04 | 2022-08-02 |
 | [Plastic](https://open.spotify.com/track/05ApNVIBssPKqyyKiydA6D) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Barvy](https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj) | 3:15 | 2021-03-27\* | 2021-05-09 |
+| [POD DRN](https://open.spotify.com/track/1QJr9gqb6wqumAkLBHcJCq) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POD DRN](https://open.spotify.com/album/37gj1ub8b6qdv7nICPh7X3) | 3:30 | 2022-08-02 |  |
 | [Podvod \(Píseň k filmu Shoky & Morthy: Poslední velká akce\)](https://open.spotify.com/track/2Mn1UQics0dmGCMtpFeyJ8) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Podvod \(Píseň k filmu Shoky & Morthy: Poslední velká akce\)](https://open.spotify.com/album/0avK9kh3jbVZ7WVljUvoVc) | 3:51 | 2021-07-25 | 2022-05-30 |
 | [Pojďte chlapci k nám](https://open.spotify.com/track/2nZqVGyZ6zUp1Msmx9mvaj) | [Dětský sbor Camerata](https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt) | [Vánoční koledy, Vol\. 1 \(Pokoj lidem dobré vůle\)](https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0) | 1:11 | 2021-12-25 | 2021-12-27 |
 | [Popstar](https://open.spotify.com/track/25E3P7re561KWj5hZysrYG) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 2:20 | 2022-03-12 | 2022-06-07 |
@@ -580,7 +581,7 @@
 | [SYPEJ SYPEJ](https://open.spotify.com/track/0KHo3DLFUrP2Etm91ICkiq) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 2:04 | 2022-02-26 | 2022-03-01 |
 | [Sám Doma](https://open.spotify.com/track/5pRNQUqRbt0IjzqsdES5k5) | [Earth](https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr) | [Sám Doma](https://open.spotify.com/album/34r6Ku7AG46DlChj2J4KkX) | 3:16 | 2021-10-08 | 2021-10-29 |
 | [Sérum](https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 3:01 | 2021-11-20 |  |
-| [Síla Starejch Vín](https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP) | [ŠKWOR](https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9) | [Sliby & Lži](https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl) | 2:54 | 2021-03-29 |  |
+| [Síla Starejch Vín](https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP) | [ŠKWOR](https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9) | [Sliby & Lži](https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl) | 2:54 | 2021-03-29 | 2022-08-03 |
 | [Tak se nezlob](https://open.spotify.com/track/2c1bi72Up6wiYxDn49CFdD) | [Marek Ztraceny](https://open.spotify.com/artist/7s4NiavZ071gzNghPJVmUu) | [Planeta jménem stres](https://open.spotify.com/album/5fTW9efdCtxCLOSWO70iLe) | 3:01 | 2021-09-20 | 2021-09-21 |
 | [Tak už to bal](https://open.spotify.com/track/4NvuvdCL791n5lzfPiV9fO) | [Cocoman](https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2), [Dr\. Kary](https://open.spotify.com/artist/2EQiWpszVgF6ljThHxvQSc) | [Coco mikrofono \(2009\-2019\)](https://open.spotify.com/album/2UqSL3feRCyL2txTsuCqz3) | 3:31 | 2022-06-06 | 2022-07-01 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-09-05 |

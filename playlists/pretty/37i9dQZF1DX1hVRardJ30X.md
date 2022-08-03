@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Rosalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,407 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,531 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 31 | [Chanel](https://open.spotify.com/track/1WOeXa0KaCMCg3oiHNO3w4) | [Carlos Cortez](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC) | [Chanel](https://open.spotify.com/album/6gebMWgHnR1GXP237B6G7Y) | 2:54 |
 | 32 | [Rota](https://open.spotify.com/track/0zsrWnFZdRsMud7Vz7eR6P) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Rota](https://open.spotify.com/album/6XrXA11FwOpIjGozdbkVcl) | 3:01 |
 | 33 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 |
-| 34 | [COMPL1CADO](https://open.spotify.com/track/09LiLT8Uh9CgJSXV6RDU5O) | [Fufu](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [COMPL1CADO](https://open.spotify.com/album/0bwMwYtt9incXsUsRiS9Vy) | 3:04 |
+| 34 | [COMPL1CADO](https://open.spotify.com/track/09LiLT8Uh9CgJSXV6RDU5O) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [COMPL1CADO](https://open.spotify.com/album/0bwMwYtt9incXsUsRiS9Vy) | 3:04 |
 | 35 | [2:00 AM](https://open.spotify.com/track/1Ggq4JgcpwkPG0dV7bR04y) | [Medicensanto](https://open.spotify.com/artist/1bggGBhvZxsRUVLK6Gdbax) | [2:00 AM](https://open.spotify.com/album/4aYnmdAABxYzxaQL2lqDPT) | 2:15 |
 | 36 | [linda como tú](https://open.spotify.com/track/5PbwgqgQxLByRFTqsm4XWF) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [linda como tú](https://open.spotify.com/album/0KfYfcaux9boxiCRoxUisg) | 2:25 |
 | 37 | [Pa Que Te Ame](https://open.spotify.com/track/73V7a4KWD6JWTNCgRyNWFU) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Raymond Daniel](https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB) | [Nómadas](https://open.spotify.com/album/2sRDf3fnjlqAfHv2hSHgnc) | 3:58 |

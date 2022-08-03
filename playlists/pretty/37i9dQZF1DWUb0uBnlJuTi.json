@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Ezra Collective",
-  "num_followers": 200543,
+  "num_followers": 200739,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDQwMjQ5YmI2Yzk1ZTc1M2VmZDkxMzJkOTQzMDY1ZTc5",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDNhMDU1ODliYzk4NDBhNmEwMzY2NWE0MmVjNzY1OTdl",
   "tracks": [
     {
       "added_at": "2020-10-09 04:01:00",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Mysterious Traveller",
+        "url": "https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p"
+      },
+      "artists": [
+        {
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+        }
+      ],
+      "duration_ms": 500866,
+      "name": "Cucumber Slumber",
+      "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "Kresten Osgood Plays the Organ for You",
@@ -559,22 +575,6 @@
       "duration_ms": 215754,
       "name": "Play it Back",
       "url": "https://open.spotify.com/track/56080Y6qVNpxpUAU5ho4Y7"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Mysterious Traveller",
-        "url": "https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p"
-      },
-      "artists": [
-        {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
-        }
-      ],
-      "duration_ms": 500866,
-      "name": "Cucumber Slumber",
-      "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
     },
     {
+      "added_at": "2021-12-17 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 290080,
+      "name": "Pull Your Pants Up",
+      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
+    },
+    {
       "added_at": "2021-08-02 13:59:54",
       "album": {
         "name": "Spare Tire",
@@ -653,22 +669,6 @@
       "url": "https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq"
     },
     {
-      "added_at": "2021-12-17 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Pull Your Pants Up",
-      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Long Live the King (Instrumental)",
@@ -683,26 +683,6 @@
       "duration_ms": 211268,
       "name": "Long Live the King - Instrumental",
       "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Chardonnay Kisses",
-        "url": "https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48"
-      },
-      "artists": [
-        {
-          "name": "G Bliz",
-          "url": "https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt"
-        },
-        {
-          "name": "The Colleagues",
-          "url": "https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Chardonnay Kisses",
-      "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -723,38 +703,6 @@
       "duration_ms": 176342,
       "name": "The Sun )",
       "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Rajazz",
-        "url": "https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2"
-      },
-      "artists": [
-        {
-          "name": "Alberto Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28"
-        },
-        {
-          "name": "Jeff Ballard",
-          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
-        },
-        {
-          "name": "Daniel Somaroo",
-          "url": "https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A"
-        },
-        {
-          "name": "Raphael Rosse",
-          "url": "https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp"
-        },
-        {
-          "name": "Gerry Lopez",
-          "url": "https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk"
-        }
-      ],
-      "duration_ms": 441426,
-      "name": "Rajazz",
-      "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -819,6 +767,58 @@
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Chardonnay Kisses",
+        "url": "https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48"
+      },
+      "artists": [
+        {
+          "name": "G Bliz",
+          "url": "https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt"
+        },
+        {
+          "name": "The Colleagues",
+          "url": "https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Chardonnay Kisses",
+      "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Rajazz",
+        "url": "https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28"
+        },
+        {
+          "name": "Jeff Ballard",
+          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
+        },
+        {
+          "name": "Daniel Somaroo",
+          "url": "https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A"
+        },
+        {
+          "name": "Raphael Rosse",
+          "url": "https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp"
+        },
+        {
+          "name": "Gerry Lopez",
+          "url": "https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk"
+        }
+      ],
+      "duration_ms": 441426,
+      "name": "Rajazz",
+      "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "SP's Galaxy",
-        "url": "https://open.spotify.com/album/4N3b8w28hUX5cxYL9rVgVG"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 165539,
-      "name": "SP's Galaxy",
-      "url": "https://open.spotify.com/track/5cgtYVTPaQgJPWCo1pOj7P"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Glide",
@@ -991,6 +975,22 @@
       "duration_ms": 841333,
       "name": "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
+    },
+    {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "SP's Galaxy",
+        "url": "https://open.spotify.com/album/4N3b8w28hUX5cxYL9rVgVG"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 165539,
+      "name": "SP's Galaxy",
+      "url": "https://open.spotify.com/track/5cgtYVTPaQgJPWCo1pOj7P"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Green Frog",
-        "url": "https://open.spotify.com/album/4d8TsTBz7yhj07JGAIaoZV"
-      },
-      "artists": [
-        {
-          "name": "The Natural Yogurt Band",
-          "url": "https://open.spotify.com/artist/6EKAnJX0ELDyHUq5JBMVRr"
-        }
-      ],
-      "duration_ms": 217077,
-      "name": "Green Frog",
-      "url": "https://open.spotify.com/track/6S4QY1HV2rJH6avwEAyO8Q"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Linger Lane",
@@ -1129,20 +1113,20 @@
       "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "New Ammo",
-        "url": "https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o"
+        "name": "Green Frog",
+        "url": "https://open.spotify.com/album/4d8TsTBz7yhj07JGAIaoZV"
       },
       "artists": [
         {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+          "name": "The Natural Yogurt Band",
+          "url": "https://open.spotify.com/artist/6EKAnJX0ELDyHUq5JBMVRr"
         }
       ],
-      "duration_ms": 241400,
-      "name": "Sure Shot",
-      "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
+      "duration_ms": 217077,
+      "name": "Green Frog",
+      "url": "https://open.spotify.com/track/6S4QY1HV2rJH6avwEAyO8Q"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "New Ammo",
+        "url": "https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o"
+      },
+      "artists": [
+        {
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Sure Shot",
+      "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Intensity",
         "url": "https://open.spotify.com/album/0UIDIJWyepSPXNAqLWBPiv"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 675160,
       "name": "Happy 'Cause I'm Goin' Home",
       "url": "https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Pressure Sensitive",
+        "url": "https://open.spotify.com/album/5mBZFylK3027Vraz0Jnz7G"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Laws",
+          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 563200,
       "name": "Afrodesia",
       "url": "https://open.spotify.com/track/2h10K0zxg9tgIoSWbPNRUS"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Pressure Sensitive",
-        "url": "https://open.spotify.com/album/5mBZFylK3027Vraz0Jnz7G"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Laws",
-          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "The Positive and the Negative",
-        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 287349,
-      "name": "The Positive and the Negative",
-      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Spoon (Mike Casey Remix)",
@@ -1323,6 +1307,22 @@
       "duration_ms": 113785,
       "name": "Spoon (Mike Casey Remix) [No Sax]",
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "The Positive and the Negative",
+        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 287349,
+      "name": "The Positive and the Negative",
+      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
     },
     {
       "added_at": "2021-05-07 04:09:00",
@@ -1469,10 +1469,10 @@
       "url": "https://open.spotify.com/track/3Vghp0Dk0HDGKs54OM2Sfe"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
+      "added_at": "2021-04-09 04:01:00",
       "album": {
-        "name": "Deep: The Baritone Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu"
+        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
       },
       "artists": [
         {
@@ -1480,17 +1480,17 @@
           "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
         },
         {
-          "name": "Bobby Sparks II",
-          "url": "https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG"
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
         },
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+          "name": "Shaun Martin",
+          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
         }
       ],
-      "duration_ms": 353546,
-      "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
-      "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
+      "duration_ms": 276293,
+      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
       "added_at": "2020-10-09 04:01:00",

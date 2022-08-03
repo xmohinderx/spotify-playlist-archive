@@ -2,7 +2,7 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> Japanese female rock icons\. Cover: BiSH
+> Japanese female rock icons\. Cover: 黒子首\(hockrockb\)
 
 513 songs - 1 day 9 hr 7 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
@@ -103,7 +103,7 @@
 | [Leon](https://open.spotify.com/track/0ctWWj9EtgPRx61Z6nw06r) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Reveal](https://open.spotify.com/album/0hK64US1J7Tt2F07xNsxsS) | 3:33 | 2022-06-16 | 2022-07-29 |
 | [LiE LiE LiE](https://open.spotify.com/track/6XH4XZRcMAKfCE3fjyM6vI) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [LiE LiE LiE](https://open.spotify.com/album/3LgdW4j5F11p7tfDPfGjaD) | 2:55 | 2022-07-12 | 2022-07-15 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-26 | 2022-07-27 |
-| [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 | 2022-06-07 | 2022-08-02 |
+| [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 | 2022-06-07 |  |
 | [Lonely Dance Club \- Intl\. version](https://open.spotify.com/track/6VqZ5nHpLxn4me6Wfb2yWL) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [Lonely Dance Club \(Intl\. version\)](https://open.spotify.com/album/00aItxI4oI5REviSQwMdID) | 3:53 | 2022-05-26 | 2022-07-07 |
 | [Long thinking](https://open.spotify.com/track/07aasnU390f8WHXDeKauKP) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [REIMEI](https://open.spotify.com/album/5kKCwtofiTJiEEPpUWKhGa) | 3:48 | 2022-06-07 | 2022-06-09 |
 | [Love Drive](https://open.spotify.com/track/2LplyZgcSGMJp7MZhZVyKZ) | [And Summer Club](https://open.spotify.com/artist/7esTGz7zpYTyeGXoHe1LBT) | [Love Drive](https://open.spotify.com/album/3j1LRLwDx6UYclUtrUdXfj) | 1:57 | 2022-07-07 | 2022-07-10 |
@@ -174,7 +174,7 @@
 | [STRANGER \- \[Vocal : 齋藤飛鳥 \(乃木坂46\)\]](https://open.spotify.com/track/4CU2FUeDL20SrNFeNxSQEx) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [Asuka Saito](https://open.spotify.com/artist/0dmbPPUSyliresuzqpQn6g) | [BIG WORLD](https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx) | 4:10 | 2022-06-02 | 2022-07-27 |
 | [stylus has not yet jump \- cover](https://open.spotify.com/track/6SQO5Hs4VooNe0KSLfTGUu) | [CHIKIMARCH](https://open.spotify.com/artist/4Mtx8H158oTHOyOLFQrHuR) | [stylus has not yet jump \(cover\)](https://open.spotify.com/album/1l20n9fAfVLP0CPGFXMic3) | 3:36 | 2022-07-14 | 2022-07-17 |
 | [sukipi](https://open.spotify.com/track/52Clie0NRRDgFjAsyGGRqA) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [sukipi](https://open.spotify.com/album/2X3NQZsKrvJsYRrpHKiTKt) | 3:15 | 2022-06-07 | 2022-06-22 |
-| [SUMMER NUDE](https://open.spotify.com/track/7l9onEdVYUK5RPh5TxTSSF) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [SUMMER NUDE](https://open.spotify.com/album/0cDZaBapsWJWOsfAjxK9ah) | 5:21 | 2022-06-28 |  |
+| [SUMMER NUDE](https://open.spotify.com/track/7l9onEdVYUK5RPh5TxTSSF) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [SUMMER NUDE](https://open.spotify.com/album/0cDZaBapsWJWOsfAjxK9ah) | 5:21 | 2022-06-28 | 2022-08-03 |
 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 | 2022-05-26 | 2022-07-24 |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-06-07 | 2022-07-20 |
 | [take it easy](https://open.spotify.com/track/2l8LW9K4XkxpEqlncd40A1) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [take it easy](https://open.spotify.com/album/5yX4AYo6pFzmKuxTakgkYo) | 3:20 | 2022-06-02 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Tom The Mail Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,197 likes - 126 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,289 likes - 126 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

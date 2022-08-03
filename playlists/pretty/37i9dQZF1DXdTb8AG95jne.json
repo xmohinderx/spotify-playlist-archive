@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: chilly(\uce60\ub9ac)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 385153,
+  "num_followers": 385367,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk0NDIzOCwwMDAwMDAwMGU0ZTU5NmEzNWQ2MGI5NmI4ZTQyNGJhNDBjM2ZjZDU5",
+  "snapshot_id": "MTY1ODk0NDIzOCwwMDAwMDAwMDMxN2M4N2JlM2U3YjI3Y2YyNWFiZmZjODkyYWQ5OTNk",
   "tracks": [
     {
       "added_at": "2022-07-27 17:50:38",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-07-27 17:50:38",
       "album": {
+        "name": "GAUSSIAN",
+        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
+    },
+    {
+      "added_at": "2022-07-27 17:50:38",
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 233416,
       "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
       "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
-    },
-    {
-      "added_at": "2022-07-27 17:50:38",
-      "album": {
-        "name": "GAUSSIAN",
-        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "MIMI",
-      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
     },
     {
       "added_at": "2022-07-27 17:50:38",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-07-27 17:50:38",
       "album": {
-        "name": "My Liberation Notes OST Part 6",
-        "url": "https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8"
-      },
-      "artists": [
-        {
-          "name": "SWAY",
-          "url": "https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale"
-        }
-      ],
-      "duration_ms": 206970,
-      "name": "We Sink",
-      "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
-    },
-    {
-      "added_at": "2022-07-27 17:50:38",
-      "album": {
         "name": "3108",
         "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2022-07-27 17:50:38",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+        "name": "My Liberation Notes OST Part 6",
+        "url": "https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8"
       },
       "artists": [
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "SWAY",
+          "url": "https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale"
         }
       ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+      "duration_ms": 206970,
+      "name": "We Sink",
+      "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
     },
     {
       "added_at": "2022-07-27 17:50:38",
@@ -671,6 +655,22 @@
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "added_at": "2022-07-27 17:50:38",
+      "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
       "added_at": "2022-07-27 17:50:38",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-07-27 17:50:38",
       "album": {
+        "name": "YOUTH",
+        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "duration_ms": 361426,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
+    },
+    {
+      "added_at": "2022-07-27 17:50:38",
+      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 274000,
       "name": "lost",
       "url": "https://open.spotify.com/track/26niEovvgyaq9po2KubsJI"
-    },
-    {
-      "added_at": "2022-07-27 17:50:38",
-      "album": {
-        "name": "YOUTH",
-        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
-      },
-      "artists": [
-        {
-          "name": "Dasutt",
-          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
-        }
-      ],
-      "duration_ms": 361426,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
     },
     {
       "added_at": "2022-07-27 17:50:38",

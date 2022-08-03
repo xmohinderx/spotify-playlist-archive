@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 3711,
+  "num_followers": 3724,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDNlOTQzYWVjNWJmNTY2ZWI2NjY0NTg1ODk2Y2I0YTli",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGUwMzFiZTBkMjA4NjUyYjczNTYyM2RiMjI5MGYyOWIw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Music from Saharan Cellphones, Vol. 1",
-        "url": "https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU"
-      },
-      "artists": [
-        {
-          "name": "Amanar",
-          "url": "https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px"
-        }
-      ],
-      "duration_ms": 397706,
-      "name": "Alghafiat",
-      "url": "https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "African Gnaoua Blues",
         "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 422053,
       "name": "African Blues",
       "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Music from Saharan Cellphones, Vol. 1",
+        "url": "https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU"
+      },
+      "artists": [
+        {
+          "name": "Amanar",
+          "url": "https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px"
+        }
+      ],
+      "duration_ms": 397706,
+      "name": "Alghafiat",
+      "url": "https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Agadez",
-        "url": "https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 390600,
-      "name": "Tar Hani (My Love)",
-      "url": "https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Kulanjan",
         "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 329866,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Agadez",
+        "url": "https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 390600,
+      "name": "Tar Hani (My Love)",
+      "url": "https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Adagh",
-        "url": "https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4"
+        "name": "Azel",
+        "url": "https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib"
       },
       "artists": [
         {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
         }
       ],
-      "duration_ms": 312333,
-      "name": "Aratane N' Adagh",
-      "url": "https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ"
+      "duration_ms": 367185,
+      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
+      "url": "https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Azel",
-        "url": "https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib"
+        "name": "Adagh",
+        "url": "https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4"
       },
       "artists": [
         {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
         }
       ],
-      "duration_ms": 367185,
-      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
-      "url": "https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm"
+      "duration_ms": 312333,
+      "name": "Aratane N' Adagh",
+      "url": "https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -687,38 +687,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mansana Blues",
-        "url": "https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6"
+        "name": "The Sahara Sessions",
+        "url": "https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid"
       },
       "artists": [
         {
-          "name": "Diabel Cissokho",
-          "url": "https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm"
-        },
-        {
-          "name": "Ramon Goose",
-          "url": "https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6"
+          "name": "Etran Finatawa",
+          "url": "https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX"
         }
       ],
-      "duration_ms": 408760,
-      "name": "Mansana Blues",
-      "url": "https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Fenfo (Something To Say)",
-        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Fenfo",
-      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
+      "duration_ms": 240880,
+      "name": "An Mataf Germanawen",
+      "url": "https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -743,6 +723,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Mansana Blues",
+        "url": "https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6"
+      },
+      "artists": [
+        {
+          "name": "Diabel Cissokho",
+          "url": "https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm"
+        },
+        {
+          "name": "Ramon Goose",
+          "url": "https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6"
+        }
+      ],
+      "duration_ms": 408760,
+      "name": "Mansana Blues",
+      "url": "https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Wanita",
         "url": "https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Sahara Sessions",
-        "url": "https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid"
+        "name": "Fenfo (Something To Say)",
+        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
       },
       "artists": [
         {
-          "name": "Etran Finatawa",
-          "url": "https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 240880,
-      "name": "An Mataf Germanawen",
-      "url": "https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB"
+      "duration_ms": 268466,
+      "name": "Fenfo",
+      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -823,6 +823,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Mississippi-Mali Blues",
+      "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The West African Blues Project",
         "url": "https://open.spotify.com/album/510vDsJUph73WMw4GK1x19"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 251500,
       "name": "The Lighthouse Keeper",
       "url": "https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Kulanjan",
-        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
-        },
-        {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Mississippi-Mali Blues",
-      "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
     },
     {
       "added_at": "2020-12-01 05:01:00",

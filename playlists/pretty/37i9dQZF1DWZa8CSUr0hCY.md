@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par le beat...
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,239 likes - 58 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,274 likes - 58 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [But I Do](https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [Street Bangerz Volume 6: Playhouse](https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz) | 4:00 |
 | 2 | [Dusk to Dawn](https://open.spotify.com/track/6WuZeRJ8RWPdNgtqLNqn4F) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:25 |
-| 3 | [Want It Back](https://open.spotify.com/track/7eN0Sdh3AE1VKKLSsFwKBh) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Patrice](https://open.spotify.com/artist/77Kyp9wR2BuxUu0v0lYRnd), [The Studio School Voices NYC](https://open.spotify.com/artist/7jgfoXqbi5tUM8usINkxmY) | [Hip Hop After All](https://open.spotify.com/album/0w7sDS0APyRmH0HBPtiE8E) | 3:31 |
+| 3 | [Want It Back](https://open.spotify.com/track/7eN0Sdh3AE1VKKLSsFwKBh) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [The Studio School Voices NYC](https://open.spotify.com/artist/7jgfoXqbi5tUM8usINkxmY) | [Hip Hop After All](https://open.spotify.com/album/0w7sDS0APyRmH0HBPtiE8E) | 3:31 |
 | 4 | [Soul Below](https://open.spotify.com/track/2oFIBSwhuifFB3OLA0ft0Q) | [Ljones](https://open.spotify.com/artist/0IsYDDLNbwwyLbkl2kzdF3) | [Soul Below](https://open.spotify.com/album/4XBPVDluRNPX7A7yaC1yYs) | 3:14 |
 | 5 | [Breathe](https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:42 |
 | 6 | [Yeah Yeah Yeah](https://open.spotify.com/track/5u2chFalnZgdgN8K3YKxI0) | [Kognitif](https://open.spotify.com/artist/6Jv6uJdhLc9R50kSy6RbLz) | [Soul Food](https://open.spotify.com/album/6grLCGzVBkmrdvYmnLxOwv) | 4:08 |

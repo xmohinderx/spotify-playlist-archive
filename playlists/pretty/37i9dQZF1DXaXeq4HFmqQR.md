@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Myriam Hernandez y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,987 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,988 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,32 +31,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 21 | [Los Ratones](https://open.spotify.com/track/1OnYZmDpkP8cZvcZWm6WCM) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Evelyn Cornejo](https://open.spotify.com/album/0GnlmDKT9xzZGMnsshTDEt) | 2:58 |
 | 22 | [Te Vi](https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:36 |
 | 23 | [Nabundearé](https://open.spotify.com/track/35TRct8Yqqmy0XUPg8UFbn) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/6SnUm6EI8bn6uFV7p2LIIR) | 2:55 |
-| 24 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
+| 24 | [Todo Va a Andar Bien](https://open.spotify.com/track/6yf6lWyx2cIHOi03Uiy6cX) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Todo Va a Andar Bien](https://open.spotify.com/album/6oMpQHqHPSm4Tr0ezIqVkF) | 2:44 |
 | 25 | [Flotando](https://open.spotify.com/track/23o7KuK4jNJInTiOFogpXO) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 4:00 |
-| 26 | [Todo Va a Andar Bien](https://open.spotify.com/track/6yf6lWyx2cIHOi03Uiy6cX) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Todo Va a Andar Bien](https://open.spotify.com/album/6oMpQHqHPSm4Tr0ezIqVkF) | 2:44 |
+| 26 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
 | 27 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 |
 | 28 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:40 |
 | 29 | [Mañanas De Sol](https://open.spotify.com/track/1154s9eRdMbIaDehHi0BzC) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/6SnUm6EI8bn6uFV7p2LIIR) | 2:50 |
 | 30 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
-| 31 | [Volando en la Nube](https://open.spotify.com/track/4kDO7SsBLzlXXNl1bKozFn) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la Nube](https://open.spotify.com/album/2dopJK4bzSHttm5bxMd495) | 3:11 |
-| 32 | [Esta Canción](https://open.spotify.com/track/6n9ddGXxuun1jTX2bxYilp) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo](https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt) | 3:14 |
-| 33 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
+| 31 | [Bachata Rosa](https://open.spotify.com/track/09CNlvNraPXfr7HqyzSItD) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Esta Vez](https://open.spotify.com/album/3hzH1IMsH8PXbBIYJUXUYl) | 3:45 |
+| 32 | [Volando en la Nube](https://open.spotify.com/track/4kDO7SsBLzlXXNl1bKozFn) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la Nube](https://open.spotify.com/album/2dopJK4bzSHttm5bxMd495) | 3:11 |
+| 33 | [Esta Canción](https://open.spotify.com/track/6n9ddGXxuun1jTX2bxYilp) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo](https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt) | 3:14 |
 | 34 | [Por Que Se Fue la Paloma](https://open.spotify.com/track/7MfqQD9POKCfuxn5GxEO7Y) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Por Que Se Fue la Paloma](https://open.spotify.com/album/3TW1yBSvYhoFflREstW8Cd) | 4:03 |
-| 35 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 |
-| 36 | [Bachata Rosa](https://open.spotify.com/track/09CNlvNraPXfr7HqyzSItD) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Esta Vez](https://open.spotify.com/album/3hzH1IMsH8PXbBIYJUXUYl) | 3:45 |
+| 35 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
+| 36 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 |
 | 37 | [Te quise](https://open.spotify.com/track/3s5yFiZvDcT70C8azcHuhi) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Panal](https://open.spotify.com/album/3LhqdIQiu2CAJSoXh1lh4d) | 3:52 |
 | 38 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
 | 39 | [Corazón Astral](https://open.spotify.com/track/6POeNaMCaqfJZIgA11NR7T) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Corazón Astral](https://open.spotify.com/album/47FP5YVqwPrrOAOVhNfY4T) | 3:11 |
 | 40 | [Nudo](https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:25 |
 | 41 | [Foto Pa Ti](https://open.spotify.com/track/6fZVXHccQe6EbXavK9FLHg) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Foto Pa Ti](https://open.spotify.com/album/3blG9mBh5tpX9u8SWWYCTb) | 3:06 |
 | 42 | [Quiero Que Seas Tú](https://open.spotify.com/track/0qBn4QfRGYx8KKbpYTzbcm) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Quiero Que Seas Tú](https://open.spotify.com/album/42SkhzG4LsVSPfpa0nEiZ5) | 2:58 |
-| 43 | [Arriba](https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ) | [Chini and The Technicians](https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR) | [Arriba Es Abajo](https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My) | 4:07 |
-| 44 | [Es Real](https://open.spotify.com/track/48mDMIRYbrVEcHjt5y7vpK) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Es Real](https://open.spotify.com/album/7L7hGH6oMXQ7J8uFceyvFz) | 3:18 |
-| 45 | [Dale Mami](https://open.spotify.com/track/5YNNsFjx3bDuwFYIOb8cTs) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Dale Mami](https://open.spotify.com/album/1Irv7ASqWf7m6Yyy7RBuaR) | 3:08 |
+| 43 | [Dale Mami](https://open.spotify.com/track/5YNNsFjx3bDuwFYIOb8cTs) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Dale Mami](https://open.spotify.com/album/1Irv7ASqWf7m6Yyy7RBuaR) | 3:08 |
+| 44 | [Arriba](https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ) | [Chini and The Technicians](https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR) | [Arriba Es Abajo](https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My) | 4:07 |
+| 45 | [Es Real](https://open.spotify.com/track/48mDMIRYbrVEcHjt5y7vpK) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Es Real](https://open.spotify.com/album/7L7hGH6oMXQ7J8uFceyvFz) | 3:18 |
 | 46 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 |
 | 47 | [Un Día Planté una Rosa](https://open.spotify.com/track/0PjcBblfgbaeMrWNQ80SCb) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Un Día Planté una Rosa](https://open.spotify.com/album/1ZCvBLVlfrfhpPXWVHspQk) | 2:41 |
 | 48 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
 | 49 | [Pasión Aka Ilusión](https://open.spotify.com/track/7jhPBSMQy1uFfoIRqwQCXt) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [I\. Entusiasmo \(Deluxe\)](https://open.spotify.com/album/0o4jDvbgrcERBrAFhVIrE9) | 3:15 |
 | 50 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 |
 
-Snapshot ID: `MTY1NzA4MDAwMCwwMDAwMDAwMDFmYWQzOTBjYjlhZGNjOGFlODFlZTk2ZWRlM2Y0NzRi`
+Snapshot ID: `MTY1NzA4MDAwMCwwMDAwMDAwMDQxMmUzNGIyZTMxODYwNzNlMWFiZjY1OTc2Y2VkNWU4`

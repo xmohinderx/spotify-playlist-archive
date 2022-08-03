@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,655 likes - 112 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,700 likes - 112 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 18 | [Teri Meri Kahani](https://open.spotify.com/track/5ftyuvT3jQotZvo6sJnyce) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Teri Meri Kahani](https://open.spotify.com/album/1xIyxjMzRm9npN8olJlz67) | 2:35 |
 | 19 | [Main Viyah Nahi Karona Tere Naal \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/6pvWVkFgDbyUMZyCvHOwsJ) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [Main Viyah Nahi Karona Tere Naal \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/584BMTWDn9yt8V5JVmqshi) | 2:35 |
 | 20 | [Rabba Mainu \- From "Jind Mahi"](https://open.spotify.com/track/76lfsGx43fls0iMp7x2Ix1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Rabba Mainu \(From "Jind Mahi"\)](https://open.spotify.com/album/2z3LpgoXKC3GjbnGS9AKDF) | 3:21 |
-| 21 | [Booha](https://open.spotify.com/track/5CR2hzFNlLu73njqzTYRJK) | [Gagan Kokri](https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Coz Of God](https://open.spotify.com/album/6d7e4beGEuqCCyCc7sU7ni) | 3:09 |
+| 21 | [Booha](https://open.spotify.com/track/5CR2hzFNlLu73njqzTYRJK) | [Gagan Kokri](https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Coz Of God](https://open.spotify.com/album/6d7e4beGEuqCCyCc7sU7ni) | 3:14 |
 | 22 | [Chad Dila \(From "Shakaar Paare"\)](https://open.spotify.com/track/2sAsdU3ElHGf0v8IlYIdQt) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Chad Dila \(From "Shakaar Paare"\)](https://open.spotify.com/album/0BSvBzuk2HjlKP4cj2pjU3) | 4:08 |
 | 23 | [Koke Waliye](https://open.spotify.com/track/0MbpGHTQvKjYGn6Fe8wphJ) | [Bill Dhillon](https://open.spotify.com/artist/28wIwksbWktFEvRn498daP), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Koke Waliye](https://open.spotify.com/album/4rjZzil0GvCvvosyvoR1qT) | 3:06 |
 | 24 | [Poora Chann](https://open.spotify.com/track/62cosUXsAaysvUJTIOWGzJ) | [Baaz Dhaliwal](https://open.spotify.com/artist/5W7gEJq6iQGu1GZofFOcQ5) | [Poora Chann](https://open.spotify.com/album/1JqXcDVTpMFrxw05z2hHi4) | 2:20 |

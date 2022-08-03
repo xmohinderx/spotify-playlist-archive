@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1980s.
 
-287 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/3kB1Lk0bVGYiyyetIIpGyo)
+288 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/3kB1Lk0bVGYiyyetIIpGyo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Farewell My Summer Love](https://open.spotify.com/track/2OOM7hg35KaqYbDwTmbbk5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Farewell My Summer Love](https://open.spotify.com/album/21KDELF4LP2L6EUGIi48qR) | 4:23 | 2021-09-08 | 2022-07-15 |
 | [Feels Like I'm in Love](https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv) | 4:16 | 2021-09-08 | 2022-07-28 |
 | [Fight For Your Right](https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:28 | 2021-09-08 |  |
-| [Flashdance...What A Feeling \- From "Flashdance"](https://open.spotify.com/track/5nUpmh8WSlQooSmNEUWDJo) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Old But Gold 80's](https://open.spotify.com/album/4ro4iU2CgIVHUAVWVnplWh) | 3:44 | 2021-01-07 |  |
+| [Flashdance..\. What A Feeling \- '95 Version](https://open.spotify.com/track/5CGziaEatzKez145qf7Xj2) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Nyårsmusik](https://open.spotify.com/album/0mfc6FsNgv3RHhrKncT0vZ) | 3:49 | 2021-01-07 |  |
+| [Flashdance...What A Feeling \- From "Flashdance"](https://open.spotify.com/track/5nUpmh8WSlQooSmNEUWDJo) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Old But Gold 80's](https://open.spotify.com/album/4ro4iU2CgIVHUAVWVnplWh) | 3:44 | 2021-01-07 | 2022-08-03 |
 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 | 2021-01-07 | 2022-07-29 |
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 | 2021-01-07 |  |
 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 4:44 | 2021-09-08 |  |

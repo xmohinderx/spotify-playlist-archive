@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 49 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 49 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 48 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 |
 | 49 | [Apollo \- Vocal Mix](https://open.spotify.com/track/6fwHxYss3CrEH7n7t1b36v) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Apollo](https://open.spotify.com/album/5Pe52AonLSVhw6M7n7hH30) | 4:38 |
 
-Snapshot ID: `MTY1OTM1OTc3NCwwMDAwMDAwMDQ1NGI0NDkwZWYwODI2YWE3ZWVlM2YwYmQxNzZhNmI0`
+Snapshot ID: `MTY1OTQzODU5MCwwMDAwMDAwMDE3YmJlMDY2YzY3ZDZhN2ExZGYxNjRlYmVlNzMwYzg2`

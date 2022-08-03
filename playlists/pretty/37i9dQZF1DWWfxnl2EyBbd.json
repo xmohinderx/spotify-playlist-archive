@@ -1,12 +1,12 @@
 {
   "description": "The soft sound of a jazz piano trio to help you relax and unwind.",
-  "num_followers": 29099,
+  "num_followers": 29153,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzMTI2MCwwMDAwMDAwMGU5ZmNlZTdiZWU4MTRhZjI1MjY5NGUwOGE2ZTQ4MzA0",
+  "snapshot_id": "MTY1NzIzMTI2MCwwMDAwMDAwMDE4NjhlM2Q4NzAzYzI4ODNkYzM2Mzc0OWI4Y2NjODA0",
   "tracks": [
     {
       "added_at": "2022-07-07 22:01:00",
@@ -767,30 +767,6 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Some Love Songs",
-        "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
-      },
-      "artists": [
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        },
-        {
-          "name": "Drew Gress",
-          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
-        },
-        {
-          "name": "Jochen Rueckert",
-          "url": "https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU"
-        }
-      ],
-      "duration_ms": 473680,
-      "name": "Spartacus Love Theme",
-      "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
         "name": "All Through The Night",
         "url": "https://open.spotify.com/album/1ZAmPpqvbbsMa1lXu4YjWR"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 316293,
       "name": "It's So Peaceful In The Country",
       "url": "https://open.spotify.com/track/6ntbjPkc9JckO4IlB0LeSg"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Some Love Songs",
+        "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
+      },
+      "artists": [
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        },
+        {
+          "name": "Drew Gress",
+          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
+        },
+        {
+          "name": "Jochen Rueckert",
+          "url": "https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU"
+        }
+      ],
+      "duration_ms": 473680,
+      "name": "Spartacus Love Theme",
+      "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "The Moon and I",
-        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 335933,
-      "name": "Ill Wind",
-      "url": "https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
         "name": "Power of Love",
         "url": "https://open.spotify.com/album/00bfBN3Qe2D48Im8EpBSML"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 305143,
       "name": "A Peaceful Tremor",
       "url": "https://open.spotify.com/track/6Nyj8xaSeKTPoxMyt18WMW"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "The Moon and I",
+        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 335933,
+      "name": "Ill Wind",
+      "url": "https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
+        "name": "Plays Charles Mingus",
+        "url": "https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "duration_ms": 204519,
+      "name": "Duke Ellington's Sound of Love",
+      "url": "https://open.spotify.com/track/48jxbecHxRFUKKG53mJRjl"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
         "name": "And I Love Her",
         "url": "https://open.spotify.com/album/5Ug4R1QkqfUDsufwLymttu"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 403480,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/72m3jr8pROw5WQM3cJAy1k"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Plays Charles Mingus",
-        "url": "https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f"
-      },
-      "artists": [
-        {
-          "name": "Peter Nordahl Trio",
-          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
-        }
-      ],
-      "duration_ms": 204519,
-      "name": "Duke Ellington's Sound of Love",
-      "url": "https://open.spotify.com/track/48jxbecHxRFUKKG53mJRjl"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1571,26 +1571,18 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Standard Collections Vol. 1",
-        "url": "https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF"
+        "name": "Links",
+        "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
       },
       "artists": [
         {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        },
-        {
-          "name": "Mads Vinding",
-          "url": "https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP"
-        },
-        {
-          "name": "Billy Hart",
-          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
         }
       ],
-      "duration_ms": 287573,
-      "name": "Summer Knows",
-      "url": "https://open.spotify.com/track/6hp3KLPgzVPJjhTpxkeiDU"
+      "duration_ms": 232559,
+      "name": "Links",
+      "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1611,18 +1603,26 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
+        "name": "Standard Collections Vol. 1",
+        "url": "https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF"
       },
       "artists": [
         {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        },
+        {
+          "name": "Mads Vinding",
+          "url": "https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP"
+        },
+        {
+          "name": "Billy Hart",
+          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
         }
       ],
-      "duration_ms": 253800,
-      "name": "The First Touch",
-      "url": "https://open.spotify.com/track/5fDmVPtwQAo45rLxKBUZod"
+      "duration_ms": 287573,
+      "name": "Summer Knows",
+      "url": "https://open.spotify.com/track/6hp3KLPgzVPJjhTpxkeiDU"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
+        "name": "January",
+        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
       },
       "artists": [
         {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
         }
       ],
-      "duration_ms": 496893,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
+      "duration_ms": 253800,
+      "name": "The First Touch",
+      "url": "https://open.spotify.com/track/5fDmVPtwQAo45rLxKBUZod"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Links",
-        "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
       },
       "artists": [
         {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
         }
       ],
-      "duration_ms": 232559,
-      "name": "Links",
-      "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
+      "duration_ms": 496893,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Karlavagnen",
-        "url": "https://open.spotify.com/album/6RiKhHeJMrZVjggdWMdl2g"
-      },
-      "artists": [
-        {
-          "name": "Emil Ingmar",
-          "url": "https://open.spotify.com/artist/7p0xXqI5wsH4tLwPIEuZ5E"
-        }
-      ],
-      "duration_ms": 352613,
-      "name": "Ellegatan",
-      "url": "https://open.spotify.com/track/0iFgDHjjfI0BIH6IdFyWmE"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
         "name": "\u591c\u306e\u30d6\u30eb\u30fc\u30b9",
         "url": "https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 356920,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Karlavagnen",
+        "url": "https://open.spotify.com/album/6RiKhHeJMrZVjggdWMdl2g"
+      },
+      "artists": [
+        {
+          "name": "Emil Ingmar",
+          "url": "https://open.spotify.com/artist/7p0xXqI5wsH4tLwPIEuZ5E"
+        }
+      ],
+      "duration_ms": 352613,
+      "name": "Ellegatan",
+      "url": "https://open.spotify.com/track/0iFgDHjjfI0BIH6IdFyWmE"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1951,6 +1951,38 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
+        "name": "M\u00e9lodies en noir & blanc",
+        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Romano",
+          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
+        }
+      ],
+      "duration_ms": 297406,
+      "name": "On John's Guitar",
+      "url": "https://open.spotify.com/track/5PbTy9q6gIZEWUpyGHXplm"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Awareness",
+        "url": "https://open.spotify.com/album/1DMLil6FOSdKNzRGWCCZiw"
+      },
+      "artists": [
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        }
+      ],
+      "duration_ms": 324426,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/3UvkApsnwcV9pQHfU5WASz"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
         "name": "Perfidia",
         "url": "https://open.spotify.com/album/6dA81xiGl3BXf6MsEdTWVE"
       },
@@ -1979,38 +2011,6 @@
       "duration_ms": 220589,
       "name": "Il Postino",
       "url": "https://open.spotify.com/track/0Jt0QaxPU9mxq9t9kHexrp"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Awareness",
-        "url": "https://open.spotify.com/album/1DMLil6FOSdKNzRGWCCZiw"
-      },
-      "artists": [
-        {
-          "name": "Larry Goldings",
-          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
-        }
-      ],
-      "duration_ms": 324426,
-      "name": "Strays",
-      "url": "https://open.spotify.com/track/3UvkApsnwcV9pQHfU5WASz"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "M\u00e9lodies en noir & blanc",
-        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Romano",
-          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
-        }
-      ],
-      "duration_ms": 297406,
-      "name": "On John's Guitar",
-      "url": "https://open.spotify.com/track/5PbTy9q6gIZEWUpyGHXplm"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Fellowship",
-        "url": "https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF"
-      },
-      "artists": [
-        {
-          "name": "Glenn Zaleski",
-          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
-        }
-      ],
-      "duration_ms": 446733,
-      "name": "Central Park West",
-      "url": "https://open.spotify.com/track/4HMx9XCTgwwbQELIfWN9b5"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -2307,6 +2291,22 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
+        "name": "Fellowship",
+        "url": "https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF"
+      },
+      "artists": [
+        {
+          "name": "Glenn Zaleski",
+          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
+        }
+      ],
+      "duration_ms": 446733,
+      "name": "Central Park West",
+      "url": "https://open.spotify.com/track/4HMx9XCTgwwbQELIfWN9b5"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
         "name": "The Vagabond",
         "url": "https://open.spotify.com/album/2yeXOGHdLYgyazlRHFzTTM"
       },
@@ -2319,6 +2319,22 @@
       "duration_ms": 368777,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/6jcwViyJ0VxiyUe95nv4Dj"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Cyrus Chestnut",
+        "url": "https://open.spotify.com/album/3TbBfPc80wHFp5GQKLW3vb"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Elegant Flower",
+      "url": "https://open.spotify.com/track/1SY8ygEeUjQd0A3Tupx4EI"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2343,22 +2359,6 @@
       "duration_ms": 443263,
       "name": "The End and The Beginning",
       "url": "https://open.spotify.com/track/2Sgr7Jsy8zwh2m23HpPOWE"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Cyrus Chestnut",
-        "url": "https://open.spotify.com/album/3TbBfPc80wHFp5GQKLW3vb"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Elegant Flower",
-      "url": "https://open.spotify.com/track/1SY8ygEeUjQd0A3Tupx4EI"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
+        "name": "Det Lilla",
+        "url": "https://open.spotify.com/album/3fVBRaXkD4TolDw3jBfGDD"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 213736,
+      "name": "Det Lilla",
+      "url": "https://open.spotify.com/track/5PXrMlPFARqpwCGtuhywSs"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
         "name": "Blue song for Blues",
         "url": "https://open.spotify.com/album/7hSOiFx7VmqIpyxMttX6C1"
       },
@@ -2439,18 +2455,26 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Det Lilla",
-        "url": "https://open.spotify.com/album/3fVBRaXkD4TolDw3jBfGDD"
+        "name": "Trio",
+        "url": "https://open.spotify.com/album/5jXillw4nWUrF7Gy56dVu6"
       },
       "artists": [
         {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+          "name": "Marcin Wasilewski",
+          "url": "https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF"
+        },
+        {
+          "name": "Slawomir Kurkiewicz",
+          "url": "https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR"
+        },
+        {
+          "name": "Michal Miskiewicz",
+          "url": "https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT"
         }
       ],
-      "duration_ms": 213736,
-      "name": "Det Lilla",
-      "url": "https://open.spotify.com/track/5PXrMlPFARqpwCGtuhywSs"
+      "duration_ms": 351440,
+      "name": "Plaza Real",
+      "url": "https://open.spotify.com/track/5NNyy2Fn4qsZ79lEzKFrM9"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2467,6 +2491,22 @@
       "duration_ms": 178212,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/6UlGWaAz4TKrlOjhgZ9HNS"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "Promise the Moon",
+        "url": "https://open.spotify.com/album/0bCrIRrZJTc1GK4ar61t3m"
+      },
+      "artists": [
+        {
+          "name": "Dean Stockdale Trio",
+          "url": "https://open.spotify.com/artist/5osQPHnFc9DPK1uEf2yRk0"
+        }
+      ],
+      "duration_ms": 333233,
+      "name": "Mia's Lullaby",
+      "url": "https://open.spotify.com/track/3ETpB2M7yhqSwmuAMeQTF2"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2495,42 +2535,42 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Trio",
-        "url": "https://open.spotify.com/album/5jXillw4nWUrF7Gy56dVu6"
+        "name": "Traction Avant Vol.2",
+        "url": "https://open.spotify.com/album/1l2CFdenQByfIw6F6Lmxtg"
       },
       "artists": [
         {
-          "name": "Marcin Wasilewski",
-          "url": "https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF"
+          "name": "Alessandro Galati",
+          "url": "https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk"
         },
         {
-          "name": "Slawomir Kurkiewicz",
-          "url": "https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR"
+          "name": "Palle Danielsson",
+          "url": "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
         },
         {
-          "name": "Michal Miskiewicz",
-          "url": "https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT"
+          "name": "Peter Erskine",
+          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
         }
       ],
-      "duration_ms": 351440,
-      "name": "Plaza Real",
-      "url": "https://open.spotify.com/track/5NNyy2Fn4qsZ79lEzKFrM9"
+      "duration_ms": 462824,
+      "name": "Red Milk",
+      "url": "https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR"
     },
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Promise the Moon",
-        "url": "https://open.spotify.com/album/0bCrIRrZJTc1GK4ar61t3m"
+        "name": "Five Stories",
+        "url": "https://open.spotify.com/album/1ZwF41qmQptzg0FKm3mDEp"
       },
       "artists": [
         {
-          "name": "Dean Stockdale Trio",
-          "url": "https://open.spotify.com/artist/5osQPHnFc9DPK1uEf2yRk0"
+          "name": "Heiri K\u00e4nzig",
+          "url": "https://open.spotify.com/artist/0KBHDpk6syXYfN7DItgFDF"
         }
       ],
-      "duration_ms": 333233,
-      "name": "Mia's Lullaby",
-      "url": "https://open.spotify.com/track/3ETpB2M7yhqSwmuAMeQTF2"
+      "duration_ms": 438318,
+      "name": "Story II: Early Snow",
+      "url": "https://open.spotify.com/track/6IDHaero0jclHqzqk2PXzy"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2559,26 +2599,26 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Traction Avant Vol.2",
-        "url": "https://open.spotify.com/album/1l2CFdenQByfIw6F6Lmxtg"
+        "name": "As It Is",
+        "url": "https://open.spotify.com/album/7779Qmz6ZbdJtvTZSG2qRo"
       },
       "artists": [
         {
-          "name": "Alessandro Galati",
-          "url": "https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk"
+          "name": "Peter Erskine",
+          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
         },
         {
           "name": "Palle Danielsson",
           "url": "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
         },
         {
-          "name": "Peter Erskine",
-          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
+          "name": "John Taylor",
+          "url": "https://open.spotify.com/artist/6tSdJBJx1KWzjdT7Kv2iNp"
         }
       ],
-      "duration_ms": 462824,
-      "name": "Red Milk",
-      "url": "https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR"
+      "duration_ms": 291466,
+      "name": "Touch Her Soft Lips And Part",
+      "url": "https://open.spotify.com/track/7o65XOJ6wuSlzJ6aXtMxlT"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2599,18 +2639,18 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Five Stories",
-        "url": "https://open.spotify.com/album/1ZwF41qmQptzg0FKm3mDEp"
+        "name": "Chimes of Freedom",
+        "url": "https://open.spotify.com/album/1Fq52NWNh9YbQ08M7fitXG"
       },
       "artists": [
         {
-          "name": "Heiri K\u00e4nzig",
-          "url": "https://open.spotify.com/artist/0KBHDpk6syXYfN7DItgFDF"
+          "name": "Lynne Arriale Trio",
+          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
         }
       ],
-      "duration_ms": 438318,
-      "name": "Story II: Early Snow",
-      "url": "https://open.spotify.com/track/6IDHaero0jclHqzqk2PXzy"
+      "duration_ms": 318453,
+      "name": "Lady Liberty",
+      "url": "https://open.spotify.com/track/2HLGg89KyQOlqmaFuOlSwl"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2639,30 +2679,6 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "As It Is",
-        "url": "https://open.spotify.com/album/7779Qmz6ZbdJtvTZSG2qRo"
-      },
-      "artists": [
-        {
-          "name": "Peter Erskine",
-          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
-        },
-        {
-          "name": "Palle Danielsson",
-          "url": "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
-        },
-        {
-          "name": "John Taylor",
-          "url": "https://open.spotify.com/artist/6tSdJBJx1KWzjdT7Kv2iNp"
-        }
-      ],
-      "duration_ms": 291466,
-      "name": "Touch Her Soft Lips And Part",
-      "url": "https://open.spotify.com/track/7o65XOJ6wuSlzJ6aXtMxlT"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/3N8ehynLixrhNFbv98YbCV"
       },
@@ -2675,38 +2691,6 @@
       "duration_ms": 282226,
       "name": "Some Day My Prince Will Come",
       "url": "https://open.spotify.com/track/7MOcps59D9EKIzO6jxivQg"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Chimes of Freedom",
-        "url": "https://open.spotify.com/album/1Fq52NWNh9YbQ08M7fitXG"
-      },
-      "artists": [
-        {
-          "name": "Lynne Arriale Trio",
-          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
-        }
-      ],
-      "duration_ms": 318453,
-      "name": "Lady Liberty",
-      "url": "https://open.spotify.com/track/2HLGg89KyQOlqmaFuOlSwl"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "Promise the Moon",
-        "url": "https://open.spotify.com/album/0bCrIRrZJTc1GK4ar61t3m"
-      },
-      "artists": [
-        {
-          "name": "Dean Stockdale Trio",
-          "url": "https://open.spotify.com/artist/5osQPHnFc9DPK1uEf2yRk0"
-        }
-      ],
-      "duration_ms": 321507,
-      "name": "Time for a Change",
-      "url": "https://open.spotify.com/track/5ZZbviSvNxJNcdCb5W5d7m"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2731,26 +2715,18 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0"
+        "name": "Promise the Moon",
+        "url": "https://open.spotify.com/album/0bCrIRrZJTc1GK4ar61t3m"
       },
       "artists": [
         {
-          "name": "Patrik Boman",
-          "url": "https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw"
-        },
-        {
-          "name": "G\u00f6ran Strandberg",
-          "url": "https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu"
-        },
-        {
-          "name": "Sebastian Voegler",
-          "url": "https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB"
+          "name": "Dean Stockdale Trio",
+          "url": "https://open.spotify.com/artist/5osQPHnFc9DPK1uEf2yRk0"
         }
       ],
-      "duration_ms": 329166,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C"
+      "duration_ms": 321507,
+      "name": "Time for a Change",
+      "url": "https://open.spotify.com/track/5ZZbviSvNxJNcdCb5W5d7m"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2767,22 +2743,6 @@
       "duration_ms": 355220,
       "name": "Newselves",
       "url": "https://open.spotify.com/track/40V4EWwwYv4a6erWw9r60D"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
-        "name": "The Dancing Monk",
-        "url": "https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 362746,
-      "name": "Ruby, My Dear",
-      "url": "https://open.spotify.com/track/53ROPqJRDrefqoLEGZ8khW"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -2811,18 +2771,58 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "Time for Ballads - The Maene Sessions",
-        "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0"
       },
       "artists": [
         {
-          "name": "Rob Van Bavel",
-          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+          "name": "Patrik Boman",
+          "url": "https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw"
+        },
+        {
+          "name": "G\u00f6ran Strandberg",
+          "url": "https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu"
+        },
+        {
+          "name": "Sebastian Voegler",
+          "url": "https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Your Nocturne",
-      "url": "https://open.spotify.com/track/4z7bckrpC1Sw5AmqvF6I7f"
+      "duration_ms": 329166,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "The Dancing Monk",
+        "url": "https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 362746,
+      "name": "Ruby, My Dear",
+      "url": "https://open.spotify.com/track/53ROPqJRDrefqoLEGZ8khW"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "BAYATI",
+        "url": "https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c"
+      },
+      "artists": [
+        {
+          "name": "Shahin Novrasli",
+          "url": "https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2"
+        }
+      ],
+      "duration_ms": 367053,
+      "name": "Elinde Sazin Qurbani",
+      "url": "https://open.spotify.com/track/0ywJlxGPnsWkPKWlo9RSfb"
     }
   ],
   "unique_name": "Relaxing Jazz Piano",

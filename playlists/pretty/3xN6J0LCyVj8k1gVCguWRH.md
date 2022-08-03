@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 96,910 likes - 144 songs - 9 hr 15 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 97,252 likes - 144 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,14 +143,14 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 133 | [Space + Space](https://open.spotify.com/track/23O3mxKAobIPWOnqyvHxMW) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Space + Space](https://open.spotify.com/album/6iy2XpKwyal7CXGgtrcidK) | 4:37 |
 | 134 | [u don't know my name](https://open.spotify.com/track/6Q7C4kqq3mHbFPzE8SJqXf) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [u don't know my name](https://open.spotify.com/album/55kBLybdomiHYzO3uRmpil) | 3:28 |
 | 135 | [Hello, Sun](https://open.spotify.com/track/4RqHv0L0qSHujiAopeUBUv) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [Hello, Sun](https://open.spotify.com/album/3EkoabkuwW12ampXP012jo) | 3:39 |
-| 136 | [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 |
-| 137 | [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 |
-| 138 | [NO LIES](https://open.spotify.com/track/4knf2ZPO6w5KlqfXG5Wj4y) | [zions.camp](https://open.spotify.com/artist/0h5D9wagd5zMNuVVBnUtng) | [NO LIES](https://open.spotify.com/album/3waPigay3Up5wvSYI1TGQt) | 3:39 |
-| 139 | [Mood](https://open.spotify.com/track/7JANWjf0KPaNP3v2MI26Fz) | [AZSH](https://open.spotify.com/artist/6SJWwH5V8b6FYeISMPY13u) | [Mood](https://open.spotify.com/album/0L9sIht9F9hUrNSP9LgrdS) | 2:59 |
-| 140 | [The Things I Wish I Said](https://open.spotify.com/track/3YiJTHHwxVxZL1mL2rmOFc) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Things I Wish I Said](https://open.spotify.com/album/3bjK2UQH0hiWCiYI9QFog9) | 3:46 |
-| 141 | [See The World](https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [See The World](https://open.spotify.com/album/6bukwAKaGfaderNGId0b1e) | 3:44 |
+| 136 | [See The World](https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [See The World](https://open.spotify.com/album/6bukwAKaGfaderNGId0b1e) | 3:44 |
+| 137 | [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 |
+| 138 | [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 |
+| 139 | [NO LIES](https://open.spotify.com/track/4knf2ZPO6w5KlqfXG5Wj4y) | [zions.camp](https://open.spotify.com/artist/0h5D9wagd5zMNuVVBnUtng) | [NO LIES](https://open.spotify.com/album/3waPigay3Up5wvSYI1TGQt) | 3:39 |
+| 140 | [Mood](https://open.spotify.com/track/7JANWjf0KPaNP3v2MI26Fz) | [AZSH](https://open.spotify.com/artist/6SJWwH5V8b6FYeISMPY13u) | [Mood](https://open.spotify.com/album/0L9sIht9F9hUrNSP9LgrdS) | 2:59 |
+| 141 | [The Things I Wish I Said](https://open.spotify.com/track/3YiJTHHwxVxZL1mL2rmOFc) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Things I Wish I Said](https://open.spotify.com/album/3bjK2UQH0hiWCiYI9QFog9) | 3:46 |
 | 142 | [Purple Fog](https://open.spotify.com/track/1875SOvAgcm7XgcJzUcigr) | [Electronic Ghost Machine](https://open.spotify.com/artist/71ziaQGPpNbEeUWkxB621i) | [Purple Fog](https://open.spotify.com/album/3mXFHLoB1DzZJjI2vM94AD) | 3:23 |
 | 143 | [Feel Loved \- Piano Solo](https://open.spotify.com/track/50H3hwlivXkBpMLJhyMakh) | [Jade Ashtangini](https://open.spotify.com/artist/17PiYKoaZCMCi0O1Tfy2UN) | [Feel Loved](https://open.spotify.com/album/3w454UbKUD4u7vxgqw6YJ2) | 4:44 |
 | 144 | [What Comes Around](https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [What Comes Around](https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV) | 3:29 |
 
-Snapshot ID: `MzI2Myw1OGJiZjc5MjVjOWIzODUzZjJjNThmYjE3ZjIyOGUxMjc0YWJlOGY5`
+Snapshot ID: `MzI2NCw3YTE2ZmZlZDczYThjNDkwZTg4MzM0NmI5NmU3Yjk5MjlkNDFlYWUz`

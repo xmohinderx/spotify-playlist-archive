@@ -4,7 +4,7 @@
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-194 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/0ZTvaGdY3PACa8LPz6dQs6)
+195 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/0ZTvaGdY3PACa8LPz6dQs6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Super Charger Heaven](https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 3:37 | 2022-03-17 |  |
 | [Sweet Lover Hangover](https://open.spotify.com/track/6RiySuHE6JfFgI4HptZaVF) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sweet F.A.](https://open.spotify.com/album/0DkvvGFFhV08ycUb610gt5) | 5:06 | 2022-03-17 | 2022-07-29 |
 | [Sword of Damocles \(Externally\)](https://open.spotify.com/track/31vN3W1IAaqpB06ULQXr4I) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Magic and Loss](https://open.spotify.com/album/6pLw7L0SJKLbw33haj10of) | 3:42 | 2022-03-17 | 2022-07-29 |
-| [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 | 2022-03-17 |  |
+| [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 | 2022-03-17 | 2022-08-03 |
 | [Talk Show Host](https://open.spotify.com/track/2sy0icOIskeP2lCqgZiTyE) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/4KzKj6JMBbIQ4QhbF3uQNR) | 4:41 | 2022-03-17 | 2022-07-29 |
 | [The 13th \- Swing Radio Mix](https://open.spotify.com/track/71S3nx18dEQCOvTOAnuvNw) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 4:06 | 2022-03-17 | 2022-07-15 |
 | [The Garden](https://open.spotify.com/track/4AIDG8oQzGYqnr6v01f8i5) | [Einstürzende Neubauten](https://open.spotify.com/artist/7KomCxZv6D5qCVvefwMnwB) | [Ende neu](https://open.spotify.com/album/3q5fUBRlV64ntCAeqtQPH1) | 5:10 | 2022-03-17 | 2022-07-27 |
@@ -191,6 +191,7 @@
 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 | 2022-03-17 |  |
 | [Velouria](https://open.spotify.com/track/0lBO2VOhlNNx879Fjd9XY3) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8) | 3:40 | 2022-03-17 |  |
 | [Venus As A Boy](https://open.spotify.com/track/0NNgY2gc1TUwBQoVp98Fxw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 4:42 | 2022-03-17 | 2022-07-29 |
+| [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 | 2022-03-17 |  |
 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 | 2022-03-17 |  |
 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 | 2022-03-17 |  |
 | [Weeds](https://open.spotify.com/track/7mH8nac0FCdP0FYGwo3OIx) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [The Complete Roadrunner Collection 1993\-2000](https://open.spotify.com/album/108e0G0azaY6tk37IJVmPF) | 4:09 | 2022-03-17 | 2022-07-25 |

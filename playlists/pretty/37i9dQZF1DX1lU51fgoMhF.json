@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 100611,
+  "num_followers": 100792,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkxMzg2NCwwMDAwMDAwMDAxZGM1OTc1M2MwZGI3ZjNkM2NjOTJmMjQ0MGM1YTcy",
+  "snapshot_id": "MTY1ODkxMzg2NCwwMDAwMDAwMGQ5NzUwMTBiNjVhN2U1ZDFlZGQwNjdiNzUxYjQyZWM3",
   "tracks": [
     {
       "added_at": "2022-07-27 09:24:24",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "I-LAND Part.1 Signal Song",
-        "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 217322,
-      "name": "Into the I-LAND",
-      "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
-    },
-    {
-      "added_at": "2022-07-27 09:24:24",
-      "album": {
         "name": "4 Walls - The 4th Album",
         "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 207477,
       "name": "4 Walls",
       "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
+    },
+    {
+      "added_at": "2022-07-27 09:24:24",
+      "album": {
+        "name": "I-LAND Part.1 Signal Song",
+        "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 217322,
+      "name": "Into the I-LAND",
+      "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "Why - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 207777,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
-    },
-    {
-      "added_at": "2022-07-27 09:24:24",
-      "album": {
         "name": "I Don't Miss You",
         "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 172634,
       "name": "I Don't Miss You",
       "url": "https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN"
+    },
+    {
+      "added_at": "2022-07-27 09:24:24",
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 207777,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "IN ITS TIME",
-        "url": "https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D"
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
       },
       "artists": [
         {
-          "name": "ONEUS",
-          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 213293,
-      "name": "A Song Written Easily",
-      "url": "https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0"
+      "duration_ms": 197101,
+      "name": "Dynamite - Tropical Remix",
+      "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
+        "name": "IN ITS TIME",
+        "url": "https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "A Song Written Easily",
+      "url": "https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0"
+    },
+    {
+      "added_at": "2022-07-27 09:24:24",
+      "album": {
         "name": "THE FIRST STEP : TREASURE EFFECT",
         "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 204493,
       "name": "COME TO ME",
       "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
-    },
-    {
-      "added_at": "2022-07-27 09:24:24",
-      "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 197101,
-      "name": "Dynamite - Tropical Remix",
-      "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 205080,
-      "name": "B.L.T (BLING LIKE THIS)",
-      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
+      "duration_ms": 202400,
+      "name": "AYAYAYA",
+      "url": "https://open.spotify.com/track/4XKCLNyCTvtdkLu5O1mzTU"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
+        "name": "undergrOund idOl #1",
+        "url": "https://open.spotify.com/album/0sFrv9JullsE1BoyDUcct5"
       },
       "artists": [
         {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+          "name": "YooJung",
+          "url": "https://open.spotify.com/artist/4DBCD06KeXIRQdxw6gxaED"
         }
       ],
-      "duration_ms": 202400,
-      "name": "AYAYAYA",
-      "url": "https://open.spotify.com/track/4XKCLNyCTvtdkLu5O1mzTU"
+      "duration_ms": 203413,
+      "name": "begin",
+      "url": "https://open.spotify.com/track/4iPtWqoxXClW0Y6IXhMeGJ"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "undergrOund idOl #1",
-        "url": "https://open.spotify.com/album/0sFrv9JullsE1BoyDUcct5"
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
       },
       "artists": [
         {
-          "name": "YooJung",
-          "url": "https://open.spotify.com/artist/4DBCD06KeXIRQdxw6gxaED"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 203413,
-      "name": "begin",
-      "url": "https://open.spotify.com/track/4iPtWqoxXClW0Y6IXhMeGJ"
+      "duration_ms": 205080,
+      "name": "B.L.T (BLING LIKE THIS)",
+      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "THANK YOU",
-        "url": "https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd"
-    },
-    {
-      "added_at": "2022-07-27 09:24:24",
-      "album": {
         "name": "Summer Magic - Summer Mini Album",
         "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 196093,
       "name": "Blue Lemonade",
       "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
+    },
+    {
+      "added_at": "2022-07-27 09:24:24",
+      "album": {
+        "name": "THANK YOU",
+        "url": "https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1575,18 +1575,22 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "<Queendom2> FANtastic QUEENDOM 1-1",
-        "url": "https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw"
+        "name": "Season Songs",
+        "url": "https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ"
       },
       "artists": [
         {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        },
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 243080,
-      "name": "BOP BOP! - Highteen Version",
-      "url": "https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg"
+      "duration_ms": 242062,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
     },
     {
       "added_at": "2022-07-27 09:24:24",
@@ -1607,22 +1611,18 @@
     {
       "added_at": "2022-07-27 09:24:24",
       "album": {
-        "name": "Season Songs",
-        "url": "https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ"
+        "name": "<Queendom2> FANtastic QUEENDOM 1-1",
+        "url": "https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw"
       },
       "artists": [
         {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        },
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
         }
       ],
-      "duration_ms": 242062,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
+      "duration_ms": 243080,
+      "name": "BOP BOP! - Highteen Version",
+      "url": "https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg"
     },
     {
       "added_at": "2022-07-27 09:24:24",

@@ -4,7 +4,7 @@
 
 > maggie :\)
 
-1,765 songs - 3 day 22 hr 23 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,766 songs - 3 day 22 hr 27 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,6 +870,7 @@
 | [Killing Me](https://open.spotify.com/track/4rXfbIpiDnGxZYIflm8LSQ) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 2:45 | 2022-03-25 | 2022-06-10 |
 | [Kindergarten](https://open.spotify.com/track/3AOcvuNATM2cnmsNf1q0T9) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Kindergarten](https://open.spotify.com/album/4WFmbiXl83NHKlqQqrPXSj) | 2:25 | 2020-01-10 | 2020-02-21 |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 | 2021-07-31 |
+| [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-08-02 |  |
 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 | 2020-05-29 | 2021-01-12 |
 | [Kneepads](https://open.spotify.com/track/4nrMhdklAbLUkHRv1H7YkA) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Welcome to the Witching Hour](https://open.spotify.com/album/2gUR7ulwZBk5lmGHkwlhKX) | 2:35 | 2021-03-19 | 2021-11-13 |
 | [Know You](https://open.spotify.com/track/4O0BeqEIU7KU2l8gQiO1eD) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Know You](https://open.spotify.com/album/6vkyH88dDtIfuhLNYXerEZ) | 3:25 | 2020-09-10 | 2021-04-10 |

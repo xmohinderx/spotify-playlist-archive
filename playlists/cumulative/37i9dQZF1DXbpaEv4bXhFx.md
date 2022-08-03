@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-170 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+171 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Far Away](https://open.spotify.com/track/4bI1kJbK5zlDcVeQMZHKqF) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [Far Away](https://open.spotify.com/album/6dWlDMgIjef6cuGCWrVaQF) | 3:44 | 2022-06-20 | 2022-07-27 |
 | [Fine](https://open.spotify.com/track/4QaqH8QPjz88z79Vo8tpEc) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/2KKDysbROKOvoGMokZADLZ) | 4:11 | 2022-06-20 | 2022-07-28 |
 | [Fool to love](https://open.spotify.com/track/19TtVbXac6lLGtnpjMPAgK) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [How can I repay you?](https://open.spotify.com/album/2T1vUDzdwWSh6Zi8l0p44B) | 2:44 | 2022-07-13 | 2022-07-18 |
-| [Fool to love \(feat\. RIPLEY\)](https://open.spotify.com/track/4wHCW3I1Q6DO2oKVsK0ZYV) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Seoul Vibes, Pt\. 1](https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL) | 2:44 | 2022-07-22 |  |
+| [Fool to love \(feat\. RIPLEY\)](https://open.spotify.com/track/4wHCW3I1Q6DO2oKVsK0ZYV) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Seoul Vibes, Pt\. 1](https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL) | 2:44 | 2022-07-22 | 2022-08-03 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-20 | 2022-07-05 |
 | [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 | 2022-06-20 | 2022-07-29 |
 | [Full Moon](https://open.spotify.com/track/0TVNwwR03yg6MvkDn12Oy3) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 4:34 | 2022-06-29 | 2022-07-20 |
@@ -109,6 +109,7 @@
 | [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2022-06-20 |  |
 | [On A Rainy Night](https://open.spotify.com/track/1t6AYmReZJdCcbKLUjGCWQ) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [On A Rainy Night](https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou) | 4:09 | 2022-07-04 | 2022-07-26 |
 | [One another \- 2020](https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [One another \(2020\)](https://open.spotify.com/album/2bxPT0H1Dxyp0TIvjV5aP7) | 3:26 | 2022-06-29 | 2022-07-27 |
+| [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-08-02 |  |
 | [Orchid](https://open.spotify.com/track/3SHWZfmeWMQ7nummOHjtLP) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [Orchid](https://open.spotify.com/album/5bgIq10LAmMuagnq8qOmiZ) | 4:05 | 2022-07-04 | 2022-07-06 |
 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 | 2022-06-20 |  |
 | [Overflow](https://open.spotify.com/track/4zf4gt42CLmQXakI2jzfy4) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Overflow](https://open.spotify.com/album/1nwb0n8emaeZ6Y7CnA8TLh) | 3:29 | 2022-07-22 |  |

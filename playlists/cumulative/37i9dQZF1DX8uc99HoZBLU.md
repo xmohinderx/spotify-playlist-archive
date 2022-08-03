@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🌸
 
-248 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+249 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-01-07 | 2022-05-20 |
 | [ANGELS](https://open.spotify.com/track/3G9jKbMCdrM7dxm0drQSPT) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [ANGELS](https://open.spotify.com/album/25gUoWHFpSX9uzZ4paaSjl) | 4:14 | 2021-07-19 | 2022-04-19 |
 | [animal crossing \~ new horizons lofi](https://open.spotify.com/track/3LQTJhA1bJpKNwEzwpdJzk) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [animal crossing \~ new horizons lofi](https://open.spotify.com/album/0z0eXgUqLEI4SxJt30cU33) | 1:07 | 2021-06-08 | 2022-04-21 |
+| [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-08-02 |  |
 | [april leaves](https://open.spotify.com/track/5dePr02a5xgNXRJ6rh8Ga7) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [april leaves](https://open.spotify.com/album/1yxUtcQMSvd772owmtKw0o) | 2:06 | 2021-08-13 | 2022-04-18 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2022-06-07 |  |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2022-01-18 |  |
@@ -249,7 +250,7 @@
 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/12PPtN6iHLnPVKuVzxfWSM) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/5ZCMai7DaHxnFV5A1nG3RV) | 2:37 | 2021-06-08 | 2022-04-19 |
 | [worldstar money \(interlude\)](https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues](https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315) | 2:06 | 2021-06-08 |  |
 | [Y U Gotta B Like That](https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Y U Gotta B Like That](https://open.spotify.com/album/7ErSfjONTrLqmvrJanrtcK) | 2:34 | 2021-06-08 | 2022-04-20 |
-| [Yellow Hearts](https://open.spotify.com/track/2W4yABdLc4Jnds67Poi5Nl) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Yellow Hearts](https://open.spotify.com/album/7L5mva8yC5ctamvs4XzgpR) | 3:43 | 2021-06-08 |  |
+| [Yellow Hearts](https://open.spotify.com/track/2W4yABdLc4Jnds67Poi5Nl) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Yellow Hearts](https://open.spotify.com/album/7L5mva8yC5ctamvs4XzgpR) | 3:43 | 2021-06-08 | 2022-08-03 |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-07-19 |  |
 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2021-06-08 | 2022-07-29 |
 | [YOU \- Coco & Clair Clair Remix](https://open.spotify.com/track/6WnozB8Y76qj49Mnz0RERY) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [YOU \(Coco & Clair Clair Remix\)](https://open.spotify.com/album/4LoUXoZQM2c2Jht9ulRMDv) | 4:03 | 2021-06-25 | 2022-06-13 |

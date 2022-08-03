@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Beyoncé, Jorge & Mateus, Wesley Safadão e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763,108 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763,161 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 20 | [OnlyFans](https://open.spotify.com/track/5K8xPP1cnNU6sOd3JLp7Ak) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Bel4triz](https://open.spotify.com/artist/0QmA5E0b0M6klwF9QYwzc4), [Caju Clã](https://open.spotify.com/artist/1zCRmLWPpfEQTERVLcOhnz) | [OnlyFans](https://open.spotify.com/album/4xXXP9J3z6kylevnAGUGte) | 2:32 |
 | 21 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
 | 22 | [Doce Veneno](https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Doce Veneno](https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl) | 3:28 |
-| 23 | [Tiffany](https://open.spotify.com/track/4QX6kQ5616qedOdz8zrpYj) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Tiffany](https://open.spotify.com/album/0yWe0pyie143l16s9PAdGX) | 2:13 |
+| 23 | [Tiffany](https://open.spotify.com/track/4QX6kQ5616qedOdz8zrpYj) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Tiffany](https://open.spotify.com/album/0yWe0pyie143l16s9PAdGX) | 2:07 |
 | 24 | [O Brabo](https://open.spotify.com/track/0IVxFiE9WoB13uToxbGiet) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [DENNIS Apresenta: Funk Now! Vol\. 4](https://open.spotify.com/album/1LFGVN1PyEH6PfXaotm9qv) | 1:59 |
 | 25 | [Deixa](https://open.spotify.com/track/4OcboyogThPUuHeW5S7VNu) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Deixa](https://open.spotify.com/album/0pxfNIlzMUV66oP4ZO8qVo) | 2:34 |
 | 26 | [Senta e Chora](https://open.spotify.com/track/3mAqgpGAv5tT6B66FNJg83) | [Shark](https://open.spotify.com/artist/1MIG0PfunDzHfQkTMiWsbY), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [DJ Maia](https://open.spotify.com/artist/16GSZJdhDf0yPEtQbHj21e) | [Senta e Chora](https://open.spotify.com/album/3OXg9ueehDmouSOZNxZ58i) | 2:14 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 88 | [Acting Out](https://open.spotify.com/track/6cl0ieHDLRncer6S1Lkcc6) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Alpha Games \(Deluxe\)](https://open.spotify.com/album/7ao5TcY1WmEfbl9q38ZGLP) | 2:47 |
 | 89 | [DECIME QUE ES VERDAD](https://open.spotify.com/track/4VFPqkCuTS1tQpbnsSot2q) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [DECIME QUE ES VERDAD](https://open.spotify.com/album/4i8OR2mfwrByhnfTF4rXNP) | 3:04 |
 | 90 | [Guarda\-Chuva](https://open.spotify.com/track/6lTnB1dx8LanGYTRdC4F2W) | [Sandro](https://open.spotify.com/artist/2I72QcB2NcskfukdmV9sog) | [Guarda\-Chuva](https://open.spotify.com/album/1w2POqZlDuMvt0gNBQEIVA) | 3:03 |
-| 91 | [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 |
+| 91 | [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 |
 | 92 | [Aguenta o Sofrimento](https://open.spotify.com/track/1fGQYggHxscWV3LZDdoOcZ) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Aguenta o Sofrimento](https://open.spotify.com/album/6UR3uayIt7lSK0o1hAP9kE) | 2:17 |
 | 93 | [Me Devora \- Faixa Bônus](https://open.spotify.com/track/7K2siwNzBV8u4roNiJqCDw) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc) | [Sonho de Verão](https://open.spotify.com/album/7bl90gFOL9ipb7aBoY1VcR) | 3:13 |
 | 94 | [Mergulhar Sem Medo \- Ao Vivo](https://open.spotify.com/track/4AihbP8GU0hoO06lTAoFk0) | [Marco Antonio & Gabriel](https://open.spotify.com/artist/6W8lIDVtT482jEILmtOYj3), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Mergulhar Sem Medo \(Ao Vivo\)](https://open.spotify.com/album/7zBeCceNbXBsi2PSobyHRU) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Nem Sonhando](https://open.spotify.com/track/1WtctDIaHaZuGC3JSpihEJ) | [Letícia Amaral](https://open.spotify.com/artist/0FT3CY18NOLZIsbnpjtLbR) | [Nem Sonhando](https://open.spotify.com/album/4o8vTN95Np1aTA2uYDKv4t) | 3:28 |
 | 100 | [Papai do Céu \- Ao Vivo](https://open.spotify.com/track/49EhEiHuWnZ3qmWpdHzehB) | [Leandro & Romário](https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk) | [Papai do Céu \(Ao Vivo\)](https://open.spotify.com/album/3cxMn30XxCc3crtnfQh1YK) | 3:17 |
 
-Snapshot ID: `MTY1OTExNzI3NiwwMDAwMDAwMDM4Y2FmZTVmZmFmMDhiNzg4M2U5ODc4ZTBlZjhlNjM2`
+Snapshot ID: `MTY1OTExNzI3NiwwMDAwMDAwMGVjOWVhNWY1MGVlMTgxNmQ4MWJmZDgyZWFjZTQzMmNk`

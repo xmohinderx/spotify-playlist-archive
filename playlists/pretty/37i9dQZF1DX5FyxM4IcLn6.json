@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121517,
+  "num_followers": 121514,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDNlZDQ4YzBlMTMwYzE0OWM4NDA2YzllMDc4YjM1NGMx",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDQ3OWExNjJiYjhlZTUwMmIwYzkwM2ZiNDE0YTU4NWQ3",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
+        "name": "Shockwave",
+        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 181283,
+      "name": "Shockwave",
+      "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
         "name": "Studying Abroad: Extended Stay",
         "url": "https://open.spotify.com/album/1S0yIZRDiFmqCQyTIEV175"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 228453,
       "name": "Mystery Lady",
       "url": "https://open.spotify.com/track/0bkTdkWwGk3OGFX0afD3Wj"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
-        "name": "Shockwave",
-        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 181283,
-      "name": "Shockwave",
-      "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "Renewal",
-        "url": "https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Love And Regret",
-      "url": "https://open.spotify.com/track/0BdSxc3R86Jw7wOToh19b8"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 358601,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Love And Regret",
+      "url": "https://open.spotify.com/track/0BdSxc3R86Jw7wOToh19b8"
     },
     {
       "added_at": "2022-03-29 22:42:51",

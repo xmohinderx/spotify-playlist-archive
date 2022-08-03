@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 180000,
       "name": "Adicto",
       "url": "https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe"
@@ -1515,6 +1515,32 @@
       "duration_ms": 148000,
       "name": "INESTABLE",
       "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
+    },
+    {
+      "album": {
+        "name": "JetLag",
+        "url": "https://open.spotify.com/album/1mRE5D3tfO0IcMimnUOxbu"
+      },
+      "artists": [
+        {
+          "name": "Milkman",
+          "url": "https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2"
+        },
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269720,
+      "name": "JetLag",
+      "url": "https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD"
     },
     {
       "album": {

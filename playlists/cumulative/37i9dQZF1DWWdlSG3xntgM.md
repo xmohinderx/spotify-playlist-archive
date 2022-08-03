@@ -4,7 +4,7 @@
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-166 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/5boFF0xUKGFIqrQ0wirWdC)
+167 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/5boFF0xUKGFIqrQ0wirWdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Hoa Su Nha Nang](https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR) | [Tuan Vu](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Hoa Su Nha Nang](https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J) | 4:25 | 2022-03-11 |  |
 | [Hoa Sứ Nhà Nàng](https://open.spotify.com/track/43APdgwOeZpEpcYTfF72PI) | [Phương Ý](https://open.spotify.com/artist/39rzQretQQ5JFkeigPdhcg) | [Hoa Sứ Nhà Nàng](https://open.spotify.com/album/0dPjehd82d078PcsNzsUpr) | 4:14 | 2022-03-11 |  |
 | [Hoa Trinh Nu](https://open.spotify.com/track/0EGuK62gQnsEInKrZJDLit) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Hoa Trinh Nu](https://open.spotify.com/album/0be56wmjw8cGB1dMsp8wlF) | 5:30 | 2022-03-11 | 2022-07-29 |
+| [Hoa Trinh Nữ](https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Hoa Trinh Nữ \(The Best Of Chế Linh 1\)](https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0) | 5:29 | 2022-03-11 |  |
 | [Hoa Trinh Nữ](https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:59 | 2022-03-11 |  |
 | [Hoa Trinh Nữ](https://open.spotify.com/track/10Zelr7nNZECVLeB9aNz2o) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Hoa Trinh Nữ](https://open.spotify.com/album/2KrC9icGI6gZ8pyC4Z1N0A) | 6:17 | 2022-03-11 | 2022-07-28 |
 | [Hồn Trinh Nữ](https://open.spotify.com/track/63ARxrKTXP3AXmcas34U7S) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Hồn Trinh Nữ](https://open.spotify.com/album/1QzEsp11RmZmLG0fRnUMrJ) | 5:01 | 2022-03-11 | 2022-07-27 |
@@ -151,7 +152,7 @@
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/0HJ3DgU82FaR4XuihYeTAb) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS) | 4:23 | 2022-03-11 |  |
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/1WCix14XoBrfdopN3BRYMJ) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5iARlHWbiqMDnGbF9CAVv1) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [Về đâu mái tóc người thương](https://open.spotify.com/track/7k6LqKjAXIZCB25smEGjpK) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [LiveShow Duyên phận](https://open.spotify.com/album/0pASS53YcZ5uYXIDhtdrgX) | 4:43 | 2022-03-11 | 2022-07-29 |
-| [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 | 2022-03-11 |  |
+| [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 | 2022-03-11 | 2022-08-03 |
 | [Xin Goi Nhau La Co Nhan](https://open.spotify.com/track/2aSz0b9gg8M52dko2mHLMd) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Sau Le Bong](https://open.spotify.com/album/6UgPVriOZBCkmu511zjNeH) | 4:07 | 2022-03-11 | 2022-07-22 |
 | [Xin Gọi Nhau Là Cố Nhân](https://open.spotify.com/track/7wcquJ59FWYUYX0xa8ujHJ) | [Bằng Kiều](https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya), [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Lại Nhớ Người Yêu](https://open.spotify.com/album/2UaWWKsvIQ1lqZTZSmNqs6) | 5:07 | 2022-03-11 |  |
 | [Xin Gọi Nhau Là Cố Nhân](https://open.spotify.com/track/3B8HhgtNJfhomdlASRAcTe) | [Huu Khuong](https://open.spotify.com/artist/1d56VqB4AyC2yy0YyeKd5Z) | [Xin Gọi Nhau Là Cố Nhân](https://open.spotify.com/album/0D8l8HfTcF5RkQ26TAhy80) | 5:02 | 2022-03-11 | 2022-07-27 |

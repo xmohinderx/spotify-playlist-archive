@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 
 > Celebra el amor igualitario con una fina selección hecha por Sobrino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,361 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,363 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 | 22 | [Babylon](https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:41 |
 | 23 | [LOST IN THE CITADEL](https://open.spotify.com/track/6th8IdY4lYeM0QlSQJhhkp) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:50 |
 | 24 | [Pero Qué Necesidad](https://open.spotify.com/track/5rycwubN7We1zdSDM1ZABW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:54 |
-| 25 | [El Alma Que Te Trajo](https://open.spotify.com/track/5pGz6FrmpHjOuso83azbik) | [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [El Alma Que Te Trajo](https://open.spotify.com/album/7J9BzqMQTX0ne8M8dn57Uo) | 2:24 |
-| 26 | [I Like That](https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:20 |
+| 25 | [I Like That](https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:20 |
+| 26 | [El Alma Que Te Trajo](https://open.spotify.com/track/5pGz6FrmpHjOuso83azbik) | [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [El Alma Que Te Trajo](https://open.spotify.com/album/7J9BzqMQTX0ne8M8dn57Uo) | 2:24 |
 | 27 | [CUUUUuuuuuute](https://open.spotify.com/track/3BQPPsoxlhuSIEPlNRHHZt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:30 |
 | 28 | [Curious](https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:03 |
 | 29 | [Anna Wintour](https://open.spotify.com/track/5Pm7KrSKkDj37SZoMYyXDX) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/6CdoZyh1IJzKRs7tw5WM8e) | 4:33 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 | 42 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 |
 | 43 | [Born Yesterday](https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Born Yesterday](https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi) | 3:18 |
 
-Snapshot ID: `MTY1NjU0NjIxNywwMDAwMDAwMDZiZTVmNjlmYmZhODcyY2M5Y2VmMTAxNTcxZmY2OWUz`
+Snapshot ID: `MTY1NjU0NjIxNywwMDAwMDAwMGViZjY3ZDBkZmZjMGQ2MmM1Yjc4OTk0Zjk0Mjc3YTRh`

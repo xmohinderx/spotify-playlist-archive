@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 130115,
+  "num_followers": 130438,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDY2OTRjMmU2MTBhMGM3ZTI2OWEzN2Q3MDYzODdmMzFj",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGZiNDcxNWM1M2MyZGFmOTcyOTUwYzBmZmI5YjBlODg0",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -529,24 +529,20 @@
       "url": "https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2022-04-15 04:01:00",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
         }
       ],
-      "duration_ms": 191552,
-      "name": "Stay Away",
-      "url": "https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU"
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
       "added_at": "2021-08-02 16:49:06",
@@ -569,22 +565,6 @@
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "Good Thing",
@@ -599,6 +579,26 @@
       "duration_ms": 242520,
       "name": "Mrs.",
       "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 191552,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Sure Don't Miss You",
+      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
+    },
+    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "If Words Were Flowers",
@@ -1141,20 +1157,20 @@
       "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "Big Crown Vaults Vol. 1 - Lee Fields & The Expressions",
-        "url": "https://open.spotify.com/album/2uKHclIQ4IphYCgJyKfSCe"
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+          "name": "The Buttshakers",
+          "url": "https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ"
         }
       ],
-      "duration_ms": 212939,
-      "name": "Regenerate",
-      "url": "https://open.spotify.com/track/6eFsavqVXRlyeSnlX75pc4"
+      "duration_ms": 156733,
+      "name": "Hear Me",
+      "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -1177,36 +1193,20 @@
       "url": "https://open.spotify.com/track/3vlu7Y9U9HXxqSmQecmKhZ"
     },
     {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv"
-      },
-      "artists": [
-        {
-          "name": "The Buttshakers",
-          "url": "https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Hear Me",
-      "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+        "name": "Big Crown Vaults Vol. 1 - Lee Fields & The Expressions",
+        "url": "https://open.spotify.com/album/2uKHclIQ4IphYCgJyKfSCe"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
         }
       ],
-      "duration_ms": 174520,
-      "name": "Sure Don't Miss You",
-      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
+      "duration_ms": 212939,
+      "name": "Regenerate",
+      "url": "https://open.spotify.com/track/6eFsavqVXRlyeSnlX75pc4"
     }
   ],
   "unique_name": "Retro Soul",

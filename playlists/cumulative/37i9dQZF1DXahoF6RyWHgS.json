@@ -784,6 +784,24 @@
     },
     {
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4JLsT6tXhYeLyCoLergAbL"
+      },
+      "artists": [
+        {
+          "name": "Tintan",
+          "url": "https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93920,
+      "name": "El Panadero",
+      "url": "https://open.spotify.com/track/6IjAh2dTUyoCeLy0KrmdVl"
+    },
+    {
+      "album": {
         "name": "Concierto en Vivo (Vienna, Austria)",
         "url": "https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll"
       },
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 181864,
       "name": "Oracion Caribe",
       "url": "https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr"

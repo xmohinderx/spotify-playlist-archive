@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-287 songs - 1 day 6 hr 15 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+288 songs - 1 day 6 hr 22 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 |  |
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 |  |
 | [Canto del Pilón \- Meines Remix](https://open.spotify.com/track/4eGGJGQY0UUx7lrPG2Y3Ww) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Meines](https://open.spotify.com/artist/58J4dcCu15dtqMbtQu94K3) | [Milk & Sugar Summer Sessions 2021](https://open.spotify.com/album/4ASxdmE6WZosAoxv2FkjVs) | 3:49 | 2021-07-02 | 2022-04-21 |
+| [Caramel](https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Caramel](https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC) | 7:28 | 2022-07-28 |  |
 | [Cascada](https://open.spotify.com/track/5M5Lwtcha7fE8UQwSzIhjS) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Cascada](https://open.spotify.com/album/3pp75bcu0VJzigYnGfqcZd) | 4:38 | 2022-07-01 | 2022-07-22 |
 | [Chaka \- Edit](https://open.spotify.com/track/4GGVpoLeVtvzJZyhV6J307) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Chaka / Viola](https://open.spotify.com/album/4L6q8ALQXky8iGVECuiRoP) | 3:20 | 2021-04-21 |  |
 | [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 | 2021-06-25 |  |
@@ -141,7 +142,7 @@
 | [Lacuna](https://open.spotify.com/track/4VObi381kNC7Fy14jybcBY) | [Matthias Meyer](https://open.spotify.com/artist/6bWakzaLHaNewLTdhJHPQb), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Lacuna EP](https://open.spotify.com/album/37XzyS2RTfnNnaSUVD49gn) | 7:27 | 2021-04-21 | 2022-04-21 |
 | [Lanarka](https://open.spotify.com/track/3CoXzpJExs6A23Y9r8WM4c) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Lanarka / Sablier](https://open.spotify.com/album/0xNfGRZHfkfMdTanJfdcdn) | 9:28 | 2021-04-21 |  |
 | [Late Reflections](https://open.spotify.com/track/3YGDl5T8GTpS3z0QtYmtSv) | [Curt Reynolds](https://open.spotify.com/artist/51PSlMHvG1HCInKyLVHMu1) | [Late Reflections](https://open.spotify.com/album/50payYIEJGNTgFYGzUQ9k4) | 6:03 | 2021-10-29 | 2022-07-26 |
-| [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-04-21 |  |
+| [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-04-21 | 2022-08-03 |
 | [Leaving Home](https://open.spotify.com/track/2S3UsA5sFyCGdpdWqkusTe) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 6:28 | 2021-04-21 | 2022-07-23 |
 | [Lepiej nie mówmy nikomu](https://open.spotify.com/track/6Bw5TLTJbwONfD2li10UBb) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Lepiej nie mówmy nikomu](https://open.spotify.com/album/659TQGieS3UFvTK6UyvEBz) | 5:45 | 2022-07-01 | 2022-07-26 |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |

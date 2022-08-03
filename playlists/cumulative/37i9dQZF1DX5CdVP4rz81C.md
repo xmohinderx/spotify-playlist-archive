@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Clinton Kane
 
-880 songs - 1 day 22 hr 25 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+882 songs - 1 day 22 hr 33 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 |  |
 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 | 2020-10-13\* | 2020-10-23 |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-10-02 |
+| [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-08-03 |  |
 | [avalanche](https://open.spotify.com/track/1RlmAzI27AlIpvoRN3u6Iy) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [avalanche](https://open.spotify.com/album/0ISJeQO2OoleGkf5ZxNyuE) | 3:19 | 2021-06-26 | 2021-09-18 |
 | [Awe Of Her](https://open.spotify.com/track/2jbawahJUqTV2LuWQoRpJz) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Grow](https://open.spotify.com/album/6eHRbnNQfCYTOL2biwnl4e) | 2:45 | 2021-09-18 | 2021-10-23 |
 | [Back To You](https://open.spotify.com/track/0GlO3iD7ParRcxXPRz6o04) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Back To You](https://open.spotify.com/album/1Pk2SrspKEgZnyqT0wO5V6) | 2:40 | 2021-12-11 | 2022-03-12 |
@@ -86,6 +87,7 @@
 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 | 2021-05-20 | 2021-09-04 |
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-03 | 2022-07-16 |
 | [Before You Let Me Go](https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/27MYJxaKPIzlzwozxVyo2t) | 3:42 | 2021-03-14 | 2021-04-24 |
+| [Begging for Rain](https://open.spotify.com/track/7GZsRf95nGjdm5APIdS2iM) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:13 | 2022-08-03 |  |
 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/2kFHjWko1il6O9L3eK9IzG) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Beginning Middle End \(From The Netflix Film "To All The Boys: Always and Forever"\)](https://open.spotify.com/album/4swfwUj2JmvWtXll9wtsjn) | 3:14 | 2021-02-12 | 2021-04-17 |
 | [Bentley Coupe](https://open.spotify.com/track/7aksJRV1H0pCds7FSiZ8ZI) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Bentley Coupe](https://open.spotify.com/album/4Zn6SD7Y9nDM2MEFjEj8Sp) | 2:54 | 2022-06-17 | 2022-07-02 |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2021-09-25 | 2022-01-15 |
@@ -217,7 +219,7 @@
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-30 | 2021-11-20 |
 | [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-07-04 | 2021-08-14 |
 | [Don't Blame It On Love](https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Don't Blame It On Love](https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv) | 3:17 | 2021-06-26 | 2021-08-14 |
-| [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-06-01 |  |
+| [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-06-01 | 2022-08-03 |
 | [Don't Forget About Me](https://open.spotify.com/track/3jHpysHZfu05A8NjzHCxjc) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/3QUvaJGV0GPdSTxjP5TjDH) | 3:26 | 2020-11-06 | 2021-05-08 |
 | [Don't Go, Don't Leave](https://open.spotify.com/track/3Cg9Ds1CWQUGuQoQ9QvjDl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Don’t Go, Don’t Leave](https://open.spotify.com/album/6AYpseGYHB6Pmln8Wvcsey) | 3:15 | 2022-07-29 |  |
 | [Don't Let The Neighbourhood Hear](https://open.spotify.com/track/44UlqXgZRcPke5vMebfzym) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Don’t Let The Neighbourhood Hear](https://open.spotify.com/album/57lKuhB7vBXhnDDucoYDNJ) | 4:21 | 2021-10-02 | 2021-10-16 |

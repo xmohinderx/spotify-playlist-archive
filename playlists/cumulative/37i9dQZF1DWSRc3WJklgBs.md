@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-964 songs - 2 day 9 hr 6 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+965 songs - 2 day 9 hr 10 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Cold Outside](https://open.spotify.com/track/66OY9kYa77umREySSowO3F) | [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik), [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN) | [Cold Outside](https://open.spotify.com/album/5s7IzPerZMYrbcyAwpu4WH) | 3:39 | 2019-08-09\* | 2020-03-29 |
 | [Collateral Effects \- Radio Mix](https://open.spotify.com/track/2A6co9QZzc0JAZhhmTWTkl) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Collateral Effects](https://open.spotify.com/album/6plb9QHJFTx0EJkillQ1HQ) | 3:21 | 2019-08-09\* | 2019-08-27 |
 | [Colors](https://open.spotify.com/track/70nNSO7MKo0E1ZJsMy0SKT) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Colors](https://open.spotify.com/album/1J6CK2IgCMsUj7quZr8U3K) | 3:23 | 2019-08-31 | 2020-10-30 |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |
 | [Come Home](https://open.spotify.com/track/4T3xGrrjx4JFaLoOA49Nxz) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Tadeusz](https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP) | [Come Home](https://open.spotify.com/album/0Tgqggojp3Ww68ys5MqYM9) | 3:50 | 2022-05-27 |  |
 | [Come Together](https://open.spotify.com/track/2Vf7umz71NibHBgzU3sQav) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [The Revival, Vol\. 1](https://open.spotify.com/album/2NkaRLi1emHFYLRT2JqxbL) | 3:07 | 2020-06-04 | 2021-05-08 |
 | [Coming Alive \- Radio Edit](https://open.spotify.com/track/4gdxIgV8E1do1jjcb2WXYz) | [Arno Cost](https://open.spotify.com/artist/0BMhfbeiOrNMBzjELzbyNg), [River](https://open.spotify.com/artist/6Tv0IIQxc04NBByBlhqVjh) | [Coming Alive EP](https://open.spotify.com/album/7oURzJ65BG4AhDtb8eAZ0Z) | 2:49 | 2019-08-09\* | 2019-08-27 |

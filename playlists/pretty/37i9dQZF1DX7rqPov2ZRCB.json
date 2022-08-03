@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 52851,
+  "num_followers": 52872,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGFkODczZTA3NzgxN2U1NzJjMmE5YTZmMTJjMmRlZTBh",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDg1ZmFlOTI1NGRmNzIzMzEzNWFjYjA0MDg3MmMyMGE1",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -663,22 +663,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "\"El Cacique\" - Todo Exitos",
-        "url": "https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Por Esa Mujer",
-      "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Que Se Vaya",
         "url": "https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 268293,
       "name": "Mi Tia",
       "url": "https://open.spotify.com/track/2uQulIXKszC5YbqIVabPO5"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "\"El Cacique\" - Todo Exitos",
+        "url": "https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Por Esa Mujer",
+      "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -783,22 +783,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Mi Luz",
-        "url": "https://open.spotify.com/album/7h3BsbfpqQY1865zn3ZuDi"
-      },
-      "artists": [
-        {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Un Hombre Nuevo",
-      "url": "https://open.spotify.com/track/0RhMC8PTYKSP30ifulHocD"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Los Numero 1",
         "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 262400,
       "name": "Navidad Sin Mi Madre",
       "url": "https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Mi Luz",
+        "url": "https://open.spotify.com/album/7h3BsbfpqQY1865zn3ZuDi"
+      },
+      "artists": [
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Un Hombre Nuevo",
+      "url": "https://open.spotify.com/track/0RhMC8PTYKSP30ifulHocD"
     },
     {
       "added_at": "2019-09-09 17:49:24",

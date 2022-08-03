@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Tchotchke, Artwork: Robin Clifford Ellis
 
-766 songs - 1 day 17 hr 36 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+767 songs - 1 day 17 hr 38 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Socks](https://open.spotify.com/track/7sGlmEjFjA4EPOnKkzmqNF) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Socks](https://open.spotify.com/album/39SRNgGhCisc1xScOrpsVE) | 2:53 | 2022-05-19 | 2022-06-30 |
 | [Soft Power](https://open.spotify.com/track/7p5wJGG85WeiKdXKVaV4l7) | [Ryan Egan](https://open.spotify.com/artist/4KZ6DRKvzjGO88WvxP9c5Y) | [Soft Power](https://open.spotify.com/album/3Fc7ry8rHWwP2SuAOSkY32) | 4:23 | 2022-04-12 | 2022-05-05 |
 | [Soft Rock, Baby](https://open.spotify.com/track/6TfgwFh0bbHo2qHKPKxwR3) | [Sparklet](https://open.spotify.com/artist/001CpRGllB1jqUcc87uskk) | [Soft Rock, Baby](https://open.spotify.com/album/4PXSnXU4AzDUraoXDOHwuN) | 3:46 | 2022-03-22 | 2022-04-13 |
+| [Solo](https://open.spotify.com/track/0U3uS22zJwNgT8Zfj8qazh) | [Julian Julian](https://open.spotify.com/artist/2ybJ6LN0Flw0puQaTbOL9p) | [Solo](https://open.spotify.com/album/00H2kofTJ1dTuAsukAPGch) | 2:04 | 2022-08-02 |  |
 | [Somebody I Know](https://open.spotify.com/track/0SDzyn3KL8KLsyWv0A35RV) | [Era](https://open.spotify.com/artist/1jNgTr6PmUuRZnpJ6qfxzj), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [Somebody I Know](https://open.spotify.com/album/3w0bqMf8AAQlAi5TyptKIn) | 3:54 | 2022-01-12 | 2022-03-10 |
 | [Someday](https://open.spotify.com/track/3RHFjsSlN1jxHwnQTxCGas) | [dani mack](https://open.spotify.com/artist/3mqzun4IsA12XDrzVuBgon) | [Someday](https://open.spotify.com/album/0G1liIJcyDAEn2HBGwn6wm) | 3:26 | 2022-04-06 | 2022-05-05 |
 | [Something](https://open.spotify.com/track/3ohuxSs5rhuf0akfTV2P0P) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Something](https://open.spotify.com/album/4CwVhFTHsaOHXE0J5ORLlk) | 3:40 | 2022-02-02 | 2022-02-23 |
@@ -738,7 +739,7 @@
 | [Want More](https://open.spotify.com/track/3u4I0wG01BfLQmRx7l1o8Y) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Want More](https://open.spotify.com/album/111cloERDY2VKFcne8JNzq) | 3:39 | 2022-04-06 | 2022-04-27 |
 | [Waste My Time](https://open.spotify.com/track/0TcRSTkWvD32LHSjB0Jomh) | [Young Robin](https://open.spotify.com/artist/4BnkPeqmiggfIeutldNqSC) | [Waste My Time](https://open.spotify.com/album/3MstlI0rdss4LIx4yACWFw) | 3:23 | 2022-06-08 | 2022-06-30 |
 | [Waste Your Time](https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Waste Your Time](https://open.spotify.com/album/128amSWTlex39AOupLETx0) | 3:28 | 2022-07-20 |  |
-| [Wave Runner](https://open.spotify.com/track/5l2ImJyksHdd9baqdCX9a0) | [Glaze](https://open.spotify.com/artist/5gLtTxcMc99WAeidxGaFxu) | [Wave Runner](https://open.spotify.com/album/6ZbhG9E9VAdpwZiC2DH06A) | 2:52 | 2022-07-06 |  |
+| [Wave Runner](https://open.spotify.com/track/5l2ImJyksHdd9baqdCX9a0) | [Glaze](https://open.spotify.com/artist/5gLtTxcMc99WAeidxGaFxu) | [Wave Runner](https://open.spotify.com/album/6ZbhG9E9VAdpwZiC2DH06A) | 2:52 | 2022-07-06 | 2022-08-03 |
 | [Waves](https://open.spotify.com/track/70f04FcqkT4uZiXAy4mJlH) | [Wild Painting](https://open.spotify.com/artist/4XJBPKlKZKYlkgjxOPgo69) | [Emotions](https://open.spotify.com/album/2l44jK6Q5tnQjCUHwmnv28) | 3:53 | 2022-04-14 | 2022-06-09 |
 | [way back 2 you](https://open.spotify.com/track/3ySkKnDdEkmW6zEzkQIsOv) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [way back 2 you](https://open.spotify.com/album/0ZKlsBdvVS0vGbLZF8DBZ9) | 2:05 | 2022-02-09 | 2022-03-17 |
 | [We Don't Talk](https://open.spotify.com/track/1i7FsxeHL4ucIaEUjkK8tB) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [We Don't Talk](https://open.spotify.com/album/69EnFZJj2dKshASrtQIash) | 3:25 | 2022-05-11 | 2022-06-30 |

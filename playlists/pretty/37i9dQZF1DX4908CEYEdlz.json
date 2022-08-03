@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bush",
-  "num_followers": 702044,
+  "num_followers": 702109,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2NDUxMSwwMDAwMDAwMDc3YjY1M2FiYzdmN2VlOTAzYWUwM2U2NTNlYjA0OThi",
+  "snapshot_id": "MTY1OTM2NDUxMSwwMDAwMDAwMGRjZTBiMzA2ZTQzMWY1ZjcxM2IzMzVkYjM2YTA1YjJk",
   "tracks": [
     {
       "added_at": "2022-08-01 14:35:11",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
+        "name": "No More Tears To Cry",
+        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 221433,
+      "name": "No More Tears To Cry",
+      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
+    },
+    {
+      "added_at": "2022-08-01 14:35:11",
+      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
-    },
-    {
-      "added_at": "2022-08-01 14:35:11",
-      "album": {
-        "name": "The Steeple",
-        "url": "https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
     },
     {
       "added_at": "2022-08-01 14:35:11",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
-        "name": "The Saints Of Violence And Innuendo",
-        "url": "https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4"
+        "name": "The Steeple",
+        "url": "https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 221148,
-      "name": "The Saints Of Violence And Innuendo",
-      "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
     },
     {
       "added_at": "2022-08-01 14:35:11",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
-        "name": "No More Tears To Cry",
-        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
+        "name": "The Saints Of Violence And Innuendo",
+        "url": "https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 221433,
-      "name": "No More Tears To Cry",
-      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
+      "duration_ms": 221148,
+      "name": "The Saints Of Violence And Innuendo",
+      "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
     },
     {
       "added_at": "2022-08-01 14:35:11",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
-        "name": "Classless Act (feat. Vince Neil of M\u00f6tley Cr\u00fce)",
-        "url": "https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv"
-      },
-      "artists": [
-        {
-          "name": "Classless Act",
-          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
-        },
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 194654,
-      "name": "Classless Act (feat. Vince Neil of Motley Crue)",
-      "url": "https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw"
-    },
-    {
-      "added_at": "2022-08-01 14:35:11",
-      "album": {
         "name": "Traps",
         "url": "https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 142065,
       "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
+    },
+    {
+      "added_at": "2022-08-01 14:35:11",
+      "album": {
+        "name": "Classless Act (feat. Vince Neil of M\u00f6tley Cr\u00fce)",
+        "url": "https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv"
+      },
+      "artists": [
+        {
+          "name": "Classless Act",
+          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 194654,
+      "name": "Classless Act (feat. Vince Neil of Motley Crue)",
+      "url": "https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw"
     },
     {
       "added_at": "2022-08-01 14:35:11",

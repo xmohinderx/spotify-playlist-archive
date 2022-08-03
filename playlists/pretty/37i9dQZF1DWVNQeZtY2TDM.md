@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Psy.P
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,849 likes - 72 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,873 likes - 72 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [說走就走](https://open.spotify.com/track/0ZiZmBsLAQb1hb0sJ25sUl) | [Psy.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [說走就走](https://open.spotify.com/album/2xxaHDXJlqL2TwvnGSt6FK) | 3:01 |
 | 2 | [Last Summer](https://open.spotify.com/track/0dlsXsg8Ch0a8yXlwkbE6T) | [Sl!ce](https://open.spotify.com/artist/4bJUbD6HkkVIVKmYYmKyIC) | [!NTO](https://open.spotify.com/album/3W4T7867lQuPCCZnTvdglU) | 2:14 |
-| 3 | [運鏡](https://open.spotify.com/track/2ZYyfPrCb8uC8hqtsgVysv) | [謝乾](https://open.spotify.com/artist/0k5FX2v4FJxwStm40Vr8cA) | [DIRECTOR](https://open.spotify.com/album/1RSrpjBZMN4qJp1w4SYSmj) | 2:32 |
+| 3 | [運鏡 Camera Movement](https://open.spotify.com/track/2ZYyfPrCb8uC8hqtsgVysv) | [謝乾](https://open.spotify.com/artist/0k5FX2v4FJxwStm40Vr8cA) | [DIRECTOR](https://open.spotify.com/album/1RSrpjBZMN4qJp1w4SYSmj) | 2:32 |
 | 4 | [Overthink也許是我想太多](https://open.spotify.com/track/4Vielk4EfRIWU4ki8JeUog) | [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [Overthink也許是我想太多](https://open.spotify.com/album/0ZCGfusatDpgPxc4iYOt31) | 2:14 |
 | 5 | [一技輸贏 \(第52屆全國技能競賽主題曲\)](https://open.spotify.com/track/1ZRZjMywO6n5A8jUUvzogX) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [一技輸贏](https://open.spotify.com/album/2miCjv7LmJk6sE066DVpQu) | 2:24 |
 | 6 | [Mercury \(feat\. ØZI\)](https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [I AM U](https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq) | 2:22 |

@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 246329,
+  "num_followers": 246431,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAwMDg4MWZkZjUwZjczMTA1NjEwZjNlNGNlNmUyMDc2OGQ3",
+  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAwMDE0ZDZhYjBmZGFhODQzZTU1MDI0ZjExOTA4OWI0MTE0",
   "tracks": [
     {
       "added_at": "2022-04-01 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
+        "name": "Kitty Wells\u2019 Country Hit Parade",
+        "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "duration_ms": 152866,
+      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
+      "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
         "name": "Canyons of my Mind",
         "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 192266,
       "name": "Dirty Rain",
       "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Luxury Liner (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "You Never Can Tell (C'est la Vie) - 2003 Remaster",
-      "url": "https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Kitty Wells\u2019 Country Hit Parade",
-        "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
+        "name": "Luxury Liner (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx"
       },
       "artists": [
         {
-          "name": "Kitty Wells",
-          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 152866,
-      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
-      "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
+      "duration_ms": 208773,
+      "name": "You Never Can Tell (C'est la Vie) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -943,6 +943,30 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
+        "name": "ism",
+        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
+      },
+      "artists": [
+        {
+          "name": "Steelism",
+          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
+        },
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        },
+        {
+          "name": "Jessie Baylin",
+          "url": "https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT"
+        }
+      ],
+      "duration_ms": 229506,
+      "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
+      "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
       },
@@ -987,30 +1011,6 @@
       "duration_ms": 240801,
       "name": "Hotel Amarillo",
       "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "ism",
-        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
-      },
-      "artists": [
-        {
-          "name": "Steelism",
-          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
-        },
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        },
-        {
-          "name": "Jessie Baylin",
-          "url": "https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
-      "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Listening to the Music",
-        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
       "artists": [
         {
-          "name": "Zephaniah OHora",
-          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 190035,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 233706,
       "name": "What's She Crying For",
       "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Listening to the Music",
+        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+      },
+      "artists": [
+        {
+          "name": "Zephaniah OHora",
+          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+        }
+      ],
+      "duration_ms": 190035,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Field Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Diamond Joe",
-      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Golden Eagle",
         "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
+        "name": "Field Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Diamond Joe",
+      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
         "name": "Midwest Farmer's Daughter",
         "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 273440,
       "name": "Four Years of Chances",
       "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Broken Wing",
+        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
+      },
+      "artists": [
+        {
+          "name": "Evil",
+          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
+        }
+      ],
+      "duration_ms": 275114,
+      "name": "Broken Wing",
+      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1379,22 +1395,6 @@
       "duration_ms": 201666,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Broken Wing",
-        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
-      },
-      "artists": [
-        {
-          "name": "Evil",
-          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
-        }
-      ],
-      "duration_ms": 275114,
-      "name": "Broken Wing",
-      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Gilded",
-        "url": "https://open.spotify.com/album/4OIwzZLC5NvLeP81v53jmP"
-      },
-      "artists": [
-        {
-          "name": "Jade Jackson",
-          "url": "https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/0mSZBCx1e6hfk4AxsiCT9T"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "I've Got a Way",
         "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 161013,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Gilded",
+        "url": "https://open.spotify.com/album/4OIwzZLC5NvLeP81v53jmP"
+      },
+      "artists": [
+        {
+          "name": "Jade Jackson",
+          "url": "https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/0mSZBCx1e6hfk4AxsiCT9T"
     }
   ],
   "unique_name": "Vintage Vibes",

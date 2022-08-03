@@ -1773,7 +1773,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 182438,
       "name": "Dom Dom",
       "url": "https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm"
@@ -4351,7 +4351,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 203016,
       "name": "Malek El Fabraka",
       "url": "https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx"
@@ -7898,6 +7898,28 @@
     },
     {
       "album": {
+        "name": "\u062a\u0644\u064a\u0641\u0648\u0646\u0649 \u0644\u0644\u0633\u0624\u0627\u0644",
+        "url": "https://open.spotify.com/album/3hzCVYGtdd3YzDcmFw53ll"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0645\u0648 \u0627\u0644\u0637\u064a\u062e\u0627",
+          "url": "https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t"
+        },
+        {
+          "name": "Essam Saasa",
+          "url": "https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218254,
+      "name": "\u062a\u0644\u064a\u0641\u0648\u0646\u0649 \u0644\u0644\u0633\u0624\u0627\u0644",
+      "url": "https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8"
+    },
+    {
+      "album": {
         "name": "\u0628\u0644\u0627\u0646 \u0628\u064a",
         "url": "https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU"
       },
@@ -8435,7 +8457,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 88006,
       "name": "\u0639\u0637\u0634\u0627\u0646 \u0648\u0628\u0633\u062a\u0646\u0649 \u062a\u063a\u064a\u064a\u0631 | \u0628\u064a\u0628\u0633\u0649",
       "url": "https://open.spotify.com/track/0KnywDnEmEjN6Ul2bOng5v"

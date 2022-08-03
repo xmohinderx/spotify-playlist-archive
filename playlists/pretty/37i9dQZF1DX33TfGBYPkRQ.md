@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,090 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,189 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 50 | [Go Your Own Way](https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered up with Flowers](https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us) | 3:34 |
 | 51 | [A Little Bit Of Everything](https://open.spotify.com/track/5xL83O27JVR7CtUgglnggX) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5Ub0I08OeHkFT8wQ5RjIED) | 5:39 |
 | 52 | [Younger Days](https://open.spotify.com/track/73DoUyxCAGBTzr5RFOEHXo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 4:57 |
-| 53 | [I Know Places](https://open.spotify.com/track/4u3aErjHkwVqqdyfNDMyJ1) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 6:26 |
-| 54 | [I Just Don't Think I'll Ever Get Over You](https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Transcendental Highway](https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m) | 5:28 |
+| 53 | [I Just Don't Think I'll Ever Get Over You](https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Transcendental Highway](https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m) | 5:28 |
+| 54 | [I Know Places](https://open.spotify.com/track/4u3aErjHkwVqqdyfNDMyJ1) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 6:26 |
 | 55 | [Samson](https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:09 |
 | 56 | [Stay](https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 3:58 |
 | 57 | [End Of The Affair](https://open.spotify.com/track/0vqXG66zkKynUS0aJs9FyR) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 7:46 |
-| 58 | [Over You](https://open.spotify.com/track/4eZP0Tyh1p06Nk1aHOzNrt) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Lights Out](https://open.spotify.com/album/20vMfB4zgelkULugladUD3) | 4:43 |
-| 59 | [Dust to Dust](https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 3:49 |
+| 58 | [Dust to Dust](https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 3:49 |
+| 59 | [Over You](https://open.spotify.com/track/4eZP0Tyh1p06Nk1aHOzNrt) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Lights Out](https://open.spotify.com/album/20vMfB4zgelkULugladUD3) | 4:43 |
 | 60 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
 | 61 | [Pills](https://open.spotify.com/track/0dnRlO7IDzbN9ixVld7hz6) | [The Perishers](https://open.spotify.com/artist/511NdtFxUgN1HgraPcUotf) | [Let There Be Morning \(Bonus Track Version\)](https://open.spotify.com/album/5p30s78WN0bRMuUZk64k0w) | 3:09 |
 | 62 | [Hallelujah](https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Hallelujah](https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo) | 3:09 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 78 | [Among the Leaves](https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Among the Leaves](https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv) | 3:31 |
 | 79 | [Bring It Back to Me](https://open.spotify.com/track/3jyF9eNYpI3vxJWHzcZPIv) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [Take Out Of Me EP](https://open.spotify.com/album/0c5kUADkXAnNiVeaRtTTty) | 2:27 |
 | 80 | [Seaweed](https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 3:01 |
-| 81 | [Your Love is Killing Me](https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 6:18 |
-| 82 | [My Mistake \- Piano Version](https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [My Mistake \(Piano Version\)](https://open.spotify.com/album/08igQqnY2HwbN9rCgu81Ij) | 4:52 |
+| 81 | [My Mistake \- Piano Version](https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [My Mistake \(Piano Version\)](https://open.spotify.com/album/08igQqnY2HwbN9rCgu81Ij) | 4:52 |
+| 82 | [Your Love is Killing Me](https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 6:18 |
 | 83 | [Think Twice](https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Think Twice](https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP) | 3:31 |
 | 84 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
 | 85 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 95 | [The Pieces Don't Fit Anymore](https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 4:15 |
 | 96 | [She Went Quietly](https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Running Still](https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U) | 3:59 |
 | 97 | [No Need To Argue](https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [No Need To Argue](https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX) | 3:13 |
-| 98 | [I Told You Everything](https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:45 |
-| 99 | [Basket Case](https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 4:11 |
+| 98 | [Basket Case](https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 4:11 |
+| 99 | [I Told You Everything](https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:45 |
 | 100 | [Heart In My Hands](https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Giants](https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI) | 3:39 |
 
-Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDZmMGM2MGE5OGM3OWY4OTFmY2U3Y2JkYmRmMzY4YzA4`
+Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDM2NTlkZmU2MDkwZWI3NjI1NDE1NDc3Y2I2NWEyZTA2`

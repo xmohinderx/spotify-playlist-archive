@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: YUSUKE CHIBA - SNAKE ON THE BEACH -",
+  "description": "The biggest rock artists in Japan right now! Cover: \u30af\u30ec\u30a4\u30b8\u30fc\u30b1\u30f3\u30d0\u30f3\u30c9",
   "name": "Big in Japan",
   "published_playlist_ids": [
     "58cr9qiZRcBgGXeUmGq6P3"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 230942,
       "name": "Is It Too Late?",
       "url": "https://open.spotify.com/track/2hIkxugVJfPd8FjXzLpOrt"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 177717,
       "name": "Just Kids",
       "url": "https://open.spotify.com/track/1LesMz0NuPydkt6acRvbjG"
@@ -1767,7 +1767,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 219466,
       "name": "Opening Ceremony",
       "url": "https://open.spotify.com/track/6QYOM6759mUjFhoY6UIcj6"
@@ -2313,7 +2313,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 186571,
       "name": "SummerDay",
       "url": "https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD"
@@ -2500,6 +2500,24 @@
     },
     {
       "album": {
+        "name": "Adapt",
+        "url": "https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Tsuki no Wan",
+      "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
+    },
+    {
+      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7"
       },
@@ -2569,7 +2587,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 178132,
       "name": "Unnamed Song",
       "url": "https://open.spotify.com/track/5jf15rbmGjj6E8k7EJMTV6"
@@ -2995,7 +3013,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 295906,
       "name": "\u3066\u3043\u3093\u304c\u30fc\u3089",
       "url": "https://open.spotify.com/track/21vUUai0ml8ydEDIb776om"
@@ -3425,7 +3443,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 239988,
       "name": "\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
       "url": "https://open.spotify.com/track/08KAPLzpglA5mMdYLD2oPN"
@@ -3663,7 +3681,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 346920,
       "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
       "url": "https://open.spotify.com/track/2xTqNGLtZYetzvx6VAs7Pd"

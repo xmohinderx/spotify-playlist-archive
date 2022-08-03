@@ -246,6 +246,6 @@
 | [you can't always wait forever](https://open.spotify.com/track/10DfGfqlvPzOM4VJP4H72D) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n) | [you can't always wait forever](https://open.spotify.com/album/1ttj4yC6jyoTgb9R6YDqN3) | 2:46 | 2022-05-20 |  |
 | [You Find Home](https://open.spotify.com/track/1UXcQC5oQbiRrcb4K9W8Ty) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [You Find Home](https://open.spotify.com/album/1o6weednkeD6xR0MVwSwBa) | 2:24 | 2022-05-20 | 2022-07-29 |
 | [You Find Home](https://open.spotify.com/track/5VZIbQtw707N7WoY67nHIM) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Vanish into the Sky](https://open.spotify.com/album/2WzPmGFAI0VH1HitLOfU60) | 2:24 | 2022-07-29 |  |
-| [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:55 | 2022-06-24 |  |
+| [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:51 | 2022-06-24 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

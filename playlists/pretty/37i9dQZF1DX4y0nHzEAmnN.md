@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 47 | [Please and Thank You Song](https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Children's Songs for Family, Friends & Siblings from LittleBabyBum](https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV) | 1:31 |
 | 48 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
 | 49 | [Sonidos al Comer](https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:58 |
-| 50 | [Snack Time \(Juice and Cookies\)](https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Olivia](https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:33 |
+| 50 | [Exercise Time](https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Gordon](https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:43 |
 
-Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMGNkZDcyNTg5MTk2NTgzZjUzMzRjNjU0YjY3MDdkMGFm`
+Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMGQ5NTc5ZDI2MzllZTc3NWEyNjZmOTkwMWZlZTQzNzFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,098 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,475 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 25 | [What It Is](https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [What It Is](https://open.spotify.com/album/4WFokPlvWtHvqsG6P6Dxo5) | 2:09 |
 | 26 | [MF TRIMM](https://open.spotify.com/track/2Q3xRj8N2lElteuxQ6tnvL) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [MF TRIMM](https://open.spotify.com/album/5AgTbbfztGcAxqNxiSAMGA) | 2:46 |
 | 27 | [JUGG](https://open.spotify.com/track/6gIRDURg5rYturCXSdDlAH) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [JUGG](https://open.spotify.com/album/2rEZFLjRcgMqezzZmcTzzA) | 2:47 |
-| 28 | [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
+| 28 | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
 | 29 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:54 |
 | 30 | [SET IT OFF \(feat\. G Herbo\)](https://open.spotify.com/track/7bS2y45GZ47gyQL1bbZkPW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:37 |
 | 31 | [Put In Work \(feat\. Dusty Locane\)](https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG) | [Badda TD](https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [The World Is Yours: Gangsta Grillz](https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h) | 2:26 |

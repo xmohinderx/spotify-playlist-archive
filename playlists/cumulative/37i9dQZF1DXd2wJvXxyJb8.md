@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-133 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+135 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Depende](https://open.spotify.com/track/2OsPujKDKv0PgbfsMHtU7m) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR) | [Depende](https://open.spotify.com/album/3UuIipzzWhzr5ynZN4oMbW) | 2:36 | 2022-05-26 |  |
 | [Desculpa Doutor](https://open.spotify.com/track/18CO6ODntZqzMxOxigBps4) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Desculpa Doutor](https://open.spotify.com/album/4gcVNBmXEvJs9JRg3gAtUw) | 2:52 | 2022-05-26 |  |
 | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [DJ Bel da CDD](https://open.spotify.com/artist/6cBgK7jLKrcynjD5E6mKNu), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4) | 1:55 | 2022-05-26 |  |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-02 |  |
 | [Deu Meia Noite, Eu Sumi, Geral Soltando Fogos](https://open.spotify.com/track/3hycwch1V1aCbKGlcfKg0I) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ MT7](https://open.spotify.com/artist/5lomh7H0yuxEtZnvtSCHI1) | [Deu Meia Noite, Eu Sumi, Geral Soltando Fogos](https://open.spotify.com/album/0AlJZSnFCRXtEhgBQ2Gnre) | 2:09 | 2022-05-26 | 2022-07-29 |
 | [Deu Meia Noite, Eu Sumi, Geral Soltando Fogos](https://open.spotify.com/track/7e5s6nhpC4oOfDqgdI2SQX) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ MT7](https://open.spotify.com/artist/5lomh7H0yuxEtZnvtSCHI1) | [Deu Meia Noite, Eu Sumi, Geral Soltando Fogos](https://open.spotify.com/album/1MYqvZ5GNYwU9aB3CDbUVY) | 2:09 | 2022-07-28 |  |
 | [Devil Eyes](https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Providence](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi) | 2:11 | 2022-05-26 | 2022-07-05 |
@@ -89,6 +90,7 @@
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-28 |  |
 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 | 2022-05-26 |  |
 | [Megão do Ploft](https://open.spotify.com/track/3WYXseBxjdRXkVFzBfV8lJ) | [Dj Tchouzen](https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [MC Daniel DN](https://open.spotify.com/artist/1IWhchVnchJesDcsIqbHC9) | [Megão do Ploft](https://open.spotify.com/album/1Xd3B5QwJ0chwOBzpBGAib) | 3:41 | 2022-05-26 |  |
+| [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2022-08-02 |  |
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/3P5h94RH9LOBwD8OF84M0u) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One More Love](https://open.spotify.com/album/3JFdUloxNYTVuNlr8mXEHB) | 3:30 | 2022-05-26 | 2022-06-28 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-05-26 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-05-26 | 2022-06-23 |

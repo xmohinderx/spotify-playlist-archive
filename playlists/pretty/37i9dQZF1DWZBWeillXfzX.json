@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 12832,
+  "num_followers": 12848,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDgzZDRlMmQyZDFkMTY5Nzg2NjM4MGMxMjgxZTcwZjVi",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDdiOTY1ZTY4YjNlZjA3MmVjOWZmZjkwZWE2YTM1MjUx",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -367,6 +367,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
+      },
+      "artists": [
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "duration_ms": 365440,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 259906,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "In My Soul",
-        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
-      },
-      "artists": [
-        {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
-        }
-      ],
-      "duration_ms": 365440,
-      "name": "You're Everything",
-      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
+      },
+      "artists": [
+        {
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+        }
+      ],
+      "duration_ms": 197237,
+      "name": "Gettin Old",
+      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
+    },
+    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Shufflin' West Coast",
@@ -851,22 +867,6 @@
       "duration_ms": 262536,
       "name": "Shufflin' West Coast",
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
-      },
-      "artists": [
-        {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
-        }
-      ],
-      "duration_ms": 197237,
-      "name": "Gettin Old",
-      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     }
   ],
   "unique_name": "Modern Blues Guitar",

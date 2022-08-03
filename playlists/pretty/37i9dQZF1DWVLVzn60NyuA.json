@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe.",
-  "num_followers": 209555,
+  "num_followers": 209708,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMGRiNTU3YmNiNTEwMzdkZWEzN2RmZDZmZGJhYzdhNDMx",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMGM1ZjMyNWExM2RiYTI0OTc4MjYyODUwMWUyMDZkMWVi",
   "tracks": [
     {
       "added_at": "2022-07-28 22:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 191502,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 145066,
       "name": "Baila",
       "url": "https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Touch It (Remix)",
-        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Touch It - Remix",
-      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "Sweet Bounce",
         "url": "https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 96018,
       "name": "Sweet Bounce",
       "url": "https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -2035,22 +2035,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Vitamine (Remix)",
-        "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
+        "name": "Wayih",
+        "url": "https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu"
       },
       "artists": [
         {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
         },
         {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+          "name": "Liamsi",
+          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
         }
       ],
-      "duration_ms": 154772,
-      "name": "Vitamine - (Remix) feat. Ya Levis",
-      "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+      "duration_ms": 139680,
+      "name": "Wayih",
+      "url": "https://open.spotify.com/track/1MwGZStRdMTxJM7SZYanIl"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Vitamine (Remix)",
+        "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
+      },
+      "artists": [
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "duration_ms": 154772,
+      "name": "Vitamine - (Remix) feat. Ya Levis",
+      "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "Fini",
         "url": "https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t"
       },
@@ -2083,26 +2103,6 @@
       "duration_ms": 173790,
       "name": "Fini",
       "url": "https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Wayih",
-        "url": "https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu"
-      },
-      "artists": [
-        {
-          "name": "Oualid",
-          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
-        },
-        {
-          "name": "Liamsi",
-          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "Wayih",
-      "url": "https://open.spotify.com/track/1MwGZStRdMTxJM7SZYanIl"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Real Man",
         "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 175098,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -2515,42 +2515,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Blaze Away",
-        "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Blaze Away",
-      "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Ma Play",
         "url": "https://open.spotify.com/album/4qzc0y1T0cMgAus1kYB9nt"
       },
@@ -2571,6 +2535,42 @@
       "duration_ms": 183773,
       "name": "Ma Play",
       "url": "https://open.spotify.com/track/3ijQFCjoldvRJjOn4AK4iS"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Blaze Away",
+        "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Blaze Away",
+      "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Yahoo Boy",
-        "url": "https://open.spotify.com/album/5xuTeLzxHqw4s15EM0ep22"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 174172,
-      "name": "Yahoo Boy",
-      "url": "https://open.spotify.com/track/5HlLiMUciWPEGG2c3Xu0cu"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Damages",
         "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 169411,
       "name": "Damages",
       "url": "https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Yahoo Boy",
+        "url": "https://open.spotify.com/album/5xuTeLzxHqw4s15EM0ep22"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Yahoo Boy",
+      "url": "https://open.spotify.com/track/5HlLiMUciWPEGG2c3Xu0cu"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -2755,18 +2755,18 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Cofres do C\u00e9u",
-        "url": "https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm"
+        "name": "MYKILLI",
+        "url": "https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu"
       },
       "artists": [
         {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
         }
       ],
-      "duration_ms": 198590,
-      "name": "Cofres do C\u00e9u",
-      "url": "https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go"
+      "duration_ms": 144050,
+      "name": "MYKILLI",
+      "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -2787,18 +2787,18 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "MYKILLI",
-        "url": "https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu"
+        "name": "Cofres do C\u00e9u",
+        "url": "https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm"
       },
       "artists": [
         {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
         }
       ],
-      "duration_ms": 144050,
-      "name": "MYKILLI",
-      "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
+      "duration_ms": 198590,
+      "name": "Cofres do C\u00e9u",
+      "url": "https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -2823,6 +2823,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Quarantime: The Lost Files",
+        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
+      },
+      "artists": [
+        {
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Table For Two",
+      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -2839,22 +2855,6 @@
       "duration_ms": 214141,
       "name": "Break of Dawn",
       "url": "https://open.spotify.com/track/0fFYQpXcySoP1aTAesmNTO"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Quarantime: The Lost Files",
-        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
-      },
-      "artists": [
-        {
-          "name": "Yxng Bane",
-          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Table For Two",
-      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -3155,6 +3155,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Skilahmatic",
+        "url": "https://open.spotify.com/album/7MZVojSUyO9HNyq4nBMS2D"
+      },
+      "artists": [
+        {
+          "name": "Ketchup",
+          "url": "https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/0bwggp9wrFlopQffgG4Rhb"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "Badman Love",
         "url": "https://open.spotify.com/album/7CSNUozGeW1fzxvDjY1RvA"
       },
@@ -3191,22 +3207,6 @@
       "duration_ms": 206685,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Skilahmatic",
-        "url": "https://open.spotify.com/album/7MZVojSUyO9HNyq4nBMS2D"
-      },
-      "artists": [
-        {
-          "name": "Ketchup",
-          "url": "https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/0bwggp9wrFlopQffgG4Rhb"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -3379,30 +3379,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Velletjes (Amapiano Remix)",
-        "url": "https://open.spotify.com/album/0vJv06TRMsAoWPqBZALlRW"
-      },
-      "artists": [
-        {
-          "name": "Rich2Gether",
-          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
-        },
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        }
-      ],
-      "duration_ms": 374617,
-      "name": "Velletjes (Amapiano Remix)",
-      "url": "https://open.spotify.com/track/1rmkT2BEd7mQbF7p5KeKXk"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Feelings (with J Boog & Gyptian)",
         "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
       },
@@ -3427,6 +3403,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Oso Deh",
+        "url": "https://open.spotify.com/album/356DaM4uEodJrXX8700UYk"
+      },
+      "artists": [
+        {
+          "name": "Jahari",
+          "url": "https://open.spotify.com/artist/4w0QJkFl9n9KUZxPdIMB83"
+        }
+      ],
+      "duration_ms": 155137,
+      "name": "Oso Deh",
+      "url": "https://open.spotify.com/track/2PebmrsrzbKxn4worrNdrx"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "So Nice",
         "url": "https://open.spotify.com/album/0qs22OFmWqKIwhmicG4uNc"
       },
@@ -3443,18 +3435,26 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Oso Deh",
-        "url": "https://open.spotify.com/album/356DaM4uEodJrXX8700UYk"
+        "name": "Velletjes (Amapiano Remix)",
+        "url": "https://open.spotify.com/album/0vJv06TRMsAoWPqBZALlRW"
       },
       "artists": [
         {
-          "name": "Jahari",
-          "url": "https://open.spotify.com/artist/4w0QJkFl9n9KUZxPdIMB83"
+          "name": "Rich2Gether",
+          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
+        },
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
         }
       ],
-      "duration_ms": 155137,
-      "name": "Oso Deh",
-      "url": "https://open.spotify.com/track/2PebmrsrzbKxn4worrNdrx"
+      "duration_ms": 374617,
+      "name": "Velletjes (Amapiano Remix)",
+      "url": "https://open.spotify.com/track/1rmkT2BEd7mQbF7p5KeKXk"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -3479,22 +3479,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "3 Roses EP",
-        "url": "https://open.spotify.com/album/0Gzj1fD75NJjvwuX6akFWm"
-      },
-      "artists": [
-        {
-          "name": "Not3s",
-          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Middle of the Night",
-      "url": "https://open.spotify.com/track/4oJyts0kE96tUG8ddpnXrD"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX"
       },
@@ -3507,6 +3491,22 @@
       "duration_ms": 236000,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "3 Roses EP",
+        "url": "https://open.spotify.com/album/0Gzj1fD75NJjvwuX6akFWm"
+      },
+      "artists": [
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Middle of the Night",
+      "url": "https://open.spotify.com/track/4oJyts0kE96tUG8ddpnXrD"
     },
     {
       "added_at": "2022-07-28 22:01:00",

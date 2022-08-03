@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,427 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,503 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 18 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 |
 | 19 | [It's Always Been You](https://open.spotify.com/track/0Ckr0nKhtub7GfoBzAl5bU) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [It's Always Been You](https://open.spotify.com/album/6a3CrpuNvaZ3JAXhKm2DBn) | 2:40 |
 | 20 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
-| 21 | [Emotion Sickness](https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 |
+| 21 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 |
 | 22 | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 |
 | 23 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 |
 | 24 | [Get Equal, Get Even](https://open.spotify.com/track/2tu1J2fu9rlCOPSn1nxhR4) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [The Evil One](https://open.spotify.com/album/2SLefDXMIbKZ4n2oBtpEag) | 3:16 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 78 | [TOMMY TOOK A PICTURE](https://open.spotify.com/track/09AL4W5rR6pqo6ljrSpAOC) | [Signals Midwest](https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF) | [TOMMY TOOK A PICTURE](https://open.spotify.com/album/4nPAjMPwRyacsRTQ42spJa) | 2:46 |
 | 79 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 |
 
-Snapshot ID: `MTY1ODE1MDE2MywwMDAwMDAwMDM3ODk5M2YwYjcyMTUxZmM1MTcyMDM1OWM0OWRiNzUw`
+Snapshot ID: `MTY1ODE1MDE2MywwMDAwMDAwMDdiNGVhMmQzYTEzMDdhYWU3MDU0ODUyOWNlOTYxYjAy`

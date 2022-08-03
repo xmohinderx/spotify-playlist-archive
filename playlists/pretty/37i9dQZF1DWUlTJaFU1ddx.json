@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 17434,
+  "num_followers": 17444,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODYwNDE2NSwwMDAwMDAwMDFiNjdjNjZkZmMzZGU3MDNmMTQxODhmNTExYmRjYzJh",
+  "snapshot_id": "MTY1ODYwNDE2NSwwMDAwMDAwMDE4YTc2ZTEwNzMwZDk2MDg3ZTA2Y2M2NmFjMGM5ZjAy",
   "tracks": [
     {
       "added_at": "2022-07-23 19:22:45",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-07-23 19:22:45",
       "album": {
+        "name": "Laysa",
+        "url": "https://open.spotify.com/album/59al6unEUgOFKSknNugus9"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Laysa",
+      "url": "https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o"
+    },
+    {
+      "added_at": "2022-07-23 19:22:45",
+      "album": {
         "name": "KHAYYALA",
         "url": "https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 248888,
       "name": "\u0625\u0646\u0647\u0636",
       "url": "https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL"
-    },
-    {
-      "added_at": "2022-07-23 19:22:45",
-      "album": {
-        "name": "Laysa",
-        "url": "https://open.spotify.com/album/59al6unEUgOFKSknNugus9"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Laysa",
-      "url": "https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o"
     },
     {
       "added_at": "2022-07-23 19:22:45",

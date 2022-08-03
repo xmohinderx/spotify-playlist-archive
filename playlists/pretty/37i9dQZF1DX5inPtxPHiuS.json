@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
-  "num_followers": 77700,
+  "num_followers": 77728,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMGEyNjc1ZGYxYTgzNzg3NTM1MDA5YjE5MmZmM2M1Yzll",
+  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMGEwMjQ5OTExZjAxZDg0YTU0MjAwYjU4YTllZjRmNGY0",
   "tracks": [
     {
       "added_at": "2022-06-24 05:15:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor",
-        "url": "https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "El Amor Despu\u00e9s Del Amor",
-      "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Perdedor",
         "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 191533,
       "name": "Perdedor",
       "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor",
+        "url": "https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "El Amor Despu\u00e9s Del Amor",
+      "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 327296,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Regular",
         "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 162000,
       "name": "Cangrejo",
       "url": "https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 327296,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Anaranjado",
-        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Planetas",
-      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "No Hay Mal Que Dure una Vida",
         "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Te Valgo",
-        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
+        "name": "Anaranjado",
+        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
       },
       "artists": [
         {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 198545,
-      "name": "Te Valgo",
-      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
+      "duration_ms": 196826,
+      "name": "Planetas",
+      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -799,18 +783,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+        "name": "Te Valgo",
+        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
       },
       "artists": [
         {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
         }
       ],
-      "duration_ms": 187478,
-      "name": "Salvaje Vagabundo",
-      "url": "https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr"
+      "duration_ms": 198545,
+      "name": "Te Valgo",
+      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -843,6 +827,22 @@
       "duration_ms": 203592,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Marteko Euriak",
+        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+      },
+      "artists": [
+        {
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+        }
+      ],
+      "duration_ms": 187478,
+      "name": "Salvaje Vagabundo",
+      "url": "https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Pill",
-        "url": "https://open.spotify.com/album/1xcILaWt6tBBVmLFCqDAag"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        }
-      ],
-      "duration_ms": 180912,
-      "name": "Pill",
-      "url": "https://open.spotify.com/track/4OFNNqUrrX7WnjUNGk4MpD"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Anaranjado, Pt. 1",
         "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
       },
@@ -995,18 +979,34 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+        "name": "Sangre de Pr\u00f3fugo",
+        "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
         }
       ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
+      "duration_ms": 211746,
+      "name": "Sangre de Pr\u00f3fugo",
+      "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Pill",
+        "url": "https://open.spotify.com/album/1xcILaWt6tBBVmLFCqDAag"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 180912,
+      "name": "Pill",
+      "url": "https://open.spotify.com/track/4OFNNqUrrX7WnjUNGk4MpD"
     }
   ],
   "unique_name": "Rock Colombia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,376 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,648 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 7 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 |
 | 8 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:54 |
 | 9 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 |
-| 10 | [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
+| 10 | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
 | 11 | [Stone Rolling](https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Stone Rolling](https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF) | 3:00 |
 | 12 | [Groovy \(feat\. Fivio Foreign\)](https://open.spotify.com/track/7Fp4m0ZcpES3hb99q4WQII) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Groovy \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6Qa5jPHgdY6NW3P4tY7ej9) | 3:34 |
 | 13 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 29 | [Right Back Out](https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Right Back Out](https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP) | 3:24 |
 | 30 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
 | 31 | [Small Town Hero](https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:57 |
-| 32 | [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 |
+| 32 | [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 |
 | 33 | [I'm Him](https://open.spotify.com/track/3hk1nboPi0xRywfOBwz1CS) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K), [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [I'm Him](https://open.spotify.com/album/0mGrgddV5amK3dC5x0gUAr) | 2:38 |
 | 34 | [6 Months \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/15MObTsMBIdr35hEa4Fgz4) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 2:55 |
 | 35 | [Holy Spirit](https://open.spotify.com/track/6UmbEhrCtEHtUGcIBYoegg) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Holy Spirit](https://open.spotify.com/album/6OpBXPTvTiBwyaS9C4Z50d) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Wockin’ On A Wire \(feat\. NoCap\)](https://open.spotify.com/track/6MInFLWke89xMBOeMXEqLH) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Wockin’ On A Wire \(feat\. NoCap\)](https://open.spotify.com/album/44lgLZ8UtTfTlLiZb1W9hV) | 3:16 |
 | 50 | [Pogo Stick](https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [Pogo Stick](https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW) | 2:26 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGM3ZGI1NTJkZjFkMmIwY2JiOTVmMTlmZTYzNTBhZmEz`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDhmY2ZkZTFhNzg2YzVkODZkMWRjMTNlZmM1NmJmMDBh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,174 likes - 61 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,167 likes - 61 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 32 | [Coyita](https://open.spotify.com/track/016vA5iOfrn9LdFWpoIYr3) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 3:19 |
 | 33 | [Yu Yi](https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Yu Yi](https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6) | 4:41 |
 | 34 | [Metamorphosis 1](https://open.spotify.com/track/55v3givMbmHrQvCXF0mJRl) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Glass Piano](https://open.spotify.com/album/7lCXCQKYVxVwGDePzmEQRj) | 6:27 |
-| 35 | [Les Deux Guitares](https://open.spotify.com/track/6UJQTS2H8ZuuIdP1GU4oYa) | [The Stephane Wrembel Trio With David Grisman](https://open.spotify.com/artist/2avaXPIQz3YqYar1jwF0yz) | [Gypsy Rumble](https://open.spotify.com/album/3e39bLX6BgsDCaiQmqrlBt) | 3:24 |
-| 36 | [Lineas de Tu Mano](https://open.spotify.com/track/6Gca05CM0s55fDkfvK6uEa) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Lineas de Tu Mano](https://open.spotify.com/album/0BfKQuiDgerAMSaL173ELr) | 4:14 |
+| 35 | [Lineas de Tu Mano](https://open.spotify.com/track/6Gca05CM0s55fDkfvK6uEa) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Lineas de Tu Mano](https://open.spotify.com/album/0BfKQuiDgerAMSaL173ELr) | 4:14 |
+| 36 | [Les Deux Guitares](https://open.spotify.com/track/6UJQTS2H8ZuuIdP1GU4oYa) | [The Stephane Wrembel Trio With David Grisman](https://open.spotify.com/artist/2avaXPIQz3YqYar1jwF0yz) | [Gypsy Rumble](https://open.spotify.com/album/3e39bLX6BgsDCaiQmqrlBt) | 3:24 |
 | 37 | [Encantamiento \(Seis Canciones de Cuna\)](https://open.spotify.com/track/0uFjSoOR9qGHfuS5Q1GFai) | [Carlos Guastavino](https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL), [Marcela Roggeri](https://open.spotify.com/artist/7eHNjAADUow33FO8ZXTnja), [Florent Héau](https://open.spotify.com/artist/3TIlkDLL5iVkwYjKo5KUQZ) | [Carlos Guastavino: Melodias Argentinas](https://open.spotify.com/album/1AH1QP1VSX7V4mLbmvfP2n) | 1:47 |
 | 38 | [Concierto De Aranjuez: 2\. Adagio](https://open.spotify.com/track/7DZKMO6GK3yQEXx3YzxxrW) | [Joaquín Rodrigo](https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw), [Orquesta De Cadaques](https://open.spotify.com/artist/1cmiYraSsNQzA3FD1KkmDU), [Edmon Colomer](https://open.spotify.com/artist/7BiMQ3Qho34fOpo2VMjHXJ) | [Concierto De Aranjuez](https://open.spotify.com/album/3kYhw19SFaOanazThWHgK8) | 11:32 |
 | 39 | [Soy Marco \(From "Talk to Her \(Hable Con Ella\)"\)](https://open.spotify.com/track/11pgYPpViYqlp9vxLqaaHr) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [A Time for Us \(Silence, on joue!\)](https://open.spotify.com/album/5xVJfEh063VItO9sNxWv8Y) | 1:59 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 42 | [Amsterdam](https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura](https://open.spotify.com/album/1VLsDyD5DZy937pCciP65J) | 3:57 |
 | 43 | [On the Wire](https://open.spotify.com/track/7yfyPp0Fv5quOrbg4CqLRb) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [The Lighthouse \- Everything's Calm](https://open.spotify.com/album/6mkLpQbCgXvhpcXZGE5DJn) | 7:28 |
 | 44 | [Madreselva](https://open.spotify.com/track/4cRyHa7xgnS8SDHFCG2Rxs) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1) | [Il Postino \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VpX1xTvwjvN7jpApnSALH) | 2:20 |
-| 45 | [Manhã de Carnaval](https://open.spotify.com/track/4lxOxd28qMjBDD7yY1flvm) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Viajero](https://open.spotify.com/album/22A1qdhN1QsqpjYYRxSZEJ) | 5:11 |
-| 46 | [Suite Española, Op\. 47: I\. Granada \- arr\. for Guitar](https://open.spotify.com/track/2V0TK5l3PBqgtJNyKJjwnE) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Irina Kircher](https://open.spotify.com/artist/1LZITf1RftxFbYALmSwsjK) | [Summer Classics: Spanish Nights](https://open.spotify.com/album/4fHSfiyMWFy6CfYcBjYYeG) | 4:51 |
+| 45 | [Suite Española, Op\. 47: I\. Granada \- arr\. for Guitar](https://open.spotify.com/track/2V0TK5l3PBqgtJNyKJjwnE) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Irina Kircher](https://open.spotify.com/artist/1LZITf1RftxFbYALmSwsjK) | [Summer Classics: Spanish Nights](https://open.spotify.com/album/4fHSfiyMWFy6CfYcBjYYeG) | 4:51 |
+| 46 | [Manhã de Carnaval](https://open.spotify.com/track/4lxOxd28qMjBDD7yY1flvm) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Viajero](https://open.spotify.com/album/22A1qdhN1QsqpjYYRxSZEJ) | 5:11 |
 | 47 | [Natzurka](https://open.spotify.com/track/1pWRYRMf2eg45qR7QGj1q0) | [Accordzêam](https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h) | [Tapas: Le balbum \(L'honneur de ceux qui le font, le bonheur de ceux qui l'ont \- Musique du monde et d'ailleurs\)](https://open.spotify.com/album/3Yty5AK5k4FUuS9MYNXQmd) | 5:40 |
 | 48 | [The Beach](https://open.spotify.com/track/4xiJjmbDFlET0zUwrl2BOy) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [The Two Faces of January \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15Cvr11YPSZIWRLhi6ie9s) | 2:06 |
 | 49 | [El Noi De La Mare \- The Son Of Mary](https://open.spotify.com/track/7IwbrFYIDqKuZy3L1oWTyl) | [Muriel Anderson](https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC) | [Harp Guitar Christmas](https://open.spotify.com/album/2PVJISam5pbin1Bt99zuO0) | 3:12 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 60 | [Tema llorón](https://open.spotify.com/track/7DS6x1F9gPR7m30s6kygfG) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Volver \(Banda Sonora Original\)](https://open.spotify.com/album/1sOwreBJafc3ZRLKrmJEnz) | 4:17 |
 | 61 | [Lovin' IT](https://open.spotify.com/track/4X8aAsQvxASw4qky3hfFRg) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [On The Road \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1lxrEDfl1a8ZvhD5ZqmXLV) | 5:32 |
 
-Snapshot ID: `MTY1ODg1NTkxOCwwMDAwMDAwMDhjOTQ5NDM2OTZjZDQxNDdjZWFmYjA1NmM3YTliOGQ5`
+Snapshot ID: `MTY1ODg1NTkxOCwwMDAwMDAwMDg1OTdkZmFjNjYwNThkNmRiYmQwMTJlYzRlOWE0OTFl`

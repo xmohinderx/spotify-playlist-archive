@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 67 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 67 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 38 | [Snake Dance](https://open.spotify.com/track/1Vdz8Ye8jfw6Hb1n9fGRQD) | [Forever Kids](https://open.spotify.com/artist/2J2Z7pqlBnq0B2BDDpje6u), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Snake Dance](https://open.spotify.com/album/6lbGCSWEy4fuUxsPkTG1EF) | 2:39 |
 | 39 | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M) | 3:12 |
 | 40 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 |
-| 41 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 |
-| 42 | [Magic Still Exists](https://open.spotify.com/track/0udYwuCYpStSlVouEDS7EW) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:22 |
+| 41 | [Magic Still Exists](https://open.spotify.com/track/0udYwuCYpStSlVouEDS7EW) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:22 |
+| 42 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 |
 | 43 | [Run to You \(feat\. Grace Ackerman\)](https://open.spotify.com/track/4PNuUWj7DOnkz6VvegoOjG) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run to You \(feat\. Grace Ackerman\)](https://open.spotify.com/album/7phKRhiBZZzaif1y1ldZEb) | 2:59 |
 | 44 | [He Won't Know](https://open.spotify.com/track/033PfaPCfbVDHCEHCRKfRF) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [He Won't Know](https://open.spotify.com/album/3oJ8BFFJ19MPMvjl4qk7wc) | 3:24 |
 | 45 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 66 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 67 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc2NTY3MjEsMDAwMDAwMDAyZTFiMzNhY2E4OTQ2YWMyNmFiN2Q1YTU3ZTI0NTkyOA==`
+Snapshot ID: `Mjc2NTgxNjEsMDAwMDAwMDBiNWMyZjNhNmM0YjgwMmUyMzk5M2NiY2MxNDM3YzczNA==`

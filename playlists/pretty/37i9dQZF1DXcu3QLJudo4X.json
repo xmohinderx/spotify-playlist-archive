@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 27249,
+  "num_followers": 27313,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTIyNDg1NiwwMDAwMDAwMGI0NGYzNDNjNDA0Y2JlMWU5ZjY2ZjAyNWVlYzc1YWY5",
+  "snapshot_id": "MTY1NTIyNDg1NiwwMDAwMDAwMDk0ZWExMGZjMjAxOTdiN2YyZWY3ZDY1YTZkOWI4MWVm",
   "tracks": [
     {
       "added_at": "2022-06-14 16:40:56",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-06-14 16:40:56",
       "album": {
+        "name": "East West",
+        "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
+    },
+    {
+      "added_at": "2022-06-14 16:40:56",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 167466,
       "name": "Spoonful - Single Version",
       "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
-    },
-    {
-      "added_at": "2022-06-14 16:40:56",
-      "album": {
-        "name": "East West",
-        "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
     },
     {
       "added_at": "2022-06-14 16:40:56",

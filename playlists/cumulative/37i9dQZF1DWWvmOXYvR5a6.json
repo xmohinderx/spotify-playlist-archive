@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: \bZICO(\uc9c0\ucf54)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: \bKim Seung Min(\uae40\uc2b9\ubbfc)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "TrenChill K-Hip Hop",
   "published_playlist_ids": [
     "6YybdrER9IpLcTWs3zQt76"
@@ -2386,6 +2386,32 @@
     },
     {
       "album": {
+        "name": "Drivin'",
+        "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "\ub798\uc6d0",
+          "url": "https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9"
+        },
+        {
+          "name": "\uc11c\ub3d9\ud604",
+          "url": "https://open.spotify.com/artist/1KqTeSB6Btq3D6StbKv3Uz"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
+      "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "album": {
         "name": "Drunk All Night",
         "url": "https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ"
       },
@@ -2977,7 +3003,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 173960,
       "name": "Freaky (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
@@ -7351,7 +7377,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 190093,
       "name": "POR ESO",
       "url": "https://open.spotify.com/track/3BJxvLHg4Fq5J1LJsLXarw"
@@ -7701,7 +7727,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 179680,
       "name": "Ride",
       "url": "https://open.spotify.com/track/3zc19kM0SD3H1Bi56NCUcj"
@@ -8073,6 +8099,28 @@
       "duration_ms": 240760,
       "name": "Salad Days (feat. sokodomo, pH-1 & BE'O)",
       "url": "https://open.spotify.com/track/2MrBAJUseysxVN63HrPZL3"
+    },
+    {
+      "album": {
+        "name": "BENZO",
+        "url": "https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "ron",
+          "url": "https://open.spotify.com/artist/47eXnSyw2kFn4BU1brRr2J"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235391,
+      "name": "Sariru (Feat. ron)",
+      "url": "https://open.spotify.com/track/0n7gKGR1XyEUEA4yZwNZNw"
     },
     {
       "album": {
@@ -8707,7 +8755,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 168000,
       "name": "Spanish Restaurant (Prod. Liquor well)",
       "url": "https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM"
@@ -9151,6 +9199,32 @@
       "duration_ms": 178186,
       "name": "TANG!\u2661",
       "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
+    },
+    {
+      "album": {
+        "name": "#LOVEMEORHATEME",
+        "url": "https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk"
+      },
+      "artists": [
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "YongYong",
+          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195312,
+      "name": "Tattoo (feat. Jayci yucca, YongYong)",
+      "url": "https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG"
     },
     {
       "album": {
@@ -10389,6 +10463,32 @@
       "duration_ms": 184898,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/1hRmByIwcQPNjenTUU29Oy"
+    },
+    {
+      "album": {
+        "name": "Out Of Control Vol.3",
+        "url": "https://open.spotify.com/album/59gABTdyEHWyB7qBIx7SpA"
+      },
+      "artists": [
+        {
+          "name": "OWLER",
+          "url": "https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr"
+        },
+        {
+          "name": "SIM2",
+          "url": "https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR"
+        },
+        {
+          "name": "Migoo",
+          "url": "https://open.spotify.com/artist/7BV43zSPYFU1W7SY6QbMcH"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "You So (feat. migoo)",
+      "url": "https://open.spotify.com/track/3crfuTcFmhXGSiURgSUMSM"
     },
     {
       "album": {

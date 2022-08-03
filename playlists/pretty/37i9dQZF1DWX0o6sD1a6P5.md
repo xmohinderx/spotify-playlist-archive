@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,804 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,527 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 46 | [Blessed](https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Blessed](https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7) | 2:55 |
 | 47 | [C'EST FAUX](https://open.spotify.com/track/5CAwH02CuQV9lYCwFEqn2v) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:23 |
 | 48 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 |
-| 49 | [Laisser tomber](https://open.spotify.com/track/1pYLvcfZwOiRLBlLlSSl4S) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Lafropop](https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB) | [Laisser tomber](https://open.spotify.com/album/3TtFeFYZfbJX323OZ1Ahqs) | 4:06 |
-| 50 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \- Edit](https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \[Edit\]](https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg) | 2:49 |
+| 49 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \- Edit](https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \[Edit\]](https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg) | 2:49 |
 
-Snapshot ID: `MTY1OTA0NTY2MCwwMDAwMDAwMDZiM2Q0ZTMyNzFmNjY2OGVlNTM3YWRkMWE5OWU0NWI2`
+Snapshot ID: `MTY1OTQ2MDQ1NywwMDAwMDAwMDMxY2JmNWVhNjJiNzIxNmQ4NmUxNzYzMDY1NzlkZWU5`

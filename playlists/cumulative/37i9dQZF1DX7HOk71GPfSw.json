@@ -2945,7 +2945,7 @@
       ],
       "date_added": "2021-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-26",
+      "date_removed": null,
       "duration_ms": 224142,
       "name": "BIPP",
       "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
@@ -3041,6 +3041,36 @@
       "duration_ms": 146946,
       "name": "Black Rum",
       "url": "https://open.spotify.com/track/0jvAU48GbRMFL68yenByaz"
+    },
+    {
+      "album": {
+        "name": "Cake Pop 2",
+        "url": "https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8"
+      },
+      "artists": [
+        {
+          "name": "Cake Pop",
+          "url": "https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        },
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        },
+        {
+          "name": "Lewis Grant",
+          "url": "https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146946,
+      "name": "Black Rum",
+      "url": "https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf"
     },
     {
       "album": {
@@ -4007,7 +4037,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 161280,
       "name": "c.w.u.c",
       "url": "https://open.spotify.com/track/1zZo5HS1jPKm0yWcrL7gxy"
@@ -6123,7 +6153,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 186696,
       "name": "DLYOF",
       "url": "https://open.spotify.com/track/0cSMAzptElaqXvJRNE3dKE"
@@ -9169,7 +9199,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 234000,
       "name": "Get What You Want",
       "url": "https://open.spotify.com/track/4P2KpTXbhif8Ca7Cwj97Cs"
@@ -11855,7 +11885,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 202816,
       "name": "i won't see tomorrow",
       "url": "https://open.spotify.com/track/0RGQ9vP28SXgPijoTkET8z"
@@ -12359,7 +12389,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 185000,
       "name": "iknowuknow (feat. 8485)",
       "url": "https://open.spotify.com/track/2atLO2BwDfGJplYlstYelV"
@@ -12465,7 +12495,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2021-02-10",
+      "date_removed": null,
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
@@ -16055,7 +16085,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-13",
+      "date_removed": null,
       "duration_ms": 247917,
       "name": "mos thoser",
       "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
@@ -18365,7 +18395,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-26",
+      "date_removed": null,
       "duration_ms": 166188,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Ruv9GEcztgqxDvbOL3ccT"
@@ -20987,7 +21017,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 145598,
       "name": "sellout",
       "url": "https://open.spotify.com/track/082x0jRDbx8Zsme0enu32B"
@@ -21247,6 +21277,28 @@
       "duration_ms": 127500,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/3wJSnKqCwy7vQRxpVq14WE"
+    },
+    {
+      "album": {
+        "name": "7G",
+        "url": "https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Show Me What",
+      "url": "https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp"
     },
     {
       "album": {
@@ -24644,6 +24696,24 @@
     },
     {
       "album": {
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326906,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "album": {
         "name": "Tramal",
         "url": "https://open.spotify.com/album/0iUZrL7KopTaRJo5KcEZn0"
       },
@@ -25139,7 +25209,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 147121,
       "name": "U Love It - Danny L Harle Remix",
       "url": "https://open.spotify.com/track/6hJ6h08aI2Ljmwj5p0utuG"
@@ -25379,7 +25449,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 183276,
       "name": "UNDONE",
       "url": "https://open.spotify.com/track/25LHlnz74eivcaMJBfkEbY"
@@ -25813,7 +25883,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2020-12-11",
+      "date_removed": null,
       "duration_ms": 114645,
       "name": "Voices",
       "url": "https://open.spotify.com/track/3Xuhi20r1A2FGQHAisL551"
@@ -25849,7 +25919,7 @@
       ],
       "date_added": "2021-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-26",
+      "date_removed": null,
       "duration_ms": 193270,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
@@ -25969,7 +26039,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 142105,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/3Wdf1ZrqRDZDXf81KsRpXY"

@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-180 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/65XrvyNxHjIi48t0HlAgZq)
+181 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/65XrvyNxHjIi48t0HlAgZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,8 +136,9 @@
 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 | 2022-06-24 |  |
 | [Run to You](https://open.spotify.com/track/5PiAz4IM5l7aetXIOVpufS) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Great Shaman Ga Doo Shim OST Part.1](https://open.spotify.com/album/5cvOQB1vP7IGW4ZnEIMAIR) | 3:45 | 2022-05-11 | 2022-06-04 |
 | [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 | 2022-06-24 |  |
-| [Shine Bright](https://open.spotify.com/track/4eBUVeGUelbA7hJKfo4z8n) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/38qslXFiGuokbX73CCHhew) | 4:25 | 2022-06-24 |  |
+| [Shine Bright](https://open.spotify.com/track/4eBUVeGUelbA7hJKfo4z8n) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/38qslXFiGuokbX73CCHhew) | 4:25 | 2022-06-24 | 2022-08-03 |
 | [Shine Bright](https://open.spotify.com/track/6LSZSsmKBwZpoAEI2y3c9W) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4Os8itvdFggekD8x7SXAiF) | 4:25 | 2022-05-11 | 2022-07-29 |
+| [Shine Bright](https://open.spotify.com/track/6j9Gz44NPTCewKoSxHxwqi) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Kkondae Intern OST Part 4](https://open.spotify.com/album/4r45yiczwTEjnU6BGHYte6) | 4:25 | 2022-06-24 |  |
 | [Shine on you 빛이 되어줄게](https://open.spotify.com/track/1xwdQb2loC5MhbkNPV4SuQ) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [The Tale Of Nokdu 조선로코 \- 녹두전 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4LtDoZ3dIPgoWWoflo7mhv) | 4:10 | 2022-06-24 | 2022-07-02 |
 | [Slowly Fall](https://open.spotify.com/track/20iKxZ9WfxHgTB2GVXpQMk) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [A PIECE OF YOUR MIND \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/12I9OaovCrdtLLroBYcnco) | 4:01 | 2022-05-11 | 2022-07-29 |
 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 | 2022-05-11 |  |

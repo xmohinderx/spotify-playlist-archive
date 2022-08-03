@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 534034,
+  "num_followers": 534370,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU2ODI2OCwwMDAwMDAwMDVjODQ1YmQ0MGVkNTkwMmI0NTJiMDM5YWY4Nzc4MThi",
+  "snapshot_id": "MTY1NzU2ODI2OCwwMDAwMDAwMDc3NGUzYWE4NDc4OTdiZGRkNmE2NGVkNmY0Y2M4ZmNl",
   "tracks": [
     {
       "added_at": "2022-07-11 19:37:48",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-07-11 19:37:48",
       "album": {
-        "name": "Lo Que Construimos - Spotify Singles",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos - Spotify Singles",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
-      "added_at": "2022-07-11 19:37:48",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+    },
+    {
+      "added_at": "2022-07-11 19:37:48",
+      "album": {
+        "name": "Lo Que Construimos - Spotify Singles",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-07-11 19:37:48",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-07-11 19:37:48",
       "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2022-07-11 19:37:48",
+      "album": {
         "name": "Tercera Noche",
         "url": "https://open.spotify.com/album/4KPbW9CjDYzEYJCTJ3oCAB"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 175982,
       "name": "Tercera Noche",
       "url": "https://open.spotify.com/track/0DPpsXoijB0H7OVsxx9Vqt"
-    },
-    {
-      "added_at": "2022-07-11 19:37:48",
-      "album": {
-        "name": "Terraformar",
-        "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 140929,
-      "name": "Terraformar",
-      "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
     },
     {
       "added_at": "2022-07-11 19:37:48",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-07-11 19:37:48",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+        "name": "Terraformar",
+        "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
         }
       ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+      "duration_ms": 140929,
+      "name": "Terraformar",
+      "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
     },
     {
       "added_at": "2022-07-11 19:37:48",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-11 19:37:48",
       "album": {
-        "name": "Fuentes de Ort\u00edz (Live session)",
-        "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Fuentes de Ort\u00edz (Live session)",
-      "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
-    },
-    {
-      "added_at": "2022-07-11 19:37:48",
-      "album": {
         "name": "H\u00e1blame de T\u00fa",
         "url": "https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 238480,
       "name": "Combusti\u00f3n",
       "url": "https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq"
+    },
+    {
+      "added_at": "2022-07-11 19:37:48",
+      "album": {
+        "name": "Fuentes de Ort\u00edz (Live session)",
+        "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Fuentes de Ort\u00edz (Live session)",
+      "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
     },
     {
       "added_at": "2022-07-11 19:37:48",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-07-11 19:37:48",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 150315,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo"
+    },
+    {
+      "added_at": "2022-07-11 19:37:48",
+      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 208289,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
-    },
-    {
-      "added_at": "2022-07-11 19:37:48",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 150315,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo"
     },
     {
       "added_at": "2022-07-11 19:37:48",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-07-11 19:37:48",
       "album": {
-        "name": "Ponte en Mi Lugar",
-        "url": "https://open.spotify.com/album/4uwXTB8SVFcBTXvfRcY5Pp"
-      },
-      "artists": [
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        },
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Ponte en Mi Lugar",
-      "url": "https://open.spotify.com/track/2fpGFJKJlpMPMRVqU1olyV"
-    },
-    {
-      "added_at": "2022-07-11 19:37:48",
-      "album": {
         "name": "Anhelos",
         "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 199936,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+    },
+    {
+      "added_at": "2022-07-11 19:37:48",
+      "album": {
+        "name": "Ponte en Mi Lugar",
+        "url": "https://open.spotify.com/album/4uwXTB8SVFcBTXvfRcY5Pp"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Ponte en Mi Lugar",
+      "url": "https://open.spotify.com/track/2fpGFJKJlpMPMRVqU1olyV"
     },
     {
       "added_at": "2022-07-11 19:37:48",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-07-11 19:37:48",
       "album": {
-        "name": "Despedida",
-        "url": "https://open.spotify.com/album/3SDScjJ7O8Vt3lXEf4JwSS"
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
       "artists": [
         {
-          "name": "Champ Jr.",
-          "url": "https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Despedida",
-      "url": "https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF"
+      "duration_ms": 247959,
+      "name": "Sabr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

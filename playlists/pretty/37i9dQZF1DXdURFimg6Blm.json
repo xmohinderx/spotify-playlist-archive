@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 386725,
+  "num_followers": 386761,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGJmNmNlMTcxMjJkN2I2NzM5ZDUxN2U3ZmMxOTE0YWUx",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDhmYjQ4MTNhNWNiM2RjOGY1MjQzYjAxMjliOWYyYjBl",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 129479,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y"
       },
@@ -883,30 +903,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "I Got A Feeling",
-        "url": "https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 144136,
-      "name": "I Got A Feeling",
-      "url": "https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
       },
@@ -927,22 +923,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
+        "name": "I Got A Feeling",
+        "url": "https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt"
       },
       "artists": [
         {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
         }
       ],
-      "duration_ms": 129479,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+      "duration_ms": 144136,
+      "name": "I Got A Feeling",
+      "url": "https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 132417,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 193422,
       "name": "Release",
       "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 132417,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1375,26 +1375,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Shooting Darts (with R3HAB & Prezioso)",
-        "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
         }
       ],
-      "duration_ms": 152903,
-      "name": "Shooting Darts (with R3HAB & Prezioso)",
-      "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1419,22 +1415,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+        "name": "Shooting Darts (with R3HAB & Prezioso)",
+        "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
+      "duration_ms": 152903,
+      "name": "Shooting Darts (with R3HAB & Prezioso)",
+      "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
     },
     {
       "added_at": "2022-07-29 04:01:00",

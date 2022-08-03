@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,358 likes - 110 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,350 likes - 110 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 10 | [Happy X\-Mas \(War Is Over\) \- Holiday Version](https://open.spotify.com/track/4RT2cdLuHfobI0JdqW7V1W) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Happy X\-Mas \(War Is Over\)](https://open.spotify.com/album/5b6FxRtl50vw0aIxiTT1eN) | 3:34 |
 | 11 | [Christmas Treat](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:11 |
 | 12 | [Christmas Time \(Is Here Again\)](https://open.spotify.com/track/2jNdOB7P8haPjgvPoYBzkY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Christmas Time \(Is Here Again\)](https://open.spotify.com/album/0HB7Iia18Csd34x85Apsnb) | 3:56 |
-| 13 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2wIOEh6QNccqsHYEPZTrRP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [I Believe In Father Christmas EP](https://open.spotify.com/album/6RvE3NTJQI7P732gb8o4zD) | 2:19 |
+| 13 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6CT7ZQKVafBZjCOCafy5Ad) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas](https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4) | 2:19 |
 | 14 | [12 Days of Christmas](https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 3:33 |
 | 15 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
 | 16 | [Back Door Santa](https://open.spotify.com/track/2WhXgMG0rkNekIB98RHfEM) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Back Door Santa](https://open.spotify.com/album/0ZBgME8B93wdLfeR9mVInX) | 2:26 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 109 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 | 110 | [Sally Sweet Tooth](https://open.spotify.com/track/3zQIGDsyha7U1oOqBI0tp2) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Sally Sweet Tooth](https://open.spotify.com/album/2SPl2Y34jBPaW7w1SlG8N3) | 2:39 |
 
-Snapshot ID: `MTYzOTQxNjgwMSwwMDAwMDAwMGQ4ZDAzZGY1YmUxYTM3ZGYwODBmZGUzOTMwNDg1ZWM5`
+Snapshot ID: `MTYzOTQxNjgwMSwwMDAwMDAwMGFjZWI2NjBiNDdjMjI1MDlkNjczY2EzNmNiNzg4M2Yz`

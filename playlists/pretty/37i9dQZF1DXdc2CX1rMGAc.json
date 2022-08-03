@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 116283,
+  "num_followers": 116345,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3OTYwMywwMDAwMDAwMDViNTg1ZmViMjUwOTkyMjcxNmQ3YTQzYTM5NGRhZTYx",
+  "snapshot_id": "MTY1OTA3OTYwMywwMDAwMDAwMDUxMWExYmFjMGIyMTFjNzQwNzJkM2MyZTlmODU2OWQ4",
   "tracks": [
     {
       "added_at": "2022-07-29 07:26:43",
@@ -247,22 +247,18 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2022-07-29 07:26:43",
@@ -303,18 +299,22 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2022-07-29 07:26:43",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2022-07-29 07:26:43",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2022-07-29 07:26:43",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2022-07-29 07:26:43",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
-    },
-    {
-      "added_at": "2022-07-29 07:26:43",
-      "album": {
         "name": "SEJODIOTO",
         "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2022-07-29 07:26:43",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
     },
     {
       "added_at": "2022-07-29 07:26:43",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
-        "name": "Mama Tetema (feat. Rayvanny)",
-        "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        }
-      ],
-      "duration_ms": 188087,
-      "name": "Mama Tetema (feat. Rayvanny)",
-      "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
-    },
-    {
-      "added_at": "2022-07-29 07:26:43",
-      "album": {
         "name": "Pa' Eso Se Hizo",
         "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 149600,
       "name": "Pa' Eso Se Hizo",
       "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+    },
+    {
+      "added_at": "2022-07-29 07:26:43",
+      "album": {
+        "name": "Mama Tetema (feat. Rayvanny)",
+        "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "duration_ms": 188087,
+      "name": "Mama Tetema (feat. Rayvanny)",
+      "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
     },
     {
       "added_at": "2022-07-29 07:26:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
-        "name": "Air Drop",
-        "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 205565,
-      "name": "Air Drop",
-      "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
-    },
-    {
-      "added_at": "2022-07-29 07:26:43",
-      "album": {
         "name": "4K",
         "url": "https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 201500,
       "name": "4K",
       "url": "https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp"
+    },
+    {
+      "added_at": "2022-07-29 07:26:43",
+      "album": {
+        "name": "Air Drop",
+        "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 205565,
+      "name": "Air Drop",
+      "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
     },
     {
       "added_at": "2022-07-29 07:26:43",
@@ -2015,6 +2015,26 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
+        "name": "Los De Siempre",
+        "url": "https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Los De Siempre",
+      "url": "https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS"
+    },
+    {
+      "added_at": "2022-07-29 07:26:43",
+      "album": {
         "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
         "url": "https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo"
       },
@@ -2035,26 +2055,6 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
-    },
-    {
-      "added_at": "2022-07-29 07:26:43",
-      "album": {
-        "name": "Los De Siempre",
-        "url": "https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Los De Siempre",
-      "url": "https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS"
     },
     {
       "added_at": "2022-07-29 07:26:43",
@@ -2179,26 +2179,6 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
-        "name": "GOTA GOTA",
-        "url": "https://open.spotify.com/album/2ua6Bo808O7PYttNeBNYD1"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "GOTA GOTA",
-      "url": "https://open.spotify.com/track/1oBbet1xcWpWgOw2Ddzsaj"
-    },
-    {
-      "added_at": "2022-07-29 07:26:43",
-      "album": {
         "name": "Noche en LA",
         "url": "https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 209891,
       "name": "Noche en LA",
       "url": "https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS"
+    },
+    {
+      "added_at": "2022-07-29 07:26:43",
+      "album": {
+        "name": "GOTA GOTA",
+        "url": "https://open.spotify.com/album/2ua6Bo808O7PYttNeBNYD1"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "GOTA GOTA",
+      "url": "https://open.spotify.com/track/1oBbet1xcWpWgOw2Ddzsaj"
     },
     {
       "added_at": "2022-07-29 07:26:43",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2022-07-29 07:26:43",
       "album": {
-        "name": "Ma' G",
-        "url": "https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "Ma' G",
-      "url": "https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f"
-    },
-    {
-      "added_at": "2022-07-29 07:26:43",
-      "album": {
         "name": "Nos Matamos",
         "url": "https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV"
       },
@@ -2751,6 +2735,22 @@
       "duration_ms": 270680,
       "name": "Nos Matamos",
       "url": "https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA"
+    },
+    {
+      "added_at": "2022-07-29 07:26:43",
+      "album": {
+        "name": "Ma' G",
+        "url": "https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "Ma' G",
+      "url": "https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f"
     },
     {
       "added_at": "2022-07-29 07:26:43",

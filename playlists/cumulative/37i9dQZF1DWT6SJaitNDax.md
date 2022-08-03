@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=BTR6ApmMTNm\_3xNhhimsFw">Tems</a>
 
-317 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/50Q1v3oZfufg8td6P4MbdJ)
+318 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/50Q1v3oZfufg8td6P4MbdJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [AWAY](https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [AWAY](https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy) | 2:44 | 2022-07-25 |  |
 | [AWAY](https://open.spotify.com/track/2fu4D1jrlwF1go7S2Fr3qD) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [AWAY](https://open.spotify.com/album/1kCL1jgUjErm9xKMufJDnb) | 2:44 | 2021-09-10 | 2022-07-29 |
 | [Baajo](https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baajo](https://open.spotify.com/album/4Yi1z6QAHnztoLxZqNiDEg) | 2:40 | 2021-09-10 | 2022-07-15 |
-| [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 | 2021-09-10 |  |
+| [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 | 2021-09-10 | 2022-08-03 |
 | [Babygirl](https://open.spotify.com/track/2gQq0xEkkNTBk1jMdl5tpC) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Babygirl](https://open.spotify.com/album/6gCKuR1gyw0FZ7J0Y2pwwx) | 2:49 | 2022-03-25 | 2022-04-30 |
+| [Bad Girl \(feat\. Wande Coal and Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal and Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 | 2022-07-29 |  |
 | [Bad Shit](https://open.spotify.com/track/56ds3Qaiq7ohTYmELvPDs0) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Bad Shit](https://open.spotify.com/album/0GV1YZsYOqN4NWBi3saccU) | 3:12 | 2021-09-10 | 2022-07-28 |
 | [Badman Love \- Remix](https://open.spotify.com/track/5iRSqf87cY8ldNrPpbymRq) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Badman Love](https://open.spotify.com/album/7CSNUozGeW1fzxvDjY1RvA) | 2:48 | 2021-09-10 | 2022-07-27 |
 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 | 2021-09-10 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-418 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+419 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/track/29E8BUUDQbc5S7jMPOj9wW) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/album/6QQTFhzZZ9aruyijHIPogD) | 2:53 | 2021-03-27\* | 2021-09-12 |
 | [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2021-03-27\* | 2021-08-03 |
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/7vnw2nU0xpc9RABEgc3pxQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From แปลรักฉันด้วยใจเธอ\)](https://open.spotify.com/album/6RRpP4CaftCir8eUBwG5mh) | 3:57 | 2021-08-03 | 2021-11-17 |
-| [โต๊ะริม \(Melt\)](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม \(Melt\)](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-21 |  |
+| [โต๊ะริม \(Melt\)](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม \(Melt\)](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-21 | 2022-08-03 |
+| [โต๊ะริม \- melt](https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 4:07 | 2022-08-02 |  |
 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 | 2022-05-15 |  |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 | 2022-07-26 |
 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 | 2022-06-02 |  |

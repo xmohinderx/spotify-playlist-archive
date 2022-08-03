@@ -4351,7 +4351,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 168750,
       "name": "Jag Lovar",
       "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
@@ -8355,6 +8355,24 @@
       "duration_ms": 190693,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151816,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
     },
     {
       "album": {

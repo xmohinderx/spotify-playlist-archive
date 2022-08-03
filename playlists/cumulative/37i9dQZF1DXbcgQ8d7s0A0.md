@@ -4,7 +4,7 @@
 
 > Chill out to the sweetest soul songs.
 
-144 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/7xn5yJaidaf1p3Zso53LRw)
+145 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/7xn5yJaidaf1p3Zso53LRw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 | 2021-02-18 |  |
 | [As](https://open.spotify.com/track/6RdPQL64TSTPHZKYnpxAhT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/1RspINIRNK1WiHUHoYqdXx) | 7:08 | 2021-02-18 | 2022-07-29 |
 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 | 2021-02-18 |  |
-| [Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Every Home Should Have One](https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU) | 3:35 | 2021-02-18 |  |
+| [Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Every Home Should Have One](https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU) | 3:35 | 2021-02-18 | 2022-08-03 |
 | [Baby, Come To Me](https://open.spotify.com/track/6sie6gBxTyeelQdKrHPL84) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [Love, Q](https://open.spotify.com/album/5lKyPjUwpHwpKsNfQWBSJD) | 3:36 | 2021-02-18 | 2022-07-29 |
 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 | 2021-02-18 | 2022-07-29 |
 | [Being With You \- Single Version](https://open.spotify.com/track/17mbqOI5bHdmoAJkCcfpE7) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Love Songs](https://open.spotify.com/album/3sOjqLDmsoeaKzcRcKIEe1) | 4:01 | 2021-02-18 | 2022-06-01 |
@@ -72,6 +72,7 @@
 | [Lead Me On](https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Lay It On Me: The Columbia Years](https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV) | 2:12 | 2021-02-18 | 2022-07-27 |
 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 | 2021-02-18 |  |
 | [Let The Music Play](https://open.spotify.com/track/12XXl1RIZFZjL74kSRqblf) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Ultimate Collection](https://open.spotify.com/album/21JfWJ9OpjUFaG9dmAvcOP) | 3:30 | 2021-02-18 | 2022-04-29 |
+| [Let The Music Play \- Single Version](https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 3:30 | 2021-02-18 |  |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2021-02-18 |  |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2021-02-18 | 2022-07-29 |
 | [Liberian Girl \- 2012 Remastered Version](https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:52 | 2021-02-18 |  |

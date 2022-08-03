@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwNTA3NiwwMDAwMDAwMGQ3NGQ5OGJmMjdjODY2NDJjNWU2YTY5OTgzY2RmZTdi",
+  "snapshot_id": "MTY1ODUwNTA3NiwwMDAwMDAwMDIxMWQ0ZGVmZDFiY2VhNDZkNzI0ZDcyYmQ0ZDRhMjU5",
   "tracks": [
     {
       "added_at": "2022-07-22 15:51:16",
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/0fn7UEGVBI22jMeeH7R4rj"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/0fn7UEGVBI22jMeeH7R4rj"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Carin\u0303ito",
+      "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/0PGUfPHlpE3MeYZgRsbWhw"
       },
@@ -1303,22 +1323,18 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Carin\u0303ito",
-      "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1371,22 +1387,6 @@
       "duration_ms": 230893,
       "name": "Deja",
       "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1519,6 +1519,38 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
+        "name": "Fashion Freak",
+        "url": "https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 150606,
+      "name": "Fashion Freak",
+      "url": "https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
+        "name": "Californication (Feels Like I'm Falling In Love)",
+        "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 180327,
+      "name": "Californication (Feels Like I'm Falling In Love)",
+      "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
         "name": "The View From Halfway Down - Spotify Singles",
         "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
       },
@@ -1539,18 +1571,18 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "Californication (Feels Like I'm Falling In Love)",
-        "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
       },
       "artists": [
         {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 180327,
-      "name": "Californication (Feels Like I'm Falling In Love)",
-      "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
+      "duration_ms": 174053,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1575,34 +1607,18 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "Fashion Freak",
-        "url": "https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890"
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
       "artists": [
         {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
         }
       ],
-      "duration_ms": 150606,
-      "name": "Fashion Freak",
-      "url": "https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1619,22 +1635,6 @@
       "duration_ms": 181894,
       "name": "Ambar Bossa Nova - Spotify Singles",
       "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
-      },
-      "artists": [
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2022-07-22 15:51:16",

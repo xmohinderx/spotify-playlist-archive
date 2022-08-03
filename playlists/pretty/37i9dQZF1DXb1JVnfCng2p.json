@@ -1,12 +1,12 @@
 {
   "description": "Get ready for dinner with some upbeat, cool, funky and cooking jazz.",
-  "num_followers": 17438,
+  "num_followers": 17459,
   "original_name": "Cooking Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUwMDk5MSwwMDAwMDAwMDkxYzk3MWQxY2Q2NWI1ZWIyNGJmZDM3ZGQwYWFlZTA2",
+  "snapshot_id": "MTY1NjUwMDk5MSwwMDAwMDAwMDhmMjkxNjdlNWNkN2ZiODQ2YWI4ZGUzNDFkZWY5OTM5",
   "tracks": [
     {
       "added_at": "2022-06-29 11:09:51",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Criss-Cross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
       },
       "artists": [
         {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 233066,
-      "name": "Rhythm-A-Ning",
-      "url": "https://open.spotify.com/track/0IbD8xojkJgwh9lLu8hoxg"
+      "duration_ms": 322586,
+      "name": "Room 608 - Remastered",
+      "url": "https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 322586,
-      "name": "Room 608 - Remastered",
-      "url": "https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50"
+      "duration_ms": 233066,
+      "name": "Rhythm-A-Ning",
+      "url": "https://open.spotify.com/track/0IbD8xojkJgwh9lLu8hoxg"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -491,22 +491,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Oscar Peterson Trio Plus One",
-        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+        "name": "Newk's Time",
+        "url": "https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Brotherhood Of Man",
-      "url": "https://open.spotify.com/track/2vAldccB7bRPaHdYG7Oohk"
+      "duration_ms": 404146,
+      "name": "Blues For Philly Joe - Remastered",
+      "url": "https://open.spotify.com/track/0gYVHFAlcb42DZ5cQQh4nj"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -543,18 +539,22 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Newk's Time",
-        "url": "https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY"
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 404146,
-      "name": "Blues For Philly Joe - Remastered",
-      "url": "https://open.spotify.com/track/0gYVHFAlcb42DZ5cQQh4nj"
+      "duration_ms": 214946,
+      "name": "Brotherhood Of Man",
+      "url": "https://open.spotify.com/track/2vAldccB7bRPaHdYG7Oohk"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Them Dirty Blues",
-        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
       "artists": [
         {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 438133,
-      "name": "Jeannine - Remastered",
-      "url": "https://open.spotify.com/track/5yBiR8gx0EwlVow5mYWpT6"
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -663,26 +663,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Bluesy Burrell",
-        "url": "https://open.spotify.com/album/3AlZ0JVd44GuMrx0RVrzzF"
+        "name": "Them Dirty Blues",
+        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Montono Blues",
-      "url": "https://open.spotify.com/track/5CVm6NEFOwGKa5QraGTUUH"
+      "duration_ms": 438133,
+      "name": "Jeannine - Remastered",
+      "url": "https://open.spotify.com/track/5yBiR8gx0EwlVow5mYWpT6"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -719,18 +711,26 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "Bluesy Burrell",
+        "url": "https://open.spotify.com/album/3AlZ0JVd44GuMrx0RVrzzF"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
         }
       ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+      "duration_ms": 284373,
+      "name": "Montono Blues",
+      "url": "https://open.spotify.com/track/5CVm6NEFOwGKa5QraGTUUH"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Things Are Getting Better",
-        "url": "https://open.spotify.com/album/3w30g2Rp4k57BouWEwDpqI"
+        "name": "Nigeria",
+        "url": "https://open.spotify.com/album/0Y6W91kVInjDUUluGVDHej"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 430600,
-      "name": "Things Are Getting Better",
-      "url": "https://open.spotify.com/track/4TYNkEldSdfGuSJ2hv6Exr"
+      "duration_ms": 622173,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/1upMiZ1Aj4sGgZPSNqfxxs"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Nigeria",
-        "url": "https://open.spotify.com/album/0Y6W91kVInjDUUluGVDHej"
+        "name": "Things Are Getting Better",
+        "url": "https://open.spotify.com/album/3w30g2Rp4k57BouWEwDpqI"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
         }
       ],
-      "duration_ms": 622173,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/1upMiZ1Aj4sGgZPSNqfxxs"
+      "duration_ms": 430600,
+      "name": "Things Are Getting Better",
+      "url": "https://open.spotify.com/track/4TYNkEldSdfGuSJ2hv6Exr"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "A Jazz Message",
+        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Art Blakey Quartet",
+          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
         }
       ],
-      "duration_ms": 259586,
-      "name": "Birk's Works",
-      "url": "https://open.spotify.com/track/2GlOhERrjjT5otcBi0jYa2"
+      "duration_ms": 440093,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/1Omb3itM2gJlnciYRElXTe"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "A Jazz Message",
-        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
       "artists": [
         {
-          "name": "Art Blakey Quartet",
-          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 440093,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/1Omb3itM2gJlnciYRElXTe"
+      "duration_ms": 259586,
+      "name": "Birk's Works",
+      "url": "https://open.spotify.com/track/2GlOhERrjjT5otcBi0jYa2"
     },
     {
       "added_at": "2022-06-29 11:09:51",

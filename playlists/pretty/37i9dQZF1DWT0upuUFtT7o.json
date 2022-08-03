@@ -1,13 +1,29 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Tchotchke, Artwork: Robin Clifford Ellis ",
-  "num_followers": 149941,
+  "num_followers": 149977,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzNjIyMCwwMDAwMDAwMGMyMmJkZGZkZmQ5ZmE4MGFlYjhiYjExMDI1MTRhNDMy",
+  "snapshot_id": "MTY1OTQ2NDM1NywwMDAwMDAwMGZlMTA2ZjYxZTUyNThhY2EyYjljNzMxNGMyYTU3ZWNk",
   "tracks": [
+    {
+      "added_at": "2022-08-02 18:19:17",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/00H2kofTJ1dTuAsukAPGch"
+      },
+      "artists": [
+        {
+          "name": "Julian Julian",
+          "url": "https://open.spotify.com/artist/2ybJ6LN0Flw0puQaTbOL9p"
+        }
+      ],
+      "duration_ms": 124007,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/0U3uS22zJwNgT8Zfj8qazh"
+    },
     {
       "added_at": "2022-07-27 15:35:54",
       "album": {
@@ -883,22 +899,6 @@
       "duration_ms": 178000,
       "name": "The Bended Man",
       "url": "https://open.spotify.com/track/6aKj56S8DrVrwiRraHd72f"
-    },
-    {
-      "added_at": "2022-07-06 23:08:29",
-      "album": {
-        "name": "Wave Runner",
-        "url": "https://open.spotify.com/album/6ZbhG9E9VAdpwZiC2DH06A"
-      },
-      "artists": [
-        {
-          "name": "Glaze",
-          "url": "https://open.spotify.com/artist/5gLtTxcMc99WAeidxGaFxu"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "Wave Runner",
-      "url": "https://open.spotify.com/track/5l2ImJyksHdd9baqdCX9a0"
     },
     {
       "added_at": "2022-07-06 23:08:29",

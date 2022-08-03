@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > in the evening the real me comes alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,858 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,127 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 48 | [Lights & Music](https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:37 |
 | 49 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 |
 | 50 | [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 |
-| 51 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
-| 52 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
+| 51 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
+| 52 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
 | 53 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 |
 | 54 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 |
 | 55 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 61 | [Far Cry](https://open.spotify.com/track/1XbclEPLmGD9jYPzdR4avl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 4:38 |
 | 62 | [Everybody Wants It](https://open.spotify.com/track/088lc5Y2AY6pQw6PG2Gm9X) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg), [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [Everybody Wants It](https://open.spotify.com/album/2W6n5qvGnLQjSZuvIfb85T) | 3:24 |
 | 63 | [Die 4 Ur Love](https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love \(Deluxe\)](https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj) | 3:19 |
-| 64 | [The Woman I Am](https://open.spotify.com/track/6CBS6AS5vgUMb6hW2WCiX1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/43l45TcznI4U1gqraFZ0Tx) | 3:13 |
-| 65 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 |
-| 66 | [Let's Get It Right \- Edit](https://open.spotify.com/track/7LTpwZbsZYnK0xnFSfnfxc) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Let's Get It Right](https://open.spotify.com/album/2ddb06dZsTW898KP4SKhXd) | 3:19 |
-| 67 | [Married to Your Melody](https://open.spotify.com/track/5G0gqPXbupyLOqUrWksyEY) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/0wjWPQyNGZ92HWz5sdCyxt) | 2:58 |
-| 68 | [Save Me](https://open.spotify.com/track/0B4Jl6HsG9hS3Q2vOfV9Kf) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/0aYqbPXUoilLlYD7GZVvhf) | 3:18 |
-| 69 | [In The Dark](https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY) | 3:05 |
-| 70 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
-| 71 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
+| 64 | [Let's Get It Right \- Edit](https://open.spotify.com/track/7LTpwZbsZYnK0xnFSfnfxc) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Let's Get It Right](https://open.spotify.com/album/2ddb06dZsTW898KP4SKhXd) | 3:19 |
+| 65 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
+| 66 | [The Woman I Am](https://open.spotify.com/track/6CBS6AS5vgUMb6hW2WCiX1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/43l45TcznI4U1gqraFZ0Tx) | 3:13 |
+| 67 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 |
+| 68 | [Married to Your Melody](https://open.spotify.com/track/5G0gqPXbupyLOqUrWksyEY) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/0wjWPQyNGZ92HWz5sdCyxt) | 2:58 |
+| 69 | [Save Me](https://open.spotify.com/track/0B4Jl6HsG9hS3Q2vOfV9Kf) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/0aYqbPXUoilLlYD7GZVvhf) | 3:18 |
+| 70 | [In The Dark](https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY) | 3:05 |
+| 71 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
 | 72 | [Fade Away](https://open.spotify.com/track/0IWBaEf7GOwKPKHyC32E1z) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh) | 3:18 |
 | 73 | [Say You're In Love](https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Say You're In Love](https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL) | 4:00 |
 | 74 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 |
 | 75 | [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 |
 
-Snapshot ID: `MTY1OTI4MTc3MiwwMDAwMDAwMGVjZTgxZWYxZjk2NTQ3MGNkODBjYmMwM2E0MTM0MWY1`
+Snapshot ID: `MTY1OTI4MTc3MiwwMDAwMDAwMDczYTcyMmUzZTZkZjEyMDlkYjBiZmM3NjljZjE0MzY4`

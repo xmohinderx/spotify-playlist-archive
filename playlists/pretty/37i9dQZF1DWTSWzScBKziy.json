@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81242,
+  "num_followers": 81258,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDE2ZmI4MTAxYjEwYjkyMjJmNWZhNTVlNzk4MTQ3ODRk",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDFhM2U3MmRmNWM5NjNjYjE2NzczZGZkZjhlZGNkNjE5",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "Time and Time Again",
+      "url": "https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "Time and Time Again",
-      "url": "https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Thank God For Sunday Morning",
         "url": "https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb"
       },
@@ -191,22 +191,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Teach Me to Dance (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
+        "name": "Take It To Jesus",
+        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
       },
       "artists": [
         {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        },
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 218510,
-      "name": "Teach Me to Dance (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
+      "duration_ms": 268288,
+      "name": "Take It To Jesus",
+      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -227,18 +223,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Take It To Jesus",
-        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
+        "name": "Teach Me to Dance (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
       "artists": [
         {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        },
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
         }
       ],
-      "duration_ms": 268288,
-      "name": "Take It To Jesus",
-      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
+      "duration_ms": 218510,
+      "name": "Teach Me to Dance (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Cain",
-          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
-        }
-      ],
-      "duration_ms": 234185,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Who You Want Me To Be",
         "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Cain",
+          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Grace Greater",
-        "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
-      },
-      "artists": [
-        {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
-        }
-      ],
-      "duration_ms": 262369,
-      "name": "Grace Greater",
-      "url": "https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "YOUTH (spring)",
         "url": "https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 196080,
       "name": "YOUTH (spring)",
       "url": "https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Grace Greater",
+        "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "duration_ms": 262369,
+      "name": "Grace Greater",
+      "url": "https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Places (Des Endroits)",
-        "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
-      },
-      "artists": [
-        {
-          "name": "Armand Mukenge",
-          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
-        },
-        {
-          "name": "Mbushka",
-          "url": "https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Places (Des Endroits)",
-      "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "How Can I Be Silent",
         "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 228253,
       "name": "Rest In You",
       "url": "https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Places (Des Endroits)",
+        "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        },
+        {
+          "name": "Mbushka",
+          "url": "https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Places (Des Endroits)",
+      "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "From the Ballroom",
+        "url": "https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 290579,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/5aY9OqT1l9HrMMK66ZbqKe"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 209520,
       "name": "we all need saving",
       "url": "https://open.spotify.com/track/1uNHA4tsOgrkKNQztsEVE5"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "From the Ballroom",
-        "url": "https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 290579,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe"
     },
     {
       "added_at": "2022-05-27 18:07:44",

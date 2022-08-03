@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Hayley Kiyoko
 
-1,210 songs - 2 day 12 hr 11 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,211 songs - 2 day 12 hr 15 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,8 @@
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-07-29 |  |
 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 | 2022-07-15 | 2022-07-30 |
 | [Colorado Boulder](https://open.spotify.com/track/415cidxCKnjZg9l7dAnVJp) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Colorado Boulder](https://open.spotify.com/album/5hF6qsppuOKFRmgeCKwj2T) | 2:43 | 2022-02-25 | 2022-03-26 |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |
 | [Combust](https://open.spotify.com/track/4iGDpXZd5X5n5scd5Nzj44) | [Laiko](https://open.spotify.com/artist/0SQAiYrcEsisHTLuDzffgX), [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [Combust](https://open.spotify.com/album/5WWdMAQKF3HmktVG8oSoRR) | 2:39 | 2022-04-22 | 2022-04-29 |
 | [Come Around](https://open.spotify.com/track/3TpkcCHblOWMzalss4ug24) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Come Around](https://open.spotify.com/album/4uHx96O6wgOe0RN01ApoKT) | 2:53 | 2022-02-25 | 2022-03-05 |
 | [Come Back Home \- From "Purple Hearts"](https://open.spotify.com/track/2mPXui72mlIYR5sQUPZXwP) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Come Back Home \(From "Purple Hearts"\)](https://open.spotify.com/album/2O6Q9yickLm8XJfvy1SPdx) | 2:56 | 2022-07-15 | 2022-07-30 |

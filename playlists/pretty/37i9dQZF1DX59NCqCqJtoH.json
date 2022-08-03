@@ -1,12 +1,12 @@
 {
   "description": "We hear you",
-  "num_followers": 868583,
+  "num_followers": 869248,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3Mzg2MCwwMDAwMDAwMDA3NWRiYjNkMjI3OGFhMzc5OTExYmFiOTFlNmVkMzc5",
+  "snapshot_id": "MTY1OTA3Mzg2MCwwMDAwMDAwMDQ3MTg5ZDMzM2Y4NGMwNTRlODc2OTE0MzMzNGQzODJh",
   "tracks": [
     {
       "added_at": "2022-07-29 05:51:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
+        "name": "Not a Home",
+        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Not a Home",
+      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
+    },
+    {
+      "added_at": "2022-07-29 05:51:00",
+      "album": {
         "name": "Kenny",
         "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
       },
@@ -1355,26 +1371,6 @@
       "duration_ms": 194133,
       "name": "Kenny",
       "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX"
-      },
-      "artists": [
-        {
-          "name": "CuBox",
-          "url": "https://open.spotify.com/artist/4zlFLeqKTteBjaFysGR9CU"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 170027,
-      "name": "Losing Interest",
-      "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -1395,18 +1391,22 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
-        "name": "Not a Home",
-        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX"
       },
       "artists": [
         {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+          "name": "CuBox",
+          "url": "https://open.spotify.com/artist/4zlFLeqKTteBjaFysGR9CU"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 169010,
-      "name": "Not a Home",
-      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
+      "duration_ms": 170027,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
     },
     {
       "added_at": "2022-07-29 05:51:00",

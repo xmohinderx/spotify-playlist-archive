@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,021 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,022 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 21 | [Masterpiece \(80s Remix\)](https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx) | [Summer Luk](https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd) | [Masterpiece \(80s Remix\)](https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z) | 3:58 |
 | 22 | [Need Ya](https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U) | [good juju : vol\. 1](https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS) | 3:01 |
 | 23 | [Robbed](https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Rules!](https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga) | 3:22 |
-| 24 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 |
-| 25 | [Boys Aside](https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [Boys Aside](https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq) | 3:50 |
+| 24 | [Boys Aside](https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [Boys Aside](https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq) | 3:50 |
+| 25 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 |
 | 26 | [What Happened, Happened](https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [What Happened, Happened](https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ) | 3:04 |
 | 27 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
 | 28 | [Abide](https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG) | [Summer Luk](https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd) | [Abide](https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO) | 3:11 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 42 | [I'm Alright](https://open.spotify.com/track/3a4RFjxPCttnbX5jgKxUuR) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [I'm Alright](https://open.spotify.com/album/0021hkIWKyizFTcZepAUfe) | 3:14 |
 | 43 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 
-Snapshot ID: `MTY1NDIyODg2MCwwMDAwMDAwMDNjYjNlOTQzMDA5MDdkYTNiZWI0ZjYxYzliNmIxOGYx`
+Snapshot ID: `MTY1NDIyODg2MCwwMDAwMDAwMDFmYTk5NmEwMjkxZWZhNWRiMzhmNzc5N2ViOWE2ODlm`

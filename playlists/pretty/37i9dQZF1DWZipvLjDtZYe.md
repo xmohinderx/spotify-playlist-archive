@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！© Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,583 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,746 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 25 | [FREELY TOMORROW](https://open.spotify.com/track/2JgyM0s5hTINiVaqJNMkVq) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [グレイテスト・アイドル](https://open.spotify.com/album/0Pj2RT0PsvryvBrC8B0tS4) | 4:00 |
 | 26 | [Hand in Hand](https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hand in Hand](https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d) | 5:12 |
 | 27 | [ハロ/ハワユ](https://open.spotify.com/track/1CEC3JNSQy8OQXmnuLcA1D) | [ナノウ](https://open.spotify.com/artist/0jyBcr7uru5IocRAewL5c1) | [ハロ/ハワユ](https://open.spotify.com/album/5AXf1QYXxZhVZCAisdRnNj) | 4:45 |
-| 28 | [結んで開いて羅刹と骸 \- ORIGINAL](https://open.spotify.com/track/78CLS3KSLe3oYvJQ7qCEqj) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:25 |
+| 28 | [秘密警察](https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP) | [Buriru](https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv) | [秘密警察](https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe) | 3:30 |
 | 29 | [ワールズエンド・ダンスホール \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 3:43 |
-| 30 | [秘密警察](https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP) | [Buriru](https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv) | [秘密警察](https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe) | 3:30 |
+| 30 | [結んで開いて羅刹と骸 \- ORIGINAL](https://open.spotify.com/track/78CLS3KSLe3oYvJQ7qCEqj) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:25 |
 | 31 | [こちら、幸福安心委員会です。](https://open.spotify.com/track/3yphjYSP0G3gvCPQnuEDXu) | [UtataP](https://open.spotify.com/artist/4nJ7Ep2mxcpCNqeZB253py) | [こちら、幸福安心委員会です。](https://open.spotify.com/album/56sWRIN1gf2RHXrUUFocZ7) | 4:31 |
 | 32 | [Nyanyanyanyanyanyanya!](https://open.spotify.com/track/12dIZe3xCPeetNkdovFxxk) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Nyanyanyanyanyanyanya!](https://open.spotify.com/album/7JRhwPHdxrzyRuKfGVlR51) | 3:46 |
 | 33 | [Ievan Polkka](https://open.spotify.com/track/4bbal9R1czCDOFCfN3Oopz) | [Otomania](https://open.spotify.com/artist/5u409bNeWLTpcXnwusQdfx) | [Ievan Polkka](https://open.spotify.com/album/2e9OzJMQhqBzxW77vXmPam) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 49 | [Twilight ∞ nighT](https://open.spotify.com/track/3QXRtqgt8rS70qA6j02HOM) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [EVER DREAM](https://open.spotify.com/album/46BJOovo6b2j3nFOGS0Nyj) | 3:44 |
 | 50 | [みくみくにしてあげる♪【してやんよ】 \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5mLPTVNnyp7zJkmDOl4FIS) | [Ika](https://open.spotify.com/artist/5cPwMq2sLgOTGX7FHIcd3n) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 2:29 |
 
-Snapshot ID: `MTYzMjQxNzkzMCwwMDAwMDAwMGVhNzQyYjU0MGM3Zjk5MzAzYjkwZWE2YjhjNzliYWU5`
+Snapshot ID: `MTYzMjQxNzkzMCwwMDAwMDAwMGI4MjVlZjJjODYwMDNlNjIwM2NiMGM0YzA0MDFmNzg1`

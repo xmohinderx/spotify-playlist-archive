@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,018 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,209 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 20 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 |
 | 21 | [Manos de Tijera \- En Vivo](https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Manos de Tijera \(En Vivo\)](https://open.spotify.com/album/3Hl655PnrXY7j3hC35xN75) | 4:18 |
 | 22 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 |
-| 23 | [Que Bonito](https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/3LPgoY2iN8kCmKhXp16NuN) | 3:58 |
+| 23 | [Eso Duele](https://open.spotify.com/track/248ZoUtGhfMzv7jhDIOK68) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Pa' Que Sigan Bailando](https://open.spotify.com/album/2wD1zIR4RN2YxcVFVVYodt) | 3:52 |
 | 24 | [Adicto A Ti](https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Snagre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 4:06 |
 | 25 | [Q' Tal](https://open.spotify.com/track/6KaxyYZhOU04b8IlJk7qOl) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Una Pasión](https://open.spotify.com/album/6yws1EOBYGXGK2kxgdUopP) | 3:10 |
 | 26 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 29 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
 | 30 | [Me Dicen Borracho](https://open.spotify.com/track/5DZlKZkHLdm9tyhyMgpaZV) | [Algarabía](https://open.spotify.com/artist/64aQuroWfgnTEBQwcyjScT) | [Me Dicen Borracho](https://open.spotify.com/album/0i9WLDhwhlNA2O8uwgKQqx) | 2:35 |
 | 31 | [Gabriela](https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:28 |
-| 32 | [Eso Duele](https://open.spotify.com/track/248ZoUtGhfMzv7jhDIOK68) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Pa' Que Sigan Bailando](https://open.spotify.com/album/2wD1zIR4RN2YxcVFVVYodt) | 3:52 |
+| 32 | [Que Bonito](https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/3LPgoY2iN8kCmKhXp16NuN) | 3:58 |
 | 33 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
 | 34 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
 | 35 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 94 | [Clavadito en Mi Piel](https://open.spotify.com/track/6o6e6brRpDEoHopQAeKwy1) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Clavadito en Mi Piel](https://open.spotify.com/album/7IyvidqKyPRQSYdh7IxNqQ) | 3:42 |
 | 95 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 |
 | 96 | [Tu amor me duele](https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh) | [Trulala \- Grandes exitos](https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx) | 3:18 |
-| 97 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 |
-| 98 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
-| 99 | [Más Que Amigos](https://open.spotify.com/track/7h4ce3ciRt2Qhmxtkm5I6h) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Más Que Amigos](https://open.spotify.com/album/3Vy7X6iHw45fFwqdJGTEW7) | 3:21 |
+| 97 | [Más Que Amigos](https://open.spotify.com/track/7h4ce3ciRt2Qhmxtkm5I6h) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Más Que Amigos](https://open.spotify.com/album/3Vy7X6iHw45fFwqdJGTEW7) | 3:21 |
+| 98 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 |
+| 99 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
 | 100 | [Mi Venganza](https://open.spotify.com/track/3AFoC3oyF7fLyOFhWp7mS9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Mi Venganza](https://open.spotify.com/album/2VGrCh43R8idRgJsYQrYa0) | 3:55 |
 
-Snapshot ID: `MTY1OTI3OTk5NCwwMDAwMDAwMGZhNDExYWM4ZTk4ZDNmMzk5NGM1NWY3NTNiODdkMTU2`
+Snapshot ID: `MTY1OTI3OTk5NCwwMDAwMDAwMDI2NDRkZmVhMmFmMmRjZjk2MDdkNmQwZGM5OGE1OGQ0`

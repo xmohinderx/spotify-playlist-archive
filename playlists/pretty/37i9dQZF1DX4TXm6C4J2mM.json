@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157331,
+  "num_followers": 157326,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDJlOWRkMTdhZmU1OGNmNDhmNTIyN2Q4NmVjNDBiOTA0",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDc0ZDk0YjRlNTdjYzIzZTFlNDZhYmIzNTllMzA4Mjcw",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Menage A Trois",
-        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "Menage A Trois",
-      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "2019 Remixed",
         "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 239062,
       "name": "No Sleep (feat. Bonn) - DubVision Remix",
       "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Menage A Trois",
+        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "Menage A Trois",
+      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Never Let Me Down",
+        "url": "https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Monkey Mind",
         "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 126511,
       "name": "Monkey Mind",
       "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Never Let Me Down",
-        "url": "https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 153148,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Wanna Go",
-        "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
-      },
-      "artists": [
-        {
-          "name": "Le Boeuf",
-          "url": "https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH"
-        },
-        {
-          "name": "Teddy Beats",
-          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
-        },
-        {
-          "name": "Jolee Nikoal",
-          "url": "https://open.spotify.com/artist/6pblNcR2U2LEi5QpbC92ui"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "Wanna Go",
-      "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/1BYf5JhXGSUuhj5MX5dhVM"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Wanna Go",
+        "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
+      },
+      "artists": [
+        {
+          "name": "Le Boeuf",
+          "url": "https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH"
+        },
+        {
+          "name": "Teddy Beats",
+          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
+        },
+        {
+          "name": "Jolee Nikoal",
+          "url": "https://open.spotify.com/artist/6pblNcR2U2LEi5QpbC92ui"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Wanna Go",
+      "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
-      },
-      "artists": [
-        {
-          "name": "Zookeepers",
-          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        }
-      ],
-      "duration_ms": 194220,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
         "url": "https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 226451,
       "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
       "url": "https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
+      },
+      "artists": [
+        {
+          "name": "Zookeepers",
+          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
     }
   ],
   "unique_name": "Tr\u00e4ning",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,673 likes - 99 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,718 likes - 99 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 88 | [Time for Jesus](https://open.spotify.com/track/0VWbakz0fplexDWvC5utmG) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Time for Jesus](https://open.spotify.com/album/3ZxvNiFKuGzSOacKdnQlcR) | 2:14 |
 | 89 | [Liar](https://open.spotify.com/track/2sfIeu4d9ZYelok2fz6B3k) | [Keyondra Lockett](https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7) | [Liar](https://open.spotify.com/album/2h5rwmpvUCNBp4jSra2yAX) | 3:34 |
 | 90 | [Beautiful](https://open.spotify.com/track/4B15esl9pBFYa82fLVPD2H) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Beautiful](https://open.spotify.com/album/3iykAdVTHoLauG1SXi2cEt) | 2:49 |
-| 91 | [Look Up to the Sky \(feat\. Blessing Offor\)](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky \(feat\. Blessing Offor\)](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 |
+| 91 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 |
 | 92 | [After](https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8), [Thomas Iannucci](https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm) | [After](https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v) | 2:38 |
 | 93 | [I Can't Explain It](https://open.spotify.com/track/3ik7GJDS05vxigLItkZUQ6) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill \(Deluxe\)](https://open.spotify.com/album/6DIrDW8OgvBr1B0tItaTxm) | 2:25 |
 | 94 | [ANTI](https://open.spotify.com/track/3t8StJx2rSJgMm528VKNZy) | [TRAPSHIP COLLECTIVE](https://open.spotify.com/artist/7CsdYLl6ItJb7WK7Kak1Sz), [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g), [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW), [Kip Wolfe](https://open.spotify.com/artist/2HIuIgSR9YhmXZCfv0SVhS), [Setty](https://open.spotify.com/artist/1VRXvXawmn3ZwT6jqdf6El), [PRESTXN](https://open.spotify.com/artist/3QrBcs3cYoFWQ5ulyB56zi) | [ANTI](https://open.spotify.com/album/5jY9er5AvTNyv94ug98Eff) | 2:50 |

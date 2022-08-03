@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "Freakout/Release",
+        "url": "https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197372,
+      "name": "Freakout/Release",
+      "url": "https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO"
+    },
+    {
+      "album": {
         "name": "Deep in View",
         "url": "https://open.spotify.com/album/0IOqHCZa9ietWmQgyKIwUF"
       },

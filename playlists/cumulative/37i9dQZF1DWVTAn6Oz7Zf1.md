@@ -4,7 +4,7 @@
 
 > Cerchi energie e buona musica? Prova con la nostra playlist!
 
-154 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
+155 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-24 |  |
 | [Deja Vu](https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Deja Vu](https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY) | 3:18 | 2022-05-06 |  |
 | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o) | 2:48 | 2022-07-29 |  |
+| [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2022-07-29 |  |
 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 | 2022-05-06 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/2ejgyUwWZ5nxQLfIHh1s2q) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Don't Let Me Go](https://open.spotify.com/album/1EyMbkNXHi33CGnKJkKGtY) | 2:33 | 2022-05-06 | 2022-07-27 |
 | [DREAM](https://open.spotify.com/track/2uQWlHmYdUJywm2ZLSnVho) | [JOHN BALAYA](https://open.spotify.com/artist/789ipt8BmfCVZhDo44gfz9) | [DREAM](https://open.spotify.com/album/62VaB348ouV6MClb4w3oBS) | 3:13 | 2022-05-30 | 2022-07-18 |
@@ -79,7 +80,7 @@
 | [If There is Love](https://open.spotify.com/track/5ngkOLKzDPNoYEXN0snzq3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [If There is Love](https://open.spotify.com/album/5pfpy8N2przMVV6cOqiDAe) | 2:35 | 2022-05-06 | 2022-07-29 |
 | [Inside Out](https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Inside Out](https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH) | 2:40 | 2022-05-06 | 2022-07-29 |
 | [Jaguwawa](https://open.spotify.com/track/3BP4lwzKXSJNwiPaffklWE) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD) | [Jaguwawa](https://open.spotify.com/album/3rV60ADTCBj0XfttpbpmTT) | 2:59 | 2022-06-10 | 2022-07-28 |
-| [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 | 2022-07-26 |  |
+| [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 | 2022-07-26 | 2022-08-03 |
 | [Just Saying](https://open.spotify.com/track/7KNwOK2WTnwFn2x5WgkRLC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Just Saying](https://open.spotify.com/album/6nKl2xSHPMMJkS9XfaEF6z) | 2:52 | 2022-05-20 | 2022-06-08 |
 | [Kiss Me](https://open.spotify.com/track/4RG63cZOJT5njECPKYMhUU) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Kiss Me](https://open.spotify.com/album/2JjNir4llRSfPKJRKxOaZ9) | 2:29 | 2022-05-06 | 2022-07-27 |
 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 | 2022-05-06 | 2022-06-23 |

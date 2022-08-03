@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Jason Ross.
 
-202 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+203 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Close To You](https://open.spotify.com/track/3JVKIh9857foxHkg7BzS3R) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF), [ÊMIA](https://open.spotify.com/artist/2Q1WubieQ4mTNNf4YOlFGh) | [Close To You](https://open.spotify.com/album/14nCGKJqjtYtdPr1d6sqRh) | 3:41 | 2022-07-08 | 2022-07-28 |
 | [Cold](https://open.spotify.com/track/37U9aGziz2mwqDKuoAO0D0) | [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Cold](https://open.spotify.com/album/3zaCjddO5ZBguvt60xUegn) | 3:24 | 2022-07-08 |  |
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35) | 3:19 | 2022-07-08 |  |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |
 | [Come Clean \(feat\. Justin Jesso\)](https://open.spotify.com/track/4PyEdtiTEPNvsNSXPDQDDL) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Prince Fox](https://open.spotify.com/artist/1nf5yEVCfMbqm1OCYpntBT), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 2:57 | 2022-07-08 |  |
 | [Coming Back To You](https://open.spotify.com/track/0eNZW0bb7bogNXoXwcJ0is) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Coming Back To You](https://open.spotify.com/album/6vcAf5aO6UjQKnVjkjZptX) | 3:33 | 2022-07-08 | 2022-07-29 |
 | [CRACKS](https://open.spotify.com/track/7o4hWcXufdfWcWCbh5O8kf) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Slowpalace](https://open.spotify.com/artist/5OykEYbsyupQcKIoTH5Szu) | [CRACKS](https://open.spotify.com/album/1xl2Nj9aHqjB6J3AYvutqC) | 3:10 | 2022-07-08 | 2022-07-29 |

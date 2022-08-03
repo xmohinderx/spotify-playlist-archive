@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del R&B Latino. Fresh R&B Latin tracks. Cover: Destiny Rogers",
-  "num_followers": 99057,
+  "num_followers": 99068,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NDY5MCwwMDAwMDAwMGI2NDM2NDRmNTFiNWM0NjcyYTUyMzgxMTVkZWVkZDc5",
+  "snapshot_id": "MTY1ODg1NDY5MCwwMDAwMDAwMGFlZWY5YmQ0MmY5YjJhMGM4ODg1NmM3OTRlYTAyYTlh",
   "tracks": [
     {
       "added_at": "2022-07-26 16:58:10",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Limo",
-        "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Limo",
-      "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Galerna",
         "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 188901,
       "name": "Galerna",
       "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "Limo",
+        "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Limo",
+      "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "CON TAL",
-        "url": "https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm"
-      },
-      "artists": [
-        {
-          "name": "Marval",
-          "url": "https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM"
-        }
-      ],
-      "duration_ms": 174004,
-      "name": "CON TAL",
-      "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "CON TAL",
+        "url": "https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm"
+      },
+      "artists": [
+        {
+          "name": "Marval",
+          "url": "https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "CON TAL",
+      "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "desde dentro",
-        "url": "https://open.spotify.com/album/05rgpXmPuYezlXeibYD6Hb"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 182337,
-      "name": "desde dentro",
-      "url": "https://open.spotify.com/track/0q6GyKJUROqHWYqT0wzGBx"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Tu Boca",
         "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 182281,
       "name": "Tu Boca",
       "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "desde dentro",
+        "url": "https://open.spotify.com/album/05rgpXmPuYezlXeibYD6Hb"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 182337,
+      "name": "desde dentro",
+      "url": "https://open.spotify.com/track/0q6GyKJUROqHWYqT0wzGBx"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
-      },
-      "artists": [
-        {
-          "name": "K-efe",
-          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "SAMURAI",
-      "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 185520,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
+      },
+      "artists": [
+        {
+          "name": "K-efe",
+          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "SAMURAI",
+      "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1239,6 +1239,38 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs"
+      },
+      "artists": [
+        {
+          "name": "Fer Altuzar",
+          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "Beso Picor",
+        "url": "https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR"
+      },
+      "artists": [
+        {
+          "name": "Itzel Noyz",
+          "url": "https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Beso Picor",
+      "url": "https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "Desilusion\u00e1ndome",
         "url": "https://open.spotify.com/album/1uJ1YdzDnJ3ghyv0sltJAJ"
       },
@@ -1263,22 +1295,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs"
-      },
-      "artists": [
-        {
-          "name": "Fer Altuzar",
-          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "IDWLH (I Don't Wanna Love Him)",
         "url": "https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr"
       },
@@ -1291,42 +1307,6 @@
       "duration_ms": 173156,
       "name": "IDWLH (I Don't Wanna Love Him)",
       "url": "https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
-        "name": "C.A.T.",
-        "url": "https://open.spotify.com/album/1Vj9qMFet03QxbDwdptIms"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        },
-        {
-          "name": "Typow",
-          "url": "https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "C.A.T.",
-      "url": "https://open.spotify.com/track/11glgfo3N4w5QKuUJKLnzH"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
-        "name": "Beso Picor",
-        "url": "https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR"
-      },
-      "artists": [
-        {
-          "name": "Itzel Noyz",
-          "url": "https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Beso Picor",
-      "url": "https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1351,18 +1331,22 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Desnuda",
-        "url": "https://open.spotify.com/album/2dDKG1kDQma3aqHhYh13Px"
+        "name": "C.A.T.",
+        "url": "https://open.spotify.com/album/1Vj9qMFet03QxbDwdptIms"
       },
       "artists": [
         {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        },
+        {
+          "name": "Typow",
+          "url": "https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw"
         }
       ],
-      "duration_ms": 225466,
-      "name": "Desnuda",
-      "url": "https://open.spotify.com/track/0W2vpE32CAYV2l1fVlUqsg"
+      "duration_ms": 196153,
+      "name": "C.A.T.",
+      "url": "https://open.spotify.com/track/11glgfo3N4w5QKuUJKLnzH"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "Desnuda",
+        "url": "https://open.spotify.com/album/2dDKG1kDQma3aqHhYh13Px"
+      },
+      "artists": [
+        {
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Desnuda",
+      "url": "https://open.spotify.com/track/0W2vpE32CAYV2l1fVlUqsg"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 243411,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "De Uno a Otro",
+        "url": "https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 137775,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1427,22 +1443,6 @@
       "duration_ms": 173482,
       "name": "SLOW",
       "url": "https://open.spotify.com/track/64HetK6UsMjOxAZGedxGpU"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
-        "name": "De Uno a Otro",
-        "url": "https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 137775,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75"
     },
     {
       "added_at": "2022-07-26 16:58:10",

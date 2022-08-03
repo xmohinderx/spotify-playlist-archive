@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "22:22",
+        "url": "https://open.spotify.com/album/5YpkEgzzhEbFSyXVsmdjJD"
+      },
+      "artists": [
+        {
+          "name": "Arenque",
+          "url": "https://open.spotify.com/artist/55Sbg4Xa3vmLMlRE4dEG0Y"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191530,
+      "name": "22:22",
+      "url": "https://open.spotify.com/track/6mtkCYPxM8U1o7VzIb82Kk"
+    },
+    {
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/0uk7nhgnQCbL8j7ZoaOt4g"
       },
@@ -341,7 +359,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 186000,
       "name": "A LA QUE VENGA",
       "url": "https://open.spotify.com/track/2RWfWSPkXevRfGsqKiXG1O"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 201600,
       "name": "AnoothErrr BoOOooY",
       "url": "https://open.spotify.com/track/5dXxIDBPu0D5B5qnXMk847"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 142000,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/5bG4jfKTyNjdtd1uyANrNy"
@@ -2687,6 +2705,24 @@
       "duration_ms": 249000,
       "name": "Cartero",
       "url": "https://open.spotify.com/track/5SXF7LZolHT8H4CaNVVr0h"
+    },
+    {
+      "album": {
+        "name": "casi algo",
+        "url": "https://open.spotify.com/album/1JL9GKum5aiwVKPmZ2rGfG"
+      },
+      "artists": [
+        {
+          "name": "Claudia Allmang",
+          "url": "https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134593,
+      "name": "casi algo",
+      "url": "https://open.spotify.com/track/4GauJC4IfolWyyHMCprgwv"
     },
     {
       "album": {
@@ -3309,7 +3345,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 201080,
       "name": "COWBOY DE L'ESPAI",
       "url": "https://open.spotify.com/track/7tn4SyIVe2v666qvZSkSaM"
@@ -3331,7 +3367,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 133500,
       "name": "cromo de panini",
       "url": "https://open.spotify.com/track/2dlJ68f1FIDiuHHseJq4uf"
@@ -3457,7 +3493,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 230608,
       "name": "cuando deje d llover",
       "url": "https://open.spotify.com/track/2GtXrNhmJhaiRHXqSblxnl"
@@ -3805,6 +3841,28 @@
       "duration_ms": 244306,
       "name": "de momento bien",
       "url": "https://open.spotify.com/track/5P3udx9NWuu8McD14gBZRe"
+    },
+    {
+      "album": {
+        "name": "De M\u00ed",
+        "url": "https://open.spotify.com/album/2vg22zuLwTfSu8jbIGRioi"
+      },
+      "artists": [
+        {
+          "name": "Con K",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178204,
+      "name": "De M\u00ed",
+      "url": "https://open.spotify.com/track/01ZgAAf4KLKlquuSTREcEY"
     },
     {
       "album": {
@@ -8113,7 +8171,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 213854,
       "name": "Los Chicos No Lloran",
       "url": "https://open.spotify.com/track/7uHZUe7Gg0yIVsqiqWfwoO"
@@ -9574,6 +9632,24 @@
     },
     {
       "album": {
+        "name": "Rumba profunda",
+        "url": "https://open.spotify.com/album/7xyfwWYXvSGVCGcZRV3QJq"
+      },
+      "artists": [
+        {
+          "name": "Paco Moreno",
+          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161875,
+      "name": "Mirada de pirada",
+      "url": "https://open.spotify.com/track/6S8CKokvJKykfEE1kBUjal"
+    },
+    {
+      "album": {
         "name": "Mis Errores",
         "url": "https://open.spotify.com/album/4qiQkHYULOmyf2mRHI4Xa5"
       },
@@ -9683,6 +9759,24 @@
       "duration_ms": 136624,
       "name": "Moscatel",
       "url": "https://open.spotify.com/track/5IYHGE2mA0cydIhNUVLuTb"
+    },
+    {
+      "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/3NOiQISukKXizIFeDtVxtu"
+      },
+      "artists": [
+        {
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192985,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/7MWsyLKBujUSMn2IS346M4"
     },
     {
       "album": {
@@ -10317,6 +10411,24 @@
       "duration_ms": 186247,
       "name": "No Es Tan F\u00e1cil",
       "url": "https://open.spotify.com/track/1LyjhQ1kmKAoHNQmpc4M6q"
+    },
+    {
+      "album": {
+        "name": "No Est\u00e1s T\u00fa",
+        "url": "https://open.spotify.com/album/5K9fkTsr1qpOlhLDoGBoS3"
+      },
+      "artists": [
+        {
+          "name": "tom\u00e1sss",
+          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172954,
+      "name": "No Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/65OB1LIqoVLTYgsAEDn4eL"
     },
     {
       "album": {
@@ -11541,7 +11653,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 206524,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/5hstOsRKVtg71k7w1uIhNZ"
@@ -11989,6 +12101,24 @@
       "duration_ms": 167191,
       "name": "Puto Friki",
       "url": "https://open.spotify.com/track/56IVDSaHEQ256fAgHOcfNf"
+    },
+    {
+      "album": {
+        "name": "Putu amor de merda (!)",
+        "url": "https://open.spotify.com/album/5RHrtnP6FHFG3EwkaPK79q"
+      },
+      "artists": [
+        {
+          "name": "miquel",
+          "url": "https://open.spotify.com/artist/3VUidb50jCH78EzrGpAVyj"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236561,
+      "name": "Putu amor de merda (!)",
+      "url": "https://open.spotify.com/track/5GnSwngG6walpTS02RagtM"
     },
     {
       "album": {
@@ -13341,7 +13471,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 154433,
       "name": "sirocco",
       "url": "https://open.spotify.com/track/0AXLdo8W9s9S8bFJkrbRC5"
@@ -13511,6 +13641,24 @@
       "duration_ms": 234187,
       "name": "Sonnen Kraut",
       "url": "https://open.spotify.com/track/1EBM4ji5595byFhie1FG8e"
+    },
+    {
+      "album": {
+        "name": "Sonova",
+        "url": "https://open.spotify.com/album/6IqiCryJ2o4I2Y3AH6Yn9q"
+      },
+      "artists": [
+        {
+          "name": "Eximio",
+          "url": "https://open.spotify.com/artist/2QccwnU2mUudZeObNBuXRS"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139071,
+      "name": "Sonova",
+      "url": "https://open.spotify.com/track/1LgjeVcbUgkATOE62J7rI5"
     },
     {
       "album": {
@@ -14418,6 +14566,24 @@
     },
     {
       "album": {
+        "name": "Tofu Delivery",
+        "url": "https://open.spotify.com/album/2T7Bt5hS143SghpNEBlbft"
+      },
+      "artists": [
+        {
+          "name": "FINTA",
+          "url": "https://open.spotify.com/artist/4q5q5oeMnuEHo6UMyTOwrW"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Tofu Delivery",
+      "url": "https://open.spotify.com/track/1lhyAw0q1zxRgFrCRPuMV3"
+    },
+    {
+      "album": {
         "name": "Tot el que no va passar",
         "url": "https://open.spotify.com/album/4TLnqbd8NSZwOoaCCl1DyW"
       },
@@ -14563,6 +14729,24 @@
       "duration_ms": 172500,
       "name": "trece",
       "url": "https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd"
+    },
+    {
+      "album": {
+        "name": "Trenca'm el cor",
+        "url": "https://open.spotify.com/album/5rsSHISuP0HQMtPHc2ollE"
+      },
+      "artists": [
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160769,
+      "name": "Trenca'm el cor",
+      "url": "https://open.spotify.com/track/5x1551QSfC7PJhHN753psJ"
     },
     {
       "album": {
@@ -15749,6 +15933,24 @@
       "duration_ms": 184000,
       "name": "v\u00eddeos de casa",
       "url": "https://open.spotify.com/track/0A4AswYbiGmolMFYLUY1Jx"
+    },
+    {
+      "album": {
+        "name": "WWW",
+        "url": "https://open.spotify.com/album/0WIYPaN0fsvnweVPGCuu8I"
+      },
+      "artists": [
+        {
+          "name": "Lauren Nine",
+          "url": "https://open.spotify.com/artist/3gu7WjaQHv0vpNYtXYISpb"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164514,
+      "name": "Wateke",
+      "url": "https://open.spotify.com/track/102mRhCOyLgWJ7SB1KKn8C"
     },
     {
       "album": {

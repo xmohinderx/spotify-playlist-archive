@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128517,
+  "num_followers": 128522,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU1MCwwMmVlMTFmMGNkZTUwZjQ0ZGU2ZTFiOTU1ZjdiNWYwNDZkNjdiZWRm",
+  "snapshot_id": "MzU1Miw1ZDQyMDEzNjY2ZWJiNDhjMjYzMzE2ZmE2YmZhMDM5NzU3ZGZmOGJk",
   "tracks": [
+    {
+      "added_at": "2022-08-02 17:31:19",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "duration_ms": 240816,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/128BW48JmONhjYQzUUwigC"
+    },
     {
       "added_at": "2022-08-01 16:47:14",
       "album": {
@@ -1111,22 +1127,6 @@
       "duration_ms": 212000,
       "name": "Cold",
       "url": "https://open.spotify.com/track/0PnypUaIbVQJNTUI7uAu7l"
-    },
-    {
-      "added_at": "2022-05-23 16:26:11",
-      "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 184836,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

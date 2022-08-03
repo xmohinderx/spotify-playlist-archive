@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in jazz. Cover: Charlie Parker",
-  "num_followers": 37226,
+  "num_followers": 37312,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzNTAxMSwwMDAwMDAwMDQ5NzU0NTM0YTZiNzg0MDQ1ZjAzN2EyNjJjMWQ3ZDI3",
+  "snapshot_id": "MTY1MjQzNTAxMSwwMDAwMDAwMDI4OGI3MGEwMDE5ZmIxZWYxZDJjMjBlMGZlMmFlMDIz",
   "tracks": [
     {
       "added_at": "2022-05-13 09:43:31",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 437840,
-      "name": "A Love Supreme, Pt. II - Resolution",
-      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Presenting The Gerry Mulligan Sextet",
         "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
       },
@@ -299,22 +283,18 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 302666,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
+      "duration_ms": 437840,
+      "name": "A Love Supreme, Pt. II - Resolution",
+      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -335,6 +315,26 @@
       "duration_ms": 331266,
       "name": "Two Not One",
       "url": "https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rosita",
+      "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 417320,
+      "name": "Foolin' Myself",
+      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
         "name": "Nearness Of You: The Ballad Book",
         "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 545346,
       "name": "Blues Inn - Remastered",
       "url": "https://open.spotify.com/track/7Kwi4xmgY4qQwOhBe0zsbh"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 417320,
-      "name": "Foolin' Myself",
-      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
-      },
-      "artists": [
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 504866,
-      "name": "Hat And Beard",
-      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 217293,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 504866,
+      "name": "Hat And Beard",
+      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "East Of The Sun",
-        "url": "https://open.spotify.com/album/3480op1epAO8uwXjonzuc9"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 318960,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/0CtJNp7uAVKkXRqRiezuDe"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 395440,
       "name": "Blight of the Fumble Bee",
       "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "East Of The Sun",
+        "url": "https://open.spotify.com/album/3480op1epAO8uwXjonzuc9"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 318960,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/0CtJNp7uAVKkXRqRiezuDe"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1659,38 +1659,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Pepper Steak",
-      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 449293,
-      "name": "I Remember You - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/630ljtZzbwOEQbk4BTw3Lq"
       },
@@ -1711,6 +1679,38 @@
       "duration_ms": 396106,
       "name": "All For You",
       "url": "https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 449293,
+      "name": "I Remember You - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Pepper Steak",
+      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Jacknife",
-        "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
+        "name": "Byablue",
+        "url": "https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 754733,
-      "name": "On The Nile - Remastered",
-      "url": "https://open.spotify.com/track/1iA6TNNiKHrx8Tj1nmtcr4"
+      "duration_ms": 439280,
+      "name": "Byablue",
+      "url": "https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Byablue",
-        "url": "https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr"
+        "name": "Jacknife",
+        "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 439280,
-      "name": "Byablue",
-      "url": "https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz"
+      "duration_ms": 754733,
+      "name": "On The Nile - Remastered",
+      "url": "https://open.spotify.com/track/1iA6TNNiKHrx8Tj1nmtcr4"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "On This Night",
-        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
-      },
-      "artists": [
-        {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
-        }
-      ],
-      "duration_ms": 447466,
-      "name": "The Mac Man",
-      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Tetragon",
         "url": "https://open.spotify.com/album/06cAiKXhst8u5voEhCRJNA"
       },
@@ -1971,6 +1955,22 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
+        "name": "On This Night",
+        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
+      },
+      "artists": [
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        }
+      ],
+      "duration_ms": 447466,
+      "name": "The Mac Man",
+      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
         "name": "Tex Book Tenor",
         "url": "https://open.spotify.com/album/0hmnZqB7XUdFhOXqW7Ivgl"
       },
@@ -1983,22 +1983,6 @@
       "duration_ms": 458560,
       "name": "Den Tex - Remastered",
       "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -2035,22 +2019,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Spiritual Unity 50th Anniversary Expanded Edition",
-        "url": "https://open.spotify.com/album/0X7WwByQT7NxJNhb8iHJ3K"
-      },
-      "artists": [
-        {
-          "name": "Albert Ayler",
-          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
-        }
-      ],
-      "duration_ms": 442826,
-      "name": "The Wizard",
-      "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "The Unissued Copenhagen Studio Session",
         "url": "https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc"
       },
@@ -2079,8 +2047,8 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
       },
       "artists": [
         {
@@ -2088,9 +2056,25 @@
           "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 368053,
-      "name": "Eco - Remastered",
-      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Spiritual Unity 50th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/0X7WwByQT7NxJNhb8iHJ3K"
+      },
+      "artists": [
+        {
+          "name": "Albert Ayler",
+          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
+        }
+      ],
+      "duration_ms": 442826,
+      "name": "The Wizard",
+      "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -2123,6 +2107,22 @@
       "duration_ms": 605013,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Associations",
+        "url": "https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb"
+      },
+      "artists": [
+        {
+          "name": "Milder / Spering / Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS"
+        }
+      ],
+      "duration_ms": 313013,
+      "name": "All of You",
+      "url": "https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz"
     }
   ],
   "unique_name": "Saxophone Classics",

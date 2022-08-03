@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > The Real hip\-hop\. Cover: Chance The Rapper
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,031 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,185 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

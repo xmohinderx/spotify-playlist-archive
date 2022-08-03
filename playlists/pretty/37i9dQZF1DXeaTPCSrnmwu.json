@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 17840,
+  "num_followers": 17844,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDcxMWNiOGE2MjkwOTBjMmZkNGM4OWUwYjQ1YTFkMGI1",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGRlNTYzZTIzZTE5MjVlODE3ZWQ5MWIzYjNlNmZmN2Jj",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Z\u00e9phyrine",
+        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
+      },
+      "artists": [
+        {
+          "name": "Elliot Ziegler",
+          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+        }
+      ],
+      "duration_ms": 140374,
+      "name": "Z\u00e9phyrine",
+      "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Sones y Tradiciones (feat. Cachao)",
         "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 378333,
       "name": "Suavecito / En Manzanillo Se Baila el Son (Sones)",
       "url": "https://open.spotify.com/track/2Fx6r1ALj3nppAog9eJf7w"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Z\u00e9phyrine",
-        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
-      },
-      "artists": [
-        {
-          "name": "Elliot Ziegler",
-          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
-        }
-      ],
-      "duration_ms": 140374,
-      "name": "Z\u00e9phyrine",
-      "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
     },
     {
       "added_at": "2021-01-18 15:57:14",

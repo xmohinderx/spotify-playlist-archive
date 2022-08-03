@@ -1,15 +1,15 @@
 {
   "description": "Las que no sabes que te sabes. \ud83e\udd33\ud83c\udffd",
-  "num_followers": 1029145,
+  "num_followers": 1029352,
   "original_name": "Viral Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM4NTA5NywwMDAwMDAwMDU5OWMzYTkwMTI5NjM0N2E4ZTAxMzAxOGQ5N2JmY2M2",
+  "snapshot_id": "MTY1OTQ1ODg3NSwwMDAwMDAwMGQyMWViYWQzM2VlOGI4ZTM2YzhkNmFjZmIzYjViYzQ4",
   "tracks": [
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Motivando a la Yal",
         "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
@@ -93,27 +109,7 @@
       "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 178567,
-      "name": "Me Porto Bonito",
-      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
-    },
-    {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
@@ -133,23 +129,27 @@
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+      "duration_ms": 178567,
+      "name": "Me Porto Bonito",
+      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
@@ -165,7 +165,23 @@
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Sabiduria",
         "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Nos Comemos (feat. Ozuna)",
         "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Living Life",
         "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/74WOZ17ERaFrHXYtSid13p"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Mas Flow - Los Benjamins",
         "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
@@ -377,23 +393,7 @@
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Riri",
         "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "D\u00e9jame Revisarte el Celular 2",
         "url": "https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
     },
     {
-      "added_at": "2022-08-01 20:18:17",
+      "added_at": "2022-08-02 16:47:55",
       "album": {
         "name": "Las Compuse para Ti",
         "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"

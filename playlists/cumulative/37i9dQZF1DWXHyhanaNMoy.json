@@ -477,7 +477,7 @@
     {
       "album": {
         "name": "Doe Het Nou Gewoon",
-        "url": "https://open.spotify.com/album/7t3ilQDv7pSEUhpbelfXwR"
+        "url": "https://open.spotify.com/album/2muVJPTQF1FXQZWgMgAQ3D"
       },
       "artists": [
         {
@@ -492,6 +492,28 @@
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Digi Deng Dang (feat. Caza)",
+      "url": "https://open.spotify.com/track/5M8paKPCqPGbIFpIrko57Y"
+    },
+    {
+      "album": {
+        "name": "Doe Het Nou Gewoon",
+        "url": "https://open.spotify.com/album/7t3ilQDv7pSEUhpbelfXwR"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
       "duration_ms": 161904,
       "name": "Digi Deng Dang (feat. Caza)",
       "url": "https://open.spotify.com/track/6AhjFgx6oMbUeSy573Wt5t"
@@ -572,7 +594,7 @@
     },
     {
       "album": {
-        "name": "Flexxen (feat. Diquenza)",
+        "name": "Flexxen",
         "url": "https://open.spotify.com/album/5gnLTGShLsqo303TEpFMyj"
       },
       "artists": [
@@ -597,7 +619,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137451,
-      "name": "Flexxen (feat. Diquenza)",
+      "name": "Flexxen",
       "url": "https://open.spotify.com/track/4ckhmqXl4Zpbhl7T6NgVPI"
     },
     {
@@ -1743,10 +1765,32 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 158086,
       "name": "Outside (feat. Architrackz)",
       "url": "https://open.spotify.com/track/1BNJ9qClLhDJuMdliul9ae"
+    },
+    {
+      "album": {
+        "name": "Doe Het Nou Gewoon",
+        "url": "https://open.spotify.com/album/2muVJPTQF1FXQZWgMgAQ3D"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158086,
+      "name": "Outside (feat. Architrackz)",
+      "url": "https://open.spotify.com/track/1HxqfXhBO8BaitPP31NynQ"
     },
     {
       "album": {

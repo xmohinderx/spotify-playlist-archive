@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-729 songs - 1 day 14 hr 28 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+730 songs - 1 day 14 hr 31 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-16 | 2021-11-27 |
 | [Alone In The Night](https://open.spotify.com/track/6JlOnI9nWyluM2IArokGOV) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Avatars Of Love](https://open.spotify.com/album/2gt23H4dhmiJ41rAvLG8Id) | 6:25 | 2022-04-02 | 2022-04-06 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-21 |
-| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-26 |  |
+| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-26 | 2022-08-03 |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-26 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-13 |
 | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-07-23 | 2022-07-31 |
@@ -629,6 +629,7 @@
 | [Sorry](https://open.spotify.com/track/5y2mAAd8UZBRb11RbvfD1H) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Sorry](https://open.spotify.com/album/24kCjukoDPcf6gomKVGevd) | 2:43 | 2021-09-12 | 2021-09-19 |
 | [Sorry \(feat\. Musti\)](https://open.spotify.com/track/1uWxnUQd05yyOI3M9DeKI8) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67), [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6) | [Sorry \(feat\. Musti\)](https://open.spotify.com/album/1Xc0A1xoKDWNNeLYCvlW5A) | 3:56 | 2021-03-27\* | 2021-05-16 |
 | [Sov Godt](https://open.spotify.com/track/0hZzAGc7nWaZsvSPhoiHTI) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sov Godt](https://open.spotify.com/album/4Fa0cCqJ4G5z6CO8UDZQ5S) | 2:11 | 2022-01-08 | 2022-01-15 |
+| [Space Between](https://open.spotify.com/track/5owNO5tgoUtH8gETM9fjHi) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Richard Reynolds](https://open.spotify.com/artist/6tcOATPUS7AQqjhA4fhS1g) | [Back 2 Rave](https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H) | 3:01 | 2022-08-02 |  |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-29 |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2021-11-02 | 2021-11-03 |
 | [Spring for livet](https://open.spotify.com/track/2gRJ9Odj7jbVAqafKyj1SY) | [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Luke Elliot](https://open.spotify.com/artist/7t6cXssTAtfc6F316tvLv7) | [Spring for livet](https://open.spotify.com/album/6V3YftCf62tRqowL7PouAk) | 3:02 | 2021-09-19 | 2021-09-20 |

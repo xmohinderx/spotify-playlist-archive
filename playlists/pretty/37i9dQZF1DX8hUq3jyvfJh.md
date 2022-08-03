@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luísa Sonza e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,660 likes - 48 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,690 likes - 48 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 26 | [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 |
 | 27 | [Tropa das Malvadinhas](https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Tropa das Malvadinhas](https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q) | 2:25 |
 | 28 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 |
-| 29 | [Beijo De Judas](https://open.spotify.com/track/1FBLziBYf0gJ2yKC1CruTw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:21 |
+| 29 | [Faixa Rosa](https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Faixa Rosa](https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs) | 3:02 |
 | 30 | [Tem Dias](https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você Aprendeu A Amar?](https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4) | 3:01 |
-| 31 | [Faixa Rosa](https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Faixa Rosa](https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs) | 3:02 |
+| 31 | [Beijo De Judas](https://open.spotify.com/track/1FBLziBYf0gJ2yKC1CruTw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:21 |
 | 32 | [Bruta](https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Bruta](https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep) | 2:16 |
 | 33 | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz) | 2:33 |
 | 34 | [Arlequina](https://open.spotify.com/track/5UopFUJV8gWYr6od8KntK4) | [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Arlequina](https://open.spotify.com/album/0kB3TWtIvZsCEIDNDzYjfw) | 2:12 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 47 | [convoca \(Prod\. Maikinho\)](https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:02 |
 | 48 | [Racha](https://open.spotify.com/track/0i6oeAMzpqkcgp5rSjtPZf) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA PT1](https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ) | 2:32 |
 
-Snapshot ID: `MTY1ODE4ODgwMCwwMDAwMDAwMDI1YjJmZTYyYjAyOTAzOWVmMzAzNjUyNDRlMzMyOWFi`
+Snapshot ID: `MTY1ODE4ODgwMCwwMDAwMDAwMGIzYWZhNTJiNWNmN2ZjNzFiYjAyNzExNmY4Y2I2M2Qy`

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 128727,
+  "num_followers": 128761,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODgyMzQ0OCwwMDAwMDAwMDY0MmViN2I1ZjM1YzkzMTkwMmRiMzg3ZjliODhhNjkx",
+  "snapshot_id": "MTY1ODgyMzQ0OCwwMDAwMDAwMGFkN2EzZWVmYmI1ZjA5MjMzMzFjNDIzMWEyODFhZmMy",
   "tracks": [
     {
       "added_at": "2022-07-26 08:17:28",
@@ -379,6 +379,26 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 145890,
+      "name": "Sex & Love",
+      "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Call on Me (Radio Mix)",
         "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 145890,
-      "name": "Sex & Love",
-      "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -887,6 +887,30 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Strange Fruits Music",
+        "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "KOYSINA",
+          "url": "https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Seven Nation Army (feat. KOYSINA)",
+      "url": "https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Rave de Favela (feat. BEAM)",
         "url": "https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 154153,
       "name": "Rave de Favela (feat. BEAM)",
       "url": "https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Strange Fruits Music",
-        "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
-      },
-      "artists": [
-        {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
-        },
-        {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
-        },
-        {
-          "name": "KOYSINA",
-          "url": "https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Seven Nation Army (feat. KOYSINA)",
-      "url": "https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        }
+      ],
+      "duration_ms": 135499,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
+        "name": "Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
       },
       "artists": [
         {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
         }
       ],
-      "duration_ms": 135499,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
+      "duration_ms": 170564,
+      "name": "Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1299,22 +1315,6 @@
       "duration_ms": 256500,
       "name": "Lone Wolf",
       "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 170564,
-      "name": "Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        }
-      ],
-      "duration_ms": 285860,
-      "name": "IM GONE",
-      "url": "https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
         "name": "Back to the Oldskool",
         "url": "https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 144000,
       "name": "Back to the Oldskool",
       "url": "https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "duration_ms": 285860,
+      "name": "IM GONE",
+      "url": "https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1731,6 +1731,30 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Bonzai Channel One",
+        "url": "https://open.spotify.com/album/3PJ1YbvqnVpAAOtygBRetu"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Crossnaders",
+          "url": "https://open.spotify.com/artist/0SFycBapbIhuPacbhzDxI2"
+        }
+      ],
+      "duration_ms": 174949,
+      "name": "Bonzai Channel One",
+      "url": "https://open.spotify.com/track/07hm7hRuPbl0kG8hCuQoda"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Look",
         "url": "https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF"
       },
@@ -1763,30 +1787,6 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Bonzai Channel One",
-        "url": "https://open.spotify.com/album/3PJ1YbvqnVpAAOtygBRetu"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "Crossnaders",
-          "url": "https://open.spotify.com/artist/0SFycBapbIhuPacbhzDxI2"
-        }
-      ],
-      "duration_ms": 174949,
-      "name": "Bonzai Channel One",
-      "url": "https://open.spotify.com/track/07hm7hRuPbl0kG8hCuQoda"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
         "name": "Dark",
         "url": "https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii"
       },
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "El Bass",
-        "url": "https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "El Bass",
-      "url": "https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
         "name": "Light Me Up",
         "url": "https://open.spotify.com/album/4EohvRPYKOWpgugn2n3DTi"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 184761,
       "name": "Light Me Up",
       "url": "https://open.spotify.com/track/6xfT4ubp1ETiqfDtUbdYHI"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
+        "name": "El Bass",
+        "url": "https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "El Bass",
+      "url": "https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf"
     }
   ],
   "unique_name": "Ejercicio Total",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=rf\-tDmCLTlWlZ5uU9GZA9g" > Nikita Kering </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,011 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,157 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

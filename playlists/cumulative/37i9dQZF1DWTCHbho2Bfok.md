@@ -4,7 +4,7 @@
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-80 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/6kMROUmrhkoCB9OtoHeyZI)
+81 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/6kMROUmrhkoCB9OtoHeyZI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/7nQrUXVzVeYb0hAuabfmaP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:01 | 2021-12-23 | 2022-07-29 |
 | [Baby It's Cold Outside \(duet with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2021-12-23 |  |
-| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2wIOEh6QNccqsHYEPZTrRP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [I Believe In Father Christmas EP](https://open.spotify.com/album/6RvE3NTJQI7P732gb8o4zD) | 2:19 | 2021-12-23 |  |
+| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2wIOEh6QNccqsHYEPZTrRP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [I Believe In Father Christmas EP](https://open.spotify.com/album/6RvE3NTJQI7P732gb8o4zD) | 2:19 | 2021-12-23 | 2022-08-03 |
+| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6CT7ZQKVafBZjCOCafy5Ad) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas](https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4) | 2:19 | 2021-12-23 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 2:19 | 2021-12-23 | 2022-07-29 |
 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 | 2021-12-23 |  |
 | [Christmas All Over Again](https://open.spotify.com/track/3nCcFA1iiehndgGSddMiV2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/6ji3q7ebjcGPuZZun0ifBU) | 4:14 | 2021-12-23 | 2022-07-29 |

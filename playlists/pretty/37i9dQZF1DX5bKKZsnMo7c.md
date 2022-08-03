@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,627 likes - 95 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,543 likes - 95 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 70 | [Vanilla Curls](https://open.spotify.com/track/3KaWB1Kdl93PWaXT8mDRpD) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:50 |
 | 71 | [Mawce](https://open.spotify.com/track/5zdhuWhl2JAGmfJ8lhaKzY) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/4T4HBzxpLymOrndGcgwNC7) | 3:02 |
 | 72 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
-| 73 | [Golden](https://open.spotify.com/track/7wjmwD5nIYWVnHiR3X3PTO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7GsJB7Q1Tt1GD1V7v3d0iW) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 3:32 |
+| 73 | [Golden](https://open.spotify.com/track/4Re3BkmG5JYl2bB2s0yV2b) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Golden](https://open.spotify.com/album/7szpzMClGbgEeP2UhIY2Xf) | 3:32 |
 | 74 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 |
 | 75 | [Drown Me!](https://open.spotify.com/track/6e5joNjVEy5XYZ9EBFYslh) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5L2TC2jEJAYN9gLE7pMohj) | 2:52 |
 | 76 | [Amnesia Was Her Name](https://open.spotify.com/track/0ww8jZZtGU70QvYUFmDbqZ) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 4:03 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 94 | [Cheater \(Original\)](https://open.spotify.com/track/0dhSUoBbHS34DsO2zexW89) | [Alex Diab](https://open.spotify.com/artist/3RKRICpUG70f1MN4J1hhxX) | [Cheater \(Original\)](https://open.spotify.com/album/4X41xqxzdWmUJqm2ITEAkL) | 2:33 |
 | 95 | [Miss Rhode Island](https://open.spotify.com/track/3TuRAkB0OueGVYfUTbCaVN) | [Elizabeth Gerardi](https://open.spotify.com/artist/01VYmP8UHNPe52WfMgsb4n) | [Miss Rhode Island](https://open.spotify.com/album/5CGv2NNFJPOqrtzT73eRL1) | 2:48 |
 
-Snapshot ID: `MTY1OTAyNjI3OCwwMDAwMDAwMGY2NmE4NDcyMzAyYmU3MmU1OTgzZDJiNjhlYzczODE1`
+Snapshot ID: `MTY1OTAyNjI3OCwwMDAwMDAwMGI0Mzc4MjFiMjM5YzIzZTI4OTg4NmIzYzQ0Nzg4NDA1`

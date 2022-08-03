@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-142 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+143 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Fuck It](https://open.spotify.com/track/6n4dJjCThR7Gb9A5DXr1xj) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck It](https://open.spotify.com/album/4JGzX9sAYsqg0mOp0pegoA) | 1:48 | 2022-05-17 | 2022-07-25 |
 | [Fuck The Supreme Court \(Rant Song\)](https://open.spotify.com/track/4V2cyPgdRKrK2MxMsk5m5U) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck The Supreme Court \(Rant Song\)](https://open.spotify.com/album/462TZxbkxvWlvQrxHk8iAN) | 2:50 | 2022-07-07 |  |
 | [Gambling Addiction](https://open.spotify.com/track/49K5DbnLuQ20IzlFe1uEhz) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Gambling Addiction](https://open.spotify.com/album/7FgOugktlsg4ODTM29jMzP) | 2:47 | 2022-05-17 | 2022-07-25 |
-| [Golden](https://open.spotify.com/track/7wjmwD5nIYWVnHiR3X3PTO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7GsJB7Q1Tt1GD1V7v3d0iW) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 3:32 | 2022-05-17 |  |
+| [Golden](https://open.spotify.com/track/4Re3BkmG5JYl2bB2s0yV2b) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Golden](https://open.spotify.com/album/7szpzMClGbgEeP2UhIY2Xf) | 3:32 | 2022-06-07 |  |
+| [Golden](https://open.spotify.com/track/7wjmwD5nIYWVnHiR3X3PTO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7GsJB7Q1Tt1GD1V7v3d0iW) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 3:32 | 2022-05-17 | 2022-08-03 |
 | [Goodbye](https://open.spotify.com/track/2ySaltE2swk0QsimILPK05) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 4:09 | 2022-06-07 |  |
 | [Goodbye](https://open.spotify.com/track/6tfPsgvkgbGHWGwq2PpzCI) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 4:09 | 2022-05-17 | 2022-07-29 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-25 |

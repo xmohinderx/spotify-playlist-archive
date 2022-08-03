@@ -1,12 +1,12 @@
 {
   "description": "Fabiana Cantilo y m\u00e1s mujeres, a todo volumen.",
-  "num_followers": 18355,
+  "num_followers": 18357,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA3NjQwMCwwMDAwMDAwMDlmYjI5NDVjNDg5MzNiNjA4M2JlNTc3MjI5MGM0MTFm",
+  "snapshot_id": "MTY1NzA3NjQwMCwwMDAwMDAwMGMxN2Y0MjcwMWI2ZDgwZGQ0ZmJhMmNjNDU2YTIxMjBk",
   "tracks": [
     {
       "added_at": "2022-07-06 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-07-06 03:00:00",
       "album": {
-        "name": "Miau",
-        "url": "https://open.spotify.com/album/3kKtFAew1ynyCWKAx6d8gR"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Shout, Sister, Shout",
-      "url": "https://open.spotify.com/track/41LNTG0Yrzb5xehoqJnscj"
-    },
-    {
-      "added_at": "2022-07-06 03:00:00",
-      "album": {
         "name": "Billetes Falsos",
         "url": "https://open.spotify.com/album/1iYnmFBoM9eAazMvc928sE"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 158197,
       "name": "El Guinness",
       "url": "https://open.spotify.com/track/3EMCNAmj4UgRmVEs0jbfM2"
+    },
+    {
+      "added_at": "2022-07-06 03:00:00",
+      "album": {
+        "name": "Miau",
+        "url": "https://open.spotify.com/album/3kKtFAew1ynyCWKAx6d8gR"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Shout, Sister, Shout",
+      "url": "https://open.spotify.com/track/41LNTG0Yrzb5xehoqJnscj"
     },
     {
       "added_at": "2022-07-06 03:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-07-06 03:00:00",
       "album": {
-        "name": "Acorralar a la Bestia",
-        "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
-      },
-      "artists": [
-        {
-          "name": "Actitud Mar\u00eda Marta",
-          "url": "https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea"
-        }
-      ],
-      "duration_ms": 263575,
-      "name": "Funk del Altiplano",
-      "url": "https://open.spotify.com/track/6LNAwjq7vHX7tvvArSbskP"
-    },
-    {
-      "added_at": "2022-07-06 03:00:00",
-      "album": {
         "name": "Se\u00f1orita Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7cescA3aCRJDSuX4SuVSsX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 257133,
       "name": "Se\u00f1orita Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7alOhFWVY4eUvsmN2BCkeo"
+    },
+    {
+      "added_at": "2022-07-06 03:00:00",
+      "album": {
+        "name": "Acorralar a la Bestia",
+        "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
+      },
+      "artists": [
+        {
+          "name": "Actitud Mar\u00eda Marta",
+          "url": "https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea"
+        }
+      ],
+      "duration_ms": 263575,
+      "name": "Funk del Altiplano",
+      "url": "https://open.spotify.com/track/6LNAwjq7vHX7tvvArSbskP"
     },
     {
       "added_at": "2022-07-06 03:00:00",

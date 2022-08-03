@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 13943,
+  "num_followers": 14045,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMGRhNDFhYzEyOWExYTkyMGUyNGFhMDA5NDY1ZTVkMjJm",
+  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMGIzNDQzMmRjMGU0MDYyNjVkZGM5NjBmMDQ0YTQzMjY0",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "All My Best Friends Are Metalheads",
-      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 232160,
       "name": "Gotta Get Away",
       "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Hello Rockview",
+        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "All My Best Friends Are Metalheads",
+      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
     },
     {
       "added_at": "2022-01-10 21:04:09",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "How I Spent My Summer Vacation",
-        "url": "https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G"
-      },
-      "artists": [
-        {
-          "name": "The Bouncing Souls",
-          "url": "https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "True Believers",
-      "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Adolescents",
         "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 186626,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "How I Spent My Summer Vacation",
+        "url": "https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G"
+      },
+      "artists": [
+        {
+          "name": "The Bouncing Souls",
+          "url": "https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "True Believers",
+      "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "The Fury of the Aquabats!",
-        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
-      },
-      "artists": [
-        {
-          "name": "The Aquabats!",
-          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Super Rad!",
-      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 181453,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "The Fury of the Aquabats!",
+        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Super Rad!",
+      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
     },
     {
       "added_at": "2021-04-20 17:48:20",

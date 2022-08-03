@@ -208,6 +208,24 @@
     },
     {
       "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216163,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ"
+    },
+    {
+      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },

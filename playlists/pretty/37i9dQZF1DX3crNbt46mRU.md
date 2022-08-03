@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,963 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,932 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 59 | [A Potion For Love](https://open.spotify.com/track/5mDvRgYQY8dJp8Oy1veESd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/54RiYX8ONUdOOxerMzADqA) | 3:36 |
 | 60 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 |
 | 61 | [My Type \(feat\. Yung Mal\)](https://open.spotify.com/track/2av43bJ4Bsegzca84SS3QO) | [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [My Type \(feat\. Yung Mal\)](https://open.spotify.com/album/5PG4zTnIiE6y1A6vetNidI) | 3:02 |
-| 62 | [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 |
+| 62 | [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 |
 | 63 | [Lost Myself To You](https://open.spotify.com/track/2hZXL9FpkPhwvTGxwcl115) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Lost Myself To You](https://open.spotify.com/album/4qiIlnLxM53kB7Lrm5qnNV) | 2:28 |
 | 64 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 |
-| 65 | [Kaum Bist Du Weg](https://open.spotify.com/track/7I3RKM56bJLsy4e0kMVhsS) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6) | [Kaum Bist Du Weg](https://open.spotify.com/album/1eZZAJKD78LU8b0lmvQyyK) | 4:11 |
+| 65 | [Kaum Bist Du Weg](https://open.spotify.com/track/7I3RKM56bJLsy4e0kMVhsS) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [Yrrre](https://open.spotify.com/artist/28YHID2MGPhoEJIuCxqdpO) | [Kaum Bist Du Weg](https://open.spotify.com/album/1eZZAJKD78LU8b0lmvQyyK) | 4:11 |
 | 66 | [Ready For Racing](https://open.spotify.com/track/0dVnj1vmHKBGofUC257OQ2) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Ready For Racing](https://open.spotify.com/album/5boAU9UknnTJeQ7DEikZDZ) | 2:43 |
 | 67 | [under fire](https://open.spotify.com/track/2VzBXKnCpSTEDI3n644voV) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [under fire](https://open.spotify.com/album/2JTCIjVD9CKOFkzArt5vXJ) | 2:26 |
 | 68 | [Crazy Love](https://open.spotify.com/track/2NWwmWKWdTZPajKSraIus3) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Crazy Love](https://open.spotify.com/album/7qwBGsPD8VT9jjPEKif07T) | 2:36 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 100 | [Bildschirmlicht](https://open.spotify.com/track/4WhS670tVK1LRizgQaxwJB) | [Nessi](https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA), [RGB1](https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6) | [Bildschirmlicht](https://open.spotify.com/album/2iF2FffvWCeEFIvMmmvaWl) | 3:24 |
 | 101 | [Morgen kickt der Kater](https://open.spotify.com/track/0VB7FDKebXYVAkqZinFRxc) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Morgen kickt der Kater](https://open.spotify.com/album/6rmvDE7rJxD35UMJWdRnxz) | 3:16 |
 
-Snapshot ID: `MTY1OTA4Mjk3MCwwMDAwMDAwMGI5OTA3MmFjYTdhZmMyY2U2MzcyMTRjNDE5NTg2Mjdi`
+Snapshot ID: `MTY1OTA4Mjk3MCwwMDAwMDAwMGI1MjFkNjZhODc0MDNkM2I0NTE5YmQ2ZTcxMGQ3ODVk`

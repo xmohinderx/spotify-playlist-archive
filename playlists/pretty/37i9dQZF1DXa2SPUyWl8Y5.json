@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 401995,
+  "num_followers": 402113,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA2NDgwMCwwMDAwMDAwMDY3ZjBlZDBmZmJmMmU3N2Q4OTJhOTIyNDA2NmI5NzRj",
+  "snapshot_id": "MTY1NjA2NDgwMCwwMDAwMDAwMDYyZTE4OWM1ODU2N2NlNGIwOTdlMTQ5ZWQ3Mjc0OWI3",
   "tracks": [
     {
       "added_at": "2022-06-24 10:00:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Owls (Edit)",
-        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 226014,
-      "name": "Owls - Edit",
-      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Multi",
         "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 177243,
       "name": "Multi",
       "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Owls (Edit)",
+        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 226014,
+      "name": "Owls - Edit",
+      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "The Dawn",
-        "url": "https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT"
-      },
-      "artists": [
-        {
-          "name": "Alex Dovo",
-          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
-        }
-      ],
-      "duration_ms": 463563,
-      "name": "Free Colombia",
-      "url": "https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Planet Earth | March of the Giants",
         "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Fader",
-        "url": "https://open.spotify.com/album/62KwnbwuZHGrefZAc2dlAU"
+        "name": "The Dawn",
+        "url": "https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT"
       },
       "artists": [
         {
-          "name": "Casper Cole",
-          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
+          "name": "Alex Dovo",
+          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
         }
       ],
-      "duration_ms": 373875,
-      "name": "Fader",
-      "url": "https://open.spotify.com/track/0nXB7YWrra82OKeTa6PVWq"
+      "duration_ms": 463563,
+      "name": "Free Colombia",
+      "url": "https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -531,6 +515,22 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/62KwnbwuZHGrefZAc2dlAU"
+      },
+      "artists": [
+        {
+          "name": "Casper Cole",
+          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
+        }
+      ],
+      "duration_ms": 373875,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/0nXB7YWrra82OKeTa6PVWq"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Prelusion",
-        "url": "https://open.spotify.com/album/3N6cm4FyrEgbMUKahWiatI"
-      },
-      "artists": [
-        {
-          "name": "Mark Tarmonea",
-          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
-        },
-        {
-          "name": "Yannek Maunz",
-          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
-        }
-      ],
-      "duration_ms": 377919,
-      "name": "Prelusion",
-      "url": "https://open.spotify.com/track/6YJ9z4IInxfJWsjc6ADtV2"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -607,22 +587,38 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX"
+        "name": "Prelusion",
+        "url": "https://open.spotify.com/album/3N6cm4FyrEgbMUKahWiatI"
       },
       "artists": [
         {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+          "name": "Mark Tarmonea",
+          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
         },
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Yannek Maunz",
+          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
         }
       ],
-      "duration_ms": 266730,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
+      "duration_ms": 377919,
+      "name": "Prelusion",
+      "url": "https://open.spotify.com/track/6YJ9z4IInxfJWsjc6ADtV2"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -647,18 +643,22 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX"
       },
       "artists": [
         {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+      "duration_ms": 266730,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Planet F",
-        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
       },
       "artists": [
         {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
         }
       ],
-      "duration_ms": 241769,
-      "name": "Planet F",
-      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
       },
       "artists": [
         {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
         }
       ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Piano & Electronic Ensemble Op. 1",
-        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
-      },
-      "artists": [
-        {
-          "name": "Schlindwein",
-          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
-        }
-      ],
-      "duration_ms": 375483,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Panslinger",
         "url": "https://open.spotify.com/album/0v0fAOkiJ7PoFNVCTrWSFn"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "10 Years URSL - Reframed Future",
-        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+        "name": "Piano & Electronic Ensemble Op. 1",
+        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
       "artists": [
         {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+          "name": "Schlindwein",
+          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
         }
       ],
-      "duration_ms": 425437,
-      "name": "Reframed Future",
-      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+      "duration_ms": 375483,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -927,22 +911,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+        "name": "10 Years URSL - Reframed Future",
+        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
       "artists": [
         {
-          "name": "Soul Button",
-          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
-        },
-        {
-          "name": "Rustboy",
-          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
         }
       ],
-      "duration_ms": 364918,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+      "duration_ms": 425437,
+      "name": "Reframed Future",
+      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -959,6 +939,26 @@
       "duration_ms": 406000,
       "name": "Flight Into the Void",
       "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Supercycle",
-        "url": "https://open.spotify.com/album/3ksLevpCQvoed0nlc0CMiZ"
-      },
-      "artists": [
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        },
-        {
-          "name": "Citizen Kain",
-          "url": "https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE"
-        },
-        {
-          "name": "Kiko",
-          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
-        }
-      ],
-      "duration_ms": 242926,
-      "name": "Supercycle",
-      "url": "https://open.spotify.com/track/2NlMxXyjJimm3OSjQDwKOX"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
       },
@@ -1087,6 +1063,30 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
+        "name": "Supercycle",
+        "url": "https://open.spotify.com/album/3ksLevpCQvoed0nlc0CMiZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "Citizen Kain",
+          "url": "https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        }
+      ],
+      "duration_ms": 242926,
+      "name": "Supercycle",
+      "url": "https://open.spotify.com/track/2NlMxXyjJimm3OSjQDwKOX"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 377419,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Spacemodulation",
-        "url": "https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D"
-      },
-      "artists": [
-        {
-          "name": "Flug 8",
-          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
-        }
-      ],
-      "duration_ms": 428160,
-      "name": "Spacemodulation",
-      "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Endless Dancing",
-        "url": "https://open.spotify.com/album/5bQAfygQhcBVSsmmMM6sAi"
-      },
-      "artists": [
-        {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
-        }
-      ],
-      "duration_ms": 259670,
-      "name": "Endless Dancing",
-      "url": "https://open.spotify.com/track/4HzXeOr4xGfPmx4ZZOaY2t"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Black Ice",
         "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
       },
@@ -1163,6 +1131,38 @@
       "duration_ms": 380039,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Spacemodulation",
+        "url": "https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D"
+      },
+      "artists": [
+        {
+          "name": "Flug 8",
+          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
+        }
+      ],
+      "duration_ms": 428160,
+      "name": "Spacemodulation",
+      "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Endless Dancing",
+        "url": "https://open.spotify.com/album/5bQAfygQhcBVSsmmMM6sAi"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 259670,
+      "name": "Endless Dancing",
+      "url": "https://open.spotify.com/track/4HzXeOr4xGfPmx4ZZOaY2t"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+      },
+      "artists": [
+        {
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
         "name": "Seige",
         "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
-      },
-      "artists": [
-        {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 450595,
       "name": "Resurrect",
       "url": "https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 447201,
       "name": "La Napoule - Nathan Micay's Life in Every Breath Remix",
       "url": "https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
-      },
-      "artists": [
-        {
-          "name": "Nick Schwenderling",
-          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
     },
     {
       "added_at": "2022-06-24 10:00:00",

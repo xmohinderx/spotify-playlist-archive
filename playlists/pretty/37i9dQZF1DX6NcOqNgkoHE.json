@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2014! Cover: Cesare Cremonini",
-  "num_followers": 4781,
+  "num_followers": 4786,
   "original_name": "Le Hit Del 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDE4MSwwMDAwMDAwMGQ4YjQ4ZGJkMjM4YWYyOThjOTk3OWI5NjIzMjIxNTdl",
+  "snapshot_id": "MTYwNDUwMDE4MSwwMDAwMDAwMGY3N2RkMGEyNjA3OWIwM2NmY2U3MGQyMjZjZjRmMzI0",
   "tracks": [
     {
       "added_at": "2020-11-04 14:29:41",
@@ -87,22 +87,6 @@
     {
       "added_at": "2020-11-04 14:29:41",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
-    },
-    {
-      "added_at": "2020-11-04 14:29:41",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "added_at": "2020-11-04 14:29:41",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
     },
     {
       "added_at": "2020-11-04 14:29:41",

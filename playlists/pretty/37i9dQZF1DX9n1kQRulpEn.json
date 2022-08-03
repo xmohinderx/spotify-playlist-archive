@@ -1,12 +1,12 @@
 {
   "description": "A swinging jazz soundtrack for your drive time.",
-  "num_followers": 27870,
+  "num_followers": 27893,
   "original_name": "Jazz Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5MDAwNiwwMDAwMDAwMDIxYTA0MDY3YmUzMjg5YTc2YTNmYThlOGI0N2U5OWUx",
+  "snapshot_id": "MTY1NTk5MDAwNiwwMDAwMDAwMGNiMDk4MjlmN2E5YjRhNDkwZDdkNTJkNmFmNWFkOGY3",
   "tracks": [
     {
       "added_at": "2022-06-23 13:13:26",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "H\u00e4ndelse",
-        "url": "https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4"
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
       },
       "artists": [
         {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 279974,
-      "name": "Ha\u0308ndelse",
-      "url": "https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5"
+      "duration_ms": 405653,
+      "name": "Doodlin' - Remastered",
+      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+        "name": "H\u00e4ndelse",
+        "url": "https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
         }
       ],
-      "duration_ms": 405653,
-      "name": "Doodlin' - Remastered",
-      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
+      "duration_ms": 279974,
+      "name": "Ha\u0308ndelse",
+      "url": "https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "Shades Of Redd (Remastered)",
-        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
-      },
-      "artists": [
-        {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "Melanie - Digital Remaster/2007",
-      "url": "https://open.spotify.com/track/3UeixuVuezSNFGlN33AMc9"
-    },
-    {
-      "added_at": "2022-06-23 13:13:26",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 236000,
       "name": "Poutin'",
       "url": "https://open.spotify.com/track/1du0DKiSdCsgTUimDsnKBZ"
+    },
+    {
+      "added_at": "2022-06-23 13:13:26",
+      "album": {
+        "name": "Shades Of Redd (Remastered)",
+        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
+      },
+      "artists": [
+        {
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "Melanie - Digital Remaster/2007",
+      "url": "https://open.spotify.com/track/3UeixuVuezSNFGlN33AMc9"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1011,26 +1011,18 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "Toy Tunes",
-        "url": "https://open.spotify.com/album/5LH06GNxWhPNoegjEL7czA"
+        "name": "A Stranger In Town",
+        "url": "https://open.spotify.com/album/7bzD7vIdt5nxTEJe8F6Y2k"
       },
       "artists": [
         {
-          "name": "Larry Goldings",
-          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 370396,
-      "name": "Don't Ever Call Me Again",
-      "url": "https://open.spotify.com/track/0vJLr6QvfbhHwjrt7zcsHX"
+      "duration_ms": 582133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1051,18 +1043,26 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "A Stranger In Town",
-        "url": "https://open.spotify.com/album/7bzD7vIdt5nxTEJe8F6Y2k"
+        "name": "Toy Tunes",
+        "url": "https://open.spotify.com/album/5LH06GNxWhPNoegjEL7czA"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
         }
       ],
-      "duration_ms": 582133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC"
+      "duration_ms": 370396,
+      "name": "Don't Ever Call Me Again",
+      "url": "https://open.spotify.com/track/0vJLr6QvfbhHwjrt7zcsHX"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
+        "name": "Volume Two",
+        "url": "https://open.spotify.com/album/7JJjXLVOKnpL94UVRIKksn"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 345400,
+      "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"
+    },
+    {
+      "added_at": "2022-06-23 13:13:26",
+      "album": {
         "name": "Thomas Sejthen Trio",
         "url": "https://open.spotify.com/album/0ZDcQtOlZos9D0UCpNyrKa"
       },
@@ -1515,42 +1531,22 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "Volume Two",
-        "url": "https://open.spotify.com/album/7JJjXLVOKnpL94UVRIKksn"
+        "name": "Plutonic Eclipse",
+        "url": "https://open.spotify.com/album/5JTGa2Ycj1XA66W3C63yhC"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 345400,
-      "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"
-    },
-    {
-      "added_at": "2022-06-23 13:13:26",
-      "album": {
-        "name": "Sun Blowing",
-        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
-      },
-      "artists": [
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+          "name": "Simon Spang-Hanssen",
+          "url": "https://open.spotify.com/artist/6dZV0SKjmBTGEeqP15A7CI"
         },
         {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+          "name": "Epistrophy Septet",
+          "url": "https://open.spotify.com/artist/2M53NSJyE0yJtEKfaRArTn"
         }
       ],
-      "duration_ms": 282762,
-      "name": "Little Jump",
-      "url": "https://open.spotify.com/track/5e1PSFh6Qrcr8K89Iy2vCm"
+      "duration_ms": 249934,
+      "name": "Wayne Wave",
+      "url": "https://open.spotify.com/track/4Nh9SG27En67iOzE3vssBB"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1579,22 +1575,26 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "Plutonic Eclipse",
-        "url": "https://open.spotify.com/album/5JTGa2Ycj1XA66W3C63yhC"
+        "name": "Sun Blowing",
+        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
       },
       "artists": [
         {
-          "name": "Simon Spang-Hanssen",
-          "url": "https://open.spotify.com/artist/6dZV0SKjmBTGEeqP15A7CI"
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
         },
         {
-          "name": "Epistrophy Septet",
-          "url": "https://open.spotify.com/artist/2M53NSJyE0yJtEKfaRArTn"
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
         }
       ],
-      "duration_ms": 249934,
-      "name": "Wayne Wave",
-      "url": "https://open.spotify.com/track/4Nh9SG27En67iOzE3vssBB"
+      "duration_ms": 282762,
+      "name": "Little Jump",
+      "url": "https://open.spotify.com/track/5e1PSFh6Qrcr8K89Iy2vCm"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "Cool Struttin\u2019",
-        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 496047,
-      "name": "Sippin' At Bells - Remastered",
-      "url": "https://open.spotify.com/track/6lMuLsSY67KBXLPhQVCbUW"
-    },
-    {
-      "added_at": "2022-06-23 13:13:26",
-      "album": {
         "name": "Flyger",
         "url": "https://open.spotify.com/album/2cu6eKTA5JvJiE9wOroGhn"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 377000,
       "name": "900",
       "url": "https://open.spotify.com/track/0KoDN3WUZdpYRGnaH4vXwm"
+    },
+    {
+      "added_at": "2022-06-23 13:13:26",
+      "album": {
+        "name": "Cool Struttin\u2019",
+        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 496047,
+      "name": "Sippin' At Bells - Remastered",
+      "url": "https://open.spotify.com/track/6lMuLsSY67KBXLPhQVCbUW"
     },
     {
       "added_at": "2022-06-23 13:13:26",

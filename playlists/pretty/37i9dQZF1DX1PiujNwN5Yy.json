@@ -1,12 +1,12 @@
 {
   "description": "Canciones tristes para uno de esos d\u00edas. Sad songs just 4 you.",
-  "num_followers": 96813,
+  "num_followers": 96843,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMGIyNWNmZmRlNTVlZWM4NzMxZTNiOGYxNWZkYmNiZDM1",
+  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMDUyOGVmMDkyZTI4N2RjMjA5NmU4MTYwYTBkY2ZhNmQ4",
   "tracks": [
     {
       "added_at": "2022-08-01 18:10:09",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "La Banqueta",
-        "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "La Banqueta",
-      "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Bailando Lentos",
         "url": "https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 207413,
       "name": "Bailando Lentos",
       "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "La Banqueta",
+        "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "La Banqueta",
+      "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Ac\u00e1",
-        "url": "https://open.spotify.com/album/3HN12t0MPVdiKUem0TaQLf"
+        "name": "A Estas Horas Del Amor",
+        "url": "https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
         }
       ],
-      "duration_ms": 268480,
-      "name": "Ac\u00e1",
-      "url": "https://open.spotify.com/track/2BHtrD7taJDq9j3Yc5kP2m"
+      "duration_ms": 302426,
+      "name": "A Estas Horas Del Amor",
+      "url": "https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc"
     }
   ],
   "unique_name": "gris",

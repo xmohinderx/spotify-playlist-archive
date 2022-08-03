@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,995 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,991 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 63 | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/track/4cTo1wbzGiVJJiCG3BdZ64) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Eskeemo](https://open.spotify.com/artist/6c1KIrxttQDU6A31FwNlXg) | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj) | 2:24 |
 | 64 | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH) | 3:11 |
 | 65 | [Blinding Lights](https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blinding Lights](https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD) | 2:10 |
-| 66 | [OK \- Ofenbach Remix](https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [OK \(The Remixes\)](https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS) | 3:04 |
-| 67 | [Complicated \- Faustix Remix](https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Complicated \(Faustix Remix\)](https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du) | 2:27 |
-| 68 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
+| 66 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
+| 67 | [OK \- Ofenbach Remix](https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [OK \(The Remixes\)](https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS) | 3:04 |
+| 68 | [Complicated \- Faustix Remix](https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Complicated \(Faustix Remix\)](https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du) | 2:27 |
 | 69 | [Lion](https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion](https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG) | 3:36 |
 | 70 | [Don't Worry \- Radio Edit](https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Don't Worry \(Radio Edit\)](https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5) | 3:10 |
 | 71 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 |
 | 80 | [Thorns](https://open.spotify.com/track/6DuE8kXIDJ3oiCibWXmgeN) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Thorns](https://open.spotify.com/album/57ATyOS7Gud3uEjzIbMp7Y) | 3:06 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDZjNGM0YWIzY2I0MjU2ZGU0ZjM3NzVmYWJmNzYyNjcw`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDhiNmY5YzM3NWViOGY1MzE3MmNhNzFiZjBiYWE3ZjNl`

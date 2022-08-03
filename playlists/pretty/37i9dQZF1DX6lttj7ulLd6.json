@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 18019,
+  "num_followers": 18247,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxODk0OCwwMDAwMDAwMGY5ZDI2YjRkN2UzNWJhYTQzMjM2ZDUwMTViYTliZDkz",
+  "snapshot_id": "MTY1NjQxODk0OCwwMDAwMDAwMGI1NGI4YzM0YTNhZmI1MmE0MWIzNjQxYTU4YzI5NjY5",
   "tracks": [
     {
       "added_at": "2022-06-28 12:22:28",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Where the Night Begins",
-      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
         "name": "Urban Knights III",
         "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 242333,
       "name": "You're The One For Me",
       "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where the Night Begins",
+      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
         "name": "Third Wish",
         "url": "https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 280426,
       "name": "Third Wish",
       "url": "https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 314506,
-      "name": "Take Me There",
-      "url": "https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 257373,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 314506,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -675,54 +675,6 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Dance Of The Soul",
-        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis",
-          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5YW9Vrst2OmdJih861foWB"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Lover For Life",
-      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
         "name": "Just What You Need",
         "url": "https://open.spotify.com/album/7bUsoIHRz3zFdeJeBGhg1z"
       },
@@ -743,6 +695,54 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
+        "name": "Dance Of The Soul",
+        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis",
+          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5YW9Vrst2OmdJih861foWB"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Lover For Life",
+      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
         "name": "Kisses In The Rain",
         "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
@@ -755,38 +755,6 @@
       "duration_ms": 222706,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/5dKyIGGTiQ8xqyvhHfg1Sf"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
-        "name": "Playin' Favorites",
-        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 291226,
-      "name": "Miss Bane",
-      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -807,18 +775,34 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Forever, For Always, For Luther",
-        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
       },
       "artists": [
         {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 304453,
-      "name": "Any Love",
-      "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
+      "duration_ms": 291226,
+      "name": "Miss Bane",
+      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "Playin' Favorites",
+        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -835,6 +819,22 @@
       "duration_ms": 199533,
       "name": "I'm Waiting For You",
       "url": "https://open.spotify.com/track/1tG7sbklJgngzJlwt5kqob"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "Forever, For Always, For Luther",
+        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 304453,
+      "name": "Any Love",
+      "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+        "name": "Love and Paragraphs",
+        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
         }
       ],
-      "duration_ms": 298266,
-      "name": "Moonlit Ocean",
-      "url": "https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423"
+      "duration_ms": 243560,
+      "name": "Have Your Cake And Eat It",
+      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Love and Paragraphs",
-        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
       "artists": [
         {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 243560,
-      "name": "Have Your Cake And Eat It",
-      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+      "duration_ms": 298266,
+      "name": "Moonlit Ocean",
+      "url": "https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/5x5eUg69ezurxlTfSriyjv"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 261866,
-      "name": "So Beautiful",
-      "url": "https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR"
+      "duration_ms": 308346,
+      "name": "Love To All",
+      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/5x5eUg69ezurxlTfSriyjv"
       },
       "artists": [
         {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Love To All",
-      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
+      "duration_ms": 261866,
+      "name": "So Beautiful",
+      "url": "https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
         }
       ],
-      "duration_ms": 304653,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX"
+      "duration_ms": 318266,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/29EWQFBFg70fC4rIbknyrI"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1111,38 +1111,34 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
       "artists": [
         {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 318266,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/29EWQFBFg70fC4rIbknyrI"
+      "duration_ms": 304653,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX"
     },
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
       },
       "artists": [
         {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
         }
       ],
-      "duration_ms": 236960,
-      "name": "Two of a Kind (feat. Chuck Loeb)",
-      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
+      "duration_ms": 325373,
+      "name": "Night Calls",
+      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
       "artists": [
         {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 325373,
-      "name": "Night Calls",
-      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
+      "duration_ms": 236960,
+      "name": "Two of a Kind (feat. Chuck Loeb)",
+      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Influences",
-        "url": "https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
       },
       "artists": [
         {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
         }
       ],
-      "duration_ms": 264440,
-      "name": "When You Love Somebody",
-      "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"
+      "duration_ms": 280059,
+      "name": "Summer Groove",
+      "url": "https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
+        "name": "Influences",
+        "url": "https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "When You Love Somebody",
+      "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 279040,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 280059,
-      "name": "Summer Groove",
-      "url": "https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
         }
       ],
-      "duration_ms": 414834,
-      "name": "Squeeze Me",
-      "url": "https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C"
+      "duration_ms": 283960,
+      "name": "Pulse Point",
+      "url": "https://open.spotify.com/track/7wHRIgyHHYn8x18a2mDoAL"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

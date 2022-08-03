@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpzpfnVhpIz.md) - [plain]
 
 > Italian superstar producer & DJ <a href ="spotify:artist:5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a> promises a good time with his mix featuring recent hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,035 likes - 2 songs - 5 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 8,075 likes - 2 songs - 5 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

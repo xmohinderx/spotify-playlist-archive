@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 28380,
+  "num_followers": 28424,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMGMyNjM3MmU5OTk2OTczYjIyY2E2YjQ0NjA3ZWM3NmMw",
+  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMDExMmM5MThjNjExMGVhNzlmMDkxNDRmMTY1ZWMxZjUz",
   "tracks": [
     {
       "added_at": "2022-07-05 08:35:29",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        }
+      ],
+      "duration_ms": 278211,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
+    },
+    {
+      "added_at": "2022-07-05 08:35:29",
+      "album": {
         "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
         "url": "https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 193501,
-      "name": "Lucy Lucy",
-      "url": "https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW"
-    },
-    {
-      "added_at": "2022-07-05 08:35:29",
-      "album": {
         "name": "1100 Cegonhas",
         "url": "https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 278211,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
+      "duration_ms": 193501,
+      "name": "Lucy Lucy",
+      "url": "https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW"
     },
     {
       "added_at": "2022-07-05 08:35:29",

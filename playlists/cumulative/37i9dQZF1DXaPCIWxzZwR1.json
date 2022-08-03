@@ -3656,6 +3656,24 @@
     },
     {
       "album": {
+        "name": "Come Back Home (From \"Purple Hearts\")",
+        "url": "https://open.spotify.com/album/2O6Q9yickLm8XJfvy1SPdx"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176858,
+      "name": "Come Back Home - From \"Purple Hearts\"",
+      "url": "https://open.spotify.com/track/2mPXui72mlIYR5sQUPZXwP"
+    },
+    {
+      "album": {
         "name": "Communication",
         "url": "https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb"
       },

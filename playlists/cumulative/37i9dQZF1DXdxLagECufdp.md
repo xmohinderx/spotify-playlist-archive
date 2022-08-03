@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-122 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
+123 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-09-10 |  |
 | [Hasta el Amanecer \(feat\. Gina Bustamante\)](https://open.spotify.com/track/733JqA2OMB1g4rmCMlqfXn) | [Los Kamer](https://open.spotify.com/artist/6Zsa6YJUpv57fOESdkQQ8M), [Gina Bustamante](https://open.spotify.com/artist/7bDkjZt8lmtgqoxAIDjsFJ) | [Los Kamer](https://open.spotify.com/album/2sQBMrJchTauZdl0228rBm) | 4:55 | 2021-09-10 | 2022-07-27 |
 | [Hurry Up](https://open.spotify.com/track/55IgT3P3jYAbvnNcQgMUH9) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Colección Dorada \(Vol\. I\)](https://open.spotify.com/album/6JzeapBSMrUsjGZDgSCsyc) | 2:46 | 2021-09-10 | 2022-07-29 |
-| [Icsiti](https://open.spotify.com/track/1hC6QsXFXsEOBFRtqIcZxG) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs) | [Icsiti](https://open.spotify.com/album/4gNlThjhIw6h1o9X79TGZ5) | 3:41 | 2022-04-22 |  |
+| [Icsiti](https://open.spotify.com/track/1hC6QsXFXsEOBFRtqIcZxG) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs) | [Icsiti](https://open.spotify.com/album/4gNlThjhIw6h1o9X79TGZ5) | 3:41 | 2022-04-22 | 2022-08-03 |
 | [Il ballo di San Vito](https://open.spotify.com/track/6oC8FuowgLT4ZSlXECLCNX) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Il Ballo Di San Vito](https://open.spotify.com/album/7dFDRhEgvQZHu77TuvoEri) | 3:23 | 2021-09-10 |  |
 | [Job](https://open.spotify.com/track/0yfzOlSCRVYg9oCZtBfM9X) | [Orquesta 24 Cuadros](https://open.spotify.com/artist/2orkkJ9BHC2Z2HpmvjLwLH) | [Orquesta 24 Cuadros](https://open.spotify.com/album/1WuZDwTJJHCPc4CABJD8Ku) | 4:42 | 2021-09-10 | 2022-07-29 |
 | [Just the Two of Us \- Borat Version](https://open.spotify.com/track/3vlX8DYLjmo7tzGeNBSVoG) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [It Wasn't Hard to Love You](https://open.spotify.com/album/2U1gmHeaRx1E8VaB7wO13R) | 2:56 | 2021-09-10 |  |
@@ -105,6 +105,7 @@
 | [Para Olvidarte](https://open.spotify.com/track/4zqtjs0gntUiyOwJ2XwGRa) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Para Olvidarte](https://open.spotify.com/album/7LJJlpLzQTBQ0wjMopDN81) | 4:04 | 2021-09-10 | 2022-07-29 |
 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 |  |
 | [Parla più piano \(Love Theme from "The Godfather"\)](https://open.spotify.com/track/4vs7AkZvFE3T87rdfQEvVA) | [The Speakeasies' Swing Band!](https://open.spotify.com/artist/1oUi6Bbik9rnyUtnQUnC2g) | [Land of Plenty](https://open.spotify.com/album/2R4Nkyigz44hJbVd004zhS) | 4:51 | 2021-09-10 |  |
+| [Pastelito De Piña](https://open.spotify.com/track/5vniH12f4XPDvlVJLtcOl7) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerol](https://open.spotify.com/album/0WDKrFndSnTYgDNB2S065Z) | 4:45 | 2021-09-10 |  |
 | [Pastelito De Piña](https://open.spotify.com/track/3JxFX9lzyVkC3mSKflz2Ni) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerol](https://open.spotify.com/album/0AeN2ULkQHJTWMDfBcrvtv) | 4:45 | 2021-09-10 | 2022-07-29 |
 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 | 2021-09-10 | 2022-07-29 |
 | [Pink Elephants on Parade](https://open.spotify.com/track/2N9X030oBteOZ1O5KFvPUo) | [Lee Presson and the Nails](https://open.spotify.com/artist/07CH0q2ZtS4ifGT4135KIp) | [El Bando En Fuego!](https://open.spotify.com/album/0UA1mAdD14qI51Ogfwdyk7) | 4:28 | 2021-09-10 | 2022-07-11 |

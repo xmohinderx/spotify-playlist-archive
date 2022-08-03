@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: beabadoobee.",
-  "num_followers": 242940,
+  "num_followers": 243011,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGQzYWJkYjlkODVkMTM2MDRlMDg1ZDgwNmM4ZmZhMjFk",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGQ5OGI3YWE1YTA2MmE4YWRlY2JhM2EwOTQ5MDI0ZGIz",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "figured u out",
-      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Have We Met Before (with Eric Nam)",
         "url": "https://open.spotify.com/album/3CugoYr2fheAKsUkc4wsVo"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 158174,
       "name": "Have We Met Before (with Eric Nam)",
       "url": "https://open.spotify.com/track/7eCpXVlWnTVEE8twb3P8m5"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "figured u out",
+      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "so wrong but so right.",
-        "url": "https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 179571,
-      "name": "so wrong but so right.",
-      "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 254800,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1Mut1YA6ZxKZ7F6MKsMSQu"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "so wrong but so right.",
+        "url": "https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 179571,
+      "name": "so wrong but so right.",
+      "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "honest (feat. moon tang)",
-        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        },
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "honest (feat. moon tang)",
-      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "EXPIRED",
         "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
       },
@@ -1475,18 +1455,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Freaky (RGB)",
-        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+        "name": "honest (feat. moon tang)",
+        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
       },
       "artists": [
         {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 109296,
-      "name": "Freaky (RGB)",
-      "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
+      "duration_ms": 177818,
+      "name": "honest (feat. moon tang)",
+      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 145173,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 109296,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Postman b/w Magazine",
-        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Postman",
-      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Shade of Yellow",
         "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
       },
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Old Her",
-        "url": "https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc"
+        "name": "Postman b/w Magazine",
+        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
       },
       "artists": [
         {
-          "name": "YDE",
-          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 181574,
-      "name": "Old Her",
-      "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
+      "duration_ms": 160704,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Old Her",
+        "url": "https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "duration_ms": 181574,
+      "name": "Old Her",
+      "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Lover Like Me",
         "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
       },
@@ -1823,6 +1823,22 @@
       "duration_ms": 177845,
       "name": "Lover Like Me",
       "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Apollo 8",
+        "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
+      },
+      "artists": [
+        {
+          "name": "Alann8h",
+          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Rings of Saturn",
+      "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1843,22 +1859,6 @@
       "duration_ms": 132826,
       "name": "sardines",
       "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Apollo 8",
-        "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
-      },
-      "artists": [
-        {
-          "name": "Alann8h",
-          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
-        }
-      ],
-      "duration_ms": 173008,
-      "name": "Rings of Saturn",
-      "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 181878,
-      "name": "universe (DTB Remix) - Spotify Singles",
-      "url": "https://open.spotify.com/track/3VgbUDt8Vz6RwcRRzjJ3xB"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "pieces",
         "url": "https://open.spotify.com/album/00wsSw2OSFR2jpJLQEiQPr"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Could I Be Somebody",
-        "url": "https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
         {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 231693,
-      "name": "Could I Be Somebody",
-      "url": "https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3"
+      "duration_ms": 181878,
+      "name": "universe (DTB Remix) - Spotify Singles",
+      "url": "https://open.spotify.com/track/3VgbUDt8Vz6RwcRRzjJ3xB"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2051,22 +2035,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Under The Rose",
-        "url": "https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT"
+        "name": "Could I Be Somebody",
+        "url": "https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn"
       },
       "artists": [
         {
-          "name": "Slodown",
-          "url": "https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl"
-        },
-        {
-          "name": "Dumbfoundead",
-          "url": "https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed"
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
         }
       ],
-      "duration_ms": 230842,
-      "name": "Me & Mrs. Wong",
-      "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
+      "duration_ms": 231693,
+      "name": "Could I Be Somebody",
+      "url": "https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2083,6 +2063,26 @@
       "duration_ms": 211337,
       "name": "Picture Myself",
       "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Under The Rose",
+        "url": "https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT"
+      },
+      "artists": [
+        {
+          "name": "Slodown",
+          "url": "https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl"
+        },
+        {
+          "name": "Dumbfoundead",
+          "url": "https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed"
+        }
+      ],
+      "duration_ms": 230842,
+      "name": "Me & Mrs. Wong",
+      "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2203,22 +2203,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "all the bands",
-        "url": "https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8"
       },
       "artists": [
         {
-          "name": "Tommy Genesis",
-          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
-        },
-        {
-          "name": "Charlie Heat",
-          "url": "https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 141853,
-      "name": "all the bands",
-      "url": "https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2"
+      "duration_ms": 138000,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2239,18 +2235,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8"
+        "name": "all the bands",
+        "url": "https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "Charlie Heat",
+          "url": "https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
+      "duration_ms": 141853,
+      "name": "all the bands",
+      "url": "https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Cougar",
+        "url": "https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD"
+      },
+      "artists": [
+        {
+          "name": "Eric Reprid",
+          "url": "https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Cougar",
+      "url": "https://open.spotify.com/track/6vpbR7ppnFZ0OQ3QF3c6Jf"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Waiting For Love",
         "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 262702,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Cougar",
-        "url": "https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD"
-      },
-      "artists": [
-        {
-          "name": "Eric Reprid",
-          "url": "https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Cougar",
-      "url": "https://open.spotify.com/track/6vpbR7ppnFZ0OQ3QF3c6Jf"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Can We Have A Conversation?",
+        "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "Can We Have A Conversation?",
+      "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6tUQHiBPeeWlFoSEBFYDAQ"
       },
@@ -2479,18 +2495,34 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Can We Have A Conversation?",
-        "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "H 3 F",
+          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
         }
       ],
-      "duration_ms": 154969,
-      "name": "Can We Have A Conversation?",
-      "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
+      "duration_ms": 213000,
+      "name": "You",
+      "url": "https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "i'm having a hard time being myself",
+        "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
+      },
+      "artists": [
+        {
+          "name": "Jae Luna",
+          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "i'm having a hard time being myself",
+      "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2519,38 +2551,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "i'm having a hard time being myself",
-        "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
-      },
-      "artists": [
-        {
-          "name": "Jae Luna",
-          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "i'm having a hard time being myself",
-      "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5"
-      },
-      "artists": [
-        {
-          "name": "H 3 F",
-          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "You",
-      "url": "https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "a liquid breakfast DELUXE",
         "url": "https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj"
       },
@@ -2563,22 +2563,6 @@
       "duration_ms": 124440,
       "name": "changes",
       "url": "https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Please Baby Please",
-        "url": "https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Please Baby Please",
-      "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2623,6 +2607,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Please Baby Please",
+        "url": "https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Please Baby Please",
+      "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/0fskcpyw9TKwovHPx6O0sr"
       },
@@ -2651,6 +2651,30 @@
       "duration_ms": 209360,
       "name": "Man Who Loves You",
       "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Ready For Love",
+        "url": "https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Caslow",
+          "url": "https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq"
+        },
+        {
+          "name": "Exede",
+          "url": "https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Ready For Love",
+      "url": "https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2687,42 +2711,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Ready For Love",
-        "url": "https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
       },
       "artists": [
         {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Caslow",
-          "url": "https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq"
-        },
-        {
-          "name": "Exede",
-          "url": "https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Ready For Love",
-      "url": "https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "SPOILED BITCH",
-        "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "SPOILED BITCH",
-      "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
+      "duration_ms": 193396,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
     }
   ],
   "unique_name": "Jasmine",

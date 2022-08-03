@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular animation & webtoon OSTs now! \(Cover: Discovery of Love\(연애의 발견\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
+> Meet the popular animation & webtoon OSTs now! \(Cover: MOONBIN&SANHA\(문빈&산하\(ASTRO\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-77 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+80 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cry Baby](https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/0OWATchDPifiDyvGEf2ddO) | 4:00 | 2022-05-09 | 2022-07-29 |
 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 | 2022-07-20 |  |
 | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu) | 3:48 | 2022-07-12 |  |
+| [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-02 |  |
 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 | 2022-05-09 |  |
 | [Drip Drip Drip](https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl) | [YEO\-EUN](https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww) | [The Crush Of Spring OST Part.1](https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP) | 3:42 | 2022-05-27 |  |
 | [Drive Away](https://open.spotify.com/track/6QE9JHwECUV28SeCVk4zO1) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Drive Away \(Marriage Or Death X SURAN\)](https://open.spotify.com/album/2IbKSIHCu6c5Tfw5SjbDCA) | 3:29 | 2022-05-09 |  |
@@ -30,6 +31,7 @@
 | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/track/0tEJych2LdCffCFYVn5vU0) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/album/66yLRKVouimpFdrbQupUdL) | 3:22 | 2022-07-20 |  |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-09 |  |
 | [Good bye my love](https://open.spotify.com/track/4sTXT0ArcrA5FHRjQLm6qc) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Webtoon The Red Sleeve \(Original Soundtrack\)](https://open.spotify.com/album/2FxNxbv5XY55H700JbvoK3) | 3:53 | 2022-07-29 |  |
+| [Goodbye](https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [It Was All a Mistake OST Part 1](https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q) | 3:44 | 2022-08-02 |  |
 | [Half of Half](https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Hanyang Diaries, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2HtX81YADYdTbNt4wlpcCS) | 3:29 | 2022-05-09 |  |
 | [Hold me …](https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [The Crush Of Spring OST Part.3](https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji) | 3:44 | 2022-05-27 |  |
 | [I can't even love you](https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi) | [Han Ga Bin](https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv) | [The Crush Of Spring OST Part.15](https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u) | 3:42 | 2022-07-08 |  |
@@ -38,6 +40,7 @@
 | [I Like You, But Got Tired of Liking You](https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ) | [Oisobagi](https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5) | [Naver webtoon 'Love Revolution' \(Original Soundtrack\)](https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh) | 4:16 | 2022-05-09 |  |
 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 | 2022-05-09 |  |
 | [I'm into you, I mean Love you](https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [Webtoon YeonNom OST Part.4](https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT) | 4:04 | 2022-05-09 |  |
+| [In this world](https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [In this world \(Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG\) \(Original Soundtrack\)](https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA) | 3:57 | 2022-08-02 |  |
 | [JAMSOO](https://open.spotify.com/track/66iI9spr5VTGqkdmdjKz3G) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Chanju](https://open.spotify.com/artist/0NRIbW4KwwagasAJw8GfTm) | [JAMSOO \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/7DaBWuXwdIRQtlzI5aKbsi) | 3:23 | 2022-05-09 |  |
 | [Just stay with me \(Feat\. Swan\)](https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [Just stay with me \(Feat\. Swan\) \(Webtoon 'Marriage Or Death' X San E\)](https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd) | 3:15 | 2022-05-09 |  |
 | [Last trip \(The stairway of Time X Kim Namjoo \(Apink\)\)](https://open.spotify.com/track/1knhMBYdhLHleCJwPbJtvi) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [The stairway of Time OST Part 2\. Last trip](https://open.spotify.com/album/52xTAL9ScEQC9OzO2tCdLm) | 4:05 | 2022-05-09 |  |

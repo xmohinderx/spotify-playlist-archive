@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,527 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,560 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 22 | [Wake Up With You](https://open.spotify.com/track/543VnS905CHArJ2oFm17p5) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Wake Up With You](https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E) | 3:03 |
 | 23 | [Sweet Munchies](https://open.spotify.com/track/6sxPpL5WehUjoxQ0o5hf6w) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Sweet Munchies](https://open.spotify.com/album/0e3nx8tl0cwLOzEJ6zQ72h) | 2:09 |
 | 24 | [Dance and Chant](https://open.spotify.com/track/26LrcfQvosoKyUiLV0057Q) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/6zdC2SBKX4WLLSztigHAJ0) | 3:09 |
-| 25 | [Las Chicas](https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Las Chicas](https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m) | 2:03 |
-| 26 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |
+| 25 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |
+| 26 | [Las Chicas](https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Las Chicas](https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m) | 2:03 |
 | 27 | [Push Me](https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg) | 4:25 |
 | 28 | [Turn On the Bass](https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Turn On the Bass](https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o) | 3:40 |
 | 29 | [Dawn](https://open.spotify.com/track/4hpDoKsVsjCTC5pbTgyUyG) | [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Dawn](https://open.spotify.com/album/6al3sqwfmUAOSSucHsyy1U) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Change](https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph) | [Lemarroy](https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Change](https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69) | 2:56 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDg5YjMyMjRiNzZiNDVlMjgwMThhYTU4MTcwZDAzZWU3`
+Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDNlYTdiZDdlOWIxMmQ1NDkzMTNlNGI1MWIwMGRiNjRj`

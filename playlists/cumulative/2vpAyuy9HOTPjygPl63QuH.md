@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-308 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+309 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Distance](https://open.spotify.com/track/5WxyKbZJepO7ixilyXujUV) | [CHAN \(US\)](https://open.spotify.com/artist/0rta5CqdVmeu2vXgfXPd46) | [Distance](https://open.spotify.com/album/5spQ8UdmCBoTdNLWVDOIaM) | 3:44 | 2022-07-01 | 2022-07-10 |
 | [DO 2 U](https://open.spotify.com/track/5Y9MCecovfguPkYHw63jvJ) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [DO 2 U](https://open.spotify.com/album/1CBv0oYf70prTPOBSr7llx) | 3:12 | 2022-07-29 |  |
 | [Don't Call Me Baby \- Joshwa Remix](https://open.spotify.com/track/5aBWmxO4Yp5TlxL1tEZW7s) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Don't Call Me Baby \(Joshwa Remix\)](https://open.spotify.com/album/59hEl9F9nAeJ0ee1rYAr1U) | 3:29 | 2022-07-09 | 2022-07-16 |
+| [Don't Mess](https://open.spotify.com/track/7l3USDVyq4wH5UblqVEQkc) | [Alex Coast](https://open.spotify.com/artist/1Bv5Z23VolwGWOpKf6zdU7) | [Don't Mess](https://open.spotify.com/album/5IgSafagczQXrO9fDOKt5l) | 3:11 | 2022-08-02 |  |
 | [Don't Think Much ft\. Talk Show](https://open.spotify.com/track/3wwP8gdryUwmSn0Q978GXL) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:35 | 2022-07-01 | 2022-07-10 |
 | [Don't Wait Up](https://open.spotify.com/track/1lNzRU53Rm0EnIgHaQbTAh) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Don't Wait Up](https://open.spotify.com/album/6IZ1bmzfvogkJF3iFGXzNl) | 3:22 | 2022-06-17 | 2022-06-25 |
 | [DONT TRUST EM](https://open.spotify.com/track/1J4mWlkB9pWVEEXpiBwlwW) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [DONT TRUST EM](https://open.spotify.com/album/5mFfGGuALPOKq9NNPN0fxZ) | 3:16 | 2022-06-24 | 2022-07-02 |

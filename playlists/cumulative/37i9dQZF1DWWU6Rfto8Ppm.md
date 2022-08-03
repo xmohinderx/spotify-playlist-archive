@@ -4,7 +4,7 @@
 
 > Acuérdate de estas canciones clásicas\. Foto: Plan B.
 
-332 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+333 songs - 20 hr 9 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Saoco](https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Sobreviviente](https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh) | 3:04 | 2021-12-17 |  |
 | [Se Siente Bien](https://open.spotify.com/track/52xtApt0X5IZpV88lcSnnf) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Se Siente Bien \(Special Edition\)](https://open.spotify.com/album/3bTxKb6I54lCSPkP385Ko8) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Se Siente Bien](https://open.spotify.com/track/5OWejFBYolv53n4SvVvoYY) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Dragón & Caballero](https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS) | 4:06 | 2022-07-27 |  |
-| [Se Vale To\-To](https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:50 | 2022-07-27 |  |
+| [Se Vale To\-To](https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:50 | 2022-07-27 | 2022-08-03 |
 | [Secretos](https://open.spotify.com/track/0ezA5xFPmYbWdlq6LF0juY) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Secretos](https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx) | 3:38 | 2022-05-13 |  |
 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 | 2021-12-17 |  |
 | [Sexo En La Playa](https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Broke & Famous](https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve) | 3:38 | 2021-12-17 |  |
@@ -294,7 +294,7 @@
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m) | 2:52 | 2022-05-13 | 2022-07-29 |
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E) | 2:52 | 2022-07-27 |  |
 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2021-12-17 |  |
-| [Te Regalo Amores](https://open.spotify.com/track/5gJ47Ia89XREGtlCprzAe2) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [The Royalty](https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI) | 3:58 | 2022-07-27 | 2022-08-02 |
+| [Te Regalo Amores](https://open.spotify.com/track/5gJ47Ia89XREGtlCprzAe2) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [The Royalty](https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI) | 3:58 | 2022-07-27 |  |
 | [Te Regalo Amores](https://open.spotify.com/track/6MJBOJJ7UOANBN0id1cQgO) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [The Royalty /La Realeza \(Limited Edition\)](https://open.spotify.com/album/7d6iERllMabtWwibZmribC) | 3:58 | 2021-12-17 | 2022-05-29 |
 | [Te Siento](https://open.spotify.com/track/1dNTcbUtbU3wRxKBCno6bd) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolución \- Evolution \(International Version\)](https://open.spotify.com/album/7CCfcuCn7J3dvHYziLI4T1) | 4:19 | 2021-12-17 | 2022-07-29 |
 | [Te Suelto el Pelo](https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 2:16 | 2021-12-17 |  |
@@ -302,7 +302,8 @@
 | [Tengo Tantas Ganas de Ti](https://open.spotify.com/track/4KDInmaLE3gg13xXfGFT49) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Violento Vol.1](https://open.spotify.com/album/6yPjXW0WhOnJbRGl2wLtA4) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [Tengo Un Amor \(feat\. Rakim & Ken\-Y\) \- Remix Version](https://open.spotify.com/track/4mDWapOAzoFsHu8TPcP2R0) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Toby Love](https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG) | 4:20 | 2022-05-13 |  |
 | [Tocarte Toa](https://open.spotify.com/track/6LsUo3PX3QeJmWBRcmaf5b) | [Big Yamo](https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw), [Natya](https://open.spotify.com/artist/1eKhdE1BV5isL4SQbXjMTM) | [Solo Éxitos](https://open.spotify.com/album/1vyXWLs2GgT6lSv2TJP2oP) | 3:26 | 2021-12-17 |  |
-| [Todavia](https://open.spotify.com/track/3D5uEBD0cAEGZGUo5j9045) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Perreo salvaje](https://open.spotify.com/album/7JgzgwB5tY9EGA5wYg8f5v) | 3:25 | 2022-05-13 |  |
+| [Todavia](https://open.spotify.com/track/7gaovXojjqfn276uZR0omT) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia](https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n) | 3:24 | 2022-07-27 |  |
+| [Todavia](https://open.spotify.com/track/3D5uEBD0cAEGZGUo5j9045) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Perreo salvaje](https://open.spotify.com/album/7JgzgwB5tY9EGA5wYg8f5v) | 3:25 | 2022-05-13 | 2022-08-03 |
 | [Tra Tra Tra \(Remix\)](https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Exitos](https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E) | 3:27 | 2021-12-17 |  |
 | [Tranquila](https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr) | 3:19 | 2021-12-17 |  |
 | [Tu Cuerpo Me Arrebata](https://open.spotify.com/track/7iaBCftpUSjnBERFcyQxO9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:23 | 2021-12-17 | 2022-07-29 |

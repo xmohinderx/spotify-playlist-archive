@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists.",
-  "num_followers": 156783,
+  "num_followers": 156922,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMDQzZDUyMGY5MjQ5YzZhYmVkOTFhZjgwNTc3NWJhZDRm",
+  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMGFkY2QwODYyNTM4OWVhNjMwMzYyY2E0OTBkZmZkMDEz",
   "tracks": [
     {
       "added_at": "2022-05-12 23:00:00",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
     },
     {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+    },
+    {
       "added_at": "2022-05-19 23:00:00",
       "album": {
         "name": "Boy Alone",
@@ -769,20 +785,20 @@
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
-      "added_at": "2022-01-21 06:44:52",
+      "added_at": "2022-07-07 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         }
       ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -815,22 +831,6 @@
       "duration_ms": 134546,
       "name": "EX BOYFRIEND",
       "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
-      "added_at": "2022-06-08 08:16:13",
-      "album": {
-        "name": "ASE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "ASE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
-    },
-    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "AWAY",
@@ -1019,6 +1003,22 @@
       "duration_ms": 164571,
       "name": "AWAY",
       "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
+    },
+    {
+      "added_at": "2022-06-08 08:16:13",
+      "album": {
+        "name": "ASE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "ASE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
     },
     {
       "added_at": "2022-02-03 23:02:00",
@@ -1113,6 +1113,26 @@
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
     },
     {
+      "added_at": "2022-02-11 13:09:10",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "Made In Lagos: Deluxe Edition",
@@ -1153,42 +1173,6 @@
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
     },
     {
-      "added_at": "2022-02-11 13:09:10",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2022-03-31 23:00:00",
-      "album": {
-        "name": "Cubana",
-        "url": "https://open.spotify.com/album/4rj8Ry8Xot9qjfakmTJvLX"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 129544,
-      "name": "Cubana",
-      "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
-    },
-    {
       "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Rave & Roses",
@@ -1207,6 +1191,22 @@
       "duration_ms": 230130,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
+    },
+    {
+      "added_at": "2022-03-31 23:00:00",
+      "album": {
+        "name": "Cubana",
+        "url": "https://open.spotify.com/album/4rj8Ry8Xot9qjfakmTJvLX"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 129544,
+      "name": "Cubana",
+      "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
     },
     {
       "added_at": "2022-03-31 23:00:00",
@@ -1275,6 +1275,26 @@
       "duration_ms": 196162,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 152042,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1351,42 +1371,18 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
       },
       "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 152042,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi"
-    },
-    {
-      "added_at": "2022-04-21 23:00:00",
-      "album": {
-        "name": "Son Of Jacob",
-        "url": "https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
         {
           "name": "Adekunle Gold",
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 241090,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m"
+      "duration_ms": 167499,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -1407,22 +1403,6 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
         "name": "NEED ME",
         "url": "https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 192000,
       "name": "NEED ME",
       "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
+    },
+    {
+      "added_at": "2022-04-21 23:00:00",
+      "album": {
+        "name": "Son Of Jacob",
+        "url": "https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 241090,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m"
     },
     {
       "added_at": "2022-01-21 06:44:52",

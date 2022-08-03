@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzUwMSw1ZmQ3YjUwZDNmY2RmYjMyODQ3YjBiMTYxOGJmYTZlYzAyODk4MWJl",
+  "snapshot_id": "MzUwMiw4NGI5YTQyNzVmMWU0MjEzMTdlYjk3OWY2YjYzM2FhZjk4MDlmNDA2",
   "tracks": [
+    {
+      "added_at": "2022-08-02 11:07:23",
+      "album": {
+        "name": "Freakout/Release",
+        "url": "https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Freakout/Release",
+      "url": "https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO"
+    },
     {
       "added_at": "2022-08-01 14:16:05",
       "album": {

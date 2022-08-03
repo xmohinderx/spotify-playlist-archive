@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8/\">Jesus Culture</a>",
-  "num_followers": 420337,
+  "num_followers": 420534,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDY5MTkzNSwwMDAwMDAwMDczN2UwZjRjODc2NWQ0NmIxZTc1ZDQyOTExYzdmM2Q4",
+  "snapshot_id": "MTYxMDY5MTkzNSwwMDAwMDAwMDQ5NTBkMjI2OWMwNjg5NjMyOWViNmFiYTA2MmIzMzg2",
   "tracks": [
     {
       "added_at": "2021-01-15 06:25:35",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 242401,
       "name": "Famous For (I Believe)",
       "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "Neon Steeple",
-        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 289746,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "Praise You In This Storm",
-      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 401760,
       "name": "This I Believe (The Creed) - Live",
       "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "Praise You In This Storm",
+      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "This Is a Move",
-        "url": "https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "This Is a Move",
-      "url": "https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "To Love a Fool",
         "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 280797,
       "name": "Canyons",
       "url": "https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "This Is a Move",
+        "url": "https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "This Is a Move",
+      "url": "https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "Good Good Father",
+        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 297146,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "Housefires + Friends (Live)",
         "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 477513,
       "name": "Lift You High - Live",
       "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "Good Good Father",
-        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 297146,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
     },
     {
       "added_at": "2021-01-15 06:25:35",

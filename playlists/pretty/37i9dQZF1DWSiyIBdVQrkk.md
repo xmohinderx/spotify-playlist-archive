@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > One Love\. More Life\. More Vibes\. Curated by Melanie Fiona for Toronto Carnival 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008,977 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009,144 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

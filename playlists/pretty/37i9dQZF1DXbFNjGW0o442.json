@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marion Raw.",
-  "num_followers": 29974,
+  "num_followers": 29987,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkxMTMzNiwwMDAwMDAwMGI5ZjhlMGRhYWJiODQ3YjA2MzYwMGFlZjY5YjcxMjMy",
+  "snapshot_id": "MTY1NzkxMTMzNiwwMDAwMDAwMGQxMTdkNzQxMTlkNzBlOTI5OWQ1N2M4YmMzOGNkMDgx",
   "tracks": [
     {
       "added_at": "2022-07-15 18:55:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
+        "name": "Rolotas Veraniegas Vol. 4",
+        "url": "https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
         "name": "Gracias por Cuidar el Equipo",
         "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
       },
@@ -983,38 +999,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "bi/MENTAL",
-        "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
-      },
-      "artists": [
-        {
-          "name": "Le Butcherettes",
-          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
-        }
-      ],
-      "duration_ms": 220561,
-      "name": "give/UP",
-      "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
-        "name": "Epica & Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
-      },
-      "artists": [
-        {
-          "name": "Marina Fages",
-          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
-        }
-      ],
-      "duration_ms": 245246,
-      "name": "Piedra Marea Fuego",
-      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Flores Sobre las Piedras",
         "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 302000,
       "name": "Flores Sobre las Piedras",
       "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "bi/MENTAL",
+        "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
+      },
+      "artists": [
+        {
+          "name": "Le Butcherettes",
+          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
+        }
+      ],
+      "duration_ms": 220561,
+      "name": "give/UP",
+      "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Fogones Nocturnos",
-        "url": "https://open.spotify.com/album/6Yq9lqtDXpfStCm0cLtXII"
+        "name": "Epica & Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
       "artists": [
         {
-          "name": "Sol Bassa",
-          "url": "https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O"
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
         }
       ],
-      "duration_ms": 236386,
-      "name": "Fogones Nocturnos",
-      "url": "https://open.spotify.com/track/2Kz28K1EKmHQLgevGuKBgB"
+      "duration_ms": 245246,
+      "name": "Piedra Marea Fuego",
+      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1091,6 +1091,22 @@
       "duration_ms": 192984,
       "name": "Palo de Amansar",
       "url": "https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Fogones Nocturnos",
+        "url": "https://open.spotify.com/album/6Yq9lqtDXpfStCm0cLtXII"
+      },
+      "artists": [
+        {
+          "name": "Sol Bassa",
+          "url": "https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "Fogones Nocturnos",
+      "url": "https://open.spotify.com/track/2Kz28K1EKmHQLgevGuKBgB"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 203094,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Mujer Contra Mujer",
         "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 229373,
       "name": "Mujer Contra Mujer",
       "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 203094,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Hora de No Ver",
-        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 191559,
-      "name": "Morir\u00edan",
-      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "On\u00edrica",
         "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 223205,
       "name": "Shangri-La",
       "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Hora de No Ver",
+        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
+      },
+      "artists": [
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+        }
+      ],
+      "duration_ms": 191559,
+      "name": "Morir\u00edan",
+      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
+        "name": "2 Espinas",
+        "url": "https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV"
       },
       "artists": [
         {
-          "name": "Las Fokin Biches",
-          "url": "https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa"
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
+      "duration_ms": 211200,
+      "name": "2 Espinas",
+      "url": "https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "2 Espinas",
-        "url": "https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV"
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
       },
       "artists": [
         {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+          "name": "Las Fokin Biches",
+          "url": "https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa"
         }
       ],
-      "duration_ms": 211200,
-      "name": "2 Espinas",
-      "url": "https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0"
+      "duration_ms": 180680,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Rolotas Veraniegas Vol. 4",
-        "url": "https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf"
-      },
-      "artists": [
-        {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "No Huyas De Mi",
-      "url": "https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Esquizofrenia",
         "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Autodefensa",
-        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
-      },
-      "artists": [
-        {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
-        }
-      ],
-      "duration_ms": 180277,
-      "name": "Autodefensa",
-      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Acorralar a la Bestia",
         "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 331676,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Autodefensa",
+        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
+      },
+      "artists": [
+        {
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
+        }
+      ],
+      "duration_ms": 180277,
+      "name": "Autodefensa",
+      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1475,6 +1475,22 @@
       "duration_ms": 186041,
       "name": "Denadie",
       "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Volar despierto",
+        "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
+      },
+      "artists": [
+        {
+          "name": "Denise Romano",
+          "url": "https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx"
+        }
+      ],
+      "duration_ms": 246357,
+      "name": "Volar despierto",
+      "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1523,22 +1539,6 @@
       "duration_ms": 180488,
       "name": "El Final - Bonus Track",
       "url": "https://open.spotify.com/track/0rF9dIFqhZzizQWRfJNgsC"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
-        "name": "Volar despierto",
-        "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
-      },
-      "artists": [
-        {
-          "name": "Denise Romano",
-          "url": "https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx"
-        }
-      ],
-      "duration_ms": 246357,
-      "name": "Volar despierto",
-      "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
     },
     {
       "added_at": "2022-07-15 18:55:36",

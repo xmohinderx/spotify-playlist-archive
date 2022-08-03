@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,012 likes - 93 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,025 likes - 93 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 89 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 |
 | 90 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 |
 | 91 | [Calor](https://open.spotify.com/track/4YGFWYHhXfCmZ3zOC22AyT) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Calor](https://open.spotify.com/album/7gWwq96ivfK76zTC8howhG) | 2:34 |
-| 92 | [I've Seen Better Days](https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I've Seen Better Days](https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL) | 3:04 |
-| 93 | [Cinderella](https://open.spotify.com/track/360cQNnbD332V4eO8GOHvA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Cinderella](https://open.spotify.com/album/3cu712semvh7WetMZ3h7d1) | 2:36 |
+| 92 | [Cinderella](https://open.spotify.com/track/360cQNnbD332V4eO8GOHvA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Cinderella](https://open.spotify.com/album/3cu712semvh7WetMZ3h7d1) | 2:36 |
+| 93 | [I've Seen Better Days](https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I've Seen Better Days](https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL) | 3:04 |
 
-Snapshot ID: `MTY1ODQzMzE0MywwMDAwMDAwMDUyZGMyYjE2YWRmNjM2MWQzMjY3YTAyMjY2MGRjMzk0`
+Snapshot ID: `MTY1ODQzMzE0MywwMDAwMDAwMDk3ZjAzYmNiNGM5NTNlMzRiY2NlZDgwZjFmZDQ3NDQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Celebra el amor igualitario con una fina selecci\u00f3n hecha por Sobrino.",
-  "num_followers": 9361,
+  "num_followers": 9363,
   "original_name": "Amor Libre: Sobrino Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU0NjIxNywwMDAwMDAwMDZiZTVmNjlmYmZhODcyY2M5Y2VmMTAxNTcxZmY2OWUz",
+  "snapshot_id": "MTY1NjU0NjIxNywwMDAwMDAwMGViZjY3ZDBkZmZjMGQ2MmM1Yjc4OTk0Zjk0Mjc3YTRh",
   "tracks": [
     {
       "added_at": "2022-06-29 23:43:37",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 200338,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
         "name": "El Alma Que Te Trajo",
         "url": "https://open.spotify.com/album/7J9BzqMQTX0ne8M8dn57Uo"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 144848,
       "name": "El Alma Que Te Trajo",
       "url": "https://open.spotify.com/track/5pGz6FrmpHjOuso83azbik"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 200338,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA"
     },
     {
       "added_at": "2022-06-29 23:43:37",

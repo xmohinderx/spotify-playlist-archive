@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Raashi Sood & Raja Kumari.
+> Listen to Indian women, at full volume\. Cover: Neeti Mohan
 
 126 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
 

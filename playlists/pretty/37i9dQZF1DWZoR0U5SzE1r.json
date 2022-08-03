@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 224822,
+  "num_followers": 224903,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDFiOTc2NzNlOWQ2YjRlMjc5YmU0NWM3Mjc1MjQ4NTlj",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDYyOTZkNjI5MjY4MDBkYzg5NDgxMjAzZWNkMWM1N2Yy",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Dancing On The Waves (Live)",
-        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 269040,
-      "name": "Dancing On The Waves - Live At The Wheelhouse",
-      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "This Is Our Story",
         "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 341849,
       "name": "This Is Our Story",
       "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Dancing On The Waves (Live)",
+        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Dancing On The Waves - Live At The Wheelhouse",
+      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt"
       },
       "artists": [
         {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
         }
       ],
-      "duration_ms": 232404,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
+      "duration_ms": 493706,
+      "name": "Maker",
+      "url": "https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
       },
       "artists": [
         {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
         }
       ],
-      "duration_ms": 493706,
-      "name": "Maker",
-      "url": "https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp"
+      "duration_ms": 232404,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
     }
   ],
   "unique_name": "epicPRAISE",

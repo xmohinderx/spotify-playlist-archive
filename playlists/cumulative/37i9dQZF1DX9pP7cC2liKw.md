@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-183 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+184 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Ando Chilango](https://open.spotify.com/track/3aVeIObhJmeXfvwL83yTWW) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Ando Chilango](https://open.spotify.com/album/21p6WfTAoQGWYODKIrm5fH) | 4:29 | 2022-01-04 | 2022-05-28 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-09 |  |
 | [Arena Negra](https://open.spotify.com/track/2jaoF4NACnQBromjiZwMWg) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 3:25 | 2022-01-06 | 2022-07-28 |
-| [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2022-01-04 |  |
+| [Arte](https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Arte](https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj) | 3:36 | 2022-08-02 |  |
+| [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2022-01-04 | 2022-08-03 |
 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 | 2022-01-04 | 2022-07-05 |
 | [Baianá](https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [O Seguinte é Esse](https://open.spotify.com/album/5dEA3Zh45vQKgrmJJuFV9p) | 4:39 | 2022-01-04 |  |
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2022-01-04 | 2022-07-24 |

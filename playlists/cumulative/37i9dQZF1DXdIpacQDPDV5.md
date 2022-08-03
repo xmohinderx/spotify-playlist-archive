@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Ryan Shepherd
 
-399 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+400 songs - 22 hr 27 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,8 @@
 | [The Beat](https://open.spotify.com/track/16iUJ2k7QmZkmWi2ST9mnj) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [The Beat](https://open.spotify.com/album/2idRd7SOnFP6NOcXwwqPJ8) | 2:36 | 2022-05-13 | 2022-06-18 |
 | [The Calling](https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Calling](https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY) | 3:17 | 2022-06-03 |  |
 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 | 2022-06-24 |  |
-| [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 | 2022-06-10 |  |
+| [The Fall](https://open.spotify.com/track/0yoPok7tf8oOoyWkFanvXd) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ Why Can't You Wait\)](https://open.spotify.com/album/6lZXf2zysA8254dmpzvrhw) | 3:16 | 2022-06-10 |  |
+| [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 | 2022-06-10 | 2022-08-03 |
 | [The High](https://open.spotify.com/track/0a2oWi06Mvk4CooExJWJTc) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [The High](https://open.spotify.com/album/3Zlhl1M5UZ8s8MlUqO5B2X) | 3:29 | 2022-01-21 | 2022-04-09 |
 | [The Judgement](https://open.spotify.com/track/07O2wCiBOmD5Mlnoy6ZrA0) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Revelle27](https://open.spotify.com/artist/3MtB9LTUuqKNrlIx4n7wG5) | [The Judgement](https://open.spotify.com/album/56Dq1jbSufpeaaQV7wiHUF) | 3:23 | 2022-05-06 | 2022-07-23 |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-11 | 2022-06-04 |

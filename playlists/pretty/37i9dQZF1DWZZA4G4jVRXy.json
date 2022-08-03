@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 108058,
+  "num_followers": 108087,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDVjOTFlMzMxNjY4ODRmNTZiODVkNWVjNDU5OTFmYTQ0",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGIxOWJkNTIwMWY5MmQ0NTg5ODhmNzE0ZmE1OTU4Yzg3",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/3pu0lqNFayew1RJ5WuLadM"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "MGANGA!",
+        "url": "https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU"
+      },
+      "artists": [
+        {
+          "name": "Tak Shindo",
+          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Mombasa Love Song",
+      "url": "https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
@@ -155,22 +171,6 @@
       "duration_ms": 215680,
       "name": "I Kona",
       "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Very Best of Arthur Lyman (The Sensual Sounds of Exotica)",
-        "url": "https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -189,20 +189,20 @@
       "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "MGANGA!",
-        "url": "https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU"
+        "name": "The Very Best of Arthur Lyman (The Sensual Sounds of Exotica)",
+        "url": "https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo"
       },
       "artists": [
         {
-          "name": "Tak Shindo",
-          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Mombasa Love Song",
-      "url": "https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw"
+      "duration_ms": 165666,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -235,22 +235,6 @@
       "duration_ms": 152706,
       "name": "A Man And A Woman - Remastered",
       "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 71266,
-      "name": "Hii Lawe",
-      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -367,6 +351,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 71266,
+      "name": "Hii Lawe",
+      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Ultra-Lounge: Bossa Novaville",
         "url": "https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 137706,
       "name": "So Nice (Samba De Verao) - Remastered",
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -481,6 +465,22 @@
       "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Maunalua",
@@ -513,20 +513,20 @@
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+        "name": "Call of the Islands",
+        "url": "https://open.spotify.com/album/1FMZlPkv7DhPclQJAAbcbS"
       },
       "artists": [
         {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
         }
       ],
-      "duration_ms": 110666,
-      "name": "Ipo Hula",
-      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
+      "duration_ms": 184718,
+      "name": "Colors of Hawaiki",
+      "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -543,6 +543,22 @@
       "duration_ms": 183573,
       "name": "Head Hunter",
       "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 110666,
+      "name": "Ipo Hula",
+      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -571,22 +587,6 @@
       "duration_ms": 257106,
       "name": "Pua Lililehua",
       "url": "https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Call of the Islands",
-        "url": "https://open.spotify.com/album/1FMZlPkv7DhPclQJAAbcbS"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 184718,
-      "name": "Colors of Hawaiki",
-      "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
     },
     {
       "added_at": "2021-01-20 03:50:53",

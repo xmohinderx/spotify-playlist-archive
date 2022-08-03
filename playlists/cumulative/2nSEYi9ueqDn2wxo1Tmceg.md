@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-112 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+113 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Exit Music](https://open.spotify.com/track/3WHGUZGrJiTzi6CTZxH7Dr) | [Martin Courtney](https://open.spotify.com/artist/4JuWruv1jBeWne0sJTUH3k) | [Magic Sign](https://open.spotify.com/album/3Zse3fkovui5xhEx1SQ7qQ) | 2:52 | 2022-06-29 |  |
 | [Feel Another Day](https://open.spotify.com/track/3QeDBrfHSMvJFKQd6ALYM2) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Feel Another Day](https://open.spotify.com/album/7HxBXjkzwT4hhb8THINZXA) | 4:01 | 2022-06-08 | 2022-06-23 |
 | [Ford](https://open.spotify.com/track/0tezhBKVdSXhhab63oiPp7) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Ford](https://open.spotify.com/album/4eaZhSgAMEgC8gSA4nEWav) | 3:27 | 2022-07-20 |  |
+| [Freakout/Release](https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx) | 3:17 | 2022-08-02 |  |
 | [Fulton Park](https://open.spotify.com/track/6vbBJu0Tsx3nqrgVGydxKB) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/0IOqHCZa9ietWmQgyKIwUF) | 2:41 | 2022-06-08 | 2022-06-30 |
 | [Galope](https://open.spotify.com/track/6CzVM9nPVIOe0HT4kf9EiN) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/0bzc0YF4nKy4ZuJPO847uN) | 3:16 | 2022-06-16 | 2022-07-28 |
 | [Garden](https://open.spotify.com/track/6nQtapKP4qHVMpS110aaaE) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz) | [Garden](https://open.spotify.com/album/0rId7gCX3GmIPgMbHAxhn0) | 3:20 | 2022-06-08 | 2022-06-17 |

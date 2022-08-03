@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento",
-  "num_followers": 140489,
+  "num_followers": 140623,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzg5NTYwMCwwMDAwMDAwMDU5MWVhYmI5ZWE3YjE2NGJkZGM4NjM3MmJmNDFlM2M1",
+  "snapshot_id": "MTYzNzg5NTYwMCwwMDAwMDAwMDQxNjMwOTIyODUzMmUzZDQ5ZDkyNTUwMjA5MjdhMjIx",
   "tracks": [
     {
       "added_at": "2021-11-26 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "Lamento",
-      "url": "https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Da Hora",
         "url": "https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 275574,
       "name": "Nada \u00e9 Melhor Do Que Voc\u00ea",
       "url": "https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Batidinha",
-      "url": "https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/140DzepgudObqMe1uv4W1f"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 199040,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/555nuYZPtb7Gvs05LoqSL1"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Batidinha",
+      "url": "https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -551,30 +551,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Um Copo de Fado, Dois de Bossa Nova",
-        "url": "https://open.spotify.com/album/0iqjItAMzNw18X8PYQQywG"
-      },
-      "artists": [
-        {
-          "name": "Rua das Pretas",
-          "url": "https://open.spotify.com/artist/6FO2vyH5GHk0koe5TM7wjj"
-        },
-        {
-          "name": "Pierre Aderne",
-          "url": "https://open.spotify.com/artist/4aIwULwYjN16CYIo39SJ6Z"
-        },
-        {
-          "name": "Nani Medeiros",
-          "url": "https://open.spotify.com/artist/5294nZvyDPiw4PyyfQjD0z"
-        }
-      ],
-      "duration_ms": 302954,
-      "name": "A Sombra do Meu Chap\u00e9u",
-      "url": "https://open.spotify.com/track/6Dwi2vYqRAnD9rgKiZ8xQn"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Rosa Morena EP",
         "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 151875,
       "name": "Marinheiro",
       "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Um Copo de Fado, Dois de Bossa Nova",
+        "url": "https://open.spotify.com/album/0iqjItAMzNw18X8PYQQywG"
+      },
+      "artists": [
+        {
+          "name": "Rua das Pretas",
+          "url": "https://open.spotify.com/artist/6FO2vyH5GHk0koe5TM7wjj"
+        },
+        {
+          "name": "Pierre Aderne",
+          "url": "https://open.spotify.com/artist/4aIwULwYjN16CYIo39SJ6Z"
+        },
+        {
+          "name": "Nani Medeiros",
+          "url": "https://open.spotify.com/artist/5294nZvyDPiw4PyyfQjD0z"
+        }
+      ],
+      "duration_ms": 302954,
+      "name": "A Sombra do Meu Chap\u00e9u",
+      "url": "https://open.spotify.com/track/6Dwi2vYqRAnD9rgKiZ8xQn"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "O Estrangeiro",
-        "url": "https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d"
-      },
-      "artists": [
-        {
-          "name": "V\u00edtor Guima",
-          "url": "https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Por A\u00ed",
-      "url": "https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Voc\u00ea E Eu",
         "url": "https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 179299,
       "name": "Voc\u00ea E Eu",
       "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "O Estrangeiro",
+        "url": "https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d"
+      },
+      "artists": [
+        {
+          "name": "V\u00edtor Guima",
+          "url": "https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Por A\u00ed",
+      "url": "https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1059,34 +1059,18 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Tin Tin Por Tin Tin",
-        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
+        "name": "Liberta\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
       },
       "artists": [
         {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+          "name": "Vidal Assis",
+          "url": "https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L"
         }
       ],
-      "duration_ms": 140112,
-      "name": "Tin Tin Por Tin Tin",
-      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
-        "name": "O Melhor Carinho",
-        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
-      },
-      "artists": [
-        {
-          "name": "Elisa Gudin",
-          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
-        }
-      ],
-      "duration_ms": 193324,
-      "name": "O Melhor Carinho",
-      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
+      "duration_ms": 176065,
+      "name": "Liberta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 310680,
       "name": "Se Acontecer",
       "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Tin Tin Por Tin Tin",
+        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 140112,
+      "name": "Tin Tin Por Tin Tin",
+      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Liberta\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
+        "name": "O Melhor Carinho",
+        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
       },
       "artists": [
         {
-          "name": "Vidal Assis",
-          "url": "https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L"
+          "name": "Elisa Gudin",
+          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
         }
       ],
-      "duration_ms": 176065,
-      "name": "Liberta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
+      "duration_ms": 193324,
+      "name": "O Melhor Carinho",
+      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Ternura Do Saber",
-        "url": "https://open.spotify.com/album/5uiuL4MK4ORsZmRtqenP7t"
-      },
-      "artists": [
-        {
-          "name": "Roberta Barce",
-          "url": "https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Ternura Do Saber",
-      "url": "https://open.spotify.com/track/5lBmQ842hAMBZvsEmJhIK0"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Vento Sul",
         "url": "https://open.spotify.com/album/2Q7imAUuBpqC7St4BIWEIB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 204000,
       "name": "Vento Sul",
       "url": "https://open.spotify.com/track/4A2fXWDd2lopzpA2TgBFj9"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Ternura Do Saber",
+        "url": "https://open.spotify.com/album/5uiuL4MK4ORsZmRtqenP7t"
+      },
+      "artists": [
+        {
+          "name": "Roberta Barce",
+          "url": "https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Ternura Do Saber",
+      "url": "https://open.spotify.com/track/5lBmQ842hAMBZvsEmJhIK0"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1419,34 +1419,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Feito \u00e0 M\u00e3o",
-        "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
-      },
-      "artists": [
-        {
-          "name": "Bisdr\u00e9 Santos",
-          "url": "https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb"
-        },
-        {
-          "name": "Gabriel Gavi",
-          "url": "https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB"
-        },
-        {
-          "name": "Stefano Moliner",
-          "url": "https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87"
-        },
-        {
-          "name": "Beb\u00ea do G\u00f3es",
-          "url": "https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc"
-        }
-      ],
-      "duration_ms": 279456,
-      "name": "Bossa de Maio",
-      "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "O Anel - Ala\u00edde Costa Canta Jos\u00e9 Miguel Wisnik",
         "url": "https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy"
       },
@@ -1479,22 +1451,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Deslizando Na Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT"
-      },
-      "artists": [
-        {
-          "name": "Marcos Lessa",
-          "url": "https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ"
-        }
-      ],
-      "duration_ms": 173213,
-      "name": "Pega Esse Sambete A\u00ed",
-      "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "A Banca do Distinto",
         "url": "https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj"
       },
@@ -1515,6 +1471,50 @@
       "duration_ms": 152338,
       "name": "A Banca do Distinto",
       "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Deslizando Na Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT"
+      },
+      "artists": [
+        {
+          "name": "Marcos Lessa",
+          "url": "https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Pega Esse Sambete A\u00ed",
+      "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Feito \u00e0 M\u00e3o",
+        "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
+      },
+      "artists": [
+        {
+          "name": "Bisdr\u00e9 Santos",
+          "url": "https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb"
+        },
+        {
+          "name": "Gabriel Gavi",
+          "url": "https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB"
+        },
+        {
+          "name": "Stefano Moliner",
+          "url": "https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87"
+        },
+        {
+          "name": "Beb\u00ea do G\u00f3es",
+          "url": "https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc"
+        }
+      ],
+      "duration_ms": 279456,
+      "name": "Bossa de Maio",
+      "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Bossa Got the Blues",
-        "url": "https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i"
-      },
-      "artists": [
-        {
-          "name": "Bossacucanova",
-          "url": "https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        }
-      ],
-      "duration_ms": 180665,
-      "name": "Bossa Got The Blues",
-      "url": "https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Palavra Alada 1",
         "url": "https://open.spotify.com/album/7k4B1RcDhKchDEBccyEuc0"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 267488,
       "name": "Choro de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6wn4H2ORKskGU81H6Hpook"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Bossa Got the Blues",
+        "url": "https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i"
+      },
+      "artists": [
+        {
+          "name": "Bossacucanova",
+          "url": "https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "duration_ms": 180665,
+      "name": "Bossa Got The Blues",
+      "url": "https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp"
     },
     {
       "added_at": "2021-11-26 03:00:00",

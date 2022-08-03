@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Northlane
 
-538 songs - 1 day 22 hr 56 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+539 songs - 1 day 23 hr 0 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [At the Behest of Origins](https://open.spotify.com/track/1T3tO7bdsMwlA8W4hWbXwE) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [At the Behest of Origins](https://open.spotify.com/album/6WdZ2mbYCKFIB8NcTOJUef) | 4:32 | 2021-12-17 | 2022-01-22 |
 | [At the End](https://open.spotify.com/track/0Wc3gD4Fp7TNiX5AmBFbEO) | [Recode the Subliminal](https://open.spotify.com/artist/68FB6q7XC6TDdyMeGmH5Yo) | [The Cost of Every Man](https://open.spotify.com/album/4XoPUpQ9mzPFKwDvCVZMEP) | 3:58 | 2021-12-17 | 2022-01-27 |
 | [Aurora](https://open.spotify.com/track/6ZNISOKE44BV11yE5IigJ1) | [Cynic](https://open.spotify.com/artist/5nXldeedEas60jZnMi40p4) | [Ascension Codes](https://open.spotify.com/album/3X6Y48lW0sNxNrLLfDdLP3) | 4:33 | 2022-01-14 | 2022-07-27 |
-| [Avatar](https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Artificial Void](https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg) | 5:46 | 2022-07-13 |  |
+| [Avatar](https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Artificial Void](https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg) | 5:46 | 2022-07-13 | 2022-08-03 |
 | [Awaken the Master](https://open.spotify.com/track/2K369VsZZtrd84dnVUv1Wh) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A View From The Top Of The World](https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn) | 9:47 | 2021-12-17 |  |
 | [Back in Limbo](https://open.spotify.com/track/6hJkgzJ982UoS1Caq8GMhk) | [Zoch](https://open.spotify.com/artist/2L3wP0u0EwZ0mHz12uZCwp), [City State](https://open.spotify.com/artist/7hPEnlnARMXLX3qT1KNF8U) | [Back in Limbo](https://open.spotify.com/album/0qBTVEV3HaZeubL36c9eRN) | 4:38 | 2022-03-01 | 2022-04-21 |
 | [Badge Of Honour](https://open.spotify.com/track/1h1KYnGuhO3RVI6G859ubf) | [Chaos Divine](https://open.spotify.com/artist/4VT9oITGBWVyRxp1OrSzQh) | [Colliding Skies](https://open.spotify.com/album/39YuvaO4UsT0JCHUXtaTJg) | 4:16 | 2021-12-17 | 2022-01-23 |
@@ -391,6 +391,7 @@
 | [Skylla](https://open.spotify.com/track/5rsJEHEMaEerw1uNH1FksB) | [Confusing Paradise](https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0) | [Skylla](https://open.spotify.com/album/2mmTwMMc5IPDfAziKQoYwQ) | 4:18 | 2022-07-13 | 2022-07-29 |
 | [Sleep Whisper](https://open.spotify.com/track/0Uill1vqGgC1zOShoKoqe2) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Sleep Whisper](https://open.spotify.com/album/0zUdYR6wHtGlvHFjfz1RO8) | 5:12 | 2022-04-29 | 2022-06-11 |
 | [Slow Violence](https://open.spotify.com/track/0DXQlXTM5ffSKkF9k4rQXi) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Slow Violence](https://open.spotify.com/album/6b9jyZC2m8Lhf81bhDtVUw) | 4:30 | 2021-12-17 | 2022-07-29 |
+| [Slow Violence](https://open.spotify.com/track/5eHX9hNabRdBv7ZAXw0bQn) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Rise Radiant \(Bonus Tracks Version\)](https://open.spotify.com/album/1nIV5jr3c14glRyU3ax5PQ) | 4:30 | 2022-07-08 |  |
 | [Snowblood](https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Snowblood](https://open.spotify.com/album/393HU6oEXQybzous3p0NC5) | 4:13 | 2022-07-13 |  |
 | [So Tired](https://open.spotify.com/track/7FfLD1acsXyBWVJ9PqN6Pp) | [The Butterfly Effect](https://open.spotify.com/artist/0kns2X0IFTXafgOGd2IlKJ) | [So Tired](https://open.spotify.com/album/0nSVBgtRjwpqNjmoB3Spul) | 5:16 | 2021-12-17 | 2022-07-01 |
 | [Solaris](https://open.spotify.com/track/0c4TxdhePg45Kg3Aot5FAH) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [Solaris](https://open.spotify.com/album/1MF8mCE2frqHL2RkN1bxBk) | 3:41 | 2021-12-17 | 2022-07-25 |

@@ -3002,6 +3002,32 @@
     },
     {
       "album": {
+        "name": "Drivin'",
+        "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "\ub798\uc6d0",
+          "url": "https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9"
+        },
+        {
+          "name": "\uc11c\ub3d9\ud604",
+          "url": "https://open.spotify.com/artist/1KqTeSB6Btq3D6StbKv3Uz"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
+      "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "album": {
         "name": "Drunk All Night",
         "url": "https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ"
       },
@@ -7855,8 +7881,8 @@
           "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         },
         {
-          "name": "\uae40\uc2b9\ubbfc",
-          "url": "https://open.spotify.com/artist/1h8ZqUlVEXd1qvOjXVuFg2"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         }
       ],
       "date_added": "2022-06-18",
@@ -10523,12 +10549,12 @@
           "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
         },
         {
-          "name": "Jayci yuccca",
-          "url": "https://open.spotify.com/artist/4UtXYQ3HyQPpVrAysjgFGA"
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
         },
         {
-          "name": "\uc6a9\uc6a9",
-          "url": "https://open.spotify.com/artist/1HcWymkJxBhuXVIwnyN4j2"
+          "name": "YongYong",
+          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
         }
       ],
       "date_added": "2022-08-01",

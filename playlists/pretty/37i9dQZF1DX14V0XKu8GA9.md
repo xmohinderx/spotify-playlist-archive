@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,855 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,864 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 34 | [Survive](https://open.spotify.com/track/6JeyCrsUywsYqcjReSjyUW) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Survive](https://open.spotify.com/album/70njJX3KGL7RClV9L7mHcw) | 2:34 |
 | 35 | [Rosary](https://open.spotify.com/track/4hdVtvDNdhvsrdiX22gcaN) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [MoneySign $uede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Rosary](https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0) | 3:58 |
 | 36 | [Ghetto Birds & Thugs](https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ghetto Birds & Thugs](https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL) | 2:50 |
-| 37 | [For Me](https://open.spotify.com/track/59wsqc9aVywLF487u24T6a) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [For Me](https://open.spotify.com/album/6TPdmANSKfAkzYRWHC2WgI) | 2:18 |
+| 37 | [P's Up](https://open.spotify.com/track/3qGC7ogRmw21BK7EBvSfVu) | [Jali$co](https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83), [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [La Mafia Paga](https://open.spotify.com/album/1svf3BA1GzU6nkUhwupotC) | 1:54 |
 | 38 | [PRO CLUB](https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [PRO CLUB](https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61) | 2:46 |
-| 39 | [P's Up](https://open.spotify.com/track/3qGC7ogRmw21BK7EBvSfVu) | [Jali$co](https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83), [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [La Mafia Paga](https://open.spotify.com/album/1svf3BA1GzU6nkUhwupotC) | 1:54 |
+| 39 | [For Me](https://open.spotify.com/track/59wsqc9aVywLF487u24T6a) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [For Me](https://open.spotify.com/album/6TPdmANSKfAkzYRWHC2WgI) | 2:18 |
 | 40 | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544) | [MoneySign $uede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 2:36 |
 | 41 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
 | 42 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 53 | [i'm Hot](https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [i'm Hot](https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF) | 2:08 |
 | 54 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
 | 55 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
-| 56 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
-| 57 | [Trials n Tribulations](https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX) | 4:31 |
+| 56 | [Trials n Tribulations](https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX) | 4:31 |
+| 57 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
 | 58 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
 | 59 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
 | 60 | [Bang](https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i) | [Chepo](https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Peso Peso](https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe) | [Bang](https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I) | 2:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 69 | [London](https://open.spotify.com/track/4qXkllmd1rA0jWxtsPQqpW) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [London](https://open.spotify.com/album/51NMcANUHXRMR4kOow3rbm) | 2:40 |
 | 70 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 
-Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDkxMzFiM2Y4N2M0ZDA3NmVhZjU4MTZkMmFlMGJhOGNl`
+Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDU4NjRkM2VhYzRlNDNhMTQ5MTE3NTU3N2RmNzk3MjNh`

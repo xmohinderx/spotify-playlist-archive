@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-277 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
+278 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Goodnight Rhonda Lee](https://open.spotify.com/track/4GC0CClxZnOWYkhv16JWH0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/5LxEgoT7IEim0ghkxbct1J) | 2:33 | 2021-10-22 | 2022-05-26 |
 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 | 2021-10-22 |  |
 | [Graves](https://open.spotify.com/track/4wwZvbK1mJKiHvA2n2dLEO) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/5PCieAZVKwqWKiTTuCcjzs) | 3:12 | 2021-10-22 | 2022-07-29 |
-| [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 | 2021-10-22 |  |
+| [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 | 2021-10-22 | 2022-08-03 |
 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 | 2022-05-27 |  |
 | [Harder Way](https://open.spotify.com/track/6EcCaIcXIyLMItSxKXh9jM) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Harder Way](https://open.spotify.com/album/2yiJVEvwWb1XwxragEHOq0) | 3:17 | 2021-10-22 | 2022-07-29 |
 | [Heart of Somebody](https://open.spotify.com/track/1qSllfUSfvfH0oDHQqROoK) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades and Roses](https://open.spotify.com/album/17G3ABTFVs6dpdmk2gPPxC) | 3:32 | 2021-10-22 | 2022-07-29 |
@@ -195,6 +195,7 @@
 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 | 2021-10-22 | 2022-07-20 |
 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 | 2021-10-22 |  |
 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 | 2021-10-22 | 2022-07-29 |
+| [Solving Problems](https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 2:34 | 2022-05-27 |  |
 | [Sometimes A Woman Is An Island](https://open.spotify.com/track/2mg0CevWw06dqAlUZRdDEY) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:13 | 2021-10-22 | 2022-07-11 |
 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 | 2021-10-22 | 2022-07-29 |
 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 | 2021-10-22 |  |

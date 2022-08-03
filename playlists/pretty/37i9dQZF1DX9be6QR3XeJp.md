@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: salute
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,202 likes - 118 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,199 likes - 118 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

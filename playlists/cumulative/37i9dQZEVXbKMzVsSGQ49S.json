@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -4661,7 +4661,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
@@ -5477,7 +5477,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171933,
       "name": "Give That Wolf A Banana",
       "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
@@ -5927,7 +5927,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 219335,
       "name": "G\u00f6ngum \u00ed takt",
       "url": "https://open.spotify.com/track/0bw4D5NKGIaxUKgCP933oI"
@@ -7007,7 +7007,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -8397,7 +8397,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 161800,
       "name": "Komi\u00f0 A\u00f0 \u00dev\u00ed",
       "url": "https://open.spotify.com/track/28MwPJYh5Ot9NMvRSLgyPy"
@@ -8507,7 +8507,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 263174,
       "name": "La Dolce Vita (Aukalag)",
       "url": "https://open.spotify.com/track/449pbR3WL8LX7f5vvPKRyD"
@@ -9137,7 +9137,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 214645,
       "name": "Lj\u00faft a\u00f0 vera til",
       "url": "https://open.spotify.com/track/5XxtC1Dnh99RlNvEatSYaR"
@@ -9881,7 +9881,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 515386,
       "name": "Master Of Puppets",
       "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
@@ -11087,7 +11087,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 251054,
       "name": "Ofbo\u00f0slega fr\u00e6gur",
       "url": "https://open.spotify.com/track/203uQ5u5ZLiNC4g5zSG0vR"
@@ -12625,7 +12625,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 228351,
       "name": "R\u00f3legur k\u00fareki",
       "url": "https://open.spotify.com/track/1Riv4d4nqpQVxArPLsk4s0"
@@ -13585,6 +13585,24 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
       "album": {
@@ -14575,7 +14593,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 230063,
       "name": "S\u00f3d\u00f3ma",
       "url": "https://open.spotify.com/track/2E6eRqZZxUWpoKxGBhaHDH"
@@ -15749,7 +15767,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
@@ -15793,7 +15811,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 230899,
       "name": "Vertu ekki a\u00f0 plata mig",
       "url": "https://open.spotify.com/track/79MRngm6Z26a20hEBrJZTP"
@@ -17125,7 +17143,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 184285,
       "name": "\u00c9g Fer \u00c1 \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 (feat. Sverrir Bergmann)",
       "url": "https://open.spotify.com/track/1a6CncFFqHUL5jTZo2uo6f"
@@ -17249,6 +17267,24 @@
       "duration_ms": 185266,
       "name": "\u00c9g var a\u00f0 sp\u00e1",
       "url": "https://open.spotify.com/track/5hWSDV3aXFfW3OgtAOKOxp"
+    },
+    {
+      "album": {
+        "name": "Flikk-flakk",
+        "url": "https://open.spotify.com/album/5LpHFYCicGSa3YgYnK4hV2"
+      },
+      "artists": [
+        {
+          "name": "Sigga Beinteins",
+          "url": "https://open.spotify.com/artist/7BbTAP29jeeO2PZsxm5kXP"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205728,
+      "name": "\u00cd lar\u00ed lei",
+      "url": "https://open.spotify.com/track/1jCSG0fDPtaMCkFLo1KJnb"
     },
     {
       "album": {
@@ -17709,7 +17745,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 253190,
       "name": "\u00de\u00fa veist hva\u00f0 \u00e9g meina, m\u00e6r",
       "url": "https://open.spotify.com/track/5ImH27sWu2XLyTzDWlIReO"

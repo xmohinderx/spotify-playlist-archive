@@ -784,6 +784,24 @@
     },
     {
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "album": {
         "name": "Deu Meia Noite, Eu Sumi, Geral Soltando Fogos",
         "url": "https://open.spotify.com/album/0AlJZSnFCRXtEhgBQ2Gnre"
       },
@@ -1811,6 +1829,28 @@
       "duration_ms": 221999,
       "name": "Meg\u00e3o do Ploft",
       "url": "https://open.spotify.com/track/3WYXseBxjdRXkVFzBfV8lJ"
+    },
+    {
+      "album": {
+        "name": "Melodia Alucin\u00f3gena",
+        "url": "https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs"
+      },
+      "artists": [
+        {
+          "name": "DJ AK BR",
+          "url": "https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK"
+        },
+        {
+          "name": "Dj Darge",
+          "url": "https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183716,
+      "name": "Melodia Alucin\u00f3gena",
+      "url": "https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN"
     },
     {
       "album": {

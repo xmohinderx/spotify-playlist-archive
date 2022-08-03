@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 140624,
       "name": "Back 2 Front",
       "url": "https://open.spotify.com/track/3GSdYoWnrEFwWeiO8ediDe"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 190182,
       "name": "Back 2 Rave",
       "url": "https://open.spotify.com/track/4rTOQUiYpf0dZW51IvWkxd"
@@ -6713,7 +6713,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -7913,7 +7913,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -11663,7 +11663,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 176561,
       "name": "Pivko",
       "url": "https://open.spotify.com/track/0SkXruhPA5gTI6AS9NR2aN"
@@ -11689,6 +11689,32 @@
       "duration_ms": 172444,
       "name": "PKKMP",
       "url": "https://open.spotify.com/track/64CxHd4WMKGXJFTLH0OKhC"
+    },
+    {
+      "album": {
+        "name": "POD DRN",
+        "url": "https://open.spotify.com/album/37gj1ub8b6qdv7nICPh7X3"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "POD DRN",
+      "url": "https://open.spotify.com/track/1QJr9gqb6wqumAkLBHcJCq"
     },
     {
       "album": {
@@ -15685,7 +15711,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 212727,
       "name": "Viac",
       "url": "https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT"
@@ -16465,7 +16491,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"

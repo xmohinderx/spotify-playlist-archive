@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> A new gen of bands gazing at their pedals, while soaring celestially\-high\. Vero on cover!
+> A new gen of bands gazing at their pedals, while soaring celestially\-high\. Trementina on cover!
 
-176 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+177 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Hide](https://open.spotify.com/track/7K0W4JZRyK0i5A7JUKeaL6) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/5xLPp9GcMMHF6U8AoVLgWU) | 6:47 | 2021-10-19 | 2022-07-29 |
 | [Hollowers](https://open.spotify.com/track/6tGPZ8kQ1ZzqGFdlr3VgJT) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Hollowers](https://open.spotify.com/album/62iB6VwTRBzZUwRoC8Iksk) | 3:34 | 2021-10-19 | 2022-07-29 |
 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 | 2021-10-19 |  |
-| [hua\(3\)](https://open.spotify.com/track/57znaLsNhGo2dNMK2oPiZu) | [Eupholks](https://open.spotify.com/artist/2yYhno6kAd33lPC1lLyS1o) | [hua\(3\)](https://open.spotify.com/album/60fPszZFgxX6fpYz3vYINi) | 3:00 | 2022-03-11 |  |
+| [hua\(3\)](https://open.spotify.com/track/57znaLsNhGo2dNMK2oPiZu) | [Eupholks](https://open.spotify.com/artist/2yYhno6kAd33lPC1lLyS1o) | [hua\(3\)](https://open.spotify.com/album/60fPszZFgxX6fpYz3vYINi) | 3:00 | 2022-03-11 | 2022-08-03 |
 | [I Can Show You Wonders](https://open.spotify.com/track/59nLZfSfprwxAA2NeESxey) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [I Can Show You Wonders](https://open.spotify.com/album/5BLy1t6Xz0XNBrHN2VIMeM) | 2:45 | 2022-08-01 |  |
 | [I Just Want To See Your Face](https://open.spotify.com/track/7a5EClvwLoJO6nOKBpwqO7) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 2:18 | 2021-10-19 | 2022-07-25 |
 | [In Love with Useless \(The Timeless Geometry in the Tradition of Passing\)](https://open.spotify.com/track/6X9uwtzTwsJ58lgcqa3Vmz) | [A Sunny Day In Glasgow](https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g) | [Sea When Absent](https://open.spotify.com/album/6V15ZxQvFbfbajjXEetZrL) | 5:07 | 2021-10-19 | 2022-07-13 |
@@ -111,6 +111,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB) | 2:05 | 2021-10-19 |  |
 | [Keen on Boys](https://open.spotify.com/track/1SbeUtO3YCeSGccurWHHBP) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC) | 4:53 | 2021-10-19 |  |
 | [Keen on Boys](https://open.spotify.com/track/3wZL6ZuuEqz3uJTcblXdLJ) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/2X1mLosmBKkM765LiX53W7) | 4:53 | 2021-10-19 | 2022-07-29 |
+| [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 | 2022-08-02 |  |
 | [Leave](https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD) | 4:13 | 2021-10-19 |  |
 | [Lemonade Beauty](https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Auras](https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq) | 4:08 | 2021-10-19 |  |
 | [Life in Color](https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [You Can Never Have a Long Enough Head Start](https://open.spotify.com/album/3F9nzTMzXo2rOpyYn5YrY1) | 3:47 | 2021-10-19 | 2022-07-29 |

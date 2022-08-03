@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 4188,
+  "num_followers": 4208,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2MDk3NSwwMDAwMDAwMGMwMmY3NGI0NzFlYzExOWYyMzNmYzk3N2Q1MjFmMjBl",
+  "snapshot_id": "MTY1NzI2MDk3NSwwMDAwMDAwMGYzZmI3ZjVlN2ViYThjZGViZWNkMWVjNjA1NjRiNmZi",
   "tracks": [
     {
       "added_at": "2022-07-08 06:16:15",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c, Pt. 3 Original Television Soundtrack",
-        "url": "https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF"
-      },
-      "artists": [
-        {
-          "name": "Kim Yeonji",
-          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
-        }
-      ],
-      "duration_ms": 302852,
-      "name": "\ub9c8\uc74c\uc758 \ub9d0",
-      "url": "https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH"
-    },
-    {
-      "added_at": "2022-07-08 06:16:15",
-      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 229187,
       "name": "180 Degree",
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+    },
+    {
+      "added_at": "2022-07-08 06:16:15",
+      "album": {
+        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c, Pt. 3 Original Television Soundtrack",
+        "url": "https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF"
+      },
+      "artists": [
+        {
+          "name": "Kim Yeonji",
+          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
+        }
+      ],
+      "duration_ms": 302852,
+      "name": "\ub9c8\uc74c\uc758 \ub9d0",
+      "url": "https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
+    },
+    {
+      "added_at": "2022-07-08 06:16:15",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
-    },
-    {
-      "added_at": "2022-07-08 06:16:15",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
+    },
+    {
+      "added_at": "2022-07-08 06:16:15",
+      "album": {
         "name": "How could you",
         "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 251240,
       "name": "How could you",
       "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
-    },
-    {
-      "added_at": "2022-07-08 06:16:15",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     },
     {
       "added_at": "2022-07-08 06:16:15",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-07-08 06:16:15",
       "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
-    },
-    {
-      "added_at": "2022-07-08 06:16:15",
-      "album": {
         "name": "Bravo, My Life OST Part.20",
         "url": "https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 221141,
       "name": "After we broke up",
       "url": "https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG"
+    },
+    {
+      "added_at": "2022-07-08 06:16:15",
+      "album": {
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2022-07-08 06:16:15",

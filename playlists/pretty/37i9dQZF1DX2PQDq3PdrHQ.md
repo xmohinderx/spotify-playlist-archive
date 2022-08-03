@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,663 likes - 190 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,984 likes - 190 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 50 | [The Landing](https://open.spotify.com/track/79N1ptN28mdLIpFheQkRja) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Swish & The Landing](https://open.spotify.com/album/01cF1G9CsEgrYcWpV0eXHA) | 2:03 |
 | 51 | [after after hours](https://open.spotify.com/track/4dD5fQxc6WalPeAsp6QI9U) | [Dondie](https://open.spotify.com/artist/519dbDArl4MXSfg1TS8DL0) | [after after hours](https://open.spotify.com/album/535u5q9sbWr0JMDezlDG2n) | 2:09 |
 | 52 | [Think About You](https://open.spotify.com/track/3QWQmWDDuuesrq7hyu4aMl) | [Chill Station](https://open.spotify.com/artist/1FPxSBB6vJ21iKzCblbl1u), [Dream Store](https://open.spotify.com/artist/6s9fDZLCgzVLAwWgEFvV5I), [Lofi Station](https://open.spotify.com/artist/5nulk4ccgCnlCYsDLGXNwY) | [Think About You](https://open.spotify.com/album/3eHskmxVGHs4H77DZ6KiIa) | 2:08 |
-| 53 | [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:55 |
+| 53 | [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:51 |
 | 54 | [Maybes](https://open.spotify.com/track/1wChTOTxJtY33UEQAyjvLx) | [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa), [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Maybes](https://open.spotify.com/album/0sKuZ1ZZDqzd3GaebxfTnv) | 2:24 |
 | 55 | [put me to sleep](https://open.spotify.com/track/5ebr815B9oXaj33OEI18hI) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [put me to sleep](https://open.spotify.com/album/4CePoD2qwJ8CwdRGfJFBDT) | 2:14 |
 | 56 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 |

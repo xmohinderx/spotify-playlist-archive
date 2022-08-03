@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 163527,
+  "num_followers": 163635,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzAwOTQ0MCwwMDAwMDAwMGUyMzc1NGU4OGM1ZDc0OTYyMzc5NzcxYzNlMTFiNTEz",
+  "snapshot_id": "MTU5MzAwOTQ0MCwwMDAwMDAwMDRkYjgwMDU0OWFmZjNhNGZmZWMwYmVkYTkzZTZiZWRh",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
     },
     {
       "added_at": "2020-06-24 14:37:20",

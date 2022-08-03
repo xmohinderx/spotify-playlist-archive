@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-219 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+220 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bademler](https://open.spotify.com/track/5vQXGCSst0vWgWgawny6o4) | [Danslı Parti](https://open.spotify.com/artist/1Nuj3jFpl3udnJpo6Qb8z4) | [iii](https://open.spotify.com/album/2ntL9EJiAMldoCL3iONxsO) | 4:10 | 2022-02-18 | 2022-07-29 |
 | [Barbarian Kings](https://open.spotify.com/track/320XdDHRfX7RwAfgJLI9Cy) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Morgan Delt](https://open.spotify.com/album/7qFiNbQXoV8Q2WhpGQ8Zac) | 3:53 | 2021-11-12 | 2022-07-28 |
 | [Bella Kali](https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Bella Kali](https://open.spotify.com/album/1WIL297eRvqxkrhQur7qcd) | 3:34 | 2022-06-08 | 2022-06-30 |
-| [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/02SOQNkOSS1exOCYxQg3LT) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/7sKThLp2JeJqysSXC5ckhI) | 5:52 | 2022-04-22 |  |
+| [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/02SOQNkOSS1exOCYxQg3LT) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/7sKThLp2JeJqysSXC5ckhI) | 5:52 | 2022-04-22 | 2022-08-03 |
 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 | 2022-04-22 | 2022-07-29 |
 | [Bestiario](https://open.spotify.com/track/0JOkNtA6xYd1A7H7XTryS5) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:18 | 2021-11-12 |  |
 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 | 2021-11-12 |  |
@@ -200,6 +200,7 @@
 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 | 2021-11-12 |  |
 | [Toda Pessoa](https://open.spotify.com/track/7yfnGnzEDtVKNNNnLC2dLK) | [Fumaça Preta](https://open.spotify.com/artist/6EbouBUrGRR3KTE9m6Fcfi) | [Fumaça Preta](https://open.spotify.com/album/36wApbIcDo6iCWZdRbpNC5) | 2:39 | 2021-11-12 | 2022-07-29 |
 | [Todo Bien](https://open.spotify.com/track/7ISLcmRNfvsEAZnuARKJUT) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [La Antillana: Sancocho Stereo, Capítulo 3](https://open.spotify.com/album/3St0uMHPSzTkAPgjLlCX66) | 4:32 | 2021-11-12 | 2022-07-28 |
+| [Todo Bien](https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:33 | 2021-11-12 |  |
 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 | 2021-11-12 |  |
 | [Traveler's Code of Conduct](https://open.spotify.com/track/1GPzf66or0QcgpcAXngthP) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 3:58 | 2021-11-12 | 2022-07-21 |
 | [Trees](https://open.spotify.com/track/1NXypJl06i4aiD6Lpi06Sb) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/4oopTeOoJJNiUkc6AVjmAA) | 7:14 | 2021-11-12 | 2022-07-28 |

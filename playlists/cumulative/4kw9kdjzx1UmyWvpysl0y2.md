@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-225 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+226 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 | 2022-07-02 |
 | [Fly](https://open.spotify.com/track/4sYTZ4T4McMnwHMaAdFDM7) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Fly](https://open.spotify.com/album/3YXY6jez22pVNCLbnaShzy) | 3:45 | 2022-07-29 |  |
 | [Fly](https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Dream Theory](https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg) | 3:35 | 2021-11-19 | 2022-02-12 |
-| [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 | 2022-05-23 |  |
+| [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 | 2022-05-23 | 2022-08-03 |
 | [Focus](https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Focus](https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks) | 3:58 | 2022-04-20 | 2022-06-30 |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 | 2022-07-21 |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 | 2022-06-10 |
@@ -189,6 +189,7 @@
 | [Stained Glass](https://open.spotify.com/track/6jAPzxblYZrD1XpGAhIswt) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq), [Chxse](https://open.spotify.com/artist/1Xyr7EUPlc0ZDHaE0VRBRz) | [Stained Glass](https://open.spotify.com/album/4VYcnqjXVo6ekUEIOUr0Ml) | 2:51 | 2022-02-15 | 2022-04-27 |
 | [Stand By Me](https://open.spotify.com/track/4z6JhOgdaVoP4WR3gjftBJ) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Stand By Me](https://open.spotify.com/album/5R4PlfnRbAsDQoCBpArhDK) | 4:12 | 2021-11-19 | 2022-02-24 |
 | [Star Glide \- Stonebank Remix](https://open.spotify.com/track/0tRIhHyjXfeElFTObVEJDg) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [The X Saga](https://open.spotify.com/album/0cEjf52EUrUJGPxlW205ea) | 4:10 | 2022-03-31 | 2022-06-11 |
+| [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-02 |  |
 | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB) | 5:18 | 2022-06-13 |  |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 | 2022-07-16 |

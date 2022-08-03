@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Tomberlin",
-  "num_followers": 46345,
+  "num_followers": 46409,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzMDcyNCwwMDAwMDAwMGVkZGQxYjAwZTNiZGY0ZDc4MjQ2YTdkZjk3ZDJmOTg4",
+  "snapshot_id": "MTY1NDAzMDcyNCwwMDAwMDAwMDE4ZjNlZWYyNTdjOWRiODdhM2JmNGViYzUzOWY4OTgx",
   "tracks": [
     {
       "added_at": "2022-04-29 04:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
+      "duration_ms": 164224,
+      "name": "zombie girl",
+      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 164224,
-      "name": "zombie girl",
-      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Out of My Province",
         "url": "https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 287150,
       "name": "Oh Canada",
       "url": "https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "An Overview on Phenomenal Nature",
         "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 327440,
       "name": "Hard Drive",
       "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "tap",
-        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 271869,
-      "name": "tap",
-      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "tap",
+        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 271869,
+      "name": "tap",
+      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Less Ready to Go",
-        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 267870,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Spitting Image",
         "url": "https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 259674,
       "name": "Spitting Image",
       "url": "https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Less Ready to Go",
+        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 267870,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Red Bird Pt. 2 (Morning)",
-        "url": "https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 247933,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Red Bird Pt. 2 (Morning)",
+        "url": "https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Luca",
-        "url": "https://open.spotify.com/album/24EXPHVPeAd5klXJR9fqKR"
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
       },
       "artists": [
         {
-          "name": "Alex Maas",
-          "url": "https://open.spotify.com/artist/0dBNMuLxOUm6BEU0IiD5Fe"
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
         }
       ],
-      "duration_ms": 200157,
-      "name": "Been Struggling",
-      "url": "https://open.spotify.com/track/0gqf9Si8wjPTxy3TP0avIy"
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Whole New Mess",
         "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 222786,
       "name": "Whole New Mess",
       "url": "https://open.spotify.com/track/7G2qiNMmclEQvBI5QiVKvs"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Luca",
+        "url": "https://open.spotify.com/album/24EXPHVPeAd5klXJR9fqKR"
+      },
+      "artists": [
+        {
+          "name": "Alex Maas",
+          "url": "https://open.spotify.com/artist/0dBNMuLxOUm6BEU0IiD5Fe"
+        }
+      ],
+      "duration_ms": 200157,
+      "name": "Been Struggling",
+      "url": "https://open.spotify.com/track/0gqf9Si8wjPTxy3TP0avIy"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Memory of a Cut off Head",
-        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
-      },
-      "artists": [
-        {
-          "name": "OCS",
-          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
-        }
-      ],
-      "duration_ms": 287280,
-      "name": "Memory of a Cut off Head",
-      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 232160,
       "name": "Waving, Smiling",
       "url": "https://open.spotify.com/track/4hJEhCACCeA8U4CyTP4BDw"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Memory of a Cut off Head",
+        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
+        }
+      ],
+      "duration_ms": 287280,
+      "name": "Memory of a Cut off Head",
+      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Let The Radio Play",
+        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
+      },
+      "artists": [
+        {
+          "name": "Reverend Baron",
+          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
+        }
+      ],
+      "duration_ms": 209634,
+      "name": "Let The Radio Play",
+      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW"
       },
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Let The Radio Play",
-        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
+        "name": "Life, and Another",
+        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
       },
       "artists": [
         {
-          "name": "Reverend Baron",
-          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
+          "name": "Mega Bog",
+          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
         }
       ],
-      "duration_ms": 209634,
-      "name": "Let The Radio Play",
-      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+      "duration_ms": 265815,
+      "name": "Station to Station",
+      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1759,22 +1775,6 @@
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Life, and Another",
-        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
-      },
-      "artists": [
-        {
-          "name": "Mega Bog",
-          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "Station to Station",
-      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Try Harder",
+        "url": "https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg"
+      },
+      "artists": [
+        {
+          "name": "Aerial East",
+          "url": "https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi"
+        }
+      ],
+      "duration_ms": 206703,
+      "name": "The Things We Build",
+      "url": "https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/4S9RG6dliy3NFtEZNP64TI"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 297007,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/5ezRobByzA1eN0bLfGGaeo"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Try Harder",
-        "url": "https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg"
-      },
-      "artists": [
-        {
-          "name": "Aerial East",
-          "url": "https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi"
-        }
-      ],
-      "duration_ms": 206703,
-      "name": "The Things We Build",
-      "url": "https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Till The Moon Don't Shine",
+        "url": "https://open.spotify.com/album/0pD1d9bNZTOG2glLcdXlhH"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "Till The Moon Don't Shine - Cover",
+      "url": "https://open.spotify.com/track/3KTGcgACVFQVXxdEc8Outr"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Stay In Touch",
         "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 289987,
       "name": "Homes",
       "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Calling The Shots",
-        "url": "https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97"
-      },
-      "artists": [
-        {
-          "name": "Jamie B.",
-          "url": "https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ"
-        }
-      ],
-      "duration_ms": 231382,
-      "name": "Calling The Shots",
-      "url": "https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX"
     }
   ],
   "unique_name": "Folk Arc",

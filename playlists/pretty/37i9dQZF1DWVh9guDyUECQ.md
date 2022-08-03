@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Jaydan
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,532 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,590 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 70 | [Medicina](https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Medicina](https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF) | 3:06 |
 | 71 | [Te Amo](https://open.spotify.com/track/4AsMWEUctX6jWcADHOoxR8) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Josue Alcequiez](https://open.spotify.com/artist/55va40Z6T4n3NWGQD9Aidb) | [Te Amo](https://open.spotify.com/album/3SeqaHkucZVCWkfyKaOnbt) | 3:52 |
 | 72 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
-| 73 | [Rap Alto Calibre](https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Rap Alto Calibre](https://open.spotify.com/album/5UkxRZH6F8tcLtBtXOgjNh) | 3:49 |
-| 74 | [Bueno es Dios](https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Bueno es Dios](https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE) | 2:59 |
+| 73 | [Bueno es Dios](https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Bueno es Dios](https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE) | 2:59 |
+| 74 | [Rap Alto Calibre](https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Rap Alto Calibre](https://open.spotify.com/album/5UkxRZH6F8tcLtBtXOgjNh) | 3:49 |
 | 75 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 |
 | 76 | [Valiente Y Sereno](https://open.spotify.com/track/0xAdyFFIGkRyeVacoJfF3r) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 3:02 |
 | 77 | [Un Call](https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Un Call](https://open.spotify.com/album/41skV30829DyjovTu9BPas) | 3:34 |
 | 78 | [Sin Exigir](https://open.spotify.com/track/2ryqtwvpQWCsys0DAXl1In) | [Juan Aponte](https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Sin Exigir](https://open.spotify.com/album/6wWz7xuIroiNesMDa22SBd) | 3:33 |
-| 79 | [Por Si Me Muero](https://open.spotify.com/track/293nGU8oq5WSSawV3Mk4S5) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Gerardito La Promesa](https://open.spotify.com/artist/4EFZEWdVUPMkMGAp75LISF) | [Blanco\|Negro](https://open.spotify.com/album/1EryW4CnFqsvPWVWOOS4cI) | 4:26 |
-| 80 | [Mujer](https://open.spotify.com/track/1LJ6pG7p0SMWBQ0oo4Jb73) | [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs), [Julio Sarante](https://open.spotify.com/artist/4vB7YsbaJTHnbIaWAR34Zg) | [Radiografía](https://open.spotify.com/album/2MpaU3M0t3LadwkqkR2tr2) | 3:27 |
+| 79 | [Mujer](https://open.spotify.com/track/1LJ6pG7p0SMWBQ0oo4Jb73) | [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs), [Julio Sarante](https://open.spotify.com/artist/4vB7YsbaJTHnbIaWAR34Zg) | [Radiografía](https://open.spotify.com/album/2MpaU3M0t3LadwkqkR2tr2) | 3:27 |
+| 80 | [Por Si Me Muero](https://open.spotify.com/track/293nGU8oq5WSSawV3Mk4S5) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Gerardito La Promesa](https://open.spotify.com/artist/4EFZEWdVUPMkMGAp75LISF) | [Blanco\|Negro](https://open.spotify.com/album/1EryW4CnFqsvPWVWOOS4cI) | 4:26 |
 
-Snapshot ID: `MTY1MTIyMjA5NiwwMDAwMDAwMGYyMTljMzkyOGYxMGJjZWM5NGY5ZDBmZDI5YmRiMmRi`
+Snapshot ID: `MTY1MTIyMjA5NiwwMDAwMDAwMGY3MTZhMzJmMTU1MDMzZWNmMjYwNTU1ZWQxOWY1M2I5`

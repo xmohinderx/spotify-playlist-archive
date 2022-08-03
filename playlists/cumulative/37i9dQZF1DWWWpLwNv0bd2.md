@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-73 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+74 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Oru Manam \(From "Dhruva Natchathiram"\)](https://open.spotify.com/track/55mEN7iiqTNzWfYjF8QbQn) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Vikram](https://open.spotify.com/artist/1hP2OKkJ24oEkW8nNpQLX7) | [Oru Manam \(From "Dhruva Natchathiram"\)](https://open.spotify.com/album/69MQlshE2Cveetu5T2b2JT) | 5:40 | 2021-11-29 |  |
 | [Over'a Feel Pannuren \(From "Hero"\)](https://open.spotify.com/track/6APkITSPsI5hnSQty3RK1h) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [MC Sanna](https://open.spotify.com/artist/79U8u5jWzt6NFUlwgMMGT0) | [Over'a Feel Pannuren \(From "Hero"\)](https://open.spotify.com/album/3drmLuiNDXe1vqU5ZWwVvK) | 3:43 | 2021-11-29 | 2022-06-21 |
 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 | 2022-03-30 |  |
+| [Saachitale \(From "Love Today"\)](https://open.spotify.com/track/1GtGDEADkaqavjo23YaSLl) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Saachitale \(From "Love Today"\)](https://open.spotify.com/album/30U9nwOMtDwQWY3I6cwR0H) | 3:58 | 2022-08-02 |  |
 | [Saanjikkava \(From "Kaari"\)](https://open.spotify.com/track/2jWyHwbUrcQ3UPf5CP9jlU) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Saanjikkava \(From "Kaari"\)](https://open.spotify.com/album/4OCpQzSXbW1G754tPR6Qd3) | 4:05 | 2022-06-14 |  |
 | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/track/2fln1y4AGWnEclguilGaca) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/album/1eBXLAdEXKoXPYZiyQtcuD) | 4:07 | 2021-11-29 |  |
 | [Sandaaliye \- From "Yaanai"](https://open.spotify.com/track/0R7eQb7mnHqftgII5Ytzxp) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U) | [Sandaaliye \(From "Yaanai"\)](https://open.spotify.com/album/6xgq0BWnhEoAc1SGA76PaJ) | 4:19 | 2022-06-18 |  |

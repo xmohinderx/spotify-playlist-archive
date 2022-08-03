@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. MOSBI on cover.",
-  "num_followers": 165975,
+  "num_followers": 165977,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDllMDQzZTAzNzExY2YyOGNiODE5MWM3NDNhMWMyOWJj",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMGNhYzkyMzUwZWZkMzY2ZmJkMTE0NTUwNTU1MGNkYTVh",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "GUR\u00da",
+      "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "Hasta en los sue\u00f1os...",
         "url": "https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL"
       },
@@ -279,38 +295,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "GUR\u00da",
-      "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Aprendiendo por las Malas",
-        "url": "https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3"
-      },
-      "artists": [
-        {
-          "name": "Doris Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "Aprendiendo por las Malas",
-      "url": "https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Vamos pa' la Calle",
         "url": "https://open.spotify.com/album/78ve7Z6x8WDVxoR6oUetPZ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 147500,
       "name": "Vamos pa' la Calle",
       "url": "https://open.spotify.com/track/6wYg8famUEPTy5T0GW88Ss"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Aprendiendo por las Malas",
+        "url": "https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "Aprendiendo por las Malas",
+      "url": "https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD"
-      },
-      "artists": [
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        }
-      ],
-      "duration_ms": 178811,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Siento",
         "url": "https://open.spotify.com/album/57HbKQsKQ98wY7CLUQhrw2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 222220,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/6fYvRdhJvYcCKRNeVG0S40"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "duration_ms": 178811,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Fan\u00e1tico en Vela",
+        "url": "https://open.spotify.com/album/2su7h7DAN15IE4dvs0jD6F"
+      },
+      "artists": [
+        {
+          "name": "Feralucia",
+          "url": "https://open.spotify.com/artist/5Cy9hXh0AFvHlRwdzzVPrB"
+        }
+      ],
+      "duration_ms": 224008,
+      "name": "Fan\u00e1tico en Vela",
+      "url": "https://open.spotify.com/track/6loZqxF47dOzXe4Z0lFKFA"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "\u00daltima fuerza",
         "url": "https://open.spotify.com/album/7kEcwjomzNk2XFK8jFmKkR"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Fan\u00e1tico en Vela",
-        "url": "https://open.spotify.com/album/2su7h7DAN15IE4dvs0jD6F"
+        "name": "Mi Lugar",
+        "url": "https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C"
       },
       "artists": [
         {
-          "name": "Feralucia",
-          "url": "https://open.spotify.com/artist/5Cy9hXh0AFvHlRwdzzVPrB"
+          "name": "cata rec",
+          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
         }
       ],
-      "duration_ms": 224008,
-      "name": "Fan\u00e1tico en Vela",
-      "url": "https://open.spotify.com/track/6loZqxF47dOzXe4Z0lFKFA"
+      "duration_ms": 173641,
+      "name": "Mi Lugar",
+      "url": "https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Mi Lugar",
-        "url": "https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C"
+        "name": "Mis Dulces 26S",
+        "url": "https://open.spotify.com/album/1aGDKCSKFAaUaODKovrfzp"
       },
       "artists": [
         {
-          "name": "cata rec",
-          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
+          "name": "Ricardito :c",
+          "url": "https://open.spotify.com/artist/6aZwZO827gIDumG0hzEqEA"
         }
       ],
-      "duration_ms": 173641,
-      "name": "Mi Lugar",
-      "url": "https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy"
+      "duration_ms": 260810,
+      "name": "Mis Dulces 26S",
+      "url": "https://open.spotify.com/track/1nCljawwdkvodWEBEpZ1z8"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 224859,
       "name": "Viento del Sur",
       "url": "https://open.spotify.com/track/7bTBbYeyKUW9IJk9wXvi9i"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Mis Dulces 26S",
-        "url": "https://open.spotify.com/album/1aGDKCSKFAaUaODKovrfzp"
-      },
-      "artists": [
-        {
-          "name": "Ricardito :c",
-          "url": "https://open.spotify.com/artist/6aZwZO827gIDumG0hzEqEA"
-        }
-      ],
-      "duration_ms": 260810,
-      "name": "Mis Dulces 26S",
-      "url": "https://open.spotify.com/track/1nCljawwdkvodWEBEpZ1z8"
     },
     {
       "added_at": "2022-07-29 05:00:00",

@@ -4,7 +4,7 @@
 
 > The hottest new pop with the all the drops\. Cover: Tove Lo
 
-297 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
+298 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Children](https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Children](https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t) | 3:41 | 2021-11-05 | 2021-12-24 |
 | [Close Your Eyes](https://open.spotify.com/track/3h2aYVv7RHnOW0qGGYdYIT) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Close Your Eyes](https://open.spotify.com/album/2nhQIxy5I5vLZZc5jPLiJP) | 2:48 | 2021-11-19 | 2022-03-05 |
 | [Closer to You](https://open.spotify.com/track/6u9JRvJ2fwQyw8QJufneSH) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX) | [Closer to You](https://open.spotify.com/album/4z8XOKTP002JTe873VhgmR) | 2:58 | 2022-07-22 |  |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |
 | [Crave](https://open.spotify.com/track/1iu8AelI8HgWFvvMiTwJ1j) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Crave](https://open.spotify.com/album/0sVi5uSYTodMvoT2tHC6g5) | 3:16 | 2021-11-05 | 2021-12-24 |
 | [Crazy in Love \(feat\. The High\)](https://open.spotify.com/track/1qSYUYroOTrH7Vr5qBb52H) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Crazy in Love \(feat\. The High\)](https://open.spotify.com/album/0GXtJEJGkdi6xos24sAF1f) | 2:26 | 2022-01-07 | 2022-05-20 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-08 |  |

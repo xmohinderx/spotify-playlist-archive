@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "After you\u2019ve gone",
+        "url": "https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey"
+      },
+      "artists": [
+        {
+          "name": "GB9",
+          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230173,
+      "name": "After you\u2019ve gone",
+      "url": "https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6"
+    },
+    {
+      "album": {
         "name": "AhChoo!",
         "url": "https://open.spotify.com/album/07X66xfc5A1CWDzgHRs2gU"
       },
@@ -266,6 +284,24 @@
     },
     {
       "album": {
+        "name": "chasing you",
+        "url": "https://open.spotify.com/album/38K7xBBVe4XrZm7Y07lNhZ"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "chasing you",
+      "url": "https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv"
+    },
+    {
+      "album": {
         "name": "love",
         "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
       },
@@ -365,7 +401,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 166720,
       "name": "day off",
       "url": "https://open.spotify.com/track/1jt0VFVbFB6PTZ33GPK9Tj"
@@ -865,7 +901,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 296000,
       "name": "If You Didn\u2019t Know (With. Peej)",
       "url": "https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW"
@@ -1325,7 +1361,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 167000,
       "name": "Riddle (feat. Khundi Panda)",
       "url": "https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv"
@@ -1771,6 +1807,28 @@
       "duration_ms": 220149,
       "name": "Would You Still Love Me (Feat. MELOH)",
       "url": "https://open.spotify.com/track/03CC9T66w6i25B8KPGcIxA"
+    },
+    {
+      "album": {
+        "name": "XNFP (feat.JUNE)",
+        "url": "https://open.spotify.com/album/3mYQq0tgwSXvUBkNQFegEl"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        },
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "XNFP (feat.JUNE)",
+      "url": "https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5"

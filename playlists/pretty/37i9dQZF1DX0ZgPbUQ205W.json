@@ -1,12 +1,12 @@
 {
   "description": "Calm and relaxing sounds of  jazz to help you unwind.",
-  "num_followers": 56869,
+  "num_followers": 56898,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ5MjMwOCwwMDAwMDAwMDc0MjI2NjMxMWVhODA2Y2MyZGMyYTA0ZjI2MzI3NDNk",
+  "snapshot_id": "MTY1NjQ5MjMwOCwwMDAwMDAwMDUwOGVkNGJhYmYwMDYyYTU1NzZjNTJiNDc0ZGNjNzY5",
   "tracks": [
     {
       "added_at": "2022-06-29 08:45:08",
@@ -452,26 +452,6 @@
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/3HDfNAh4MpiptvaJP9We0w"
-        },
-        {
-          "name": "Adam Baldych",
-          "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
-        }
-      ],
-      "duration_ms": 319306,
-      "name": "Hyperballad",
-      "url": "https://open.spotify.com/track/3OUalNLrR3lz4efP2XudHy"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Poetry",
-        "url": "https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd"
-      },
-      "artists": [
-        {
           "name": "Adam Baldych",
           "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
         },
@@ -483,22 +463,6 @@
       "duration_ms": 232053,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/3o4gJffzc5xbKggjuMZTQY"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -519,18 +483,38 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Here Be Dragons",
-        "url": "https://open.spotify.com/album/5CNcTVrgGUXPTewHvOFzlv"
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
       },
       "artists": [
         {
-          "name": "Oded Tzur",
-          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 509040,
-      "name": "Here Be Dragons",
-      "url": "https://open.spotify.com/track/48MAXuldOaE7h5fwULPWHM"
+      "duration_ms": 236520,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/3HDfNAh4MpiptvaJP9We0w"
+        },
+        {
+          "name": "Adam Baldych",
+          "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
+        }
+      ],
+      "duration_ms": 319306,
+      "name": "Hyperballad",
+      "url": "https://open.spotify.com/track/3OUalNLrR3lz4efP2XudHy"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -551,6 +535,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
+        "name": "Here Be Dragons",
+        "url": "https://open.spotify.com/album/5CNcTVrgGUXPTewHvOFzlv"
+      },
+      "artists": [
+        {
+          "name": "Oded Tzur",
+          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+        }
+      ],
+      "duration_ms": 509040,
+      "name": "Here Be Dragons",
+      "url": "https://open.spotify.com/track/48MAXuldOaE7h5fwULPWHM"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
         "name": "Being There",
         "url": "https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 231466,
       "name": "Draw Near",
       "url": "https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Entering the Woods",
-        "url": "https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist",
-          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
-        },
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -611,6 +591,26 @@
       "duration_ms": 412080,
       "name": "Traces I",
       "url": "https://open.spotify.com/track/7M4XMWNi9ud4skdKeldTHM"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "Entering the Woods",
+        "url": "https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist",
+          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
+        },
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
+        "name": "Songs From Home",
+        "url": "https://open.spotify.com/album/2pSI826dRU8Gb5NH7UxSxN"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        }
+      ],
+      "duration_ms": 369435,
+      "name": "Wouldn't It Be Loverly",
+      "url": "https://open.spotify.com/track/0cg1zPrF59wB0GibluYlE8"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
         "name": "Summerwind",
         "url": "https://open.spotify.com/album/4O3nk9VY0eisrO7ElPQguX"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 265940,
       "name": "Sleep Safe and Warm",
       "url": "https://open.spotify.com/track/3hJRy5BPeQ9a0aL0UPLByG"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Songs From Home",
-        "url": "https://open.spotify.com/album/2pSI826dRU8Gb5NH7UxSxN"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        }
-      ],
-      "duration_ms": 369435,
-      "name": "Wouldn't It Be Loverly",
-      "url": "https://open.spotify.com/track/0cg1zPrF59wB0GibluYlE8"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -815,22 +815,18 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Pipe Dreams",
-        "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
+        "name": "Jacob Karlzon Trio: Today",
+        "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Dahl Jeppesen",
-          "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
-        },
-        {
-          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
-          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
         }
       ],
-      "duration_ms": 290013,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
+      "duration_ms": 204773,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/029SibhjBcqaRqMiGPJiFp"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -851,18 +847,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Jacob Karlzon Trio: Today",
-        "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
       },
       "artists": [
         {
-          "name": "Jacob Karlzon",
-          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+          "name": "S\u00f8ren Dahl Jeppesen",
+          "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
         }
       ],
-      "duration_ms": 204773,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/029SibhjBcqaRqMiGPJiFp"
+      "duration_ms": 290013,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -959,22 +959,18 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "\u00d8yne",
-        "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
+        "name": "Desert Poems",
+        "url": "https://open.spotify.com/album/1qgFo5omXSvMrnxTG9Tg1i"
       },
       "artists": [
         {
-          "name": "Mattia Vlad Morleo",
-          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
-        },
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+          "name": "Stephan Micus",
+          "url": "https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj"
         }
       ],
-      "duration_ms": 210000,
-      "name": "\u00d8yne",
-      "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
+      "duration_ms": 176026,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/2RArePgLvQ1mvFQ5eghfS7"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -995,18 +991,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Desert Poems",
-        "url": "https://open.spotify.com/album/1qgFo5omXSvMrnxTG9Tg1i"
+        "name": "\u00d8yne",
+        "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
       },
       "artists": [
         {
-          "name": "Stephan Micus",
-          "url": "https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj"
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        },
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/2RArePgLvQ1mvFQ5eghfS7"
+      "duration_ms": 210000,
+      "name": "\u00d8yne",
+      "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Blikan",
-        "url": "https://open.spotify.com/album/1cETGSgLtspW3asgEuwvew"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "The Clearing",
-      "url": "https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
+        "name": "Blikan",
+        "url": "https://open.spotify.com/album/1cETGSgLtspW3asgEuwvew"
+      },
+      "artists": [
+        {
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "The Clearing",
+      "url": "https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
         "name": "motives",
         "url": "https://open.spotify.com/album/09YRRKJN5WAhr3KgivvcdW"
       },
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
+        "name": "Changing Places",
+        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 496693,
+      "name": "Song Of Yearning",
+      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
         "name": "Uma Elmo",
         "url": "https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 415053,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Changing Places",
-        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 496693,
-      "name": "Song Of Yearning",
-      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "His Name Is John",
-        "url": "https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN"
-      },
-      "artists": [
-        {
-          "name": "Tomas Raae",
-          "url": "https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL"
-        }
-      ],
-      "duration_ms": 547803,
-      "name": "Fear Not, Zechariah",
-      "url": "https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "Warp",
         "url": "https://open.spotify.com/album/32XHiqhjVkOjYz0IHp2Vdv"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 318346,
       "name": "This Is The Movie",
       "url": "https://open.spotify.com/track/5XHGtL7XwUMLv11s5K0jBE"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "His Name Is John",
+        "url": "https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN"
+      },
+      "artists": [
+        {
+          "name": "Tomas Raae",
+          "url": "https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL"
+        }
+      ],
+      "duration_ms": 547803,
+      "name": "Fear Not, Zechariah",
+      "url": "https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "My Foolish Heart",
-        "url": "https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ"
-      },
-      "artists": [
-        {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        }
-      ],
-      "duration_ms": 124626,
-      "name": "Two Poets",
-      "url": "https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "Waking Arp",
         "url": "https://open.spotify.com/album/7N1q0x0yRFCPiCewBOrInP"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 378306,
       "name": "Waking Arp",
       "url": "https://open.spotify.com/track/1mV5APwrdpSCY6ZpehzJDi"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "My Foolish Heart",
+        "url": "https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ"
+      },
+      "artists": [
+        {
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
+        }
+      ],
+      "duration_ms": 124626,
+      "name": "Two Poets",
+      "url": "https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI"
     },
     {
       "added_at": "2022-06-29 08:45:08",

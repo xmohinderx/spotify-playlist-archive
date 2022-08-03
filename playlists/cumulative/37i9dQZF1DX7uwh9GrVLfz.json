@@ -1028,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "dingdong jungle",
+        "url": "https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u6b6f\u76ee",
+          "url": "https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "dingdong jungle",
+      "url": "https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F"
+    },
+    {
+      "album": {
         "name": "BAND FOR HAPPY",
         "url": "https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk"
       },
@@ -6415,7 +6433,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 260146,
       "name": "\u30d2\u30c8\u30ea\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/5SmwhHaS2hK13aL6oDVZYD"

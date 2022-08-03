@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194835,
+      "name": "Caminos de Guanajuato",
+      "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
+    },
+    {
+      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
       },
@@ -300,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195303,
+      "name": "Canci\u00f3n Mixteca",
+      "url": "https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De La M\u00fasica Mexicana",
         "url": "https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC"
       },
@@ -365,7 +401,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 296066,
       "name": "Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui",
       "url": "https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx"
@@ -423,6 +459,24 @@
       "duration_ms": 169253,
       "name": "El Balaj\u00fa / Huapango",
       "url": "https://open.spotify.com/track/6ejQdiWRgOUK0f7ws7K0Sf"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Rancheras",
+        "url": "https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164080,
+      "name": "El Barzon",
+      "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
     },
     {
       "album": {
@@ -1256,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Que Te Ha Dado Esa Mujer",
+        "url": "https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146634,
+      "name": "El Zacatecano",
+      "url": "https://open.spotify.com/track/5m3TBrw10tXhHvIdS2r3mR"
+    },
+    {
+      "album": {
         "name": "Viva M\u00e9xico (Remastered)",
         "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
       },
@@ -1393,7 +1465,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 509538,
       "name": "Huapango",
       "url": "https://open.spotify.com/track/3e8ti8qmE5Tyuazz0jvqJM"
@@ -1671,7 +1743,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 151000,
       "name": "La bikina",
       "url": "https://open.spotify.com/track/7vmnlvKrTqJD0qUOIt4nMX"
@@ -1761,7 +1833,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 229466,
       "name": "La Cigarra (The Cicada)",
       "url": "https://open.spotify.com/track/1G2RpIZfWkZB6pRYDQNS6S"
@@ -1909,6 +1981,24 @@
       "duration_ms": 110973,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/3ta3xZnUmI7UxrHTLtOqdT"
+    },
+    {
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490753,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
     },
     {
       "album": {
@@ -2110,6 +2200,24 @@
     },
     {
       "album": {
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137108,
+      "name": "La Vaquilla Colorada",
+      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
+    },
+    {
+      "album": {
         "name": "Rub\u00e9n Fuentes, Miguel Mart\u00ednez, Silvestre Vargas",
         "url": "https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In"
       },
@@ -2193,7 +2301,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 124893,
       "name": "Las altenitas",
       "url": "https://open.spotify.com/track/14xRTwrxqIsiwl5SgCnW3m"
@@ -2273,7 +2381,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 102772,
       "name": "Mexico Lindo y Querido",
       "url": "https://open.spotify.com/track/2qRyAj69cVmjltrEMeySIf"
@@ -2398,6 +2506,24 @@
     },
     {
       "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201747,
+      "name": "Mi Zacatecas Querido",
+      "url": "https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM"
+    },
+    {
+      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera - Mariachi Silvestre Vargas",
         "url": "https://open.spotify.com/album/0EdehzXJzRiKpZ2QCSrkgf"
       },
@@ -2517,7 +2643,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 208946,
       "name": "Popurri Jarocho: Veracruz / Maria Chuchena / Balaj\u00fa / El Torito",
       "url": "https://open.spotify.com/track/7pT8049q2ltzDvbCgEbzrB"
@@ -2542,6 +2668,24 @@
     },
     {
       "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "Puro Cachanilla",
+      "url": "https://open.spotify.com/track/37Z8i6jx0D7Tw9VBaB1QeL"
+    },
+    {
+      "album": {
         "name": "Fernando de la Mora Interpreta a Rub\u00e9n Fuentes",
         "url": "https://open.spotify.com/album/5azGsYjlvnnqsRplgVxznL"
       },
@@ -2561,6 +2705,24 @@
       "duration_ms": 214120,
       "name": "Que Bonita Es Mi Tierra",
       "url": "https://open.spotify.com/track/450De2xJInnSzKGgFucBqP"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191576,
+      "name": "Que Lindo Es Michoacan",
+      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
     },
     {
       "album": {
@@ -2655,7 +2817,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 250013,
       "name": "San Luis Potos\u00ed - Remastered",
       "url": "https://open.spotify.com/track/6n3HHBR0hlO5BjrgwwXWW0"
@@ -2691,7 +2853,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 447400,
       "name": "Tema Y Popurri De Torros",
       "url": "https://open.spotify.com/track/6fjlbg6904C1UmEawKjUPR"
@@ -2770,6 +2932,24 @@
     },
     {
       "album": {
+        "name": "Canto A Mi Tierra",
+        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148793,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+    },
+    {
+      "album": {
         "name": "RCA 100 Anos De Musica - Segunda Parte Volumen 2",
         "url": "https://open.spotify.com/album/1EsInJtWk8700FAjRptnla"
       },
@@ -2785,7 +2965,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 137946,
       "name": "Viva Mexico (with La Rondalla Tapat\u00eda)",
       "url": "https://open.spotify.com/track/0oqFWQ2pLqpRIx6kk5SDSW"

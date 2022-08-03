@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Ryan Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,505 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,526 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 75 | [Tulum](https://open.spotify.com/track/2EBNZDuUE3FFcbLADOhOTC) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/1pFpQxlLrzhPTTV071GvTL) | 3:45 |
 | 76 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
 | 77 | [Ride Or Die](https://open.spotify.com/track/1D643xL28RupQU5Ze9sH8P) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Haj](https://open.spotify.com/artist/05WNscDcYnsCEMH42h1ehL) | [Ride Or Die](https://open.spotify.com/album/1oLDHF4F3E3HfdcOAMytuF) | 2:30 |
-| 78 | [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 |
+| 78 | [The Fall](https://open.spotify.com/track/0yoPok7tf8oOoyWkFanvXd) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ Why Can't You Wait\)](https://open.spotify.com/album/6lZXf2zysA8254dmpzvrhw) | 3:16 |
 | 79 | [Tied to You](https://open.spotify.com/track/3ztXhsmAArhAJAf6eGnu0v) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Tied to You](https://open.spotify.com/album/30GL93GCC6ycBWmsG8w01t) | 3:40 |
 | 80 | [You Got The Love \(feat\. Jules Buckley & The Heritage Orchestra\) \- Tiësto Remix](https://open.spotify.com/track/3N50cZLMLohd9DcGA4LIMp) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [You Got The Love \(feat\. Jules Buckley & The Heritage Orchestra\) \[Tiësto Remix\]](https://open.spotify.com/album/1zlYl1OYOvf79RWXEc6NZb) | 3:06 |
 | 81 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 99 | [XYZ](https://open.spotify.com/track/7cbsuVHDGO1QWG15TUOOtp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [XYZ](https://open.spotify.com/album/3w9iuZp9kg9WxPLOw6myZu) | 9:35 |
 | 100 | [No Reason](https://open.spotify.com/track/4Eg3GyadlKhfqYCz22kfwf) | [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [No Reason](https://open.spotify.com/album/5RECCbe1kLEXDxXTRfy24x) | 3:16 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDYwMDlkN2EzYTEwYzFiOGY0MjU2MDgxYTc1N2EyNDhm`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDNiYmZiYWY4ZjI5OTJhYTQ4Njc4ZTY4ZTQ0NDUwYWU1`

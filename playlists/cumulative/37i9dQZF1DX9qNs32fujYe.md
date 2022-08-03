@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Ozzy Osbourne
 
-552 songs - 1 day 17 hr 16 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+553 songs - 1 day 17 hr 21 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Catastrophist](https://open.spotify.com/track/32pOmdexX8M7me2PdINJYb) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Catastrophist](https://open.spotify.com/album/6JT2F5KpNWy8Lg6OJLDXGx) | 6:28 | 2021-12-17 | 2022-07-13 |
 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 | 2022-07-08 |  |
 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2022-07-13 |  |
-| [Chains of Fury](https://open.spotify.com/track/3mWpUooYBCQzcNaWTuVSGm) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Chains of Fury](https://open.spotify.com/album/61K1NTLjHvIR9beka1NrVJ) | 4:06 | 2021-12-17 |  |
+| [Chains of Fury](https://open.spotify.com/track/3mWpUooYBCQzcNaWTuVSGm) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Chains of Fury](https://open.spotify.com/album/61K1NTLjHvIR9beka1NrVJ) | 4:06 | 2021-12-17 | 2022-08-03 |
 | [Chernobyl 2.0](https://open.spotify.com/track/37kv4U7UWzP6ggS7ktima0) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ) | [Chernobyl 2.0](https://open.spotify.com/album/7kUK5baWiXwi6zPHVXxJOr) | 4:53 | 2021-12-17 | 2022-04-18 |
 | [Children of the Grave](https://open.spotify.com/track/3ZuVfQriS93y6ofwbIf7lp) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2009 Remastered Version\)](https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5) | 5:14 | 2022-01-14 | 2022-05-01 |
 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 | 2022-07-13 |  |
@@ -103,7 +103,7 @@
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-07-08 |  |
 | [Come This Way](https://open.spotify.com/track/69jJQ8mDrZsDn4umAL23kb) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Come This Way](https://open.spotify.com/album/4BvMDuV6JNfNhIH6SsKVMQ) | 3:39 | 2022-01-28 | 2022-07-06 |
 | [Conductor \(Redux\)](https://open.spotify.com/track/6FPYB4S5wawOFERTxlVCA6) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Conductor \(Redux\)](https://open.spotify.com/album/0jaLIvRyOlq3dddmylT8rb) | 4:09 | 2021-12-17 | 2022-07-20 |
-| [Construction of Souls](https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Construction of Souls](https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk) | 4:52 | 2021-12-17 | 2022-07-30 |
+| [Construction of Souls](https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Construction of Souls](https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk) | 4:52 | 2021-12-17 |  |
 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 | 2022-07-29 |  |
 | [Creatures Of The Dark Realm](https://open.spotify.com/track/3pKt0cqu9kyUzftP41AXXh) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Creatures Of The Dark Realm \(Japan Edition\)](https://open.spotify.com/album/1yETM7Cx0FFPiDAAcSOeAQ) | 4:08 | 2021-12-17 | 2022-07-29 |
 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 |  |
@@ -201,6 +201,7 @@
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-07-08 |  |
 | [Head Splattered in Seven Ways](https://open.spotify.com/track/4oIGyE9WBdHjHLRo03n7c6) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Head Splattered in Seven Ways](https://open.spotify.com/album/2YIHU1f603Mh8ogmzhrXbj) | 3:49 | 2022-03-22 | 2022-04-02 |
 | [Headbangers Ballroom](https://open.spotify.com/track/2UVxYinhlXXOnqzZm0wabj) | [Masterplan](https://open.spotify.com/artist/1OHNvr18TssBKYK0A75yvx) | [Aeronautics](https://open.spotify.com/album/46JmnwmGe1EjFLEGIVSa7G) | 4:55 | 2022-03-22 | 2022-06-01 |
+| [Headbangers Ballroom](https://open.spotify.com/track/6saan07rgxLNm9DYBYdHxd) | [Masterplan](https://open.spotify.com/artist/1OHNvr18TssBKYK0A75yvx) | [Aeronautics \(Deluxe Edition\)](https://open.spotify.com/album/3YW6V9pyJxnZhwuXZ5jCll) | 4:55 | 2022-07-08 |  |
 | [Heart Demolition](https://open.spotify.com/track/6klJkAJAEmocnUZ4faKPpl) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Heart Demolition](https://open.spotify.com/album/4wTUr0wtgvUdMrlQGs1Usi) | 5:39 | 2021-12-17 | 2022-07-21 |
 | [Heart of a Lion](https://open.spotify.com/track/57KKCoIgrgOjkFxNDnD3GW) | [Riot V](https://open.spotify.com/artist/5AD3ApIDjM31rpaAon76tg) | [Heart of a Lion](https://open.spotify.com/album/19Msv2xVE1gQCbawwgvxwc) | 3:52 | 2022-03-22 | 2022-05-11 |
 | [Heart of the Android](https://open.spotify.com/track/5b6x7e0p8HqA4CZ4eQEoiE) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Heart of the Android](https://open.spotify.com/album/6wDrfnlSydT3ZPcBjClH0l) | 4:31 | 2021-12-17 | 2022-07-29 |
@@ -239,7 +240,7 @@
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-22 |  |
 | [Immortally Insane](https://open.spotify.com/track/2tbdpZIOkV8kK0pZDBxXRQ) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \- 20th Anniversary Deluxe Edition](https://open.spotify.com/album/2nhNrmeayyt111lqj6Om4L) | 5:11 | 2021-12-17 | 2022-07-30 |
 | [In Black and White \- New Version 2021](https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [Lies' Device \(New Version 2021\)](https://open.spotify.com/album/3tVQsBnb2stVCvWzM7aXgB) | 4:09 | 2021-12-17 | 2022-04-21 |
-| [In Extremis](https://open.spotify.com/track/5Hq0ORq01GmoS2HDYbxSZR) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [In Extremis](https://open.spotify.com/album/1aKyeErEZECLxc0TC1zeAu) | 4:41 | 2022-07-08 |  |
+| [In Extremis](https://open.spotify.com/track/5Hq0ORq01GmoS2HDYbxSZR) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [In Extremis](https://open.spotify.com/album/1aKyeErEZECLxc0TC1zeAu) | 4:41 | 2022-07-08 | 2022-08-03 |
 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 | 2022-03-22 | 2022-04-21 |
 | [Inertia](https://open.spotify.com/track/7ojDrvflVkMCy5UErZxi8s) | [Scar Of The Sun](https://open.spotify.com/artist/771ZPlgDeS8Q3y35hm1wAk) | [Inertia](https://open.spotify.com/album/0DnGqEqHsg66rpYia3hrmQ) | 3:50 | 2022-01-07 | 2022-07-15 |
 | [Into the Black](https://open.spotify.com/track/69uGltZ3kbIqYmPDHp1p2E) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Into the Black](https://open.spotify.com/album/4b99g7dJp9C9tCOIT03JaF) | 3:58 | 2021-12-17 |  |

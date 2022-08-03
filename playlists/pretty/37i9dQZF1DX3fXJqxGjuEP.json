@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 607587,
+  "num_followers": 607736,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyNzIyOSwwMDAwMDAwMDljZmU0ZWFhMjA0ZWM2MTgyZGM5MmE4ZGU5MTI2YjM4",
+  "snapshot_id": "MTY1NzcyNzIyOSwwMDAwMDAwMDRkYWNjYjQxMmY0MjljMzExZTEzODVlZDJiNWNhZDc5",
   "tracks": [
     {
       "added_at": "2022-05-09 03:18:01",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
-      "added_at": "2022-04-01 06:20:39",
-      "album": {
-        "name": "La Distancia",
-        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 227143,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Fuerte Y Caliente",
@@ -683,6 +667,22 @@
       "duration_ms": 220695,
       "name": "Mambeado",
       "url": "https://open.spotify.com/track/1qbt0lhWF7LGtPFA4DxXjt"
+    },
+    {
+      "added_at": "2022-04-01 06:20:39",
+      "album": {
+        "name": "La Distancia",
+        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 227143,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1183,26 +1183,26 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Shulaguapa",
-        "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
+        "name": "Francisca La Braza",
+        "url": "https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Francisca La Braza",
+          "url": "https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B"
         },
         {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
         },
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
         }
       ],
-      "duration_ms": 187253,
-      "name": "Shulaguapa",
-      "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
+      "duration_ms": 234057,
+      "name": "Batida do Amor",
+      "url": "https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1227,26 +1227,26 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Francisca La Braza",
-        "url": "https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS"
+        "name": "Shulaguapa",
+        "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
       },
       "artists": [
         {
-          "name": "Francisca La Braza",
-          "url": "https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         },
         {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
         },
         {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 234057,
-      "name": "Batida do Amor",
-      "url": "https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc"
+      "duration_ms": 187253,
+      "name": "Shulaguapa",
+      "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 261402,
-      "name": "A la Madrugada",
-      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
-    },
-    {
       "added_at": "2022-01-14 04:35:18",
       "album": {
         "name": "Mis Amigos",
@@ -1319,6 +1303,22 @@
       "duration_ms": 180569,
       "name": "Mis Amigos",
       "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 261402,
+      "name": "A la Madrugada",
+      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1417,6 +1417,42 @@
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
+    },
+    {
       "added_at": "2022-06-08 03:35:19",
       "album": {
         "name": "Amor Entre Mujer",
@@ -1439,42 +1475,6 @@
       "duration_ms": 272799,
       "name": "Amor Entre Mujer",
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Cambiar\u00e1s",
-        "url": "https://open.spotify.com/album/1x73tbGDGSdOSer7ctL5xl"
-      },
-      "artists": [
-        {
-          "name": "Altoparlante",
-          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Cambiar\u00e1s",
-      "url": "https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 310216,
       "name": "Nariz Con Ra\u00edz",
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Cambiar\u00e1s",
+        "url": "https://open.spotify.com/album/1x73tbGDGSdOSer7ctL5xl"
+      },
+      "artists": [
+        {
+          "name": "Altoparlante",
+          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Cambiar\u00e1s",
+      "url": "https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
     },
     {
-      "added_at": "2022-01-04 01:50:46",
-      "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Ricoc\u00f3",
@@ -1679,6 +1663,22 @@
       "duration_ms": 228000,
       "name": "Ricoc\u00f3",
       "url": "https://open.spotify.com/track/0VQr4Bv3aRRK2ybbN2n5xG"
+    },
+    {
+      "added_at": "2022-01-04 01:50:46",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1705,22 +1705,6 @@
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv"
-    },
-    {
       "added_at": "2022-02-25 03:00:34",
       "album": {
         "name": "Laberinto (Bosq Remix)",
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Luna de Plata (Versi\u00f3n Latina)",
         "url": "https://open.spotify.com/album/12JSUaQHliJdddn5XcsLSN"
       },
@@ -1755,26 +1755,6 @@
       "duration_ms": 281860,
       "name": "Luna de Plata - Versi\u00f3n Latina",
       "url": "https://open.spotify.com/track/2kQHVqfTIO5SyWswMK57LW"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Sonre\u00edr",
-        "url": "https://open.spotify.com/album/3LHWZe8qOBLft1AQNdiuIk"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Sonre\u00edr",
-      "url": "https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1801,20 +1781,24 @@
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"
     },
     {
-      "added_at": "2022-04-20 05:00:00",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ"
+        "name": "Sonre\u00edr",
+        "url": "https://open.spotify.com/album/3LHWZe8qOBLft1AQNdiuIk"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F"
+      "duration_ms": 211480,
+      "name": "Sonre\u00edr",
+      "url": "https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1831,6 +1815,22 @@
       "duration_ms": 208434,
       "name": "Helado de Mango",
       "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
+    },
+    {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F"
     },
     {
       "added_at": "2021-10-20 20:06:54",

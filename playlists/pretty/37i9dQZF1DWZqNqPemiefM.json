@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 17805,
+  "num_followers": 17894,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAyMDQwMCwwMDAwMDAwMDQ1NzYxMGJhNTI3MzQ0Nzk1NDQ2N2YyMGJjYjQ2MTlk",
+  "snapshot_id": "MTY1OTAyMDQwMCwwMDAwMDAwMDQ3OGY2ZjVmMjAwNmZmNzNmOWE3Mzg5NTVjNzJkNzYw",
   "tracks": [
     {
       "added_at": "2022-07-28 15:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-07-28 15:00:00",
       "album": {
-        "name": "Gazing",
-        "url": "https://open.spotify.com/album/12qUCf45In3rCNOA0NOXOW"
-      },
-      "artists": [
-        {
-          "name": "Firo",
-          "url": "https://open.spotify.com/artist/28bSxVrQGGTaSCuotXVtGH"
-        }
-      ],
-      "duration_ms": 196402,
-      "name": "Gazing",
-      "url": "https://open.spotify.com/track/1hVPAMeg5kekdYulGfgQ8u"
-    },
-    {
-      "added_at": "2022-07-28 15:00:00",
-      "album": {
         "name": "Hoshi No Koe",
         "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "added_at": "2022-07-28 15:00:00",
+      "album": {
+        "name": "Gazing",
+        "url": "https://open.spotify.com/album/12qUCf45In3rCNOA0NOXOW"
+      },
+      "artists": [
+        {
+          "name": "Firo",
+          "url": "https://open.spotify.com/artist/28bSxVrQGGTaSCuotXVtGH"
+        }
+      ],
+      "duration_ms": 196402,
+      "name": "Gazing",
+      "url": "https://open.spotify.com/track/1hVPAMeg5kekdYulGfgQ8u"
     },
     {
       "added_at": "2022-07-28 15:00:00",

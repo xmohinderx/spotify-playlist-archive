@@ -4,7 +4,7 @@
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-46 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/6o3V1jZmHWvECMVGyJ14Gh)
+47 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/6o3V1jZmHWvECMVGyJ14Gh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Feels Like I'm In Love \- Original Radio Mix](https://open.spotify.com/track/0MF3XV3L0oGokmU8qxYMba) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Disco Funk Dancefloor](https://open.spotify.com/album/4fu0SxgVPem0Np43iLEPWN) | 4:20 | 2019-02-26 | 2022-07-29 |
 | [Finally](https://open.spotify.com/track/59KZqNdwnWMV7xerB0ZsNZ) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Girls Triple Set](https://open.spotify.com/album/3ramZfkjeHAh42iok8oz9h) | 3:42 | 2019-02-26 | 2022-07-29 |
 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2019-02-26 |  |
-| [Flashdance...What A Feeling \- From "Flashdance"](https://open.spotify.com/track/5nUpmh8WSlQooSmNEUWDJo) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Old But Gold 80's](https://open.spotify.com/album/4ro4iU2CgIVHUAVWVnplWh) | 3:44 | 2019-02-26 |  |
+| [Flashdance..\. What A Feeling \- '95 Version](https://open.spotify.com/track/5CGziaEatzKez145qf7Xj2) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Nyårsmusik](https://open.spotify.com/album/0mfc6FsNgv3RHhrKncT0vZ) | 3:49 | 2019-02-26 |  |
+| [Flashdance...What A Feeling \- From "Flashdance"](https://open.spotify.com/track/5nUpmh8WSlQooSmNEUWDJo) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Old But Gold 80's](https://open.spotify.com/album/4ro4iU2CgIVHUAVWVnplWh) | 3:44 | 2019-02-26 | 2022-08-03 |
 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 | 2019-02-26 | 2022-07-29 |
 | [Funky Town](https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:59 | 2019-02-26 | 2022-07-29 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/0iSrfG3WOzSBE4eOsXHsrj) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [WEDDING CEREMONY MUSIC](https://open.spotify.com/album/3Rsf9NCUUALZNz6moKCrkM) | 3:54 | 2019-02-26 | 2022-08-01 |

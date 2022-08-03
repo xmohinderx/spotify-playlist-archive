@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,436 likes - 98 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,702 likes - 98 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
-| 2 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 |
+| 1 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 |
+| 2 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
 | 3 | [Blinding Lights](https://open.spotify.com/track/5x17OfFfF4UNy5XkRBZjWB) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020](https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN) | 3:21 |
 | 4 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
 | 5 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 97 | [Such Great Heights](https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/6obah2tloYKurr25coxtTm) | 4:38 |
 | 98 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `MTY1NzI1Mjg2MCwwMDAwMDAwMDhlZjYwYmZkZGEzYzYwNDI1NjQ1MWM1ZjI1MGY0YThk`
+Snapshot ID: `MTY1OTQ1MzEzMywwMDAwMDAwMDkwYzlhNzhkNTVlNzFjMjhlNTQ2MTExNDRlMDlhNWM5`

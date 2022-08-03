@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 591367,
+  "num_followers": 591567,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg0ODQ0NiwwMDAwMDAwMGM0Mjk4ZDNjOTk5NDk0MzMxMzQ1YjFjZGVjZjVkMTBi",
+  "snapshot_id": "MTY1ODg0ODQ0NiwwMDAwMDAwMDBmNDVlODVhNGUzNzFhNjY1NWYyZjk3MTVlYTFjYTY2",
   "tracks": [
     {
       "added_at": "2022-07-26 15:14:06",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 193251,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
-    },
-    {
-      "added_at": "2022-07-26 15:14:06",
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 240742,
       "name": "Evan Finds the Third Room",
       "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
+    },
+    {
+      "added_at": "2022-07-26 15:14:06",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 193251,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "Metal & Wood",
-        "url": "https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9"
-      },
-      "artists": [
-        {
-          "name": "Tyrone Wells",
-          "url": "https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "And the Birds Sing",
-      "url": "https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg"
-    },
-    {
-      "added_at": "2022-07-26 15:14:06",
-      "album": {
         "name": "Always Afternoon",
         "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 183226,
       "name": "Always Afternoon",
       "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
+    },
+    {
+      "added_at": "2022-07-26 15:14:06",
+      "album": {
+        "name": "Metal & Wood",
+        "url": "https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Wells",
+          "url": "https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "And the Birds Sing",
+      "url": "https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "Spreadin' Honey",
-        "url": "https://open.spotify.com/album/1bvotRLLCRLmoIv4eirps2"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 272573,
-      "name": "When It Was Wrong",
-      "url": "https://open.spotify.com/track/2fRXHXLFvYnaYbQwkyadeC"
-    },
-    {
-      "added_at": "2022-07-26 15:14:06",
-      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2022-07-26 15:14:06",
+      "album": {
+        "name": "Spreadin' Honey",
+        "url": "https://open.spotify.com/album/1bvotRLLCRLmoIv4eirps2"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 272573,
+      "name": "When It Was Wrong",
+      "url": "https://open.spotify.com/track/2fRXHXLFvYnaYbQwkyadeC"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
-      },
-      "artists": [
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Changes, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
-    },
-    {
-      "added_at": "2022-07-26 15:14:06",
-      "album": {
         "name": "Best Worst Year",
         "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 185786,
       "name": "Baby",
       "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
+    },
+    {
+      "added_at": "2022-07-26 15:14:06",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Changes, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "Like You Mean It",
-        "url": "https://open.spotify.com/album/1x9DUB4rsa4HE9cbGHUXOi"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 131736,
-      "name": "All Day, All Night",
-      "url": "https://open.spotify.com/track/0H9PHWhpMI7LEhZu6U9Cfb"
-    },
-    {
-      "added_at": "2022-07-26 15:14:06",
-      "album": {
         "name": "Parcels",
         "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 205048,
       "name": "Withorwithout",
       "url": "https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ"
+    },
+    {
+      "added_at": "2022-07-26 15:14:06",
+      "album": {
+        "name": "Like You Mean It",
+        "url": "https://open.spotify.com/album/1x9DUB4rsa4HE9cbGHUXOi"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 131736,
+      "name": "All Day, All Night",
+      "url": "https://open.spotify.com/track/0H9PHWhpMI7LEhZu6U9Cfb"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "added_at": "2022-07-26 15:14:06",
+      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/7dUv8LcGbAfQn5Rtf9ffC7"
-      },
-      "artists": [
-        {
-          "name": "Your Smith",
-          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "Debbie",
-      "url": "https://open.spotify.com/track/1NWQFhNItpBUiaE8c8vvNZ"
-    },
-    {
-      "added_at": "2022-07-26 15:14:06",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
@@ -1707,6 +1707,22 @@
       "duration_ms": 198000,
       "name": "U Remind Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+    },
+    {
+      "added_at": "2022-07-26 15:14:06",
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/7dUv8LcGbAfQn5Rtf9ffC7"
+      },
+      "artists": [
+        {
+          "name": "Your Smith",
+          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "Debbie",
+      "url": "https://open.spotify.com/track/1NWQFhNItpBUiaE8c8vvNZ"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1739,22 +1755,6 @@
       "duration_ms": 275826,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
-    },
-    {
-      "added_at": "2022-07-26 15:14:06",
-      "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
-      },
-      "artists": [
-        {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
-        }
-      ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Malibu Man",
-      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
-    },
-    {
-      "added_at": "2022-07-26 15:14:06",
-      "album": {
         "name": "Float Back To You",
         "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 231868,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
+    },
+    {
+      "added_at": "2022-07-26 15:14:06",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Malibu Man",
+      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "Pulse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
+        "name": "No Ending",
+        "url": "https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk"
       },
       "artists": [
         {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+          "name": "Delv!s",
+          "url": "https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2"
         }
       ],
-      "duration_ms": 326613,
-      "name": "Lazy Nina",
-      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+      "duration_ms": 233906,
+      "name": "No Ending",
+      "url": "https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC"
     },
     {
       "added_at": "2022-07-26 15:14:06",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2022-07-26 15:14:06",
       "album": {
-        "name": "No Ending",
-        "url": "https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk"
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
       },
       "artists": [
         {
-          "name": "Delv!s",
-          "url": "https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2"
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
         }
       ],
-      "duration_ms": 233906,
-      "name": "No Ending",
-      "url": "https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC"
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
     }
   ],
   "unique_name": "Feel Good Dinner",

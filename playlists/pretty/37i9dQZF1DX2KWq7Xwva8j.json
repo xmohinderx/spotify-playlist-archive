@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 19178,
+  "num_followers": 19183,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDY0ZTc3NTUyYjA0OWRmYmIxYmQ3YWYzMzI3NmMyNjc5",
+  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDVkYjlhMzYwNmQ4YWRlMjY1ZWFkZmE2YTk0YmExYmNl",
   "tracks": [
     {
       "added_at": "2022-07-28 22:43:36",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "A W",
-        "url": "https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL"
-      },
-      "artists": [
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
-        }
-      ],
-      "duration_ms": 135445,
-      "name": "A W",
-      "url": "https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "un poco m\u00e1s",
         "url": "https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ"
       },
@@ -539,8 +523,24 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "100tas",
-        "url": "https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W"
+        "name": "A W",
+        "url": "https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL"
+      },
+      "artists": [
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "duration_ms": 135445,
+      "name": "A W",
+      "url": "https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "100tas / Nunca",
+        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 148571,
-      "name": "100tas",
-      "url": "https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK"
+      "duration_ms": 192136,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -643,8 +643,8 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "100tas / Nunca",
-        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
+        "name": "100tas",
+        "url": "https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 192136,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
+      "duration_ms": 148571,
+      "name": "100tas",
+      "url": "https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK"
     },
     {
       "added_at": "2022-07-28 22:43:36",

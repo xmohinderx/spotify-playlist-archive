@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r?si=NcsQeMBcQLKglTkvFIsu9g"> Nadia Nakai </a>  and <a href="https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=fX55eifJSdG6ycyD6SARHA"> Lucasraps </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,496 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,555 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 16 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 |
 | 17 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 |
 | 18 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 |
-| 19 | [My Way](https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Connecting the Dots](https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX) | 3:20 |
-| 20 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 |
+| 19 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 |
+| 20 | [My Way](https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Connecting the Dots](https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX) | 3:20 |
 | 21 | [Style & Fashion \(feat\. Obongjayar\)](https://open.spotify.com/track/3BhgQ0PWWyy7xaSd3ZjwWw) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 4:26 |
 | 22 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 |
 | 23 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Mud](https://open.spotify.com/track/5GWqKTUOOFf7jH0T8GOsfP) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Mud](https://open.spotify.com/album/4sQjiqXrRvUpwpCpgjn6Q3) | 2:34 |
 | 70 | [ridiculouS](https://open.spotify.com/track/6UPZoLHQJpM5GfuCWG1VRV) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [ridiculouS](https://open.spotify.com/album/2mCKxB9NhM3Kn2oz7IT9ZD) | 3:08 |
 
-Snapshot ID: `MTY1ODQ0NDQwMCwwMDAwMDAwMGVkM2QwMjk0ZTg0ZWNjNDU3MzYyMTM5MjBjNjQ3ZjM3`
+Snapshot ID: `MTY1ODQ0NDQwMCwwMDAwMDAwMGMyNzlmOWRhYTYxYjMxOWQzNWRjNjczZjNmMzRkNDlk`

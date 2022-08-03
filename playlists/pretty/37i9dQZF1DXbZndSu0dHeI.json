@@ -1,13 +1,29 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 151939,
+  "num_followers": 151985,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkxMDE1NywwMDAwMDAwMGYyZThlMDUxZTBmZjEyYzViZjlhZmNiNDJhZDY1ZmM5",
+  "snapshot_id": "MTY1OTQ0NzA3NSwwMDAwMDAwMDAzNThhNjQzYTM4M2M3YzdkYjZhNTY2ZGUxZTRjOWI5",
   "tracks": [
+    {
+      "added_at": "2022-08-02 13:31:15",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
@@ -67,22 +83,6 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2022-06-22 15:02:37",
-      "album": {
         "name": "I Was Neon",
         "url": "https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm"
       },
@@ -95,6 +95,22 @@
       "duration_ms": 242737,
       "name": "I Was Neon",
       "url": "https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7"
+    },
+    {
+      "added_at": "2022-06-22 15:02:37",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2022-06-22 15:02:37",
@@ -319,22 +335,6 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2022-06-22 15:02:37",
-      "album": {
         "name": "Antisocialites",
         "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
+    },
+    {
+      "added_at": "2022-06-22 15:02:37",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2022-06-22 15:02:37",
@@ -755,22 +771,6 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "Hot & Heavy",
-        "url": "https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Hot & Heavy",
-      "url": "https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf"
-    },
-    {
-      "added_at": "2022-06-22 15:02:37",
-      "album": {
         "name": "And Then Nothing Turned Itself Inside-Out",
         "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+        "name": "Hot & Heavy",
+        "url": "https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu"
       },
       "artists": [
         {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 187733,
-      "name": "Talking Backwards",
-      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
+      "duration_ms": 250613,
+      "name": "Hot & Heavy",
+      "url": "https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf"
     },
     {
       "added_at": "2022-06-22 15:02:37",
@@ -863,6 +863,22 @@
       "duration_ms": 193240,
       "name": "Call Me in the Afternoon",
       "url": "https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x"
+    },
+    {
+      "added_at": "2022-06-22 15:02:37",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Talking Backwards",
+      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2022-06-22 15:02:37",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "Moves",
-        "url": "https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 193031,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8"
-    },
-    {
-      "added_at": "2022-06-22 15:02:37",
-      "album": {
         "name": "The Last Exit",
         "url": "https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k"
+    },
+    {
+      "added_at": "2022-06-22 15:02:37",
+      "album": {
+        "name": "Moves",
+        "url": "https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 193031,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8"
     },
     {
       "added_at": "2022-06-22 15:02:37",
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "Let's Get Out Of This Country",
-        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
       "artists": [
         {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Lloyd, I'm Ready To Be Heartbroken",
-      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2022-06-22 15:02:37",
@@ -1123,18 +1139,34 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+      "duration_ms": 235872,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
+    },
+    {
+      "added_at": "2022-06-22 15:02:37",
+      "album": {
+        "name": "Let's Get Out Of This Country",
+        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
     },
     {
       "added_at": "2022-06-22 15:02:37",
@@ -1151,22 +1183,6 @@
       "duration_ms": 244826,
       "name": "Once Around the Block",
       "url": "https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV"
-    },
-    {
-      "added_at": "2022-06-22 15:02:37",
-      "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 235872,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
     },
     {
       "added_at": "2022-06-22 15:02:37",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
-    },
-    {
-      "added_at": "2022-06-22 15:02:37",
-      "album": {
         "name": "Hypochondriac",
         "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
       },
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2022-06-22 15:02:37",
       "album": {
-        "name": "Slow (feat. Henjila)",
-        "url": "https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
       "artists": [
         {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        },
-        {
-          "name": "Henjila",
-          "url": "https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Slow (feat. Henjila)",
-      "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

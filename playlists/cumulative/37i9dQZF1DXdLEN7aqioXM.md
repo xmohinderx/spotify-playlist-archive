@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-331 songs - 1 day 0 hr 1 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+332 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Art3mis & Parzival](https://open.spotify.com/track/3dNaicN7qcyCGNAa95lTeJ) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Stella Le Page](https://open.spotify.com/artist/6VzpJprdrDY9NCo9psNyQr) | [Art3mis & Parzival](https://open.spotify.com/album/5FWIgOTOEAE1kUuqvKhMEw) | 4:47 | 2022-04-01 |  |
 | [Ascella \(Dub\)](https://open.spotify.com/track/66YbANFZ7Ops6csoTqL7iS) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Ascella \(Dub\)](https://open.spotify.com/album/6Pr3MIG7HU4bkdgB4v91q5) | 5:52 | 2022-06-17 | 2022-07-29 |
 | [Ascent](https://open.spotify.com/track/0kDaCo0U2UcaM3SgZ1Ji7X) | [Sound Remedy](https://open.spotify.com/artist/1UtzKaSQyctQO8GN8EyzOn) | [Forgotten Neons](https://open.spotify.com/album/4tYoCKB747FuIqJCrLho7o) | 2:44 | 2021-10-15 | 2022-07-24 |
+| [Assembly Line](https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Selection 6](https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl) | 3:49 | 2022-07-29 |  |
 | [Astral Dive \(From “In Search of Tomorrow”\)](https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p) | [Baldocaster](https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB) | [Astral Dive \(From “In Search of Tomorrow”\)](https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY) | 3:22 | 2022-06-17 | 2022-06-22 |
 | [Atmosfer \- Dr\. Parnassus Remix](https://open.spotify.com/track/38B8FogBbXu8sIkZK9NFmt) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Dr Parnassus](https://open.spotify.com/artist/5XEyV45wxK8tHOXIhJMOtk) | [Mikrokozmos](https://open.spotify.com/album/3sinUlAK8IZ2TqCAmpmWpj) | 7:00 | 2022-02-04 |  |
 | [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2021-10-15 |  |
@@ -46,7 +47,7 @@
 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 | 2022-07-29 |  |
 | [Closer](https://open.spotify.com/track/6pB59ef67FGX7zALUxATo4) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Closer](https://open.spotify.com/album/1x7e6XjzMelvkqSJVMkQve) | 4:59 | 2022-07-29 |  |
 | [Communication](https://open.spotify.com/track/4C9lZarwkYUM0eQZysI4lI) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Communication](https://open.spotify.com/album/6sIU7SxKLLjjXkZ0jn33WO) | 3:17 | 2021-10-15 | 2022-07-29 |
-| [Communication](https://open.spotify.com/track/7iNcWFcBzOuUpw7S80nl1M) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Start Computer](https://open.spotify.com/album/0li071U8F6zngkai5EMZNI) | 3:17 | 2022-07-22 |  |
+| [Communication](https://open.spotify.com/track/7iNcWFcBzOuUpw7S80nl1M) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Start Computer](https://open.spotify.com/album/0li071U8F6zngkai5EMZNI) | 3:17 | 2022-07-22 | 2022-08-03 |
 | [Contact](https://open.spotify.com/track/1j7YLlEbojw8RGhpqRSv0z) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Contact](https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP) | 3:57 | 2022-07-08 | 2022-07-29 |
 | [Continuous Wave](https://open.spotify.com/track/1N2P27RuYcD1yCN5z0aGjg) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Continuous Wave](https://open.spotify.com/album/1ffc0X3WOwDloLTq7EsCQw) | 5:04 | 2022-02-04 | 2022-07-29 |
 | [Cosmos Voyage](https://open.spotify.com/track/4bct0rfT6wP0Qhj0J3MkFY) | [Notize](https://open.spotify.com/artist/7l2gykN6ATgE2ImbhwoNO2) | [Cosmos Voyage](https://open.spotify.com/album/1E9iH6OyZ6lsHwzCGtSLKz) | 4:27 | 2021-10-15 | 2022-03-22 |
@@ -209,7 +210,7 @@
 | [Oasis](https://open.spotify.com/track/1UxbCY5cw2q3SM7N889OHs) | [Brand X Music](https://open.spotify.com/artist/1jee9hr0fXhz1aoGnwOSiL) | [Synthtopia](https://open.spotify.com/album/69Iu2ZoWLdduBcOFmzi5Dc) | 2:40 | 2022-07-22 | 2022-07-25 |
 | [Obie](https://open.spotify.com/track/5ZsXVVpUxrxUMt5KUp7Izm) | [The Blizzard](https://open.spotify.com/artist/40lHcSYwAqhkmBPoViitWP) | [Obie](https://open.spotify.com/album/3e2wU9LHYtL1gCkqmTxcRa) | 3:43 | 2022-04-01 | 2022-04-21 |
 | [Ocean Drive Miami 84](https://open.spotify.com/track/7AKXgPdoFdEsC4U11CXcrr) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Stil vor Talent 300, Pt\. 3](https://open.spotify.com/album/53RFlPKPzERwJflaaK2YSX) | 7:00 | 2022-04-08 | 2022-04-16 |
-| [Ocean Parkway](https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Then Again](https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3) | 3:13 | 2021-10-15 |  |
+| [Ocean Parkway](https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Then Again](https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3) | 3:13 | 2021-10-15 | 2022-08-03 |
 | [October](https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [October](https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz) | 4:38 | 2022-05-06 | 2022-07-29 |
 | [Odyssey](https://open.spotify.com/track/7BaoPkMMPX5LwdyyUSByKe) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [2020 AD](https://open.spotify.com/album/10CEe5Hjg0iHasl8Z2DbSa) | 3:42 | 2021-10-15 |  |
 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 | 2021-10-15 |  |
@@ -291,7 +292,7 @@
 | [Tenshi](https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Tenshi](https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7) | 4:15 | 2022-07-15 | 2022-07-29 |
 | [Terraform](https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [New & Improved](https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa) | 5:08 | 2022-02-04 |  |
 | [Territory](https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:22 | 2021-10-15 |  |
-| [Tessellate](https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Pressure Point](https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C) | 3:56 | 2022-07-22 | 2022-07-29 |
+| [Tessellate](https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Pressure Point](https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C) | 3:56 | 2022-07-22 |  |
 | [Test Pilot](https://open.spotify.com/track/03RyqN0APr814lnjzziKtT) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/317tn0rmvrIfQOYemUNRM5) | 4:04 | 2022-07-22 |  |
 | [Test Pilot](https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/4Ovn7lQ2W3agN3KvqgaXFx) | 4:04 | 2021-10-15 | 2022-07-29 |
 | [The Arcane Arts](https://open.spotify.com/track/5sPkgogsCQFYKnYZMwkODz) | [Arcis](https://open.spotify.com/artist/11jVTF2G0ClyW9H9tZeUHM) | [Adamo](https://open.spotify.com/album/6Y9N6GkECmc6F8oSsW9vQ5) | 2:52 | 2022-02-04 | 2022-07-27 |

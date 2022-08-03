@@ -1,60 +1,28 @@
 {
   "description": "maggie :) ",
-  "num_followers": 925922,
+  "num_followers": 926047,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGRlNTRmZjU4MzVhYzg3YTMyYTg1NjdhNmUzOGIyODFj",
+  "snapshot_id": "MTY1OTQ2MDQyNiwwMDAwMDAwMDdiMmNkMGUyYTM0MjNmNTcyMDM2NWMwYjA2YjRmYWY1",
   "tracks": [
     {
-      "added_at": "2022-07-15 12:08:06",
+      "added_at": "2022-07-15 14:04:45",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/02pJQBcBBHUlk55lrjikRm"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "Different Kind of World",
-      "url": "https://open.spotify.com/track/0drAsTHCEB3polistcpT1T"
-    },
-    {
-      "added_at": "2022-07-27 16:18:19",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "i will follow you into the dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
+      "duration_ms": 222089,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/35YlFbOf6PdSkXnuTG0uKi"
     },
     {
       "added_at": "2022-07-18 15:38:02",
@@ -73,20 +41,20 @@
       "url": "https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
+      "added_at": "2022-07-27 16:18:19",
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 245808,
-      "name": "Hold The Girl",
-      "url": "https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1"
+      "duration_ms": 153624,
+      "name": "i will follow you into the dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -103,6 +71,70 @@
       "duration_ms": 164500,
       "name": "Favors",
       "url": "https://open.spotify.com/track/1BBZlU3fsvpVRiwLO16Aoe"
+    },
+    {
+      "added_at": "2022-07-15 12:08:06",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2022-06-02 15:01:34",
+      "album": {
+        "name": "Want Want",
+        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "I hope we can still be friends",
+        "url": "https://open.spotify.com/album/2DFYfHxIagpHC6SrZ596qo"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        }
+      ],
+      "duration_ms": 151454,
+      "name": "I hope we can still be friends",
+      "url": "https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 245808,
+      "name": "Hold The Girl",
+      "url": "https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1"
     },
     {
       "added_at": "2022-07-21 16:00:00",
@@ -137,20 +169,36 @@
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
+      "added_at": "2022-08-02 17:13:46",
       "album": {
-        "name": "I hope we can still be friends",
-        "url": "https://open.spotify.com/album/2DFYfHxIagpHC6SrZ596qo"
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
       "artists": [
         {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 151454,
-      "name": "I hope we can still be friends",
-      "url": "https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp"
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "Different Kind of World",
+      "url": "https://open.spotify.com/track/0drAsTHCEB3polistcpT1T"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -219,22 +267,6 @@
       "duration_ms": 297000,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD"
-    },
-    {
-      "added_at": "2022-07-15 14:04:45",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/02pJQBcBBHUlk55lrjikRm"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "Cinema",
-      "url": "https://open.spotify.com/track/35YlFbOf6PdSkXnuTG0uKi"
     },
     {
       "added_at": "2022-07-20 18:22:39",
@@ -415,22 +447,6 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
-    },
-    {
-      "added_at": "2022-06-02 15:01:34",
-      "album": {
-        "name": "Want Want",
-        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
     },
     {
       "added_at": "2022-04-08 15:31:29",

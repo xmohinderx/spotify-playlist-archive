@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,714 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,787 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [CapSule](https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [CapSule](https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ) | 2:54 |
 | 50 | [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |
 
-Snapshot ID: `MTY1OTAyMDQwMCwwMDAwMDAwMDgxMzU4ZWNjZGIzNmVkM2RjNTYyMmJhNWQyMmRhOGNj`
+Snapshot ID: `MTY1OTQ1ODM0MSwwMDAwMDAwMGUzMDBjOTk5MWJjMmRlNzViYmVlMzVhMDI4ZDdkYWEw`

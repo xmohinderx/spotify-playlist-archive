@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Bayu Skak
 
-101 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+102 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Nyambangi Ati](https://open.spotify.com/track/6NPQT0KJ0Atca2etKqAoyh) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Nyambangi Ati](https://open.spotify.com/album/5zeYnW7UwbJPy1eWxAqc45) | 4:27 | 2022-06-09 |  |
 | [nyikso batin](https://open.spotify.com/track/5x6iMwlE967QS90rA0OYlN) | [dela poyz](https://open.spotify.com/artist/73BKKlWbAd4m7AbvXgFs3t) | [nyikso batin](https://open.spotify.com/album/46cFNRFRfADKib0ac3Q3JE) | 4:40 | 2022-07-01 |  |
 | [Ojo Di Bandingke](https://open.spotify.com/track/2NvVDlX2O30KMPZJWQX2aO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Di Bandingke](https://open.spotify.com/album/3NnCgOd2TE8RboolLulBuj) | 5:47 | 2022-07-28 |  |
+| [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 | 2022-08-02 |  |
 | [Ojo Nangis](https://open.spotify.com/track/2yfVlejxMMg163nZWalBte) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Ojo Nangis](https://open.spotify.com/album/0mz1frKC3NxPhHL1E1v3gQ) | 5:13 | 2022-05-26 |  |
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2022-05-26 |  |
 | [Ojo Nangis \- Keroncong Version](https://open.spotify.com/track/5eZ8DNqoPcJd1cTwkKzoEk) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis \(Keroncong Version\)](https://open.spotify.com/album/2vrslGgUCj5smWJEbJSib4) | 5:46 | 2022-05-26 |  |

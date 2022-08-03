@@ -1,12 +1,12 @@
 {
   "description": "This is the best of today's true alternative rock scene.",
-  "num_followers": 468079,
+  "num_followers": 468127,
   "original_name": "New Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDdjNjFiOTEyZWI1OTY5NTU5OTk3Y2ZjYzA2YzA5MmZh",
+  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDgwNzM5NGZlZGUzZGY5YzdhMDE0ZWRjMmJjMjRlYzY2",
   "tracks": [
     {
       "added_at": "2022-04-29 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Timebomb",
-        "url": "https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR"
-      },
-      "artists": [
-        {
-          "name": "Angels & Airwaves",
-          "url": "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Cause You Got Me",
         "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 232526,
       "name": "Cause You Got Me",
       "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Timebomb",
+        "url": "https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR"
+      },
+      "artists": [
+        {
+          "name": "Angels & Airwaves",
+          "url": "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "See Through You",
-        "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
-      },
-      "artists": [
-        {
-          "name": "Spyres",
-          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
-        }
-      ],
-      "duration_ms": 224285,
-      "name": "See Through You",
-      "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Seven White Horses",
         "url": "https://open.spotify.com/album/4357uAusMjqy9RGD7UI2We"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 220816,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/6GRdjS6T0xO677c0h8rfj6"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "See Through You",
+        "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
+      },
+      "artists": [
+        {
+          "name": "Spyres",
+          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+        }
+      ],
+      "duration_ms": 224285,
+      "name": "See Through You",
+      "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 172495,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Nightmare Daydream",
         "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 127093,
       "name": "Choking",
       "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "The Present Is a Foreign Land",
-        "url": "https://open.spotify.com/album/1qmMt5MpOLwD2FbHZEE034"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 201177,
-      "name": "Going Clear",
-      "url": "https://open.spotify.com/track/3SfnQmi3RLvIK4B2bGC4wg"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Sego Sucks",
         "url": "https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 200080,
       "name": "Shame",
       "url": "https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "The Present Is a Foreign Land",
+        "url": "https://open.spotify.com/album/1qmMt5MpOLwD2FbHZEE034"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "duration_ms": 201177,
+      "name": "Going Clear",
+      "url": "https://open.spotify.com/track/3SfnQmi3RLvIK4B2bGC4wg"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Godsend",
-        "url": "https://open.spotify.com/album/1v8V0xYmlo1lUfFYNZbxER"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Godsend",
-      "url": "https://open.spotify.com/track/2tTH0Jsfxt3jLoZNWHCehP"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Around the Bend",
-        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
-      },
-      "artists": [
-        {
-          "name": "Strata",
-          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Around the Bend",
-      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Big Shot",
         "url": "https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs"
       },
@@ -1383,6 +1351,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Godsend",
+        "url": "https://open.spotify.com/album/1v8V0xYmlo1lUfFYNZbxER"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Godsend",
+      "url": "https://open.spotify.com/track/2tTH0Jsfxt3jLoZNWHCehP"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 166834,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Around the Bend",
+        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
+      },
+      "artists": [
+        {
+          "name": "Strata",
+          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Around the Bend",
+      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1527,22 +1527,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Dead West",
-        "url": "https://open.spotify.com/album/5KpwOCB78vI5n4jYCJknU2"
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I"
       },
       "artists": [
         {
-          "name": "IRONTOM",
-          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
-        },
-        {
-          "name": "The Dead Deads",
-          "url": "https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj"
+          "name": "Eliza & The Delusionals",
+          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
         }
       ],
-      "duration_ms": 214330,
-      "name": "Call Me the West (with The Dead Deads)",
-      "url": "https://open.spotify.com/track/5RKOybryugxajbMOTU9aIl"
+      "duration_ms": 203064,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1563,34 +1559,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Now and Then",
-        "url": "https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I"
+        "name": "Dead West",
+        "url": "https://open.spotify.com/album/5KpwOCB78vI5n4jYCJknU2"
       },
       "artists": [
         {
-          "name": "Eliza & The Delusionals",
-          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Devour You",
-        "url": "https://open.spotify.com/album/0WmStcm2iIpUyPVIkAgE9i"
-      },
-      "artists": [
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
+        },
         {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+          "name": "The Dead Deads",
+          "url": "https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj"
         }
       ],
-      "duration_ms": 160245,
-      "name": "You Dig Yours",
-      "url": "https://open.spotify.com/track/0RIExW6hQSwx4r6lk74dQm"
+      "duration_ms": 214330,
+      "name": "Call Me the West (with The Dead Deads)",
+      "url": "https://open.spotify.com/track/5RKOybryugxajbMOTU9aIl"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 209528,
       "name": "Come On",
       "url": "https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Devour You",
+        "url": "https://open.spotify.com/album/0WmStcm2iIpUyPVIkAgE9i"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 160245,
+      "name": "You Dig Yours",
+      "url": "https://open.spotify.com/track/0RIExW6hQSwx4r6lk74dQm"
     },
     {
       "added_at": "2022-04-29 04:01:00",

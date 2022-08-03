@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "Rich Forever",
+        "url": "https://open.spotify.com/album/5esVu79F6yi7lCRSNUayoS"
+      },
+      "artists": [
+        {
+          "name": "$ir Abe",
+          "url": "https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145448,
+      "name": "1500 $ir",
+      "url": "https://open.spotify.com/track/20kQ5m2CKltcaEnzmfuSDV"
+    },
+    {
+      "album": {
+        "name": "Rich Forever",
         "url": "https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ"
       },
       "artists": [

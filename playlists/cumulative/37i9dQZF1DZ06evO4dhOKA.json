@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 223106,
       "name": "El Corrido De Monterrey",
       "url": "https://open.spotify.com/track/1CTIs7OmI0qaYjmX1c8DKU"
@@ -660,6 +660,28 @@
     },
     {
       "album": {
+        "name": "Vinniys",
+        "url": "https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143581,
+      "name": "Laulomen",
+      "url": "https://open.spotify.com/track/0Fwlg3YdgjlOuqM1iXA4UE"
+    },
+    {
+      "album": {
         "name": "12 Corridos",
         "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
       },
@@ -839,7 +861,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Me la Rifo",
       "url": "https://open.spotify.com/track/3yjiLPEVHaYsPSdfekrm4Q"
@@ -1005,7 +1027,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 195493,
       "name": "Muchacha Bonita",
       "url": "https://open.spotify.com/track/2wJwbI9zDg7Mmm6uUFjW8s"
@@ -1103,7 +1125,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 160493,
       "name": "Ojitos a Mi Gusto",
       "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
@@ -1251,7 +1273,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 196385,
       "name": "Se Vale Llorar",
       "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"

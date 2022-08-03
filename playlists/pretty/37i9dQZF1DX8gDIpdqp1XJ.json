@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 764104,
+  "num_followers": 764843,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2NDgzNiwwMDAwMDAwMDE3NTUzNDg3N2M4OTJkN2FlY2EwNjIyYTMzNzhlZTRj",
+  "snapshot_id": "MTY1OTM2NDgzNiwwMDAwMDAwMDFkNTViN2NiZjEwZGU0NzI0YzRhYTIzNTg4ZWUzNWU2",
   "tracks": [
     {
       "added_at": "2022-08-01 14:40:36",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Minds Of Our Own",
-        "url": "https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL"
-      },
-      "artists": [
-        {
-          "name": "levitation room",
-          "url": "https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "Metronomy Forever",
         "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Minds Of Our Own",
+        "url": "https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL"
+      },
+      "artists": [
+        {
+          "name": "levitation room",
+          "url": "https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Apoptosis",
-        "url": "https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 174363,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "I Think I Left the Stove On",
         "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 202490,
       "name": "I Think I Left the Stove On",
       "url": "https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Apoptosis",
+        "url": "https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 174363,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 470092,
       "name": "Dripping Sun",
       "url": "https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Postman b/w Magazine",
-        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Postman",
-      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "jams EP",
         "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 63214,
       "name": "cloud castle",
       "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Postman b/w Magazine",
+        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 160704,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -1339,70 +1339,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Being No One, Going Nowhere",
-        "url": "https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/75fKUcetc638W5uJVF3X7M"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
-        "name": "Sesame",
-        "url": "https://open.spotify.com/album/6kBbu8hwcdYGGNi1FpU3K8"
-      },
-      "artists": [
-        {
-          "name": "HOMESHAKE",
-          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "Sesame",
-      "url": "https://open.spotify.com/track/0TjN0hpZEKt5OWMJDPUQ3r"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
-        "name": "Flavour",
-        "url": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
-      },
-      "artists": [
-        {
-          "name": "Paul Cherry",
-          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-        }
-      ],
-      "duration_ms": 240407,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
-        "name": "In The Darkest Of Nights, Let The Birds Sing",
-        "url": "https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 279361,
-      "name": "Under The Moon",
-      "url": "https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -1419,18 +1355,50 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Time Skiffs",
-        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
+        "name": "Being No One, Going Nowhere",
+        "url": "https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf"
       },
       "artists": [
         {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
         }
       ],
-      "duration_ms": 389102,
-      "name": "Prester John",
-      "url": "https://open.spotify.com/track/0VDJzLBQw9SABBURyQjDvW"
+      "duration_ms": 276413,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/75fKUcetc638W5uJVF3X7M"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 204708,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
+      },
+      "artists": [
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        }
+      ],
+      "duration_ms": 240407,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -1463,6 +1431,54 @@
       "duration_ms": 310320,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "In The Darkest Of Nights, Let The Birds Sing",
+        "url": "https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 279361,
+      "name": "Under The Moon",
+      "url": "https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Sesame",
+        "url": "https://open.spotify.com/album/6kBbu8hwcdYGGNi1FpU3K8"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "duration_ms": 310266,
+      "name": "Sesame",
+      "url": "https://open.spotify.com/track/0TjN0hpZEKt5OWMJDPUQ3r"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Time Skiffs",
+        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 389102,
+      "name": "Prester John",
+      "url": "https://open.spotify.com/track/0VDJzLBQw9SABBURyQjDvW"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -1579,6 +1595,22 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 242261,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -1627,50 +1659,18 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
         }
       ],
-      "duration_ms": 204708,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 242261,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
-        "name": "Fallen Paradise",
-        "url": "https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/6OIsmDiDLf4j9BZJcAaES2"
+      "duration_ms": 169583,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
     }
   ],
   "unique_name": "Modern Psychedelia",

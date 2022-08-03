@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 424261,
+  "num_followers": 424501,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI3NDQwMCwwMDAwMDAwMGIwYmE4ODg2OWUzZDQ1MDk4OTEyYjJmNTg0NDBiMmY5",
+  "snapshot_id": "MTY1NzI3NDQwMCwwMDAwMDAwMDNkN2I3ZWY2NjRkZTAzMDFjYjVjMmFkNjA3ZWIwNzc5",
   "tracks": [
     {
       "added_at": "2022-07-08 10:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Isaiah",
         "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 154435,
       "name": "How Long Will I Love You - Bonus Track",
       "url": "https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Echos",
-        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
         "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "My Forever",
-        "url": "https://open.spotify.com/album/3ZaJWZD6PWBwamO1m2Gfkb"
-      },
-      "artists": [
-        {
-          "name": "Ajuki",
-          "url": "https://open.spotify.com/artist/04Og4FnZhjF2p1kCwkUnIe"
-        }
-      ],
-      "duration_ms": 217566,
-      "name": "My Forever",
-      "url": "https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Lion",
         "url": "https://open.spotify.com/album/1tfz53aOx3BveGngGj3K3l"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 222000,
       "name": "Lion",
       "url": "https://open.spotify.com/track/29fBKVsA6W7etY7W2P7sS9"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "My Forever",
+        "url": "https://open.spotify.com/album/3ZaJWZD6PWBwamO1m2Gfkb"
+      },
+      "artists": [
+        {
+          "name": "Ajuki",
+          "url": "https://open.spotify.com/artist/04Og4FnZhjF2p1kCwkUnIe"
+        }
+      ],
+      "duration_ms": 217566,
+      "name": "My Forever",
+      "url": "https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS"
     },
     {
       "added_at": "2022-07-08 10:00:00",

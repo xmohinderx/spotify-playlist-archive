@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSO9kvC46mW.md) - [plain]
 
 > Riscopri le più grandi hit del 2006! Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,460 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,462 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSO9kvC46mW.md) - [plain]
 | 19 | [SOS](https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:58 |
 | 20 | [Rudebox](https://open.spotify.com/track/5NN5Di8dy8evZ7ciVGx1we) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Rudebox](https://open.spotify.com/album/0ghFsyZKCJOpC0CtXbfS9D) | 4:44 |
 | 21 | [Pump It](https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf) | 3:33 |
-| 22 | [Everytime We Touch](https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch \(Premium Edition\)](https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD) | 3:17 |
-| 23 | [Rehab](https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:34 |
+| 22 | [Rehab](https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:34 |
+| 23 | [Everytime We Touch](https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch \(Premium Edition\)](https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD) | 3:17 |
 | 24 | [My Love \(feat\. T.I.\)](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 4:36 |
 | 25 | [Because You Live](https://open.spotify.com/track/2zFU4UbmsjNHcnod8MlvYx) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:19 |
 | 26 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSO9kvC46mW.md) - [plain]
 | 52 | [Song to Say Goodbye](https://open.spotify.com/track/2DO7ywgu9cdNqXf7Cukys9) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Meds](https://open.spotify.com/album/7cfTTszDP3KgMjtxhE8Re7) | 3:36 |
 | 53 | [I Don't Feel Like Dancin'](https://open.spotify.com/track/13pyGLYmBjYgvOMIEivX2K) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 4:48 |
 | 54 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 |
-| 55 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
-| 56 | [Advertising Space](https://open.spotify.com/track/3EY1sjf2Xq86pQN0L4hEnU) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Intensive Care](https://open.spotify.com/album/14cUCy4aMykhZbIFTw7dtW) | 4:37 |
+| 55 | [Advertising Space](https://open.spotify.com/track/3EY1sjf2Xq86pQN0L4hEnU) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Intensive Care](https://open.spotify.com/album/14cUCy4aMykhZbIFTw7dtW) | 4:37 |
+| 56 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
 | 57 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
 | 58 | [Call On Me](https://open.spotify.com/track/1G32fy7VMCDLl92iGXvBEm) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [20 Y.O.](https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA) | 3:24 |
 | 59 | [Break The Night With Colour](https://open.spotify.com/track/47LnxB0B2b3LrdY4YsJ9is) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Keys To The World](https://open.spotify.com/album/5aihrSmYHiOoJzvHklR68i) | 3:56 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSO9kvC46mW.md) - [plain]
 | 88 | [Put Your Hands Up For Detroit \- Radio Edit](https://open.spotify.com/track/6WoC2b3CCpyrDQJKkBQZn1) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/4DcsHjjs2adHwgWDxFbln0) | 2:28 |
 | 89 | [Lovelight](https://open.spotify.com/track/7GWoMZsG9tM3p6xm0qgjGl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Rudebox](https://open.spotify.com/album/0ghFsyZKCJOpC0CtXbfS9D) | 4:02 |
 | 90 | [Promiscuous \- Radio Edit](https://open.spotify.com/track/2qQaSqqhKdhuSrUEu1P0Uv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Promiscuous \(Radio Edit\)](https://open.spotify.com/album/1jiR4AiGmajU5oeHXkSwli) | 3:40 |
-| 91 | [L'alfabeto degli amanti](https://open.spotify.com/track/2mDy9uIwaCXBXxde0Fq6LW) | [Michele Zarrillo](https://open.spotify.com/artist/7GQA0yMdSaivapYpUqgfKJ) | [L'Alfabeto Degli Amanti](https://open.spotify.com/album/05LuZwzZ6DeEmzvl8lQ9fs) | 3:52 |
-| 92 | [A Pain That I'm Used To](https://open.spotify.com/track/2pbZiAFyhKPmVyjIHipYLa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 4:10 |
+| 91 | [A Pain That I'm Used To](https://open.spotify.com/track/2pbZiAFyhKPmVyjIHipYLa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 4:10 |
+| 92 | [L'alfabeto degli amanti](https://open.spotify.com/track/2mDy9uIwaCXBXxde0Fq6LW) | [Michele Zarrillo](https://open.spotify.com/artist/7GQA0yMdSaivapYpUqgfKJ) | [L'Alfabeto Degli Amanti](https://open.spotify.com/album/05LuZwzZ6DeEmzvl8lQ9fs) | 3:52 |
 | 93 | [Com'è straordinaria la vita](https://open.spotify.com/track/7BHVvJVl9qXAc9lL9wnUWD) | [Dolcenera](https://open.spotify.com/artist/7lkfsloQGm2Z9S9kbmIcFU) | [Il Popolo Dei Sogni](https://open.spotify.com/album/5Ezw2yQ1ETzXCbnPLcEE5Z) | 3:54 |
 | 94 | [Io canto](https://open.spotify.com/track/05YdOLPN2cFLpReWzkfgrl) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Io canto](https://open.spotify.com/album/31lWeThipIXQ08g20TBQSd) | 4:16 |
 | 95 | [An Easier Affair \- Remastered 2006](https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:38 |
 | 96 | [Primo appuntamento](https://open.spotify.com/track/41FAnbJP1Zhu6wVJRSk3oJ) | [Gigi D'Alessio](https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn) | [Mi faccio in quattro](https://open.spotify.com/album/5var9clgIqE5PLs9KbRMjX) | 4:03 |
 | 97 | [Solo lei mi dà](https://open.spotify.com/track/4kJmDX7dwQGBb9azeAiZJz) | [Sugarfree](https://open.spotify.com/artist/1i0JYcD91Cc6C22ewtj0Ma) | [Clepto\-manie \(repackaging\)](https://open.spotify.com/album/0emgC54Qe6Vdb5UYFJnWtd) | 3:18 |
 | 98 | [Te Amo Corazón](https://open.spotify.com/track/13ImdyybWLCa7OLxN3bhF1) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [3121](https://open.spotify.com/album/0GxSuS75qN3igpjycrPNxT) | 3:35 |
-| 99 | [Tutto è possibile](https://open.spotify.com/track/64cGRwJlKWlUHaMFEn0O3d) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc) | [Tutto è possibile](https://open.spotify.com/album/4mjfAifgM9M1diG3u7Gow0) | 3:26 |
-| 100 | [Solo te](https://open.spotify.com/track/5aKgY0dSW7RuzluWTnROVw) | [Studio 3](https://open.spotify.com/artist/4jXkNFi7TpPU18PJmfEwh4) | [Forse un angelo](https://open.spotify.com/album/67rgogCalyoS7c9N2fdVPu) | 3:30 |
+| 99 | [Solo te](https://open.spotify.com/track/5aKgY0dSW7RuzluWTnROVw) | [Studio 3](https://open.spotify.com/artist/4jXkNFi7TpPU18PJmfEwh4) | [Forse un angelo](https://open.spotify.com/album/67rgogCalyoS7c9N2fdVPu) | 3:30 |
+| 100 | [Tutto è possibile](https://open.spotify.com/track/64cGRwJlKWlUHaMFEn0O3d) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc) | [Tutto è possibile](https://open.spotify.com/album/4mjfAifgM9M1diG3u7Gow0) | 3:26 |
 
-Snapshot ID: `MTYwNDU2ODIxNCwwMDAwMDAwMGJiMmIxM2EwNTc1N2U2ZGJhNzE4N2Y5ZjBlMTgzNmEx`
+Snapshot ID: `MTYwNDU2ODIxNCwwMDAwMDAwMDg4NDkzN2E5N2ZiYmNkYzI0ZjgzYTRiNjg5YTAwYmJi`

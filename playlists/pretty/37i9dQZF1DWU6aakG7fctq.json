@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Kevin Kaarl",
-  "num_followers": 499983,
+  "num_followers": 500034,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUxOTIzMiwwMDAwMDAwMDY2OGY2ODZkNDNkNDM4ZWMzZTUyMDA3OWJmZTQ2MGNi",
+  "snapshot_id": "MTY1NjUxOTIzMiwwMDAwMDAwMDU5MzgwMTk5MjdjMGY3NjliYjY3OWYwZTI4Zjc5NjY5",
   "tracks": [
     {
       "added_at": "2022-06-29 16:13:51",
@@ -667,18 +667,22 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "Everybody Wants to Rule the World",
-        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
+        "name": "Lo Sagrado",
+        "url": "https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg"
       },
       "artists": [
         {
-          "name": "Making Movies",
-          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
         }
       ],
-      "duration_ms": 238946,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
+      "duration_ms": 170604,
+      "name": "Porque Existo",
+      "url": "https://open.spotify.com/track/3FbYgQOGUARaGbUMkfP9Cp"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -703,22 +707,18 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "Lo Sagrado",
-        "url": "https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg"
+        "name": "Everybody Wants to Rule the World",
+        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+          "name": "Making Movies",
+          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
         }
       ],
-      "duration_ms": 170604,
-      "name": "Porque Existo",
-      "url": "https://open.spotify.com/track/3FbYgQOGUARaGbUMkfP9Cp"
+      "duration_ms": 238946,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
         "name": "un poco m\u00e1s",
         "url": "https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 138741,
       "name": "un poco m\u00e1s",
       "url": "https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "LUV",
-        "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
-      },
-      "artists": [
-        {
-          "name": "Victor Internet",
-          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "LUV",
-      "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
         "name": "Sad Lullaby",
         "url": "https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 205440,
       "name": "Sad Lullaby",
       "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
+        "name": "LUV",
+        "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
-        "name": "\u00a1p\u00e1rate!",
-        "url": "https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 153189,
-      "name": "\u00a1p\u00e1rate!",
-      "url": "https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/519wEU7Sp6ZoypwPArhgny"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 189600,
       "name": "Home",
       "url": "https://open.spotify.com/track/1Mr9Uiv2AFiiqmKWOpzXjW"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
+        "name": "\u00a1p\u00e1rate!",
+        "url": "https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 153189,
+      "name": "\u00a1p\u00e1rate!",
+      "url": "https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb"
     },
     {
       "added_at": "2022-06-29 16:13:51",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-06-29 16:13:51",
       "album": {
+        "name": "Que Sufras",
+        "url": "https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "duration_ms": 282069,
+      "name": "Que Sufras",
+      "url": "https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E"
+    },
+    {
+      "added_at": "2022-06-29 16:13:51",
+      "album": {
         "name": "ELET\u00c9",
         "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 222466,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/0g9lp41XLg8wgSaZlXtt6G"
-    },
-    {
-      "added_at": "2022-06-29 16:13:51",
-      "album": {
-        "name": "Que Sufras",
-        "url": "https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu"
-      },
-      "artists": [
-        {
-          "name": "Doris Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
-        }
-      ],
-      "duration_ms": 282069,
-      "name": "Que Sufras",
-      "url": "https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E"
     }
   ],
   "unique_name": "el nuevo indie",

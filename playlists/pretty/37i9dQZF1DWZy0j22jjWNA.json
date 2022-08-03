@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73455,
+  "num_followers": 73461,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDk4ZThkNDc2ZDY0OTA4N2RkMTA3OGEzNWFlYWVjMDk4",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDdjMTQ0MmZlMjFhM2M4MzcwNjVkNGNkNGE3YTUxMDI1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
-      },
-      "artists": [
-        {
-          "name": "Zach Winters",
-          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 201487,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
+      },
+      "artists": [
+        {
+          "name": "Zach Winters",
+          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Volume II",
         "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 308883,
       "name": "Suffering Servant",
       "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
-      },
-      "artists": [
-        {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        }
-      ],
-      "duration_ms": 188092,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "I Am One",
         "url": "https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 250409,
       "name": "I Am One",
       "url": "https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        }
+      ],
+      "duration_ms": 188092,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
     },
     {
       "added_at": "2020-09-04 04:02:00",

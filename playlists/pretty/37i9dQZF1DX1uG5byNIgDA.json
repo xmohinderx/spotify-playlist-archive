@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 216525,
+  "num_followers": 216542,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk0OTkzMywwMDAwMDAwMDc4MDI5NzljMWExZGI3YmIxZTM2ZTQ4ZDFmMzJiNzQ1",
+  "snapshot_id": "MTY1Njk0OTkzMywwMDAwMDAwMGU3MzE4ZGEwMGQ4NjIwNGU1MzdlNTg4Y2MyZTE0Yjhj",
   "tracks": [
     {
       "added_at": "2022-07-04 15:52:13",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-04 15:52:13",
       "album": {
-        "name": "ZERO : FEVER EPILOGUE",
-        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW"
-    },
-    {
-      "added_at": "2022-07-04 15:52:13",
-      "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 198866,
       "name": "See U Later",
       "url": "https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK"
+    },
+    {
+      "added_at": "2022-07-04 15:52:13",
+      "album": {
+        "name": "ZERO : FEVER EPILOGUE",
+        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW"
     },
     {
       "added_at": "2022-07-04 15:52:13",

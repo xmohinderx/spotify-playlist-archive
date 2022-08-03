@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 
 > Riscopri le più grandi hit del 2008! Cover: Giusy Ferreri
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,066 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,069 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,18 +67,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 | 57 | [Cammina Nel Sole](https://open.spotify.com/track/6VKR2KNLWUDkNYNC22mrTX) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Cammina Nel Sole](https://open.spotify.com/album/1u8ZJQe4T0EOtwx2wdKHrO) | 4:25 |
 | 58 | [Helpless When She Smiles \- Radio Version](https://open.spotify.com/track/0bCWyxvqNIq7jZjW9LY86G) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Unbreakable](https://open.spotify.com/album/3dJhkG64rXbA2PtBLBGFVd) | 4:05 |
 | 59 | [L'amore non si spiega](https://open.spotify.com/track/6MRb6TjYkJkFPd9HSBADkn) | [Sergio Cammariere](https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU) | [Cantautore piccolino](https://open.spotify.com/album/7A9WRw1RV9dBg31s7RLBsq) | 3:54 |
-| 60 | [Che Rumore Fa La Felicità?](https://open.spotify.com/track/5lwcMFalrs3LfxyTI9IIuQ) | [Negrita](https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2) | [Helldorado](https://open.spotify.com/album/7xN7SjBG4LHSiIUgKSgngX) | 4:30 |
-| 61 | [Come Musica](https://open.spotify.com/track/5gsvZaXWEFjAo1j4pqbr9t) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 3:50 |
+| 60 | [Come Musica](https://open.spotify.com/track/5gsvZaXWEFjAo1j4pqbr9t) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 3:50 |
+| 61 | [Che Rumore Fa La Felicità?](https://open.spotify.com/track/5lwcMFalrs3LfxyTI9IIuQ) | [Negrita](https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2) | [Helldorado](https://open.spotify.com/album/7xN7SjBG4LHSiIUgKSgngX) | 4:30 |
 | 62 | [Eroe \(Storia Di Luigi Delle Bicocche\)](https://open.spotify.com/track/3rGX2jDP3bTMrrQAVihhEb) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Le Dimensioni Del Mio Caos](https://open.spotify.com/album/5OZ8PKJMSSWmmYz2YsHBMB) | 4:07 |
 | 63 | [Il Mondo Che Vorrei](https://open.spotify.com/track/0Vrar45zn7tIIXo4ngPksP) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 6:00 |
 | 64 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 |
 | 65 | [Invece no](https://open.spotify.com/track/6RDrpNxQIKp6LULdQWd2Vl) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera in anticipo](https://open.spotify.com/album/3JYy2Y99BpPhJ64L8Csaxf) | 3:55 |
 | 66 | [Happy Ending](https://open.spotify.com/track/1wl3u4FrzcuBv2LQ97Z6TQ) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 4:36 |
 | 67 | [Don't Believe in Love](https://open.spotify.com/track/2J6k177s1twKl3yG9YnQ4l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Safe Trip Home](https://open.spotify.com/album/4KNKqXUmibcRVNs5drC2xd) | 3:52 |
-| 68 | [Monsoon \- Gateway Version](https://open.spotify.com/track/1QDvX3Oa7xM0So8P7qYqVN) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Scream](https://open.spotify.com/album/4YZNEE7JvTrw3uQVU02HRS) | 4:00 |
-| 69 | [Sono come tu mi vuoi](https://open.spotify.com/track/3v2ELsPtfx1PYRp2K1dTZE) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Irene Grandi.Hits](https://open.spotify.com/album/4XdsOWusX2zOgXDBuzAjuE) | 3:31 |
-| 70 | [Pop porno](https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO) | [Il Genio](https://open.spotify.com/artist/0ID6sR0QSfJJU9nDNUCc4d) | [Il Genio \[Deluxe Edition\]](https://open.spotify.com/album/7EeeFdpPLy1jFS1pmTL9he) | 3:17 |
-| 71 | [Fango](https://open.spotify.com/track/5ADDmkTk0hzjt2YHgR5qG9) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:34 |
+| 68 | [Fango](https://open.spotify.com/track/5ADDmkTk0hzjt2YHgR5qG9) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:34 |
+| 69 | [Monsoon \- Gateway Version](https://open.spotify.com/track/1QDvX3Oa7xM0So8P7qYqVN) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Scream](https://open.spotify.com/album/4YZNEE7JvTrw3uQVU02HRS) | 4:00 |
+| 70 | [Sono come tu mi vuoi](https://open.spotify.com/track/3v2ELsPtfx1PYRp2K1dTZE) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Irene Grandi.Hits](https://open.spotify.com/album/4XdsOWusX2zOgXDBuzAjuE) | 3:31 |
+| 71 | [Pop porno](https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO) | [Il Genio](https://open.spotify.com/artist/0ID6sR0QSfJJU9nDNUCc4d) | [Il Genio \[Deluxe Edition\]](https://open.spotify.com/album/7EeeFdpPLy1jFS1pmTL9he) | 3:17 |
 | 72 | [Supernatural Superserious](https://open.spotify.com/track/47i0RQi76b6UUCIBDgu2TR) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Accelerate](https://open.spotify.com/album/6l1ZSwtU3tTfRrk4Xreiew) | 3:23 |
 | 73 | [Mountains](https://open.spotify.com/track/7ID1obCK75QsDQuf9pEVxK) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 3:21 |
 | 74 | [Via Le Mani Dagli Occhi](https://open.spotify.com/track/57alZNH8JB933Fio8pqDNF) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:47 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 | 79 | [Cade La Pioggia](https://open.spotify.com/track/0uEDeNFpDCYPLWkCvJBJ54) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 6:07 |
 | 80 | [Il mio pensiero](https://open.spotify.com/track/7AIzw5TZYfVwJEr6019RT8) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Secondo tempo](https://open.spotify.com/album/7IrnMnk0wC45zYjIOIH2TG) | 4:37 |
 | 81 | [Blind](https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ) | 6:18 |
-| 82 | [Il Mio Amico](https://open.spotify.com/track/3at21457tnlcqHrnHUk0V0) | [Anna Tatangelo](https://open.spotify.com/artist/2TtebnfWKMq7LCi2A9BlU4) | [Mai dire mai](https://open.spotify.com/album/6XdVtYkcrl0XyScRqdeXjd) | 3:37 |
-| 83 | [The Only One](https://open.spotify.com/track/6C2MCGgNdVmtrZMIh3rZVY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 3:55 |
+| 82 | [The Only One](https://open.spotify.com/track/6C2MCGgNdVmtrZMIh3rZVY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 3:55 |
+| 83 | [Il Mio Amico](https://open.spotify.com/track/3at21457tnlcqHrnHUk0V0) | [Anna Tatangelo](https://open.spotify.com/artist/2TtebnfWKMq7LCi2A9BlU4) | [Mai dire mai](https://open.spotify.com/album/6XdVtYkcrl0XyScRqdeXjd) | 3:37 |
 | 84 | [Novembre](https://open.spotify.com/track/3C31FLb0QTPyJ5GjLUUXhz) | [Giusy Ferreri](https://open.spotify.com/artist/0dwEXtB6gceh7EO7tCsxhD) | [Gaetana](https://open.spotify.com/album/12ZdUYAj9G6z5JzxjcuVYi) | 3:08 |
 | 85 | [Badabum Cha Cha](https://open.spotify.com/track/05tD32Q79NKb92C97fZkfT) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Marracash](https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B) | 3:33 |
 | 86 | [Underneath](https://open.spotify.com/track/5VKddbUN1mljgxMogIUdMx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Flavors of Entanglement \(Deluxe\)](https://open.spotify.com/album/57Zu3ZX6r9BpXkwY8xGixy) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 | 99 | [Tutto L'Universo Obbedisce All'Amore](https://open.spotify.com/track/5R1BM5IRxZ2SUiguXWwXPe) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ), [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Fleurs 2](https://open.spotify.com/album/5p8XF8OUBAt01sDepkqrvr) | 3:27 |
 | 100 | [Somos Grandes O No \(Ci Parliamo Da Grandi\)](https://open.spotify.com/track/2h5xzVCfHSG66Dg4IXATXj) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [e2](https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a) | 4:33 |
 
-Snapshot ID: `MTYwNDU2Nzk1MCwwMDAwMDAwMDZiMGQxMjZhYTdhMGNkYmNiMmQxN2JlZmIwYzllODQ3`
+Snapshot ID: `MTYwNDU2Nzk1MCwwMDAwMDAwMDQwNjkzY2ZiYTdiZDNmMDc0MjA4YmNiYjAyNzRiMDZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying only grooves  with a few of  <a href=“spotify:artist:12Zk1DFhCbHY6v3xep2ZjI”>070 Shake's</a> personally picked tunes\. Cover: 070 Shake
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,509 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,527 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 18 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 |
 | 19 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 |
 | 20 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 |
-| 21 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 |
-| 22 | [HEAVEN](https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm watching you](https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa) | 2:19 |
+| 21 | [HEAVEN](https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm watching you](https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa) | 2:19 |
+| 22 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 |
 | 23 | [Left You For Me](https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Left You For Me](https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj) | 3:50 |
 | 24 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 |
 | 25 | [Body](https://open.spotify.com/track/3lRh3BAgwNXBJ6tjtvc6ZF) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:30 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 37 | [Crop Circles](https://open.spotify.com/track/7uKFDF9cW3Zcj3dJs1eOW1) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Crop Circles](https://open.spotify.com/album/1VLQ2jNQVoXMszkjhZoeqD) | 3:46 |
 | 38 | [Radio Silence](https://open.spotify.com/track/4tcnIv79tX5g75R07XA4l3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Radio Silence](https://open.spotify.com/album/7k3bC0IL0dnWI6u5ObSEQg) | 3:59 |
 | 39 | [Motorbike](https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:21 |
-| 40 | [Take It To Jesus \- Live](https://open.spotify.com/track/62XGXRqEEYg9xH6GAIQMQN) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0OeLfaYbSMZkabIGz88oY6) | 4:40 |
-| 41 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 |
+| 40 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 |
+| 41 | [Take It To Jesus \- Live](https://open.spotify.com/track/62XGXRqEEYg9xH6GAIQMQN) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0OeLfaYbSMZkabIGz88oY6) | 4:40 |
 | 42 | [BADBOI](https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [BADBOI](https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN) | 3:16 |
 | 43 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 |
 | 44 | [Look At What I'm Doing To You](https://open.spotify.com/track/0GNOgKyTYWY88OXjOPnnLc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Look At What I'm Doing To You](https://open.spotify.com/album/5tiIUsyEASKQuVHSjkWz2H) | 3:19 |
 | 45 | [Why We Broke Up](https://open.spotify.com/track/6kd5baO6SfzrL8Jc23JSYr) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Why We Broke Up](https://open.spotify.com/album/7j1tsKIEf8epSilZ65cJ11) | 2:56 |
-| 46 | [boy crazy.](https://open.spotify.com/track/6GlMlyTTDhzMJO1EzvAa5H) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [boy crazy.](https://open.spotify.com/album/1QbzS32RcFDFKLWzD0ovf0) | 2:37 |
-| 47 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
+| 46 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
+| 47 | [boy crazy.](https://open.spotify.com/track/6GlMlyTTDhzMJO1EzvAa5H) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [boy crazy.](https://open.spotify.com/album/1QbzS32RcFDFKLWzD0ovf0) | 2:37 |
 | 48 | [OK With That](https://open.spotify.com/track/2ooyykGiladq5Rs0tRYITz) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [OK With That](https://open.spotify.com/album/2j2rYcajkYMdNuINcE03TX) | 3:38 |
 | 49 | [23rd Street](https://open.spotify.com/track/2aaiBUwcWHkAgpn1UNNHFc) | [Companion](https://open.spotify.com/artist/3xsRxXPgnP6NdckQPo1doE) | [Second Day Of Spring](https://open.spotify.com/album/0z5stKBwZ19uFVrixkTbus) | 3:03 |
 | 50 | [Home Maker \(Edit\)](https://open.spotify.com/track/3mx0cDx1nwx6RlbPGgfjL7) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 3:52 |
 
-Snapshot ID: `MTY1NzA4MDAwMCwwMDAwMDAwMDdjYWQ4NmU4NjQyNTZiY2M4MmMzN2NlYmIwM2FmMDM0`
+Snapshot ID: `MTY1NzA4MDAwMCwwMDAwMDAwMGM4NWQ5ZDNlOWYyZDY2MWZmNTJkYWE5YzVmMDMyNGQ5`

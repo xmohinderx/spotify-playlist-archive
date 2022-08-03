@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 5759,
+  "num_followers": 5774,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGRkMTAzMzI1NjdmZmYzMTFhNTFlNjZmOThhZGY3ZjRl",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDExNzY5OTljZTUzYjM2Zjc5ZjlmOGFmMjU4NjU0NTMw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -277,6 +277,26 @@
       "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
+      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
+    },
+    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -299,22 +319,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+        "name": "Booty And The Beast",
+        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
         }
       ],
-      "duration_ms": 197946,
-      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
-      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
+      "duration_ms": 279640,
+      "name": "Sweet Goddess of Love and Beer",
+      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -331,22 +347,6 @@
       "duration_ms": 239853,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Booty And The Beast",
-        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "Sweet Goddess of Love and Beer",
-      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

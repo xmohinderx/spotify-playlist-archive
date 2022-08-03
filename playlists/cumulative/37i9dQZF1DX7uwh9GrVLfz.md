@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: 板歯目\(Banshimoku\)
 
-433 songs - 23 hr 43 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+434 songs - 23 hr 46 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dear my songs](https://open.spotify.com/track/5NMwkyRm1azQWdeBrfuNnM) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Songs \-what I sing when a war resounds this\-](https://open.spotify.com/album/3AShfnFUfzEQEGgofiLecD) | 5:18 | 2022-05-12 | 2022-07-25 |
 | [Deception](https://open.spotify.com/track/4bFq5BWHDFPS90EPHAWYoq) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Otherside](https://open.spotify.com/album/0lNBLtCeStZBRSQhARH6ur) | 3:02 | 2022-06-07 |  |
 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 | 2022-05-19 |  |
+| [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 |  |
 | [Dirty Party](https://open.spotify.com/track/2UixLInT8vsLbefK63BXLB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:07 | 2022-05-17 | 2022-07-29 |
 | [Don't Let Me Down](https://open.spotify.com/track/2umiTDOadc6AtsjCIXBkT7) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:50 | 2022-05-17 | 2022-07-28 |
 | [DON'T WORRY BE HAPPY](https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [GO ON AS YOU ARE](https://open.spotify.com/album/0iDu9vJKEp2zzVAA4kYwPG) | 3:01 | 2022-06-07 |  |
@@ -360,7 +361,7 @@
 | [ハローフィクサー](https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [ハローフィクサー](https://open.spotify.com/album/7Flmbxp4j9gbkPsWmIgiqJ) | 3:23 | 2022-05-12 | 2022-07-29 |
 | [バトルカメ](https://open.spotify.com/track/3VUs83asTlXKRp8Q1T1bmi) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [バトルカメ](https://open.spotify.com/album/2hpvAXCw3KkAk16HvjMnOZ) | 3:34 | 2022-05-12 | 2022-07-29 |
 | [パンクロックが鳴る夜に](https://open.spotify.com/track/6Ej9KwxT2SidCUHm8vBic7) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [陽はまた昇る](https://open.spotify.com/album/2tLjocfsUK0d21YTfRnwgT) | 3:28 | 2022-06-28 | 2022-07-18 |
-| [ヒトリセカイ](https://open.spotify.com/track/5SmwhHaS2hK13aL6oDVZYD) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:20 | 2022-05-12 |  |
+| [ヒトリセカイ](https://open.spotify.com/track/5SmwhHaS2hK13aL6oDVZYD) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:20 | 2022-05-12 | 2022-08-03 |
 | [ピーチ♡いちごアメ](https://open.spotify.com/track/14JarMQZIr1Lfsw6DeGef5) | [BAKUDAN JOHNNY](https://open.spotify.com/artist/5esUkhRmBCoNxNobiBrCkG) | [爆弾ジョニー](https://open.spotify.com/album/23RW1MVkvvv6iIPGsnpHeX) | 2:56 | 2022-05-17 | 2022-07-29 |
 | [ファッ菌 Part.2 \~愛と哀しみのマンボウ\~](https://open.spotify.com/track/2GkhyE56m5OaP5YjKXpFmo) | [SHAKILAMO!](https://open.spotify.com/artist/3YLOZgsxlza27wQlWilcmT) | [ファッ菌 Part.2 \~愛と哀しみのマンボウ\~](https://open.spotify.com/album/6oeSvxiZ9xQuNrJMq1I8b8) | 3:18 | 2022-05-12 | 2022-07-29 |
 | [ミラコーナイト](https://open.spotify.com/track/1h9ej6dhMV84Jp6LK0Jwsj) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [ミラコーナイト](https://open.spotify.com/album/7tvjen8VzFAznvIghxkhQM) | 3:35 | 2022-05-12 | 2022-07-22 |

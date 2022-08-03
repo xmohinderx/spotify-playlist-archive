@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-509 songs - 1 day 6 hr 8 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+510 songs - 1 day 6 hr 11 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nâu](https://open.spotify.com/artist/5zifyPCJIZxUBhVq7AydsT) | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK) | 3:52 | 2021-07-09 |  |
 | [3 1 0 7 \- 2 \(feat\. W/N & Nau\)](https://open.spotify.com/track/2PYDUM2IC01FOTDLQdFxJP) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF) | [3 1 0 7 \- 2 \(feat\. W/N & Nau\)](https://open.spotify.com/album/4qbBLMHLI6JIpDmm11eVUP) | 4:28 | 2021-03-27\* | 2021-12-08 |
 | [3107 3](https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG) | [3107 3 \(feat\. Nâu, titie, Dươngg\)](https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb) | 4:00 | 2021-08-03 |  |
+| [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/track/45PPoUgqs3JrhkZGEzSUHT) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF) | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/album/6uBnpHfSuZsVHjuTmrd0Y8) | 3:33 | 2022-08-02 |  |
 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-16 | 2022-07-24 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-03 | 2022-04-21 |
 | [Ai muốn nghe không](https://open.spotify.com/track/1WCAkmmTM06in2ojuQ9CK5) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Ai muốn nghe không](https://open.spotify.com/album/5xw006buOXTau3BQPzvjHZ) | 5:07 | 2022-06-13 | 2022-07-07 |
@@ -494,7 +495,7 @@
 | [Youngz](https://open.spotify.com/track/5oCu6XaPGcaTmpMX3NnQ4m) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Young Milo](https://open.spotify.com/artist/27yyGKpmW2nU5uUrMv2a2x) | [Youngz](https://open.spotify.com/album/4PBzQrXlmOv8hnoT9t85Uk) | 3:21 | 2021-07-25 | 2021-07-26 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-20 |
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-09 | 2022-05-08 |
-| [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2022-08-01 |  |
+| [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2022-08-01 | 2022-08-03 |
 | [Yêu Một Người Có Lẽ](https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP), [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP) | [Yêu Một Người Có Lẽ](https://open.spotify.com/album/5ct4cb4xmcTrd9hfLFVQXb) | 4:13 | 2022-05-18 | 2022-07-07 |
 | [Yêu Thầm](https://open.spotify.com/track/7dJVE53hGAX9TcKH0abFic) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Yêu Thầm](https://open.spotify.com/album/36CB3L3Wjw0VfgYx4xSqfa) | 4:12 | 2021-04-14 | 2021-06-08 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-08 | 2022-05-16 |

@@ -954,6 +954,24 @@
     },
     {
       "album": {
+        "name": "Ojo Dibandingke",
+        "url": "https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W"
+      },
+      "artists": [
+        {
+          "name": "Farel Prayoga",
+          "url": "https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328625,
+      "name": "Ojo Dibandingke",
+      "url": "https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W"
+    },
+    {
+      "album": {
         "name": "Ojo Nangis",
         "url": "https://open.spotify.com/album/0mz1frKC3NxPhHL1E1v3gQ"
       },

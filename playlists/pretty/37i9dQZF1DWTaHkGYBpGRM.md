@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,770 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,803 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 9 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 |
 | 10 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 |
 | 11 | [This Town](https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [This Town](https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG) | 3:52 |
-| 12 | [I Miss You](https://open.spotify.com/track/6QSJvH2m7QLAiFIywwzCVi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 5:48 |
-| 13 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
+| 12 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
+| 13 | [I Miss You](https://open.spotify.com/track/6QSJvH2m7QLAiFIywwzCVi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 5:48 |
 | 14 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
 | 15 | [Long Distance Love](https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [The Last Record Album](https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn) | 2:43 |
 | 16 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 31 | [Stay](https://open.spotify.com/track/24xqELXbmKDFLKkR3271jb) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Once Upon Another Time](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) | 4:22 |
 | 32 | [Rather Be with You \- Acoustic](https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 |
 | 33 | [Come Home](https://open.spotify.com/track/6zGrmt2Ico8vRx8oDemgl6) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Come Home](https://open.spotify.com/album/17v2mwH6eNUP5zpgtxqAty) | 4:18 |
-| 34 | [Waiting \- PAL Remix](https://open.spotify.com/track/1EWQ6XHKBCGleqPJOjsPLJ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [PAL](https://open.spotify.com/artist/2EW0ELDBawKHcX4lQyAj0M) | [Skisser / Remixed](https://open.spotify.com/album/40tc5WbPOiSGUxhJyITXE3) | 5:14 |
-| 35 | [5748 Km](https://open.spotify.com/track/4LXi58nLKicjAC0emPq43l) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:15 |
+| 34 | [5748 Km](https://open.spotify.com/track/4LXi58nLKicjAC0emPq43l) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:15 |
+| 35 | [Waiting \- PAL Remix](https://open.spotify.com/track/1EWQ6XHKBCGleqPJOjsPLJ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [PAL](https://open.spotify.com/artist/2EW0ELDBawKHcX4lQyAj0M) | [Skisser / Remixed](https://open.spotify.com/album/40tc5WbPOiSGUxhJyITXE3) | 5:14 |
 | 36 | [See You Again](https://open.spotify.com/track/7gEIEG5i3oKLKRKBuvengF) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:26 |
 | 37 | [Lit the Fire](https://open.spotify.com/track/7nMwUYRFXb6EzZ3t7iigSv) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Ralph](https://open.spotify.com/album/4ZpHjzelJv4qIeZqrqJduU) | 2:50 |
 | 38 | [Long Drive](https://open.spotify.com/track/6keUc6LHhh1HkJfE87bnG9) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES! \(Commentary\)](https://open.spotify.com/album/2pkE09f0DykOk472XemaTs) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 59 | [Coming Home](https://open.spotify.com/track/4DEICI6hwTnHCch0SonV8w) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill](https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0) | 3:55 |
 | 60 | [Missing You](https://open.spotify.com/track/7eA8KIqKOYDwzDoQPp0vQ9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Innocence Lost](https://open.spotify.com/album/7yYelxb5aBNoxduduomHlp) | 2:54 |
 
-Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMGFjNGI2Y2JlZmE1Y2NjMjYwNWQ2ZmQyMzE3ZWM2OWRm`
+Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMDQ3MjgwZDA4ZTdlMjE3MjNlNDcwMjY4OTA5M2EyOWY4`

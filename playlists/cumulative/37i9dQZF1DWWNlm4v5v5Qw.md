@@ -4,12 +4,13 @@
 
 > DMV music breaking waves\. Cover: Rico Nasty
 
-199 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+200 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 \- yvngxchris Remix](https://open.spotify.com/track/3Us9J7gfkNTpHSDEj6VxUN) | [Yung Carnage](https://open.spotify.com/artist/1YBsrlD6ONDyXyJrY3gmai), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [100 \(yvngxchris Remix\)](https://open.spotify.com/album/2ocWOiBB7qtsP6Pk38rkNl) | 2:34 | 2022-02-18 | 2022-03-18 |
 | [1500 $ir](https://open.spotify.com/track/136jJk0hLz67A7m1DeUGpR) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3vxJZwF2wCNH3fAjBnkP5O) | 2:25 | 2022-05-20 | 2022-07-31 |
+| [1500 $ir](https://open.spotify.com/track/20kQ5m2CKltcaEnzmfuSDV) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/5esVu79F6yi7lCRSNUayoS) | 2:25 | 2022-05-20 |  |
 | [1500 $ir](https://open.spotify.com/track/58yOnzLBHLzEXc8EUIj0Pv) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ) | 2:25 | 2022-05-20 | 2022-07-29 |
 | [200mg](https://open.spotify.com/track/1zyUAanmANkzTJCqgledt3) | [410Kirby](https://open.spotify.com/artist/07eTRGADICho4uEpTKxxR3) | [200mg](https://open.spotify.com/album/6CqTyRLa3T3vu9qfcqqlKy) | 2:15 | 2022-02-04 | 2022-04-02 |
 | [2much!](https://open.spotify.com/track/3wzJyzD19Qu9eGQ4WkfCDP) | [Lil Burnt Ketchup](https://open.spotify.com/artist/2iLd0uKrUR1mruLlVf8fJR), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [2much!](https://open.spotify.com/album/443RBSVIDMtixEIT4cagJC) | 3:10 | 2022-04-08 |  |

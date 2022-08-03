@@ -4,7 +4,7 @@
 
 > pov: you're crying and dancing at the same time.
 
-157 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
+159 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-07-08 |  |
 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 | 2022-07-08 |  |
 | [Desnudarte](https://open.spotify.com/track/15zGj634ctKvXflVumO5Qq) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desnudarte](https://open.spotify.com/album/0JSuivYkCCF7TLd8cutNA3) | 4:22 | 2022-03-21 | 2022-07-09 |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-02 |  |
 | [DIABLO](https://open.spotify.com/track/4QlMiL1BPCBzLfn1XbSkpg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:45 | 2022-03-21 | 2022-07-09 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-07-08 |  |
 | [Dos Problemas \(feat\. Big Soto\) \- Remix](https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Dos Problemas \(feat\. Big Soto\) \[Remix\]](https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM) | 4:03 | 2022-07-08 | 2022-07-26 |
@@ -152,6 +153,7 @@
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-07-08 |  |
 | [Ur Baby \(feat\. Khalid\)](https://open.spotify.com/track/66wc7tEC6OapOuvRx1ncbD) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:43 | 2022-04-19 | 2022-07-09 |
 | [Vale Na](https://open.spotify.com/track/1OgIsaa9XL29hQy7YqR0v1) | [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [Vale Na](https://open.spotify.com/album/0KNKIWyEHwDZ74uf1Kgjr0) | 2:45 | 2022-03-21 | 2022-07-09 |
+| [Vete](https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vete](https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN) | 3:12 | 2022-08-02 |  |
 | [Viendo el Techo](https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Viendo el Techo](https://open.spotify.com/album/4ikugcbfJKooYlQACL2MUN) | 3:08 | 2022-03-21 | 2022-07-09 |
 | [Visto a las 00:00](https://open.spotify.com/track/0m1zfGk4oYfj4NxBLNheHZ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Error 93](https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O) | 3:00 | 2022-03-21 | 2022-04-20 |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2022-07-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 407977,
+  "num_followers": 408125,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3MDE5NiwwMDAwMDAwMGRiNWFjMDJhYThiYmNiZDQ3YjY4MmE2OWU4ZThiNDY1",
+  "snapshot_id": "MTY1OTM3MDE5NiwwMDAwMDAwMDRkYmEzZWUwNjJlZWVhMGZmOTgwNTdmNzYwNWMyMzE1",
   "tracks": [
     {
       "added_at": "2022-08-01 16:09:56",
@@ -387,6 +387,26 @@
     {
       "added_at": "2022-08-01 16:09:56",
       "album": {
+        "name": "Your Dog Loves You",
+        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "Your Dog Loves You (Feat. Crush)",
+      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
+    },
+    {
+      "added_at": "2022-08-01 16:09:56",
+      "album": {
         "name": "fool",
         "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
-    },
-    {
-      "added_at": "2022-08-01 16:09:56",
-      "album": {
-        "name": "Your Dog Loves You",
-        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "Your Dog Loves You (Feat. Crush)",
-      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
     },
     {
       "added_at": "2022-08-01 16:09:56",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-08-01 16:09:56",
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
+    },
+    {
+      "added_at": "2022-08-01 16:09:56",
+      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 214326,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
-    },
-    {
-      "added_at": "2022-08-01 16:09:56",
-      "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
     },
     {
       "added_at": "2022-08-01 16:09:56",

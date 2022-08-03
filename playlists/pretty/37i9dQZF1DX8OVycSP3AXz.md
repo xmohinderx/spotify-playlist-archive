@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,709 likes - 46 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,734 likes - 45 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 35 | [Le petit pain au chocolat](https://open.spotify.com/track/2VRLDyUSV5krEJOjFwsWas) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 3:23 |
 | 36 | [Les elucubrations d'Antoine](https://open.spotify.com/track/6898KjBwWLdsJUH1Tu9rI7) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Trésors 60's](https://open.spotify.com/album/406ITkSun3uzXzUwqLKneX) | 3:26 |
 | 37 | [Comment te dire adieu \- Remasterisé en 2016](https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu \(Remasterisé en 2016\)](https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB) | 2:28 |
-| 38 | [Laisse tomber les filles](https://open.spotify.com/track/0mU8byD07n6FLEOqxRJcz1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 2:13 |
-| 39 | [Il fait trop beau pour travailler](https://open.spotify.com/track/5ATfGq3HBnsrzLDRj8mkYL) | [Les Parisiennes](https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:20 |
-| 40 | [Comic Strip](https://open.spotify.com/track/4xP5cjA72WSiXNXql3glWS) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Initials B.B.](https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU) | 2:10 |
-| 41 | [7 Heure Du Mat](https://open.spotify.com/track/5sVA72TQmjb4lqIt00jAaZ) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [The French Mademoiselle](https://open.spotify.com/album/2iFYrUwMGHs4DwAJ94RxuW) | 2:18 |
-| 42 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 |
-| 43 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
-| 44 | [Céline](https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 3:06 |
-| 45 | [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 |
-| 46 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 |
+| 38 | [Il fait trop beau pour travailler](https://open.spotify.com/track/5ATfGq3HBnsrzLDRj8mkYL) | [Les Parisiennes](https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:20 |
+| 39 | [Comic Strip](https://open.spotify.com/track/4xP5cjA72WSiXNXql3glWS) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Initials B.B.](https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU) | 2:10 |
+| 40 | [7 Heure Du Mat](https://open.spotify.com/track/5sVA72TQmjb4lqIt00jAaZ) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [The French Mademoiselle](https://open.spotify.com/album/2iFYrUwMGHs4DwAJ94RxuW) | 2:18 |
+| 41 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 |
+| 42 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
+| 43 | [Céline](https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 3:06 |
+| 44 | [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 |
+| 45 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 |
 
-Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMGY5Mzg3NDg2ZTVhYjY1OTVlOGZjNmE1YWU5MmI0Yzg3`
+Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMDNhMTdkYzNhNWE3Nzg3N2E0OWI0MzBmNGM4ZTQ2YzIz`

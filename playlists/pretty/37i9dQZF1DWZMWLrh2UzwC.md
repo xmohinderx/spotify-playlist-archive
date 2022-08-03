@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,003 likes - 88 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,000 likes - 88 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 18 | [Better Than To Brood](https://open.spotify.com/track/76W65UxnP1syWuHk7ZFpyo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Better Than To Brood](https://open.spotify.com/album/0OniLKNN0e61YPdDNHOMmr) | 3:09 |
 | 19 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 |
 | 20 | [只用一次 \- 火鳳燎原20周年紀念曲](https://open.spotify.com/track/087k2johZmWS3YqG4YF53n) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [只用一次 \(火鳳燎原20周年紀念曲\)](https://open.spotify.com/album/52X64ehn2Y4Nh4fylOdx5W) | 3:28 |
-| 21 | [心安的屋簷 \(影視劇《天才基本法》片尾曲\)](https://open.spotify.com/track/6ihPytvjVynUukV9PRC5aB) | [楊宗緯](https://open.spotify.com/artist/7nXadas3UZzwObRyDSGeAY) | [心安的屋簷 \(影視劇《天才基本法》片尾曲\)](https://open.spotify.com/album/7CiO1drJYQ2IEPjJvA4w02) | 4:25 |
+| 21 | [心安的屋簷 \(影視劇《天才基本法》片尾曲\)](https://open.spotify.com/track/6ihPytvjVynUukV9PRC5aB) | [Aska Yang](https://open.spotify.com/artist/2SOrfXWlb17EoCqupfGX4u) | [心安的屋簷 \(影視劇《天才基本法》片尾曲\)](https://open.spotify.com/album/7CiO1drJYQ2IEPjJvA4w02) | 4:25 |
 | 22 | [那一瞬間](https://open.spotify.com/track/0DHbVRD1gGwinQ38FtJGIx) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [痛快](https://open.spotify.com/album/5fPY9JLLnYDO0Qq579u844) | 5:30 |
 | 23 | [\(......戀人絮語\)](https://open.spotify.com/track/3dSEbbyKd7SgbTrkpOwKaE) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8), [林嘉欣](https://open.spotify.com/artist/5sIpD4IMJlqyaNxA8qNTnJ) | [\(......戀人絮語\)](https://open.spotify.com/album/1zlDN26xFbvP2dm8aydhse) | 3:43 |
 | 24 | [都是假象](https://open.spotify.com/track/4NUkpLtMNVPawExfEV8Pjq) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [都是假象](https://open.spotify.com/album/0gFjnsfjpAR2sbpdESxVYw) | 3:42 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 52 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 |
 | 53 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 |
 | 54 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 |
-| 55 | [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 |
+| 55 | [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 |
 | 56 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 |
 | 57 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 |
 | 58 | [I Already Know](https://open.spotify.com/track/0QHHCbQukI7cduRFgkf7KC) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi) | [I Already Know](https://open.spotify.com/album/72EuxIcv48MPWEEfVtCAp8) | 2:51 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 87 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 |
 | 88 | [3636](https://open.spotify.com/track/207OCGfaLuJllRSgHtKLji) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [3636](https://open.spotify.com/album/0LSU1wIbJmGLZhzOnkk9sN) | 4:11 |
 
-Snapshot ID: `MTY1OTAyNDAwMCwwMDAwMDAwMDk5M2QwYWE0ZGQ0YzdhNTdlODBjOTgzZmRhMzliZTVi`
+Snapshot ID: `MTY1OTAyNDAwMCwwMDAwMDAwMGZiYjY1YWJmMjliM2U3YzVjMDExYjZkMGRmYjg2NDE2`

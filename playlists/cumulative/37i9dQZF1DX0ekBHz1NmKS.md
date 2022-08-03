@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-527 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+528 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Jag har en sång](https://open.spotify.com/track/5EEBaNtTSxGAFDDvF4u0to) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Jag har en sång](https://open.spotify.com/album/54APrhPiWgvMab1fFU8wiJ) | 1:12 | 2021-12-16 | 2022-05-10 |
 | [Jag kan släcka eld](https://open.spotify.com/track/4XjImCV3IkeMl25W11xaZu) | [Ambivalensen](https://open.spotify.com/artist/0ZF9JhwucCz0sMbxOGVa4Z) | [Jag kan släcka eld](https://open.spotify.com/album/6ERyREGoUSLHY1e2w8KQPb) | 3:04 | 2022-05-30 | 2022-07-07 |
 | [Jag kommer \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/7mo7CfYuvDyhP4C63SJKnV) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Jag kommer \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/1R366ZOoz4gnCUTdFMbW1Z) | 3:06 | 2021-12-16 | 2022-02-06 |
-| [Jag Lovar](https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag Lovar](https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm) | 2:48 | 2022-01-27 |  |
+| [Jag Lovar](https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag Lovar](https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm) | 2:48 | 2022-01-27 | 2022-08-03 |
 | [Jag tror du har slutat älska mig](https://open.spotify.com/track/5QJpPqRqFvIFHzqcBqQCqK) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Jag tror du har slutat älska mig](https://open.spotify.com/album/3K7la6bYx8Xjr1qvV7ICa8) | 2:40 | 2021-12-16 | 2022-03-11 |
 | [Jag tänker på dig](https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Jag tänker på dig](https://open.spotify.com/album/1jvHCCrqMFoasEOCqjxTIw) | 2:20 | 2022-03-10 | 2022-07-28 |
 | [Jag vill inte bråka](https://open.spotify.com/track/0at5EUHXolMCt8H7cLWIHA) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag vill inte bråka](https://open.spotify.com/album/5Z3GZBgr9rs1RKymbV2PjS) | 2:54 | 2022-02-26 | 2022-07-28 |
@@ -455,6 +455,7 @@
 | [Tears](https://open.spotify.com/track/1KEXV4nhFG7lkOU7qqiQyi) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 2:32 | 2021-12-16 | 2022-03-11 |
 | [Teenage Dirtbag](https://open.spotify.com/track/3y6sdyJDD4DxrzoFQVhudH) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Teenage Dirtbag](https://open.spotify.com/album/5eyTUJfoyaBZM2M69BXeOf) | 3:48 | 2021-12-16 | 2022-03-11 |
 | [Tell Me](https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Tell Me](https://open.spotify.com/album/35ysKlLuG8CpXGCQbNFgKo) | 3:10 | 2022-03-17 | 2022-07-29 |
+| [Tempo](https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Tempo](https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT) | 2:31 | 2022-07-28 |  |
 | [Tenerife Sea](https://open.spotify.com/track/5bimLyQiJGIphZSs1e0HPB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [living room sessions](https://open.spotify.com/album/7nyjhmJfuB4xyfx0lVx3A0) | 4:31 | 2021-12-16 | 2022-03-09 |
 | [Tesla](https://open.spotify.com/track/7MYNQvmkh1tbXKKoZ20XG7) | [MIMI](https://open.spotify.com/artist/4GCwfakdZdo3KkBNtzU5vn) | [Tesla](https://open.spotify.com/album/52ZvAIoqN8UrStekZ19BCW) | 3:05 | 2022-04-28 | 2022-07-20 |
 | [Thanks a lot now I can’t smile](https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/57phmd4OriulBsRSCOWSrX) | 2:44 | 2021-12-16 | 2022-01-14 |

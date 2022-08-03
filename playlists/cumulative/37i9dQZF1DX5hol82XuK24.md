@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-121 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+122 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-11-01 |  |
 | [Tub Erupt](https://open.spotify.com/track/5UagxRDKDj3QyQHAWIJ9ZR) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/7Gsi59BAXGkBz8nxEYy9n3) | 2:52 | 2021-11-01 |  |
 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 | 2021-11-01 |  |
+| [Waking The Witch \- 2018 Remaster](https://open.spotify.com/track/4mNUtp5LxYkg1mdbSZEcwO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 4:18 | 2022-08-02 |  |
 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 | 2021-11-01 |  |
 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 | 2021-11-01 |  |
 | [zi oi 自爱](https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [a wonderful thing vomits](https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1) | 4:16 | 2021-11-01 |  |

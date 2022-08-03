@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 191738,
+  "num_followers": 191854,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDcxMGU1YTI3MTk1NjliMjNjNjU3MmU1NmE2YjJmY2Fm",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDU5YjgwZTBlNzMyODEwZTMxMGRhY2MyYWU3NWQ5Mzcz",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "En Las Alas Del Amor",
-        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 260295,
-      "name": "El No Pereci\u00f3",
-      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Amor Favor Gracia",
         "url": "https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 258813,
       "name": "Nadie Me Dijo",
       "url": "https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "En Las Alas Del Amor",
+        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 260295,
+      "name": "El No Pereci\u00f3",
+      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "He Visto Su Gloria",
-        "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
-      },
-      "artists": [
-        {
-          "name": "Tony P\u00e9rez",
-          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
-        }
-      ],
-      "duration_ms": 447320,
-      "name": "Tengo Sed De Ti",
-      "url": "https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/13M8kgTgN9up2JtRwFgBy4"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 252440,
       "name": "Mi Pastor",
       "url": "https://open.spotify.com/track/0MIYKvXKwR7FuMBoQYgZoi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "He Visto Su Gloria",
+        "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
+      },
+      "artists": [
+        {
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+        }
+      ],
+      "duration_ms": 447320,
+      "name": "Tengo Sed De Ti",
+      "url": "https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E"
+        "name": "Llena Este Lugar",
+        "url": "https://open.spotify.com/album/6LYfjLkiy8qNTibTf4klao"
       },
       "artists": [
         {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+          "name": "Joan Sanchez",
+          "url": "https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ"
+        },
+        {
+          "name": "RPBand",
+          "url": "https://open.spotify.com/artist/2iF6pJUq2ukNP5AP2YfAY3"
         }
       ],
-      "duration_ms": 244545,
-      "name": "Tu Corazo\u0301n",
-      "url": "https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi"
+      "duration_ms": 370665,
+      "name": "Llena Este Lugar",
+      "url": "https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Llena Este Lugar",
-        "url": "https://open.spotify.com/album/6LYfjLkiy8qNTibTf4klao"
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E"
       },
       "artists": [
         {
-          "name": "Joan Sanchez",
-          "url": "https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ"
-        },
-        {
-          "name": "RPBand",
-          "url": "https://open.spotify.com/artist/2iF6pJUq2ukNP5AP2YfAY3"
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
         }
       ],
-      "duration_ms": 370665,
-      "name": "Llena Este Lugar",
-      "url": "https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL"
+      "duration_ms": 244545,
+      "name": "Tu Corazo\u0301n",
+      "url": "https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi"
     },
     {
       "added_at": "2020-11-24 13:23:38",

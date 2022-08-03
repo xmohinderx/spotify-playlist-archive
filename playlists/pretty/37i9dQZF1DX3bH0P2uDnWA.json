@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 297446,
+  "num_followers": 297602,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDcxYjNjMGMwNWQ1MWNiY2EwMWVmMjU0YzhjMzJkN2Uw",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDMxNTc0NGVhZWQ3Yzg1ODUzY2EzNGY2OTI4ZjdkYjg5",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -937,26 +937,6 @@
       "url": "https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "It Don't Mean A Thing (Electro Swing Mix)",
-        "url": "https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL"
-      },
-      "artists": [
-        {
-          "name": "The Hebbe Sisters",
-          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 173735,
-      "name": "It Don't Mean A Thing - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Shotgun Swing",
@@ -983,6 +963,26 @@
       "duration_ms": 277041,
       "name": "Shotgun Swing",
       "url": "https://open.spotify.com/track/4qitoWab2HSAZ9wFKkz1QZ"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "It Don't Mean A Thing (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL"
+      },
+      "artists": [
+        {
+          "name": "The Hebbe Sisters",
+          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 173735,
+      "name": "It Don't Mean A Thing - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1149,30 +1149,6 @@
       "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Ma\u00f1ana (Jojo Effect & Gardener of Delight Remix)",
-        "url": "https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp"
-      },
-      "artists": [
-        {
-          "name": "Jojo Effect",
-          "url": "https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL"
-        },
-        {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg"
-        },
-        {
-          "name": "Gardener of Delight",
-          "url": "https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Ma\u00f1ana - Jojo Effect & Gardener of Delight Remix",
-      "url": "https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Bass Age Big Band",
@@ -1195,6 +1171,30 @@
       "duration_ms": 215625,
       "name": "Comin' Up Swinging",
       "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Ma\u00f1ana (Jojo Effect & Gardener of Delight Remix)",
+        "url": "https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp"
+      },
+      "artists": [
+        {
+          "name": "Jojo Effect",
+          "url": "https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL"
+        },
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg"
+        },
+        {
+          "name": "Gardener of Delight",
+          "url": "https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ma\u00f1ana - Jojo Effect & Gardener of Delight Remix",
+      "url": "https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -1377,24 +1377,20 @@
       "url": "https://open.spotify.com/track/1ImjgOgKUZwZfpLRoYV4ED"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2021-05-28 04:00:00",
       "album": {
-        "name": "King of the Conga (Glenn Gatsby Remix)",
-        "url": "https://open.spotify.com/album/1zTU5qrGjt7pxDhZk7FCy8"
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
       },
       "artists": [
         {
-          "name": "Swing'it",
-          "url": "https://open.spotify.com/artist/2acptETX6n0IHKXyybYgWS"
-        },
-        {
-          "name": "Glenn Gatsby",
-          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+          "name": "Mr. Jazzek",
+          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
         }
       ],
-      "duration_ms": 147619,
-      "name": "King of the Conga - Glenn Gatsby Remix",
-      "url": "https://open.spotify.com/track/10eFj73vJ4gZRrUSdjqOkJ"
+      "duration_ms": 164257,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
     }
   ],
   "unique_name": "Electro Swing",

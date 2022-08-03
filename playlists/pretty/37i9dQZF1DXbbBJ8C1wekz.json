@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 88905,
+  "num_followers": 88982,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYwNzc5NywwMDAwMDAwMDMwMWEwZjI5ZGNhODk3Mjg0ZWE4NWE5NDIzMDdiMjMz",
+  "snapshot_id": "MTYzMDYwNzc5NywwMDAwMDAwMGFkYTQ1N2NmZGRiMDQwNWUwZmVkMjFmMDM5MmFmMDlh",
   "tracks": [
     {
       "added_at": "2021-09-02 18:36:37",
@@ -859,6 +859,26 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
+        "name": "Bail\u00e3o",
+        "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
+      },
+      "artists": [
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "Nobru Black",
+          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
+        }
+      ],
+      "duration_ms": 210616,
+      "name": "Bail\u00e3o",
+      "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
         "name": "Reuni\u00e3o Dos Cria",
         "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 221490,
       "name": "Olha Pro Oclin",
       "url": "https://open.spotify.com/track/5G3NKZf1Gqs7dQnY4Miliy"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
-        "name": "Bail\u00e3o",
-        "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
-      },
-      "artists": [
-        {
-          "name": "Meno Tody",
-          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
-        },
-        {
-          "name": "Nobru Black",
-          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
-        }
-      ],
-      "duration_ms": 210616,
-      "name": "Bail\u00e3o",
-      "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
     },
     {
       "added_at": "2021-09-02 18:36:37",

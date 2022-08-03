@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 
 > Riscopri le più grandi hit del 2013! Cover: Avicii
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,464 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,473 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 83 | [Stardust](https://open.spotify.com/track/3trO6hc3NY7lDrfsKrulVa) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Chiara](https://open.spotify.com/artist/3DVxOsEJxFJeYWTqAUwKTi) | [Stardust](https://open.spotify.com/album/246PwDE7vIW0v6AyLEyuTw) | 3:24 |
 | 84 | [What I Might Do](https://open.spotify.com/track/2K34h28laoZsRtXP8EjVrD) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [Happy Deep House](https://open.spotify.com/album/1fXJPISF4pjl2EAO4IVSUu) | 3:15 |
 | 85 | [Il sale della terra](https://open.spotify.com/track/3jmhqUdrFYMfU8MgPRGLgH) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Mondovisione](https://open.spotify.com/album/53A8DHAKXPagVVuyFRZV45) | 3:58 |
-| 86 | [Se Si Potesse Non Morire](https://open.spotify.com/track/4zjBp0Jp1Ij3e1flAn2BPq) | [Modà](https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu) | [Modà 2004 \- 2014 L'Originale](https://open.spotify.com/album/4PW5FUWDk0kdselXPHiq7y) | 4:18 |
+| 86 | [I See You](https://open.spotify.com/track/7lMPAH4HVReya6P5zCvEuR) | [Jutty Ranx](https://open.spotify.com/artist/657VANLTRgTFElFKbqzhXs) | [Jutty Ranx](https://open.spotify.com/album/5x73et7bgf1F1h77Dhy6KG) | 3:38 |
 | 87 | [Non passerai](https://open.spotify.com/track/23a3Emy57SQYTRJtp8a4LV) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [\#PRONTOACORRERE](https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2) | 3:43 |
-| 88 | [Baciami \(e portami a ballare\)](https://open.spotify.com/track/5vnNlW2AYqQOQM7rtjPbTI) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [Bene così](https://open.spotify.com/album/2R1oLscPGP4jJfBgfPWPby) | 3:22 |
-| 89 | [I See You](https://open.spotify.com/track/7lMPAH4HVReya6P5zCvEuR) | [Jutty Ranx](https://open.spotify.com/artist/657VANLTRgTFElFKbqzhXs) | [Jutty Ranx](https://open.spotify.com/album/5x73et7bgf1F1h77Dhy6KG) | 3:38 |
+| 88 | [Se Si Potesse Non Morire](https://open.spotify.com/track/4zjBp0Jp1Ij3e1flAn2BPq) | [Modà](https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu) | [Modà 2004 \- 2014 L'Originale](https://open.spotify.com/album/4PW5FUWDk0kdselXPHiq7y) | 4:18 |
+| 89 | [Baciami \(e portami a ballare\)](https://open.spotify.com/track/5vnNlW2AYqQOQM7rtjPbTI) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [Bene così](https://open.spotify.com/album/2R1oLscPGP4jJfBgfPWPby) | 3:22 |
 | 90 | [My Head is a Jungle \- Radio Edit](https://open.spotify.com/track/1kGfsEeAvV7a2sxeDX7gc0) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [My Head is a Jungle](https://open.spotify.com/album/0VCc6QGh7rEPEGtOuUOUJ1) | 3:33 |
 | 91 | [La Tua Canzone \- Semi\-Acoustic](https://open.spotify.com/track/5mnZ60if53M3254hw0shSK) | [Negrita](https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2) | [Déjà Vu](https://open.spotify.com/album/2zpyAs9Py7AXEzeSk1mXqg) | 4:24 |
 | 92 | [La Nuova Stella Di Broadway \- Remastered 2019](https://open.spotify.com/track/74fH2e2XNsBt35U0lfhI47) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [2C2C](https://open.spotify.com/album/2QZokHy4nyBsOySWxoBI5x) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 99 | [Molto calmo](https://open.spotify.com/track/5iR5wz6QEeztfTzvjnE0ZU) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Molto calmo](https://open.spotify.com/album/3gw4CHycpl8mNDQvGPrnRa) | 4:01 |
 | 100 | [Estate](https://open.spotify.com/track/6dUPWpXhmexfAdZxNjG0Oa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Backup 1987 \- 2012](https://open.spotify.com/album/1oNnkbIz7o0JbA2KWI73l6) | 3:54 |
 
-Snapshot ID: `MTYwNDUwMDI2MSwwMDAwMDAwMGVlYzJmYzJkZjBjM2JlZjFlYTc2OTAwM2UwZDU3Yzcz`
+Snapshot ID: `MTYwNDUwMDI2MSwwMDAwMDAwMGQwZDg2YWEyY2UyZmFiOWQxNDgwMmY1N2QzMjVmMzAy`

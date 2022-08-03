@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Beyoncé 🐝
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,094 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,090 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 82 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
 | 83 | [Easy Rider](https://open.spotify.com/track/5r7dKu7EE2N1HHo09EbV8w) | [Black Mountain Whiskey Rebellion](https://open.spotify.com/artist/0dMSxrsk9Xg3vnExMbMN98) | [Easy Rider](https://open.spotify.com/album/6eOXNHxytfUye8HMgvVQ0y) | 3:02 |
 | 84 | [Just To See You Smile](https://open.spotify.com/track/31fAlCZ3eVL0981LG2hOVi) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Just To See You Smile](https://open.spotify.com/album/58c9WlRAThSshA0zPJlv1x) | 4:59 |
-| 85 | [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 |
+| 85 | [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 |
 | 86 | [Exaltation](https://open.spotify.com/track/164sawkuDE0OKLANV95jnk) | [Milla Thyme](https://open.spotify.com/artist/2t7K7CuQZ7CD26LPGBm9Ch), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Exaltation](https://open.spotify.com/album/09smMenyIKKI94lH9ccTGG) | 4:24 |
 | 87 | [Party Favors](https://open.spotify.com/track/0vrnkSk8I2o8iHJyXYPw32) | [ELLIAS](https://open.spotify.com/artist/5R5ZarFSzQtl4iDwGOKSEa), [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [Party Favors](https://open.spotify.com/album/6BDZ0g2uJO6OZopCPybjP4) | 2:10 |
 | 88 | [ME SIENTO FELIZ](https://open.spotify.com/track/3ejGPL3ZvGPjl2QutLRdae) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ME SIENTO FELIZ](https://open.spotify.com/album/4IyZFTHWLcw8Sng47OMRR1) | 2:01 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 101 | [Miss Miss Miss](https://open.spotify.com/track/2C2ThMDcEbG3exx1nHmW9g) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Miss Miss Miss](https://open.spotify.com/album/29368c8WE9XT7lsmkPG5GY) | 3:37 |
 | 102 | [Crazy He Calls Me](https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Crazy He Calls Me](https://open.spotify.com/album/1S0Arx1e1OK0XWnb41R7fx) | 2:30 |
 
-Snapshot ID: `MTY1OTA2ODkzOSwwMDAwMDAwMGQ4Y2Y2N2JhN2VhM2Y0N2Q0NjE1OWI4ZDUzMjdiMTYw`
+Snapshot ID: `MTY1OTA2ODkzOSwwMDAwMDAwMGQwZjRkMjU5MzE3ZDUyZTVjZTdhYWE5MTMzZmQ4NmQ2`

@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Sarah L\-ee
 
-1,750 songs - 4 day 11 hr 53 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+1,752 songs - 4 day 12 hr 0 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [Sugar Swing Sorbet](https://open.spotify.com/track/4v3DfUo8IYqvuAyA9xlb78) | [Aice room](https://open.spotify.com/artist/1ALuROjCqY0flaCOTKJ1OR) | [Sugar Swing Sorbet](https://open.spotify.com/album/48vZTm3M0hKFUAmg40M2mp) | 3:17 | 2021-11-10 | 2021-12-01 |
 | [Suki](https://open.spotify.com/track/4EwFfgL6ljn9ihPw82uENo) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Suki](https://open.spotify.com/album/4FSCl70qEsQocSVjyuvE6v) | 2:52 | 2022-08-01 |  |
 | [summer](https://open.spotify.com/track/5sRu3Na48zZg1H17gAjdPB) | [SMOKY & THE SUGAR GLIDER](https://open.spotify.com/artist/6sM9yXnN3VqWwMnaKZvi6G) | [summer](https://open.spotify.com/album/0NGKs0gjDhVGszvGTP8oCO) | 4:25 | 2022-07-18 | 2022-07-29 |
-| [summer](https://open.spotify.com/track/7pJa1rym2s0myaTZe5LtwK) | [SMOKY & THE SUGAR GLIDER](https://open.spotify.com/artist/6sM9yXnN3VqWwMnaKZvi6G) | [summer](https://open.spotify.com/album/2ZK0eRlllTYFCLMbflTksh) | 4:25 | 2022-07-25 |  |
+| [summer](https://open.spotify.com/track/7pJa1rym2s0myaTZe5LtwK) | [SMOKY & THE SUGAR GLIDER](https://open.spotify.com/artist/6sM9yXnN3VqWwMnaKZvi6G) | [summer](https://open.spotify.com/album/2ZK0eRlllTYFCLMbflTksh) | 4:25 | 2022-07-25 | 2022-08-03 |
 | [summer night's dream](https://open.spotify.com/track/0uQbC5fTSdDQb99nsAKYhg) | [aymk](https://open.spotify.com/artist/1fP8eVkrKyDKjBnjSGoxTb) | [summer night's dream](https://open.spotify.com/album/7nw0FqoDzU0nT22qQN9bzv) | 2:16 | 2021-11-16 | 2021-12-08 |
 | [SUMMER NUDE](https://open.spotify.com/track/7l9onEdVYUK5RPh5TxTSSF) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [SUMMER NUDE](https://open.spotify.com/album/0cDZaBapsWJWOsfAjxK9ah) | 5:21 | 2022-07-04 | 2022-07-19 |
 | [Summer麺](https://open.spotify.com/track/05irBu5abg6yLZcmHtSk0p) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [Summer麺](https://open.spotify.com/album/4Lir5LtmE8m0cWEeocZHwh) | 3:00 | 2022-07-04 | 2022-07-12 |
@@ -1039,6 +1039,7 @@
 | [アーカイブ成仏](https://open.spotify.com/track/17c7m0swoLSYhmwMhfozn0) | [予感](https://open.spotify.com/artist/3LDUFLKnc3Fp3oBYxMS7z4) | [アーカイブ成仏](https://open.spotify.com/album/71wS6azR9V4pAHBUO67gJg) | 3:16 | 2022-05-16 | 2022-05-25 |
 | [イエロウ](https://open.spotify.com/track/13PiYYktV3bZXV6WReyNk8) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [イエロウ](https://open.spotify.com/album/5pxTFG0piWQz3ieHSrkZEz) | 3:48 | 2021-11-16 | 2021-12-15 |
 | [イチグラム](https://open.spotify.com/track/1j5tPvuwXJ9hPVlJNiBBxS) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [イチグラム](https://open.spotify.com/album/1dRegPKacLDyOBiVJqCT0r) | 4:31 | 2022-06-20 | 2022-07-05 |
+| [イミテイション \(starring 珀\)](https://open.spotify.com/track/3DQH7at5thxDmUMsD65Lzo) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [珀](https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L) | [イミテイション \(starring 珀\)](https://open.spotify.com/album/4npreCVmUEi2UeRSyEwUYK) | 2:49 | 2022-08-02 |  |
 | [インベーダー](https://open.spotify.com/track/7vAjjNfnUcZh1OxI8HE2py) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [現在地未明](https://open.spotify.com/album/2D1TbXOxpQj4zm5VlDetnk) | 2:40 | 2022-03-28 | 2022-04-06 |
 | [イン・マイ・ヘッド](https://open.spotify.com/track/77eD5jfQrrEjOYobUVBNuB) | [トナリノサティ](https://open.spotify.com/artist/6hLQxYUIxrMWCkCUVB0P18) | [イン・マイ・ヘッド](https://open.spotify.com/album/4UTtJDQH9aT9FjnZEjeTkJ) | 3:21 | 2022-02-07 | 2022-02-15 |
 | [ウキウキ雨季](https://open.spotify.com/track/6pInpDnUF4hCHPnFYA5iFa) | [東京○X問題](https://open.spotify.com/artist/7a6opgruoQHR0qzCfFqph8) | [ウキウキ雨季](https://open.spotify.com/album/6kv35orP4WG7qyDNDEDY0b) | 5:01 | 2021-11-03 | 2021-11-16 |
@@ -1227,7 +1228,7 @@
 | [ビーユアセルフ](https://open.spotify.com/track/6fuPQmNR5pwfIxDKOMiTGP) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ビーユアセルフ](https://open.spotify.com/album/1QRiQT3roPTvhmDB0LNuX3) | 3:16 | 2021-12-21 | 2022-01-17 |
 | [ピルグリム](https://open.spotify.com/track/2FXqBnvTCLTrxcRrkAG3my) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [ピルグリム](https://open.spotify.com/album/6Ahb5zBPAvcwILtyrNQCjU) | 3:47 | 2022-05-10 | 2022-05-25 |
 | [ピンキーフック](https://open.spotify.com/track/0VYYvHAZPLPU36fLB8ko1S) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [ピンキーフック](https://open.spotify.com/album/0phcqbKgsgFl6sj6ZvK3BR) | 4:15 | 2022-08-01 |  |
-| [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-18 |  |
+| [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-18 | 2022-08-03 |
 | [フィルター](https://open.spotify.com/track/1ie8ekOnoMN7wG80o8SNe0) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [フィルター](https://open.spotify.com/album/4P8ebphEF1O38Xj5V8o37K) | 3:28 | 2022-01-24 | 2022-03-15 |
 | [フェーダー](https://open.spotify.com/track/0c5nSYCww2OAFTjVuQrpDj) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [現在地未明](https://open.spotify.com/album/2D1TbXOxpQj4zm5VlDetnk) | 2:51 | 2022-03-14 | 2022-04-20 |
 | [フォトフレーム](https://open.spotify.com/track/3SbR5L0c7L3z2ayQDsRs2w) | [ORCALAND](https://open.spotify.com/artist/2tUNHY1YtygK9HsSboP3w8) | [フォトフレーム](https://open.spotify.com/album/4s9l3HQFFQEydqEF50XEk6) | 4:15 | 2021-10-13 | 2021-10-20 |
@@ -1660,6 +1661,7 @@
 | [花に水](https://open.spotify.com/track/7paYT3j1hydzIAsQnt7zbX) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [花に水](https://open.spotify.com/album/4Q4fuq07usk9hyQJT4zbkS) | 3:00 | 2022-04-11 | 2022-05-11 |
 | [花の便り](https://open.spotify.com/track/2QBOeWDVQiqVoozOxHYAuo) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [花の便り](https://open.spotify.com/album/1v34YXhuqzKp7dUgm8XA0m) | 5:11 | 2022-04-25 | 2022-05-11 |
 | [花冷列車](https://open.spotify.com/track/5uYMEDfnSCe3wQXaiZTyVC) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [花冷列車](https://open.spotify.com/album/3w7T4FyK8MOgQRoXlKDBep) | 3:43 | 2022-02-07 | 2022-03-02 |
+| [花明かり](https://open.spotify.com/track/5SaPKmt6MFYEh0y388Otr9) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [花明かり](https://open.spotify.com/album/5ihTotDIoCAKjCEXis4GQp) | 3:40 | 2022-08-02 |  |
 | [花火](https://open.spotify.com/track/445ClT4e6nCWUb8GzUXGjs) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:32 | 2022-01-31 | 2022-02-15 |
 | [花火を見に行こう](https://open.spotify.com/track/1zY7uGedoz2FtDI4QOPfQd) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花火を見に行こう](https://open.spotify.com/album/75fC0NjmZmBJLjtCc9EsF0) | 4:15 | 2022-07-18 | 2022-07-26 |
 | [花瓶](https://open.spotify.com/track/3S5obhtZyw30dJ2lfCualn) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:27 | 2022-06-14 | 2022-07-12 |

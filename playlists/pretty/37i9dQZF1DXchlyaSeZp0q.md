@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > The sad side of soul\. Cover: Harold Melvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,671 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,767 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 34 | [This Feeling's Killing Me](https://open.spotify.com/track/5gAMkPxCW7pB61JchjPKTd) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:30 |
 | 35 | [Do What You Gotta Do](https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:09 |
 | 36 | [Without You](https://open.spotify.com/track/67YNqbykfHQb8ZyMfnHE2J) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 3:16 |
-| 37 | [Living All Alone](https://open.spotify.com/track/4nugpdIdJurNQXCDVei9WS) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 5:07 |
-| 38 | [When Am I Gonna Find True Love](https://open.spotify.com/track/4EoksISB2vqoRmbKyFms3x) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:22 |
+| 37 | [When Am I Gonna Find True Love](https://open.spotify.com/track/4EoksISB2vqoRmbKyFms3x) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:22 |
+| 38 | [Living All Alone](https://open.spotify.com/track/4nugpdIdJurNQXCDVei9WS) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 5:07 |
 | 39 | [Cry to Me](https://open.spotify.com/track/4nukRzBYAvqhLP1OfHpEOk) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Cry to Me](https://open.spotify.com/album/2P97oP8M7OkYP7r8vlcUXD) | 5:48 |
 | 40 | [What I Need Is Love](https://open.spotify.com/track/46zfaRtWBbR8nd5myuH6JQ) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:28 |
 
-Snapshot ID: `MTYzNjYzOTMzOCwwMDAwMDAwMDMzNzJiMDNlMzQ1ZjJkZDYxN2NjZDUzYjkxNTJiY2U0`
+Snapshot ID: `MTYzNjYzOTMzOCwwMDAwMDAwMDVlZDA3NWFlYzJhOWM1MDU3YTk1NjJlYjUwNzlmZjE4`

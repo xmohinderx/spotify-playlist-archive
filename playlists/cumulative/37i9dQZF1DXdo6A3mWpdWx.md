@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Vengaboys.
 
-294 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
+295 songs - 20 hr 3 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Don't Stop \(Wiggle Wiggle\) \- OHB Radio Edit](https://open.spotify.com/track/59iinItceTkO05vu2Yf6kX) | [The Outhere Brothers](https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK) | [1 Polish 2 Biscuits & a Fish Sandwich](https://open.spotify.com/album/3w2YJTPFOXO793xcjPhBWJ) | 3:17 | 2021-09-08 | 2022-05-22 |
 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 | 2021-09-08 | 2022-05-02 |
 | [Don't Talk Just Kiss](https://open.spotify.com/track/4mrbbOwCgfgxiYy8kaVyAO) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 4:01 | 2021-09-08 | 2022-07-29 |
+| [Don't Turn Around](https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:50 | 2021-09-08 |  |
 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 | 2021-09-08 |  |
 | [Don't Worry](https://open.spotify.com/track/4jP1ex7l0wwogPtcvmGoIe) | [Kim Appleby](https://open.spotify.com/artist/5GGArKyB5Mg7kTFZYJ2P5n) | [Kim Appleby](https://open.spotify.com/album/2JgEPGcQlBAxwmUdyr8Nqn) | 3:30 | 2021-09-08 | 2022-07-29 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2021-03-22 |  |
@@ -272,7 +273,7 @@
 | [Try Me Out](https://open.spotify.com/track/2QbuqnxPaHCsYnlbAZDxvV) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:26 | 2021-09-08 | 2022-02-25 |
 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 | 2021-09-08 |  |
 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 | 2021-03-22 |  |
-| [Turn On, Tune In, Cop Out \- Radio Edit](https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc) | [Freak Power](https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ) | [Drive\-Thru Booty](https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2) | 4:24 | 2021-09-08 |  |
+| [Turn On, Tune In, Cop Out \- Radio Edit](https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc) | [Freak Power](https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ) | [Drive\-Thru Booty](https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2) | 4:24 | 2021-09-08 | 2022-08-03 |
 | [Twist And Shout](https://open.spotify.com/track/4wrS2dvdYei9jZN0JlUBP6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Jack Radics](https://open.spotify.com/artist/0YeIluqMsCUwn5NC3TG2iQ), [The Taxi Gang](https://open.spotify.com/artist/2Af07b1sTnXHHSdCqdLSfy) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 3:57 | 2021-09-08 |  |
 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 | 2021-03-22 |  |
 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 | 2021-03-22 |  |

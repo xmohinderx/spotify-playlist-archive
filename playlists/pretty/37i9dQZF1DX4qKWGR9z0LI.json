@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Figueroa ",
-  "num_followers": 1776576,
+  "num_followers": 1776704,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDAwMDhiYTUyNjM2MjAxNDE0Y2MzZGFkMjE5ZjA5Mzk1OWNj",
+  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDAwMGJiMDVhZWNmN2NlNmE5MjAxYjdmMzNmNDBmZDRmNzRl",
   "tracks": [
     {
       "added_at": "2022-05-20 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Pa' Bravo Yo",
         "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224826,
       "name": "Pa' Bravo Yo",
       "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Aut\u00e9ntico",
-        "url": "https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Gal\u00e9",
-          "url": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP"
-        }
-      ],
-      "duration_ms": 279080,
-      "name": "El Amor de Mi Vida \"Se Fue\"",
-      "url": "https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Aut\u00e9ntico",
+        "url": "https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Gal\u00e9",
+          "url": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP"
+        }
+      ],
+      "duration_ms": 279080,
+      "name": "El Amor de Mi Vida \"Se Fue\"",
+      "url": "https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 217547,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
         "name": "V\u00edctimas las Dos",
         "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 327563,
       "name": "La Mejor de Todas",
       "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Probablemente",
-        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 217547,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Cosas Bonitas",
-        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260632,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Cosas Bonitas",
+        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260632,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Oro Salsero (Vol 2)",
-        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
+        "name": "Suma y Resta",
+        "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 298546,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
+      "duration_ms": 188364,
+      "name": "Suma y Resta",
+      "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1283,6 +1287,22 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
+        "name": "Oro Salsero (Vol 2)",
+        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 298546,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
         "name": "Baila Salsa",
         "url": "https://open.spotify.com/album/4KgZ95pJXdav7toOFbXHJY"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 249160,
       "name": "Viene y Se Va",
       "url": "https://open.spotify.com/track/3KOFm25dQCHhfMuEDNybKT"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Suma y Resta",
-        "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
-      },
-      "artists": [
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 188364,
-      "name": "Suma y Resta",
-      "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Los Oscares De Oscar",
-        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Noches Latinas 3",
         "url": "https://open.spotify.com/album/0s0La7WuGMvIygNDPbdjgr"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 243226,
       "name": "Ven, Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/77K4xv3gZ8LNt1TamTQbPo"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
+        "name": "From Miami a La Habana",
+        "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "El Dinero",
+      "url": "https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
         "name": "Sin Amenazas",
         "url": "https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "From Miami a La Habana",
-        "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
+        "name": "Mis Ojos Lloran por T\u00ed",
+        "url": "https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R"
       },
       "artists": [
         {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
         }
       ],
-      "duration_ms": 263680,
-      "name": "El Dinero",
-      "url": "https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3"
+      "duration_ms": 258786,
+      "name": "Mis Ojos Lloran por T\u00ed",
+      "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 245163,
       "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
       "url": "https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Mis Ojos Lloran por T\u00ed",
-        "url": "https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R"
-      },
-      "artists": [
-        {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
-        }
-      ],
-      "duration_ms": 258786,
-      "name": "Mis Ojos Lloran por T\u00ed",
-      "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
     }
   ],
   "unique_name": "Salsa Nation",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: BOIZ, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,759 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,760 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 19 | [All Day](https://open.spotify.com/track/7msEKmRijEFvzURO1xypln) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [All Day](https://open.spotify.com/album/2aoWmpomn6M2X4Xk5KFKYk) | 2:56 |
 | 20 | [In the Eyes of a Child](https://open.spotify.com/track/0w1SDIcl1pUxhXVWKrGbER) | [Keane Trinity](https://open.spotify.com/artist/0AALQbq0DLVQ6fezyIuViv) | [LIFE](https://open.spotify.com/album/5gNpZJJ2EEk1qvo49G6CPi) | 2:28 |
 | 21 | [Ayusen](https://open.spotify.com/track/5mexzZniVnBU5HbrTjZuxE) | [Soultary](https://open.spotify.com/artist/4grMV6pfxotpPx6i4KVf49) | [Ayusen](https://open.spotify.com/album/2gczg6mU8jYSWuxCYuG8iH) | 3:44 |
-| 22 | [Horizon](https://open.spotify.com/track/4msXqfubQxEvF4ooCU2mAV) | [Cydel](https://open.spotify.com/artist/17BHZBOCKQZpUISW5h1qiU), [marc fichel](https://open.spotify.com/artist/2S6D4BW0DDQSyHmP6QZVoh) | [Horizon](https://open.spotify.com/album/0EoRwIxg4S1rrq7gnyTSWf) | 3:28 |
+| 22 | [Horizon](https://open.spotify.com/track/4msXqfubQxEvF4ooCU2mAV) | [Cydel](https://open.spotify.com/artist/17BHZBOCKQZpUISW5h1qiU), [Marc Fichel](https://open.spotify.com/artist/2TGGjdRcepSJLfwg6YB9Zl) | [Horizon](https://open.spotify.com/album/0EoRwIxg4S1rrq7gnyTSWf) | 3:28 |
 | 23 | [Open Up](https://open.spotify.com/track/2j5JqMAIefsuIofiqoWKfe) | [Meg Ruiz](https://open.spotify.com/artist/7wWYbs3ZjtEM83TFUjkXCR) | [Open Up](https://open.spotify.com/album/53mQKOOdYmj1GTqZzyIpZE) | 3:10 |
 | 24 | [Hot Maria Clara](https://open.spotify.com/track/6N9GWoGVnaU4v34zXXusQ7) | [Sanya Lopez](https://open.spotify.com/artist/2a6QUNiSghqAzg1sZ621vq) | [Hot Maria Clara](https://open.spotify.com/album/0hq7NRkLIIp1SUY1UMH70z) | 2:52 |
 | 25 | [convenient](https://open.spotify.com/track/4Ik2gXDNY5Mzn01VfY7cUr) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z) | [convenient](https://open.spotify.com/album/0EEo7EHLa5MNpExOBwjht1) | 3:21 |

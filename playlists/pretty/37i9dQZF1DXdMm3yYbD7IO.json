@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 128333,
+  "num_followers": 128404,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDIxNTkxMCwwMDAwMDAwMDg4ZTg2YWJjMmQ4NWE3ODZlZmVjY2I5OWM1ZTMwOWNj",
+  "snapshot_id": "MTY0MDIxNTkxMCwwMDAwMDAwMDYyOTRlNTA3YmRjYzRmNzUxNjA0NDY4NDk1NTdmNGJm",
   "tracks": [
     {
       "added_at": "2021-12-22 23:31:50",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-12-22 23:31:50",
       "album": {
+        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
+      },
+      "artists": [
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Jump Around - 30 Years Remaster",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "added_at": "2021-12-22 23:31:50",
+      "album": {
         "name": "Naughty By Nature",
         "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2021-12-22 23:31:50",
-      "album": {
-        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
-      },
-      "artists": [
-        {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Jump Around - 30 Years Remaster",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
     },
     {
       "added_at": "2021-12-22 23:31:50",

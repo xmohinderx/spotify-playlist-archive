@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Abel Pintos
 
-143 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
+144 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Por Tu Amor \- Si Fuera Mía](https://open.spotify.com/track/5qELKdEhxaAjYKROyf52C8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Si Fuera Mía \- EP](https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx) | 3:20 | 2022-07-22 |  |
 | [Primera Carta](https://open.spotify.com/track/3VdyHA9vN9CiL9OPizGd0H) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Primera Carta](https://open.spotify.com/album/5Fl3uNVlwnFmHrvkiBMRWL) | 4:18 | 2022-01-14 | 2022-04-02 |
 | [providencia111](https://open.spotify.com/track/699DNqDW75pAtQuvbXSOEb) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:55 | 2022-01-14 | 2022-04-16 |
-| [Qué Pena](https://open.spotify.com/track/7C4VynskxHgu4EvyudDZCC) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Qué Pena](https://open.spotify.com/album/5cyrC29CWasWVxGmSENhnj) | 3:46 | 2022-01-14 |  |
+| [Qué Pena](https://open.spotify.com/track/7C4VynskxHgu4EvyudDZCC) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Qué Pena](https://open.spotify.com/album/5cyrC29CWasWVxGmSENhnj) | 3:46 | 2022-01-14 | 2022-08-03 |
 | [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 | 2022-01-21 |  |
 | [Ramo De Flores](https://open.spotify.com/track/3C4HM8kntx7fwUEYdAMKPP) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Ramo De Flores](https://open.spotify.com/album/4IzQFp690PikKWoDL4xRt6) | 3:13 | 2022-01-14 |  |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-04-01 |  |
@@ -135,6 +135,7 @@
 | [Te Olvidaré](https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 3:14 | 2022-01-14 | 2022-07-23 |
 | [Te Quiero](https://open.spotify.com/track/67Rux9WNh2bIIK0Ub1prft) | [Jo Dimata](https://open.spotify.com/artist/5sTptBGZPv9RocQoROWhAp) | [Te Quiero](https://open.spotify.com/album/6zSxml88fNR8yHBztM0ZcQ) | 4:12 | 2022-05-20 |  |
 | [Te Quiero X Eso](https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Te Quiero X Eso](https://open.spotify.com/album/6EMS97vhi3QuWjD8xkt7Uc) | 3:30 | 2022-01-14 |  |
+| [Tu Despertador](https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tu Despertador](https://open.spotify.com/album/59YFx65z9ZB7oXbNdyzZDr) | 3:18 | 2022-08-02 |  |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 | 2022-01-14 | 2022-05-07 |
 | [Tu Recuerdo](https://open.spotify.com/track/2IlmFRKKq1sLztL2tqVXOF) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tu Recuerdo](https://open.spotify.com/album/0PdZLU3xjGEpv3xseGRnFF) | 4:10 | 2022-01-14 | 2022-04-16 |
 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 | 2022-01-14 | 2022-05-07 |

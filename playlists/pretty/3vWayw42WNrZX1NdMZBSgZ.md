@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: CNCO &amp; Kenia Os
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,865 likes - 255 songs - 14 hr 5 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,864 likes - 255 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

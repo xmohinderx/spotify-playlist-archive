@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 26161,
+  "num_followers": 26183,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDFlY2MwZTNiNjE0OGEzYjgwOWFhMGY4NmM2OTA3NmY0",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGExZTIyNjQxYWUwZGU3ZTE0MWYzMjU2ZWYyY2EzNTgz",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -105,20 +105,20 @@
       "url": "https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
+      "added_at": "2019-02-12 08:16:33",
       "album": {
-        "name": "Sibongile",
-        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+        "name": "Dark Days Exit",
+        "url": "https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m"
       },
       "artists": [
         {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+          "name": "Felix Laband",
+          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
         }
       ],
-      "duration_ms": 351053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
+      "duration_ms": 471973,
+      "name": "Whistling In Tongues",
+      "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
     },
     {
       "added_at": "2019-03-07 11:13:19",
@@ -141,20 +141,20 @@
       "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
     },
     {
-      "added_at": "2019-02-12 08:16:33",
+      "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Dark Days Exit",
-        "url": "https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m"
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
       "artists": [
         {
-          "name": "Felix Laband",
-          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
         }
       ],
-      "duration_ms": 471973,
-      "name": "Whistling In Tongues",
-      "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
     },
     {
-      "added_at": "2019-09-24 07:46:15",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Brothers",
-          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Ngeke Ndiphinde",
-      "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
-    },
-    {
       "added_at": "2019-02-03 07:20:41",
       "album": {
         "name": "All or Nothing",
@@ -407,6 +391,22 @@
       "duration_ms": 224493,
       "name": "She Always Gets What She Wants",
       "url": "https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG"
+    },
+    {
+      "added_at": "2019-09-24 07:46:15",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Brothers",
+          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Ngeke Ndiphinde",
+      "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
+      "added_at": "2019-02-03 07:29:50",
+      "album": {
+        "name": "Njalo",
+        "url": "https://open.spotify.com/album/2c0QIpMZq8E0lupodMSBJT"
+      },
+      "artists": [
+        {
+          "name": "Mina Nawe",
+          "url": "https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0"
+        }
+      ],
+      "duration_ms": 263293,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj"
+    },
+    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Respect Toasted Gona' Ganati",
@@ -743,22 +759,6 @@
       "duration_ms": 315653,
       "name": "Bengim'ngaka",
       "url": "https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM"
-    },
-    {
-      "added_at": "2019-02-03 07:29:50",
-      "album": {
-        "name": "Njalo",
-        "url": "https://open.spotify.com/album/2c0QIpMZq8E0lupodMSBJT"
-      },
-      "artists": [
-        {
-          "name": "Mina Nawe",
-          "url": "https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0"
-        }
-      ],
-      "duration_ms": 263293,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj"
     },
     {
       "added_at": "2019-02-03 06:58:55",

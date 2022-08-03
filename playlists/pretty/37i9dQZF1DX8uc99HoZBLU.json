@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83c\udf38 ",
-  "num_followers": 585554,
+  "num_followers": 586523,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3Nzc0NywwMDAwMDAwMGZmN2FjMzVhNjhiMmNhYmJlMzNjNWYwODZmYzYyYTcw",
+  "snapshot_id": "MTY1OTQ2ODkxNCwwMDAwMDAwMGJiNzU3YTg2ZTQ5YmFmN2IzNTI0ZjNkN2ZiMmNmNmE2",
   "tracks": [
     {
       "added_at": "2022-07-19 20:03:23",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5"
     },
     {
+      "added_at": "2022-08-02 19:35:14",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
       "added_at": "2022-07-19 20:03:23",
       "album": {
         "name": "Salad Days",
@@ -363,22 +379,6 @@
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
-        "name": "Looking Out for You",
-        "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
       },
       "artists": [
         {
-          "name": "Joy Again",
-          "url": "https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk"
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
         }
       ],
-      "duration_ms": 179499,
-      "name": "Looking Out for You",
-      "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
+        "name": "Looking Out for You",
+        "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Joy Again",
+          "url": "https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk"
         }
       ],
-      "duration_ms": 175960,
-      "name": "Bubble Gum",
-      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
+      "duration_ms": 179499,
+      "name": "Looking Out for You",
+      "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262231,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -515,6 +515,22 @@
       "duration_ms": 210158,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1CDvKCXfwqwPhU4BSdGM7P"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -583,22 +599,6 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
         "name": "recently",
         "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -667,22 +683,6 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
         "name": "at least i'm pretty",
         "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
       },
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
         "name": "Dancing in My Room",
         "url": "https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta"
       },
@@ -711,6 +727,22 @@
       "duration_ms": 180138,
       "name": "Dancing in My Room",
       "url": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
+        "name": "Shootout",
+        "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        }
+      ],
+      "duration_ms": 295308,
+      "name": "Shootout",
+      "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -751,18 +783,18 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
-        "name": "Shootout",
-        "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
+        "name": "Prom Night",
+        "url": "https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ"
       },
       "artists": [
         {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 295308,
-      "name": "Shootout",
-      "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
+      "duration_ms": 145899,
+      "name": "Prom Night",
+      "url": "https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -779,22 +811,6 @@
       "duration_ms": 456000,
       "name": "Lover Is a Day",
       "url": "https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
-        "name": "Prom Night",
-        "url": "https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 145899,
-      "name": "Prom Night",
-      "url": "https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
-        "name": "Cherry Wine",
-        "url": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 173286,
-      "name": "Cherry Wine",
-      "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
         "name": "#miles",
         "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 115138,
       "name": "#miles",
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 173286,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -891,6 +907,22 @@
       "duration_ms": 211613,
       "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
+        "name": "dc snuff film / waste yrself",
+        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "haunt me (x 3)",
+      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -943,22 +975,6 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
-        "name": "dc snuff film / waste yrself",
-        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "haunt me (x 3)",
-      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
         "name": "Flaming Hot Cheetos",
         "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 123884,
       "name": "Flaming Hot Cheetos",
       "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 182678,
-      "name": "like i need u",
-      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -1039,6 +1039,22 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
+        "name": "THE REAPER",
+        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "like i need u",
+      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2022-07-19 20:03:23",
       "album": {
-        "name": "WILLOW",
-        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143640,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
         "name": "I'll Keep You Safe",
         "url": "https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 185875,
       "name": "I'll Keep You Safe",
       "url": "https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11"
+    },
+    {
+      "added_at": "2022-07-19 20:03:23",
+      "album": {
+        "name": "WILLOW",
+        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143640,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
     },
     {
       "added_at": "2022-07-19 20:03:23",
@@ -1243,22 +1259,6 @@
       "duration_ms": 212881,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
-    },
-    {
-      "added_at": "2022-07-19 20:03:23",
-      "album": {
-        "name": "Yellow Hearts",
-        "url": "https://open.spotify.com/album/7L5mva8yC5ctamvs4XzgpR"
-      },
-      "artists": [
-        {
-          "name": "Ant Saunders",
-          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
-        }
-      ],
-      "duration_ms": 223257,
-      "name": "Yellow Hearts",
-      "url": "https://open.spotify.com/track/2W4yABdLc4Jnds67Poi5Nl"
     }
   ],
   "unique_name": "aesthetic",

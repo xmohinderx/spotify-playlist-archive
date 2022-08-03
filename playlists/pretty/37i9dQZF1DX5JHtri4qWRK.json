@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 3500,
+  "num_followers": 3513,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ4NjYxNiwwMDAwMDAwMGRhYWQ5NGRjMjNkYzZlMDkxMjUxOTliYjIwNjY4ODRi",
+  "snapshot_id": "MTYzOTQ4NjYxNiwwMDAwMDAwMDIyMzIzMjAwNjRjYmEyYTdhNTM4OTM5NTc4OTdmYWY3",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "From The Bottom Up",
-        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
-      },
-      "artists": [
-        {
-          "name": "Brownstone",
-          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
-        }
-      ],
-      "duration_ms": 304160,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 260399,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+      },
+      "artists": [
+        {
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+        }
+      ],
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Toni Braxton",
-        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 249013,
       "name": "Try Sleeping with a Broken Heart",
       "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Toni Braxton",
+        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Make Me Cry",
-        "url": "https://open.spotify.com/album/71SoFumWoKRAZkH2ekWYpF"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 162973,
-      "name": "Make Me Cry",
-      "url": "https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 249253,
       "name": "Torn",
       "url": "https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Make Me Cry",
+        "url": "https://open.spotify.com/album/71SoFumWoKRAZkH2ekWYpF"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 162973,
+      "name": "Make Me Cry",
+      "url": "https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk"
     },
     {
       "added_at": "2021-12-14 12:56:56",

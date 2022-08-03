@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 522707,
+  "num_followers": 522958,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NjY4NSwwMDAwMDAwMDU1MzYxZjIyZGMyMGMzNGE0ZTkzMTZkYzEzNTAwZTZh",
+  "snapshot_id": "MTY1ODg1NjY4NSwwMDAwMDAwMGVlYzRjNTdkZTBmZmVjNGJkYTE0NGNiNTI0OTM4NGJk",
   "tracks": [
     {
       "added_at": "2022-07-26 17:31:25",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-07-26 17:31:25",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
+    },
+    {
+      "added_at": "2022-07-26 17:31:25",
+      "album": {
         "name": "Me Fije",
         "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 202320,
       "name": "Me Fije",
       "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
-    },
-    {
-      "added_at": "2022-07-26 17:31:25",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
     },
     {
       "added_at": "2022-07-26 17:31:25",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-07-26 17:31:25",
       "album": {
+        "name": "INTER SHIBUYA - LA MAFIA",
+        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 162520,
+      "name": "JORDAN IV",
+      "url": "https://open.spotify.com/track/5ZyNCQmxZlYZfAHeJXTkI2"
+    },
+    {
+      "added_at": "2022-07-26 17:31:25",
+      "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 205565,
       "name": "Air Drop",
       "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
-    },
-    {
-      "added_at": "2022-07-26 17:31:25",
-      "album": {
-        "name": "INTER SHIBUYA - LA MAFIA",
-        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 162520,
-      "name": "JORDAN IV",
-      "url": "https://open.spotify.com/track/5ZyNCQmxZlYZfAHeJXTkI2"
     },
     {
       "added_at": "2022-07-26 17:31:25",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2022-07-26 17:31:25",
       "album": {
-        "name": "The Sensation",
-        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Qu\u00e9 M\u00e1s Pues",
-      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
-    },
-    {
-      "added_at": "2022-07-26 17:31:25",
-      "album": {
         "name": "FERXXO (VOL 1: M.O.R)",
         "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 232653,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
+    },
+    {
+      "added_at": "2022-07-26 17:31:25",
+      "album": {
+        "name": "The Sensation",
+        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Qu\u00e9 M\u00e1s Pues",
+      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
     },
     {
       "added_at": "2022-07-26 17:31:25",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2022-07-26 17:31:25",
       "album": {
+        "name": "Not Steady",
+        "url": "https://open.spotify.com/album/1XGuAokaFjAkpGmOEllsoD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 190784,
+      "name": "Not Steady",
+      "url": "https://open.spotify.com/track/42ArfZUgGo3k5btIHp08it"
+    },
+    {
+      "added_at": "2022-07-26 17:31:25",
+      "album": {
         "name": "Me Gustas Natural",
         "url": "https://open.spotify.com/album/4XSn49wF97s5ERSoQv6dJL"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 170078,
       "name": "Me Gustas Natural",
       "url": "https://open.spotify.com/track/4G0Pi1VhIgycBfq5KtP5ZY"
-    },
-    {
-      "added_at": "2022-07-26 17:31:25",
-      "album": {
-        "name": "Not Steady",
-        "url": "https://open.spotify.com/album/1XGuAokaFjAkpGmOEllsoD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 190784,
-      "name": "Not Steady",
-      "url": "https://open.spotify.com/track/42ArfZUgGo3k5btIHp08it"
     },
     {
       "added_at": "2022-07-26 17:31:25",

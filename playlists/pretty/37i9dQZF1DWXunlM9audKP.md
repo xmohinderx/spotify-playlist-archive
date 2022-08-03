@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXunlM9audKP.md) - [plain]
 
 > Riscopri le più grandi hit del 2017! Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,514 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,530 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXunlM9audKP.md) - [plain]
 | 80 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 3:24 |
 | 81 | [Cold \(feat\. Future\)](https://open.spotify.com/track/7gwLQ4tZ5UdZ7qNcDyJ8wr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:54 |
 | 82 | [El Party](https://open.spotify.com/track/19LRRuiMQ8a9jhqSf8jVip) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Alessio La Profunda Melodia](https://open.spotify.com/artist/7MBNcpWHn8RTZFUQv5fNPp) | [El Party](https://open.spotify.com/album/5HxvUC0YTiqfnjXThB3qAM) | 3:31 |
-| 83 | [2U](https://open.spotify.com/track/762UXiwEHYY97VL45sAUPR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U](https://open.spotify.com/album/0EYVu7ginQ5nPsQj3woBAQ) | 3:14 |
-| 84 | [Let's Hurt Tonight](https://open.spotify.com/track/05sCp83gcMm1iecYydKJS3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:14 |
+| 83 | [Let's Hurt Tonight](https://open.spotify.com/track/05sCp83gcMm1iecYydKJS3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:14 |
+| 84 | [2U](https://open.spotify.com/track/762UXiwEHYY97VL45sAUPR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U](https://open.spotify.com/album/0EYVu7ginQ5nPsQj3woBAQ) | 3:14 |
 | 85 | [Solo Dance](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38) | 2:54 |
 | 86 | [No Promises \(feat\. Demi Lovato\)](https://open.spotify.com/track/5lNuqFVMca4vPupY10cH0J) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [No Promises \(feat\. Demi Lovato\)](https://open.spotify.com/album/6h3fnzKZqjV0R5gP9iTUBh) | 3:42 |
 | 87 | [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXunlM9audKP.md) - [plain]
 | 99 | [Tutto per una ragione \(feat\. Annalisa\)](https://open.spotify.com/track/0xJEOihwWkNdZCVfM2XoeS) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [0+](https://open.spotify.com/album/6Slus4rU1zR8mOEcTkCvlj) | 2:58 |
 | 100 | [Il Diario Degli Errori](https://open.spotify.com/track/2ReYmR7wsJLnschkvbZe2W) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Anime Di Carta](https://open.spotify.com/album/7GauGnt7jezptGDx00P76A) | 3:26 |
 
-Snapshot ID: `MTYwNDUwMDIyMSwwMDAwMDAwMGQ3ZDJkZmJhOTAwY2JiMzc3YzAzNmYyMDg2ZjhlNTlk`
+Snapshot ID: `MTYwNDUwMDIyMSwwMDAwMDAwMDQ4NmFlM2VkYTBhZmFhN2E4OTgwYzVmZjg1MWY5OGMw`

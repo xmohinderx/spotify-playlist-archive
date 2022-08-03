@@ -1,12 +1,12 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 607508,
+  "num_followers": 607626,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM1ODAyNiwwMDAwMDAwMDA2Y2ViYjRmYWQ4ZjY0MGM5YzNkNWZkNzhiMmIxMTQ1",
+  "snapshot_id": "MTY1MjM1ODAyNiwwMDAwMDAwMDk3NWY4NzY0NWVkYTI3N2VlYTA2YjdhMzI4MWI4ODkw",
   "tracks": [
     {
       "added_at": "2022-05-12 12:20:26",
@@ -235,26 +235,6 @@
     {
       "added_at": "2022-05-12 12:20:26",
       "album": {
-        "name": "Into Your Arms (feat. Ava Max)",
-        "url": "https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI"
-      },
-      "artists": [
-        {
-          "name": "Witt Lowry",
-          "url": "https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 186022,
-      "name": "Into Your Arms (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
-    },
-    {
-      "added_at": "2022-05-12 12:20:26",
-      "album": {
         "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
         "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 205733,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
+    },
+    {
+      "added_at": "2022-05-12 12:20:26",
+      "album": {
+        "name": "Into Your Arms (feat. Ava Max)",
+        "url": "https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI"
+      },
+      "artists": [
+        {
+          "name": "Witt Lowry",
+          "url": "https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 186022,
+      "name": "Into Your Arms (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
     },
     {
       "added_at": "2022-05-12 12:20:26",

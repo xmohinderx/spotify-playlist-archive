@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,987 likes - 80 songs - 5 hr 15 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,989 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

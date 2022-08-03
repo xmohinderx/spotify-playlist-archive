@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,322 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,383 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 30 | [Sky Passing Around, Moon Rabbit](https://open.spotify.com/track/5Zz1U1ghsgYAEs8cRSB7WE) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [SEASIDE SOLILOQUIES](https://open.spotify.com/album/7mzOTGPUcJ30cYwYFqCHSc) | 2:55 |
 | 31 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 32 | [チルドレンレコード \- Re:boot](https://open.spotify.com/track/7EgAQ88TKT5HHsYpRThUQc) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [チルドレンレコード \(Re:boot\)](https://open.spotify.com/album/0Kp2uX7B1gdSYcBiL8brMx) | 3:07 |
-| 33 | [Gimme×Gimme feat\. 初音ミク・鏡音リン](https://open.spotify.com/track/5XJh3VbvvnGYrkubcQwzys) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Rin Kagamine](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [GRAPHIX](https://open.spotify.com/album/6TIBa4yqhBXdrcbui3TGzt) | 3:40 |
+| 33 | [エゴイスト](https://open.spotify.com/track/7jFve2PjhEsJgwkC5P56xK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:39 |
 | 34 | [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 |
-| 35 | [エゴイスト](https://open.spotify.com/track/7jFve2PjhEsJgwkC5P56xK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:39 |
+| 35 | [Gimme×Gimme feat\. 初音ミク・鏡音リン](https://open.spotify.com/track/5XJh3VbvvnGYrkubcQwzys) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Rin Kagamine](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [GRAPHIX](https://open.spotify.com/album/6TIBa4yqhBXdrcbui3TGzt) | 3:40 |
 | 36 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 |
 | 37 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 |
 | 38 | [ラグトレイン](https://open.spotify.com/track/6v8fX5yXd15H3xSyvVvJ5e) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ラグトレイン](https://open.spotify.com/album/3iE960ieh1bIjcz9BlLj3W) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [少女レイ](https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 4:54 |
 | 50 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 |
 
-Snapshot ID: `MTY1ODg1MDA2MywwMDAwMDAwMDM3YzM3NjEyYWY2ZDYyZDZlMDBlZjEzMzdmYjAyYWFl`
+Snapshot ID: `MTY1OTQ1OTQ0OSwwMDAwMDAwMDE0ZGEwMzM3M2U1ZjNlODRiMmMyY2QzMGZlNDk1OGMy`

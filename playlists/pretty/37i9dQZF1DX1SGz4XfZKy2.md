@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,996 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,014 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 11 | [Breeze \- Live at the Heydar Aliyev Center](https://open.spotify.com/track/6nwo9EXJ2mz67Ktl5tQTZh) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Breeze \(Live at the Heydar Aliyev Center\)](https://open.spotify.com/album/52OnlMGe9oqZ8i7RvuwzRr) | 4:55 |
 | 12 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 |
 | 13 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 |
-| 14 | [Yekeshish](https://open.spotify.com/track/2LSfFO6kZSGP6JxsPoQjrF) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP), [Ali Jafari Pouyan](https://open.spotify.com/artist/682NaUT4NTC5vkaFhZAZRq), [Behnood Yakhchali](https://open.spotify.com/artist/4yILBBJa570shWHY2IZ2Du) | [Yekeshish](https://open.spotify.com/album/1DuTPc3UotnGJ8M8q1fRsA) | 7:23 |
-| 15 | [Les Ondes Orientales](https://open.spotify.com/track/3Rs2IEDmXqOFQZfzs6qw4N) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/4iwU4rmHPrApGT7isexQ8J) | 9:09 |
+| 14 | [Les Ondes Orientales](https://open.spotify.com/track/3Rs2IEDmXqOFQZfzs6qw4N) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/4iwU4rmHPrApGT7isexQ8J) | 9:09 |
+| 15 | [Yekeshish](https://open.spotify.com/track/2LSfFO6kZSGP6JxsPoQjrF) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP), [Ali Jafari Pouyan](https://open.spotify.com/artist/682NaUT4NTC5vkaFhZAZRq), [Behnood Yakhchali](https://open.spotify.com/artist/4yILBBJa570shWHY2IZ2Du) | [Yekeshish](https://open.spotify.com/album/1DuTPc3UotnGJ8M8q1fRsA) | 7:23 |
 | 16 | [Nara](https://open.spotify.com/track/49ppdLKp66bzhMWoK3wlzy) | [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e) | 2:15 |
 | 17 | [Leila](https://open.spotify.com/track/2jkrGagEAt8WrQ6NyF8Lsy) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH), [Abby Abdel\-Khalek](https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT) | [Leila](https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc) | 2:32 |
 | 18 | [Takvim \- Live](https://open.spotify.com/track/76vcQaU6QvT9CZ20q0Cl1z) | [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi) | [Kanun Resitali 3 \- Sezen Aksu Şarkıları \(Live\)](https://open.spotify.com/album/4Hz0rQTOqR9WDeHvO8Hctf) | 4:36 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 25 | [Apology](https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI) | [Koorosh Behrad](https://open.spotify.com/artist/6z5ZjxyPCjyHZ0UneTQxM5) | [Shenididar](https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4) | 4:20 |
 | 26 | [432hz Desert Pulse](https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 4:28 |
 | 27 | [Dubai Midnight](https://open.spotify.com/track/6BxL9ykgqQUPJucdZSqQ7j) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Romantic Arabic Moon Journey: Middle Eastern Love, Oasis of Passion, Oriental Lovers, Tantric Lesson](https://open.spotify.com/album/3hzekYvCfScgreyPMdVD18) | 3:33 |
-| 28 | [Rain Drops](https://open.spotify.com/track/3NI3Cc0IbCZuDsNQrC4sxf) | [Shardad Rohani](https://open.spotify.com/artist/3riIYGDJMkjK1OenmRUMrW), [Scheherazade Quartet](https://open.spotify.com/artist/4YuORJGHaZw7VCi8ENOqcD) | [Scheherazade Quartet](https://open.spotify.com/album/6Z6dWvnag0xnNSw1XArZLD) | 3:31 |
-| 29 | [Lucent Path](https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 3:44 |
+| 28 | [Lucent Path](https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 3:44 |
+| 29 | [Rain Drops](https://open.spotify.com/track/3NI3Cc0IbCZuDsNQrC4sxf) | [Shardad Rohani](https://open.spotify.com/artist/3riIYGDJMkjK1OenmRUMrW), [Scheherazade Quartet](https://open.spotify.com/artist/4YuORJGHaZw7VCi8ENOqcD) | [Scheherazade Quartet](https://open.spotify.com/album/6Z6dWvnag0xnNSw1XArZLD) | 3:31 |
 | 30 | [Gypsy \(Kouli\), Oud](https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi) | [Hamed Nikpay](https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy) | [Solo Passage \(Gozar\)](https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ) | 3:24 |
 | 31 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 |
 | 32 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 |
 | 60 | [Ikarus' Dream](https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/5xNlapmJSkP9oOnTX2Xy7b) | 3:43 |
 
-Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMGM4Y2QxNzQ5YWNmNzI5MzNkNTRjNGJjZWVmNjllMTFl`
+Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDFmMDg5NGE0ZTQ1YjA2OTcyMzJlOWIwNWRjNjY5NjEz`

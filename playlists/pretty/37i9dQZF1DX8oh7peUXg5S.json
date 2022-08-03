@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute",
-  "num_followers": 247107,
+  "num_followers": 247198,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxOTIwMCwwMDAwMDAwMGFmYzE1ODk0OWI4MzkxODYyN2NiODZhOTJjYjY5MzAx",
+  "snapshot_id": "MTY1NjYxOTIwMCwwMDAwMDAwMDE1YmFiM2NjYzVlNzJmY2Q3ODM1MjYyMjk3OGY5ZDlh",
   "tracks": [
     {
       "added_at": "2022-06-30 20:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
-        "name": "Cuerpo a Cuerpo (Remasterizado)",
-        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Sin Tu Latido - Remasterizado",
-      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 238760,
       "name": "Qu\u00e9 Bello Es Vivir",
       "url": "https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "Cuerpo a Cuerpo (Remasterizado)",
+        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Sin Tu Latido - Remasterizado",
+      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
+        "name": "Vulnerables",
+        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
         "name": "No soy de aqu\u00ed",
         "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
@@ -1051,30 +1075,6 @@
       "duration_ms": 317733,
       "name": "El Hombre del Piano",
       "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "Vulnerables",
-        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Los Locos Descalzos",
-          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1151,6 +1151,46 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 238068,
+      "name": "T\u00fa Ve",
+      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "Maldita Vocaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+        }
+      ],
+      "duration_ms": 285341,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
         "name": "Mujeres de Fina Estampa",
         "url": "https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF"
       },
@@ -1191,46 +1231,6 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238068,
-      "name": "T\u00fa Ve",
-      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "Maldita Vocaci\u00f3n",
-        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Diego Ojeda",
-          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
-        }
-      ],
-      "duration_ms": 285341,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 294095,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 170906,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 294095,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
-        "name": "Yo Sin T\u00fa",
-        "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
+        "name": "De Lo Perdido Y Otras Coplas",
+        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
       "artists": [
         {
-          "name": "El Jose",
-          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
         }
       ],
-      "duration_ms": 308333,
-      "name": "Un Solo Corazo\u0301n",
-      "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
+      "duration_ms": 232080,
+      "name": "Mar\u00eda la portuguesa",
+      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1831,18 +1827,22 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
-        "name": "De Lo Perdido Y Otras Coplas",
-        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
+        "name": "Yo Sin T\u00fa",
+        "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
       "artists": [
         {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+          "name": "El Jose",
+          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
         }
       ],
-      "duration_ms": 232080,
-      "name": "Mar\u00eda la portuguesa",
-      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
+      "duration_ms": 308333,
+      "name": "Un Solo Corazo\u0301n",
+      "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
     },
     {
       "added_at": "2022-06-30 20:00:00",

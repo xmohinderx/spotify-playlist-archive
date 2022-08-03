@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 126742,
+  "num_followers": 126877,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGJjY2UyMGU5M2ZjODU5MzhhN2EzYWQ1ZjJmN2ZiYWJl",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGMxZmYyNjQ5NGFmNzQwZjFjMjJiNTBkZDVkMGMyYWZj",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 256133,
       "name": "Smokebelch II (Beatless Mix)",
       "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Go / Together",
-        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
-      },
-      "artists": [
-        {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
-        }
-      ],
-      "duration_ms": 486941,
-      "name": "Together - Rework",
-      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Ultravisitor",
         "url": "https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 130440,
       "name": "Tommib Help Buss",
       "url": "https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Go / Together",
+        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 486941,
+      "name": "Together - Rework",
+      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "The Tunnel and the Clearing",
+        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 333706,
+      "name": "Implosion-Explosion",
+      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/3nSfJkSb7xRtrtJMKohXGc"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "The Tunnel and the Clearing",
-        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 333706,
-      "name": "Implosion-Explosion",
-      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Lost At Sea (Kelly Moran remix)",
         "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1579,6 +1595,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Virtual State",
+        "url": "https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok"
+      },
+      "artists": [
+        {
+          "name": "Richard H. Kirk",
+          "url": "https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "The Feeling (Of Warmth And Beauty)",
+      "url": "https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Equal Amounts Afraid",
         "url": "https://open.spotify.com/album/5dIqaxM2nT1kODBGnB67Wp"
       },
@@ -1591,22 +1623,6 @@
       "duration_ms": 252946,
       "name": "Core",
       "url": "https://open.spotify.com/track/53KxyoDip0dabA3jAq6RiV"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1659,22 +1675,6 @@
       "duration_ms": 249534,
       "name": "Saccade",
       "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Virtual State",
-        "url": "https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok"
-      },
-      "artists": [
-        {
-          "name": "Richard H. Kirk",
-          "url": "https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "The Feeling (Of Warmth And Beauty)",
-      "url": "https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse"
     }
   ],
   "unique_name": "Electronica Romantica",

@@ -4,7 +4,7 @@
 
 > and why aren't you in uniform? Cover: Steve Lacy @ Gucci Love Parade November 2021
 
-184 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+185 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Tide](https://open.spotify.com/track/0zzqcfPGHQ2A4faQqDHI1P) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [SUMMER 21 PACK](https://open.spotify.com/album/58U8f9M3enmjO0BLlhE1xJ) | 2:21 | 2021-08-05 | 2022-05-28 |
 | [Townhouse](https://open.spotify.com/track/3cMy2EK1XHBGVQhrkyRsMP) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [FREELANCE](https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz) | 2:24 | 2022-06-17 | 2022-07-29 |
 | [Townhouse](https://open.spotify.com/track/1kV49sSjxSB9OZ9x8ok7tG) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Freelance](https://open.spotify.com/album/5q27SHT07Qa2LRunMKecjF) | 2:24 | 2022-06-17 |  |
+| [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-08-02 |  |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-03-25 | 2022-04-28 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-18 | 2022-06-11 |
 | [U KNOW ME](https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [U KNOW ME](https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2) | 2:54 | 2022-07-29 |  |
@@ -190,7 +191,7 @@
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-05-03 | 2022-06-18 |
 | [WILSHIRE](https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 8:35 | 2021-12-01 | 2022-07-30 |
 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 | 2021-08-05 |  |
-| [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2022-07-29 |  |
+| [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2022-07-29 | 2022-08-03 |
 | [Your Teeth In My Neck](https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:06 | 2022-07-29 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

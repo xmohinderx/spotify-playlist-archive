@@ -1,12 +1,12 @@
 {
   "description": "oops_i_did_it_again.mp3",
-  "num_followers": 6352,
+  "num_followers": 6364,
   "original_name": "dosmileras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDU0ODczMywwMDAwMDAwMDZhNGVmZjc4M2ViZTQwNGRlMDc0Yzg1YTQ5MTk1ZjFk",
+  "snapshot_id": "MTY0MDU0ODczMywwMDAwMDAwMDJkNjhiOTgyYmJhYmFiZDU5YTAzYjUyMmI4ODU5NjQx",
   "tracks": [
     {
       "added_at": "2021-12-26 19:58:53",
@@ -415,6 +415,22 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
+        "name": "Todavia",
+        "url": "https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        }
+      ],
+      "duration_ms": 204904,
+      "name": "Todavia",
+      "url": "https://open.spotify.com/track/7gaovXojjqfn276uZR0omT"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2021-12-26 19:58:53",
@@ -967,6 +983,22 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 225413,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
       },
@@ -1027,22 +1059,6 @@
       "duration_ms": 193373,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 225413,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
     },
     {
       "added_at": "2021-12-26 19:58:53",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Hot N Cold",
-      "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
         "name": "Queremos Rock",
         "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
     },
     {
       "added_at": "2021-12-26 19:58:53",
@@ -1307,6 +1323,22 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -1339,22 +1371,6 @@
       "duration_ms": 237333,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
     },
     {
       "added_at": "2021-12-26 19:58:53",
@@ -1439,22 +1455,6 @@
       "duration_ms": 194320,
       "name": "Te necesito",
       "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
-        "name": "Perreo salvaje",
-        "url": "https://open.spotify.com/album/7JgzgwB5tY9EGA5wYg8f5v"
-      },
-      "artists": [
-        {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Todavia",
-      "url": "https://open.spotify.com/track/3D5uEBD0cAEGZGUo5j9045"
     },
     {
       "added_at": "2021-12-26 19:58:53",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Si t\u00fa te atreves",
-      "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
         "name": "Mi Otro Yo",
         "url": "https://open.spotify.com/album/1KqtDyZKciHgtDI0jD5sDa"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 269360,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/0HpOft5SON0qXcoicEug2m"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Si t\u00fa te atreves",
+      "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
     },
     {
       "added_at": "2021-12-26 19:58:53",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr"
     },
     {
       "added_at": "2021-12-26 19:58:53",

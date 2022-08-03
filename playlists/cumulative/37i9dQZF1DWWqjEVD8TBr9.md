@@ -2,7 +2,7 @@
 
 ### [This Is Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DWWqjEVD8TBr9)
 
-> HAPPY STAY DAY! Stray Kids everywhere all around the world\. You make Stray Kids STAY.
+> Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
 196 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
 

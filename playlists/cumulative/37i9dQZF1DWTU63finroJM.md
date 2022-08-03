@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-772 songs - 1 day 19 hr 30 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+774 songs - 1 day 19 hr 36 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Thousand Miles](https://open.spotify.com/track/3yT2hnLcZU6rf1BK6rbP0c) | [Route 83](https://open.spotify.com/artist/5uppePcM1uv6mrpw29yEds) | [A Thousand Miles](https://open.spotify.com/album/1o0LX5mf6NvumR95bokpcd) | 3:27 | 2022-02-03 | 2022-03-14 |
 | [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 | 2022-03-24 | 2022-04-20 |
 | [Abran la Puerta a la Paz](https://open.spotify.com/track/4xgFkL3iSFCPoHBrqJ85T0) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:11 | 2022-03-24 | 2022-04-21 |
+| [Absence of You](https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv) | 3:14 | 2022-08-02 |  |
 | [Absolute](https://open.spotify.com/track/6q023Qd7l69MSdZRG7Gy2W) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 3:23 | 2022-02-10 | 2022-02-17 |
 | [Afterglow](https://open.spotify.com/track/4HqdrhdEZPxzEIdZKVBLdX) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Afterglow](https://open.spotify.com/album/6Ji3Fl8vFaadhk1ZBHUBkI) | 3:01 | 2022-02-03 | 2022-08-02 |
 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 | 2022-06-27 | 2022-08-02 |
@@ -112,6 +113,7 @@
 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 | 2022-06-29 | 2022-08-02 |
 | [Change the world](https://open.spotify.com/track/20K58dbJR2jwoNLUY9BDRk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Change the world](https://open.spotify.com/album/3WhxaWD61nmnFr0HZcCel7) | 2:57 | 2022-02-03 | 2022-06-27 |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2022-02-10 | 2022-02-27 |
+| [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-08-02 |  |
 | [Chinatown](https://open.spotify.com/track/5qya0nU9vmMklKKjvltNPT) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Chinatown](https://open.spotify.com/album/1cQliCnbdYb2c2va7FU4qq) | 3:36 | 2022-03-24 | 2022-04-15 |
 | [CHING](https://open.spotify.com/track/6ZaGQezHQanrroD0TsgeMz) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Adulting For Dummies](https://open.spotify.com/album/1DbVqDub31P40C9YNCcNVG) | 2:35 | 2022-02-03 | 2022-06-28 |
 | [Chàng Trai Sơ Mi Hồng](https://open.spotify.com/track/6lhrQC5IvCv4ICCGs9IZfo) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Chàng Trai Sơ Mi Hồng](https://open.spotify.com/album/4IwlbWqMhVuzdUrcPdAXQf) | 4:52 | 2022-02-03 | 2022-08-02 |
@@ -483,7 +485,7 @@
 | [piensa en mí](https://open.spotify.com/track/19Vxwha8V9kdsy5F1et2xG) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 3:12 | 2022-03-24 | 2022-04-21 |
 | [Pioggia di CBD](https://open.spotify.com/track/5eL7azGDSAndUemSxGm79B) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Pioggia di CBD](https://open.spotify.com/album/4UcG471p9uZwNJUGLRG4Ib) | 3:10 | 2022-03-24 | 2022-04-19 |
 | [Pit A Pat](https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pit A Pat](https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD) | 3:40 | 2022-06-23 | 2022-06-26 |
-| [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-01 |  |
+| [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-01 | 2022-08-03 |
 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2022-04-07 |  |
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2022-02-03 | 2022-03-11 |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-03-24 | 2022-08-02 |
@@ -686,7 +688,7 @@
 | [зима](https://open.spotify.com/track/0cOftxEWGyu4XAqEsqmdWS) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:28 | 2022-03-24 | 2022-08-02 |
 | [Когда ты откроешь глаза](https://open.spotify.com/track/03e7TADqz5avUDCqIILyGV) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [Когда ты откроешь глаза](https://open.spotify.com/album/4a06lp16jMs23obVOfHbRK) | 2:52 | 2022-03-24 | 2022-04-20 |
 | [Нет дела](https://open.spotify.com/track/1jBkgehBXNIURp4ATVAbRp) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Когда были волны](https://open.spotify.com/album/2S6dLBYwOhyepLH33Fv6VJ) | 4:41 | 2022-03-24 | 2022-04-21 |
-| [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2022-03-24 |  |
+| [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2022-03-24 | 2022-08-03 |
 | [Счастье](https://open.spotify.com/track/4yX76KyCqxcPdKWaxUIeZG) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Дальше](https://open.spotify.com/album/7EQBos4tq7LHQ7vzHswwuc) | 2:15 | 2022-03-24 | 2022-08-02 |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-02-03 | 2022-08-02 |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-02-03 |  |

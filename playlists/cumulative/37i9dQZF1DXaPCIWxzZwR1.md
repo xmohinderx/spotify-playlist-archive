@@ -4,7 +4,7 @@
 
 > next gen pop featuring Billie Eilish
 
-1,050 songs - 2 day 3 hr 2 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,051 songs - 2 day 3 hr 5 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-06-26 | 2021-07-24 |
 | [Colours Of You \- Nick And Charlie Version](https://open.spotify.com/track/4WkcqpMX3f697pJqwRYbAQ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You \(Nick And Charlie Version\)](https://open.spotify.com/album/7nmEwM693CffFr1jMY1GXq) | 2:43 | 2022-05-20 | 2022-06-04 |
 | [Come Around](https://open.spotify.com/track/3TpkcCHblOWMzalss4ug24) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Come Around](https://open.spotify.com/album/4uHx96O6wgOe0RN01ApoKT) | 2:53 | 2022-02-25 | 2022-03-18 |
+| [Come Back Home \- From "Purple Hearts"](https://open.spotify.com/track/2mPXui72mlIYR5sQUPZXwP) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Come Back Home \(From "Purple Hearts"\)](https://open.spotify.com/album/2O6Q9yickLm8XJfvy1SPdx) | 2:56 | 2022-08-02 |  |
 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 | 2021-04-17 | 2021-05-29 |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-04 | 2022-04-16 |
 | [Confetti](https://open.spotify.com/track/5jGFX898BfHJ8Laz6Fjdeo) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/6XARsSgDs7DjxJFawTlhCH) | 2:47 | 2021-02-16\* | 2021-02-26 |

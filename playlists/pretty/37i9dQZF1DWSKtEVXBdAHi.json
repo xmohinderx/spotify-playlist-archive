@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 26995,
+  "num_followers": 26991,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDZjNGM0YWIzY2I0MjU2ZGU0ZjM3NzVmYWJmNzYyNjcw",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDhiNmY5YzM3NWViOGY1MzE3MmNhNzFiZjBiYWE3ZjNl",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Hotel Walls",
+      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "OK (The Remixes)",
         "url": "https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 147840,
       "name": "Complicated - Faustix Remix",
       "url": "https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Hotel Walls",
-      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
     },
     {
       "added_at": "2020-02-18 13:31:30",

@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 76929,
+  "num_followers": 76965,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMGM5YjA2Y2M2ZDE5NGRjMGEyZDkzZTVjYjJmYTkxMDgw",
+  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMDYwNjY5MjRmZWE1ZWY3OThjY2Y4YWFmYzU4OWZhYzRm",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -523,38 +523,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Siegfried, WWV 86C",
-        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Simon O'Neill",
-          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
-        },
-        {
-          "name": "Heidi Melton",
-          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 406773,
-      "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
-      "url": "https://open.spotify.com/track/2kcP9HDR2cvVZ8VpM87oW8"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Tristan und Isolde",
         "url": "https://open.spotify.com/album/0WhnBDbyzLqYlNn8RZT65H"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 318640,
       "name": "Tristan und Isolde / Act 2: \"O sink hernieder, Nacht der Liebe\"",
       "url": "https://open.spotify.com/track/5tKBByi2iXhWJ0CLouwpvU"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Siegfried, WWV 86C",
+        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Simon O'Neill",
+          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
+        },
+        {
+          "name": "Heidi Melton",
+          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 406773,
+      "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
+      "url": "https://open.spotify.com/track/2kcP9HDR2cvVZ8VpM87oW8"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -755,6 +755,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Symphonies In E Major & C Major",
+        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Tokyo Metropolitan Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
+        },
+        {
+          "name": "Hiroshi Wakasugi",
+          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
+        }
+      ],
+      "duration_ms": 864060,
+      "name": "Symphony In E Major, WWV 35: I. Allegro Con Spirito",
+      "url": "https://open.spotify.com/track/27DC12Py5Cs6oJnkA8v2Yb"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
         "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
       },
@@ -799,8 +823,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Symphonies In E Major & C Major",
-        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
+        "name": "Wagner: Das Rheingold, WWV 86A",
+        "url": "https://open.spotify.com/album/5QgIRR2Ilw8dZ3OotAbiRV"
       },
       "artists": [
         {
@@ -808,17 +832,21 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Tokyo Metropolitan Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
+          "name": "Matthias Goerne",
+          "url": "https://open.spotify.com/artist/1F3yfrc1DyiWsM0YG7kpsN"
         },
         {
-          "name": "Hiroshi Wakasugi",
-          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
         }
       ],
-      "duration_ms": 864060,
-      "name": "Symphony In E Major, WWV 35: I. Allegro Con Spirito",
-      "url": "https://open.spotify.com/track/27DC12Py5Cs6oJnkA8v2Yb"
+      "duration_ms": 105360,
+      "name": "Das Rheingold, WWV 86A, Scene 4: Scene 4: Abendlich strahlt der Sonne Auge (Wotan)",
+      "url": "https://open.spotify.com/track/0R5AmHvOSbLhn4UNgjVbbB"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -851,34 +879,6 @@
       "duration_ms": 1026359,
       "name": "Die Meistersinger von Nurnberg (The Mastersingers of Nuremberg), Act III: Finale",
       "url": "https://open.spotify.com/track/3kr6jTNREvgPyGg7EDTPPL"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Das Rheingold, WWV 86A",
-        "url": "https://open.spotify.com/album/5QgIRR2Ilw8dZ3OotAbiRV"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Matthias Goerne",
-          "url": "https://open.spotify.com/artist/1F3yfrc1DyiWsM0YG7kpsN"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 105360,
-      "name": "Das Rheingold, WWV 86A, Scene 4: Scene 4: Abendlich strahlt der Sonne Auge (Wotan)",
-      "url": "https://open.spotify.com/track/0R5AmHvOSbLhn4UNgjVbbB"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1244,30 +1244,6 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 318266,
-      "name": "Siegfried, WWV 86C, Act II: Prelude",
-      "url": "https://open.spotify.com/track/0Ta5BZyrvDF1IUSSuMDIYR"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Siegfried, WWV 86C",
-        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
           "name": "Simon O'Neill",
           "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
         },
@@ -1287,6 +1263,30 @@
       "duration_ms": 275520,
       "name": "Siegfried, WWV 86C, Act III: Ewig war ich, ewig bin ich",
       "url": "https://open.spotify.com/track/2omc5qLAW5UXDXSAtPhvAj"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Siegfried, WWV 86C",
+        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "Siegfried, WWV 86C, Act II: Prelude",
+      "url": "https://open.spotify.com/track/0Ta5BZyrvDF1IUSSuMDIYR"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1584,6 +1584,34 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
+          "name": "Hans Hotter",
+          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Die Walk\u00fcre / Dritter Aufzug: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
+      "url": "https://open.spotify.com/track/4L8vnna2HSB5pNTaYTJW7p"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Solti - Wagner - The Operas",
+        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
           "name": "James King",
           "url": "https://open.spotify.com/artist/5I2cYLH1KGi4ezFJ9X7JTI"
         },
@@ -1603,34 +1631,6 @@
       "duration_ms": 242306,
       "name": "Die Walk\u00fcre / Erster Aufzug: \"Wes Herd dies auch, hier mu\u00df ich rasten\"",
       "url": "https://open.spotify.com/track/4IdGIE4dqgJYisbTek67Nb"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Solti - Wagner - The Operas",
-        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hans Hotter",
-          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "Die Walk\u00fcre / Dritter Aufzug: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
-      "url": "https://open.spotify.com/track/4L8vnna2HSB5pNTaYTJW7p"
     },
     {
       "added_at": "2022-06-28 08:58:25",

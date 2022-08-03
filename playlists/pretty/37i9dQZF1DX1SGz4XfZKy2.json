@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 58996,
+  "num_followers": 59014,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMGM4Y2QxNzQ5YWNmNzI5MzNkNTRjNGJjZWVmNjllMTFl",
+  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDFmMDg5NGE0ZTQ1YjA2OTcyMzJlOWIwNWRjNjY5NjEz",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -235,6 +235,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "Abu Nawas Rhapsody",
+        "url": "https://open.spotify.com/album/4iwU4rmHPrApGT7isexQ8J"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "duration_ms": 549546,
+      "name": "Les Ondes Orientales",
+      "url": "https://open.spotify.com/track/3Rs2IEDmXqOFQZfzs6qw4N"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "Yekeshish",
         "url": "https://open.spotify.com/album/1DuTPc3UotnGJ8M8q1fRsA"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 443833,
       "name": "Yekeshish",
       "url": "https://open.spotify.com/track/2LSfFO6kZSGP6JxsPoQjrF"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Abu Nawas Rhapsody",
-        "url": "https://open.spotify.com/album/4iwU4rmHPrApGT7isexQ8J"
-      },
-      "artists": [
-        {
-          "name": "Dhafer Youssef",
-          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
-        }
-      ],
-      "duration_ms": 549546,
-      "name": "Les Ondes Orientales",
-      "url": "https://open.spotify.com/track/3Rs2IEDmXqOFQZfzs6qw4N"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "Lucent Path",
+        "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
+      },
+      "artists": [
+        {
+          "name": "NAYAT",
+          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Lucent Path",
+      "url": "https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "Scheherazade Quartet",
         "url": "https://open.spotify.com/album/6Z6dWvnag0xnNSw1XArZLD"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 211586,
       "name": "Rain Drops",
       "url": "https://open.spotify.com/track/3NI3Cc0IbCZuDsNQrC4sxf"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Lucent Path",
-        "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
-      },
-      "artists": [
-        {
-          "name": "NAYAT",
-          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Lucent Path",
-      "url": "https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U"
     },
     {
       "added_at": "2021-02-15 11:04:36",

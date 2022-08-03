@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Beyonc\u00e9.",
-  "num_followers": 396341,
+  "num_followers": 396452,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTExODk2MiwwMDAwMDAwMDU4ZmMwNjNhNzY1MzI2ZjFjNjY0YjExN2Y0ZDBjMTY0",
+  "snapshot_id": "MTY1OTExODk2MiwwMDAwMDAwMGIwNThiM2NmY2U2ZTU1ZDIzZDcwODllNzgxOWQ1ZjY5",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -324,7 +324,7 @@
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Colors (with Eyelar)",
-        "url": "https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch"
+        "url": "https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg"
       },
       "artists": [
         {
@@ -342,7 +342,7 @@
       ],
       "duration_ms": 231832,
       "name": "Colors (with Eyelar)",
-      "url": "https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr"
+      "url": "https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Summer Lovin'",
-        "url": "https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Summer Lovin' - Edit",
-      "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Running To You (feat. Caden)",
         "url": "https://open.spotify.com/album/3pew3ehm1DOu5HONPx4LhJ"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 183090,
       "name": "Running To You (feat. Caden)",
       "url": "https://open.spotify.com/track/3zc9SflSDf8EnFc7NNoqO9"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Summer Lovin'",
+        "url": "https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Summer Lovin' - Edit",
+      "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Move Your Feet",
-        "url": "https://open.spotify.com/album/7iLJZpx8K5yQEHPQz7abgp"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/2LXlp1GPl3hwGe7uzmoLER"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Maria Maria",
         "url": "https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 195068,
       "name": "Maria Maria",
       "url": "https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Move Your Feet",
+        "url": "https://open.spotify.com/album/7iLJZpx8K5yQEHPQz7abgp"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/2LXlp1GPl3hwGe7uzmoLER"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Need Ya",
-        "url": "https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Need Ya",
-      "url": "https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Pan Jabi",
         "url": "https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 222927,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1SV0UwdCh42KUHrniyOzkG"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Need Ya",
+        "url": "https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 160766,
+      "name": "Need Ya",
+      "url": "https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Rainbows and Dreams",
-        "url": "https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        },
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 281060,
-      "name": "Rainbows and Dreams",
-      "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Know My Name",
         "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
       },
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Rainbows and Dreams",
+        "url": "https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 281060,
+      "name": "Rainbows and Dreams",
+      "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Sternenhimmel",
         "url": "https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe"
       },
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Transitory",
+        "url": "https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Transitory",
+      "url": "https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/0LnhXvcJIhcMWIpvxhVguB"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 190500,
       "name": "You and I",
       "url": "https://open.spotify.com/track/5RLklKzb9QNXdpybSw2bbP"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Transitory",
-        "url": "https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Transitory",
-      "url": "https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Ten Years",
-        "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
-      },
-      "artists": [
-        {
-          "name": "Win and Woo",
-          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 147753,
-      "name": "All This Motion (with Louis the Child)",
-      "url": "https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Body Rock",
         "url": "https://open.spotify.com/album/5xvpeDsb7iGwaflSsOXuaH"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Ten Years",
+        "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
+      },
+      "artists": [
+        {
+          "name": "Win and Woo",
+          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 147753,
+      "name": "All This Motion (with Louis the Child)",
+      "url": "https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Two Rivers",
         "url": "https://open.spotify.com/album/4dTY6TQld6GGgS9aNT0AAV"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 190657,
       "name": "Two Rivers",
       "url": "https://open.spotify.com/track/3mdLBmFskieYOyq8c4tPEe"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Needless",
+        "url": "https://open.spotify.com/album/34inHiKZWoWXZ3XAsZMGhO"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Needless",
+      "url": "https://open.spotify.com/track/1TKxmDwCr7tloqmTWG7zlO"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Needless",
-        "url": "https://open.spotify.com/album/34inHiKZWoWXZ3XAsZMGhO"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Needless",
-      "url": "https://open.spotify.com/track/1TKxmDwCr7tloqmTWG7zlO"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "world on fire",
         "url": "https://open.spotify.com/album/5xxsIM2YgnsIe68yOR6nOe"
       },
@@ -1275,26 +1275,6 @@
       "duration_ms": 155786,
       "name": "heartbeat",
       "url": "https://open.spotify.com/track/25rWqXxOkuEHev55nFRQLI"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "Reset Robot",
-          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
-        }
-      ],
-      "duration_ms": 272250,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1319,18 +1299,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Summer & Smoke",
-        "url": "https://open.spotify.com/album/7wMBYZjX48j24rDgMuBdmz"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8"
       },
       "artists": [
         {
-          "name": "Cubicolor",
-          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
         }
       ],
-      "duration_ms": 294146,
-      "name": "Summer & Smoke - Edit",
-      "url": "https://open.spotify.com/track/4JOL6kQLqfzdZPjV29T2GW"
+      "duration_ms": 272250,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1347,6 +1331,22 @@
       "duration_ms": 187286,
       "name": "Born To Love",
       "url": "https://open.spotify.com/track/3QescF8lu3z2SwgQiRM4AD"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Summer & Smoke",
+        "url": "https://open.spotify.com/album/7wMBYZjX48j24rDgMuBdmz"
+      },
+      "artists": [
+        {
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Summer & Smoke - Edit",
+      "url": "https://open.spotify.com/track/4JOL6kQLqfzdZPjV29T2GW"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/41CodDANPLmQrst12l1MAI"
-      },
-      "artists": [
-        {
-          "name": "Neggy Gemmy",
-          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
-        }
-      ],
-      "duration_ms": 231770,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/4T3VWXlsa1feVAXyDE5V4f"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Everybody (Do It Like That)",
         "url": "https://open.spotify.com/album/7628SYJPlrtYKQoez5L6V1"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 135238,
       "name": "Everybody (Do It Like That)",
       "url": "https://open.spotify.com/track/0EIf9XZDUTTK3sUgPG8VUT"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/41CodDANPLmQrst12l1MAI"
+      },
+      "artists": [
+        {
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+        }
+      ],
+      "duration_ms": 231770,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4T3VWXlsa1feVAXyDE5V4f"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Crayzee",
+        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 173907,
+      "name": "Crayzee",
+      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "SCREAMER",
         "url": "https://open.spotify.com/album/1Xx8ecx9sLnnIV7eNGU8EM"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 261678,
       "name": "NECTA_pholo (V.5)",
       "url": "https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Crayzee",
-        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 173907,
-      "name": "Crayzee",
-      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1555,22 +1555,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Headswim",
-        "url": "https://open.spotify.com/album/0UkyZ3pD8NzBfeZn9HESmX"
+        "name": "Stomp Your Feet",
+        "url": "https://open.spotify.com/album/7pAvUrQXAxW1RD0WME0n0c"
       },
       "artists": [
         {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
         },
         {
-          "name": "Run Rivers",
-          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
+          "name": "TorQue MuziQ",
+          "url": "https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK"
         }
       ],
-      "duration_ms": 251612,
-      "name": "Headswim",
-      "url": "https://open.spotify.com/track/516eu6qWsJmzs4kHUK4ka1"
+      "duration_ms": 210505,
+      "name": "Stomp Your Feet",
+      "url": "https://open.spotify.com/track/1GBXxdxLD1wmjvXC716sZ7"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1591,22 +1591,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Stomp Your Feet",
-        "url": "https://open.spotify.com/album/7pAvUrQXAxW1RD0WME0n0c"
+        "name": "Headswim",
+        "url": "https://open.spotify.com/album/0UkyZ3pD8NzBfeZn9HESmX"
       },
       "artists": [
         {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
         },
         {
-          "name": "TorQue MuziQ",
-          "url": "https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK"
+          "name": "Run Rivers",
+          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
         }
       ],
-      "duration_ms": 210505,
-      "name": "Stomp Your Feet",
-      "url": "https://open.spotify.com/track/1GBXxdxLD1wmjvXC716sZ7"
+      "duration_ms": 251612,
+      "name": "Headswim",
+      "url": "https://open.spotify.com/track/516eu6qWsJmzs4kHUK4ka1"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Waste My Love (feat. Georgi Kay)",
-        "url": "https://open.spotify.com/album/18Otr1XRIsD6HkVNvdCIUE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Shepherd",
-          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
-        },
-        {
-          "name": "Georgi Kay",
-          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "Waste My Love (feat. Georgi Kay)",
-      "url": "https://open.spotify.com/track/2lQb0fKNvxhsWBD4Jbo5mk"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/2f7if07zQ8aqkwjq6NovP8"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 170040,
       "name": "Push It",
       "url": "https://open.spotify.com/track/0QUVjsIqKTRkV76T59rCMM"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Waste My Love (feat. Georgi Kay)",
+        "url": "https://open.spotify.com/album/18Otr1XRIsD6HkVNvdCIUE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "Waste My Love (feat. Georgi Kay)",
+      "url": "https://open.spotify.com/track/2lQb0fKNvxhsWBD4Jbo5mk"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Monnaka",
-        "url": "https://open.spotify.com/album/3TfFyklAVBg3gjjdrskNXW"
-      },
-      "artists": [
-        {
-          "name": "boys be kko",
-          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
-        }
-      ],
-      "duration_ms": 414882,
-      "name": "Monnaka",
-      "url": "https://open.spotify.com/track/0aCG03vw75PQTjNKZbhPHT"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/7yfvAWefdUaKlHmVYLPjzR"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 161193,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/5B9HpTPTixssrDSFYE35l7"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Monnaka",
+        "url": "https://open.spotify.com/album/3TfFyklAVBg3gjjdrskNXW"
+      },
+      "artists": [
+        {
+          "name": "boys be kko",
+          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+        }
+      ],
+      "duration_ms": 414882,
+      "name": "Monnaka",
+      "url": "https://open.spotify.com/track/0aCG03vw75PQTjNKZbhPHT"
     },
     {
       "added_at": "2022-07-29 04:01:00",

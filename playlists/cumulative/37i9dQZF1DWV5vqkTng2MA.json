@@ -592,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Darlin'",
+        "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "Darlin\u2019",
+      "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
+    },
+    {
+      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -970,6 +988,28 @@
     },
     {
       "album": {
+        "name": "For the Time Being",
+        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        },
+        {
+          "name": "Will Leet",
+          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "For the Time Being",
+      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
+    },
+    {
+      "album": {
         "name": "Have a Seat",
         "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
       },
@@ -1057,6 +1097,24 @@
       "duration_ms": 187319,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj"
+    },
+    {
+      "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265106,
+      "name": "Good Lady",
+      "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
     },
     {
       "album": {
@@ -2341,7 +2399,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 260308,
       "name": "Party City",
       "url": "https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO"
@@ -2395,7 +2453,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx"
@@ -2453,6 +2511,24 @@
       "duration_ms": 169120,
       "name": "Quit You",
       "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
+    },
+    {
+      "album": {
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     },
     {
       "album": {
@@ -2593,7 +2669,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 205482,
       "name": "Rotterdam",
       "url": "https://open.spotify.com/track/7JqQ6NFbM6LhOl7OK1XV8X"
@@ -3283,7 +3359,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 241172,
       "name": "Upside",
       "url": "https://open.spotify.com/track/5CgFOxsAX8qwj6lR8j9Ard"

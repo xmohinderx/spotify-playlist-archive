@@ -3443,6 +3443,28 @@
     {
       "album": {
         "name": "Har Har Shambhu Shiv Mahadeva",
+        "url": "https://open.spotify.com/album/5jDQa8LIOlxDnItJvdFcsL"
+      },
+      "artists": [
+        {
+          "name": "Jeetu Sharma",
+          "url": "https://open.spotify.com/artist/6UECKSYwQSyYDONQ84CiDW"
+        },
+        {
+          "name": "Abhilipsa Panda",
+          "url": "https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354666,
+      "name": "Har Har Shambhu Shiv Mahadeva",
+      "url": "https://open.spotify.com/track/0aA3jlllhKSEiXTmGPGSWz"
+    },
+    {
+      "album": {
+        "name": "Har Har Shambhu Shiv Mahadeva",
         "url": "https://open.spotify.com/album/4QwWjaY61kWmPa0GHv1Svt"
       },
       "artists": [
@@ -3961,7 +3983,7 @@
       ],
       "date_added": "2021-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 206060,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
@@ -6509,7 +6531,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 322250,
       "name": "Namo Namo",
       "url": "https://open.spotify.com/track/5QtQFSdyZEl0w4iDxAyv76"
@@ -6683,7 +6705,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 143709,
       "name": "Once Upon a Time",
       "url": "https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b"

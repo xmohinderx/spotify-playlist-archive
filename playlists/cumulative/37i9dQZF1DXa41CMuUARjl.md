@@ -4,7 +4,7 @@
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Beyoncé.
 
-12,981 songs - 33 day 15 hr 56 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
+12,982 songs - 33 day 16 hr 0 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2096,7 +2096,8 @@
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35) | 3:19 | 2021-08-14 | 2021-08-21 |
 | [Colorblind.](https://open.spotify.com/track/6o7OCNQhllaLVRkrGCWFeW) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Colorblind.](https://open.spotify.com/album/7CZvPpkSL9Bl1Z6gzXexbj) | 2:50 | 2022-02-18 | 2022-02-26 |
 | [Colors](https://open.spotify.com/track/6O8f0nQc4KniCyqoUFcwJz) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Colors](https://open.spotify.com/album/5WBfkg6Xg5MmTu8al5YPym) | 2:49 | 2022-04-29 | 2022-05-07 |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |
 | [Colors \- Syzz Remix](https://open.spotify.com/track/4DmC9WETajWQwdNOo4K3A1) | [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct), [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Colors \(Remixes\)](https://open.spotify.com/album/2AGjOjyRDNKC1kwHS9Zv5c) | 3:10 | 2020-07-10 | 2020-07-18 |
 | [Colossus](https://open.spotify.com/track/6ri4SRAHuyTnYmlMdQDUG1) | [Dave202](https://open.spotify.com/artist/2cQ47iUYGq4lHTtQ5GKMr9) | [Colossus](https://open.spotify.com/album/5OrlkHXPjPqDeHKvhp6tTx) | 3:38 | 2020-08-07 | 2020-08-14 |
 | [Colour](https://open.spotify.com/track/4jqYXH8BDZlCkM4CN8hH5q) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Colour](https://open.spotify.com/album/6z8WhxG1JnXfAWmCoVIKBA) | 4:57 | 2021-02-26 | 2021-03-06 |

@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 232607,
+  "num_followers": 232740,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGIzMGU5OWU0ZjM1NmY4YzNiYmRlNGIzZWFlOTQ3ZTJk",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDE1Zjk5MjQ4NWFiNWIwYmZhY2U2M2UyOTVjMzQ3MTQ4",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/0pzVdivOZdZdKOEbcbhkp3"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Nothing To Do (Deja Vu)",
-        "url": "https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Nothing To Do (Deja Vu)",
-      "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "closure",
@@ -1099,6 +1083,22 @@
       "duration_ms": 182574,
       "name": "closure",
       "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Nothing To Do (Deja Vu)",
+        "url": "https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Nothing To Do (Deja Vu)",
+      "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1153,46 +1153,6 @@
       "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Lost & Alive",
-        "url": "https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP"
-      },
-      "artists": [
-        {
-          "name": "Swatkins",
-          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
-        },
-        {
-          "name": "Moorea Masa & the Mood",
-          "url": "https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR"
-        }
-      ],
-      "duration_ms": 181330,
-      "name": "Lost & Alive",
-      "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Honesty (Cool Company Remixes)",
-        "url": "https://open.spotify.com/album/7MTHZnqXV5bL1Am1Mq1fAN"
-      },
-      "artists": [
-        {
-          "name": "Linda Diaz",
-          "url": "https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3"
-        },
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Honesty - Cool Company Remix",
-      "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Get Down! (Before You Lose Control)",
@@ -1215,18 +1175,82 @@
     {
       "added_at": "2021-09-21 15:07:50",
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/2pS27MgX6cEJZlbGSOjMbM"
+        "name": "Honesty (Cool Company Remixes)",
+        "url": "https://open.spotify.com/album/7MTHZnqXV5bL1Am1Mq1fAN"
       },
       "artists": [
         {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+          "name": "Linda Diaz",
+          "url": "https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3"
+        },
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
         }
       ],
-      "duration_ms": 210693,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
+      "duration_ms": 175306,
+      "name": "Honesty - Cool Company Remix",
+      "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Lost & Alive",
+        "url": "https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP"
+      },
+      "artists": [
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        },
+        {
+          "name": "Moorea Masa & the Mood",
+          "url": "https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR"
+        }
+      ],
+      "duration_ms": 181330,
+      "name": "Lost & Alive",
+      "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Every Night",
+        "url": "https://open.spotify.com/album/0aMLtqYaHjMKS4NeOw91Ug"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        },
+        {
+          "name": "The California Jet Club",
+          "url": "https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022"
+        },
+        {
+          "name": "Maino",
+          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
+        }
+      ],
+      "duration_ms": 177925,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -1243,6 +1267,22 @@
       "duration_ms": 175477,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/2pS27MgX6cEJZlbGSOjMbM"
+      },
+      "artists": [
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -1269,22 +1309,6 @@
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Lights",
@@ -1299,30 +1323,6 @@
       "duration_ms": 257020,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Every Night",
-        "url": "https://open.spotify.com/album/0aMLtqYaHjMKS4NeOw91Ug"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        },
-        {
-          "name": "The California Jet Club",
-          "url": "https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022"
-        },
-        {
-          "name": "Maino",
-          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
-        }
-      ],
-      "duration_ms": 177925,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1355,6 +1355,26 @@
       "duration_ms": 166888,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
+    },
+    {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/2SLw9BV4zJ2wRVKOPVYBDm"
+      },
+      "artists": [
+        {
+          "name": "HARLOE",
+          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 241799,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1415,26 +1435,6 @@
       "duration_ms": 188253,
       "name": "Chameleon (feat. Salt Cathedral)",
       "url": "https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk"
-    },
-    {
-      "added_at": "2021-11-19 05:02:00",
-      "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/2SLw9BV4zJ2wRVKOPVYBDm"
-      },
-      "artists": [
-        {
-          "name": "HARLOE",
-          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 241799,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
     },
     {
       "added_at": "2022-03-18 04:01:00",

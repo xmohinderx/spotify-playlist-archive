@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,053 likes - 38 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,099 likes - 38 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 3 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
 | 4 | [Taxi Driver](https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Awakening from the Emory Cook Collection](https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj) | 3:28 |
 | 5 | [Barbados Carnival](https://open.spotify.com/track/6VImP09GCjqLbOLY3S9S0z) | [Mighty Panther](https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG) | [Calypso Legends \- Mighty Panther / Macbeth the Great \(1953 \- 1956\)](https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC) | 2:49 |
-| 6 | [Calypsonian Invasion](https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Calypso Carnival \(Remastered\)](https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh) | 3:00 |
+| 6 | [Man Smart, Woman Smarter](https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Man Smart, Woman Smarter \(Remastered\)](https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs) | 2:34 |
 | 7 | [The Weed \(Man Pyabba\)](https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y) | [Count Lasher](https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Baba Brooks Band](https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ) | [Independence Jump Up Calypso](https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE) | 2:59 |
 | 8 | [Sausage](https://open.spotify.com/track/7KAvmiHCXGTcy0yl0ASOpD) | [Baldhead Growler](https://open.spotify.com/artist/7eeTpMfXaP4GgXU0NGkZK6) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:38 |
 | 9 | [Me Ting Is Mine](https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Atrocities](https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2) | 3:07 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 13 | [Never Ever Worry](https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:36 |
 | 14 | [Brown Skin Girl](https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Calypso](https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l) | 2:51 |
 | 15 | [Carnival Proclamation](https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6) | [Lord Melody](https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka) | [Lord Melody Sings Calypso](https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e) | 2:43 |
-| 16 | [Man Smart, Woman Smarter](https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Man Smart, Woman Smarter \(Remastered\)](https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs) | 2:34 |
+| 16 | [Calypsonian Invasion](https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Calypso Carnival \(Remastered\)](https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh) | 3:00 |
 | 17 | [Poor but Ambitious](https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Calypso Way](https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR) | 3:07 |
 | 18 | [London is the Place for Me](https://open.spotify.com/track/1pETAnznla509bUKb34xnS) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [8](https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH) | 2:47 |
 | 19 | [Money Is King](https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X) | [The Tiger](https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 37 | [Brownskin Girl](https://open.spotify.com/track/1iCy1zwGLhsLb1dlVVyH5Y) | [The Mighty Terror](https://open.spotify.com/artist/3uTJIiOFsfmjdah5XVHeQO) | [The Calypso Kings](https://open.spotify.com/album/0dHGTVg7YgvYnEbT5ipC51) | 2:35 |
 | 38 | [Adeline](https://open.spotify.com/track/4G7pVQBkEAeTyKjrB1iHD0) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:26 |
 
-Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMGZiZDNhOWIwODQyYmZhNzZlNjFmN2Q0MzA3ZTEyNjEz`
+Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMGJmMWZkMGY2NTNkYTFlNThjZWUyN2QwZmMzYjc5NDdm`

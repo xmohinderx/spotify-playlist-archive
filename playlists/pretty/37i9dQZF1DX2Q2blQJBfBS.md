@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 
 > Welcome to the underground
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,501 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,843 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 28 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 | 29 | [Don't Sweat The Technique](https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 4:22 |
 | 30 | [Astronaut Jones](https://open.spotify.com/track/3gLkmnZKsgIkAke5OqDus0) | [M.I.C Book](https://open.spotify.com/artist/0fNJxCIoIcUFNSxt8C8ypx), [Samil](https://open.spotify.com/artist/09EDoBYeffFEV3zYShzn7s) | [Fortune Cookies for Breakfast](https://open.spotify.com/album/7u9WSyPFvA2Q8IbSzBeqEb) | 2:47 |
-| 31 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
-| 32 | [4r Da Squaw](https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 3:52 |
+| 31 | [4r Da Squaw](https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 3:52 |
+| 32 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
 | 33 | [Invocation](https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [One Day It'll All Make Sense](https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE) | 2:14 |
 | 34 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 |
 | 35 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 99 | [Cosmonaut](https://open.spotify.com/track/2Lt9iwXSIbQBEgWvQe0Dxa) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Space Bar](https://open.spotify.com/album/02Yj1IHvflANtrNWNekHTt) | 2:27 |
 | 100 | [Hold On](https://open.spotify.com/track/596etLASQapOGD4iOcYJOk) | [KUMBAYA](https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio) | [Hold On](https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK) | 2:26 |
 
-Snapshot ID: `MTY1OTA5NjAwMCwwMDAwMDAwMGMyNjc4OTQ2ZDQ2ODAxMWIyYTQ3YmVmYTIwMTQyMmE3`
+Snapshot ID: `MTY1OTA5NjAwMCwwMDAwMDAwMGEyODhmMTVkZTM1YTcyNDBjYzEyYTQxMTVhNDJkOTZm`

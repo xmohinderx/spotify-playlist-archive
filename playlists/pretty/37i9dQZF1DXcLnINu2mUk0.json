@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell",
-  "num_followers": 16019,
+  "num_followers": 16046,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0NDQwMCwwMDAwMDAwMDEzZTVmNTY1N2I4ZjVlNTY3NWFjMWY3MWRjMGYyMTYz",
+  "snapshot_id": "MTY1ODQ0NDQwMCwwMDAwMDAwMGIyZjNmMDY2MjVjZmY4ZDQ3NWJiNDFiNWQ2MzFmZDY1",
   "tracks": [
     {
       "added_at": "2022-07-21 23:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-07-21 23:00:00",
       "album": {
+        "name": "Scroll",
+        "url": "https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 157177,
+      "name": "Scroll",
+      "url": "https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
         "name": "N\u00e3o Falo Nada",
         "url": "https://open.spotify.com/album/5ZA4uNOsiWN7j62XRFjN1Y"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 195793,
       "name": "N\u00e3o Falo Nada",
       "url": "https://open.spotify.com/track/344G8K622EI1rYTPfgjhEx"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Scroll",
-        "url": "https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 157177,
-      "name": "Scroll",
-      "url": "https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-07-21 23:00:00",
       "album": {
+        "name": "N\u00e3o h\u00e1 imposs\u00edveis",
+        "url": "https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "duration_ms": 154431,
+      "name": "N\u00e3o h\u00e1 imposs\u00edveis",
+      "url": "https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 153703,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "N\u00e3o h\u00e1 imposs\u00edveis",
-        "url": "https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI"
-      },
-      "artists": [
-        {
-          "name": "Sippinpurpp",
-          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
-        }
-      ],
-      "duration_ms": 154431,
-      "name": "N\u00e3o h\u00e1 imposs\u00edveis",
-      "url": "https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP"
     },
     {
       "added_at": "2022-07-21 23:00:00",

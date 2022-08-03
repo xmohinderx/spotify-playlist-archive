@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4bGuyvrKl5.md) - [plain]
 
 > Swedish house icons <a href ="spotify:artist:6rgEPiKjowlMKZC1DF6W75">Rebecca & Fiona</a> kicking off rave season with their gem filled spring mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,008 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIlGSTRox0A.md) - [plain]
 
 > Riscopri le più grandi hit del 2007! Cover: Amy Winehouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,455 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,459 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIlGSTRox0A.md) - [plain]
 | 79 | [Brianstorm](https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:50 |
 | 80 | [Throw Some D's](https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu) | [Rich Boy](https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut), [Polow Da Don](https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR) | [Rich Boy](https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9) | 4:23 |
 | 81 | [Makes Me Wonder](https://open.spotify.com/track/1lHXlGlve5Zx8tXLhyjDwM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:31 |
-| 82 | [Outta My System \(feat\. T\-Pain & Johntá Austin\)](https://open.spotify.com/track/3LGeYNY9aWQuBJovOOowqm) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Johnta Austin](https://open.spotify.com/artist/0DRTDBGl9fBAzVdF1IFA75) | [The Price Of Fame](https://open.spotify.com/album/1Dt7wPQxjnJJBiV6fczCpS) | 3:58 |
-| 83 | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ) | 4:01 |
+| 82 | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ) | 4:01 |
+| 83 | [Outta My System \(feat\. T\-Pain & Johntá Austin\)](https://open.spotify.com/track/3LGeYNY9aWQuBJovOOowqm) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Johnta Austin](https://open.spotify.com/artist/0DRTDBGl9fBAzVdF1IFA75) | [The Price Of Fame](https://open.spotify.com/album/1Dt7wPQxjnJJBiV6fczCpS) | 3:58 |
 | 84 | [LoveStoned / I Think She Knows \(Interlude\)](https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:24 |
 | 85 | [Last Night](https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 4:15 |
 | 86 | [Promise](https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIlGSTRox0A.md) - [plain]
 | 99 | [Runaway Love](https://open.spotify.com/track/3QnEp4rluCxUwgpXT43jmC) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Release Therapy](https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg) | 4:40 |
 | 100 | [Walk It Out](https://open.spotify.com/track/7oyNjeXQ57dASDnqg8wbbl) | [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Twerking Hitz \(Bonus Track Edition\)](https://open.spotify.com/album/0vdebxnOOAsy9KTBQH5ngQ) | 2:53 |
 
-Snapshot ID: `MTYwNDUwMDMxOCwwMDAwMDAwMGVkODA4ZDQ0NTMyY2RjYThjZGZjMjQwYWNkMGQzNmYw`
+Snapshot ID: `MTYwNDUwMDMxOCwwMDAwMDAwMGQ0ZGFjM2UwOWM1ZjhmYWViNzFmZmE4MWE1Mjc2Mjk1`

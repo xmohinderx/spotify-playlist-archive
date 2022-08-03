@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9G3ABmczo5.md) - [plain]
 
 > A playlist highlighting music from the South Asian Diaspora\. Cover: Parekh & Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 214 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 222 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

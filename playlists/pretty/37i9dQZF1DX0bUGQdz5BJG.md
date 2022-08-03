@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kameron Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,801 likes - 155 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,898 likes - 155 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

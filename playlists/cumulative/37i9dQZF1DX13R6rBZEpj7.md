@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-129 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
+130 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All My Love](https://open.spotify.com/track/3RAgAdJt10E68RQj6NcG7p) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/2p3AHorjKMnURWK4apzAYt) | 2:49 | 2022-04-15 |  |
 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 | 2022-04-15 | 2022-07-26 |
 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 | 2022-04-15 |  |
-| [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 | 2022-04-15 |  |
+| [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 | 2022-04-15 | 2022-08-03 |
 | [Anything](https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Anything](https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy) | 4:43 | 2022-04-15 |  |
 | [Back](https://open.spotify.com/track/54qy9HFmqlgtngpatAAAPp) | [DubbleT](https://open.spotify.com/artist/0qFd9z9Shj28sgoLwKr0Af), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Back](https://open.spotify.com/album/4anFbEJ3IamNPrz66GJZpD) | 3:58 | 2022-07-14 |  |
 | [Banzai VIP](https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Banzai VIP](https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1) | 4:54 | 2022-04-15 |  |
@@ -81,6 +81,7 @@
 | [Kombat](https://open.spotify.com/track/7ug5Dlrb7MwL8QuddTglKB) | [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ), [Griz\-O](https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ) | [Kombat / 144](https://open.spotify.com/album/0PgR6HhGpJ3jQvkWNNm50n) | 4:30 | 2022-05-13 |  |
 | [Latch](https://open.spotify.com/track/66jSZ5c1fdfRzQpqMqDSPq) | [Jay Wall](https://open.spotify.com/artist/2MuTX0w1na0pyChGIjHD5r), [Tension](https://open.spotify.com/artist/09wzeOugjkAV1exJjXzbv9) | [Latch](https://open.spotify.com/album/0bVt5pvdGLInGr5cp5JJ6g) | 3:34 | 2022-04-15 | 2022-07-27 |
 | [Lazerbeams](https://open.spotify.com/track/2PjxXX0yPQ3WzzrDSa2gSW) | [Wheeto](https://open.spotify.com/artist/5YZNr5ukMm2xAT7Y4LbTl2) | [Lazerbeams](https://open.spotify.com/album/6NwiY5NxiPM45GZW9N19og) | 4:11 | 2022-04-15 | 2022-07-26 |
+| [Lazerbeams](https://open.spotify.com/track/4Hj1uH3V9BRbVuafRXKjNK) | [Wheeto](https://open.spotify.com/artist/5YZNr5ukMm2xAT7Y4LbTl2) | [Lazerbeams](https://open.spotify.com/album/5D5gK0AmP6x16TiGqzUEN6) | 4:11 | 2022-07-14 |  |
 | [Lighter \(feat\. KSI\) \- Shapes Remix](https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Lighter \(feat\. KSI\) \[Shapes Remix\]](https://open.spotify.com/album/3qKcrBnDpoJoGGdNUyi7d2) | 3:24 | 2022-04-15 |  |
 | [Lights](https://open.spotify.com/track/0ObQeoS1Mka9as8t4Tn9BC) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Lights](https://open.spotify.com/album/7pnFfPujVx8j0atIcYV2sP) | 4:16 | 2022-06-10 | 2022-07-25 |
 | [Live It Up](https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ) | [Live It Up](https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw) | 4:00 | 2022-04-15 |  |

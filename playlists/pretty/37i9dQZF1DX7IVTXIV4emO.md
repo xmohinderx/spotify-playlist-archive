@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7IVTXIV4emO.md) - [plain]
 
 > manejando la tranquilidad 🏝  🥥  🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,370 likes - 59 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,496 likes - 59 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

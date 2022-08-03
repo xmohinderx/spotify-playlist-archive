@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave, co-curated with <a href=\"https://tejanonation.net/\">Tejano Nation</a>! La nueva ola de la m\u00fasica tejana. Cover: Stefani Montiel",
-  "num_followers": 140092,
+  "num_followers": 140099,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMDU3OGQ5NTExODdhYWI0MjBlY2Y2YWNlMmRhOTkyYTUw",
+  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMGM4ZTI3MDE0ODRmYzc3YTVkMzE5MzdiYzAzNjgxODhm",
   "tracks": [
     {
       "added_at": "2022-03-07 20:49:42",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Caballero Jr",
-          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 193967,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Caballero Jr",
+          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
         "name": "Me Enamor\u00e9 de un \u00c1ngel",
         "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Nunca Voy A Olvidarte (Radio Mix)",
+        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
+      },
+      "artists": [
+        {
+          "name": "Los Lost Boyz",
+          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
+        }
+      ],
+      "duration_ms": 198216,
+      "name": "Nunca Voy A Olvidarte - Radio Mix",
+      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Nunca Voy A Olvidarte (Radio Mix)",
-        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
-      },
-      "artists": [
-        {
-          "name": "Los Lost Boyz",
-          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
-        }
-      ],
-      "duration_ms": 198216,
-      "name": "Nunca Voy A Olvidarte - Radio Mix",
-      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Mentias",
         "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 199870,
       "name": "Mentias",
       "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
-      },
-      "artists": [
-        {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -723,6 +707,22 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+        }
+      ],
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 220003,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "El Besito",
+        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
+      },
+      "artists": [
+        {
+          "name": "Laura Linda",
+          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
+        }
+      ],
+      "duration_ms": 180651,
+      "name": "El Besito",
+      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "El Besito",
-        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
-      },
-      "artists": [
-        {
-          "name": "Laura Linda",
-          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
-        }
-      ],
-      "duration_ms": 180651,
-      "name": "El Besito",
-      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Un D\u00eda Veras",
         "url": "https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "No Soy La Misma",
-        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
-      },
-      "artists": [
-        {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
-        }
-      ],
-      "duration_ms": 224344,
-      "name": "No Soy La Misma",
-      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Final De Tu Amor",
         "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 205438,
       "name": "Final De Tu Amor",
       "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "No Soy La Misma",
+        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
+      },
+      "artists": [
+        {
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
+        }
+      ],
+      "duration_ms": 224344,
+      "name": "No Soy La Misma",
+      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
     },
     {
       "added_at": "2022-03-07 20:49:42",

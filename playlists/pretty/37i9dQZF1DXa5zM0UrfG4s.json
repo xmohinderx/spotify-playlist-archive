@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
-  "num_followers": 86407,
+  "num_followers": 86448,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MTUxNiwwMDAwMDAwMGY0MGFkNWQ2MGFlYTE1MDlkYTIxMTgyMWQ2YTYxMDli",
+  "snapshot_id": "MTY1OTM0MTUxNiwwMDAwMDAwMGM0ZjdkOTE0MzBkYmExNTQxZGRjNTVjYzgyYmMyMzky",
   "tracks": [
     {
       "added_at": "2022-08-01 08:11:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-08-01 08:11:56",
       "album": {
-        "name": "R\u00f6d Chevrolet",
-        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Det regnar och regnar",
-      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
-    },
-    {
-      "added_at": "2022-08-01 08:11:56",
-      "album": {
         "name": "Eventyr",
         "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+    },
+    {
+      "added_at": "2022-08-01 08:11:56",
+      "album": {
+        "name": "R\u00f6d Chevrolet",
+        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Det regnar och regnar",
+      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2022-08-01 08:11:56",
@@ -711,22 +711,26 @@
     {
       "added_at": "2022-08-01 08:11:56",
       "album": {
-        "name": "Hytta Mi",
-        "url": "https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc"
+        "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
+        "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
         },
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
         }
       ],
-      "duration_ms": 138454,
-      "name": "Hytta Mi",
-      "url": "https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15"
+      "duration_ms": 140245,
+      "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
+      "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
     },
     {
       "added_at": "2022-08-01 08:11:56",
@@ -751,26 +755,22 @@
     {
       "added_at": "2022-08-01 08:11:56",
       "album": {
-        "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
-        "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
+        "name": "Hytta Mi",
+        "url": "https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc"
       },
       "artists": [
         {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         },
         {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 140245,
-      "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
-      "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
+      "duration_ms": 138454,
+      "name": "Hytta Mi",
+      "url": "https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15"
     },
     {
       "added_at": "2022-08-01 08:11:56",
@@ -867,38 +867,6 @@
     {
       "added_at": "2022-08-01 08:11:56",
       "album": {
-        "name": "S\u00e6la P\u00e5",
-        "url": "https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Morten Ramm",
-          "url": "https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud"
-        },
-        {
-          "name": "Mr. Pimp-Lotion",
-          "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
-        },
-        {
-          "name": "Roy Harrytassen",
-          "url": "https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz"
-        },
-        {
-          "name": "DJ Dan",
-          "url": "https://open.spotify.com/artist/4HnCaC2Dd4EOAkFm6WHsYe"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "S\u00e6la P\u00e5",
-      "url": "https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR"
-    },
-    {
-      "added_at": "2022-08-01 08:11:56",
-      "album": {
         "name": "Ola",
         "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
       },
@@ -967,6 +935,38 @@
       "duration_ms": 136814,
       "name": "Jag \u00e4r taggad",
       "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+    },
+    {
+      "added_at": "2022-08-01 08:11:56",
+      "album": {
+        "name": "S\u00e6la P\u00e5",
+        "url": "https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Morten Ramm",
+          "url": "https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud"
+        },
+        {
+          "name": "Mr. Pimp-Lotion",
+          "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
+        },
+        {
+          "name": "Roy Harrytassen",
+          "url": "https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz"
+        },
+        {
+          "name": "DJ Dan",
+          "url": "https://open.spotify.com/artist/4HnCaC2Dd4EOAkFm6WHsYe"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "S\u00e6la P\u00e5",
+      "url": "https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR"
     },
     {
       "added_at": "2022-08-01 08:11:56",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-08-01 08:11:56",
       "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2022-08-01 08:11:56",
+      "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-08-01 08:11:56",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+        "name": "Wellerman",
+        "url": "https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
         }
       ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+      "duration_ms": 151933,
+      "name": "Wellerman",
+      "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
     },
     {
       "added_at": "2022-08-01 08:11:56",
@@ -1123,22 +1139,6 @@
       "duration_ms": 185884,
       "name": "En Siste Gang",
       "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
-    },
-    {
-      "added_at": "2022-08-01 08:11:56",
-      "album": {
-        "name": "Wellerman",
-        "url": "https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR"
-      },
-      "artists": [
-        {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "Wellerman",
-      "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
     },
     {
       "added_at": "2022-08-01 08:11:56",

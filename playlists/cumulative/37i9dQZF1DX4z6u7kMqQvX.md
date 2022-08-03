@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-380 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+381 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 | 2022-01-07 |  |
 | [Fugaces](https://open.spotify.com/track/28Wj6qGLshfIAEXXAWzoB2) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fugaces](https://open.spotify.com/album/5to2IseBAcfon6henW8qPf) | 4:13 | 2022-01-28 | 2022-07-24 |
 | [Fuimos](https://open.spotify.com/track/4C8QXT8QEsQO5D2FLyilN1) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/1Ajzi28vHUyf7Dyv7rZAOR) | 3:33 | 2022-01-07 | 2022-07-29 |
+| [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 | 2022-07-29 |  |
 | [Fuji](https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB) | 4:38 | 2022-01-07 |  |
 | [Fumar](https://open.spotify.com/track/7gCu2tqv6pGqBhL6mz0emO) | [Los Jureles](https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC) | [520 Hz](https://open.spotify.com/album/7xyyGUj1nyOxxOx7lmUo0o) | 4:08 | 2022-04-01 | 2022-04-08 |
 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 | 2022-01-07 |  |
@@ -290,7 +291,7 @@
 | [Quedate](https://open.spotify.com/track/1WohaDmf4qWzQ0QIeI1Vd7) | [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY) | [Quedate](https://open.spotify.com/album/1gaPvJ85r87WQA3QrQksHc) | 3:08 | 2022-04-01 | 2022-04-20 |
 | [Quiero Que Seas Tú](https://open.spotify.com/track/0qBn4QfRGYx8KKbpYTzbcm) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Quiero Que Seas Tú](https://open.spotify.com/album/42SkhzG4LsVSPfpa0nEiZ5) | 2:58 | 2022-01-07 | 2022-07-28 |
 | [Quiero Verte](https://open.spotify.com/track/29Lj5KZQxIR8pPXrTUkOOv) | [Pako Galvan](https://open.spotify.com/artist/6ulD1PL8KDmWRI73SHdwL1) | [Quiero Verte](https://open.spotify.com/album/5ap0uVjXYh3QX6OBELt03w) | 3:25 | 2022-01-28 | 2022-07-29 |
-| [Quise](https://open.spotify.com/track/3aSpe9KArMXK1x75VcPTfG) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 5:14 | 2022-01-07 |  |
+| [Quise](https://open.spotify.com/track/3aSpe9KArMXK1x75VcPTfG) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 5:14 | 2022-01-07 | 2022-08-03 |
 | [QUN](https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [QUN](https://open.spotify.com/album/47XooQzRkZy0kh6ccRPceH) | 3:09 | 2022-01-07 |  |
 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/6P39XaKGRchk7Ug7jSIWQe) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/1npZZgI8E99ZyQKj9jpPcJ) | 4:13 | 2022-01-07 | 2022-07-26 |
 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 | 2022-01-07 |  |

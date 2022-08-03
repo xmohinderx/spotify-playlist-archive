@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: El Proyecto
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,143 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,150 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 44 | [Morro Loco](https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Morro Loco](https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c) | 3:11 |
 | 45 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 |
 | 46 | [Así Soy](https://open.spotify.com/track/3yZ4hhkdAmZ9gwEyWavAsW) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Así Soy](https://open.spotify.com/album/5DsyGnotkIR6K9It6lFOJH) | 2:59 |
-| 47 | [Airplanes](https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:10 |
-| 48 | [Nuestra Profecía](https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Nuestra Profecía](https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n) | 2:47 |
+| 47 | [Nuestra Profecía](https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Nuestra Profecía](https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n) | 2:47 |
+| 48 | [Airplanes](https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:10 |
 | 49 | [Esperame](https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Esperame](https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg) | 3:00 |
 | 50 | [Bajo La Gorra](https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu) | [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx) | [Bajo La Gorra](https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc) | 3:10 |
 | 51 | [Sembrando](https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:08 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 60 | [Dolor Maquillado](https://open.spotify.com/track/6AgYfAUT7HKK2EGv4euZUV) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Historias Pa’ Contar](https://open.spotify.com/album/6i8fnbUdHbs68xHQKgjEpg) | 4:05 |
 | 61 | [Ya Les Contaron](https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Atrapado En El Papel](https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54) | 2:12 |
 | 62 | [Me Apodan El Chino](https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r) | [Christian Ramos Jr](https://open.spotify.com/artist/4yDvNHPlq1b6ZyQfvbeIRE) | [Me Apodan El Chino](https://open.spotify.com/album/3ScsygF0ldBn0v1GzpZWV1) | 3:40 |
-| 63 | [Si Me Ven Tomar](https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Si Me Ven Tomar](https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY) | 3:13 |
-| 64 | [La Tormenta](https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [La Tormenta](https://open.spotify.com/album/02yUE3GbV3gY6PtkiH9VQt) | 3:26 |
+| 63 | [La Tormenta](https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [La Tormenta](https://open.spotify.com/album/02yUE3GbV3gY6PtkiH9VQt) | 3:26 |
+| 64 | [Si Me Ven Tomar](https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Si Me Ven Tomar](https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY) | 3:13 |
 | 65 | [En Un Deportivo Voy](https://open.spotify.com/track/5tjAFuUzHkOlTfL7eX8T6B) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Renacido](https://open.spotify.com/album/69smyPeNaxRkiBahOoKNLo) | 3:21 |
 | 66 | [Misión Secreta](https://open.spotify.com/track/1FTAZLq38OCJ5clZF7Fu53) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Misión Secreta](https://open.spotify.com/album/2UXW2EkrfnA1RE52r5YBE1) | 3:14 |
 | 67 | [El Piyi](https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [El Piyi](https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq) | 2:42 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 73 | [Lo Que Te Pasa](https://open.spotify.com/track/4Qwx5RaF7EnOMXsY7eXH51) | [Isaac Torres y Su Alianza](https://open.spotify.com/artist/1qnlff2Qvu3aOW5NsRDVkb) | [Lo Que Te Pasa](https://open.spotify.com/album/24rdiWOxJwLyNoX87V0mgI) | 2:54 |
 | 74 | [Les Quedo Claro](https://open.spotify.com/track/3BVUwM6VMNTQjIh6gbi2V4) | [Sertres](https://open.spotify.com/artist/1Rwxb5AhtJPW03gmqHJhEq) | [Les Quedo Claro](https://open.spotify.com/album/0byJUz2IEI7oCxoAYW8JKf) | 3:17 |
 | 75 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 |
-| 76 | [La Tarde](https://open.spotify.com/track/1CFBRxQEXXVYwNnMAYXUzh) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [La Tarde](https://open.spotify.com/album/7DNoBF6mIiJZxol7rpNJKa) | 3:36 |
-| 77 | [Algo Bien](https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Algo Bien](https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy) | 2:46 |
-| 78 | [Fumamos Mota](https://open.spotify.com/track/3vSq4gnH2PnKRWV9Nca8Pl) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Emmanuel Olea](https://open.spotify.com/artist/6g5rNqD6vHkhB3aFSeti3u) | [Archive Muzik Vol\. 1](https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC) | 4:34 |
+| 76 | [Fumamos Mota](https://open.spotify.com/track/3vSq4gnH2PnKRWV9Nca8Pl) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Emmanuel Olea](https://open.spotify.com/artist/6g5rNqD6vHkhB3aFSeti3u) | [Archive Muzik Vol\. 1](https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC) | 4:34 |
+| 77 | [La Tarde](https://open.spotify.com/track/1CFBRxQEXXVYwNnMAYXUzh) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [La Tarde](https://open.spotify.com/album/7DNoBF6mIiJZxol7rpNJKa) | 3:36 |
+| 78 | [Algo Bien](https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Algo Bien](https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy) | 2:46 |
 | 79 | [Maravillosa](https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Temporadas Emocionales](https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ) | 4:07 |
 | 80 | [Gabriel Ornelas](https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Gabriel Ornelas](https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ) | 3:07 |
 | 81 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 85 | [Manny Flores](https://open.spotify.com/track/23hHl7ujNhCXKirOUhPPTm) | [Nuevo Regimiento](https://open.spotify.com/artist/2dYOoYpVWymc4PTl1KR5o6) | [Manny Flores](https://open.spotify.com/album/13adeP5WP72vXLkntMJMbj) | 3:34 |
 | 86 | [El Error](https://open.spotify.com/track/1KQ5s1khSX5yi1AIWxKbms) | [Baby Kintero](https://open.spotify.com/artist/1DTvd5Qjpee91lOAtK1e73) | [El Error](https://open.spotify.com/album/5zN0tGeyGxTHsZfpAyVbLG) | 3:08 |
 | 87 | [Nadie En Este Mundo](https://open.spotify.com/track/783fveiyg1BqcdHrzNcXuo) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Nadie En Este Mundo](https://open.spotify.com/album/37a9b4XAXZzS7xg5y2A0tO) | 3:52 |
-| 88 | [Te Fuiste Mi Amor](https://open.spotify.com/track/4p081voOnOQ9bj8hQEHAaz) | [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [Te Fuiste Mi Amor](https://open.spotify.com/album/5v0XaehEwwxMO1XCDDneLg) | 2:49 |
-| 89 | [Una Rosa y Un Beso \- En Vivo](https://open.spotify.com/track/4xb2NaEONZraXK4LCnDdmi) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [En Vivo Desde La Angelina](https://open.spotify.com/album/61N8v3Zws2PXt6bZT5lYlF) | 2:43 |
+| 88 | [Una Rosa y Un Beso \- En Vivo](https://open.spotify.com/track/4xb2NaEONZraXK4LCnDdmi) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [En Vivo Desde La Angelina](https://open.spotify.com/album/61N8v3Zws2PXt6bZT5lYlF) | 2:43 |
+| 89 | [Te Fuiste Mi Amor](https://open.spotify.com/track/4p081voOnOQ9bj8hQEHAaz) | [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [Te Fuiste Mi Amor](https://open.spotify.com/album/5v0XaehEwwxMO1XCDDneLg) | 2:49 |
 | 90 | [La Reina](https://open.spotify.com/track/1LsnmssHeyjWIVEplI4S5s) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Una Empresa](https://open.spotify.com/album/6kLHvyOJWhZ4PwYf2zFhgD) | 3:26 |
 | 91 | [Que Salga De Ti](https://open.spotify.com/track/4GtnM2wxYSeHtoiwKQwTuf) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Que Salga De Ti](https://open.spotify.com/album/3WiG7Qdw9f0bsFgywnrrrJ) | 3:16 |
 | 92 | [Enfocado](https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj) | [Enfocado](https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Solo En Mis Sueños](https://open.spotify.com/track/1EOoNAzazF9yiIVSYee39r) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Solo En Mis Sueños](https://open.spotify.com/album/2rmcjZNVHOhfMltQLabH2O) | 2:52 |
 | 100 | [Jefe De Juarez](https://open.spotify.com/track/5QVllms1Vr8w1n1sI87RkC) | [Inoboiz](https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ) | [Trailer Park Boiz Vol\. 2](https://open.spotify.com/album/5lS9isCntFJm1oHRIn1rES) | 3:23 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDAwY2JhN2E0Y2I1M2MwOWZjYzNkMzc5ZTNmMTg0ZDVh`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDE1MjQwZTYxMTRmZDVkMDZiZGZkMjFlMzU3NzFkYTNk`

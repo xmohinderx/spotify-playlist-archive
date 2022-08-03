@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > A party full of glitter, confetti and beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,662 likes - 70 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,828 likes - 70 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 35 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
 | 36 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
 | 37 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
-| 38 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
-| 39 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
+| 38 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
+| 39 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
 | 40 | [Dance with That Groove](https://open.spotify.com/track/0VVsLXAYnzm3njaefKmOhC) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm) | [Dance with That Groove](https://open.spotify.com/album/5hGq4tS6Kd02aaPykH4cs0) | 2:53 |
 | 41 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 | 42 | [Eclipse](https://open.spotify.com/track/2JgA2RdmSbm4MIx3AOwlM5) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Anima](https://open.spotify.com/artist/4kd9SPJahjhR4fJov8JeQC) | [Eclipse](https://open.spotify.com/album/2XZV4ChGjt6cWT9eEqDkF0) | 5:17 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 63 | [Blaze \- Extended](https://open.spotify.com/track/58iabqF6o0s28v262ycuUn) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Blaze](https://open.spotify.com/album/0yzwuCt5GjlnUgNDROF4ls) | 6:50 |
 | 64 | [Something Was Missing \- PARIS Remix](https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3), [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Something Was Missing \(PARIS Remix\)](https://open.spotify.com/album/25IgyccLzfoOzT0SwBn43v) | 4:39 |
 | 65 | [Life \- GHEIST Remix](https://open.spotify.com/track/3sFZpkPuNL0NIxBWof3WdN) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Four \(Remixes Deluxe\)](https://open.spotify.com/album/490CaV6FfZRzeKKjJzF0uT) | 6:02 |
-| 66 | [Symmetry \- Club Remix](https://open.spotify.com/track/3R3OYD2T8IR3BAYfCpBgdP) | [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [Symmetry \(Club Remix\)](https://open.spotify.com/album/4GVfCLvZDmDhjGgqrpxyby) | 6:06 |
-| 67 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 |
+| 66 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 |
+| 67 | [Symmetry \- Club Remix](https://open.spotify.com/track/3R3OYD2T8IR3BAYfCpBgdP) | [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [Symmetry \(Club Remix\)](https://open.spotify.com/album/4GVfCLvZDmDhjGgqrpxyby) | 6:06 |
 | 68 | [Yours](https://open.spotify.com/track/5kNv1Du0DqYgKkFgXiBRu3) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Yours](https://open.spotify.com/album/4nx4lWkeRVuqVTIr0RBFH7) | 4:17 |
 | 69 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 |
 | 70 | [Hands On..\. Don't Waste My Time](https://open.spotify.com/track/7zPHYX5tpIZYszcKrwfOo0) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Hands On...](https://open.spotify.com/album/5HCJLQJG0k7lMLXyi5zcT1) | 5:29 |
 
-Snapshot ID: `MTY1NjA2NDgwMCwwMDAwMDAwMDkzNWQ3NTA1OGU4ZWM4ZjI1YTIxNjkzMzRmYTBiMTM5`
+Snapshot ID: `MTY1NjA2NDgwMCwwMDAwMDAwMDRiOGVmNzY0NGI1YWRhMmIzNzllNzlmYWVkZTJjNjNh`

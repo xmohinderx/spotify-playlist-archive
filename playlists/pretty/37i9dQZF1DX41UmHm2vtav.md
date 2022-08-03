@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,967 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,023 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 62 | [Amor Pra Recomeçar](https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Amor Pra Recomeçar](https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch) | 2:38 |
 | 63 | [Piloto Automático \- Gabriel Boni, Voltech & Zucchi Remix](https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o), [Zucchi](https://open.spotify.com/artist/5hVxp6djhY7Zw49jBRthul) | [Piloto Automático \(Gabriel Boni, Voltech & Zucchi Remix\)](https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk) | 6:16 |
 | 64 | [Toda Forma De Amor \- Remix](https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C) | [Make U Sweat](https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor \(Remix\)](https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80) | 3:48 |
-| 65 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
-| 66 | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX) | 3:11 |
+| 65 | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX) | 3:11 |
+| 66 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 67 | [Todo Homem \- Bhaskar, Mojjo Remix](https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Todo Homem \(Bhaskar, Mojjo Remix\)](https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN) | 4:29 |
-| 68 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
-| 69 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
+| 68 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
+| 69 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
 | 70 | [Falling Like The Stars \- Madism Remix](https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Falling Like The Stars \(Madism Remix\)](https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz) | 3:01 |
 
-Snapshot ID: `MTY1OTA2MzY2MCwwMDAwMDAwMDRmZWMyZjkwYjFiMWQ3YjY2YmMxODEyMWM2MDg4Zjc0`
+Snapshot ID: `MTY1OTA2MzY2MCwwMDAwMDAwMGIwZDVmNDFkYmMwZjAzNDA4NzFjMzg2YWViMGJiM2Y4`

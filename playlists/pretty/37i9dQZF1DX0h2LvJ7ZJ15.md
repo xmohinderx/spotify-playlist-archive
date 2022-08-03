@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,790 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,927 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 37 | [Ease Off \- Slowed & Reverbed](https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Ease Off \(Slowed & Reverbed\)](https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9) | 2:41 |
 | 38 | [2077 \(Slowed + Reverb\)](https://open.spotify.com/track/5s5p0qhNS1fkamW4Y8G4Vi) | [slowed down music](https://open.spotify.com/artist/0To1rYNCQCQNqWr6mnboFi), [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077 \(Slowed + Reverb\)](https://open.spotify.com/album/2pk9bxFgWz6Sa9FBVpuwLI) | 2:36 |
 | 39 | [Losing It \- Slowed and Reverb](https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1) | [ZRobb](https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Please Don’t Kill My Vibes](https://open.spotify.com/album/7wZAMRDwtGZqiUDy1fxIbz) | 3:28 |
-| 40 | [Bad Habits \(Slowed + Reverb\)](https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr) | [Solstice](https://open.spotify.com/artist/0jowzILNRrPmfpajO2iWmz) | [Villains \(Slowed + Reverb\)](https://open.spotify.com/album/6FZKyNYrKmICp07GkFjsAx) | 3:07 |
-| 41 | [17 \- Slowed + reverb](https://open.spotify.com/track/2Nbhq0jI4SR7whs7YNZEuJ) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [17 \(Slowed + reverb\)](https://open.spotify.com/album/4t2A5pNu44Ow8q3nRRA64X) | 3:29 |
+| 40 | [17 \- Slowed + reverb](https://open.spotify.com/track/2Nbhq0jI4SR7whs7YNZEuJ) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [17 \(Slowed + reverb\)](https://open.spotify.com/album/4t2A5pNu44Ow8q3nRRA64X) | 3:29 |
+| 41 | [Bad Habits \(Slowed + Reverb\)](https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr) | [Solstice](https://open.spotify.com/artist/0jowzILNRrPmfpajO2iWmz) | [Villains \(Slowed + Reverb\)](https://open.spotify.com/album/6FZKyNYrKmICp07GkFjsAx) | 3:07 |
 | 42 | [DIVE IN! \- SLOWED REVERB!](https://open.spotify.com/track/0ZJ09tmBmKJlUTz8y7qDCV) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN! \(SPED UP! / SLOWED REVERB!\)](https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP) | 2:07 |
 | 43 | [NEVER MET! \(feat\. Glitch Gum\) \- Slowed](https://open.spotify.com/track/2a68c5nfBcRAGDAyMOVGuX) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [NEVER MET! \(feat\. Glitch Gum\) \[Slowed\]](https://open.spotify.com/album/2q39vwyCoD2GJkY59i307W) | 2:48 |
 | 44 | [Us and Them](https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu), [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Us and Them](https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Faster \(Slowed & Reverb\)](https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Slowed & Reverb\)](https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16) | 3:19 |
 | 50 | [Don't Forget My Love \- slowed + reverb](https://open.spotify.com/track/3C2o6Iw5yLpe6HViGP9OYX) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love \(slowed + reverb\)](https://open.spotify.com/album/3RwnUNG3BffFA0ocBpPhBo) | 3:43 |
 
-Snapshot ID: `MTY1OTExODczNywwMDAwMDAwMDdkZDFiZGZiNGJlNjA5OGY5MzgzNjRiMDgzOTY3ZmFh`
+Snapshot ID: `MTY1OTExODczNywwMDAwMDAwMGYwN2MwNzc3ZmE3ZDJkMjE0Yjg3OTIxYzEyYTMwZDgz`

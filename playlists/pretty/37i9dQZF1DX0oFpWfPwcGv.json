@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 25843,
+  "num_followers": 25898,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDcyZTNhYzQ4NDExOTgyYTQwY2I0N2NmNTgxYWM3ZWFj",
+  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDg2Y2U0YzZjNGVkNGMwZmUzMDg5OWU2MjE4MDYyOTIz",
   "tracks": [
     {
       "added_at": "2022-07-15 04:40:14",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "No One Gets The Prize",
-      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
         "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 261293,
       "name": "A Night in New York - Remastered",
       "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "No One Gets The Prize",
+      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Crooklyn Volume II",
-        "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Jean Carn",
         "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 255400,
       "name": "Time Waits for No One",
       "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Crooklyn Volume II",
+        "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
     },
     {
       "added_at": "2022-07-15 04:40:14",

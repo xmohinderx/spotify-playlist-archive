@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo & Takeoff, Rod Wave, and Gucci Mane\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,148 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,245 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 5 | [Stone Rolling](https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Stone Rolling](https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF) | 3:00 |
 | 6 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 |
 | 7 | [Big Daddy Wiz \(feat\. Girl Talk\)](https://open.spotify.com/track/327BrH20DE945kxC164frW) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Big Daddy Wiz \(feat\. Girl Talk\)](https://open.spotify.com/album/3uN1rbML3QpLSYVWMcrASW) | 2:11 |
-| 8 | [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
+| 8 | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
 | 9 | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW) | 2:44 |
 | 10 | [Blood](https://open.spotify.com/track/7HxF1E8NUO3eugSGCmojmd) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood](https://open.spotify.com/album/2SXFIYJDKP01UIcs8AFT9t) | 2:34 |
 | 11 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 21 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 |
 | 22 | [Tony Montana Flow](https://open.spotify.com/track/53PRah50n7xf7mJlzAmaDH) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Akachi](https://open.spotify.com/artist/0qm8T0Qee8ZITAOwUTfXgJ) | [Tony Montana Flow](https://open.spotify.com/album/4PoNcoh9yRZ6FSyCQSDSEp) | 2:22 |
 | 23 | [Red Flag](https://open.spotify.com/track/1zTsj09nN6RamZRO8W8Ssb) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Fenix Flexin Vol\. 2](https://open.spotify.com/album/0uoPpxGXbIwYTEm7XW33Lu) | 1:58 |
-| 24 | [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 |
+| 24 | [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 |
 | 25 | [If These Walls Could Talk](https://open.spotify.com/track/4yt9MUm0zxEgx6m0Nml7M9) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:02 |
 | 26 | [Patience \(feat\. Lil Baby\)](https://open.spotify.com/track/7ci1R1e89Zw0HumjHSN5XF) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [From Trap To Rap 2](https://open.spotify.com/album/1tgH9psuYmcbLZPMX6yFAO) | 2:41 |
 | 27 | [Holy Spirit](https://open.spotify.com/track/6UmbEhrCtEHtUGcIBYoegg) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Holy Spirit](https://open.spotify.com/album/6OpBXPTvTiBwyaS9C4Z50d) | 3:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [John Madden](https://open.spotify.com/track/11KwAIwVAJBBu11EZSs4bx) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Rage](https://open.spotify.com/album/6GSQB5UGNrBtsbebop239n) | 2:27 |
 | 49 | [Lost Me](https://open.spotify.com/track/1gKDstFnwZNgvrE01YG7AA) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy) | [Lost Me](https://open.spotify.com/album/0jXMtfh2sdBtRZ1Fu3UJwY) | 2:35 |
 
-Snapshot ID: `MTY1OTMyMDczOCwwMDAwMDAwMGYwNTczYjgzOTNiODVhNDA0MmIyOWJjZjhmMjY0ZDli`
+Snapshot ID: `MTY1OTMyMDczOCwwMDAwMDAwMDQzY2ZkNjc0YjE3NGYzZTVhYTY4MzU3NDgxYzc0MDBi`
