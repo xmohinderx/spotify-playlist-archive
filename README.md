@@ -678,6 +678,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Broadway in Love!](/playlists/pretty/37i9dQZF1DX888loZNVRav.md)
 - [Broken Heart](/playlists/pretty/37i9dQZF1DXbrUpGvoi3TS.md)
 - [Broker \(브로커\)](/playlists/pretty/37i9dQZF1DX5ZabZ8cxclR.md)
+- [BrooklynVegan Weekly Playlist](/playlists/pretty/0ZQcCFqc1ziBiC1fvrrbsT.md)
 - [Brown Noise](/playlists/pretty/37i9dQZF1DX4hpot8sYudB.md)
 - [Brown and Black Excellence](/playlists/pretty/37i9dQZF1DWWwkbFYEItuo.md)
 - [Brunch Jazz](/playlists/pretty/37i9dQZF1DX9BVquKzFnCW.md)
