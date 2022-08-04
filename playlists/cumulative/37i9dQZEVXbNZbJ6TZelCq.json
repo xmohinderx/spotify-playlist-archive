@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 123200,
       "name": "Am Banii",
       "url": "https://open.spotify.com/track/3psQ6Rqk5c4QK08hE1GoyI"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
@@ -3033,7 +3033,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 159600,
       "name": "CONTACT FATAL",
       "url": "https://open.spotify.com/track/5IqPGGvekdnZis9XhcyXeh"
@@ -5546,6 +5546,36 @@
     },
     {
       "album": {
+        "name": "Gestu",
+        "url": "https://open.spotify.com/album/0mmWK0LujdU55qyyODPUDD"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "FLORIS",
+          "url": "https://open.spotify.com/artist/6oCCIhNLreyOTp3krqOfeM"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Gestu",
+      "url": "https://open.spotify.com/track/4JjurgsSCdNejiuOZ98PyQ"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -7677,7 +7707,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 173750,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1dMR1ltIgyYRq5vmFXvu07"
@@ -10169,7 +10199,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 148800,
       "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
       "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
@@ -12393,7 +12423,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 126599,
       "name": "S-O Faca",
       "url": "https://open.spotify.com/track/4RyFwUiiTaQRUMnyiEfgyw"
@@ -13637,7 +13667,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 123829,
       "name": "Stop",
       "url": "https://open.spotify.com/track/0zL2beNr1ZjP42pcPt195B"

@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: DPR IAN",
-  "num_followers": 698298,
+  "num_followers": 698604,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMzMjY2MywwMDAwMDAwMGFjYzA2MGEwMzVlY2QyZjEzYTY3OWIxNDgwMjc1YzI4",
+  "snapshot_id": "MTY1OTUxMDgzNywwMDAwMDAwMDdiMGE5YjI4ZGRmMmFhMjIzOWQ5ZWQ0Y2QzYzk2NTIx",
   "tracks": [
     {
       "added_at": "2022-07-29 04:07:48",
@@ -61,36 +61,20 @@
       "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
     },
     {
-      "added_at": "2022-07-29 04:07:48",
+      "added_at": "2022-08-03 07:13:57",
       "album": {
-        "name": "Sea of Moonlight",
-        "url": "https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC"
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
       },
       "artists": [
         {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+          "name": "H1GHR MUSIC",
+          "url": "https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K"
         }
       ],
-      "duration_ms": 188720,
-      "name": "Sea of Moonlight",
-      "url": "https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE"
-    },
-    {
-      "added_at": "2022-07-29 04:07:48",
-      "album": {
-        "name": "Hello, world!",
-        "url": "https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Test Me",
-      "url": "https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds"
+      "duration_ms": 304746,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
     },
     {
       "added_at": "2022-07-29 04:07:48",
@@ -111,22 +95,6 @@
     {
       "added_at": "2022-07-29 04:07:48",
       "album": {
-        "name": "Omnibus Pt. 1: Kaleidoscope",
-        "url": "https://open.spotify.com/album/7htimrPXHpXUEehmi902CA"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif"
-    },
-    {
-      "added_at": "2022-07-29 04:07:48",
-      "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
       },
@@ -139,6 +107,54 @@
       "duration_ms": 180000,
       "name": "BEAUTIFUL MONSTER",
       "url": "https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L"
+    },
+    {
+      "added_at": "2022-07-29 04:07:48",
+      "album": {
+        "name": "Hello, world!",
+        "url": "https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds"
+    },
+    {
+      "added_at": "2022-07-29 04:07:48",
+      "album": {
+        "name": "Sea of Moonlight",
+        "url": "https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Sea of Moonlight",
+      "url": "https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE"
+    },
+    {
+      "added_at": "2022-07-29 04:07:48",
+      "album": {
+        "name": "Omnibus Pt. 1: Kaleidoscope",
+        "url": "https://open.spotify.com/album/7htimrPXHpXUEehmi902CA"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif"
     },
     {
       "added_at": "2022-07-29 04:07:48",

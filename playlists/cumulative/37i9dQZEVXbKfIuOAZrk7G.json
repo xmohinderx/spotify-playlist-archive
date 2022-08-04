@@ -7029,7 +7029,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
@@ -9963,6 +9963,10 @@
         {
           "name": "Izzamuzzic",
           "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
         }
       ],
       "date_added": "2022-07-26",
@@ -12935,7 +12939,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 233196,
       "name": "You",
       "url": "https://open.spotify.com/track/0WSDEpEZZDffYfmK8Ssuxc"

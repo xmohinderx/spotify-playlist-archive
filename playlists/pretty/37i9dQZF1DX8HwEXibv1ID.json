@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 18102,
+  "num_followers": 18127,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMGUxMzAzMjU2ZTdlMjZkMjY1MGU0NmI3ODgzOWE1MzQ1",
+  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMDJiNmQ0ZTM0MzdjNGQzNzkzNjk5ZTljNjZkMGFhNWM1",
   "tracks": [
     {
       "added_at": "2022-04-22 13:30:43",
@@ -459,6 +459,26 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "At Long Last Love",
+      "url": "https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
         "name": "Their Greatest Hits And Finest Performances",
         "url": "https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 187026,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/1Bis647TLxkQ6T2hhIFyC5"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        },
-        {
-          "name": "Bud Shank Quintet",
-          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "At Long Last Love",
-      "url": "https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC"
     },
     {
       "added_at": "2022-04-22 13:30:43",

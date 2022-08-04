@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 
 > A collection of R&amp;B jams and viral trends featuring Summer Walker, Muni Long &amp; Ari Lennox\. Updated weekly! Cover: Jon Batiste
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 8,062 likes - 50 songs - 2 hr 58 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 8,061 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

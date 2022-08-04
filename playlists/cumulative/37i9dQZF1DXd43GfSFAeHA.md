@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Flippter x Soulja
 
-124 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+125 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [أسياد الصوت](https://open.spotify.com/track/2xID4PetWGYUl2JtQWBlcq) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [LZHYMR](https://open.spotify.com/artist/4aHCSxGzduK4MFZMSUGlRx) | [أسياد الصوت](https://open.spotify.com/album/6s2DjErHDiBGxKHpuhc2P9) | 3:08 | 2022-07-28 |  |
 | [أسياد الصوت](https://open.spotify.com/track/42nkGZLFa7PF2Hut7f7sxk) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [LZHYMR](https://open.spotify.com/artist/4aHCSxGzduK4MFZMSUGlRx) | [أسياد الصوت](https://open.spotify.com/album/3h1DFpGPLaZkfXsiqEVDsi) | 3:08 | 2022-05-08 | 2022-07-29 |
 | [أنا \(مع الناين\)](https://open.spotify.com/track/1RlBtg1ckszvlAYmbgJ1dB) | [A1 Awesome](https://open.spotify.com/artist/745nbTMdhGgNwZZiYhjzln) | [أنا \(مع الناين\)](https://open.spotify.com/album/5k2BiM23sQvhKuII0vwqpw) | 2:54 | 2022-05-08 |  |
+| [أهل العمار](https://open.spotify.com/track/5w4ei3ImB3MjVIhyXWDbYU) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار](https://open.spotify.com/album/7jCvs21LFCE7FrXFgs7vv9) | 3:47 | 2022-08-03 |  |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-05-08 | 2022-05-31 |
 | [انتي مشكله](https://open.spotify.com/track/0IqrZXapxyZK5hzeBsCOTp) | [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Shooji](https://open.spotify.com/artist/048jToIVO7KMF5A9oAxzWe) | [انتي مشكله](https://open.spotify.com/album/71f2xqN6PYarmzDT8kgvYj) | 2:46 | 2022-05-08 |  |
 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-07-04 |  |

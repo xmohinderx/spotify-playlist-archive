@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Janely Rosa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,746 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,777 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 80 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
 | 81 | [Ya No Me Importa](https://open.spotify.com/track/12rkhRzMY5uTZHviXYyBRf) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ya No Me Importa](https://open.spotify.com/album/7FZGLlJEMDpfGOS21YKLOR) | 3:43 |
 | 82 | [Por un Malandro](https://open.spotify.com/track/2MQPxzwvpgcJ4kBNBB0UjK) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por un Malandro](https://open.spotify.com/album/60a681bIqPM7sKHJsThh4T) | 2:58 |
-| 83 | [Maldito](https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Maldito](https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij) | 3:40 |
-| 84 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
+| 83 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
+| 84 | [Maldito](https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Maldito](https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij) | 3:40 |
 | 85 | [Vete Mucho a Donde Quieras](https://open.spotify.com/track/6JifnN1etuBesf7VHbyntA) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Vete Mucho a Donde Quieras](https://open.spotify.com/album/4mYJYqNei4FQxyVxrbX2su) | 2:48 |
 | 86 | [Me Voy](https://open.spotify.com/track/4EJdS2IlMtkH9GHv9SAcze) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Me Voy](https://open.spotify.com/album/5iIJGuHDAOFUfshFN5kxcN) | 2:55 |
 | 87 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 |
-| 88 | [Por Tu Perra Decisión](https://open.spotify.com/track/2fgpM626rTMByq9GYEAYC6) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por Tu Perra Decisión](https://open.spotify.com/album/2hcjsoV8pRBNTyojGPE2xZ) | 2:56 |
-| 89 | [Lo Siento](https://open.spotify.com/track/4z3y40WAWyUdrBOlURhExY) | [La Martita](https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz) | [Lo Siento](https://open.spotify.com/album/0IGP6C5YqaQqwlwGwAlpgc) | 2:39 |
+| 88 | [Lo Siento](https://open.spotify.com/track/4z3y40WAWyUdrBOlURhExY) | [La Martita](https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz) | [Lo Siento](https://open.spotify.com/album/0IGP6C5YqaQqwlwGwAlpgc) | 2:39 |
+| 89 | [Por Tu Perra Decisión](https://open.spotify.com/track/2fgpM626rTMByq9GYEAYC6) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por Tu Perra Decisión](https://open.spotify.com/album/2hcjsoV8pRBNTyojGPE2xZ) | 2:56 |
 | 90 | [Se Te Olvidó](https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Se Te Olvidó](https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA) | 3:06 |
 | 91 | [Ay Qué Pena](https://open.spotify.com/track/5MK1eRhpOSJ0PRfoyTXHVV) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ay Qué Pena](https://open.spotify.com/album/0z2XVtdknOawHBcW4OK2rs) | 2:36 |
 | 92 | [Simplemente Amigos](https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt) | [Nicole Padilla](https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv) | [Simplemente Amigos](https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 | 100 | [Cielo Rojo \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/4oEEJNX2pRZGS9AYhHPATV) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 4:18 |
 
-Snapshot ID: `MTY1OTA3NDkzMCwwMDAwMDAwMDcyOWM5NmZlOTMxZjNhYzYzYjgyMzlhNGMxN2RjNTcz`
+Snapshot ID: `MTY1OTA3NDkzMCwwMDAwMDAwMDI5ODZkMjY1NDA4NWVkMGNlZDRkMDJkYzAyOWRmYjll`

@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Marcus Mumford
 
-1,557 songs - 3 day 17 hr 39 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,558 songs - 3 day 17 hr 41 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,7 +940,8 @@
 | [New June](https://open.spotify.com/track/7pp3SrLJGodZnTqJgJ8yuo) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [New June](https://open.spotify.com/album/5JUVj4w1m5YD2nQ5iHUmhd) | 2:41 | 2022-06-23 | 2022-07-01 |
 | [New Low](https://open.spotify.com/track/0YsGHQXC0LCALA4b36QYA5) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 4:23 | 2022-06-23 | 2022-07-01 |
 | [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-07 | 2022-04-15 |
-| [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 | 2022-07-29 |  |
+| [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 | 2022-07-29 |  |
+| [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 | 2022-07-29 | 2022-08-04 |
 | [Night](https://open.spotify.com/track/2kKr1UdBVl9dEx9S3vVl3N) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Night](https://open.spotify.com/album/3TlycLLttyCQSHLc1AhduF) | 3:52 | 2022-04-14 | 2022-04-22 |
 | [Night and Day \- Edit](https://open.spotify.com/track/02vKxGXtp1VFTEtjXrScvK) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Night and Day \(Edit\)](https://open.spotify.com/album/5qw3lpVKXxieAEfj8mjB4p) | 3:40 | 2022-01-13 | 2022-01-21 |
 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 | 2022-07-08 | 2022-07-16 |

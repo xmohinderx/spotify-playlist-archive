@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 297602,
+  "num_followers": 297752,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDMxNTc0NGVhZWQ3Yzg1ODUzY2EzNGY2OTI4ZjdkYjg5",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDU5MzRmYzk0ZjMwZDM5OTdkMDc2MGM0YjBjZjM1ZGJj",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -655,18 +655,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "No Swinggity",
-        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
+        "name": "Say What (2019)",
+        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
       },
       "artists": [
         {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
+          "name": "Cut Capers",
+          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
+        },
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
         }
       ],
-      "duration_ms": 211520,
-      "name": "No Swinggity",
-      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
+      "duration_ms": 193809,
+      "name": "Say What - Pisk Electro Swing Remix",
+      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -687,22 +691,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Say What (2019)",
-        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
+        "name": "No Swinggity",
+        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
       },
       "artists": [
         {
-          "name": "Cut Capers",
-          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
-        },
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
         }
       ],
-      "duration_ms": 193809,
-      "name": "Say What - Pisk Electro Swing Remix",
-      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
+      "duration_ms": 211520,
+      "name": "No Swinggity",
+      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw"
+      },
+      "artists": [
+        {
+          "name": "Swing Republic",
+          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
+        },
+        {
+          "name": "Karina Kappel",
+          "url": "https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Back in Time",
+      "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Wake Up Romeo",
         "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 207793,
       "name": "Wake Up Romeo",
       "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "My 20s Woman",
-        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Phos Toni",
-          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "My 20s Woman",
-      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1097,6 +1097,26 @@
       "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "My 20s Woman",
+        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Phos Toni",
+          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "My 20s Woman",
+      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "Big Blue Swing",
@@ -1111,42 +1131,6 @@
       "duration_ms": 227127,
       "name": "Big Blue Swing",
       "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw"
-      },
-      "artists": [
-        {
-          "name": "Swing Republic",
-          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
-        },
-        {
-          "name": "Karina Kappel",
-          "url": "https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Back in Time",
-      "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1171,6 +1155,22 @@
       "duration_ms": 215625,
       "name": "Comin' Up Swinging",
       "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Re-Charleston (Electro Swing)",
         "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 167360,
       "name": "Re-Charleston (Radio Edit)",
       "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Never let you go",
-        "url": "https://open.spotify.com/album/6ilFub0J7EMvDS4BHEH5yZ"
-      },
-      "artists": [
-        {
-          "name": "Waldeck",
-          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
-        },
-        {
-          "name": "Patrizia Ferrara",
-          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Never let you go",
-      "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Butterfly (Remixes)",
         "url": "https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX"
       },
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Never let you go",
+        "url": "https://open.spotify.com/album/6ilFub0J7EMvDS4BHEH5yZ"
+      },
+      "artists": [
+        {
+          "name": "Waldeck",
+          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
+        },
+        {
+          "name": "Patrizia Ferrara",
+          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Never let you go",
+      "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Dixie Biscuit \"The Shanghai Tapes\"",
         "url": "https://open.spotify.com/album/0sWVVpEQ3hB7NVAXoZJ7Pd"
       },
@@ -1377,20 +1377,24 @@
       "url": "https://open.spotify.com/track/1ImjgOgKUZwZfpLRoYV4ED"
     },
     {
-      "added_at": "2021-05-28 04:00:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Chicago",
-        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
+        "name": "Wochenend Und Sonnenschein (Electro Swing)",
+        "url": "https://open.spotify.com/album/7nkCekFLGh5JbCB3VWHXcU"
       },
       "artists": [
         {
-          "name": "Mr. Jazzek",
-          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Hans Wachsmann",
+          "url": "https://open.spotify.com/artist/4FNI6ZBXPuSt2HghuTeZmT"
         }
       ],
-      "duration_ms": 164257,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
+      "duration_ms": 182903,
+      "name": "Wochenend Und Sonnenschein (Electro Swing)",
+      "url": "https://open.spotify.com/track/6oFrnNtYCU1oswN3sz5cP4"
     }
   ],
   "unique_name": "Electro Swing",

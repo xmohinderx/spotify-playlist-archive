@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "21 Guns",
+        "url": "https://open.spotify.com/album/2bhmc2HWr3SFTNKpGg9fxw"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243979,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/0lczO04vbk2ZiNvAqzUUQ0"
+    },
+    {
+      "album": {
         "name": "A Long December",
         "url": "https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA"
       },
@@ -23,6 +41,24 @@
       "duration_ms": 162352,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK"
+    },
+    {
+      "album": {
+        "name": "All Shook Up",
+        "url": "https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104947,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC"
     },
     {
       "album": {
@@ -63,10 +99,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 249986,
       "name": "American Tune - Special Edition",
       "url": "https://open.spotify.com/track/2leIRF8ATcYWf0ntdVjttp"
+    },
+    {
+      "album": {
+        "name": "Annie's Song",
+        "url": "https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175262,
+      "name": "Annie\u2019s Song",
+      "url": "https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG"
     },
     {
       "album": {
@@ -196,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Big Yellow Taxi (Acoustic)",
+        "url": "https://open.spotify.com/album/4EEcgGddPSiUJsqLmceGQQ"
+      },
+      "artists": [
+        {
+          "name": "Nora & Will",
+          "url": "https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191948,
+      "name": "Big Yellow Taxi (Acoustic)",
+      "url": "https://open.spotify.com/track/4Q8tqm45ywADimlsmdWhf7"
+    },
+    {
+      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/1xmdgbcIOlmqkOCnOzzcEF"
       },
@@ -251,6 +323,24 @@
       "duration_ms": 241046,
       "name": "Blinding Lights - Acoustic",
       "url": "https://open.spotify.com/track/09aPOYl1IgtRaBnytb7MdR"
+    },
+    {
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0luROvxmUzlDy7VwFRAw6D"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/2RwTeL5zb473lvRys6xtbZ"
     },
     {
       "album": {
@@ -409,10 +499,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 297268,
       "name": "Change The World - Acoustic",
       "url": "https://open.spotify.com/track/0JoIuY82vgBX5JylD4GqfV"
+    },
+    {
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW"
     },
     {
       "album": {
@@ -506,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Cruel",
+        "url": "https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161002,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
@@ -575,6 +701,24 @@
       "duration_ms": 195352,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/61xloqK2WobSa8A9HhxR1T"
+    },
+    {
+      "album": {
+        "name": "Elliot's Song",
+        "url": "https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153124,
+      "name": "Elliot's Song",
+      "url": "https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev"
     },
     {
       "album": {
@@ -809,7 +953,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 193684,
       "name": "Got You (Where I Want You)",
       "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
@@ -957,7 +1101,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 315500,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/6DxpEG3H6I3RlZ8PGbYOdE"
@@ -1231,7 +1375,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 217777,
       "name": "Hollywood's Bleeding",
       "url": "https://open.spotify.com/track/56twDecxsQon61crfEXrA5"
@@ -1661,7 +1805,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 244617,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG"
@@ -1813,6 +1957,24 @@
       "duration_ms": 175040,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw"
+    },
+    {
+      "album": {
+        "name": "Let It Be (Acoustic Cover)",
+        "url": "https://open.spotify.com/album/6Vy6gebHPKWlIGXBWHwLTN"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Let It Be - Acoustic Cover",
+      "url": "https://open.spotify.com/track/5Z7uQk07vVyT5lTimk0ssS"
     },
     {
       "album": {
@@ -2173,7 +2335,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 189000,
       "name": "Promise Me",
       "url": "https://open.spotify.com/track/2MsN67ggzmrJFxZ7xMO0Im"
@@ -2852,6 +3014,24 @@
     },
     {
       "album": {
+        "name": "The Middle (Acoustic)",
+        "url": "https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM"
+      },
+      "artists": [
+        {
+          "name": "Jay Filson",
+          "url": "https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223658,
+      "name": "The Middle - Acoustic",
+      "url": "https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX"
+    },
+    {
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/7dLvF0lRQWU1ublnAvB0Ro"
       },
@@ -2863,7 +3043,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 189642,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7hbJo8ip78Q9UHdnSFYN80"
@@ -3029,7 +3209,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 173065,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA"
@@ -3181,6 +3361,28 @@
       "duration_ms": 210865,
       "name": "Wrecking Ball - Acoustic",
       "url": "https://open.spotify.com/track/6NSKAs3VYE0hpb13s6RDrp"
+    },
+    {
+      "album": {
+        "name": "You're All I Need To Get By",
+        "url": "https://open.spotify.com/album/2Egr2MDJe87ShsRS6NY9fg"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        },
+        {
+          "name": "Mike Mayfield",
+          "url": "https://open.spotify.com/artist/3UQYUlr9Qr4CaxlKo3VOcy"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6PUNYun2AsaSxpbxSdHMiy"
     },
     {
       "album": {

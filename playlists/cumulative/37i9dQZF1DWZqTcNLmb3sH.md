@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-298 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+299 songs - 18 hr 24 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Missing Me \(From "Maha Purusha"\)](https://open.spotify.com/track/6oS5cQgo2W1XvzdknsQLxP) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI) | [Missing Me \(From "Maha Purusha"\)](https://open.spotify.com/album/2X7vg1g1UZ2Ksef03UNNiG) | 3:01 | 2022-02-08 | 2022-03-14 |
 | [Modern Suprabhatha](https://open.spotify.com/track/0E2DFxXt7dcGCIOI2r6QPl) | [Hithan Hassan](https://open.spotify.com/artist/2MZXYynfCx4eRuQB2hh9jn), [Kadabagere Muniraju](https://open.spotify.com/artist/2xlQNg5cVHTJJqUs4DFlUm) | [Govinda Govinda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6LylQW2rFaRUHwqJe17JNX) | 2:10 | 2021-12-06 | 2022-02-03 |
 | [Mother Song \- Kannada](https://open.spotify.com/track/3ZgWco8SytePXg3BNu35xI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Valimai \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/53nkow2lzYpp1IgL325BMM) | 4:03 | 2022-02-24 | 2022-03-17 |
+| [Muddada Moothi \(From "Monsoon Raaga"\)](https://open.spotify.com/track/2KIO29Dyw3rLXGkGxFjNrG) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Muddada Moothi \(From "Monsoon Raaga"\)](https://open.spotify.com/album/5fme2mkLOv1XxgJViBVwCH) | 2:44 | 2022-08-03 |  |
 | [Muddu Muddagi \(From "Khasagi Putagalu"\)](https://open.spotify.com/track/7JJzCWbudeJaUkX5nqFV5S) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Muddu Muddagi \(From "Khasagi Putagalu"\)](https://open.spotify.com/album/7tkuFDQiJRqTKomikNFPvL) | 3:23 | 2022-02-22 | 2022-07-19 |
 | [Muddu Neenu](https://open.spotify.com/track/2aB89UDaIbPljSIvEbgBAa) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Supriyaa Ram](https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp) | [Love You Rachchu](https://open.spotify.com/album/3Kcmwfojkowiowh3beUyRn) | 4:40 | 2021-12-06 | 2022-05-19 |
 | [Mugile Mathadu \(From "Dandi"\)](https://open.spotify.com/track/3w5t3xLaAHMBiMEY7vnKho) | [Sahana Bharadwaj](https://open.spotify.com/artist/1Slhm3gS1jkworzViRM4i5), [Ramesh Krish](https://open.spotify.com/artist/6l6c1Buxyzv09DFXEzmGtH) | [Mugile Mathadu \(From "Dandi"\)](https://open.spotify.com/album/373bKTDVgo972LthLCZ2Hi) | 4:59 | 2022-03-16 | 2022-04-20 |

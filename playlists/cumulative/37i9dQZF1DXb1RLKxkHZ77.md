@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nuha Bahrin, Naufal Azrin
 
-63 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+65 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/1ovwOL1O06VVKOzqPYunSS) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/1b21c8HRBOiv6wilAXMRAG) | 4:02 | 2022-07-21 |  |
 | [Dinda](https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0) | 3:31 | 2022-05-25 |  |
 | [DU](https://open.spotify.com/track/0F390DrzwfhUrR3QqXgZKZ) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [DU](https://open.spotify.com/album/0yYX0uMUbpKeDmzfV4zbw8) | 3:49 | 2022-05-25 |  |
-| [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 | 2022-05-25 |  |
+| [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 | 2022-05-25 | 2022-08-04 |
 | [Gurauan Berkasih](https://open.spotify.com/track/0JUinU1l9QXI3seXiVr1A6) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Gurauan Berkasih](https://open.spotify.com/album/1cTHOYKnVcZTBbDun5eKbR) | 4:05 | 2022-05-25 |  |
 | [Hal Hebat](https://open.spotify.com/track/2AgdGjC0oatOoVa8jEjTRZ) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Hal Hebat](https://open.spotify.com/album/1jG6zrzssLdWlKvGfl0FhY) | 5:22 | 2022-07-27 |  |
 | [Hal Hebat](https://open.spotify.com/track/0FE59fpqBysKEsp2NPeBcM) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Hal Hebat](https://open.spotify.com/album/2F92waWafUCISVLk06k4y5) | 5:22 | 2022-07-27 | 2022-07-29 |
@@ -54,6 +54,7 @@
 | [Nelangsa](https://open.spotify.com/track/0FqbrObTZcICnGO4zTWT3s) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [Nelangsa](https://open.spotify.com/album/5GJDWuQRphjqZwFq048ukk) | 3:59 | 2022-05-25 | 2022-06-01 |
 | [Pelukan Angkasa](https://open.spotify.com/track/7fIy9XzcyuehISrxOarqT2) | [Sekumpulan Orang Gila](https://open.spotify.com/artist/0lsic3ZlNuapuwzbmD4imv), [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Pelukan Angkasa](https://open.spotify.com/album/3WORap8ygxl4A6qxjLEsiC) | 3:51 | 2022-05-25 | 2022-07-22 |
 | [Pencarianku](https://open.spotify.com/track/7MajjFbtZq2ZfELVQ4Op3x) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Pencarianku](https://open.spotify.com/album/423zHeEaXrsN5yMQK133ID) | 3:58 | 2022-05-25 |  |
+| [PEREMPUAN](https://open.spotify.com/track/4mNpO8m99gv1p8BgYCf1F3) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [PEREMPUAN](https://open.spotify.com/album/36RXsb86wBFDKuXzl9NcjP) | 4:00 | 2022-08-03 |  |
 | [Peri Cintaku](https://open.spotify.com/track/5cASSQjKWI5ox8LykUtJGL) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Peri Cintaku](https://open.spotify.com/album/5njf9tv5t5iF2VCGAIfIOx) | 4:19 | 2022-05-25 |  |
 | [Ragu](https://open.spotify.com/track/6EfM9gZnVkp3f13ifmOOz8) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Jejak](https://open.spotify.com/album/3wPVyzCeB9iMdqW0RdVRvC) | 3:30 | 2022-05-25 |  |
 | [Resah Kerinduan](https://open.spotify.com/track/1K8cHn6DX4FUtdI0wdx6md) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Resah Kerinduan](https://open.spotify.com/album/2IjeneKtJJ6WBd7XhlgMgw) | 4:14 | 2022-05-25 |  |
@@ -61,12 +62,13 @@
 | [Roman Picisan](https://open.spotify.com/track/4d3Oc82rj1hVPlNZvcZ3KB) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Kangen](https://open.spotify.com/album/1Nu57IYMONBk10GTTaVkt7) | 5:01 | 2022-05-25 |  |
 | [Rumah Singgah](https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT) | 4:06 | 2022-05-25 |  |
 | [Sahabat Tak Akan Pergi](https://open.spotify.com/track/001u88QTr9GonmqeQNwQ0F) | [Betrand Peto Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Sahabat Tak Akan Pergi](https://open.spotify.com/album/40aoVFlkmBnfF3iau8mBVM) | 4:01 | 2022-05-25 |  |
-| [Sama Seperti Dulu](https://open.spotify.com/track/4g32N8Vl5Dp8pnuzuiVLEg) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Sama Seperti Dulu](https://open.spotify.com/album/7vUeBaFOGUh4pPy0r38E51) | 3:40 | 2022-05-25 |  |
+| [Sama Seperti Dulu](https://open.spotify.com/track/4g32N8Vl5Dp8pnuzuiVLEg) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Sama Seperti Dulu](https://open.spotify.com/album/7vUeBaFOGUh4pPy0r38E51) | 3:40 | 2022-05-25 | 2022-08-04 |
 | [Satu Malam Di Temasek](https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Satu Malam Di Temasek](https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl) | 3:37 | 2022-07-21 |  |
 | [Sempurna](https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Sempurna](https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm) | 4:11 | 2022-05-25 |  |
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-05-25 |  |
 | [Sudah](https://open.spotify.com/track/4QiDXOOZMepYFLnjGb3WxO) | [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Sudah](https://open.spotify.com/album/1ndWLa36vkw30BKdhgjHt9) | 3:41 | 2022-05-25 | 2022-07-22 |
 | [SUSTENTO](https://open.spotify.com/track/2N2zdSWXytUAjziN6LJWFw) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh) | [SUSTENTO](https://open.spotify.com/album/0Agoz3tn21HjcaPo6gZmZW) | 3:00 | 2022-05-25 | 2022-07-22 |
+| [SUTERA](https://open.spotify.com/track/3kDvYWOTRzs5dEGKRsCizB) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [SUTERA](https://open.spotify.com/album/2apVqruZkI2V9EQheYcjzp) | 3:18 | 2022-08-03 |  |
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-06-01 |  |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2022-05-25 |  |
 | [Terpatri Dihati](https://open.spotify.com/track/7tIjL7uGVTa2IAUT3l0jpZ) | [Yuka Kharisma](https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB) | [Terpatri Dihati](https://open.spotify.com/album/5X4lEKBo6zU653At44B1Rm) | 3:37 | 2022-06-22 | 2022-07-28 |

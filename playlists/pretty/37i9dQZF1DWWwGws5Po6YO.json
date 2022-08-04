@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 23517,
+  "num_followers": 23544,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTkyMCwwMDAwMDAwMDg3OWU3Y2JjYTQ3MTdjZWE5YzNmZmNjYTlmM2NiMDQ0",
+  "snapshot_id": "MTY1OTEwNTkyMCwwMDAwMDAwMGNhY2I1MGVmMGEyMjA5MWFjMDQ3NGYxOTBlZDJmOTE0",
   "tracks": [
     {
       "added_at": "2022-07-29 14:45:20",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-07-29 14:45:20",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
-      },
-      "artists": [
-        {
-          "name": "HVAD",
-          "url": "https://open.spotify.com/artist/1QXjEEDCHutVkOzAD6g13J"
-        },
-        {
-          "name": "Pan Daijing",
-          "url": "https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR"
-        }
-      ],
-      "duration_ms": 406706,
-      "name": "Zhao Hua",
-      "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"
-    },
-    {
-      "added_at": "2022-07-29 14:45:20",
-      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
+    },
+    {
+      "added_at": "2022-07-29 14:45:20",
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+      },
+      "artists": [
+        {
+          "name": "HVAD",
+          "url": "https://open.spotify.com/artist/1QXjEEDCHutVkOzAD6g13J"
+        },
+        {
+          "name": "Pan Daijing",
+          "url": "https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR"
+        }
+      ],
+      "duration_ms": 406706,
+      "name": "Zhao Hua",
+      "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"
     },
     {
       "added_at": "2022-07-29 14:45:20",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-07-29 14:45:20",
       "album": {
-        "name": "The Flower And The Vessel",
-        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
+        "name": "Rushes Recede",
+        "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 478488,
-      "name": "Moderato Cantabile",
-      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
     },
     {
       "added_at": "2022-07-29 14:45:20",
@@ -935,18 +935,34 @@
     {
       "added_at": "2022-07-29 14:45:20",
       "album": {
-        "name": "Rushes Recede",
-        "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
+        "name": "The Flower And The Vessel",
+        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
         }
       ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
+      "duration_ms": 478488,
+      "name": "Moderato Cantabile",
+      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
+    },
+    {
+      "added_at": "2022-07-29 14:45:20",
+      "album": {
+        "name": "Nine Spells",
+        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
+      },
+      "artists": [
+        {
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Spell I: Let the Waves In",
+      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
     },
     {
       "added_at": "2022-07-29 14:45:20",
@@ -971,22 +987,6 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
-    },
-    {
-      "added_at": "2022-07-29 14:45:20",
-      "album": {
-        "name": "Nine Spells",
-        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
-      },
-      "artists": [
-        {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Spell I: Let the Waves In",
-      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
     },
     {
       "added_at": "2022-07-29 14:45:20",

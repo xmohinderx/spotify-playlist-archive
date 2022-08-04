@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Quavo & Takeoff, Rod Wave, and Gucci Mane\. Cover: NAV
 
-1,145 songs - 2 day 5 hr 42 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,146 songs - 2 day 5 hr 46 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,7 +1033,8 @@
 | [THROUGH 2 U](https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [THROUGH 2 U](https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv) | 2:41 | 2022-06-24 | 2022-07-02 |
 | [Through the Fire \(feat\. Quavo\)](https://open.spotify.com/track/1PtD0GMcPogQvMAeYUW8QF) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:25 | 2022-04-08 | 2022-04-29 |
 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo) | 2:05 | 2022-05-20 | 2022-06-04 |
-| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 | 2022-07-29 |  |
+| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/2l94QRczQbAB2EIugAS0sA) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 3:28 | 2022-07-29 |  |
+| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 | 2022-07-29 | 2022-08-04 |
 | [Throw'd As It Gets \(Remix\)\[Feat\. Maxo Kream\]](https://open.spotify.com/track/7zSSH0SSoU3jOUT6gbd1uA) | [Cam Wallace](https://open.spotify.com/artist/15PcygUDr0j5LvDA23i5BG), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Throw'd As It Gets \(Remix\)\[Feat\. Maxo Kream\]](https://open.spotify.com/album/7xrChkbhPLl6lWyFNOlix5) | 3:21 | 2022-04-15 | 2022-04-29 |
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-04-08 | 2022-04-16 |
 | [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 | 2022-04-15 | 2022-04-29 |

@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-340 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+341 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 | 2022-01-13 |  |
 | [California Dreaming](https://open.spotify.com/track/1DZvsj6dfrD8aNkYEgFZ5R) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd) | [California Dreaming](https://open.spotify.com/album/6BhCiPdND2Xf80HnksrJOR) | 2:13 | 2022-01-13 |  |
 | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 | 2022-01-13 |  |
+| [Can't Get You Out Of My Head](https://open.spotify.com/track/1nwlLOkSNpb5NMldTT6C1t) | [CRISPIE](https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Can't Get You Out Of My Head](https://open.spotify.com/album/63hmAWUSGushLTwobym9sp) | 3:04 | 2022-06-30 |  |
 | [Can't Get You Out Of My Head](https://open.spotify.com/track/44YBrqFNpIXAWH0bT4a8Y2) | [CRISPIE](https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Can't Get You Out Of My Head](https://open.spotify.com/album/5zX9gpGUhwscLQi9AB9Uzb) | 3:04 | 2022-01-13 | 2022-07-29 |
 | [Can't Get You Out of My Head](https://open.spotify.com/track/0SNWtEK9hCz0XvzNBO7OM1) | [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM) | [Can't Get You Out of My Head](https://open.spotify.com/album/71b5hr6vqAR2L0bumE7kqx) | 2:48 | 2022-08-01 |  |
 | [Cantina Band](https://open.spotify.com/track/1yDCrRrL6mUNu9z8DiMvDy) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Cantina Band](https://open.spotify.com/album/5fOpRB18EWQbxZfitcavrE) | 2:13 | 2022-03-10 |  |

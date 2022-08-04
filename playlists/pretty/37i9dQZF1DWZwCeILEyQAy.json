@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Latto",
-  "num_followers": 14174,
+  "num_followers": 14243,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDBhZWQ2YzFhOGMxODJjZWJjMWJlMzdhYWRjOTcyZmUz",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDRlMzk5NzE0ZmNiNjk4ZDhkYmI0NjQ2ZTQxNjhjZjdh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er"
+      },
+      "artists": [
+        {
+          "name": "Big Mali",
+          "url": "https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz"
+        }
+      ],
+      "duration_ms": 167424,
+      "name": "BAFWM",
+      "url": "https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Spring, Summer",
         "url": "https://open.spotify.com/album/5iG6E2PsabzkSgDrLA0oDF"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 122064,
       "name": "Black Wall Street",
       "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er"
-      },
-      "artists": [
-        {
-          "name": "Big Mali",
-          "url": "https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz"
-        }
-      ],
-      "duration_ms": 167424,
-      "name": "BAFWM",
-      "url": "https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -811,6 +811,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
+        "url": "https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v"
+      },
+      "artists": [
+        {
+          "name": "Girll Codee",
+          "url": "https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO"
+        },
+        {
+          "name": "HoodCelebrityy",
+          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
+        }
+      ],
+      "duration_ms": 185376,
+      "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
+      "url": "https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Soufside",
         "url": "https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 181276,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/1mnQEp3ySFIn18UpKUiQCw"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
-        "url": "https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v"
-      },
-      "artists": [
-        {
-          "name": "Girll Codee",
-          "url": "https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO"
-        },
-        {
-          "name": "HoodCelebrityy",
-          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
-        }
-      ],
-      "duration_ms": 185376,
-      "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
-      "url": "https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ"
     },
     {
       "added_at": "2022-07-29 04:00:00",

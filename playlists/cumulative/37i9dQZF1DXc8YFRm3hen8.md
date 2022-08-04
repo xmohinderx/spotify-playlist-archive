@@ -4,7 +4,7 @@
 
 > La banda de sonido de tu día.
 
-210 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/6uKtZmuH4Vyq05i2Hozphj)
+211 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/6uKtZmuH4Vyq05i2Hozphj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Tiempos Dorados](https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Tiempos Dorados](https://open.spotify.com/album/5UUC7peO4i1izq9yUIcKKq) | 3:15 | 2022-07-06 | 2022-07-11 |
 | [Todavía No Puedo Olvidarte \- En Vivo](https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Todavia No Puedo Olvidarte \(En Vivo\)](https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh) | 4:06 | 2022-07-01 | 2022-07-26 |
 | [Todo Cambia](https://open.spotify.com/track/53bAxP7G04UBs7aqGj0ffu) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Todo Cambia](https://open.spotify.com/album/71QDqQiuKYbBIOI4HJ83nZ) | 3:33 | 2022-07-01 | 2022-07-28 |
+| [Todo Puede Ser](https://open.spotify.com/track/4eRD6AhcROYqyFEiBXcoju) | [Zikiel Levinton](https://open.spotify.com/artist/6yhmyDBhxGDlbbioBDtBa7) | [Todo Puede Ser](https://open.spotify.com/album/50WBz5mO6Xjz01p6K3yhNJ) | 4:33 | 2022-08-03 |  |
 | [Tormenta](https://open.spotify.com/track/52Dq7xuXXP66zCJLTf94K8) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tormenta](https://open.spotify.com/album/0TukmDirFYnYRN5OehV4CO) | 3:57 | 2022-06-29 | 2022-07-28 |
 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 | 2022-07-19 |  |
 | [Transito Lento](https://open.spotify.com/track/3tk754Rq836sIejR52qyUG) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Cargar La Suerte](https://open.spotify.com/album/65V3lqpW3LBZTmlFsX33fi) | 3:14 | 2022-06-29 | 2022-07-14 |
@@ -205,7 +206,7 @@
 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 | 2022-06-29 |  |
 | [Un Poco de Amor Francés](https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:26 | 2022-06-29 |  |
 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 | 2022-06-29 |  |
-| [Una Gran Verdad](https://open.spotify.com/track/30Z1wBhNJaxDl6vqUkVxTT) | [3 Camellos](https://open.spotify.com/artist/2yrmJCRF4obAjrtg2TjHV5) | [Sueños y Cicatrices](https://open.spotify.com/album/0n2mD7UD5oxCr9Lc5GEQ02) | 3:22 | 2022-06-29 |  |
+| [Una Gran Verdad](https://open.spotify.com/track/30Z1wBhNJaxDl6vqUkVxTT) | [3 Camellos](https://open.spotify.com/artist/2yrmJCRF4obAjrtg2TjHV5) | [Sueños y Cicatrices](https://open.spotify.com/album/0n2mD7UD5oxCr9Lc5GEQ02) | 3:22 | 2022-06-29 | 2022-08-04 |
 | [Una Tregua](https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Hija del Rigor](https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO) | 3:30 | 2022-07-06 |  |
 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 | 2022-07-19 |  |
 | [Valle de Valium](https://open.spotify.com/track/639KxyOYhHgaovDipRf4RY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Valle de Valium](https://open.spotify.com/album/6N2LPGfUDWFcxWRL6eOG7S) | 2:07 | 2022-07-19 | 2022-07-25 |

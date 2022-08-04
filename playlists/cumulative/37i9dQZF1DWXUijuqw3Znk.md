@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-319 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
+320 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Drama \(prod\. Kidstone\)](https://open.spotify.com/track/1O7B5qXJNerHlouNYQnNFK) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Never](https://open.spotify.com/album/7Ch8RqlX6xkhKOO13YaFcn) | 3:06 | 2022-05-11 | 2022-07-28 |
 | [Dream Chaser](https://open.spotify.com/track/0xhgq74P8mfT91TWat0fZV) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/0jwKufwplmqcfVNSFdm5co) | 4:33 | 2022-05-11 | 2022-07-26 |
 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 | 2022-07-22 |  |
-| [dreamin'](https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:20 | 2022-05-11 |  |
+| [dreamin'](https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:20 | 2022-05-11 | 2022-08-04 |
 | [El Dorado \(Feat\. Swervy\)](https://open.spotify.com/track/5irjZILh9ts7fWwpqU2DiU) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:18 | 2022-07-22 | 2022-07-28 |
 | [ENGINE](https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2) | 3:40 | 2022-05-11 | 2022-07-29 |
 | [ENGINE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1) | 3:40 | 2022-07-22 |  |
@@ -160,6 +160,7 @@
 | [Little Brothers \(Feat\. LIL GIMCHI\)](https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:17 | 2022-05-11 |  |
 | [Livin’ the life](https://open.spotify.com/track/4Qpx5lcOl7RWGknIGfX1I8) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [OFF DUTY](https://open.spotify.com/album/7qbL1d3qCCzRIBJUTYjNLI) | 4:11 | 2022-05-11 | 2022-07-24 |
 | [Lonely but beautiful \(feat\. YDP Chin & KOR KASH\)](https://open.spotify.com/track/3xJvTW1xfFUYool5ag1tLa) | [GOYA](https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw), [YDP Chin](https://open.spotify.com/artist/1zEbSPkmXGvnUwt7Gy45Em), [KOR KASH](https://open.spotify.com/artist/0g4swmIiBG0TmWQl6mdMQu) | [A first act record](https://open.spotify.com/album/17frqaIA5C1QXkheoNijOW) | 3:22 | 2022-05-11 | 2022-07-29 |
+| [Long Live](https://open.spotify.com/track/0NNIZbiOB8KzYWPMAS3kaT) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1) | [NEVERLAND](https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5) | 4:16 | 2022-07-22 |  |
 | [Long Live](https://open.spotify.com/track/78VirhmIpVxPv3RdaJ2Cee) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1) | [NEVERLAND](https://open.spotify.com/album/7s7MMsdOBtxCROI8WPbPCF) | 4:16 | 2022-05-11 | 2022-07-27 |
 | [Lost And jealous](https://open.spotify.com/track/5MxGQ6vW63jwvWCCCMQPBh) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Lost And Jealous](https://open.spotify.com/album/7DxkabWoyfb8qt9wrnICgy) | 2:24 | 2022-05-11 | 2022-07-29 |
 | [Louis Vuitton belt \(prod\. Kidstone\)](https://open.spotify.com/track/57gtcByN4XDSisWK4h2rkW) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Family Business](https://open.spotify.com/album/2vYMpNE7JybdLEKOEhyLcp) | 3:31 | 2022-05-11 |  |

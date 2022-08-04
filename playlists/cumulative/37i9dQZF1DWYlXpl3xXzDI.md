@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-162 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+163 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [So They Say](https://open.spotify.com/track/10RB3ZCBIKde2FAn0ba5wJ) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/5BAypjSQ8ggV9snAKmHInQ) | 2:56 | 2017-12-03 |  |
 | [So They Say](https://open.spotify.com/track/17O598wcIrissGHCqGuMM0) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/0dyGgvBAKPW2mOXlfrNR9M) | 2:56 | 2017-12-03 | 2022-07-29 |
 | [Soldier On](https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Soldier On](https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj) | 3:27 | 2020-07-29 |  |
-| [Some Places](https://open.spotify.com/track/7ASY0bPipeRUGaPtTBjW0O) | [Grapell](https://open.spotify.com/artist/5IBYTeurozN0bUDkK2W3HW), [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Some Places](https://open.spotify.com/album/0FwbitktQkX3w70meot1Tq) | 4:15 | 2017-12-03 |  |
+| [Some Places](https://open.spotify.com/track/5iNUV8PxvUXIkjMH7Pmh9o) | [Grapell](https://open.spotify.com/artist/5IBYTeurozN0bUDkK2W3HW), [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Some Places](https://open.spotify.com/album/1Jnuk5A9fatIB8vgleop8X) | 4:15 | 2017-12-03 |  |
+| [Some Places](https://open.spotify.com/track/7ASY0bPipeRUGaPtTBjW0O) | [Grapell](https://open.spotify.com/artist/5IBYTeurozN0bUDkK2W3HW), [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Some Places](https://open.spotify.com/album/0FwbitktQkX3w70meot1Tq) | 4:15 | 2017-12-03 | 2022-08-04 |
 | [Some Places](https://open.spotify.com/track/7AVTEM4XRiQw6iVLRTcbA9) | [Grapell](https://open.spotify.com/artist/5IBYTeurozN0bUDkK2W3HW), [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Some Places](https://open.spotify.com/album/5uLaVDOgY7RXPbub1qfjaN) | 4:15 | 2017-12-03 | 2022-07-29 |
 | [Sorry](https://open.spotify.com/track/07uuo1yEND3oinbFZnYOvx) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/2mDFaJRa8HHbUbWusiq3DF) | 3:47 | 2017-12-03 |  |
 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 | 2017-12-03 | 2022-07-29 |

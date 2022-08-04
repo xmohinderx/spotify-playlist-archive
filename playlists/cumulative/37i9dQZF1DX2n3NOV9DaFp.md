@@ -4,7 +4,7 @@
 
 > The official playlist of Rolling Loud.
 
-281 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/2hyYLyeEoLCdZNlf4BNnXB)
+282 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/2hyYLyeEoLCdZNlf4BNnXB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Baby Pluto](https://open.spotify.com/track/0MBbqhCETOfzONwgSAtKpI) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:30 | 2022-07-08 | 2022-07-15 |
 | [Bad Boy \(with Young Thug\)](https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bad Boy \(with Young Thug\)](https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE) | 2:37 | 2022-07-08 | 2022-07-15 |
 | [Bane](https://open.spotify.com/track/2TKwo7J4oyyiYZvck7ky3R) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Bane](https://open.spotify.com/album/1DIa6H1AjmAg9SMrByTbiI) | 2:20 | 2022-07-14 |  |
-| [Beat Box 2 \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/4viLFSt63lJgCEZMfJwxI4) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Final Destination](https://open.spotify.com/album/3uvbInwEqnTnYmjgCDfCsc) | 3:01 | 2022-07-14 |  |
+| [Beat Box 2 \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/3fHNHBb2eGLahIvoVa19zq) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Final Destination](https://open.spotify.com/album/6PZymRFp89JEYsgQyD5NNl) | 3:01 | 2022-07-14 |  |
+| [Beat Box 2 \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/4viLFSt63lJgCEZMfJwxI4) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Final Destination](https://open.spotify.com/album/3uvbInwEqnTnYmjgCDfCsc) | 3:01 | 2022-07-14 | 2022-08-04 |
 | [beibs in the trap](https://open.spotify.com/track/0ESJlaM8CE1jRWaNtwSNj8) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:33 | 2022-07-08 | 2022-07-15 |
 | [Big Business](https://open.spotify.com/track/7GkEeDUdZWJ3iBI50vg3wa) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ) | [2020 Vision](https://open.spotify.com/album/35b1xfyq61Ql7fEcFC3IDl) | 1:42 | 2022-07-14 |  |
 | [Big Drip](https://open.spotify.com/track/3hbZsQXQNbPMBmgI7O0CTv) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [800 BC](https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0) | 2:48 | 2022-07-14 |  |

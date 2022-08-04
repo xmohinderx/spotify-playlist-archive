@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,174 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,243 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 23 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
 | 24 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
 | 25 | [Swerve](https://open.spotify.com/track/074Ne9ipVodDPrWVmZvQKv) | [SkyLar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1) | [Swerve](https://open.spotify.com/album/2t1Uk8hs8tpZuptU2KVdS7) | 2:17 |
-| 26 | [Spring, Summer](https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Spring, Summer](https://open.spotify.com/album/5iG6E2PsabzkSgDrLA0oDF) | 2:46 |
-| 27 | [Black Wall Street](https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Black Wall Street](https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv) | 2:02 |
-| 28 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 |
+| 26 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 |
+| 27 | [Spring, Summer](https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Spring, Summer](https://open.spotify.com/album/5iG6E2PsabzkSgDrLA0oDF) | 2:46 |
+| 28 | [Black Wall Street](https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Black Wall Street](https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv) | 2:02 |
 | 29 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 |
 | 30 | [Seduce & Scheme \(from RAP SH!T: Music from the HBO Max Original Series\)](https://open.spotify.com/track/7soX1jrCsDhZdwikQiiibk) | [Shawna & Mia](https://open.spotify.com/artist/1IbE7R5bQCSBeMhVRbWnU7), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Seduce & Scheme \(from RAP SH!T: Music from the HBO Max Original Series\)](https://open.spotify.com/album/1Vv0VzKUziAaDRqZyJteBh) | 2:24 |
 | 31 | [Shots Fired](https://open.spotify.com/track/3yhhv0VCmKkAWD9ysDLpTE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:50 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 43 | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/track/1BsZW3NH0aTEc7KMmglYWU) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/album/3UkdUEC0ih1F7F6tXMlXbT) | 2:32 |
 | 44 | [Not Gang \(feat\. EST Gee\)](https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0) | [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood Sample](https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3) | 3:09 |
 | 45 | [Chanel Slides \(feat\. Kash Doll\)](https://open.spotify.com/track/0Q7oKGmOMygeemUaUr6lYJ) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Big Dreez](https://open.spotify.com/album/6LTCFCmcHl9RgVCjWKghNS) | 2:54 |
-| 46 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 |
-| 47 | [Bankrupt](https://open.spotify.com/track/1mnQEp3ySFIn18UpKUiQCw) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Aaliyah Keef](https://open.spotify.com/album/7bgJfdpf6ciPAFW27o2rc5) | 3:01 |
-| 48 | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v) | 3:05 |
+| 46 | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v) | 3:05 |
+| 47 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 |
+| 48 | [Bankrupt](https://open.spotify.com/track/1mnQEp3ySFIn18UpKUiQCw) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Aaliyah Keef](https://open.spotify.com/album/7bgJfdpf6ciPAFW27o2rc5) | 3:01 |
 | 49 | [Don't Like Me](https://open.spotify.com/track/15vBa8JFlc906oRT103Fdf) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Don't Like Me](https://open.spotify.com/album/4LlFHwHtA9gQZ6XC9fvWeZ) | 2:17 |
 | 50 | [Join Em](https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:50 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDBhZWQ2YzFhOGMxODJjZWJjMWJlMzdhYWRjOTcyZmUz`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDRlMzk5NzE0ZmNiNjk4ZDhkYmI0NjQ2ZTQxNjhjZjdh`

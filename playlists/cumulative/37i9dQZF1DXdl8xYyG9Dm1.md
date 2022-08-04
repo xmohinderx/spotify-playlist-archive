@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r?si=NcsQeMBcQLKglTkvFIsu9g"> Nadia Nakai </a>  and <a href="https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=fX55eifJSdG6ycyD6SARHA"> Lucasraps </a>
 
-120 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
+121 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 | 2021-10-14 |  |
 | [Motivation](https://open.spotify.com/track/2zmtVdWZ37PZEbN8lx5cou) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [Motivation](https://open.spotify.com/album/1Ut7ddhsn6VzMATPYtNbpw) | 3:06 | 2021-11-11 | 2022-03-08 |
 | [Mud](https://open.spotify.com/track/5GWqKTUOOFf7jH0T8GOsfP) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Mud](https://open.spotify.com/album/4sQjiqXrRvUpwpCpgjn6Q3) | 2:34 | 2021-10-14 |  |
-| [My Way](https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Connecting the Dots](https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX) | 3:20 | 2022-05-05 |  |
+| [My Way](https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [My Way](https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk) | 3:20 | 2022-05-05 |  |
+| [My Way](https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Connecting the Dots](https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX) | 3:20 | 2022-05-05 | 2022-08-04 |
 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 | 2022-06-30 |  |
 | [Next Up](https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 2:02 | 2022-04-21 |  |
 | [Not The Same \(feat\. Lucasraps\)](https://open.spotify.com/track/73DJqwKLRQgDMNN7odJPqt) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Not The Same \(feat\. Lucasraps\)](https://open.spotify.com/album/3byyU9BREsehzyZ6DqDK0p) | 2:44 | 2022-07-21 |  |

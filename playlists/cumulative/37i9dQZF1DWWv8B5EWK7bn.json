@@ -586,6 +586,24 @@
     },
     {
       "album": {
+        "name": "Both Ways Open Jaws",
+        "url": "https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja"
+      },
+      "artists": [
+        {
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Dust It Off",
+      "url": "https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe"
+    },
+    {
+      "album": {
         "name": "Fear Colours",
         "url": "https://open.spotify.com/album/3pH6DSketPRDBNCIpUMuNW"
       },
@@ -727,6 +745,24 @@
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+    },
+    {
+      "album": {
+        "name": "Have You Felt Lately?",
+        "url": "https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234160,
+      "name": "Have You Felt Lately?",
+      "url": "https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX"
     },
     {
       "album": {
@@ -889,7 +925,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 204360,
       "name": "I'm Good at Not Crying",
       "url": "https://open.spotify.com/track/3Pc8BtId8AhXAWtWnu30Zp"
@@ -1147,7 +1183,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 338245,
       "name": "Living Other Lives",
       "url": "https://open.spotify.com/track/3uaYJY6kH4HscJoROvidcz"
@@ -1245,7 +1281,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 386966,
       "name": "Lost Heads",
       "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
@@ -1427,7 +1463,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 237158,
       "name": "Ocean noir",
       "url": "https://open.spotify.com/track/0JWtd6oSI8wlvMz4Tvctts"
@@ -1927,7 +1963,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 240800,
       "name": "Setu (feat. Gareth Jones)",
       "url": "https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL"
@@ -1985,6 +2021,28 @@
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B"
+    },
+    {
+      "album": {
+        "name": "Simple Headphone Mind / Trippin' With The Birds",
+        "url": "https://open.spotify.com/album/0WK9DyPkE7wGn958hjF6X4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        },
+        {
+          "name": "Nurse With Wound",
+          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646683,
+      "name": "Simple Headphone Mind",
+      "url": "https://open.spotify.com/track/0auzo1bD9DMIP7bcvClRS9"
     },
     {
       "album": {
@@ -2231,7 +2289,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 161022,
       "name": "This Is A Life",
       "url": "https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O"

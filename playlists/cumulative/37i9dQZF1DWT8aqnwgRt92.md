@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-186 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+189 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-07-28 |  |
 | [I AM I](https://open.spotify.com/track/4KKkvUpWlRUgw4MYh33X3N) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [Daisuke Asakura](https://open.spotify.com/artist/1UkEVUkVZVeSSxFvKHgcYZ), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [I AM I](https://open.spotify.com/album/3jET3MbFSj79mOcamKMUGt) | 3:58 | 2022-08-02 |  |
 | [I Believe](https://open.spotify.com/track/7HlJKKUv2NJq8q43yUkoL3) | [Zakuro Fujiwara\(CV:Momoka Ishii\)](https://open.spotify.com/artist/2AhkWcubMNCPU14jOpeNaI) | [I Believe](https://open.spotify.com/album/7qJPUOixcYQfpQjGwqIy6l) | 4:55 | 2022-07-28 |  |
+| [ICHIBANBOSHI SONORITY](https://open.spotify.com/track/4ogyl3j9wSTM0YLiXrkC5t) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [ENDING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/2ur6B0p344bM6CHn7PNJu0) | 4:14 | 2022-08-02 |  |
 | [Ignition!!! \- feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち](https://open.spotify.com/track/6C4o9z0wwUCoohbwNgfEiu) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Ignition!!! \(feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち\)](https://open.spotify.com/album/21HSg6v7NUE1KMijeF9BNd) | 3:37 | 2022-07-07 | 2022-07-29 |
 | [Kaerimichi no Iro](https://open.spotify.com/track/78c6wtbj63K6xdK7GOtrbt) | [Shibuya HAL](https://open.spotify.com/artist/2KCxMDtyrp9krF6gdxCNRF) | [Kaerimichi no Iro](https://open.spotify.com/album/3CNJSvUBH2vITGSpYWslA2) | 4:09 | 2022-07-28 |  |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-28 | 2022-07-06 |
@@ -91,6 +92,7 @@
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-07-08 |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 | 2022-08-03 |
 | [Starry\-eyed Chronicle](https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starry\-eyed Chronicle](https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo) | 4:01 | 2022-07-28 |  |
+| [STORY](https://open.spotify.com/track/73mTBbvJiVHW4Wquiws0x8) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [OPENING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/6mxRSY6MkwCe5Y7Pqcjm1E) | 3:44 | 2022-08-02 |  |
 | [STRIX](https://open.spotify.com/track/1ReifYy4YQWlAHu1yJjf7s) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:24 | 2022-06-25 | 2022-07-27 |
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-28 |  |
@@ -98,6 +100,7 @@
 | [TAXIDRIVER](https://open.spotify.com/track/7xl1B2jbBWpKsBX6MmcGTb) | [小戸川\(CV:花江夏樹\)](https://open.spotify.com/artist/6hSuI6670s3Jw5GZyWwg9Q) | [ODDTAXI CHARACTER SONG EP](https://open.spotify.com/album/71X44bA7wxYBDr0NwtlIE9) | 2:51 | 2022-07-05 | 2022-07-13 |
 | [TBD](https://open.spotify.com/track/6t4HZstA6tlgXyhTwcry6R) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/3eTggf0BQGCCjSKTPehaHD) | 3:56 | 2022-05-28 | 2022-06-26 |
 | [Venus Line](https://open.spotify.com/track/5OPIulr7qagiGtCthBkqxr) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [Venus Line](https://open.spotify.com/album/1mJo7rsbEzsFGIeVzuume4) | 4:37 | 2022-06-07 | 2022-07-06 |
+| [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-08-02 |  |
 | [With You](https://open.spotify.com/track/0c6N2M3SJS081a3n1Vutuy) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With You](https://open.spotify.com/album/6fbXXOpIKmv5Zfd8ajyaPp) | 4:34 | 2022-07-28 |  |
 | [With you](https://open.spotify.com/track/57RtosVWxGr0pOSr6A9FYh) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With you](https://open.spotify.com/album/0Pjg5M9cD5YQNerW2oFFw6) | 4:34 | 2022-07-07 | 2022-07-29 |
 | [あいむいんらぶ](https://open.spotify.com/track/2i3ihydtP73D243Blgkrm8) | [Hack'nBerry](https://open.spotify.com/artist/1wiMSmZSzfDSdnMY60exZZ), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [あいむいんらぶ](https://open.spotify.com/album/0JU9Yrn0S7YSuu4q3AxFQs) | 4:27 | 2022-07-05 |  |

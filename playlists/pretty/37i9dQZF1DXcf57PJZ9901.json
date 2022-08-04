@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s.",
-  "num_followers": 57084,
+  "num_followers": 57171,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMDViYmZkZjBmN2EwNDMyYjgyMDQwMmIyMmU4ZmFhNWZm",
+  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMDIzNGIzY2NkZWUzNDJlODMxYWNmNTVjMWZkOTliODgy",
   "tracks": [
     {
       "added_at": "2020-12-08 17:53:04",
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Landlady",
-      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 171533,
       "name": "Heathrow",
       "url": "https://open.spotify.com/track/2X6aiq2KyWsyhh7c3vzeyp"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Songs Of Innocence",
+        "url": "https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 226763,
+      "name": "Song For Someone",
+      "url": "https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Songs Of Innocence",
-        "url": "https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 226763,
-      "name": "Song For Someone",
-      "url": "https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 275493,
       "name": "Move Together",
       "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "See Me Now",
+      "url": "https://open.spotify.com/track/5iRNKJoGqjD8RG7RNwOWYb"
     },
     {
       "added_at": "2022-03-28 15:29:17",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "See Me Now",
-      "url": "https://open.spotify.com/track/5iRNKJoGqjD8RG7RNwOWYb"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 283946,
       "name": "Sloom",
       "url": "https://open.spotify.com/track/6xFxmcebq5XphN0WoxNLgp"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Landlady",
+      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -1121,20 +1121,20 @@
       "url": "https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
+      "added_at": "2022-01-05 10:28:40",
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
         }
       ],
-      "duration_ms": 169904,
-      "name": "Cold Arms",
-      "url": "https://open.spotify.com/track/77R5bi9hfAUKZmu6tjOcxg"
+      "duration_ms": 255750,
+      "name": "Passing Ships",
+      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
     }
   ],
   "unique_name": "10s Soft Rock",

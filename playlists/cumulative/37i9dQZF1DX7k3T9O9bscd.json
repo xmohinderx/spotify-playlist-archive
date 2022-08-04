@@ -2130,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Mar\u00eda Juana",
+        "url": "https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM"
+      },
+      "artists": [
+        {
+          "name": "La Era de Acuario",
+          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294874,
+      "name": "Mar\u00eda Juana",
+      "url": "https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy"
+    },
+    {
+      "album": {
         "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
         "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
       },
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 250214,
       "name": "Meme City",
       "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
@@ -2773,7 +2791,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 266737,
       "name": "Risky Behaviour",
       "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
@@ -2885,6 +2903,24 @@
       "duration_ms": 218013,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
+    },
+    {
+      "album": {
+        "name": "A Round of Applause",
+        "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
+      },
+      "artists": [
+        {
+          "name": "Hooveriii",
+          "url": "https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265374,
+      "name": "See",
+      "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
     },
     {
       "album": {
@@ -3212,6 +3248,24 @@
     },
     {
       "album": {
+        "name": "Don't Delay, Join Today!",
+        "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
+      },
+      "artists": [
+        {
+          "name": "Improvement Movement",
+          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128917,
+      "name": "Strange Secrets Worth Knowing",
+      "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
+    },
+    {
+      "album": {
         "name": "Grand Unified Theories",
         "url": "https://open.spotify.com/album/4jrPtdrkLT5tz4OUcrHn4c"
       },
@@ -3223,7 +3277,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 323691,
       "name": "String Theory",
       "url": "https://open.spotify.com/track/6kmzMsSKCFfx0lYQgospLN"
@@ -3563,7 +3617,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI"
@@ -4043,7 +4097,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 153960,
       "name": "Zeppelin",
       "url": "https://open.spotify.com/track/2pKX8ad4udW2XIbka2P3fe"

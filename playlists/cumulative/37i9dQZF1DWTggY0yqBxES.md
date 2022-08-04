@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-229 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+230 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Or Something](https://open.spotify.com/track/3KG1RWLGcGsrW4OZlbPC0e) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto \(Deluxe\)](https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP) | 2:28 | 2022-07-29 |  |
 | [Outside](https://open.spotify.com/track/2i40wZkiPAGIFudrGH99nx) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Outside](https://open.spotify.com/album/2xIwaswWMyUtM5h8wxA5gH) | 3:23 | 2021-09-03 |  |
 | [Outta Sight](https://open.spotify.com/track/1sQP4ZNBHTaYvfXdsxu2G6) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Outta Sight](https://open.spotify.com/album/5kCNr9R944DfHPbDCpjsDs) | 2:30 | 2022-03-25 | 2022-04-21 |
+| [Paper](https://open.spotify.com/track/58njyEW0iRoGKUy9xyPukJ) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Paper](https://open.spotify.com/album/1rNaHjqEp2w9z2Pryotv4r) | 3:07 | 2022-07-29 |  |
 | [peon](https://open.spotify.com/track/2pRIFvnmGp8swkjRKmL9H6) | [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E) | [peon](https://open.spotify.com/album/5SAq4DdwbqQkt2bNNqpOsr) | 3:42 | 2021-12-17 | 2022-07-20 |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-03-18 |  |
 | [Peso](https://open.spotify.com/track/6oqRowe5lMSV62jZwar1VO) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Tales From The Telescope Chapter 2: Internal Shine](https://open.spotify.com/album/08MjfVgkdqINsqCeY67xaG) | 3:10 | 2021-12-17 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [riddle](https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [riddle](https://open.spotify.com/album/0z3Iiza1Fz3vbiHkMgi6RW) | 1:48 | 2022-02-04 | 2022-02-12 |
 | [Risky](https://open.spotify.com/track/07nlhOBxH0D4Dwrwa1giAZ) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [Truth Be Told](https://open.spotify.com/album/0iq4VWGYG9Km7d7L0h31At) | 2:44 | 2022-05-27 | 2022-06-28 |
 | [Rollin Wit The Homies \(feat\. Buddy\)](https://open.spotify.com/track/2X1WUhn4giE70wOXg6BTcR) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Rollin Wit The Homies \(feat\. Buddy\)](https://open.spotify.com/album/3Kj2ZkKAGpd81rX3KQy3Wu) | 4:03 | 2022-04-29 | 2022-07-29 |
-| [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL) | 1:42 | 2022-07-29 |  |
+| [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL) | 1:42 | 2022-07-29 | 2022-08-04 |
 | [RUN THE WORLD](https://open.spotify.com/track/24O46adSE5SxxOthWe28AC) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [RUN THE WORLD](https://open.spotify.com/album/06spODPScUqLi5jMPKq93q) | 2:58 | 2021-09-03 | 2022-07-29 |
 | [Running With The Angels](https://open.spotify.com/track/7nXTQjl7BGAhhWTqVsYXo6) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2) | [Running With The Angels](https://open.spotify.com/album/6Fjjj82WDhGnR287L6lHVi) | 2:20 | 2022-04-01 | 2022-04-15 |
 | [SIERRA NIGHTS \(feat\. Ryan Beatty\)](https://open.spotify.com/track/1CsLmXktvD3Cj04dPCtJNI) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [SIERRA NIGHTS \(feat\. Ryan Beatty\)](https://open.spotify.com/album/0msGRJHLXl4KB7GXJiKZSx) | 4:23 | 2021-09-03 | 2022-07-30 |

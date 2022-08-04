@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 13525,
+  "num_followers": 13539,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDk0MjU5OGQ5YTQzYmFjMmEyOGM5NjU2NGFkODAzMDg1",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDAwOGY1NjVlZGFmMGFlN2FjYzA4OWFmMTI3ZmJiNmQ3",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -291,6 +291,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Take Your Time (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 197402,
+      "name": "Take Your Time - D.O.D Remix",
+      "url": "https://open.spotify.com/track/3hmOHDyG0ar79kBeRwD2V4"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
         "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 238064,
       "name": "By Your Side (feat. Tom Grennan) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/3ZFosXgzvmN6wXs9wTaIxh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Take Your Time (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 197402,
-      "name": "Take Your Time - D.O.D Remix",
-      "url": "https://open.spotify.com/track/3hmOHDyG0ar79kBeRwD2V4"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Get Out My Head (Todd Terry Remix)",
+        "url": "https://open.spotify.com/album/6u0OWvS5IO3r4Mi5P3RH46"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "Get Out My Head - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/6TmxmvREJqrc1JaZVTzwCL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "One By One (Remixes)",
         "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 172826,
       "name": "Summer 91 (Looking Back) - 220 KID Remix",
       "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Get Out My Head (Todd Terry Remix)",
-        "url": "https://open.spotify.com/album/6u0OWvS5IO3r4Mi5P3RH46"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "Get Out My Head - Todd Terry Remix",
-      "url": "https://open.spotify.com/track/6TmxmvREJqrc1JaZVTzwCL"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Fool's Gold (Ti\u00ebsto 24 Karat Gold Edition)",
+        "url": "https://open.spotify.com/album/6JH8j1mf1tfS98iKOgRgeW"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164377,
+      "name": "Fool's Gold - Ti\u00ebsto 24 Karat Gold Edition",
+      "url": "https://open.spotify.com/track/5KzNyiM73vv9EuYELrVpDq"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Tell Me I'm Pretty (Icona Pop Remix)",
         "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 189965,
       "name": "Strut - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Fool's Gold (Ti\u00ebsto 24 Karat Gold Edition)",
-        "url": "https://open.spotify.com/album/6JH8j1mf1tfS98iKOgRgeW"
-      },
-      "artists": [
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164377,
-      "name": "Fool's Gold - Ti\u00ebsto 24 Karat Gold Edition",
-      "url": "https://open.spotify.com/track/5KzNyiM73vv9EuYELrVpDq"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1767,34 +1767,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Wasted Love (feat. Lagique) [Remixes]",
-        "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
-      "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Set Me Free (feat. MAX) [Martin Ikin Remix]",
         "url": "https://open.spotify.com/album/3s0XyHRWHzvB3oIApjgA7H"
       },
@@ -1819,6 +1791,34 @@
       "duration_ms": 218571,
       "name": "Set Me Free (feat. MAX) - Martin Ikin Remix",
       "url": "https://open.spotify.com/track/6XUYshCcziLPUlsECcPXn3"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Wasted Love (feat. Lagique) [Remixes]",
+        "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
+      "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2259,30 +2259,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Praise (feat. Gunna) [Malaa Remix]",
-        "url": "https://open.spotify.com/album/7k2HFlk4QkPRDMLrb4wLif"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 269032,
-      "name": "Praise (feat. Gunna) - Malaa Remix",
-      "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -2303,6 +2279,30 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Praise (feat. Gunna) [Malaa Remix]",
+        "url": "https://open.spotify.com/album/7k2HFlk4QkPRDMLrb4wLif"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 269032,
+      "name": "Praise (feat. Gunna) - Malaa Remix",
+      "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
     },
     {
       "added_at": "2021-07-30 04:00:00",

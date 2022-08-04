@@ -1,12 +1,12 @@
 {
   "description": "Love at its most dramatic. Cover: Moulin Rouge",
-  "num_followers": 5267,
+  "num_followers": 5303,
   "original_name": "Broadway in Love!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQ0NDM4NywwMDAwMDAwMGI4MjRhYTE3MTFjZjJmNjgwNWI2ZjA1YWUxYjM2NmQx",
+  "snapshot_id": "MTY0NDQ0NDM4NywwMDAwMDAwMGM1MDY1NTQ2Njk1MmE4NjRiZGYwMDM0ODE4YWIwNjBk",
   "tracks": [
     {
       "added_at": "2022-02-09 21:53:30",
@@ -435,26 +435,6 @@
     {
       "added_at": "2022-02-09 21:53:30",
       "album": {
-        "name": "Newsies (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Jordan",
-          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
-        },
-        {
-          "name": "Kara Lindsay",
-          "url": "https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv"
-        }
-      ],
-      "duration_ms": 211704,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/1AD6IcfzMTyQGrNsH37SMV"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
         "name": "Little Shop of Horrors (The New Cast Album)",
         "url": "https://open.spotify.com/album/0v8V3y9zW14NRDTXs0Rt9S"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 225214,
       "name": "Suddenly Seymour",
       "url": "https://open.spotify.com/track/2AODWpK0rauqqL1gHfq2Zy"
+    },
+    {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
+        "name": "Newsies (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Kara Lindsay",
+          "url": "https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv"
+        }
+      ],
+      "duration_ms": 211704,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/1AD6IcfzMTyQGrNsH37SMV"
     },
     {
       "added_at": "2022-02-09 21:53:30",
@@ -1316,6 +1316,26 @@
       },
       "artists": [
         {
+          "name": "Jordan Donica",
+          "url": "https://open.spotify.com/artist/2NrfAs6msmsiqK4LPxb3sR"
+        },
+        {
+          "name": "Linda Mugleston",
+          "url": "https://open.spotify.com/artist/2XNH9AdvUwkRQ4Njg8C4WD"
+        }
+      ],
+      "duration_ms": 233480,
+      "name": "On the Street Where You Live",
+      "url": "https://open.spotify.com/track/6vt39YXHTwUkEVjJsztr6x"
+    },
+    {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
+        "name": "My Fair Lady (2018 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/51698aTAgp4hUSqBc6dima"
+      },
+      "artists": [
+        {
           "name": "Lauren Ambrose",
           "url": "https://open.spotify.com/artist/3A0KDCVy46KwrkFz5Xivnz"
         },
@@ -1331,26 +1351,6 @@
       "duration_ms": 228826,
       "name": "I Could Have Danced All Night",
       "url": "https://open.spotify.com/track/1r834EF69ac3n4roRFX0fm"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
-        "name": "My Fair Lady (2018 Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/51698aTAgp4hUSqBc6dima"
-      },
-      "artists": [
-        {
-          "name": "Jordan Donica",
-          "url": "https://open.spotify.com/artist/2NrfAs6msmsiqK4LPxb3sR"
-        },
-        {
-          "name": "Linda Mugleston",
-          "url": "https://open.spotify.com/artist/2XNH9AdvUwkRQ4Njg8C4WD"
-        }
-      ],
-      "duration_ms": 233480,
-      "name": "On the Street Where You Live",
-      "url": "https://open.spotify.com/track/6vt39YXHTwUkEVjJsztr6x"
     },
     {
       "added_at": "2022-02-09 21:53:30",

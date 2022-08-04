@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-132 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+134 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Sleigh Ride](https://open.spotify.com/track/2gqTbaSkxI9Sf1HJbqIAKG) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Sleigh Ride](https://open.spotify.com/album/1XAEuf6sDw8lR0RmLzUzJL) | 2:35 | 2021-12-20 |  |
 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 | 2021-12-20 |  |
 | [Snowfall](https://open.spotify.com/track/1GK8IGST7h1RoDYl2x8981) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/3IhmoT6nYsFYBpixYe72VZ) | 2:56 | 2021-12-20 | 2022-07-29 |
-| [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 | 2021-12-20 |  |
+| [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 | 2021-12-20 | 2022-08-04 |
+| [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 | 2021-12-20 |  |
 | [Spike the Eggnog](https://open.spotify.com/track/2EETKC428MySkgsrGswRdK) | [Two Dudes](https://open.spotify.com/artist/7B4UaTUFjsPmtPNg2HcLwS) | [Sounds of the Season, Vol\. I](https://open.spotify.com/album/5l2fxHrsq1DgWUZCZBZswu) | 2:15 | 2021-12-20 | 2022-07-29 |
 | [Spike the Eggnog](https://open.spotify.com/track/5Ndi8aTYfmjrXYgTOXhYEM) | [Two Dudes](https://open.spotify.com/artist/7B4UaTUFjsPmtPNg2HcLwS) | [Sounds of the Season, Vol\. I](https://open.spotify.com/album/38MuWDkJ0apxRo0nniKlpu) | 2:15 | 2021-12-20 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/1jfe1vVK9uruZS6wF9P04Q) | [Ameer Corro](https://open.spotify.com/artist/1H5PsYGFaTqxJUoyr6bD5C), [Sun Kim](https://open.spotify.com/artist/0jcraZwUALvGIS3RtpsWZQ) | [Lofimas \(A Lofi Christmas\)](https://open.spotify.com/album/30YjVa2kQbQ9XmkIGe87RG) | 2:44 | 2021-12-20 | 2022-07-29 |
@@ -135,7 +136,8 @@
 | [Winter Wonderland](https://open.spotify.com/track/5doXKZRmtUoMRL1vVEMd55) | [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [Winter Wonderland](https://open.spotify.com/album/3ZE7dFb01zw9k7SuZTNDo8) | 1:52 | 2021-12-20 |  |
 | [Winter Wonderland](https://open.spotify.com/track/7GvkwVWW90W8vvUIgj54vt) | [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [Winter Wonderland](https://open.spotify.com/album/0QTZHBEsjse6oTZlOxbrJn) | 1:52 | 2021-12-20 | 2022-07-29 |
 | [Wonderland](https://open.spotify.com/track/0emoEFX5JN5rKhAYWx9Tr3) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/3IhmoT6nYsFYBpixYe72VZ) | 2:06 | 2021-12-20 | 2022-07-29 |
-| [Wonderland](https://open.spotify.com/track/6nlmgDXzsQ0snHKYPOy6WH) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:06 | 2021-12-20 |  |
+| [Wonderland](https://open.spotify.com/track/34qYvf7M6RXRzQF5HMJB38) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:06 | 2021-12-20 |  |
+| [Wonderland](https://open.spotify.com/track/6nlmgDXzsQ0snHKYPOy6WH) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:06 | 2021-12-20 | 2022-08-04 |
 | [Xmas Treez](https://open.spotify.com/track/4qdC5XlXPUbuqPVa1gCp7U) | [Ghost Beatz](https://open.spotify.com/artist/7rujfAuyUlahQdyeyQ2c3s) | [Sounds of the Season, Vol\. III](https://open.spotify.com/album/3Wg4Twg8f1XOtjVlbnEanZ) | 3:23 | 2021-12-20 | 2022-07-29 |
 | [Xmas Treez](https://open.spotify.com/track/6Ouj0h3zO7dHV9Ok5yU8gv) | [Ghost Beatz](https://open.spotify.com/artist/5KdCsUhbJtRff3kRxUl51q) | [Sounds of the Season, Vol\. III](https://open.spotify.com/album/6pNBMJoKqAD3odcjncp75k) | 3:23 | 2021-12-20 |  |
 | [Yule Tide](https://open.spotify.com/track/4wFco5b2VsRaPD0XbqYsv9) | [iluvu](https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j), [Lazy Tree Records](https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf) | [A Lofi Christmas](https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ) | 2:11 | 2021-12-20 |  |

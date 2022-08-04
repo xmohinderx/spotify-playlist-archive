@@ -1,13 +1,29 @@
 {
   "description": "brutal or not, we're all in this together \u2728 Cover: Olivia & Joshua",
-  "num_followers": 1583759,
+  "num_followers": 1585509,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1Mzg4MCwwMDAwMDAwMDcxZDBkZmE4YzU0NTZjYzFiN2Y2M2E2NzU3YTE1OGJi",
+  "snapshot_id": "MTY1OTU1NDI5OCwwMDAwMDAwMGI5ZjhlNGMxNGIyYzQ0NWJjZmJiNDhkNzRhYjg0MmVh",
   "tracks": [
+    {
+      "added_at": "2022-08-01 16:00:00",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
     {
       "added_at": "2022-06-24 04:00:00",
       "album": {
@@ -111,22 +127,6 @@
       "duration_ms": 154666,
       "name": "Bubblegum Bitch",
       "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
-    },
-    {
-      "added_at": "2022-08-01 16:00:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2022-08-01 16:00:00",
@@ -281,6 +281,38 @@
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
     },
     {
+      "added_at": "2022-08-03 16:21:03",
+      "album": {
+        "name": "All the Things I Hate About You",
+        "url": "https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 195823,
+      "name": "All the Things I Hate About You",
+      "url": "https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW"
+    },
+    {
+      "added_at": "2022-07-19 20:18:16",
+      "album": {
+        "name": "Victoria\u2019s Secret",
+        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Victoria\u2019s Secret",
+      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
+    },
+    {
       "added_at": "2022-05-16 19:09:15",
       "album": {
         "name": "reputation",
@@ -311,6 +343,22 @@
       "duration_ms": 172514,
       "name": "NIGHTS LIKE THESE",
       "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
+    },
+    {
+      "added_at": "2022-08-03 19:18:18",
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -359,22 +407,6 @@
       "duration_ms": 176859,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
-    },
-    {
-      "added_at": "2022-07-19 20:18:16",
-      "album": {
-        "name": "Victoria\u2019s Secret",
-        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Victoria\u2019s Secret",
-      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
       "added_at": "2022-07-29 04:06:10",
@@ -1533,38 +1565,6 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Teen Beach Movie",
-        "url": "https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF"
-      },
-      "artists": [
-        {
-          "name": "Grace Phipps",
-          "url": "https://open.spotify.com/artist/2k8LSCieAnywX4Ku6k3X4m"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Falling for Ya",
-      "url": "https://open.spotify.com/track/5hK2Ks25jW6aMmUAHpAN3F"
-    },
-    {
-      "added_at": "2022-05-16 21:07:04",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 163586,
-      "name": "1 step forward, 3 steps back",
-      "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
-    },
-    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "The Black Parade",
@@ -1647,22 +1647,6 @@
       "duration_ms": 157636,
       "name": "this is what heartbreak feels like",
       "url": "https://open.spotify.com/track/33aLws184a7SVqraKuDqI3"
-    },
-    {
-      "added_at": "2022-05-09 13:52:47",
-      "album": {
-        "name": "Good Looking",
-        "url": "https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5"
     },
     {
       "added_at": "2022-03-18 04:00:00",

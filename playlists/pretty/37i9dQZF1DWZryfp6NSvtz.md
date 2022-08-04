@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Marcus Mumford
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,846 likes - 56 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,065 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 8 | [Acting Out](https://open.spotify.com/track/6cl0ieHDLRncer6S1Lkcc6) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Alpha Games \(Deluxe\)](https://open.spotify.com/album/7ao5TcY1WmEfbl9q38ZGLP) | 2:47 |
 | 9 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 |
 | 10 | [Trash](https://open.spotify.com/track/26TWZ1x4NDSEpzDtHxiZAM) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Trash](https://open.spotify.com/album/3mCgA0NaZukB0CROXayoHp) | 2:10 |
-| 11 | [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 |
+| 11 | [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 |
 | 12 | [SENSORYOVERLOAD\*](https://open.spotify.com/track/5bpeE40GHCJRZooAWPGAKt) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 3:15 |
 | 13 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 |
 | 14 | [SOS \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/2F2GeLnaoaCed5E2qP4UJO) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [SOS \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0tZ4mjASeCuSeTHueHQqoQ) | 2:39 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 55 | [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 |
 | 56 | [Buckley](https://open.spotify.com/track/3M68r2KfqzjWSKKvZmmWLw) | [Pianos Become The Teeth](https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C) | [Buckley](https://open.spotify.com/album/3yCxtkJ7edJyDiJDvNFy2V) | 4:17 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGRlYzViZDgxMDhjNWUxMDFhMmM3MDRmZDkwMTNhMmY5`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGNhYmQ4YjI1NWQyZDA1MDdlNzUxM2E5MjgzMjZjZTAx`

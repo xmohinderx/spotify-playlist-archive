@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-94 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/17snTQx4nUc5vx1ksDMIHE)
+95 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/17snTQx4nUc5vx1ksDMIHE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Pânico na Zona Sul](https://open.spotify.com/track/5MS06gIb0ertXR7JENsTQL) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:40 | 2022-02-25 |  |
 | [Pirituba, Pt\. 1](https://open.spotify.com/track/1JFXO85TT9cKw0WvOEJTtw) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:21 | 2022-02-25 |  |
 | [Prostituta](https://open.spotify.com/track/2LAA3rvQXZnDvXzX8ikRov) | [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy) | [Na Humildade](https://open.spotify.com/album/0ZOdrdFYiagQVXkLVFBLPl) | 6:52 | 2022-02-25 |  |
-| [Pule ou Empurre](https://open.spotify.com/track/2moNnYG8Elyx9SYuGW2fx8) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/3c0wTYodyznfErM03IUkBD) | 3:44 | 2022-02-25 |  |
+| [Pule ou Empurre](https://open.spotify.com/track/2moNnYG8Elyx9SYuGW2fx8) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/3c0wTYodyznfErM03IUkBD) | 3:44 | 2022-02-25 | 2022-08-04 |
+| [Pule ou Empurre](https://open.spotify.com/track/5KyCqnsRNr5sV4y2AcW542) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/62P9Bb98VUUAEAlrLClVZo) | 3:44 | 2022-02-25 |  |
 | [Quatro Manos](https://open.spotify.com/track/3LjEJTocxxuqqO5Q1pcykd) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/2m14oSniAdhSxqvusote9T) | 7:04 | 2022-02-25 |  |
 | [Qui Nem Judeu](https://open.spotify.com/track/3R4E2vWipow7sK2BpXXc20) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j) | [O Clã Prossegue](https://open.spotify.com/album/7KGHKQH1hx4zo1S2Bn4Gr6) | 5:00 | 2022-02-25 |  |
 | [Qui Nem Judeu](https://open.spotify.com/track/2R58QvBYID3mTnOqtlW5bv) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j) | [O Clã Prossegue](https://open.spotify.com/album/4JkoDMrs2dTPuMXfstGa6m) | 5:00 | 2022-02-25 | 2022-07-29 |

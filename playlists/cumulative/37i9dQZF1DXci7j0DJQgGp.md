@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-335 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
+336 songs - 21 hr 27 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,12 +99,13 @@
 | [Feel Like Doing Nothing](https://open.spotify.com/track/6guJ3sa5BobA9Dgt3iIzmr) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Feel Like Doing Nothing](https://open.spotify.com/album/6PBqTwv2QRK0QFtBlkDrLo) | 2:32 | 2022-03-25 | 2022-04-20 |
 | [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 | 2022-06-10 |  |
 | [Fire](https://open.spotify.com/track/7z7HuJQUzk93pSnP1qZkTp) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Fire](https://open.spotify.com/album/3T0O1rAk16A6FVB4dyG5DH) | 3:37 | 2021-12-17 | 2022-07-27 |
+| [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-08-01 |  |
 | [First to Love](https://open.spotify.com/track/0H9e3haW0exM6GkB1zkYoa) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [First To Love](https://open.spotify.com/album/2gH9deiCoLCJoHPhdn9IRt) | 4:38 | 2022-03-25 |  |
 | [Follow the Water](https://open.spotify.com/track/7mDgRy36arEHxxsOOGPB2m) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Years to Burn](https://open.spotify.com/album/3InGlpjjfAvSi7fa7Vkuf0) | 3:45 | 2021-12-17 | 2022-07-09 |
 | [For Props](https://open.spotify.com/track/6S6VRxuPU0rTxMiR8iO027) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/1Yl8659iDQjjaHNyTNXR4b) | 3:43 | 2022-03-25 | 2022-07-26 |
 | [For the Sky](https://open.spotify.com/track/0x4y7ilgQ7cNQeGAhwd4FR) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt), [Ed Droste](https://open.spotify.com/artist/0XF81i7F5hTlfNMHlTNptl) | [For the Sky](https://open.spotify.com/album/6eQdIC478LBfqDGruaJivl) | 4:25 | 2021-12-17 | 2022-07-15 |
 | [Forgive You](https://open.spotify.com/track/1sfTdlWfcFdI7NfmcfZPii) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:41 | 2021-12-17 | 2022-04-20 |
-| [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2022-04-11 |  |
+| [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2022-04-11 | 2022-08-04 |
 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2021-12-17 | 2022-07-29 |
 | [Funny Girl](https://open.spotify.com/track/2orOji9Xa4xhCWUtSAZrFT) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Funny Girl](https://open.spotify.com/album/7m7mnbF6lT9DsPbzqsNQgO) | 3:39 | 2022-01-07 | 2022-07-29 |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2022-06-10 |  |

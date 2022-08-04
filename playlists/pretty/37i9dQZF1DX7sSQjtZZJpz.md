@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 
 > Songs to help your kids learn in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 63 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 63 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

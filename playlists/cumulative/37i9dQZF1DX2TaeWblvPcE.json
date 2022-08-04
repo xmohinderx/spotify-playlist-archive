@@ -3400,6 +3400,24 @@
     },
     {
       "album": {
+        "name": "Kkondae Intern OST Part 3",
+        "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307426,
+      "name": "Uphill (Inst.)",
+      "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
+    },
+    {
+      "album": {
         "name": "Kkondae Intern (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1H9T31njmTPATY5N7SseUE"
       },
@@ -3411,7 +3429,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 307426,
       "name": "Uphill - Instrumental",
       "url": "https://open.spotify.com/track/0yTjmYvrc6p32V1hkKm8pP"

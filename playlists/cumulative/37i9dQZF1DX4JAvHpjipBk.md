@@ -4,7 +4,7 @@
 
 > New music from Beyoncé, ROSALÍA, Maggie Rogers, Calvin Harris, and more!
 
-14,259 songs - 31 day 5 hr 5 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
+14,261 songs - 31 day 5 hr 11 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8667,7 +8667,8 @@
 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2021-06-26 | 2021-07-04 |
 | [next 2 me](https://open.spotify.com/track/3MsTJ3uwQAWBAHkh0qQ4Rq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [next 2 me](https://open.spotify.com/album/2PKCGPLVxa4iIysVUHUCIn) | 2:32 | 2020-06-12 | 2020-06-19 |
 | [Next Day](https://open.spotify.com/track/0T9iryDb2VWi1t3qZldJex) | [Dany Neville](https://open.spotify.com/artist/25eSvHHBfgPVlQLGN4HPkU), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Next Day](https://open.spotify.com/album/0r6tGUsjhYzyYcous7pqmm) | 3:45 | 2020-06-05 | 2020-06-12 |
-| [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 | 2022-07-29 |  |
+| [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 | 2022-07-29 |  |
+| [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 | 2022-07-29 | 2022-08-04 |
 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 | 2020-09-04 | 2020-09-11 |
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 | 2022-03-12 |
 | [Next Thing \(Loverboy\)](https://open.spotify.com/track/3pKgOC7tlm4W0sCDLWPuPE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Next Thing \(Loverboy\)](https://open.spotify.com/album/3KAvR6XKFMYWnOlC7jzevW) | 3:03 | 2021-05-15 | 2021-05-22 |
@@ -12583,7 +12584,8 @@
 | [Through The Storm](https://open.spotify.com/track/3CbqAQnT7oU23IvtcHO0k1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Through The Storm](https://open.spotify.com/album/4symFkdIp5MM4yxpQITTMb) | 2:13 | 2021-05-08 | 2021-05-15 |
 | [Through The Wire](https://open.spotify.com/track/7LS1ejD2YP26363YkJmVdZ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Through The Wire](https://open.spotify.com/album/09T2PrA53cKeUvGalQHmf9) | 3:43 | 2020-07-18 | 2020-07-24 |
 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo) | 2:05 | 2022-05-20 | 2022-05-28 |
-| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 | 2022-07-29 |  |
+| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/2l94QRczQbAB2EIugAS0sA) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 3:28 | 2022-07-29 |  |
+| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 | 2022-07-29 | 2022-08-04 |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-06-05 | 2021-06-12 |
 | [Throw Me A Text](https://open.spotify.com/track/1cmX1KzDCfwAXaeq2WUBvE) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Plead The 5th](https://open.spotify.com/album/3fs9Y3TQ3twby9Yc3b7uL8) | 3:20 | 2020-03-20 | 2020-03-27 |
 | [Throw My Arms Around the World](https://open.spotify.com/track/3e0qasDdOeG9GNyE88q2xR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Throw My Arms Around the World](https://open.spotify.com/album/5RCnJsli1dv6SymwMAjfNn) | 5:18 | 2020-12-18 | 2020-12-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,014 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,092 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 10 | [End of the World](https://open.spotify.com/track/7z4DarPmWybFV4LUgx2Bot) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [MODERN ARTillery \(U.S\. Version\)](https://open.spotify.com/album/19tTQZGysI1NfLDD9wWjrP) | 3:36 |
 | 11 | [Voices of the Dead](https://open.spotify.com/track/2RugXdJxSYwxavuNiBrTVN) | [Calabrese](https://open.spotify.com/artist/6mPxn8ImLflIQ8bYihQMFp) | [The Traveling Vampire Show](https://open.spotify.com/album/2GPQQsJWPxf4M5LQObwluC) | 2:42 |
 | 12 | [Mayhem](https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:46 |
-| 13 | [Mind Control](https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB) | [Snash](https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4) | [Mind Control](https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0) | 2:14 |
-| 14 | [Nature Calls](https://open.spotify.com/track/1p1RgiJTvoaWFnkM1M0JFH) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino](https://open.spotify.com/album/3ikzXiKu90dwjhX3kz6gWV) | 3:48 |
+| 13 | [Nature Calls](https://open.spotify.com/track/1p1RgiJTvoaWFnkM1M0JFH) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino](https://open.spotify.com/album/3ikzXiKu90dwjhX3kz6gWV) | 3:48 |
+| 14 | [Mind Control](https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB) | [Snash](https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4) | [Mind Control](https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0) | 2:14 |
 | 15 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 |
 | 16 | [Victory Lap](https://open.spotify.com/track/1vVF4BT9Khi5wuO9fwBMj3) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Rev](https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL) | 3:23 |
 | 17 | [Bodies in the Basement](https://open.spotify.com/track/3wZXkoUcXsTP3iRf6UIH0C) | [Demented Are Go](https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W) | [Welcome Back To Insanity Hall](https://open.spotify.com/album/5pYc0q0qCPcASzOLi03U9k) | 2:28 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 33 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
 | 34 | [Hellbound Heart](https://open.spotify.com/track/44qkYytrjp1w9Dy1Q4kGEV) | [Stellar Corpses](https://open.spotify.com/artist/1hw7xcATBmW7H2Ub7MRk7J), [Jimmy Calabrese](https://open.spotify.com/artist/6KoBsgEcgUi4hUkVZiAgiH) | [Hellbound Heart](https://open.spotify.com/album/7nLqF6LpGmCJD74orPRgrP) | 3:46 |
 | 35 | [Sticks & Stones](https://open.spotify.com/track/6afQKJhKqdqTGomP1bbRT5) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 3:18 |
-| 36 | [Two\-Headed Shark](https://open.spotify.com/track/0JOz2NI94mJAiV5phfqMu9) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Gravedigging](https://open.spotify.com/album/1U7hECBiaVZvmnF7mZNMhB) | 1:52 |
-| 37 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
+| 36 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
+| 37 | [Two\-Headed Shark](https://open.spotify.com/track/0JOz2NI94mJAiV5phfqMu9) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Gravedigging](https://open.spotify.com/album/1U7hECBiaVZvmnF7mZNMhB) | 1:52 |
 | 38 | [Night Flier](https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC) | [Bloodsucking Zombies from outer Space](https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9) | [All These Fiendish Things](https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj) | 3:29 |
 | 39 | [Be My End](https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Be My End](https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0) | 2:38 |
 | 40 | [Army of Darkness](https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03) | [Drunktank](https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c) | [Return of the Infamous Four](https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l) | 3:31 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 42 | [Johnny Got A Boom Boom](https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H) | 2:59 |
 | 43 | [In the Middle of the Night](https://open.spotify.com/track/1PV7W1c2eQzxgPepe0yFnO) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/76Q0H0ikqxqaEl23HI5MBx) | 3:07 |
 | 44 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
-| 45 | [Come A Little Closer](https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Big City Lights](https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi) | 2:58 |
-| 46 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
+| 45 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
+| 46 | [Come A Little Closer](https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Big City Lights](https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi) | 2:58 |
 | 47 | [Rockin' at the House of Strange](https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Power of 3](https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y) | 3:01 |
 | 48 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
 | 49 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
 | 50 | [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDE0YmVhZjAyNDNkMGY2OWUyMTQwMjFlMGE5NjM1ZjJl`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDQ1NzBlOWMxZWViZTJhODU0OTg1NDM5ZTU4Yzc4NGFj`

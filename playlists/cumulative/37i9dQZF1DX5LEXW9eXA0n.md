@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: WSG WANNABE\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: JUSTHIS\(저스디스\)\) \(당신의 감성에 발라드, 려요\)
 
-485 songs - 1 day 7 hr 37 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+486 songs - 1 day 7 hr 40 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Boy in time \- HUI Solo](https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:38 | 2022-01-17 | 2022-04-04 |
 | [Break Up In The Morning](https://open.spotify.com/track/58l89KaezgUggzE2c2ZQFU) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Break Up In The Morning](https://open.spotify.com/album/3WQPmJd4FvagVPGWYMjfNO) | 4:44 | 2022-05-11 | 2022-07-14 |
 | [Breathing](https://open.spotify.com/track/7BOZXsXcOKbHMjbBVcT4R6) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: THE NEW DAY WE STEP INTO \- SEASON 2.](https://open.spotify.com/album/0XI2pmH6pUEjx0d9iOqx9x) | 3:38 | 2022-01-03 | 2022-01-13 |
+| [Broke Up, Met Again \(prod\. DOKO\) \- You Remix Version](https://open.spotify.com/track/7vgez1qM4xypCv921l7688) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Broke Up, Met Again](https://open.spotify.com/album/3b6gNzdvqczZecDmziSvvx) | 3:13 | 2022-08-03 |  |
 | [Burden](https://open.spotify.com/track/35wAnH3OfMXvPgJq6urVkG) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [My fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:28 | 2022-03-31 | 2022-06-13 |
 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-07 |  |
 | [But I'll Miss You](https://open.spotify.com/track/7AyxUdou9NrGU64bTc9dsT) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 2](https://open.spotify.com/album/25eO6EK4Lt8NLyzStPpcQN) | 4:09 | 2021-12-20 | 2022-06-23 |

@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-156 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
+157 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 | 2022-04-20 |  |
 | [1539 N\. Calvert](https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Veteran](https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco) | 2:37 | 2022-06-07 |  |
 | [5 Ways](https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [5 Ways](https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S) | 1:50 | 2022-03-29 | 2022-07-29 |
-| [6FINGERDEATHPUNCH](https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [All Nighter, Vol\. 6](https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS) | 2:44 | 2022-07-29 |  |
+| [6FINGERDEATHPUNCH](https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [All Nighter, Vol\. 6](https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS) | 2:44 | 2022-07-29 | 2022-08-04 |
 | [All Alone](https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [All Alone](https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl) | 2:54 | 2022-03-29 |  |
 | [ALL KILLER NO FILLER](https://open.spotify.com/track/6nfnDSD5Wa9LAD8jeN5tix) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [TOXIC BOOGALOO](https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9) | 1:41 | 2022-04-20 | 2022-07-29 |
 | [All This Money](https://open.spotify.com/track/6zEPJJzojnfOrvfyuJiPtF) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Floss](https://open.spotify.com/album/67sUOjUevVJGgfCj1N2e4N) | 3:17 | 2022-06-24 | 2022-07-14 |
@@ -37,6 +37,7 @@
 | [CEO OF MY ASS](https://open.spotify.com/track/2ZDKYbeCuzfEE2inGU5Ybj) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [CEO OF MY ASS](https://open.spotify.com/album/2rmZayJCme9uQLV2MnNXfp) | 2:04 | 2022-06-24 | 2022-06-28 |
 | [CLOUT COBAIN \| CLOUT CO13A1N](https://open.spotify.com/track/0UgavZ34yLBu8LtA6Bwxch) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [CLOUT COBAIN \| CLOUT CO13A1N](https://open.spotify.com/album/4u0jcVRikLvkom61PUG1j7) | 3:51 | 2022-06-17 | 2022-07-25 |
 | [COLUMBIA](https://open.spotify.com/track/2g3n5HwhJ5VukAfQaCmW5T) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 3:07 | 2022-03-29 |  |
+| [coordinate](https://open.spotify.com/track/7pas6O1LYbaeChEFQBhPFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:46 | 2022-08-03 |  |
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-07-25 |  |
 | [Crazy](https://open.spotify.com/track/5x84Im19qMtvMfiIXoxAYj) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Crazy](https://open.spotify.com/album/4iVChjkQSVAg8gAVCoXV90) | 2:29 | 2022-03-29 | 2022-07-29 |
 | [Crisis](https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 1:49 | 2022-03-29 |  |

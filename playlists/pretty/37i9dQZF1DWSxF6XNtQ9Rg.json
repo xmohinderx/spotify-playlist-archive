@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da riascoltare in loop. Cover: Marracash",
-  "num_followers": 135490,
+  "num_followers": 135615,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMjA4MSwwMDAwMDAwMDA4NTI5OGRhYjA3OGFjOTUxMjZlMmM0MDliNTlmMTYx",
+  "snapshot_id": "MTY1ODkzMjA4MSwwMDAwMDAwMGNkMWY0YjY3ODA4OTVjMWU0NjcwZGZkMDhiZTBkMmQy",
   "tracks": [
     {
       "added_at": "2022-07-27 14:28:01",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-07-27 14:28:01",
       "album": {
-        "name": "Lunga Vita a Sto",
-        "url": "https://open.spotify.com/album/5tKy8HZ7mRWib6Tuv54rcf"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Dende",
-      "url": "https://open.spotify.com/track/0GaWvzS26hjyY3HGwjJ9YW"
-    },
-    {
-      "added_at": "2022-07-27 14:28:01",
-      "album": {
         "name": "Re Mida",
         "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 171375,
       "name": "Stamm Fort (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
+    },
+    {
+      "added_at": "2022-07-27 14:28:01",
+      "album": {
+        "name": "Lunga Vita a Sto",
+        "url": "https://open.spotify.com/album/5tKy8HZ7mRWib6Tuv54rcf"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Dende",
+      "url": "https://open.spotify.com/track/0GaWvzS26hjyY3HGwjJ9YW"
     },
     {
       "added_at": "2022-07-27 14:28:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-07-27 14:28:01",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Lo Sai Che Ci Penso",
-      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
-    },
-    {
-      "added_at": "2022-07-27 14:28:01",
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-07-27 14:28:01",
       "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC"
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
       "artists": [
         {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 151440,
-      "name": "Effe",
-      "url": "https://open.spotify.com/track/56nvQibJaC1V84wVMqA3Ck"
+      "duration_ms": 180346,
+      "name": "Lo Sai Che Ci Penso",
+      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
     },
     {
       "added_at": "2022-07-27 14:28:01",
@@ -1283,6 +1267,54 @@
       "duration_ms": 180009,
       "name": "Torna Da Me",
       "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2022-07-27 14:28:01",
+      "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 151440,
+      "name": "Effe",
+      "url": "https://open.spotify.com/track/56nvQibJaC1V84wVMqA3Ck"
+    },
+    {
+      "added_at": "2022-07-27 14:28:01",
+      "album": {
+        "name": "Porto Cervo",
+        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 235425,
+      "name": "Porto Cervo",
+      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
+    },
+    {
+      "added_at": "2022-07-27 14:28:01",
+      "album": {
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 178222,
+      "name": "Street",
+      "url": "https://open.spotify.com/track/1AA3XZWWaLTcOgVdeSWg3S"
     },
     {
       "added_at": "2022-07-27 14:28:01",
@@ -1331,34 +1363,22 @@
     {
       "added_at": "2022-07-27 14:28:01",
       "album": {
-        "name": "Porto Cervo",
-        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
+        "name": "Scatola Nera",
+        "url": "https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 235425,
-      "name": "Porto Cervo",
-      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
-    },
-    {
-      "added_at": "2022-07-27 14:28:01",
-      "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
-      },
-      "artists": [
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
         }
       ],
-      "duration_ms": 178222,
-      "name": "Street",
-      "url": "https://open.spotify.com/track/1AA3XZWWaLTcOgVdeSWg3S"
+      "duration_ms": 173960,
+      "name": "Veleno 7",
+      "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"
     },
     {
       "added_at": "2022-07-27 14:28:01",
@@ -1387,26 +1407,6 @@
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
-    },
-    {
-      "added_at": "2022-07-27 14:28:01",
-      "album": {
-        "name": "Scatola Nera",
-        "url": "https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Veleno 7",
-      "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"
     },
     {
       "added_at": "2022-07-27 14:28:01",

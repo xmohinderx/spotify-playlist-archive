@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1683919,
+  "num_followers": 1684147,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMTEzMCwwMDAwMDAwMDI5ZGJhYzM0NjgwOGUxMTUxZjc3MGUwZTM5Mjc4YzY5",
+  "snapshot_id": "MTY1ODQyMTEzMCwwMDAwMDAwMGY4N2ZjZTYyMTk5MjU5OTBkYjlhYTZhOGFlMDE0ODkx",
   "tracks": [
     {
       "added_at": "2022-07-21 16:32:10",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
+        "name": "Montaner",
+        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "\u00bfQu\u00e9 Vas a Hacer?",
+      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
         "name": "Lo Intent\u00e9 Todo",
         "url": "https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 204044,
       "name": "Lo Intent\u00e9 Todo",
       "url": "https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
-        "name": "Montaner",
-        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "\u00bfQu\u00e9 Vas a Hacer?",
-      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
+        "name": "Limonada",
+        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "C\u00f3mo Decirle",
+      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
         "name": "Y Duele (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Limonada",
-        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "C\u00f3mo Decirle",
-      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 199640,
       "name": "Para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y"
-      },
-      "artists": [
-        {
-          "name": "Joel DELE\u00d3N",
-          "url": "https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1731,6 +1715,22 @@
       "duration_ms": 150094,
       "name": "Tomar Distancia",
       "url": "https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y"
+      },
+      "artists": [
+        {
+          "name": "Joel DELE\u00d3N",
+          "url": "https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF"
     },
     {
       "added_at": "2022-07-21 16:32:10",

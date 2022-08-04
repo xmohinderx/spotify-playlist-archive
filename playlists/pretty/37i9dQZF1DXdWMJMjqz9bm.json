@@ -1,13 +1,33 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: Nicky Youre",
-  "num_followers": 163985,
+  "num_followers": 164161,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3MTk0MCwwMDAwMDAwMDUwYTIyZGU1NzI2ZjAyYTBjYzQyODE3ZmRjNTU3ZjAz",
+  "snapshot_id": "MTY1OTU1NjgwMSwwMDAwMDAwMGY2ZjczM2UzM2JhMWVkMDNiM2E2YTk3M2YzODgxZDVm",
   "tracks": [
+    {
+      "added_at": "2022-08-03 19:30:46",
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo"
+      },
+      "artists": [
+        {
+          "name": "Good Scott",
+          "url": "https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw"
+        },
+        {
+          "name": "ST LUNA",
+          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
+        }
+      ],
+      "duration_ms": 160292,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X"
+    },
     {
       "added_at": "2022-07-22 06:39:00",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 206333,
       "name": "act right",
       "url": "https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn"
-    },
-    {
-      "added_at": "2022-07-15 13:50:15",
-      "album": {
-        "name": "Zipcodes",
-        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -151,6 +155,22 @@
       "duration_ms": 297404,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2022-07-15 13:50:15",
+      "album": {
+        "name": "Zipcodes",
+        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -731,22 +751,6 @@
       "duration_ms": 220586,
       "name": "20 Min",
       "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
-    },
-    {
-      "added_at": "2022-07-11 17:06:22",
-      "album": {
-        "name": "I Can't Stop Talking to God",
-        "url": "https://open.spotify.com/album/4Xvq7y0cey3nUNUEJIj4GL"
-      },
-      "artists": [
-        {
-          "name": "Zack Cokas",
-          "url": "https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor"
-        }
-      ],
-      "duration_ms": 143658,
-      "name": "I Can't Stop Talking to God",
-      "url": "https://open.spotify.com/track/4wK4CFin4FpwfVq1tVHigg"
     },
     {
       "added_at": "2022-07-05 14:49:37",

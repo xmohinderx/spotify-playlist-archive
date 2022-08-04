@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Nilay Özkara Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,288 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,300 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

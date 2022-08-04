@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: TRISTÁN!
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Claudia Allmang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,971 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,997 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mosquito](https://open.spotify.com/track/7MWsyLKBujUSMn2IS346M4) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [Mosquito](https://open.spotify.com/album/3NOiQISukKXizIFeDtVxtu) | 3:12 |
-| 2 | [Wateke](https://open.spotify.com/track/102mRhCOyLgWJ7SB1KKn8C) | [Lauren Nine](https://open.spotify.com/artist/3gu7WjaQHv0vpNYtXYISpb) | [WWW](https://open.spotify.com/album/0WIYPaN0fsvnweVPGCuu8I) | 2:44 |
-| 3 | [De Mí](https://open.spotify.com/track/01ZgAAf4KLKlquuSTREcEY) | [Con K](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [De Mí](https://open.spotify.com/album/2vg22zuLwTfSu8jbIGRioi) | 2:58 |
-| 4 | [casi algo](https://open.spotify.com/track/4GauJC4IfolWyyHMCprgwv) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [casi algo](https://open.spotify.com/album/1JL9GKum5aiwVKPmZ2rGfG) | 2:14 |
+| 1 | [casi algo](https://open.spotify.com/track/4GauJC4IfolWyyHMCprgwv) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [casi algo](https://open.spotify.com/album/1JL9GKum5aiwVKPmZ2rGfG) | 2:14 |
+| 2 | [Mosquito](https://open.spotify.com/track/7MWsyLKBujUSMn2IS346M4) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [Mosquito](https://open.spotify.com/album/3NOiQISukKXizIFeDtVxtu) | 3:12 |
+| 3 | [Wateke](https://open.spotify.com/track/102mRhCOyLgWJ7SB1KKn8C) | [Lauren Nine](https://open.spotify.com/artist/3gu7WjaQHv0vpNYtXYISpb) | [WWW](https://open.spotify.com/album/0WIYPaN0fsvnweVPGCuu8I) | 2:44 |
+| 4 | [De Mí](https://open.spotify.com/track/01ZgAAf4KLKlquuSTREcEY) | [Con K](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [De Mí](https://open.spotify.com/album/2vg22zuLwTfSu8jbIGRioi) | 2:58 |
 | 5 | [Tofu Delivery](https://open.spotify.com/track/1lhyAw0q1zxRgFrCRPuMV3) | [FINTA](https://open.spotify.com/artist/4q5q5oeMnuEHo6UMyTOwrW) | [Tofu Delivery](https://open.spotify.com/album/2T7Bt5hS143SghpNEBlbft) | 2:49 |
 | 6 | [Sonova](https://open.spotify.com/track/1LgjeVcbUgkATOE62J7rI5) | [Eximio](https://open.spotify.com/artist/2QccwnU2mUudZeObNBuXRS) | [Sonova](https://open.spotify.com/album/6IqiCryJ2o4I2Y3AH6Yn9q) | 2:19 |
 | 7 | [Mirada de pirada](https://open.spotify.com/track/6S8CKokvJKykfEE1kBUjal) | [Paco Moreno](https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux) | [Rumba profunda](https://open.spotify.com/album/7xyfwWYXvSGVCGcZRV3QJq) | 2:41 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 50 | [Oye, que perdón](https://open.spotify.com/track/01h5IZ6lolrFbCw3Zd8OTt) | [Secundaria](https://open.spotify.com/artist/2X9pSg6p44sB1cQYty192c) | [Oye, que perdón](https://open.spotify.com/album/1Lk05VwjikFB2RsSrmMQeJ) | 3:05 |
 | 51 | [Desconfiando, Pt\. 4 Olfato](https://open.spotify.com/track/7CltF5IQRtP0zTXjH5CKEu) | [Jonathan Pons](https://open.spotify.com/artist/3Afk3KSsJyzghCvgw2OQIY) | [Desconfiando, Pt\. 4 Olfato](https://open.spotify.com/album/0mpUREB51ahWo2vo5Gjg7i) | 2:43 |
 
-Snapshot ID: `MTY1OTQ3NzYwMCwwMDAwMDAwMGNmZGNiMGZlMzhkZDY5YTIyZTc0OTFhYjM2ZDQ3MzJl`
+Snapshot ID: `MTY1OTUyMzA4NiwwMDAwMDAwMDc4MDY0ZjRkNTdmN2NjNjI4NDA4NjQ1ZWM1NDY5YTY4`

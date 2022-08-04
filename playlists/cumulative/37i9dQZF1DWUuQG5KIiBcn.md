@@ -4,7 +4,7 @@
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-104 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/6t9dYU0lb5Dzk8M8t6oooM)
+105 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6t9dYU0lb5Dzk8M8t6oooM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Baraja De Oro](https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:18 | 2022-01-28 |  |
 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 | 2022-01-28 |  |
 | [Carga Ladeada](https://open.spotify.com/track/6p45TMWkBGbCAZ7GO8siIV) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [Nuestros Grandes Corridos](https://open.spotify.com/album/5fsC9BgUssEk1l97HJvaDt) | 3:58 | 2022-01-28 | 2022-07-29 |
-| [Catarino y los Rurales](https://open.spotify.com/track/0J4FqWQvnEP4a9msECu8ZA) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [24 Exitazos Serie Lindisima](https://open.spotify.com/album/49Zi6kGRaeHIBdEmtllEVD) | 2:55 | 2022-01-28 |  |
+| [Catarino y los Rurales](https://open.spotify.com/track/0J4FqWQvnEP4a9msECu8ZA) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [24 Exitazos Serie Lindisima](https://open.spotify.com/album/49Zi6kGRaeHIBdEmtllEVD) | 2:55 | 2022-01-28 | 2022-08-04 |
 | [Catarino Y Los Rurales](https://open.spotify.com/track/0xLOfZEzRtkzy1ADdZ2m3W) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Ramalazo](https://open.spotify.com/album/15qK1WoL0Rh066I1PJnVLy) | 2:55 | 2022-01-28 | 2022-07-29 |
+| [Catarino y Los Rurales](https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Ramalazo](https://open.spotify.com/album/1kllifC08UwQ9d0ZoI3gh4) | 2:55 | 2022-01-28 |  |
 | [Contrabando De Juárez](https://open.spotify.com/track/4gwuwo3PgUrWzyJ7ofjN59) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 3:27 | 2022-01-28 |  |
 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 | 2022-01-28 |  |
 | [Corrido de Chito Cano](https://open.spotify.com/track/4z2b6CuNHpzg3npIN7UG6H) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [Corridos Con Madre](https://open.spotify.com/album/31rn8ooegywMaqmD1sZh6O) | 3:19 | 2022-01-28 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3NOV9DaFp.md) - [plain]
 
 > The official playlist of Rolling Loud.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,484 likes - 158 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,485 likes - 158 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3NOV9DaFp.md) - [plain]
 | 97 | [Greed \(feat\. Lil Yachty\)](https://open.spotify.com/track/2AhAhd9BiyydtKq2hMdb7Q) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Greed \(feat\. Lil Yachty\)](https://open.spotify.com/album/0pTj7z7TG1Uu8LT1upuwep) | 1:36 |
 | 98 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |
 | 99 | [I Ain't Perfect \(feat\. Blxst\)](https://open.spotify.com/track/5Ak6oUUC0r1KfU2sPXkSa5) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 3:32 |
-| 100 | [Beat Box 2 \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/4viLFSt63lJgCEZMfJwxI4) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Final Destination](https://open.spotify.com/album/3uvbInwEqnTnYmjgCDfCsc) | 3:01 |
+| 100 | [Beat Box 2 \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/3fHNHBb2eGLahIvoVa19zq) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Final Destination](https://open.spotify.com/album/6PZymRFp89JEYsgQyD5NNl) | 3:01 |
 | 101 | [Pemex](https://open.spotify.com/track/3oEwMFQQ8jWpvCtz1cw9Jb) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Pemex](https://open.spotify.com/album/14dr5PxXq3fjC7Yu5vxz5A) | 2:36 |
 | 102 | [Too Much](https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:47 |
 | 103 | [Na Na Na Na Na \(Caught Slippin\)](https://open.spotify.com/track/6dkYNFH4F8BttEgtjIPoI3) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [Grey Gorilla](https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6) | 2:33 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3NOV9DaFp.md) - [plain]
 | 157 | [Death \(feat\. DaBaby\)](https://open.spotify.com/track/6YfTl5YupXOQBKiJJLrxcw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Death \(feat\. DaBaby\)](https://open.spotify.com/album/0wb2DaHDhLUUS5RRFa26U9) | 2:52 |
 | 158 | [I Be](https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2 \(Deluxe\)](https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB) | 3:13 |
 
-Snapshot ID: `MTY1ODI0Njc0MiwwMDAwMDAwMGU2ZjkxNmY1MzIwNzJkZTM1MDExZmU0MGNlZTM3ZDk1`
+Snapshot ID: `MTY1ODI0Njc0MiwwMDAwMDAwMDU1YTUxOGUzNGNmZWNjMzQ2MDA5YjgwOGM2ZGY4YmJl`

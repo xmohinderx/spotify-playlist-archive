@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: 黒子首\(hockrockb\)
 
-513 songs - 1 day 9 hr 7 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+514 songs - 1 day 9 hr 11 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [いない](https://open.spotify.com/track/6cdidMywmLuwCIEfsyQjCu) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [いない](https://open.spotify.com/album/56HbxEIjImFxbiVbg3MfOS) | 3:26 | 2022-06-02 | 2022-06-06 |
 | [いらない](https://open.spotify.com/track/0SF7KDPsfbo20srTywlYY4) | [レイラ](https://open.spotify.com/artist/1q6rCB21jRvn4eofLLuWOf) | [World](https://open.spotify.com/album/0jKElKSvShqqPMoGAaSzR1) | 3:15 | 2022-06-02 | 2022-07-04 |
 | [うみべの町](https://open.spotify.com/track/7KKXHXX913wiVckdwtYkNj) | [揺らす](https://open.spotify.com/artist/2gY7l0hsZP0p2G2HNsXmin) | [うみべの女の子](https://open.spotify.com/album/7qxZ61rX3UI5Bp1q4Bnx0X) | 3:30 | 2022-06-30 | 2022-07-15 |
+| [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 | 2022-08-02 |  |
 | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/track/7hEGeTypOtmAiNKaKVPxqn) | [AFTER HOURS](https://open.spotify.com/artist/0tt41FYRZVpxGMpgCaOmGi), [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/album/0aY7cHP9Q2gj7NlpIrEyWb) | 3:26 | 2022-05-31 | 2022-06-10 |
 | [かみさま](https://open.spotify.com/track/5LmRV82wzYcX3rLSkB6D1k) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [かみさま/サンクチュアリ](https://open.spotify.com/album/2CxEoP6oJFyMcQLuhxgYM5) | 3:53 | 2022-06-23 | 2022-07-10 |
 | [くだらない](https://open.spotify.com/track/2FxcF1q8xgGUEJkKC0lla1) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [our hope](https://open.spotify.com/album/1ONQrLL5EaVJd34qsM21id) | 3:35 | 2022-06-02 | 2022-07-28 |
@@ -320,7 +321,7 @@
 | [ハイヒール](https://open.spotify.com/track/1n2zkC8nBodROMonhFKYjM) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ハイヒール](https://open.spotify.com/album/1xm501QNqARGp8YeOuh1Qm) | 2:48 | 2022-05-26 | 2022-07-25 |
 | [ハイファイハハイファイ](https://open.spotify.com/track/0UALsXlmNaIePgmjsUw2c9) | [she9](https://open.spotify.com/artist/7kqyVZ45i3bBcsiJ5HkpoM) | [ハイファイハハイファイ](https://open.spotify.com/album/5Lm2YtpB2XQSKdTewQPUsc) | 3:14 | 2022-05-26 | 2022-07-19 |
 | [ハイブリッド](https://open.spotify.com/track/4hAKf8wRdkfHL9RGpLxiY0) | [ayutthaya](https://open.spotify.com/artist/0rTubhDFni3uMrx2nSK9WG) | [ハイブリッド](https://open.spotify.com/album/5M1uzAGymYV7b0f0422zsi) | 4:14 | 2022-06-07 | 2022-07-18 |
-| [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 | 2022-06-30 |  |
+| [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 | 2022-06-30 | 2022-08-04 |
 | [ハジけちゃって!Summertime](https://open.spotify.com/track/4bugel0zazZwUutYTAiJ73) | [The Biscats](https://open.spotify.com/artist/2WFeBXlWx9OBUTQ7UEdsZM) | [ハジけちゃって!Summertime](https://open.spotify.com/album/7zey9j6PDO9BdxTsZRELnp) | 4:25 | 2022-06-21 | 2022-06-24 |
 | [ハッカドロップ](https://open.spotify.com/track/59VZbHTeIGALqm0u6ODFvG) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [ハッカドロップ](https://open.spotify.com/album/6k1oPt3hrpsJveHC3W0h6E) | 4:26 | 2022-06-14 | 2022-06-17 |
 | [ハッピーエンド](https://open.spotify.com/track/5gUzLLcqBLpQlIK6QgyCN3) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ハッピーエンド](https://open.spotify.com/album/2sKwTRvtoCyG7iRwcTNWsT) | 5:27 | 2022-07-12 |  |

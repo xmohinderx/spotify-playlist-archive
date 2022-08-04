@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-390 songs - 1 day 3 hr 35 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+391 songs - 1 day 3 hr 39 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Kristallnaach](https://open.spotify.com/track/2aZsp1KAJLMOaW2socza14) | [BAP](https://open.spotify.com/artist/39ukKqQOSUFJDAM9OLKQZg) | [Vun Drinne Noh Drusse](https://open.spotify.com/album/01DA2kVDaJ8I2Z6PETlZt7) | 4:59 | 2018-12-12 | 2022-07-23 |
 | [Lady Shave](https://open.spotify.com/track/1Ke1tdqlzpXxQvHPP7TC9L) | [Fad Gadget](https://open.spotify.com/artist/5IRIVOsIjIch3u8UfWdnBd) | [The Fad Gadget Singles](https://open.spotify.com/album/3odysxr7qnWKR2v6ZU8tc5) | 5:41 | 2019-08-02 | 2022-04-20 |
 | [Let Me Go](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 | 2021-08-31 | 2022-04-20 |
-| [Let's Go To Bed](https://open.spotify.com/track/0sajbvtKzol0PeerLCCmtM) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:34 | 2022-01-06 |  |
+| [Let's Go To Bed](https://open.spotify.com/track/0sajbvtKzol0PeerLCCmtM) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:34 | 2022-01-06 | 2022-08-04 |
 | [Let's Go To Bed](https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:34 | 2022-01-06 | 2022-07-09 |
 | [Lie To Me](https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Chris Isaak](https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N) | 4:13 | 2020-05-06 |  |
 | [Lie To Me](https://open.spotify.com/track/6yjpu27GSlkgU9Blt6Auw2) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Chris Isaak](https://open.spotify.com/album/1q39oBVX5sTxcQqBgZNPS6) | 4:13 | 2020-05-06 | 2022-04-21 |
@@ -210,6 +210,7 @@
 | [Major Tom \(Völlig Losgelöst\)](https://open.spotify.com/track/2qZQtey4lTwvvABVMrO4h8) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Major Tom \[Voellig Losgeloest\]](https://open.spotify.com/album/1qLcqJlAWG6z7JV65EUFS6) | 4:33 | 2021-10-17 | 2022-06-24 |
 | [Making Plans For Nigel](https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 3:53 | 2018-12-12 | 2022-07-19 |
 | [Mandinka](https://open.spotify.com/track/3Dz0kDM3Er8kGrPGx03PqV) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion And The Cobra](https://open.spotify.com/album/67nJgLgseykZPC5J5xnU4F) | 3:47 | 2019-08-01 | 2022-07-29 |
+| [Mandinka](https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 3:47 | 2019-08-01 |  |
 | [Master and Servant](https://open.spotify.com/track/6E6RViXGAhLXHv4Sbe8e96) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 4:12 | 2022-05-27 | 2022-05-29 |
 | [Midnight Man](https://open.spotify.com/track/4NkNu6seQP1XttxabCJSx1) | [Flash and the Pan](https://open.spotify.com/artist/573nSltoBinkbQXk5JSY9U) | [Collection](https://open.spotify.com/album/0P9q63bMtm9s8VDQp6cJSK) | 4:54 | 2020-10-21 |  |
 | [Mirror in the Bathroom](https://open.spotify.com/track/2JV6DM5CGcpThMVZtucCqC) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [I Just Can't Stop It \[Deluxe Edition\]](https://open.spotify.com/album/4loqJOnMNURLM7LEpZ57cu) | 3:09 | 2018-12-12 | 2022-07-29 |

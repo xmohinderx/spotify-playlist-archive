@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 94329,
+  "num_followers": 94369,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGI3NWQyNDc1OGNkYWRkNWI3OTNhNmRkMDA5MzY4YTMw",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDk3YjYwMjRiYWFhMTM0NGI4OTU3NmU0MTk2MmVjZmQ1",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -203,22 +203,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Have Blues, Will Travel",
-        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
-      },
-      "artists": [
-        {
-          "name": "Smokin' Joe Kubek & Bnois King",
-          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Have Blues, Will Travel",
-      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "The Fabulous Thunderbirds",
         "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 183560,
       "name": "Wait On Time",
       "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Have Blues, Will Travel",
+        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
+      },
+      "artists": [
+        {
+          "name": "Smokin' Joe Kubek & Bnois King",
+          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Have Blues, Will Travel",
+      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Bluesman for Life",
-        "url": "https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh"
-      },
-      "artists": [
-        {
-          "name": "Roy Gaines",
-          "url": "https://open.spotify.com/artist/3MGM5t6OR7ZxudoWw53LMr"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Bluesman for Life - Remastered",
-      "url": "https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Return Of The Radio Avengers",
         "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 199400,
       "name": "88 Answers",
       "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Bluesman for Life",
+        "url": "https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh"
+      },
+      "artists": [
+        {
+          "name": "Roy Gaines",
+          "url": "https://open.spotify.com/artist/3MGM5t6OR7ZxudoWw53LMr"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Bluesman for Life - Remastered",
+      "url": "https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF"
     },
     {
       "added_at": "2018-02-27 16:43:49",

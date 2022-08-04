@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Trousdale",
-  "num_followers": 779707,
+  "num_followers": 779781,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzEyOTE5MiwwMDAwMDAwMDMzMWE5MjYyOWFjNDdkYzBmYzFhMjA1ODE0MjgwZjQw",
+  "snapshot_id": "MTY0NzEyOTE5MiwwMDAwMDAwMGZiZTFiZWFiMGRkM2ExM2I5NjRjMTBmZjRkZDMxNTE0",
   "tracks": [
     {
       "added_at": "2022-03-12 23:53:12",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Those Younger Days",
-        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
-      },
-      "artists": [
-        {
-          "name": "The Hunts",
-          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "We Still Move on Dance Floors",
         "url": "https://open.spotify.com/album/0qzrRGMp3q7kt5l2d4SS8j"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/6LVBLqjO3uh7UmSfp0PNyI"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Those Younger Days",
+        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
+      },
+      "artists": [
+        {
+          "name": "The Hunts",
+          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Help Me to Feel Again",
         "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/7wNsondY4Wz6ll9eF0XFzH"
-      },
-      "artists": [
-        {
-          "name": "WILD",
-          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/4g3Ocpx03I8lvA8dx9GdQQ"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Greatest Enemy",
-        "url": "https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu"
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/7wNsondY4Wz6ll9eF0XFzH"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
         }
       ],
-      "duration_ms": 189026,
-      "name": "Greatest Enemy",
-      "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
+      "duration_ms": 195000,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/4g3Ocpx03I8lvA8dx9GdQQ"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1559,6 +1543,22 @@
       "duration_ms": 189563,
       "name": "Always, Joni",
       "url": "https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Greatest Enemy",
+        "url": "https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Greatest Enemy",
+      "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
     },
     {
       "added_at": "2022-03-12 23:53:12",

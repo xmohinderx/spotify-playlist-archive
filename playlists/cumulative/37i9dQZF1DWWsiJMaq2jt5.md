@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Ofelia
 
-517 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/4GLTrwzQfm5erozUlasyTG)
+518 songs - 1 day 4 hr 11 min - [published](https://open.spotify.com/playlist/4GLTrwzQfm5erozUlasyTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bliss](https://open.spotify.com/track/1NIrcCMA8XV1jMLv9HEwGC) | [Melrose](https://open.spotify.com/artist/46ow76Ap6QjoaaL8cXcG7U), [Marisol](https://open.spotify.com/artist/5oBe3ZLAxyhcl6w05EnZfF), [Marta Mackiewicz](https://open.spotify.com/artist/5dDUAWQlVg43gOzgEUdDbF) | [Bliss](https://open.spotify.com/album/6lIxeq6LOCg1bgykAb0rbO) | 3:57 | 2022-05-03 | 2022-06-01 |
 | [Blow\-Up](https://open.spotify.com/track/4PN6haeBkU3uVVS1pilkfB) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD) | [Blow\-Up](https://open.spotify.com/album/7sB2hZKo4wiqXAeBoEWbi8) | 3:22 | 2022-03-07 | 2022-04-06 |
 | [Blue](https://open.spotify.com/track/1RswWwkliOC1mhY6oOMys9) | [Agnieszka Hajduk\-Wiese](https://open.spotify.com/artist/7g7nufHvsNpDFcU3qC3DUI) | [Blue](https://open.spotify.com/album/1RIJDuaQVO8utq1SH9Zyhj) | 2:15 | 2022-03-07 | 2022-04-06 |
+| [Bolesne kości \(Tymoteusz\)](https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Bolesne kości \(Tymoteusz\)](https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M) | 4:04 | 2022-08-02 |  |
 | [Bonjour Madame](https://open.spotify.com/track/2x3JaBVqAzVX24ObvuYZDB) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Bonjour Madame](https://open.spotify.com/album/30jEIdrhc7WJfbeWaxdZL2) | 3:17 | 2022-08-02 |  |
 | [Breath](https://open.spotify.com/track/1cx44ItVBUo96rHzkmKIdV) | [Maja Koman](https://open.spotify.com/artist/4zdWMCvlli7m793cUK9Aia) | [Breath](https://open.spotify.com/album/142WLCURWpvgWaH1uvemCj) | 3:27 | 2022-01-04 | 2022-02-02 |
 | [Bukiet Czarnych Róż](https://open.spotify.com/track/6smVmGWgw7nKHnyMC74ZhR) | [ATLVNTA](https://open.spotify.com/artist/0mPwQtcfSfJTDRp8WW0Qzv) | [Bukiet Czarnych Róż](https://open.spotify.com/album/17B0bdE9LYJgPyx50MEXv2) | 3:44 | 2022-08-02 |  |
@@ -454,7 +455,7 @@
 | [ups…](https://open.spotify.com/track/4UA8bJXYo4PMfVw14nH4zH) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS), [Agata Gołemberska](https://open.spotify.com/artist/0THfPyD0S6A8fSNqg8ccwk) | [ups…](https://open.spotify.com/album/5d6o2jmOyvTZ03n817h8sK) | 2:59 | 2022-08-02 |  |
 | [Varsovie \- Kayax XX Rework](https://open.spotify.com/track/4cSVeIjIj2ctdtVQwDneZN) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [Varsovie \(Kayax XX Rework\)](https://open.spotify.com/album/709zaGAGPXh7kFF9iT9cEF) | 3:44 | 2022-05-03 | 2022-06-01 |
 | [Venus](https://open.spotify.com/track/6QP7cdR7jvQFpKSFlTriYW) | [Mei Bee](https://open.spotify.com/artist/6MYxeBePETj6Ojx2O5BQhY) | [Venus](https://open.spotify.com/album/6vo0zWacmiG4Ou6pE5sR6E) | 2:15 | 2022-08-02 |  |
-| [VHS](https://open.spotify.com/track/4QjHzhZc8wEVG1C0E0g3I3) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t), [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [VHS](https://open.spotify.com/album/1T8XUaVTAUmph8kpnGMvMR) | 2:42 | 2022-08-02 |  |
+| [VHS](https://open.spotify.com/track/4QjHzhZc8wEVG1C0E0g3I3) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t), [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [VHS](https://open.spotify.com/album/1T8XUaVTAUmph8kpnGMvMR) | 2:42 | 2022-08-02 |  |
 | [Vino](https://open.spotify.com/track/14MhpJNUUlswasDVHdk90u) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Kacezet](https://open.spotify.com/artist/0UtonDPYQQEx6BFqVQfw4u) | [Vino](https://open.spotify.com/album/3wCeIkHkHInQvwWRl3J2oN) | 2:34 | 2022-07-05 | 2022-08-03 |
 | [W oddali](https://open.spotify.com/track/1phEdKvQ6BnJ4ZGQLWjMyv) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [W oddali](https://open.spotify.com/album/0Vc8VlS9g22MUDofjSPi26) | 2:46 | 2022-01-04 | 2022-02-02 |
 | [W Pętli](https://open.spotify.com/track/2cyQWYKqVvJkvg5rTt2IZi) | [Sylwia Przybysz](https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09) | [W Pętli](https://open.spotify.com/album/7exkHmO4ERIIN4i4C3VlgX) | 2:32 | 2022-08-02 |  |

@@ -4,7 +4,7 @@
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Mulay
 
-449 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+451 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Breathe Me To Life \(Ayahuasca\)](https://open.spotify.com/track/1rrxvAUElak6DINoqtMHMj) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Orange INC](https://open.spotify.com/artist/0k9vcRDtl7YbZ0ZYcprdhi), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Breathe Me To Life \(Ayahuasca\)](https://open.spotify.com/album/6Yl9R6wwxOn6s5ZaQdroAu) | 3:09 | 2022-01-04 | 2022-02-02 |
 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 | 2022-07-05 | 2022-08-03 |
 | [Bulletproof](https://open.spotify.com/track/7k5bm67iLW5XALoBeiUxxm) | [KAY SHAGAO](https://open.spotify.com/artist/0kZwjzYpwJudeLLEVvu9tb) | [Bulletproof](https://open.spotify.com/album/3vJkVWxqeMG2Qb79ayWW7X) | 2:28 | 2022-01-04 | 2022-02-02 |
+| [Butterfly Pen](https://open.spotify.com/track/2xkEFQ4u7H4aMmAfWrhPoD) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Butterfly Pen](https://open.spotify.com/album/3xeLy3TWOvf9Moggth5pHn) | 3:33 | 2022-08-02 |  |
 | [Camouflage](https://open.spotify.com/track/2nxWoajsF5AdaRqlqS58EG) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Camouflage](https://open.spotify.com/album/1Dmhmtnjo20FPiOONkrxfS) | 2:32 | 2022-01-04 | 2022-02-02 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-01-04 | 2022-02-02 |
 | [Can't Make up Your Mind](https://open.spotify.com/track/2y1HI56F4sAseAFLId3aa7) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Can't Make up Your Mind](https://open.spotify.com/album/4IVn6ewa1GLR9LPciReYYL) | 2:05 | 2022-04-05 | 2022-05-04 |
@@ -410,6 +411,7 @@
 | [Trick By Trick](https://open.spotify.com/track/1RjEEBbM9Lf4G4sRYFMeXE) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Trick By Trick](https://open.spotify.com/album/3qfR8Ml0NhRcu2eQm2EScO) | 2:48 | 2021-12-21 | 2022-01-05 |
 | [Tschau Tschau](https://open.spotify.com/track/2KforFcVMZg1rYqY6dhsGe) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Tschau Tschau](https://open.spotify.com/album/4U6LaXtXRNbfyEnpO68VA9) | 2:37 | 2021-12-21 | 2022-01-05 |
 | [Tsunami](https://open.spotify.com/track/1gcTTJXcDTKR5NaNRJtURA) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Tsunami](https://open.spotify.com/album/2ce3Bz6jHE1L5SfYnkFEuW) | 3:41 | 2022-04-05 | 2022-05-04 |
+| [TWTC](https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b) | 3:24 | 2022-08-02 |  |
 | [Uh Ah](https://open.spotify.com/track/7lWDHNwF1Rvt0vuOoDUhR3) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Uh Ah](https://open.spotify.com/album/0r0AWlCiPLIqSRcOvRoDii) | 2:13 | 2022-08-02 |  |
 | [Undefined](https://open.spotify.com/track/4LyuD5oKlaJP7Am7voFqK4) | [EVÎN](https://open.spotify.com/artist/0lWgtltnu46nD7fJxTjarO) | [Undefined](https://open.spotify.com/album/465GNEFTA1uj4pIA6DTZIu) | 2:23 | 2021-12-21 | 2022-01-05 |
 | [Underwater](https://open.spotify.com/track/3qtLQbYiB5qXIYQdbZxuDf) | [Polar Noir](https://open.spotify.com/artist/1tnj2WqyUP68kpkGorWVxO) | [Underwater](https://open.spotify.com/album/6TH72GNIkdULBcomH1VUf0) | 3:30 | 2022-04-05 | 2022-05-04 |

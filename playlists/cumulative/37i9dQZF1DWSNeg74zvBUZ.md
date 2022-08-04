@@ -4,13 +4,14 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-122 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
+124 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#17](https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 2:05 | 2021-09-10 |  |
 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 | 2021-09-10 |  |
 | [\- \- \-](https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:15 | 2021-09-10 | 2022-07-28 |
+| [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 | 2022-08-03 |  |
 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 | 2022-02-15 | 2022-07-29 |
 | [5:59 PM](https://open.spotify.com/track/02I3OV1GV3SVm4BjtUtvhN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [5:59 PM](https://open.spotify.com/album/2zVY50djgi3tnZEPjqxNBP) | 3:24 | 2021-09-10 | 2022-07-28 |
 | [8pm Crickets](https://open.spotify.com/track/5XM3Wo4pLH9jrwUu9l4bPw) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [11pm Sudden Thunderstorm](https://open.spotify.com/album/53sR9a0cJYLkTbhRRDS9nY) | 6:22 | 2021-09-10 | 2022-07-29 |
@@ -53,6 +54,7 @@
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2021-09-10 |  |
 | [First Light](https://open.spotify.com/track/4YnketDvkgOhzuevW7Hjjd) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [First Light](https://open.spotify.com/album/3tRGQaFE8NKfvlNAqB5YWA) | 2:59 | 2021-09-10 | 2022-07-19 |
 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 | 2021-09-10 |  |
+| [Forever and Ever](https://open.spotify.com/track/3nd43t4bdWuGgkSAjkXSLB) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [World Breathes](https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj) | 3:16 | 2022-08-03 |  |
 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 | 2021-09-10 |  |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2021-09-10 | 2022-07-28 |
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2021-09-10 |  |
@@ -84,7 +86,7 @@
 | [Nami](https://open.spotify.com/track/31RgdmIsnmQwgFgF2qA8yB) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/3QfrNNsvv0GxBSQvrwwfZQ) | 3:56 | 2021-09-10 | 2022-07-29 |
 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 | 2021-09-10 |  |
 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 | 2022-01-07 |  |
-| [Nevada](https://open.spotify.com/track/3TGUXBzeUqekCLeAxOfzfr) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/5GZmKpx3tboxuJ1cfqYhQw) | 4:19 | 2022-06-30 |  |
+| [Nevada](https://open.spotify.com/track/3TGUXBzeUqekCLeAxOfzfr) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/5GZmKpx3tboxuJ1cfqYhQw) | 4:19 | 2022-06-30 | 2022-08-04 |
 | [November](https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 2:08 | 2021-09-10 | 2022-08-02 |
 | [Oceanic Feeling](https://open.spotify.com/track/2gJFKpv3oezmcu4DduMgfx) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Oceanic Feeling](https://open.spotify.com/album/2wOvYShlGVSdwuTlYrpsjh) | 2:23 | 2021-09-10 | 2022-07-27 |
 | [Oceanic Feeling](https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Oceanic Feeling](https://open.spotify.com/album/3XNiuRi67PCCF4SradXcqH) | 2:23 | 2021-09-10 |  |
@@ -97,7 +99,7 @@
 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 | 2021-09-10 |  |
 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 | 2021-09-10 |  |
 | [Peperomia Seedling](https://open.spotify.com/track/73kbQEn5Dx7fE8maMM0uFP) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 3:43 | 2021-09-10 | 2022-07-29 |
-| [Petiatil Cx Htdui](https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:11 | 2021-09-10 |  |
+| [Petiatil Cx Htdui](https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:11 | 2021-09-10 | 2022-08-04 |
 | [Pietre Roventi](https://open.spotify.com/track/4iJ5PnXK3XKER9pqKEP0qL) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/4d6jmHbXzFFVlydwb2vSa1) | 5:24 | 2021-09-10 | 2022-07-23 |
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2021-09-10 |  |
 | [Pot Noddle](https://open.spotify.com/track/0kpuP6Zs39L1o6yocQw8On) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 7:13 | 2021-09-10 | 2022-04-21 |

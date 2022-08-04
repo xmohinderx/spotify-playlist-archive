@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 221120,
       "name": "A Escondidas",
       "url": "https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq"
@@ -880,6 +880,32 @@
     },
     {
       "album": {
+        "name": "Loquera",
+        "url": "https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        },
+        {
+          "name": "Yorkinson",
+          "url": "https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK"
+        },
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194805,
+      "name": "Loquera",
+      "url": "https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC"
+    },
+    {
+      "album": {
         "name": "Los Tweets",
         "url": "https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX"
       },
@@ -1041,6 +1067,36 @@
       "duration_ms": 135797,
       "name": "Maviri",
       "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
+    },
+    {
+      "album": {
+        "name": "Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/7M7eZhVGWSYlSEYjgKYo46"
+      },
+      "artists": [
+        {
+          "name": "Alan Jacques",
+          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Kid Gallo",
+          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
+        },
+        {
+          "name": "Amador",
+          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163608,
+      "name": "Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/1ZJ6q7psMrp1BK3ntdBjNL"
     },
     {
       "album": {
@@ -1793,7 +1849,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 198620,
       "name": "Ven",
       "url": "https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1"

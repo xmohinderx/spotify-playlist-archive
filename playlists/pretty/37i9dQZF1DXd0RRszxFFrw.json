@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 40842,
+  "num_followers": 40865,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMDdmMGFkMDQ1MTE2ZGQyMGE3YjQxZjgzOTJlMDIyNWI2",
+  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMDU2OTA5NzhiM2YyMzM2NDc2OTJlMjQ0NTY2ZDdlYzc5",
   "tracks": [
     {
       "added_at": "2022-07-21 22:01:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Integral",
-        "url": "https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Reflejo De Luna",
-      "url": "https://open.spotify.com/track/4CmUtaftig3n76lkSCzXjf"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Delicatessen",
         "url": "https://open.spotify.com/album/7iau3Oms7IyeSLlTW09uvk"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 254000,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/6PRHDUdclcUgzAZIfVy8Od"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Integral",
+        "url": "https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Reflejo De Luna",
+      "url": "https://open.spotify.com/track/4CmUtaftig3n76lkSCzXjf"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "La Cascata",
+        "url": "https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "duration_ms": 131896,
+      "name": "La Cascata",
+      "url": "https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
@@ -563,26 +579,6 @@
       "duration_ms": 181498,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "Cucchi, Flavio: American Portraits",
-        "url": "https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA"
-      },
-      "artists": [
-        {
-          "name": "Oscar Roberto Casares",
-          "url": "https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r"
-        },
-        {
-          "name": "Flavio Cucchi",
-          "url": "https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "7 Spanish songs (7 Canciones Sefaradies): No. 3. En la mar ay una torre",
-      "url": "https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -607,6 +603,26 @@
       "duration_ms": 175000,
       "name": "Cuando Me Lo Pidas",
       "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Cucchi, Flavio: American Portraits",
+        "url": "https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Roberto Casares",
+          "url": "https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r"
+        },
+        {
+          "name": "Flavio Cucchi",
+          "url": "https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "7 Spanish songs (7 Canciones Sefaradies): No. 3. En la mar ay una torre",
+      "url": "https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -671,22 +687,6 @@
       "duration_ms": 232786,
       "name": "Cinque Terre",
       "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "La Cascata",
-        "url": "https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy"
-      },
-      "artists": [
-        {
-          "name": "Rafaela Moreno",
-          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
-        }
-      ],
-      "duration_ms": 131896,
-      "name": "La Cascata",
-      "url": "https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Flight to Paradise",
-        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
-      },
-      "artists": [
-        {
-          "name": "Novamenco",
-          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Mood for Love",
-      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 131182,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Flight to Paradise",
+        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
+      },
+      "artists": [
+        {
+          "name": "Novamenco",
+          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Mood for Love",
+      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Cinema Latino Vol. 1",
-        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 107434,
-      "name": "Mexico 1910",
-      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Ni\u00f1o Josele",
         "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 245466,
       "name": "Madera Negra",
       "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Cinema Latino Vol. 1",
+        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 107434,
+      "name": "Mexico 1910",
+      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Ilha Do Amor",
-        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
-      },
-      "artists": [
-        {
-          "name": "Ailani Akoni",
-          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
-        }
-      ],
-      "duration_ms": 147179,
-      "name": "Ilha Do Amor",
-      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "The Beatles for Classical Guitar",
         "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 165626,
       "name": "Girl",
       "url": "https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Ilha Do Amor",
+        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
+      },
+      "artists": [
+        {
+          "name": "Ailani Akoni",
+          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
+        }
+      ],
+      "duration_ms": 147179,
+      "name": "Ilha Do Amor",
+      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Spanish Guitar EP",
-        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
-      },
-      "artists": [
-        {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "Adelita Mazurka",
-      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Asi lo siento",
         "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197520,
       "name": "Vivienne - Rumba",
       "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Spanish Guitar EP",
+        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "Adelita Mazurka",
+      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
-        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
-      },
-      "artists": [
-        {
-          "name": "Panagiotis Margaris",
-          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Tango en Skai - Instrumental",
-      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 144948,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
+        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
+      },
+      "artists": [
+        {
+          "name": "Panagiotis Margaris",
+          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Tango en Skai - Instrumental",
+      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
     },
     {
       "added_at": "2022-07-21 22:01:00",

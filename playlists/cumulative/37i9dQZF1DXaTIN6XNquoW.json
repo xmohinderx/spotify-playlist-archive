@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
+    },
+    {
+      "album": {
         "name": "Dancing Machine",
         "url": "https://open.spotify.com/album/4oq9Qnp8xopMsypgLGbJ7G"
       },
@@ -495,7 +513,7 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 212226,
       "name": "Hold My Hand (with Akon)",
       "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"

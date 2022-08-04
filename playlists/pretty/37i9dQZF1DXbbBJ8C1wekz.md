@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,982 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,054 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 20 | [Glockada](https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Glockada](https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF) | 2:01 |
 | 21 | [A Cunhada](https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [A Cunhada](https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf) | 2:47 |
 | 22 | [Ok Baby](https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [Ok Baby](https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9) | 2:44 |
-| 23 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
-| 24 | [Tapa](https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [ÉTPM?!](https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV) | 2:39 |
+| 23 | [Tapa](https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [ÉTPM?!](https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV) | 2:39 |
+| 24 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 | 25 | [Hylander](https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [somynem.grin](https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf) | [Hylander](https://open.spotify.com/album/0XbOcrzCIIltxgcBdBUGAs) | 1:36 |
 | 26 | [Zero Mancada](https://open.spotify.com/track/57CVH7IJGRuhClaC8zAWZh) | [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq), [C'97](https://open.spotify.com/artist/1h4tBgv3GwSFbNoVzNLjhB), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Pile Beats](https://open.spotify.com/artist/180exLQ3njm7bQT7Tq5wIk) | [Zero Mancada](https://open.spotify.com/album/4QLHe2XXswsU9cB4gV7zJE) | 2:42 |
 | 27 | [Oclin e Evoque](https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Oclin e Evoque](https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
 | 60 | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R) | 3:10 |
 
-Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMGFkYTQ1N2NmZGRiMDQwNWUwZmVkMjFmMDM5MmFmMDlh`
+Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDI2NDI5ZWIzZGNkYmM4NzhiYjJmOTk4ZDAyMTkwNTkx`

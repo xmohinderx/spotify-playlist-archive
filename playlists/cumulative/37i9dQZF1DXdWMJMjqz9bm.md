@@ -4,7 +4,7 @@
 
 > A little bit of pop and a little bit of rap\. Cover: Nicky Youre
 
-329 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+330 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Hot Mess](https://open.spotify.com/track/5I09fLEG5XjN8Z2y2Rrg8W) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Hot Mess](https://open.spotify.com/album/32LiRs2ZIh4FsjX7kREnDD) | 2:17 | 2021-11-16 | 2022-02-19 |
 | [Hot Tub](https://open.spotify.com/track/0QwtPubre27rt1YnJBKeNb) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Hot Tub](https://open.spotify.com/album/6vX4foju7dMy5UTqjwB6rZ) | 2:39 | 2022-02-04 | 2022-03-26 |
 | [How's Life?](https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V) | [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [How's Life?](https://open.spotify.com/album/4HupIdBw3l0quug7aznnrB) | 2:35 | 2022-01-28 | 2022-03-17 |
-| [I Can't Stop Talking to God](https://open.spotify.com/track/4wK4CFin4FpwfVq1tVHigg) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [I Can't Stop Talking to God](https://open.spotify.com/album/4Xvq7y0cey3nUNUEJIj4GL) | 2:23 | 2022-07-11 |  |
+| [I Can't Stop Talking to God](https://open.spotify.com/track/4wK4CFin4FpwfVq1tVHigg) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [I Can't Stop Talking to God](https://open.spotify.com/album/4Xvq7y0cey3nUNUEJIj4GL) | 2:23 | 2022-07-11 | 2022-08-04 |
 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 | 2022-04-04 | 2022-04-29 |
 | [I Don't Like](https://open.spotify.com/track/18EarjJzm91TbgHH7yjyZc) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe), [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP) | [I Don't Like](https://open.spotify.com/album/3CreE7aczVbvJBmE7F84K7) | 3:03 | 2022-05-06 | 2022-05-20 |
 | [I Hope This Lasts](https://open.spotify.com/track/5faqiJShRCHPcwUFze0GRL) | [Huey Mack](https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q) | [A Romantic Comedy](https://open.spotify.com/album/3P6huL2kqXwGKRyR6gWEqh) | 2:36 | 2021-11-16 | 2022-02-26 |
@@ -273,6 +273,7 @@
 | [SNOWMAN](https://open.spotify.com/track/1uU0Q4JrDzgqWK1QWXccwb) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [SNOWMAN](https://open.spotify.com/album/0jbrRg5mahBKrvbPQDLisP) | 3:03 | 2021-12-17 | 2022-02-19 |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-04-11 |  |
 | [Somebody Else](https://open.spotify.com/track/03gx1ylVNRQQtpv1VRIsHL) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Somebody Else](https://open.spotify.com/album/1p4YRsrgs9cUDNbtXN25AP) | 2:03 | 2021-11-16 | 2022-02-19 |
+| [Sorry Not Sorry](https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo) | 2:40 | 2022-08-03 |  |
 | [spilled drinks](https://open.spotify.com/track/78zcMX1Gpla399x1Clykdh) | [Eian Blue](https://open.spotify.com/artist/72n6CG0Bz1LM5zLWK54gVQ), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [spilled drinks](https://open.spotify.com/album/12lilHxzKXof8gLRxAILiW) | 1:55 | 2022-01-11 | 2022-02-19 |
 | [Star](https://open.spotify.com/track/46e8kngVlFjuDTCyyTbLfJ) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [If Not Now, When?](https://open.spotify.com/album/5K4Ygp0yLgeaYSKFizi15P) | 1:31 | 2022-05-06 | 2022-07-13 |
 | [Stars In The Sky \- From Sonic The Hedgehog 2](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky \(From Sonic The Hedgehog 2\)](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 | 2022-03-25 | 2022-04-23 |

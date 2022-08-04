@@ -4,7 +4,7 @@
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-207 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/4XvItJuMKSSQUCN3RPO6uN)
+208 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/4XvItJuMKSSQUCN3RPO6uN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Trying to say good\-bye \(Inst.\)](https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Trying to say good\-bye](https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817) | 3:58 | 2022-03-28 |  |
 | [TT](https://open.spotify.com/track/79iiAZS06LhdkwZYDQgYKe) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of TWICE](https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr) | 3:50 | 2022-03-28 | 2022-07-28 |
 | [TT \- Piano Version](https://open.spotify.com/track/1MDbO3y4nym9ZqEHm6YNOl) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 6:14 | 2022-03-28 |  |
-| [Uphill \- Instrumental](https://open.spotify.com/track/0yTjmYvrc6p32V1hkKm8pP) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1H9T31njmTPATY5N7SseUE) | 5:07 | 2022-03-28 |  |
+| [Uphill \(Inst.\)](https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Kkondae Intern OST Part 3](https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO) | 5:07 | 2022-03-28 |  |
+| [Uphill \- Instrumental](https://open.spotify.com/track/0yTjmYvrc6p32V1hkKm8pP) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1H9T31njmTPATY5N7SseUE) | 5:07 | 2022-03-28 | 2022-08-04 |
 | [Uphill \- Instrumental](https://open.spotify.com/track/2x8jvMKyS2AjDbMJ9U26Wm) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1M6LffVG2YZp0IzPKOMH0e) | 5:07 | 2022-03-28 | 2022-07-29 |
 | [What Is Love?](https://open.spotify.com/track/4EYygUo8LVI45IDHaF4p9y) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of TWICE](https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr) | 3:41 | 2022-03-28 | 2022-07-28 |
 | [When We Were Together \- Instrumental](https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Mystic Pop\-up Bar, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7) | 3:44 | 2022-03-28 |  |

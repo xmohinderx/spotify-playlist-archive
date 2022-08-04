@@ -2667,6 +2667,28 @@
     {
       "album": {
         "name": "Too Much",
+        "url": "https://open.spotify.com/album/1cKly7Qk5xyU5AHLLgkbaZ"
+      },
+      "artists": [
+        {
+          "name": "Marzville",
+          "url": "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141031,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/1Oln8wIs3KmPJR65ZCMmgP"
+    },
+    {
+      "album": {
+        "name": "Too Much",
         "url": "https://open.spotify.com/album/5Cx9EvnH8mZfAG4yton1CZ"
       },
       "artists": [
@@ -2681,7 +2703,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 141818,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4hYlMt88kDIIVzbXQg5vkE"

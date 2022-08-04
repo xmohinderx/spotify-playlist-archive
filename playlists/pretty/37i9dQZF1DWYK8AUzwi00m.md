@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,879 likes - 110 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,883 likes - 110 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 30 | [Christmas Tree](https://open.spotify.com/track/1NPzhEJX7xvJ9Xpzbw2Ur1) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 1:40 |
 | 31 | [Sleigh Ride](https://open.spotify.com/track/5IJh7p7RCuJwuzyD0467IL) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID), [Jobe](https://open.spotify.com/artist/2gGyGJdFL8VEhHiRO8RhV1) | [Home for Christmas](https://open.spotify.com/album/2tMEEVhJ7i6NGRDTKxhg2T) | 1:14 |
 | 32 | [Auld Lang Syne](https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Jingle Bells](https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0) | 2:30 |
-| 33 | [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 |
+| 33 | [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 |
 | 34 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 |
 | 35 | [What Christmas Is About](https://open.spotify.com/track/7GpvUiZSf6BvZrxwn3xMcr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas](https://open.spotify.com/album/2rKDNlNJ3jYuWY8Sl1yYqx) | 2:08 |
 | 36 | [Cherish Every Moment](https://open.spotify.com/track/0AeqHfQ1WNfTzfLo3b8B6x) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 1:38 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 74 | [Spike the Eggnog](https://open.spotify.com/track/5Ndi8aTYfmjrXYgTOXhYEM) | [Two Dudes](https://open.spotify.com/artist/7B4UaTUFjsPmtPNg2HcLwS) | [Sounds of the Season, Vol\. I](https://open.spotify.com/album/38MuWDkJ0apxRo0nniKlpu) | 2:15 |
 | 75 | [O Holy Night](https://open.spotify.com/track/6JKNmlDEVQbHuvKsTYA10h) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [O Holy Lofi Night](https://open.spotify.com/album/6hoTXAp62Za6ETt9zfKMMP) | 2:54 |
 | 76 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
-| 77 | [Wonderland](https://open.spotify.com/track/6nlmgDXzsQ0snHKYPOy6WH) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:06 |
+| 77 | [Wonderland](https://open.spotify.com/track/34qYvf7M6RXRzQF5HMJB38) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:06 |
 | 78 | [Chubby Santa](https://open.spotify.com/track/2DlWXYl3D5LLtI0dr2SXPQ) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:25 |
 | 79 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 |
 | 80 | [Have Yourself a Cozy Christmas](https://open.spotify.com/track/4FHpuJMkrevo3UXWNZ3KfG) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Have Yourself a Cozy Christmas](https://open.spotify.com/album/1k3BRqUpJgNhhMk1pCPscf) | 3:18 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 109 | [latenite](https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 1:58 |
 | 110 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 |
 
-Snapshot ID: `MTY0MDAxMDAwNywwMDAwMDAwMGM2ZjdhMTUyOTJmNzMzODQ5ZmY4NzE4YTgzM2U3OGMy`
+Snapshot ID: `MTY0MDAxMDAwNywwMDAwMDAwMDEwZWE4YzE1NjdmYWQwOWM1NjdhN2E0NTA0YWM0ZDc5`

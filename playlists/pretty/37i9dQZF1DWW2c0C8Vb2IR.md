@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Braxton Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,610 likes - 38 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,653 likes - 38 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

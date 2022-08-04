@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-449 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
+450 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Brand New](https://open.spotify.com/track/5WLOrfMyifyQZjPYWwQvyC) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [Brand New](https://open.spotify.com/album/0gD0zXZ4JVmrz4Nctw1AbM) | 3:52 | 2022-05-13 | 2022-06-03 |
 | [Break My Heart \(feat\. 12AM\)](https://open.spotify.com/track/0EkouFSEqhyC1s1kMChL9E) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Wishes Vol\. 2](https://open.spotify.com/album/1AXVE2HGe1XA1Cl5T9nXmk) | 2:34 | 2021-10-16 | 2021-12-10 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2022-07-30 |
-| [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-07-29 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-07-29 | 2022-08-04 |
+| [BREAK MY SOUL \- Terry Hunter Remix](https://open.spotify.com/track/6UpmSD4nZhmESpf1vtSax0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 5:30 | 2022-08-03 |  |
 | [Butter \(Hotter Remix\)](https://open.spotify.com/track/38ZffdGref7ax4nX1JUDYT) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter Remix\)](https://open.spotify.com/album/2IQPegT8Rg7fqc8ox58CVW) | 2:46 | 2021-06-04 | 2021-08-14 |
 | [Butterfly Wings \- Franc Moody Remix](https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Butterfly Wings \(Franc Moody Remix\)](https://open.spotify.com/album/6Oo3cX5rOtUITuwQbjz4Wz) | 3:32 | 2022-04-29 | 2022-06-18 |
 | [By Law \(feat\. Loud Tiger\)](https://open.spotify.com/track/0Y067MfwJgUQEGXs289QUs) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Loud Tiger](https://open.spotify.com/artist/2J74jx8m4zVdsMYXdrwV7Y) | [By Law \(feat\. Loud Tiger\)](https://open.spotify.com/album/7Cy8eXNq5ZEU74KYZttmTD) | 2:31 | 2022-07-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 232740,
+  "num_followers": 232762,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDE1Zjk5MjQ4NWFiNWIwYmZhY2U2M2UyOTVjMzQ3MTQ4",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDk0NWI4YjljZmVlZWFhNzc2NjY5YzljMjk5ZWJiOTFm",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "LAst dAy oN EaRTh",
-        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 172755,
-      "name": "LAst dAy oN EaRTh",
-      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Kids Are Born Stars",
@@ -199,6 +183,22 @@
       "duration_ms": 187026,
       "name": "Kids Are Born Stars",
       "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "LAst dAy oN EaRTh",
+        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 172755,
+      "name": "LAst dAy oN EaRTh",
+      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2021-01-22 05:22:20",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "I NEED YOU",
-      "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
-    },
-    {
       "added_at": "2022-07-18 15:20:06",
       "album": {
         "name": "Nick Of Time",
@@ -443,6 +427,22 @@
       "duration_ms": 250346,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
+    },
+    {
+      "added_at": "2021-01-22 05:22:20",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "I NEED YOU",
+      "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -765,26 +765,6 @@
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "The Futuristics",
-          "url": "https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t"
-        }
-      ],
-      "duration_ms": 141002,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "AM Gold (Tobtok Remix)",
@@ -807,6 +787,26 @@
       "duration_ms": 189079,
       "name": "AM Gold - Tobtok Remix",
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "The Futuristics",
+          "url": "https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t"
+        }
+      ],
+      "duration_ms": 141002,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Don't Lose Sight",
-        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 406186,
-      "name": "Don't Lose Sight (Acoustic)",
-      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Preach",
@@ -871,6 +855,22 @@
       "duration_ms": 208434,
       "name": "Preach",
       "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Don't Lose Sight",
+        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 406186,
+      "name": "Don't Lose Sight (Acoustic)",
+      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Tango",
@@ -987,6 +971,22 @@
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Sunset Drive - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 193983,
+      "name": "Sunset Drive - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "All Day Long",
-        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 169433,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
-    },
-    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "Follow The Light",
@@ -1135,6 +1119,22 @@
       "duration_ms": 244285,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/3FqvCSW4LXjdJJPxpna5AH"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 169433,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1171,6 +1171,22 @@
       "duration_ms": 204946,
       "name": "Get Down! (Before You Lose Control)",
       "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1213,22 +1229,6 @@
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/2pS27MgX6cEJZlbGSOjMbM"
-      },
-      "artists": [
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
-    },
-    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Run Away",
@@ -1309,20 +1293,20 @@
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
+      "added_at": "2021-09-21 15:07:50",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/0HPiUXMvEXzVXNZGVXbeO9"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/2pS27MgX6cEJZlbGSOjMbM"
       },
       "artists": [
         {
-          "name": "Brother Zulu",
-          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
         }
       ],
-      "duration_ms": 257020,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
+      "duration_ms": 210693,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1341,20 +1325,20 @@
       "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2021-05-14 04:01:00",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V"
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/0HPiUXMvEXzVXNZGVXbeO9"
       },
       "artists": [
         {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
         }
       ],
-      "duration_ms": 166888,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
+      "duration_ms": 257020,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -1377,24 +1361,20 @@
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Vibrant",
-        "url": "https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU"
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V"
       },
       "artists": [
         {
-          "name": "Stokley",
-          "url": "https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
         }
       ],
-      "duration_ms": 248414,
-      "name": "Vibrant",
-      "url": "https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh"
+      "duration_ms": 166888,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1437,6 +1417,26 @@
       "url": "https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk"
     },
     {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Vibrant",
+        "url": "https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU"
+      },
+      "artists": [
+        {
+          "name": "Stokley",
+          "url": "https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 248414,
+      "name": "Vibrant",
+      "url": "https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh"
+    },
+    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Sacred Place",
@@ -1455,30 +1455,6 @@
       "duration_ms": 166363,
       "name": "Sacred Place",
       "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The James",
-          "url": "https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM"
-        },
-        {
-          "name": "Rob Milton",
-          "url": "https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl"
-        },
-        {
-          "name": "DJ Harrison",
-          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
-        }
-      ],
-      "duration_ms": 115954,
-      "name": "Thank You Master (For My Soul)",
-      "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
     },
     {
       "added_at": "2021-04-09 04:00:00",
@@ -1503,6 +1479,30 @@
       "duration_ms": 200843,
       "name": "Devotion - Shakur Ahmad Remix",
       "url": "https://open.spotify.com/track/6wKmElTGYNVPTJ9AE9lqxe"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The James",
+          "url": "https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM"
+        },
+        {
+          "name": "Rob Milton",
+          "url": "https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        }
+      ],
+      "duration_ms": 115954,
+      "name": "Thank You Master (For My Soul)",
+      "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
     }
   ],
   "unique_name": "Ready for the Day",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Richie Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,046 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,072 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 50 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 51 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
 | 52 | [teach me how to love](https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO) | [colombianacallmegringo](https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB) | [teach me how to love](https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj) | 2:37 |
-| 53 | [Miami](https://open.spotify.com/track/1fxGMZsjCkKZkcwrnjhU7D) | [Yung SpaceGhost](https://open.spotify.com/artist/6XsOyDRKR2HpSDEWYUsNJz), [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL) | [Miami](https://open.spotify.com/album/7u4us2ygesx97lTMlnpRAL) | 2:28 |
-| 54 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 |
+| 53 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 |
+| 54 | [Miami](https://open.spotify.com/track/1fxGMZsjCkKZkcwrnjhU7D) | [Yung SpaceGhost](https://open.spotify.com/artist/6XsOyDRKR2HpSDEWYUsNJz), [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL) | [Miami](https://open.spotify.com/album/7u4us2ygesx97lTMlnpRAL) | 2:28 |
 | 55 | [Seguimos pela metade](https://open.spotify.com/track/1WPe6k0tslGlIRsO0obMTy) | [Denise](https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr) | [Seguimos pela metade](https://open.spotify.com/album/1fb2OVGhNAxmpHXhISBMlR) | 3:09 |
 | 56 | [Party Hard](https://open.spotify.com/track/3x1lrn6EKBSM6yRXQwgzQX) | [Cali John](https://open.spotify.com/artist/44LkKBh5Gk5KLl2C7jIl7I), [Dj Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY) | [Party Hard](https://open.spotify.com/album/4UNhQRsBuhMbw5dL2C62Eo) | 3:36 |
 | 57 | [Ela Me Xita](https://open.spotify.com/track/6ywCZJUitftSMmnOtASFvf) | [Celso Baía](https://open.spotify.com/artist/0qbwa4N5og0uYMtK3ePiMq), [Bruno Soares](https://open.spotify.com/artist/2WStXxWyKuZ9FJpTtCZYYX) | [Ela Me Xita](https://open.spotify.com/album/17zA6qrmj5RH5Ub4NRxcsV) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
 | 60 | [Curvas](https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Jotta R](https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ) | [Curvas](https://open.spotify.com/album/2dZGlThlyesP83r0z5bVXu) | 4:20 |
 
-Snapshot ID: `MTY1ODQ0NDQwMCwwMDAwMDAwMGIyZjNmMDY2MjVjZmY4ZDQ3NWJiNDFiNWQ2MzFmZDY1`
+Snapshot ID: `MTY1ODQ0NDQwMCwwMDAwMDAwMGY4MjE1NDc3MmU4MTkyNGNiNDI1Njk2YzAwYTM0NTRm`

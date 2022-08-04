@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 70900,
+  "num_followers": 71218,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQyMDMzMiwwMDAwMDAwMDUzMTlkMmQ4MTFkNDU4YmY2MTYxMWVmNmMwODRiNTA2",
+  "snapshot_id": "MTY1NjQyMDMzMiwwMDAwMDAwMGMzZDRhOTcyNzQzMWJkMDRjZjUxY2Y2NzMzMTJlNGQ1",
   "tracks": [
     {
       "added_at": "2022-06-28 12:45:32",
@@ -395,8 +395,8 @@
     {
       "added_at": "2022-06-28 12:45:32",
       "album": {
-        "name": "The Changing Lights (Bonus Edition)",
-        "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
+        "name": "Breakfast on the Morning Tram (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
       "artists": [
         {
@@ -408,21 +408,21 @@
           "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
         },
         {
-          "name": "Graham Harvey",
-          "url": "https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt"
+          "name": "Matt Skelton",
+          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
         },
         {
-          "name": "Matt Home",
-          "url": "https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80"
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
         },
         {
-          "name": "Jeremy Brown",
-          "url": "https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v"
+          "name": "Dave Chamberlain",
+          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
         }
       ],
-      "duration_ms": 244123,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+      "duration_ms": 224016,
+      "name": "Samba saravah",
+      "url": "https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2"
     },
     {
       "added_at": "2022-06-28 12:45:32",
@@ -523,26 +523,6 @@
     {
       "added_at": "2022-06-28 12:45:32",
       "album": {
-        "name": "10 Anos De Toquinho Vinicius",
-        "url": "https://open.spotify.com/album/6AP1sDqKGb05wqpDtwJt39"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
-        }
-      ],
-      "duration_ms": 60600,
-      "name": "A Tonga Da Mironga Do Kabulet\u00ea",
-      "url": "https://open.spotify.com/track/5BIsNWsHDfCeU8dYexiCsQ"
-    },
-    {
-      "added_at": "2022-06-28 12:45:32",
-      "album": {
         "name": "Chambre Avec Vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -563,8 +543,28 @@
     {
       "added_at": "2022-06-28 12:45:32",
       "album": {
-        "name": "Breakfast on the Morning Tram (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
+        "name": "10 Anos De Toquinho Vinicius",
+        "url": "https://open.spotify.com/album/6AP1sDqKGb05wqpDtwJt39"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "duration_ms": 60600,
+      "name": "A Tonga Da Mironga Do Kabulet\u00ea",
+      "url": "https://open.spotify.com/track/5BIsNWsHDfCeU8dYexiCsQ"
+    },
+    {
+      "added_at": "2022-06-28 12:45:32",
+      "album": {
+        "name": "The Changing Lights (Bonus Edition)",
+        "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
       "artists": [
         {
@@ -576,21 +576,21 @@
           "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
         },
         {
-          "name": "Matt Skelton",
-          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
+          "name": "Graham Harvey",
+          "url": "https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt"
         },
         {
-          "name": "John Parricelli",
-          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+          "name": "Matt Home",
+          "url": "https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80"
         },
         {
-          "name": "Dave Chamberlain",
-          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
+          "name": "Jeremy Brown",
+          "url": "https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v"
         }
       ],
-      "duration_ms": 224016,
-      "name": "Samba saravah",
-      "url": "https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2"
+      "duration_ms": 244123,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
     },
     {
       "added_at": "2022-06-28 12:45:32",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2022-06-28 12:45:32",
       "album": {
+        "name": "Greatest Hits Series--Paul Desmond",
+        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "O Gato",
+      "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
+    },
+    {
+      "added_at": "2022-06-28 12:45:32",
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 321640,
       "name": "All of Me (Disse alguem)",
       "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
-    },
-    {
-      "added_at": "2022-06-28 12:45:32",
-      "album": {
-        "name": "Greatest Hits Series--Paul Desmond",
-        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "O Gato",
-      "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
     },
     {
       "added_at": "2022-06-28 12:45:32",
@@ -1744,9 +1744,9 @@
           "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 276466,
-      "name": "O Gato",
-      "url": "https://open.spotify.com/track/39eNnBUZYkxulVzf1NsAxH"
+      "duration_ms": 342026,
+      "name": "Samba Cantina",
+      "url": "https://open.spotify.com/track/1tOaKNDYsx3YoWThbOCvVx"
     },
     {
       "added_at": "2022-06-28 12:45:32",

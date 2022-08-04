@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 302526,
+  "num_followers": 302748,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzExNTYxNywwMDAwMDAwMGFkZWVmZjg2OGU2N2YzZDUzNjg0MzAwODEwNzE1YTll",
+  "snapshot_id": "MTY1OTUwMDcwNCwwMDAwMDAwMGY5NjJmYjIxOWU2MDY1YWZjMmI0YWQ0YWUyNDM0NDAw",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
     },
     {
+      "added_at": "2022-08-03 04:25:04",
+      "album": {
+        "name": "Don't Delay, Join Today!",
+        "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
+      },
+      "artists": [
+        {
+          "name": "Improvement Movement",
+          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
+        }
+      ],
+      "duration_ms": 128917,
+      "name": "Strange Secrets Worth Knowing",
+      "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
+    },
+    {
       "added_at": "2022-04-12 18:03:13",
       "album": {
         "name": "Their Satanic Majesties' Second Request",
@@ -55,6 +71,22 @@
       "duration_ms": 334466,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
+    },
+    {
+      "added_at": "2022-08-03 04:22:19",
+      "album": {
+        "name": "A Round of Applause",
+        "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
+      },
+      "artists": [
+        {
+          "name": "Hooveriii",
+          "url": "https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7"
+        }
+      ],
+      "duration_ms": 265374,
+      "name": "See",
+      "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -73,20 +105,36 @@
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
-      "added_at": "2022-06-29 16:36:54",
+      "added_at": "2022-08-03 04:22:54",
       "album": {
-        "name": "Grand Unified Theories",
-        "url": "https://open.spotify.com/album/4jrPtdrkLT5tz4OUcrHn4c"
+        "name": "Mar\u00eda Juana",
+        "url": "https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM"
       },
       "artists": [
         {
-          "name": "Fabriccio De La Mora",
-          "url": "https://open.spotify.com/artist/7pLfqIgR1knxojsSQmmONZ"
+          "name": "La Era de Acuario",
+          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
         }
       ],
-      "duration_ms": 323691,
-      "name": "String Theory",
-      "url": "https://open.spotify.com/track/6kmzMsSKCFfx0lYQgospLN"
+      "duration_ms": 294874,
+      "name": "Mar\u00eda Juana",
+      "url": "https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy"
+    },
+    {
+      "added_at": "2022-03-18 04:49:53",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 318591,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -121,22 +169,6 @@
       "url": "https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg"
     },
     {
-      "added_at": "2022-03-18 04:49:53",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 318591,
-      "name": "Eventually",
-      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Butterfly 3000",
@@ -153,22 +185,6 @@
       "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
-      "added_at": "2022-07-01 14:57:40",
-      "album": {
-        "name": "Aladin Fox",
-        "url": "https://open.spotify.com/album/39ubZMkaMKwvNTnPLkmArp"
-      },
-      "artists": [
-        {
-          "name": "Aladin Fox",
-          "url": "https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "Zeppelin",
-      "url": "https://open.spotify.com/track/2pKX8ad4udW2XIbka2P3fe"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Good Bad Not Evil",
@@ -183,22 +199,6 @@
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt"
-    },
-    {
-      "added_at": "2022-07-06 13:53:37",
-      "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Desert Island",
         "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 196053,
       "name": "Roky Said",
       "url": "https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 288826,
       "name": "Three King Fishers",
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 273854,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 273854,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+    },
+    {
       "added_at": "2022-04-22 19:38:56",
       "album": {
         "name": "SongBook",
@@ -507,22 +523,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Stars Are the Light",
         "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
+      "added_at": "2022-04-20 15:08:42",
+      "album": {
+        "name": "Kepler-22b",
+        "url": "https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Kepler-22b",
+      "url": "https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "everything's worth it",
@@ -567,22 +583,6 @@
       "duration_ms": 219524,
       "name": "you\\me\\everyone",
       "url": "https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Sleeping Through The War",
-        "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 400853,
-      "name": "Bulls",
-      "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -603,18 +603,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Joe Frazier",
-        "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
+        "name": "Sleeping Through The War",
+        "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
       },
       "artists": [
         {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 338613,
-      "name": "Joe Frazier",
-      "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
+      "duration_ms": 400853,
+      "name": "Bulls",
+      "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Joe Frazier",
+        "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        }
+      ],
+      "duration_ms": 338613,
+      "name": "Joe Frazier",
+      "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Moonlust",
         "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 205010,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
-    },
-    {
-      "added_at": "2022-04-20 15:08:42",
-      "album": {
-        "name": "Kepler-22b",
-        "url": "https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Kepler-22b",
-      "url": "https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+      },
+      "artists": [
+        {
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+        }
+      ],
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Death Hawks",
-        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
-      },
-      "artists": [
-        {
-          "name": "Death Hawks",
-          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
-        }
-      ],
-      "duration_ms": 546640,
-      "name": "Black Acid",
-      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Ghost Tapes #10",
-        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
-      },
-      "artists": [
-        {
-          "name": "God Is An Astronaut",
-          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
-        }
-      ],
-      "duration_ms": 364048,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Steeple",
         "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 318960,
       "name": "Silbury Sands",
       "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Ghost Tapes #10",
+        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
+      },
+      "artists": [
+        {
+          "name": "God Is An Astronaut",
+          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
+        }
+      ],
+      "duration_ms": 364048,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
     },
     {
       "added_at": "2022-04-05 16:05:08",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Elwan",
-        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "N\u00e0nnufl\u00e0y",
-      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -1041,20 +1025,36 @@
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-04-22 19:18:57",
       "album": {
-        "name": "Acid Crusher / Mount Swan",
-        "url": "https://open.spotify.com/album/1jnKtfbJTAo2WddUGjuLyZ"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY"
       },
       "artists": [
         {
-          "name": "Earthless",
-          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
         }
       ],
-      "duration_ms": 896226,
-      "name": "Acid Crusher",
-      "url": "https://open.spotify.com/track/1Jl2QiqrBXJOVxDx2WqnvO"
+      "duration_ms": 212203,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "N\u00e0nnufl\u00e0y",
+      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "Acid Crusher / Mount Swan",
+        "url": "https://open.spotify.com/album/1jnKtfbJTAo2WddUGjuLyZ"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "Earthless",
+          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
         }
       ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+      "duration_ms": 896226,
+      "name": "Acid Crusher",
+      "url": "https://open.spotify.com/track/1Jl2QiqrBXJOVxDx2WqnvO"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1105,20 +1105,20 @@
       "url": "https://open.spotify.com/track/1mf0q8XDtJwuQVP8mnpsfz"
     },
     {
-      "added_at": "2022-04-22 19:18:57",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY"
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
       "artists": [
         {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
         }
       ],
-      "duration_ms": 212203,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo"
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Sancocho Stereo",
-        "url": "https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB"
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
       },
       "artists": [
         {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 273000,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI"
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: TRISTÁN!
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Claudia Allmang.
 
 863 songs - 1 day 22 hr 17 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 

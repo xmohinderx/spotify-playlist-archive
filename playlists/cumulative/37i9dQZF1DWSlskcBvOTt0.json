@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 337431,
       "name": "Bordre",
       "url": "https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw"
@@ -1093,6 +1093,28 @@
       "duration_ms": 376104,
       "name": "Cosa Buena",
       "url": "https://open.spotify.com/track/1hNBZ1OZj0qnzqNFZJbavC"
+    },
+    {
+      "album": {
+        "name": "Unity Pt. 3",
+        "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213390,
+      "name": "Cosmovision",
+      "url": "https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc"
     },
     {
       "album": {
@@ -2125,7 +2147,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 401330,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/0GDp1pEmSG9dOuJo53w2ha"
@@ -2755,7 +2777,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 263785,
       "name": "Le Crocodile",
       "url": "https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb"
@@ -3453,7 +3475,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 469995,
       "name": "Muy\u00e8",
       "url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c"
@@ -3933,7 +3955,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 516000,
       "name": "Oud Imperial",
       "url": "https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF"
@@ -4251,7 +4273,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 498196,
       "name": "Rational Utopia",
       "url": "https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO"
@@ -5249,7 +5271,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 424903,
       "name": "Transhumanism - Transhumanism Project (3/3)",
       "url": "https://open.spotify.com/track/1Bc1YCkgdW1AJ2GchM7g2C"

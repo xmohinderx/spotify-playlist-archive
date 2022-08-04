@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-2,959 songs - 4 day 18 hr 47 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+2,960 songs - 4 day 18 hr 49 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1600,6 +1600,7 @@
 | [Midnight City Breeze](https://open.spotify.com/track/4YhNVFjUkjry7YCBigpRBq) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7), [Anthony Drawn](https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo) | [Midnight City Breeze](https://open.spotify.com/album/2Qc0EchKhuokiyJRPA2DzJ) | 3:04 | 2020-05-30 | 2020-08-07 |
 | [Midnight Cruise](https://open.spotify.com/track/1VcGy9lHgUZnwXfFYr8N8k) | [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Midnight Cruise](https://open.spotify.com/album/5si3djFWayMuMDPskOlrjN) | 2:06 | 2020-04-03 | 2020-06-19 |
 | [Midnight Cruisin'](https://open.spotify.com/track/0e3ist1DMoAGBCV7tyNaZ1) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Smooth](https://open.spotify.com/album/0N6QIOAvhMzSpWXtE154Uj) | 2:12 | 2021-12-04 |  |
+| [Midnight Dinner](https://open.spotify.com/track/288UlMNjTPKmHqSFg7m09C) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Midnight Dinner](https://open.spotify.com/album/1pvKrUZOlXgmxyWRhcPq73) | 1:52 | 2022-08-01 |  |
 | [Midnight Express](https://open.spotify.com/track/0bHSNYDw6S7Pn9AM30Pedt) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Midnight Express](https://open.spotify.com/album/4uGGm4ALjrhH8E5pEwAkd8) | 1:59 | 2022-06-23 |  |
 | [Midnight Hustle](https://open.spotify.com/track/5jr4qsddnCeVdmYVEoYrmF) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [Nostalgia: Beats of 2008 \- 2020](https://open.spotify.com/album/3DjMEGoq8EuI6LYgOUr9Si) | 4:09 | 2021-01-29 | 2021-02-20 |
 | [Midnight meditation](https://open.spotify.com/track/6O2TF19OgUKc2xlmeu14hf) | [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v), [Jean Mózg](https://open.spotify.com/artist/3NNZijEUDfehzm0MTRER4c), [Henace](https://open.spotify.com/artist/29UU6amD7qWwNoYkxyc9Sr) | [Midnight Meditation](https://open.spotify.com/album/3Ee5BC5gD6SmZn3mlrBgV3) | 2:28 | 2022-01-20 | 2022-05-21 |
@@ -2146,7 +2147,7 @@
 | [Rootation](https://open.spotify.com/track/03a7i4JXaAbiUq2sp0bHTO) | [IVE](https://open.spotify.com/artist/0ZwkOkCk6Ow2Mayne9rkPd) | [Rootation](https://open.spotify.com/album/4RRdF3kaJloTiCuIq4UJhP) | 1:40 | 2020-06-13 | 2020-08-30 |
 | [roots](https://open.spotify.com/track/6mQRLgpkmERxI5UTg0wWpD) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [roots](https://open.spotify.com/album/1kmTyaNsx3AdTtcynrgRiv) | 1:29 | 2021-07-09 | 2022-03-18 |
 | [Rope](https://open.spotify.com/track/6eedTfDh3fSlg2e330pTxt) | [Dal Bosco & König](https://open.spotify.com/artist/1cKOFL0pqH7Ef5QqN0leTe) | [Rope](https://open.spotify.com/album/2dzPDK9bqTgqFXFGCUFT7e) | 3:08 | 2021-09-10 | 2021-10-22 |
-| [Rose of the sun](https://open.spotify.com/track/0LzGNq6VBa2O3fQzSEY8ct) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [Rose of the sun](https://open.spotify.com/album/4QbKFDPc6gkWc64L0HA1Pq) | 1:11 | 2021-11-12 |  |
+| [Rose of the sun](https://open.spotify.com/track/0LzGNq6VBa2O3fQzSEY8ct) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [Rose of the sun](https://open.spotify.com/album/4QbKFDPc6gkWc64L0HA1Pq) | 1:11 | 2021-11-12 | 2022-08-04 |
 | [Rosebud](https://open.spotify.com/track/7b7aodtYF7uuJD2KwAf1g5) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Rosebud](https://open.spotify.com/album/1gFxBTtIFr0X2mzpoOrDX2) | 2:11 | 2021-09-29 | 2021-10-29 |
 | [rosemary whispers](https://open.spotify.com/track/6LlcmcTC1gJZLUZjnO3ERN) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0) | 2:16 | 2019-05-26\* | 2019-08-17 |
 | [Roses](https://open.spotify.com/track/3WOMT6Kl2r6RCgpaf9l3Ic) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Roses](https://open.spotify.com/album/4jmvBtqYdXYipuHUwXkCS2) | 2:21 | 2021-04-02 | 2021-05-14 |

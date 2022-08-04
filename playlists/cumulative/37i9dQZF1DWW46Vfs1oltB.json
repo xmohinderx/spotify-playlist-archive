@@ -3800,6 +3800,24 @@
     },
     {
       "album": {
+        "name": "Gangnam",
+        "url": "https://open.spotify.com/album/7F3GrKWxvLG3ZJr7iPzR04"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153888,
+      "name": "Gangnam",
+      "url": "https://open.spotify.com/track/4CCryLO92ELw3Fq0kTn8GV"
+    },
+    {
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
       },

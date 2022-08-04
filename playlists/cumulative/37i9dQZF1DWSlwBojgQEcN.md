@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-290 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
+291 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 | 2019-09-29\* | 2022-07-29 |
 | [Chandelier Love](https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:23 | 2019-11-22 | 2021-10-14 |
 | [Cigarettes](https://open.spotify.com/track/4gOTaNIKkSBqnBujjTcdFz) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/2PEyN86A4VHw6MR4uT5Tdq) | 5:40 | 2020-06-12 | 2022-07-25 |
-| [Come on Love](https://open.spotify.com/track/35pLMarTq9RgZXcrw1z5xa) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [Come on Love](https://open.spotify.com/album/0bKj9xIVBgyql7UW9qZZnL) | 4:32 | 2022-02-14 |  |
+| [Come on Love](https://open.spotify.com/track/35pLMarTq9RgZXcrw1z5xa) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [Come on Love](https://open.spotify.com/album/0bKj9xIVBgyql7UW9qZZnL) | 4:32 | 2022-02-14 | 2022-08-04 |
 | [Come on Love](https://open.spotify.com/track/5ve7ClWCO0nQjjL11j3Icr) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [Come on Love](https://open.spotify.com/album/01Jbgb0oxCcRExGzB0H3B1) | 4:32 | 2019-09-29\* | 2022-07-29 |
 | [Come To Me](https://open.spotify.com/track/3xZzWtEcK8COG3eFiFqr24) | [Lily & Madeleine](https://open.spotify.com/artist/1kCC5slv2AdQ6MxcKP2fEQ) | [Lily & Madeleine](https://open.spotify.com/album/75ZUNt11nUZIZaI4A5BCCP) | 3:04 | 2020-06-12 | 2021-10-14 |
 | [Come to Me](https://open.spotify.com/track/0D261A5RVmf360Zvp62vOm) | [Lily & Madeleine](https://open.spotify.com/artist/1kCC5slv2AdQ6MxcKP2fEQ) | [Lily & Madeleine \(Acoustic Sessions\)](https://open.spotify.com/album/5soHVVbiRRisvf732dGQrf) | 3:06 | 2021-04-24 | 2021-05-28 |
@@ -143,6 +143,7 @@
 | [Love No Less Worthy](https://open.spotify.com/track/39ex1gng2xOIUrNjLOc7Ti) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/6tbON4U1Aw1od8B3OkuTz8) | 3:13 | 2020-06-12 | 2021-10-16 |
 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 | 2019-09-29\* |  |
 | [Lover](https://open.spotify.com/track/1A3ZhVCFvYPKj8SRMPbpsg) | [Jane Ellen Bryant](https://open.spotify.com/artist/0Lzcyqk8mIPURNWygVExKm) | [Hourglass](https://open.spotify.com/album/7lZJMlYFGEqpyqcKi2PDmr) | 4:34 | 2019-09-29\* | 2020-06-10 |
+| [Lovers Who Make Love](https://open.spotify.com/track/07TynTJvMsM19UHI121q5l) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:38 | 2022-02-14 |  |
 | [Lovers Who Make Love](https://open.spotify.com/track/2G5AbiKbJjNJGFSpUtwsiH) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM) | 3:38 | 2020-06-12 | 2021-10-16 |
 | [Lovers' Eyes](https://open.spotify.com/track/7rMDB1bKHO0Sh8oTWWvdsJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:21 | 2022-02-14 |  |
 | [Lovers' Eyes](https://open.spotify.com/track/0Z1jSa9OzaVXERNOpH3F9J) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Edition\)](https://open.spotify.com/album/1SKwteICgxOCIoqtCUqpR6) | 5:21 | 2020-06-12 | 2021-10-16 |

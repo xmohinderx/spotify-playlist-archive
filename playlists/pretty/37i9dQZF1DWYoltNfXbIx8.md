@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,303 likes - 68 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,381 likes - 68 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 51 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 |
 | 52 | [Sonho Meu](https://open.spotify.com/track/7Dcm25Cx6oJb58R6omQT08) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 5:40 |
 | 53 | [Lembrança](https://open.spotify.com/track/5z2JnOo0ZxrZVkaFpeV5AJ) | [Consciência Humana](https://open.spotify.com/artist/1nwuifu5rxgVlrGwjjoJOt) | [Entre a Adolescência e o Crime](https://open.spotify.com/album/6ndOfkbN2BiLUzE4x5tprw) | 9:34 |
-| 54 | [Pule ou Empurre](https://open.spotify.com/track/2moNnYG8Elyx9SYuGW2fx8) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/3c0wTYodyznfErM03IUkBD) | 3:44 |
+| 54 | [Pule ou Empurre](https://open.spotify.com/track/5KyCqnsRNr5sV4y2AcW542) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/62P9Bb98VUUAEAlrLClVZo) | 3:44 |
 | 55 | [Mano de Fé](https://open.spotify.com/track/1rXh5lDcW9sMeBizF2awvd) | [Potencial 3](https://open.spotify.com/artist/6nZg0XOctvjji1pPvsOjNH) | [Mano de Fé](https://open.spotify.com/album/4PmbdwTs4hoYztsDs60T1j) | 4:16 |
 | 56 | [Tempos Difíceis](https://open.spotify.com/track/6ieCyW9A3EzOtXChxJwXsh) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:03 |
 | 57 | [Bomba H](https://open.spotify.com/track/0oqRkUeUEc0SNzoy4oParq) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [O Crime do Raciocínio](https://open.spotify.com/album/1fcbnOnbQwZPrQhk26ChOt) | 6:24 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 67 | [Saudades Mil](https://open.spotify.com/track/1hB4340DP1nnBmfWn37uTN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 8:46 |
 | 68 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 
-Snapshot ID: `MTY0NTc1ODA2MCwwMDAwMDAwMDE1NDAxZGZiMDQzNjAwMWE1ZWQ4NjkwY2U5NzM1YWRk`
+Snapshot ID: `MTY0NTc1ODA2MCwwMDAwMDAwMGM1MWIwM2JjNTMzZjY5NmUyMWRhMmQ5MjFhNjQxNjE1`

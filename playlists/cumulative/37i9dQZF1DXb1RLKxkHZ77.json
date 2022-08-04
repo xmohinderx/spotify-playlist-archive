@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 185930,
       "name": "Gatal",
       "url": "https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf"
@@ -872,6 +872,24 @@
     },
     {
       "album": {
+        "name": "PEREMPUAN",
+        "url": "https://open.spotify.com/album/36RXsb86wBFDKuXzl9NcjP"
+      },
+      "artists": [
+        {
+          "name": "Jaclyn Victor",
+          "url": "https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240672,
+      "name": "PEREMPUAN",
+      "url": "https://open.spotify.com/track/4mNpO8m99gv1p8BgYCf1F3"
+    },
+    {
+      "album": {
         "name": "Peri Cintaku",
         "url": "https://open.spotify.com/album/5njf9tv5t5iF2VCGAIfIOx"
       },
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 220800,
       "name": "Sama Seperti Dulu",
       "url": "https://open.spotify.com/track/4g32N8Vl5Dp8pnuzuiVLEg"
@@ -1119,6 +1137,24 @@
       "duration_ms": 180324,
       "name": "SUSTENTO",
       "url": "https://open.spotify.com/track/2N2zdSWXytUAjziN6LJWFw"
+    },
+    {
+      "album": {
+        "name": "SUTERA",
+        "url": "https://open.spotify.com/album/2apVqruZkI2V9EQheYcjzp"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "SUTERA",
+      "url": "https://open.spotify.com/track/3kDvYWOTRzs5dEGKRsCizB"
     },
     {
       "album": {

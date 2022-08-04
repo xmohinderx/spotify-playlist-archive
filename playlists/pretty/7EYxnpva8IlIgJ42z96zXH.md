@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,385 likes - 50 songs - 2 hr 47 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,378 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 |
+| 1 | [BREAK MY SOUL \- Terry Hunter Remix](https://open.spotify.com/track/6UpmSD4nZhmESpf1vtSax0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 5:30 |
 | 2 | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe) | 2:16 |
 | 3 | [Where Did You Go?](https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/10tU00gHCNHETG5QFxeeHv) | 2:57 |
 | 4 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
-| 5 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |
-| 6 | [COZY](https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:30 |
+| 5 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 |
+| 6 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |
 | 7 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
 | 8 | [Control Dem](https://open.spotify.com/track/7CJj238MecPG1II1UgO1OJ) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Control Dem](https://open.spotify.com/album/34pOYo2McKDiygDZgHoo6s) | 3:49 |
 | 9 | [Saturday Love](https://open.spotify.com/track/3qvZ6QHw87cICfcIqJjMjm) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Lulu Be.](https://open.spotify.com/artist/2jM44QDqboAQRKbiIqHIoE) | [Saturday Love](https://open.spotify.com/album/5s3xUOBWNhBFVHcWvK29hG) | 4:24 |
-| 10 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
-| 11 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 |
+| 10 | [COZY](https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:30 |
+| 11 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 | 12 | [Drifted](https://open.spotify.com/track/7IXpJCo6Tvizl4AY5lz1mc) | [Happiness is Wealth](https://open.spotify.com/artist/1AebRqBS8ifo5gAF6z8poy) | [Drifted](https://open.spotify.com/album/4AjR5OX2tuujj8KIBeNJuw) | 3:38 |
 | 13 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
 | 14 | [Gravity](https://open.spotify.com/track/70coW4zgrBZ2XnvqMqIDKe) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Gravity](https://open.spotify.com/album/1R546kkf5YqomrugvVPCBf) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 49 | [No Drama](https://open.spotify.com/track/1MZmduhi0sK3RbF4cN3dbv) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [No Drama](https://open.spotify.com/album/7HNvH4UVOMxMITfeXxu6ch) | 3:47 |
 | 50 | [Keep It Comin](https://open.spotify.com/track/3tyw03CsA7n00xC5hnvjuX) | [Mr Gray](https://open.spotify.com/artist/1cSOF44doCI1YNC1f7rb6w), [Zoë Badwi](https://open.spotify.com/artist/16Mje1BDQmN1DWp4a94YOC) | [Keep It Comin](https://open.spotify.com/album/2TZmCMQegg86vKegAlkZZI) | 3:03 |
 
-Snapshot ID: `MjMzMyw0ODY0MzEzZjA0OWM5MTY4NmIyNzdlYzVlZWYyZGI0OThkZTdiOWJl`
+Snapshot ID: `MjMzNyxlMmE4YTAxZTBhMzBlYWIzZDRmMGJlOWUzNWFjNTc1MGE2ODhjOGQ0`

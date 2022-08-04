@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 846934,
+  "num_followers": 847151,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDcxYTkyZDI0MzBhNjIwNWFhYzdiYjBmYjI1ZjU1MDBk",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGM1ZWY5MzM4ZjRlNDAyN2I3NTdlMjU0OWZiNDBhOWZi",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -751,8 +751,8 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Drop It (feat. LUISAH)",
-        "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc"
       },
       "artists": [
         {
@@ -760,21 +760,13 @@
           "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        },
-        {
-          "name": "LUISAH",
-          "url": "https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG"
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         }
       ],
-      "duration_ms": 125760,
-      "name": "Drop It (feat. LUISAH)",
-      "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
+      "duration_ms": 142193,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -847,8 +839,8 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Good Good",
-        "url": "https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc"
+        "name": "Drop It (feat. LUISAH)",
+        "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
       },
       "artists": [
         {
@@ -856,13 +848,21 @@
           "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        },
+        {
+          "name": "LUISAH",
+          "url": "https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG"
         }
       ],
-      "duration_ms": 142193,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
+      "duration_ms": 125760,
+      "name": "Drop It (feat. LUISAH)",
+      "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Have Me All (feat. Jelita)",
+        "url": "https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jelita",
+          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "Have Me All (feat. Jelita)",
+      "url": "https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 142857,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/3XkAdIenMaTqCnNBRkUOLw"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Have Me All (feat. Jelita)",
-        "url": "https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Jelita",
-          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
-        }
-      ],
-      "duration_ms": 170004,
-      "name": "Have Me All (feat. Jelita)",
-      "url": "https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "The G.O.A.T.",
+        "url": "https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        }
+      ],
+      "duration_ms": 201914,
+      "name": "The G.O.A.T.",
+      "url": "https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Say It (feat. LP Giobbi & Blush'ko)",
         "url": "https://open.spotify.com/album/5J4UyPK9lGjYH9Cm7iyrmb"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 185000,
       "name": "Say It (feat. LP Giobbi & Blush'ko)",
       "url": "https://open.spotify.com/track/60MsiXfuTpTTOQbnnu48Hy"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "The G.O.A.T.",
-        "url": "https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        }
-      ],
-      "duration_ms": 201914,
-      "name": "The G.O.A.T.",
-      "url": "https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall) [Cat Dealers Remix]",
         "url": "https://open.spotify.com/album/04pL6T3KzbzyT5bKnvQsjl"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Jake Tarry",
-          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf"
+      },
+      "artists": [
+        {
+          "name": "Zhnark",
+          "url": "https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww"
+        }
+      ],
+      "duration_ms": 218894,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Carried Away (Love To Love) [Tchami Remix]",
         "url": "https://open.spotify.com/album/3jmkm8U4Fp8LX1qBH0nzmx"
       },
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Bad Bees (feat. Harrison First)",
         "url": "https://open.spotify.com/album/5dVTLuCWaBvkTR6taXAZAn"
       },
@@ -1707,6 +1707,22 @@
       "duration_ms": 179628,
       "name": "Bad Bees (feat. Harrison First)",
       "url": "https://open.spotify.com/track/2GvYPnGRiF9MdJSSeS30tY"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1755,6 +1771,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/3aoDtHvUeQUpFcwBG5IeoD"
+      },
+      "artists": [
+        {
+          "name": "CLiQ",
+          "url": "https://open.spotify.com/artist/2IQIEHvL14Tj7vOKHbIMMj"
+        },
+        {
+          "name": "Team Salut",
+          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
       },
@@ -1775,26 +1811,6 @@
       "duration_ms": 204160,
       "name": "Poison",
       "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/3aoDtHvUeQUpFcwBG5IeoD"
-      },
-      "artists": [
-        {
-          "name": "CLiQ",
-          "url": "https://open.spotify.com/artist/2IQIEHvL14Tj7vOKHbIMMj"
-        },
-        {
-          "name": "Team Salut",
-          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1847,26 +1863,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/6dDSqtmH6vou9BQnskvrIV"
-      },
-      "artists": [
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        },
-        {
-          "name": "Mo Falk",
-          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
-        }
-      ],
-      "duration_ms": 160004,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/6lLHhKjeqWWNa0hTbJN98R"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Red Handed",
         "url": "https://open.spotify.com/album/6wbcvjFi81H1FRQXUZDygg"
       },
@@ -1883,6 +1879,26 @@
       "duration_ms": 171293,
       "name": "Red Handed",
       "url": "https://open.spotify.com/track/3L5vu7DBK62Nr3UIREIEJE"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/6dDSqtmH6vou9BQnskvrIV"
+      },
+      "artists": [
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        },
+        {
+          "name": "Mo Falk",
+          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
+        }
+      ],
+      "duration_ms": 160004,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/6lLHhKjeqWWNa0hTbJN98R"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1983,34 +1999,6 @@
       "duration_ms": 230046,
       "name": "shit i like",
       "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Whisper (with James Yuill) [John Summit Remix]",
-        "url": "https://open.spotify.com/album/2Lp800ReDqK18AxCzCaT24"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        },
-        {
-          "name": "James Yuill",
-          "url": "https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 184271,
-      "name": "Whisper (with James Yuill) - John Summit Remix",
-      "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"
     }
   ],
   "unique_name": "Shuffle Syndrome",

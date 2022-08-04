@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 5433,
+  "num_followers": 5451,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMDljYjhkYTEzZjc5ZjUwZjIwY2IzOTNjNDBmZmQwMjUw",
+  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMGZmNTRjNmVlMWY4NWJlNzg2NjI0Njg1MjJmYzZhOTky",
   "tracks": [
     {
       "added_at": "2022-05-05 23:00:00",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "Mufasa",
-        "url": "https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "Mufasa",
-      "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
-    },
-    {
       "added_at": "2022-07-25 06:25:14",
       "album": {
         "name": "Like (feat. Kizz Daniel)",
@@ -391,6 +375,22 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
+    },
+    {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Mufasa",
+        "url": "https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Mufasa",
+      "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -485,6 +485,30 @@
       "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Bad Girl (feat. Wande Coal and Victony)",
+        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 204232,
+      "name": "Bad Girl (feat. Wande Coal and Victony)",
+      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
+    },
+    {
       "added_at": "2022-04-22 06:09:21",
       "album": {
         "name": "Kilometer (Remix)",
@@ -505,22 +529,6 @@
       "url": "https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o"
     },
     {
-      "added_at": "2022-04-18 06:23:32",
-      "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
-    },
-    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Hate Me",
@@ -539,6 +547,22 @@
       "duration_ms": 199322,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
+    },
+    {
+      "added_at": "2022-04-18 06:23:32",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
       "added_at": "2022-04-07 23:00:00",
@@ -575,30 +599,6 @@
       "duration_ms": 148692,
       "name": "Gone Far",
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Bad Girl (feat. Wande Coal and Victony)",
-        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 204232,
-      "name": "Bad Girl (feat. Wande Coal and Victony)",
-      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
     },
     {
-      "added_at": "2021-06-07 12:50:41",
-      "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Scatter",
-      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
-    },
-    {
       "added_at": "2022-07-22 04:29:24",
       "album": {
         "name": "Jaiye (Ihe Geme)",
@@ -711,6 +695,22 @@
       "duration_ms": 234404,
       "name": "Jaiye (Ihe Geme)",
       "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
+    },
+    {
+      "added_at": "2021-06-07 12:50:41",
+      "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
     },
     {
       "added_at": "2022-05-26 23:00:00",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/1enk1SGVDSYragvMwcn7s8"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Polongo",
-        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
-      },
-      "artists": [
-        {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Polongo",
-      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
-    },
-    {
       "added_at": "2022-07-22 04:29:24",
       "album": {
         "name": "Shaye",
@@ -995,6 +979,22 @@
       "duration_ms": 169043,
       "name": "Shaye",
       "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Polongo",
+        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Polongo",
+      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -1035,6 +1035,26 @@
       "duration_ms": 161151,
       "name": "Selah",
       "url": "https://open.spotify.com/track/40AlCv3FTScAtM6zfJnXaG"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Full Current (That's My baby)",
+        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 208296,
+      "name": "Full Current (That's My Baby)",
+      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -1079,42 +1099,22 @@
     {
       "added_at": "2022-07-28 23:00:00",
       "album": {
-        "name": "Full Current (That's My baby)",
-        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
+        "name": "Fididi",
+        "url": "https://open.spotify.com/album/0TOOHS6cwW4RE2Wxdm3ynj"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Flash",
+          "url": "https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p"
         },
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
         }
       ],
-      "duration_ms": 208296,
-      "name": "Full Current (That's My Baby)",
-      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
-    },
-    {
-      "added_at": "2022-02-11 00:00:00",
-      "album": {
-        "name": "Sweet Daddy",
-        "url": "https://open.spotify.com/album/5vVu6P7rrAXE6gkbCIwLCy"
-      },
-      "artists": [
-        {
-          "name": "Dai Verse",
-          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Sweet Daddy",
-      "url": "https://open.spotify.com/track/491RNEZhVfVRKlbN259dff"
+      "duration_ms": 206041,
+      "name": "Fididi",
+      "url": "https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1137,24 +1137,24 @@
       "url": "https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
+      "added_at": "2022-02-11 00:00:00",
       "album": {
-        "name": "Fididi",
-        "url": "https://open.spotify.com/album/0TOOHS6cwW4RE2Wxdm3ynj"
+        "name": "Sweet Daddy",
+        "url": "https://open.spotify.com/album/5vVu6P7rrAXE6gkbCIwLCy"
       },
       "artists": [
         {
-          "name": "Flash",
-          "url": "https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p"
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
         },
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 206041,
-      "name": "Fididi",
-      "url": "https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv"
+      "duration_ms": 189651,
+      "name": "Sweet Daddy",
+      "url": "https://open.spotify.com/track/491RNEZhVfVRKlbN259dff"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -1205,24 +1205,36 @@
       "url": "https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7"
     },
     {
-      "added_at": "2021-11-25 23:01:00",
+      "added_at": "2022-07-28 23:00:00",
       "album": {
-        "name": "Nataraja",
-        "url": "https://open.spotify.com/album/70Maw3SbX3PPtRbgHc9VKj"
+        "name": "Sporofita (feat. 2woshort, LastbornDiroba, Al xapo & Sunde)",
+        "url": "https://open.spotify.com/album/5VCzXrtq44Tf8gUXO7zQhz"
       },
       "artists": [
         {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "LastbornDiroba",
+          "url": "https://open.spotify.com/artist/69bAy03h3A10xDSsb8xj3G"
+        },
+        {
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
+        },
+        {
+          "name": "Sunde",
+          "url": "https://open.spotify.com/artist/5uNBTq61yDEqa3PHqHByTr"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6W79tvE9ZPzHtV2wPwwGUT"
+      "duration_ms": 360223,
+      "name": "Sporofita (feat. 2woshort, LastbornDiroba, Al xapo & Sunde)",
+      "url": "https://open.spotify.com/track/2Hse6wF70MSGbjwuPixL7S"
     }
   ],
   "unique_name": "Keep Fit Club ",

@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Lauren Henderson",
-  "num_followers": 94104,
+  "num_followers": 94162,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwODA5NSwwMDAwMDAwMDlkMjA3NjFkNzNjZGU4MmRmZTFmMDI2YzVmMGIyZmE4",
+  "snapshot_id": "MTY1OTEwODA5NSwwMDAwMDAwMGRmNDVhNDc2OGIwMDRiNjg2M2I1YzcwNDYxYzRjYjZk",
   "tracks": [
     {
       "added_at": "2022-07-08 04:01:00",
@@ -833,6 +833,38 @@
       "url": "https://open.spotify.com/track/3MRjc814zG32JiSNQ2tYvo"
     },
     {
+      "added_at": "2021-12-10 05:01:00",
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 175318,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Fine Brown Frame",
+        "url": "https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        }
+      ],
+      "duration_ms": 200578,
+      "name": "Fine Brown Frame",
+      "url": "https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Roots",
@@ -867,38 +899,6 @@
       "duration_ms": 364506,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 175318,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Fine Brown Frame",
-        "url": "https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B"
-      },
-      "artists": [
-        {
-          "name": "Judith Owen",
-          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
-        }
-      ],
-      "duration_ms": 200578,
-      "name": "Fine Brown Frame",
-      "url": "https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Laura Goes East",
-        "url": "https://open.spotify.com/album/0ktGkuJRuBSqGmNZ0wOCw1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 169046,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
         "name": "Do You Hear Me?",
         "url": "https://open.spotify.com/album/018uQHM9DCVTDVAbal3Dg8"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 334600,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2s0cWbK40tREuFXxecU9OG"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Laura Goes East",
+        "url": "https://open.spotify.com/album/0ktGkuJRuBSqGmNZ0wOCw1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 169046,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -1089,30 +1089,6 @@
       "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
     },
     {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Soul Sister",
-        "url": "https://open.spotify.com/album/2gGrZXCH7xxE7bLguOKf7c"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        },
-        {
-          "name": "Jacob Gurevitsch",
-          "url": "https://open.spotify.com/artist/1h9GstBf9XSQT3jzZqt3vH"
-        }
-      ],
-      "duration_ms": 252546,
-      "name": "Soul Sister",
-      "url": "https://open.spotify.com/track/4P9mSalhiDdgYmuEUwVT7h"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "No Moon At All",
@@ -1143,6 +1119,30 @@
       "duration_ms": 189186,
       "name": "I Feel Foolish",
       "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Soul Sister",
+        "url": "https://open.spotify.com/album/2gGrZXCH7xxE7bLguOKf7c"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Jacob Gurevitsch",
+          "url": "https://open.spotify.com/artist/1h9GstBf9XSQT3jzZqt3vH"
+        }
+      ],
+      "duration_ms": 252546,
+      "name": "Soul Sister",
+      "url": "https://open.spotify.com/track/4P9mSalhiDdgYmuEUwVT7h"
     },
     {
       "added_at": "2022-06-10 04:01:00",
@@ -1241,6 +1241,46 @@
       "url": "https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
+      },
+      "artists": [
+        {
+          "name": "Dara Tucker",
+          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
+      },
+      "artists": [
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        },
+        {
+          "name": "Alexander Claffy",
+          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 258398,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
+    },
+    {
       "added_at": "2021-07-09 04:02:00",
       "album": {
         "name": "Now Pronouncing: Caity Gyorgy",
@@ -1257,20 +1297,24 @@
       "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
+        "name": "New York, New York",
+        "url": "https://open.spotify.com/album/0sAEeaj1Ko2SYnL34d9fbW"
       },
       "artists": [
         {
-          "name": "Dara Tucker",
-          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Tom Gaebel",
+          "url": "https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9"
         }
       ],
-      "duration_ms": 174186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
+      "duration_ms": 206590,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1299,50 +1343,6 @@
       "duration_ms": 381367,
       "name": "East of the Sun and West of the Moon",
       "url": "https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "New York, New York",
-        "url": "https://open.spotify.com/album/0sAEeaj1Ko2SYnL34d9fbW"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        },
-        {
-          "name": "Tom Gaebel",
-          "url": "https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9"
-        }
-      ],
-      "duration_ms": 206590,
-      "name": "New York, New York",
-      "url": "https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
-      },
-      "artists": [
-        {
-          "name": "Michael Stephenson",
-          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
-        },
-        {
-          "name": "Alexander Claffy",
-          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
-        },
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 258398,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Barth",
-          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
-        }
-      ],
-      "duration_ms": 266138,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
-    },
-    {
       "added_at": "2022-06-06 13:59:05",
       "album": {
         "name": "Comes Love",
@@ -1535,22 +1519,6 @@
       "duration_ms": 222600,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/3vYbPjjemMP62On3l9bgwp"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "House of the Rising Sun",
-        "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
-      },
-      "artists": [
-        {
-          "name": "Somi",
-          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
-        }
-      ],
-      "duration_ms": 225806,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1573,20 +1541,36 @@
       "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/31fBo6fB2UXSmSCwdh45Ls"
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Jocelyn Barth",
+          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
         }
       ],
-      "duration_ms": 265000,
-      "name": "It Was A Very Good Year",
-      "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
+      "duration_ms": 266138,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        }
+      ],
+      "duration_ms": 225806,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
     },
     {
       "added_at": "2021-06-01 17:36:12",
@@ -1609,40 +1593,20 @@
       "url": "https://open.spotify.com/track/2sFdFdSACqUlbZVKgcRkdE"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "My Sweetie & I",
-        "url": "https://open.spotify.com/album/2ey5s2msgrSIuW8BamCOHo"
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/31fBo6fB2UXSmSCwdh45Ls"
       },
       "artists": [
         {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
         }
       ],
-      "duration_ms": 355102,
-      "name": "My Sweetie & I",
-      "url": "https://open.spotify.com/track/6A2cWbyXgKMufDUr5dAJkV"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
-      },
-      "artists": [
-        {
-          "name": "Alma Naidu",
-          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Just a Word",
-      "url": "https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe"
+      "duration_ms": 265000,
+      "name": "It Was A Very Good Year",
+      "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1671,6 +1635,42 @@
       "duration_ms": 309426,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
+      },
+      "artists": [
+        {
+          "name": "Alma Naidu",
+          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Just a Word",
+      "url": "https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "My Sweetie & I",
+        "url": "https://open.spotify.com/album/2ey5s2msgrSIuW8BamCOHo"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 355102,
+      "name": "My Sweetie & I",
+      "url": "https://open.spotify.com/track/6A2cWbyXgKMufDUr5dAJkV"
     },
     {
       "added_at": "2022-05-27 04:02:00",
@@ -1789,26 +1789,6 @@
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Fly Me To The Moon (Radio Version)",
-        "url": "https://open.spotify.com/album/5DRrkSlAagBnJ9o0rSXnVu"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        },
-        {
-          "name": "Ewa Bem",
-          "url": "https://open.spotify.com/artist/6E6qou5XcK7fjR7Ikvq0AP"
-        }
-      ],
-      "duration_ms": 208969,
-      "name": "Fly Me To The Moon (Radio Version)",
-      "url": "https://open.spotify.com/track/5PHz2I3Z2miEPjGviJd9Gk"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Let's Do It",
@@ -1841,6 +1821,26 @@
       "url": "https://open.spotify.com/track/45czwhpmoLfzTJDmu2NKsM"
     },
     {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Fly Me To The Moon (Radio Version)",
+        "url": "https://open.spotify.com/album/5DRrkSlAagBnJ9o0rSXnVu"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Ewa Bem",
+          "url": "https://open.spotify.com/artist/6E6qou5XcK7fjR7Ikvq0AP"
+        }
+      ],
+      "duration_ms": 208969,
+      "name": "Fly Me To The Moon (Radio Version)",
+      "url": "https://open.spotify.com/track/5PHz2I3Z2miEPjGviJd9Gk"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Postcards from Rome",
@@ -1855,6 +1855,22 @@
       "duration_ms": 135815,
       "name": "Postcards from Rome",
       "url": "https://open.spotify.com/track/4rSmfAclQdk1yKjwxXLtMQ"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "No Goodbyes",
+        "url": "https://open.spotify.com/album/58YoLKTRFBsnLSUPljZQQR"
+      },
+      "artists": [
+        {
+          "name": "Doc City",
+          "url": "https://open.spotify.com/artist/4wbtShauxgid3cgHpvL5aW"
+        }
+      ],
+      "duration_ms": 290920,
+      "name": "No Goodbyes",
+      "url": "https://open.spotify.com/track/60YQOHFo9twHyRTgqn30Xh"
     },
     {
       "added_at": "2022-04-04 13:31:44",
@@ -1889,22 +1905,6 @@
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "No Goodbyes",
-        "url": "https://open.spotify.com/album/58YoLKTRFBsnLSUPljZQQR"
-      },
-      "artists": [
-        {
-          "name": "Doc City",
-          "url": "https://open.spotify.com/artist/4wbtShauxgid3cgHpvL5aW"
-        }
-      ],
-      "duration_ms": 290920,
-      "name": "No Goodbyes",
-      "url": "https://open.spotify.com/track/60YQOHFo9twHyRTgqn30Xh"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Songs From Other Places (Special Edition)",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2022-06-06 13:59:05",
       "album": {
+        "name": "Delta Lady",
+        "url": "https://open.spotify.com/album/7dJygQ3xuMrppaDbrBeJYL"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 183875,
+      "name": "Delta Lady",
+      "url": "https://open.spotify.com/track/2LU7TTi6IBhCwn3g1vyQ1N"
+    },
+    {
+      "added_at": "2022-06-06 13:59:05",
+      "album": {
         "name": "I'm in a Mess (feat. Samara Joy)",
         "url": "https://open.spotify.com/album/1KSkbrGOskyPFd5IVecxnj"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 174066,
       "name": "I'm in a Mess (feat. Samara Joy)",
       "url": "https://open.spotify.com/track/67EzBKdJSiSZmq9q5Ustyz"
-    },
-    {
-      "added_at": "2022-06-06 13:59:05",
-      "album": {
-        "name": "Delta Lady",
-        "url": "https://open.spotify.com/album/7dJygQ3xuMrppaDbrBeJYL"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 183875,
-      "name": "Delta Lady",
-      "url": "https://open.spotify.com/track/2LU7TTi6IBhCwn3g1vyQ1N"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -2053,6 +2053,54 @@
       "url": "https://open.spotify.com/track/5UmSpoIcHl74x58dleXMul"
     },
     {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/2fLXzi7tDpEv78K168uIer"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "John Chin",
+          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
+        },
+        {
+          "name": "Nick Tannura",
+          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
+        }
+      ],
+      "duration_ms": 324650,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/3MYLs0jRTj2wjMGpAe69nk"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Come Fly with Me",
+        "url": "https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Come Fly with Me",
+      "url": "https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP"
+    },
+    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Seahorse Tranquilizer",
@@ -2079,22 +2127,6 @@
       "duration_ms": 397453,
       "name": "Seahorse Tranquilizer",
       "url": "https://open.spotify.com/track/5frZ1YDgUhJJ3CznAIhG4F"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Come Fly with Me",
-        "url": "https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Come Fly with Me",
-      "url": "https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP"
     },
     {
       "added_at": "2021-03-26 04:01:00",
@@ -2137,22 +2169,6 @@
       "url": "https://open.spotify.com/track/5l0PWCX2G7SI3fNHvGH1ib"
     },
     {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "I Get A Kick Out Of You",
-        "url": "https://open.spotify.com/album/5XPgqAzI6atpfpxdzK17p0"
-      },
-      "artists": [
-        {
-          "name": "Nikki Yanofsky",
-          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Samara Joy",
@@ -2169,52 +2185,20 @@
       "url": "https://open.spotify.com/track/78B0mMslheydwHR5BDyz2l"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/2fLXzi7tDpEv78K168uIer"
+        "name": "I Get A Kick Out Of You",
+        "url": "https://open.spotify.com/album/5XPgqAzI6atpfpxdzK17p0"
       },
       "artists": [
         {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "John Chin",
-          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
-        },
-        {
-          "name": "Nick Tannura",
-          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
         }
       ],
-      "duration_ms": 324650,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/3MYLs0jRTj2wjMGpAe69nk"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "This Bitter Earth",
-        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 379498,
-      "name": "Getting to Know You",
-      "url": "https://open.spotify.com/track/6W2bvbDFUNjEWm1EfAd34w"
+      "duration_ms": 161120,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -2245,20 +2229,20 @@
       "url": "https://open.spotify.com/track/6wpE2kIiFQUdJiKDlSywdf"
     },
     {
-      "added_at": "2022-07-08 04:01:00",
+      "added_at": "2021-02-19 05:01:00",
       "album": {
-        "name": "I Will Wait for You",
-        "url": "https://open.spotify.com/album/6jnkamK8KNpSP94LLKDjxv"
+        "name": "This Bitter Earth",
+        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
       },
       "artists": [
         {
-          "name": "Matt Forbes",
-          "url": "https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt"
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
         }
       ],
-      "duration_ms": 227942,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/152loRQOTUDsdMTQ7R7M4v"
+      "duration_ms": 379498,
+      "name": "Getting to Know You",
+      "url": "https://open.spotify.com/track/6W2bvbDFUNjEWm1EfAd34w"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -2289,24 +2273,36 @@
       "url": "https://open.spotify.com/track/5ECbeElJIvaqZFtmBx1O4s"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Be Still My Heart",
-        "url": "https://open.spotify.com/album/6p3iBqJ0owxMFKGsN0ytN4"
+        "name": "I Will Wait for You",
+        "url": "https://open.spotify.com/album/6jnkamK8KNpSP94LLKDjxv"
       },
       "artists": [
         {
-          "name": "Club des Belugas",
-          "url": "https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo"
-        },
-        {
-          "name": "Lene Riebau",
-          "url": "https://open.spotify.com/artist/22tKbWCOHQ8QnAD0SxN1Tw"
+          "name": "Matt Forbes",
+          "url": "https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt"
         }
       ],
-      "duration_ms": 206363,
-      "name": "Be Still My Heart",
-      "url": "https://open.spotify.com/track/1VUNJqbGvsZKQEEx0lVVFH"
+      "duration_ms": 227942,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/152loRQOTUDsdMTQ7R7M4v"
+    },
+    {
+      "added_at": "2022-07-18 12:24:10",
+      "album": {
+        "name": "It Could Happen to You",
+        "url": "https://open.spotify.com/album/5eLzriz99PfQs49eCfHAZ6"
+      },
+      "artists": [
+        {
+          "name": "Judy Whitmore",
+          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "It Could Happen to You",
+      "url": "https://open.spotify.com/track/6rZWAzKugoYcEqlhPN9DWv"
     }
   ],
   "unique_name": "Vocal Jazz",

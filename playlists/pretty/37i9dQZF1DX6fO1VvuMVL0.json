@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 34104,
+  "num_followers": 34170,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDkzODc4OSwwMDAwMDAwMDA4ZDViY2ZkMzAzZGE3NjMxODM5MWY2MTc2NmNlYjA2",
+  "snapshot_id": "MTY0NDkzODc4OSwwMDAwMDAwMDIwZjMxYWM1YzM3NmU2ZWJjYzA5MTkzZDk1MjI5ZGY1",
   "tracks": [
     {
       "added_at": "2022-01-20 09:18:07",
@@ -399,6 +399,38 @@
     {
       "added_at": "2022-01-20 09:18:07",
       "album": {
+        "name": "The Complete Argo Mercury Sessions",
+        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer & Benny Golson Jazztet",
+          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/3kfsa9m8BoeKIyHPOOhwdg"
+    },
+    {
+      "added_at": "2022-01-20 09:18:07",
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+    },
+    {
+      "added_at": "2022-01-20 09:18:07",
+      "album": {
         "name": "Interplay [Box Set]",
         "url": "https://open.spotify.com/album/1H7bSbmS2OprRnTd4xz0Xy"
       },
@@ -423,38 +455,6 @@
       "duration_ms": 906386,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/7y7M0Qd8r37uhLLScSQUyB"
-    },
-    {
-      "added_at": "2022-01-20 09:18:07",
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
-    },
-    {
-      "added_at": "2022-01-20 09:18:07",
-      "album": {
-        "name": "The Complete Argo Mercury Sessions",
-        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer & Benny Golson Jazztet",
-          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/3kfsa9m8BoeKIyHPOOhwdg"
     },
     {
       "added_at": "2022-01-20 09:18:07",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-01-20 09:18:07",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
-    },
-    {
-      "added_at": "2022-01-20 09:18:07",
-      "album": {
         "name": "New Faces - New Sounds",
         "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 181674,
       "name": "Under Capricorn",
       "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
+    },
+    {
+      "added_at": "2022-01-20 09:18:07",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
     },
     {
       "added_at": "2022-01-20 09:18:07",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-01-20 09:18:07",
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
-    },
-    {
-      "added_at": "2022-01-20 09:18:07",
-      "album": {
         "name": "A Night At The Vanguard",
         "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 260973,
       "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
       "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
+    },
+    {
+      "added_at": "2022-01-20 09:18:07",
+      "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": "2022-01-20 09:18:07",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-01-20 09:18:07",
       "album": {
-        "name": "West Coast Live",
-        "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 727266,
-      "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
-      "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
-    },
-    {
-      "added_at": "2022-01-20 09:18:07",
-      "album": {
         "name": "Stan Getz Quartets (Remastered)",
         "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 366173,
       "name": "Nancy",
       "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
+    },
+    {
+      "added_at": "2022-01-20 09:18:07",
+      "album": {
+        "name": "West Coast Live",
+        "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 727266,
+      "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
+      "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
     },
     {
       "added_at": "2022-01-20 09:18:07",

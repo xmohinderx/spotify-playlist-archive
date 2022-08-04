@@ -2,9 +2,9 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DX27DJRLhzQiD)
 
-> Corina Smith y más mujeres, a todo volumen.
+> Milena Warthon y más mujeres, a todo volumen.
 
-111 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+112 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Déjala](https://open.spotify.com/track/4Aa6TYTI7q9SqnPKVA7Lfq) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [A Fuego](https://open.spotify.com/album/3W7PrpNjJDSFkOpAiITb7m) | 5:22 | 2022-01-05 |  |
 | [Déjenme Sufrir](https://open.spotify.com/track/3kwM3eVq6Eoe64zm3spri2) | [Katy Jara y Banda Mix](https://open.spotify.com/artist/0gQ8SI9XgOALHs21Tcxkdb) | [La Reyna del Sur](https://open.spotify.com/album/2L6syCnwuNfHJuDiFKXBPM) | 3:29 | 2022-01-05 |  |
 | [Elegiste Engañarme](https://open.spotify.com/track/348g4lfzjvOj2IslIqIRx0) | [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Elegiste Engañarme](https://open.spotify.com/album/6isazqBzKu6cPMfp6UpfPI) | 3:46 | 2022-01-05 | 2022-04-09 |
-| [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 | 2022-03-08 |  |
+| [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 | 2022-03-08 | 2022-08-04 |
 | [En Mis Sueños](https://open.spotify.com/track/2VcaRHo67bYVqGE3jTMxgN) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [En Mis Sueños](https://open.spotify.com/album/1vD0S9OkuoWrIT6734vTfB) | 3:19 | 2022-01-05 |  |
 | [Enamorada de Estar Aquí](https://open.spotify.com/track/1didaZajvBkMbhkOocwWMc) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Quédate en Casa](https://open.spotify.com/album/5oVIeMN13WEZehXOSHXiPq) | 4:38 | 2022-01-05 | 2022-02-03 |
 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 | 2022-01-05 |  |
@@ -116,6 +116,7 @@
 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 | 2022-02-02 | 2022-04-07 |
 | [Vivir Contigo](https://open.spotify.com/track/0XB66yNWY2LGLZrurpSkLG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Vivir Contigo](https://open.spotify.com/album/1QGGfBqYnDq2uwlVMDHLjs) | 4:24 | 2022-03-08 |  |
 | [Vuelve Conmigo](https://open.spotify.com/track/2BC7i4R4VYEpS4Z7n5DnEk) | [Agrupación Lérida](https://open.spotify.com/artist/69G64cEF3dvIU24OpNkDp6) | [Vuelve Conmigo](https://open.spotify.com/album/7MzVUXfTzdZelck07TcVt5) | 3:44 | 2022-01-05 |  |
+| [WARMISITAY](https://open.spotify.com/track/6PI8OSjXRVqzQA3S8lPnMl) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [WARMISITAY](https://open.spotify.com/album/27BrKlycAoVnEUDz1v5amr) | 3:24 | 2022-08-03 |  |
 | [Ya No Más](https://open.spotify.com/track/7rO7M4ZkvL0Ii9kXldescM) | [Susan Ochoa](https://open.spotify.com/artist/2LZ3j9FcPvimsXU44QgBWW) | [La Dueña Soy Yo](https://open.spotify.com/album/4S4qYoZpw1dfIaFTVii6jj) | 2:50 | 2022-01-05 | 2022-02-03 |
 | [¿Qué Voy a Hacer?](https://open.spotify.com/track/39VaE08TKJEJQLYyOBn8hM) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [¿Qué Voy a Hacer?](https://open.spotify.com/album/61TbtrFSK00wwyQVKGQ1R4) | 5:04 | 2022-02-02 | 2022-04-09 |
 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-02-02 |  |

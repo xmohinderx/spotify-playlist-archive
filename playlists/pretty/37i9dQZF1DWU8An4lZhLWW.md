@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

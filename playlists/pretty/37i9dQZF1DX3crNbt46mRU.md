@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,932 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,901 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 62 | [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 |
 | 63 | [Lost Myself To You](https://open.spotify.com/track/2hZXL9FpkPhwvTGxwcl115) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Lost Myself To You](https://open.spotify.com/album/4qiIlnLxM53kB7Lrm5qnNV) | 2:28 |
 | 64 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 |
-| 65 | [Kaum Bist Du Weg](https://open.spotify.com/track/7I3RKM56bJLsy4e0kMVhsS) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [Yrrre](https://open.spotify.com/artist/28YHID2MGPhoEJIuCxqdpO) | [Kaum Bist Du Weg](https://open.spotify.com/album/1eZZAJKD78LU8b0lmvQyyK) | 4:11 |
+| 65 | [Kaum Bist Du Weg](https://open.spotify.com/track/7I3RKM56bJLsy4e0kMVhsS) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC) | [Kaum Bist Du Weg](https://open.spotify.com/album/1eZZAJKD78LU8b0lmvQyyK) | 4:11 |
 | 66 | [Ready For Racing](https://open.spotify.com/track/0dVnj1vmHKBGofUC257OQ2) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Ready For Racing](https://open.spotify.com/album/5boAU9UknnTJeQ7DEikZDZ) | 2:43 |
 | 67 | [under fire](https://open.spotify.com/track/2VzBXKnCpSTEDI3n644voV) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [under fire](https://open.spotify.com/album/2JTCIjVD9CKOFkzArt5vXJ) | 2:26 |
 | 68 | [Crazy Love](https://open.spotify.com/track/2NWwmWKWdTZPajKSraIus3) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Crazy Love](https://open.spotify.com/album/7qwBGsPD8VT9jjPEKif07T) | 2:36 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 72 | [Bliss](https://open.spotify.com/track/3aFfyRh1YWvjtqsvoP1zW9) | [Telquist](https://open.spotify.com/artist/1P7bWg37j6b4baXFeNNzrE), [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Bliss](https://open.spotify.com/album/3Pw8zxwMkeOsMMrHSy6uR8) | 3:07 |
 | 73 | [Anywhere With You](https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:57 |
 | 74 | [Stadtleben](https://open.spotify.com/track/2KwpSnxJ71Fbn6jwadZ6i3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Stadtleben](https://open.spotify.com/album/1W02W9WinzciyqWVJgXbOa) | 2:37 |
-| 75 | [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 |
+| 75 | [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/2l94QRczQbAB2EIugAS0sA) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 3:28 |
 | 76 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 |
 | 77 | [Andere Welt \(feat\. Bukahara\)](https://open.spotify.com/track/6iqFJjOqavt20gfjiBxSow) | [il Civetto](https://open.spotify.com/artist/337iYuRKw6oyOfxsxRuR0o), [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Andere Welt \(feat\. Bukahara\)](https://open.spotify.com/album/7yXPPSWH5j1M6D7V4jhNnN) | 3:00 |
 | 78 | [More Than Happiness](https://open.spotify.com/track/0cXR1MtPFAzFNIp8Lz86Vr) | [Matija](https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9) | [More Than Happiness](https://open.spotify.com/album/2mn9476aTRoiFJ1KC14E0P) | 3:58 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 100 | [Bildschirmlicht](https://open.spotify.com/track/4WhS670tVK1LRizgQaxwJB) | [Nessi](https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA), [RGB1](https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6) | [Bildschirmlicht](https://open.spotify.com/album/2iF2FffvWCeEFIvMmmvaWl) | 3:24 |
 | 101 | [Morgen kickt der Kater](https://open.spotify.com/track/0VB7FDKebXYVAkqZinFRxc) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Morgen kickt der Kater](https://open.spotify.com/album/6rmvDE7rJxD35UMJWdRnxz) | 3:16 |
 
-Snapshot ID: `MTY1OTA4Mjk3MCwwMDAwMDAwMGI1MjFkNjZhODc0MDNkM2I0NTE5YmQ2ZTcxMGQ3ODVk`
+Snapshot ID: `MTY1OTA4Mjk3MCwwMDAwMDAwMDA1YjA1MWI1MjE5ZjgyMjVmYjFlYzFhYzU0MTU2ZTA4`

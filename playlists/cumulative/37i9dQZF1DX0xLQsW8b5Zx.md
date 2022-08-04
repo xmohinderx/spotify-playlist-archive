@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-160 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
+161 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Baby Did A Bad Bad Thing](https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Forever Blue](https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY) | 2:54 | 2022-07-05 |  |
 | [Baby Did A Bad Bad Thing \- Remastered](https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 2:56 | 2022-05-06 | 2022-07-24 |
 | [Baby I Don't Care](https://open.spotify.com/track/55YNkWt5V10Sg5dNzT2OKF) | [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Bluelight Rockabillies vol.3](https://open.spotify.com/album/2SuOS78WpeAQ45YAwPdwgQ) | 2:47 | 2022-05-06 | 2022-07-27 |
+| [Baby I Don't Care](https://open.spotify.com/track/04YEUXO7f7Bmbuilnwv0rA) | [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Face It](https://open.spotify.com/album/10OMUhwFGYP9es5wBaeS5B) | 2:48 | 2022-07-05 |  |
 | [Back In The USA](https://open.spotify.com/track/4Znz9jKTkZvCzW6CkBIhHK) | [Albert Lee & Hogan's Heroes](https://open.spotify.com/artist/2UnEg92EHEZyIfVYTkAl4H) | [Tear It Up](https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK) | 3:23 | 2022-05-06 |  |
 | [Backseat Education](https://open.spotify.com/track/426grzmxP94D7gBldxqv1A) | [Hellbilly Boys](https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5) | [Hellbilly Boys](https://open.spotify.com/album/6Q3q5EJ7u0WBBNzcJMAtHI) | 3:01 | 2022-05-06 | 2022-07-23 |
 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 | 2022-05-06 |  |
@@ -32,7 +33,7 @@
 | [Bless My Soul With Rock'n'Roll](https://open.spotify.com/track/47Kzl2db8dVG89s4P4RNMZ) | [PatC Miller And The Tailshakers](https://open.spotify.com/artist/0xKxb8ktWxhoAiEGBNJ7CG) | [Bless My Soul With Rock'n'Roll](https://open.spotify.com/album/6JMBKXr4PLnBhSBAgO4nGH) | 2:20 | 2022-05-06 | 2022-07-25 |
 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 | 2022-07-05 |  |
 | [Blue Suede Shoes \- Rerecorded](https://open.spotify.com/track/54ZYZamhvPMDMngC7RqHAE) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Best Of Carl Perkins](https://open.spotify.com/album/4dmKdBy6VzkQiwiEmiSs8c) | 2:20 | 2022-05-06 | 2022-07-24 |
-| [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 | 2022-05-06 |  |
+| [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 | 2022-05-06 | 2022-08-04 |
 | [Born to Rock](https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz) | [Snakebite](https://open.spotify.com/artist/1CHz4uPXCOAXMmjWXzPcJj) | [Rockin' up a Storm](https://open.spotify.com/album/6TxGY2mBLLsRjmHM4KCZs1) | 3:03 | 2022-05-06 | 2022-07-29 |
 | [Break Up](https://open.spotify.com/track/0oi84isjcRWATK9B98tzrt) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [The Buckaroos](https://open.spotify.com/album/5DSYQZQI4Hrv9Pkvf1T2ZN) | 2:16 | 2022-05-06 | 2022-06-22 |
 | [Bring That Money Honey](https://open.spotify.com/track/6BWuyU46e5AKYt2fmechag) | [Kingen](https://open.spotify.com/artist/4xF1WqgmgWBbLEXUWZZxne) | [It´s All About Groove](https://open.spotify.com/album/1VQOqXUST7DGn3GVAYABNu) | 2:50 | 2022-05-06 | 2022-07-10 |

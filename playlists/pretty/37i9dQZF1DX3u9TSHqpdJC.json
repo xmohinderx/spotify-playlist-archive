@@ -1,13 +1,125 @@
 {
-  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: CATTY, Artwork: Paola Saliby\n",
-  "num_followers": 164747,
+  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Abigail Osborn, Artwork: Paola Saliby\n",
+  "num_followers": 164803,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzNjMwNSwwMDAwMDAwMDcyODgwOWQxODBjZDY4MTA0M2U2YzY3MDQ4ZmI3OTcy",
+  "snapshot_id": "MTY1OTQ5OTIwMCwwMDAwMDAwMDVlMDdmOWVhNjk4NWY5Zjk5ODQwMWQyYWMyYzg1M2Zj",
   "tracks": [
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Gonna Get Over You",
+        "url": "https://open.spotify.com/album/4Dm82oqd0MJ1nWiruKKpOq"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Gonna Get Over You",
+      "url": "https://open.spotify.com/track/46xiqS8blL06iuufHUnNOC"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Drunk Crier",
+        "url": "https://open.spotify.com/album/2X0SwsSYdLgLwVQezibdyx"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bochner",
+          "url": "https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz"
+        }
+      ],
+      "duration_ms": 183855,
+      "name": "Drunk Crier",
+      "url": "https://open.spotify.com/track/4wFg10eSPhxvxxJZUnYS2r"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1HAOlIxcReAfHXyXk94QnJ"
+      },
+      "artists": [
+        {
+          "name": "Amber Ais",
+          "url": "https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/5cETeA9Fi1wyPXcWRjLlaE"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/4DrAm1TxMIsldiEoImRN1t"
+      },
+      "artists": [
+        {
+          "name": "Nate Poshkus",
+          "url": "https://open.spotify.com/artist/1iS1DwdPSG8vOsl967KsMg"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/193bxBTqeBCowixGZRbuYf"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "PDA",
+        "url": "https://open.spotify.com/album/4BkL6XR15aQOvDcpyPdWkF"
+      },
+      "artists": [
+        {
+          "name": "Franky",
+          "url": "https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW"
+        }
+      ],
+      "duration_ms": 182694,
+      "name": "PDA",
+      "url": "https://open.spotify.com/track/2p4b5rDiiGZyiSiLo6RPkB"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Something To Do",
+        "url": "https://open.spotify.com/album/0XJLMD9RzyHthbjvknBb1Q"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 184685,
+      "name": "Something To Do",
+      "url": "https://open.spotify.com/track/2u0KvopVcRlv254P7vkIAN"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "SFL",
+        "url": "https://open.spotify.com/album/6S7LTKEPEteXOX4avpmRZ3"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 214714,
+      "name": "SFL",
+      "url": "https://open.spotify.com/track/5iliOfNJD3TWtuwpZlXQgs"
+    },
     {
       "added_at": "2022-07-27 14:59:41",
       "album": {
@@ -23,6 +135,138 @@
       "duration_ms": 194549,
       "name": "Maybe All the Rumours Are True",
       "url": "https://open.spotify.com/track/5TOypkLxV6SDEIePb7lvox"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Make Me Wanna",
+        "url": "https://open.spotify.com/album/0SbucIFxuOANgxW33sMluo"
+      },
+      "artists": [
+        {
+          "name": "Baby Jane",
+          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
+        }
+      ],
+      "duration_ms": 165194,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/1LcoGvOnn5XhD016aeDELU"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Lil 5i5",
+        "url": "https://open.spotify.com/album/2urovRRxrCSC1jHpmTaCPG"
+      },
+      "artists": [
+        {
+          "name": "Cassie Marin",
+          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
+        }
+      ],
+      "duration_ms": 143390,
+      "name": "Lil 5i5",
+      "url": "https://open.spotify.com/track/0JICfGZ5v3CHoUwFz9Cl6W"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "EVERYBODY'S GONNA DIE!",
+        "url": "https://open.spotify.com/album/23ZAsoQQ5Bjnxihm4sAsBm"
+      },
+      "artists": [
+        {
+          "name": "Zia Victoria",
+          "url": "https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE"
+        }
+      ],
+      "duration_ms": 145025,
+      "name": "EVERYBODY'S GONNA DIE!",
+      "url": "https://open.spotify.com/track/3YG44aJtUMUtT1OB85s4LK"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "frame it",
+        "url": "https://open.spotify.com/album/0loqTYdnHr3KfNzIok2PkP"
+      },
+      "artists": [
+        {
+          "name": "Llunr",
+          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "frame it",
+      "url": "https://open.spotify.com/track/00vY0JBNlplMF3fg4aJgRM"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Praying Mantis",
+        "url": "https://open.spotify.com/album/2iY4bTtDmlhQsDadU1JhcN"
+      },
+      "artists": [
+        {
+          "name": "Jazz Alonso",
+          "url": "https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY"
+        }
+      ],
+      "duration_ms": 140545,
+      "name": "Praying Mantis",
+      "url": "https://open.spotify.com/track/49mWbv2QAAvWWmGwvhTAnk"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Movie (feat. GABE ISAAC)",
+        "url": "https://open.spotify.com/album/5zYGDLgR6SGDWefHxD2866"
+      },
+      "artists": [
+        {
+          "name": "Adam Turley",
+          "url": "https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF"
+        },
+        {
+          "name": "GABE ISAAC",
+          "url": "https://open.spotify.com/artist/06r3I5cxbnTTLZp8kAyTBB"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "Movie (feat. GABE ISAAC)",
+      "url": "https://open.spotify.com/track/4Dl4SJlsRMV60Km0TJKaLb"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Emilia",
+        "url": "https://open.spotify.com/album/6VVsMf5dAJGbiVmGrBUQTx"
+      },
+      "artists": [
+        {
+          "name": "Issadora Ava",
+          "url": "https://open.spotify.com/artist/4c4l8i28GGXPheP0HnRORl"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "Emilia",
+      "url": "https://open.spotify.com/track/2m5wukNq4cGq45piyAbwy1"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Being Good Is Boring",
+        "url": "https://open.spotify.com/album/6asqvl3ZX2moMrkpowonUr"
+      },
+      "artists": [
+        {
+          "name": "Jena Rose",
+          "url": "https://open.spotify.com/artist/05cgS2xJt75RhmFWgpgfE7"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "Being Good Is Boring",
+      "url": "https://open.spotify.com/track/6UXWq2vWpHeTZlMIFyEWIn"
     },
     {
       "added_at": "2022-07-27 14:59:41",
@@ -963,54 +1207,6 @@
       "duration_ms": 160754,
       "name": "plain chip",
       "url": "https://open.spotify.com/track/3OnjXW05hcOQ8aXhj1rlPv"
-    },
-    {
-      "added_at": "2022-07-06 14:33:18",
-      "album": {
-        "name": "home",
-        "url": "https://open.spotify.com/album/35AY0CysZ16bapvMLM69ZJ"
-      },
-      "artists": [
-        {
-          "name": "Ss.hh.a.n.a",
-          "url": "https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE"
-        }
-      ],
-      "duration_ms": 185086,
-      "name": "home",
-      "url": "https://open.spotify.com/track/1RB220WNY36lP8i50pseMZ"
-    },
-    {
-      "added_at": "2022-07-06 14:33:18",
-      "album": {
-        "name": "You Don't Decide",
-        "url": "https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59"
-      },
-      "artists": [
-        {
-          "name": "Blake",
-          "url": "https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa"
-        }
-      ],
-      "duration_ms": 161512,
-      "name": "You Don't Decide",
-      "url": "https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s"
-    },
-    {
-      "added_at": "2022-07-06 14:33:18",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0e1duhKpJ6Kik6d77iLe4w"
-      },
-      "artists": [
-        {
-          "name": "W1ZE",
-          "url": "https://open.spotify.com/artist/5yEpeaMokz3lTtjloWgQO5"
-        }
-      ],
-      "duration_ms": 152041,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4aflKB9woUwqWTqYvHR1GL"
     },
     {
       "added_at": "2022-06-29 04:00:00",

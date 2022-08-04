@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-473 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
+474 songs - 23 hr 2 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Fallin](https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Fallin](https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt) | 2:01 | 2022-01-28 | 2022-07-24 |
 | [Falling](https://open.spotify.com/track/0WbeKItEoJIPlo8GkzlHCw) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Falling](https://open.spotify.com/album/44hLQThkyttusgoILcncyl) | 2:35 | 2022-03-11 | 2022-06-29 |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2021-09-03 | 2022-06-11 |
-| [Fashion \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/7rapKkAuIuSU1cezDgxspo) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:50 | 2022-07-28 |  |
+| [Fashion \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/29xgeqUtLbNTwxLSoLufjF) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:50 | 2022-07-28 |  |
+| [Fashion \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/7rapKkAuIuSU1cezDgxspo) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:50 | 2022-07-28 | 2022-08-04 |
 | [Feeling Myself Today](https://open.spotify.com/track/5dABkHkvA7ud5nmDUArJ4r) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 3:08 | 2021-09-03 | 2022-04-20 |
 | [Feelings](https://open.spotify.com/track/3bunovg8ep6uXccEg5RUAy) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Feelings](https://open.spotify.com/album/2cpblTGZISVH05oyaXcW89) | 2:17 | 2021-09-03 | 2022-04-19 |
 | [Feen](https://open.spotify.com/track/2qTcJF53V5rsJd82CVFadL) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [L.O.V.E\. \(Deluxe\)](https://open.spotify.com/album/7oogc2HscinoahzGe8INuf) | 2:59 | 2021-09-03 | 2022-04-16 |

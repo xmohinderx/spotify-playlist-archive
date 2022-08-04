@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-230 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
+231 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [please love her](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 | 2022-02-17 |  |
 | [RHYTHM TA](https://open.spotify.com/track/7czyJpFnAl18Bwye8wETky) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [DEBUT HALF ALBUM 'WELCOME BACK'](https://open.spotify.com/album/5CwTN4j1Ai5BfF5J9c8LHw) | 3:47 | 2021-03-11 | 2022-02-18 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2022-02-17 | 2022-07-29 |
-| [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-02-23 |  |
+| [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-02-23 | 2022-08-04 |
+| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-02-23 |  |
 | [Sad Drinking](https://open.spotify.com/track/4vWJK2WkbYLu2abTJzF9lx) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Sad Drinking](https://open.spotify.com/album/7i0w4vvXqSY6mYI1Rudm0n) | 3:25 | 2022-02-23 |  |
 | [Sad Drinking 이별주](https://open.spotify.com/track/483lZEJ94T2Mfn0V8vaTx0) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Sad Drinking 이별주](https://open.spotify.com/album/1rr50Nd8RUQ9K7GvcrD7Cn) | 3:25 | 2022-02-17 | 2022-07-29 |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2022-02-17 |  |

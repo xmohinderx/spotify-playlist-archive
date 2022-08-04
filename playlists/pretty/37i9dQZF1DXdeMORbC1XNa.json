@@ -1,12 +1,12 @@
 {
   "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: King Promise",
-  "num_followers": 262967,
+  "num_followers": 263074,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0NDQwMCwwMDAwMDAwMDI4Y2IwMzMyYmM4OTcwNjlhZDQ3ZTJiY2U0YjA1OTU0",
+  "snapshot_id": "MTY1ODQ0NDQwMCwwMDAwMDAwMGI1ZDE4OTg0ZDg3ZDdmMjYwNjg0ZDNjMDhjMzQzZmU2",
   "tracks": [
     {
       "added_at": "2022-07-21 23:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-07-21 23:00:00",
       "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219668,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-07-21 23:00:00",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
         "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 288849,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD"
-      },
-      "artists": [
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz"
     },
     {
       "added_at": "2022-07-21 23:00:00",

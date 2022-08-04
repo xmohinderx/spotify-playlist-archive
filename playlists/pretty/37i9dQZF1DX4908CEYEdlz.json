@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bush",
-  "num_followers": 702109,
+  "num_followers": 702177,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2NDUxMSwwMDAwMDAwMGRjZTBiMzA2ZTQzMWY1ZjcxM2IzMzVkYjM2YTA1YjJk",
+  "snapshot_id": "MTY1OTM2NDUxMSwwMDAwMDAwMGQxZDExYjc4YTM1MDFkMzk5ZjdiZmZlNWM5MDU1MmI5",
   "tracks": [
     {
       "added_at": "2022-08-01 14:35:11",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
+        "name": "Metamorph",
+        "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6"
+    },
+    {
+      "added_at": "2022-08-01 14:35:11",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
-    },
-    {
-      "added_at": "2022-08-01 14:35:11",
-      "album": {
-        "name": "Metamorph",
-        "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6"
     },
     {
       "added_at": "2022-08-01 14:35:11",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
-    },
-    {
-      "added_at": "2022-08-01 14:35:11",
-      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 259173,
       "name": "Temple Of Ekur",
       "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
+    },
+    {
+      "added_at": "2022-08-01 14:35:11",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 222738,
+      "name": "Planet Zero",
+      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
     },
     {
       "added_at": "2022-08-01 14:35:11",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
+        "name": "No More Tears To Cry",
+        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 221433,
+      "name": "No More Tears To Cry",
+      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
+    },
+    {
+      "added_at": "2022-08-01 14:35:11",
+      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
-        "name": "No More Tears To Cry",
-        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 221433,
-      "name": "No More Tears To Cry",
-      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
-    },
-    {
-      "added_at": "2022-08-01 14:35:11",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
-        "name": "The Steeple",
-        "url": "https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
-    },
-    {
-      "added_at": "2022-08-01 14:35:11",
-      "album": {
         "name": "Everything We Need",
         "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 185200,
       "name": "Everything We Need",
       "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
+    },
+    {
+      "added_at": "2022-08-01 14:35:11",
+      "album": {
+        "name": "The Steeple",
+        "url": "https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
     },
     {
       "added_at": "2022-08-01 14:35:11",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-01 14:35:11",
       "album": {
-        "name": "Worst Is On Its Way (Requiem Mass)",
-        "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "Worst Is On It's Way - Requiem Mass",
-      "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
-    },
-    {
-      "added_at": "2022-08-01 14:35:11",
-      "album": {
         "name": "4 (feat. Myles Kennedy and The Conspirators)",
         "url": "https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 241954,
       "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
+    },
+    {
+      "added_at": "2022-08-01 14:35:11",
+      "album": {
+        "name": "Worst Is On Its Way (Requiem Mass)",
+        "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Worst Is On It's Way - Requiem Mass",
+      "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
     },
     {
       "added_at": "2022-08-01 14:35:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en summer vibes! Cover: Bokoesam
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,408 likes - 78 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,469 likes - 78 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

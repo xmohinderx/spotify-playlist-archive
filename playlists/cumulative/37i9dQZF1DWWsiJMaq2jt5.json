@@ -724,6 +724,24 @@
     },
     {
       "album": {
+        "name": "Bolesne ko\u015bci (Tymoteusz)",
+        "url": "https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M"
+      },
+      "artists": [
+        {
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244272,
+      "name": "Bolesne ko\u015bci (Tymoteusz)",
+      "url": "https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su"
+    },
+    {
+      "album": {
         "name": "Bonjour Madame",
         "url": "https://open.spotify.com/album/30jEIdrhc7WJfbeWaxdZL2"
       },
@@ -8447,6 +8465,10 @@
         {
           "name": "KUBA",
           "url": "https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
         }
       ],
       "date_added": "2022-08-02",

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 336234,
+  "num_followers": 336780,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTYwODMxOSwwMDAwMDAwMDIxZDYxMDlkOTJlY2IwMDVhZDFlNTNhNTM1NTJlMDYy",
+  "snapshot_id": "MTY0NTYwODMxOSwwMDAwMDAwMDQ1YjY1MmFjNjkxMjg1NjNkMmY2YTVmNzA1NDk5Nzk1",
   "tracks": [
     {
       "added_at": "2022-02-23 09:25:19",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
       "artists": [
         {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
         }
       ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+      "duration_ms": 228613,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 197710,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP"
-    },
-    {
-      "added_at": "2022-02-23 09:25:19",
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -655,22 +639,6 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "Cold Blooded",
-        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
-    },
-    {
-      "added_at": "2022-02-23 09:25:19",
-      "album": {
         "name": "FIRST 'LOVE&LETTER'",
         "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 207299,
       "name": "Pretty U",
       "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
+    },
+    {
+      "added_at": "2022-02-23 09:25:19",
+      "album": {
+        "name": "Cold Blooded",
+        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -703,22 +687,6 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209392,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y"
-    },
-    {
-      "added_at": "2022-02-23 09:25:19",
-      "album": {
         "name": "I Am The Best",
         "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
       },
@@ -731,6 +699,22 @@
       "duration_ms": 208730,
       "name": "I Am The Best",
       "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
+    },
+    {
+      "added_at": "2022-02-23 09:25:19",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209392,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -883,22 +867,6 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "LOTTO - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 189774,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/6ukWoX4AHV76JdYVdKRPk8"
-    },
-    {
-      "added_at": "2022-02-23 09:25:19",
-      "album": {
         "name": "ALL ABOUT LUV",
         "url": "https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 171273,
       "name": "GOT MY NUMBER",
       "url": "https://open.spotify.com/track/2QI91Tq1F2Tl0slIaSegs1"
+    },
+    {
+      "added_at": "2022-02-23 09:25:19",
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 189774,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/6ukWoX4AHV76JdYVdKRPk8"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -1115,22 +1099,6 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "Dear OHMYGIRL",
-        "url": "https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN"
-      },
-      "artists": [
-        {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Dun Dun Dance",
-      "url": "https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF"
-    },
-    {
-      "added_at": "2022-02-23 09:25:19",
-      "album": {
         "name": "The Boys",
         "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
       },
@@ -1143,6 +1111,22 @@
       "duration_ms": 226906,
       "name": "The Boys",
       "url": "https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg"
+    },
+    {
+      "added_at": "2022-02-23 09:25:19",
+      "album": {
+        "name": "Dear OHMYGIRL",
+        "url": "https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Dun Dun Dance",
+      "url": "https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 190821,
+      "name": "View",
+      "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+    },
+    {
+      "added_at": "2022-02-23 09:25:19",
+      "album": {
         "name": "KARD 1st Digital Single \u2018Bomb Bomb\u2019",
         "url": "https://open.spotify.com/album/61X9zu44fHnOjjqIYu05Rc"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "Odd - The 4th Album",
-        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/4A9lWTDR5cObUYfO2IzK8c"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 190821,
-      "name": "View",
-      "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+      "duration_ms": 187186,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/1bIbXKrXRxfNh1l9a9lN2Q"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "THE BOYZ 5th MINI ALBUM [CHASE]",
-        "url": "https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT"
+        "name": "FUN FACTORY",
+        "url": "https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF"
       },
       "artists": [
         {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 210938,
-      "name": "The Stealer",
-      "url": "https://open.spotify.com/track/2DQgD8rAJLKNptQFK70ndO"
+      "duration_ms": 183413,
+      "name": "FUN!",
+      "url": "https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -1387,34 +1387,18 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/4A9lWTDR5cObUYfO2IzK8c"
+        "name": "THE BOYZ 5th MINI ALBUM [CHASE]",
+        "url": "https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
         }
       ],
-      "duration_ms": 187186,
-      "name": "ALL IN",
-      "url": "https://open.spotify.com/track/1bIbXKrXRxfNh1l9a9lN2Q"
-    },
-    {
-      "added_at": "2022-02-23 09:25:19",
-      "album": {
-        "name": "FUN FACTORY",
-        "url": "https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "FUN!",
-      "url": "https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH"
+      "duration_ms": 210938,
+      "name": "The Stealer",
+      "url": "https://open.spotify.com/track/2DQgD8rAJLKNptQFK70ndO"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -1431,22 +1415,6 @@
       "duration_ms": 202605,
       "name": "NalinA",
       "url": "https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9"
-    },
-    {
-      "added_at": "2022-02-23 09:25:19",
-      "album": {
-        "name": "THE BOYZ 3rd Single Album [MAVERICK]",
-        "url": "https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "MAVERICK",
-      "url": "https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -1563,6 +1531,22 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
+        "name": "THE BOYZ 3rd Single Album [MAVERICK]",
+        "url": "https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "MAVERICK",
+      "url": "https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO"
+    },
+    {
+      "added_at": "2022-02-23 09:25:19",
+      "album": {
         "name": "HER",
         "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
       },
@@ -1579,22 +1563,6 @@
     {
       "added_at": "2022-02-23 09:25:19",
       "album": {
-        "name": "PLAY - The 8th Album",
-        "url": "https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 201111,
-      "name": "Black Suit",
-      "url": "https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs"
-    },
-    {
-      "added_at": "2022-02-23 09:25:19",
-      "album": {
         "name": "FLIGHT LOG : ARRIVAL",
         "url": "https://open.spotify.com/album/4jMq9hcatjFMJlPb4IpoI5"
       },
@@ -1607,6 +1575,22 @@
       "duration_ms": 194407,
       "name": "Never Ever",
       "url": "https://open.spotify.com/track/4tzkSoh450XnimhNWVmBhg"
+    },
+    {
+      "added_at": "2022-02-23 09:25:19",
+      "album": {
+        "name": "PLAY - The 8th Album",
+        "url": "https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 201111,
+      "name": "Black Suit",
+      "url": "https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs"
     },
     {
       "added_at": "2022-02-23 09:25:19",
@@ -1639,6 +1623,22 @@
       "duration_ms": 217320,
       "name": "Chi Mat Ba Ram",
       "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
+    },
+    {
+      "added_at": "2022-02-23 09:25:19",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/3X1fI5m8vwpqzCfhELxl2T"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "duration_ms": 198008,
+      "name": "\ub2e4\ub978 \ub0a8\uc790 \ub9d0\uace0 \ub108 Only You",
+      "url": "https://open.spotify.com/track/09CAOGrMHucCFL64TYGJ7H"
     }
   ],
   "unique_name": "Energy Booster: K-Pop",

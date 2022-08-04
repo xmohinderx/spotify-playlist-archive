@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 60369,
+  "num_followers": 60427,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5MDgyOCwwMDAwMDAwMDA5N2IxMjU2YTRjNDJiNDY1NWM4MDg3OGRkM2ZlZjE4",
+  "snapshot_id": "MTY1OTA5MDgyOCwwMDAwMDAwMDgxNTFmOTkwMzAwMzZkMjZmYmQ5NGM4ZTQ2YjhhZTg2",
   "tracks": [
     {
       "added_at": "2022-07-29 10:33:48",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "Blues In Mono",
-        "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Well Well Well",
-      "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -167,18 +151,18 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "The Slide Guitar: Bottles, Knives & Steel",
-        "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
+        "name": "Blues In Mono",
+        "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
       },
       "artists": [
         {
-          "name": "Sylvester Weaver",
-          "url": "https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb"
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Guitar Rag",
-      "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
+      "duration_ms": 150733,
+      "name": "Well Well Well",
+      "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -195,6 +179,22 @@
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
+        "name": "The Slide Guitar: Bottles, Knives & Steel",
+        "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Weaver",
+          "url": "https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Guitar Rag",
+      "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 215662,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 204000,
       "name": "Butter and Eggs",
       "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 215662,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Will Stratton",
+          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Hemet Pine Singer",
+      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
         "name": "Down in Mississippi",
         "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 384000,
       "name": "In the Morning Twilight",
       "url": "https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Will Stratton",
-          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Hemet Pine Singer",
-      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
         "name": "Legs to Make us Longer",
         "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
       },
       "artists": [
         {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -579,6 +563,22 @@
       "duration_ms": 154924,
       "name": "New Anthem",
       "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
+      },
+      "artists": [
+        {
+          "name": "Danny Paul Grody",
+          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
+        }
+      ],
+      "duration_ms": 303946,
+      "name": "Natural West",
+      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG"
+        "name": "Detroit Blues",
+        "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
       },
       "artists": [
         {
-          "name": "DBH",
-          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+          "name": "Danny Kroha",
+          "url": "https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb"
         }
       ],
-      "duration_ms": 213961,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML"
+      "duration_ms": 169039,
+      "name": "Detroit Blues",
+      "url": "https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "Detroit Blues",
-        "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG"
       },
       "artists": [
         {
-          "name": "Danny Kroha",
-          "url": "https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb"
+          "name": "DBH",
+          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
         }
       ],
-      "duration_ms": 169039,
-      "name": "Detroit Blues",
-      "url": "https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq"
+      "duration_ms": 213961,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
-      },
-      "artists": [
-        {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Imaginational Anthem",
-      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
         "name": "Bootleg USA",
         "url": "https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 339320,
       "name": "Plains of Waterloo / James Connolly",
       "url": "https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Imaginational Anthem",
+      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
     },
     {
       "added_at": "2022-07-29 10:33:48",

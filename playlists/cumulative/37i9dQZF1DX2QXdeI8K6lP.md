@@ -4,7 +4,7 @@
 
 > Música que te hará suspirar como en aquellos años dorados\. En portada: Los Panchos
 
-178 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4VWZ2LGtzV2ErHEXEj9GJc)
+179 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/4VWZ2LGtzV2ErHEXEj9GJc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Los Aretes De La Luna](https://open.spotify.com/track/5O1qLn6D0EJTba2s1ZSb2T) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Más Ternura De La Sonora Matancera](https://open.spotify.com/album/6q3cPFbUY6l10wZ2RI56QR) | 2:23 | 2021-10-01 |  |
 | [Los Aretes De La Luna](https://open.spotify.com/track/6j7AavgVOm42wPdRU5zSsy) | [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [65 Aniversario](https://open.spotify.com/album/09GqM17oHYAcGLMHn6wE4Y) | 2:25 | 2021-10-01 | 2022-07-29 |
 | [Luna de octubre](https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN) | [Trio Hermanos Michel](https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK) | [Serenatas](https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ) | 2:40 | 2021-10-01 | 2022-07-29 |
-| [Luna de octubre](https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9) | [Trio Hermanos Michel](https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK) | [Antología..\. Hermanos Michel](https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL) | 2:43 | 2021-10-01 |  |
+| [Luna de octubre](https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9) | [Trio Hermanos Michel](https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK) | [Antología..\. Hermanos Michel](https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL) | 2:43 | 2021-10-01 | 2022-08-04 |
 | [Luna Orgullosa](https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:21 | 2021-10-01 |  |
 | [Mar y Cielo](https://open.spotify.com/track/1Y4Mmj1ssPrXQpkImdctyA) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 2:43 | 2021-10-01 |  |
 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 | 2021-10-01 | 2022-07-25 |
@@ -162,6 +162,7 @@
 | [Son De La Loma](https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC) | [Trio Caribe](https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX) | [15 Canciones Inolvidables Con el Trío Caribe](https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS) | 2:45 | 2021-10-01 |  |
 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 | 2021-10-01 |  |
 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 | 2021-10-01 |  |
+| [Te Amaré Toda la Vida](https://open.spotify.com/track/0Rc0EKY8krlTnrBHwVyJSr) | [Trio Fantasia](https://open.spotify.com/artist/2APenj3Xk0M7dVCtFZGm3X) | [Bolerísimo](https://open.spotify.com/album/6FD7LaF3pJ6E3nLRm1LA4D) | 2:47 | 2021-10-01 |  |
 | [Te Amaré Toda la Vida](https://open.spotify.com/track/38Xl6yvYoEXl6cQB4LJkVK) | [Trio Fantasia](https://open.spotify.com/artist/2APenj3Xk0M7dVCtFZGm3X) | [Bolerísimo](https://open.spotify.com/album/5tTmmdEgSQC0fve2PJAu09) | 2:47 | 2021-10-01 | 2022-07-27 |
 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 | 2021-10-01 |  |
 | [Toda Una Vida](https://open.spotify.com/track/1ter8c0ngrbC23lfKLrCan) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Boleros De Los Panchos, Vol\. 2](https://open.spotify.com/album/1ubW9KMjzTp6Hyz9VTeniU) | 2:40 | 2021-12-26 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-703 songs - 1 day 12 hr 44 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+704 songs - 1 day 12 hr 46 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Bieber Van De Kroeg](https://open.spotify.com/track/0RRTQ89tQcyQG2hf54N8fz) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Bieber Van De Kroeg](https://open.spotify.com/album/5Iap2wOtZdD37ukTvfxlev) | 3:06 | 2022-02-26 |  |
 | [Bigger Than Life](https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Bigger Than Life](https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G) | 2:40 | 2022-07-02 | 2022-07-04 |
 | [Bikini](https://open.spotify.com/track/2yqSgr8sMvM0jlFj4Aqx7B) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Bikini](https://open.spotify.com/album/0OzrYJjcyo7KHC08SyrDlI) | 3:01 | 2022-05-28 | 2022-06-27 |
-| [Birkin Bag](https://open.spotify.com/track/4xaBKeAszBi3Foy0Pqi9Bm) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Birkin Bag](https://open.spotify.com/album/6xOmIYrlrR0SGcHJqgfXEe) | 3:05 | 2022-07-23 |  |
+| [Birkin Bag](https://open.spotify.com/track/4xaBKeAszBi3Foy0Pqi9Bm) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Birkin Bag](https://open.spotify.com/album/6xOmIYrlrR0SGcHJqgfXEe) | 3:05 | 2022-07-23 | 2022-08-04 |
 | [Birth Of A New Age](https://open.spotify.com/track/5GVMXVYBFyUeq1jz8IsGRq) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Birth Of A New Age](https://open.spotify.com/album/5vfSBA3TW0hrD6bWsB5rqC) | 2:53 | 2021-05-23 | 2021-05-29 |
 | [Blender](https://open.spotify.com/track/4n03FrUmeUuPE8U6mnKiV3) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Bodemboy](https://open.spotify.com/album/7oji6I8NLtUtm13HlyUEIl) | 2:25 | 2021-04-11 | 2021-04-13 |
 | [Blijf Geloven](https://open.spotify.com/track/1NDWUwpKlB8xEiDuoydPv5) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Blijf Geloven](https://open.spotify.com/album/2kcQn4678DrmWpWhU1AzNs) | 2:38 | 2021-06-20 | 2021-07-02 |
@@ -422,6 +422,7 @@
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-11 | 2022-03-06 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-21 |
 | [Maandag](https://open.spotify.com/track/7ytBShb0bkPe6HcJtMgzQx) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Highest](https://open.spotify.com/album/5b7fMHNr6swGnrLALMNrrr) | 3:07 | 2021-03-27\* | 2021-04-04 |
+| [Maffia](https://open.spotify.com/track/6anqeGcrQ0GkHHhaVWld0J) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maffia](https://open.spotify.com/album/4JRXoC0IikQyh8SPq9kB3D) | 2:15 | 2022-08-03 |  |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-14 |
 | [Manana](https://open.spotify.com/track/1WyWsoJu92uE6shu3iC34U) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Manana](https://open.spotify.com/album/0EAvWZdw8K5RPfAD3djFX9) | 2:28 | 2022-02-19 | 2022-02-27 |
 | [MANSORY](https://open.spotify.com/track/1pnjvEwTPRCc3luh7K6nXC) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Verzegeld](https://open.spotify.com/album/3HHMZGHbmfuD0arTAnFOnl) | 4:05 | 2021-03-27\* | 2021-04-06 |

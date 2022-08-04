@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,965 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,042 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 35 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
 | 36 | [Do you Feel Like I do?](https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF) | [Another Chemical Love Story](https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv) | [Do you Feel Like I do?](https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb) | 6:38 |
 | 37 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
-| 38 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
-| 39 | [In My Arms](https://open.spotify.com/track/7f6a2LWROn1HQlG97hDIg6) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [In My Arms](https://open.spotify.com/album/3WALyLgFg8b8r4y31MQRZ0) | 3:25 |
+| 38 | [In My Arms](https://open.spotify.com/track/7f6a2LWROn1HQlG97hDIg6) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [In My Arms](https://open.spotify.com/album/3WALyLgFg8b8r4y31MQRZ0) | 3:25 |
+| 39 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
 | 40 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
 | 41 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
 | 42 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 53 | [It’s Alright](https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Paris Brightledge](https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul) | [It’s Alright](https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg) | 3:30 |
 | 54 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
 | 55 | [Sometimes](https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq) | [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Sometimes](https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1) | 5:54 |
-| 56 | [Gullible](https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Gullible](https://open.spotify.com/album/3J3hQHIAUdScU2PgBH2xbO) | 3:12 |
+| 56 | [GULLIBLE](https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [GULLIBLE](https://open.spotify.com/album/3J3hQHIAUdScU2PgBH2xbO) | 3:12 |
 | 57 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
 | 58 | [All Love](https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [All Love](https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB) | 5:30 |
 | 59 | [You Can Not Hold Back \(feat\. Koffee\) \- \[Edit\]](https://open.spotify.com/track/5hECCXn5TAixa5WkwTbv2i) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Nervous Brooklyn Sessions 2020](https://open.spotify.com/album/50e5D9fawQngkhs5c9XROS) | 2:36 |
 | 60 | [Tonight](https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik) | [CHEBO](https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz) | [Tonight](https://open.spotify.com/album/5eUitT6YJ0tKPE7VflH3HY) | 3:12 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGVmNTIzNTA3NWFkM2Q3NmU5ODk0MDQ1NTc5NWMwMDFi`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGZlM2ZiZmRjNjlkMzlmNjBlZjdlNzMzYzcyZTU2NjY3`

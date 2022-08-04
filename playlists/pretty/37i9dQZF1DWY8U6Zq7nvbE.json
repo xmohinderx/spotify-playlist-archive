@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs right now.",
-  "num_followers": 1117536,
+  "num_followers": 1117578,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMGJhMGM1NDI1Y2VhNGYzZTQ5OTU5ZTcyNmNmOTliNGZh",
+  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMGViOGU1OTc1MTBmNWJhNjUzNjFlOWY0ZTE4ODU5ODcw",
   "tracks": [
     {
       "added_at": "2021-03-11 23:02:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Memories (Acoustic)",
-        "url": "https://open.spotify.com/album/0wNdH4MR2O0YvIa41x7v3Y"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 183337,
-      "name": "Memories (Acoustic)",
-      "url": "https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
         "url": "https://open.spotify.com/album/0Re517YSoO235oK01cWnJI"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 208437,
       "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
       "url": "https://open.spotify.com/track/4siZLgCKM0IKnD1ek6Bt4d"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Memories (Acoustic)",
+        "url": "https://open.spotify.com/album/0wNdH4MR2O0YvIa41x7v3Y"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 183337,
+      "name": "Memories (Acoustic)",
+      "url": "https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
+        "name": "New Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/3m0kHSihqqWRVj78F20nNv"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Jaclyn Davies",
+          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "New Eyes - Acoustic",
+      "url": "https://open.spotify.com/track/5DT4EK2kBjooW9mKACFodW"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 162129,
       "name": "Stack It Up - Acoustic",
       "url": "https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
-        "name": "New Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/3m0kHSihqqWRVj78F20nNv"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        },
-        {
-          "name": "Jaclyn Davies",
-          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "New Eyes - Acoustic",
-      "url": "https://open.spotify.com/track/5DT4EK2kBjooW9mKACFodW"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Birthday (Acoustic)",
-        "url": "https://open.spotify.com/album/2iSzHLWG3apDixiLpOYiOa"
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/4SDJD7TxUqwR7yvqkJ6VLF"
       },
       "artists": [
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "Emmie Reins",
+          "url": "https://open.spotify.com/artist/0VmhvPRTiSbS9ndW7wjuDb"
         }
       ],
-      "duration_ms": 179522,
-      "name": "Birthday - Acoustic",
-      "url": "https://open.spotify.com/track/6QdGUZpcyH1JZoVKEmfLQH"
+      "duration_ms": 209009,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/2QaTtQ3bvllhg2Ot5CpgtC"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "If I Can't Have You",
-        "url": "https://open.spotify.com/album/4SDJD7TxUqwR7yvqkJ6VLF"
+        "name": "Birthday (Acoustic)",
+        "url": "https://open.spotify.com/album/2iSzHLWG3apDixiLpOYiOa"
       },
       "artists": [
         {
-          "name": "Emmie Reins",
-          "url": "https://open.spotify.com/artist/0VmhvPRTiSbS9ndW7wjuDb"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 209009,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/2QaTtQ3bvllhg2Ot5CpgtC"
+      "duration_ms": 179522,
+      "name": "Birthday - Acoustic",
+      "url": "https://open.spotify.com/track/6QdGUZpcyH1JZoVKEmfLQH"
     },
     {
       "added_at": "2021-03-11 23:02:00",

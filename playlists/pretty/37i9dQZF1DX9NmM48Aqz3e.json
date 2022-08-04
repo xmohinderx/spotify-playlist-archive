@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 47663,
+  "num_followers": 47681,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDgxYjM3NTE0ZWQ3ZjU3MDFkOGI0ZjU0ZWU3MmEzMzVl",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDdlZjRkMzA2MTdhMmE3Y2Q2MWI5NmVmMTEyNTdmMTQ3",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Five Days in July",
-        "url": "https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm"
-      },
-      "artists": [
-        {
-          "name": "Blue Rodeo",
-          "url": "https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0"
-        }
-      ],
-      "duration_ms": 313920,
-      "name": "Hasn't Hit Me Yet - 2012 Remaster",
-      "url": "https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 247306,
       "name": "Building a Mystery",
       "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Five Days in July",
+        "url": "https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm"
+      },
+      "artists": [
+        {
+          "name": "Blue Rodeo",
+          "url": "https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0"
+        }
+      ],
+      "duration_ms": 313920,
+      "name": "Hasn't Hit Me Yet - 2012 Remaster",
+      "url": "https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz"
     },
     {
       "added_at": "2021-09-21 20:57:50",

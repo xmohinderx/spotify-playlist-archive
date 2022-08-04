@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 427,
+  "num_followers": 519,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2MzEwNSwwMDAwMDAwMGVjNGU0ZGQzNzVhNDgyMjQ5NDJjNWVhYWVmMDNmZGM3",
+  "snapshot_id": "MTY1OTQ2MzEwNSwwMDAwMDAwMDU0Y2Q5N2E0NWRmNDA5Mjc3YWIzNTcxNGU0NTcwMWY5",
   "tracks": [
     {
       "added_at": "2022-08-02 17:58:25",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
+        "name": "Scene Stealers",
+        "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        }
+      ],
+      "duration_ms": 277509,
+      "name": "Ain\u2019t No Party Like an AOMG Party",
+      "url": "https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
         "name": "Birthday Gamble",
         "url": "https://open.spotify.com/album/2oSy345wiVnqgSEqPcTiOK"
       },
@@ -2031,26 +2051,6 @@
       "duration_ms": 282279,
       "name": "Birthday - Remix",
       "url": "https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
-        "name": "Scene Stealers",
-        "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        }
-      ],
-      "duration_ms": 277509,
-      "name": "Ain\u2019t No Party Like an AOMG Party",
-      "url": "https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 240736,
-      "name": "Ride Me",
-      "url": "https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 190029,
       "name": "FOREVER (WITH DJ ALE MORA) (Feat. Cha Cha Malone)",
       "url": "https://open.spotify.com/track/7tWk2C8SSuwrebfMt3jCaj"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 240736,
+      "name": "Ride Me",
+      "url": "https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM"
     },
     {
       "added_at": "2022-08-02 17:58:25",

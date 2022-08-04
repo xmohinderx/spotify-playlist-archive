@@ -543,6 +543,24 @@
     {
       "album": {
         "name": "Delicate Love",
+        "url": "https://open.spotify.com/album/5Ujv5ySO7k7d373Yjx1k6y"
+      },
+      "artists": [
+        {
+          "name": "Combo Cadre",
+          "url": "https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141973,
+      "name": "Delicate Love",
+      "url": "https://open.spotify.com/track/19NC6JIZJJ88CHJBZkF2o2"
+    },
+    {
+      "album": {
+        "name": "Delicate Love",
         "url": "https://open.spotify.com/album/1WtNJblFHyHS5oo6oqbpHI"
       },
       "artists": [
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 141973,
       "name": "Delicate Love",
       "url": "https://open.spotify.com/track/6uJFme7KrCugSiNLtv6D5v"
@@ -597,6 +615,24 @@
     {
       "album": {
         "name": "Dos Semanas",
+        "url": "https://open.spotify.com/album/6j0fxPpJFCs4Bj9ua6SEQg"
+      },
+      "artists": [
+        {
+          "name": "Julian Mari",
+          "url": "https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147632,
+      "name": "Dos Semanas",
+      "url": "https://open.spotify.com/track/0DLJOEDh4Xdi7tlRXJCh0r"
+    },
+    {
+      "album": {
+        "name": "Dos Semanas",
         "url": "https://open.spotify.com/album/7wGfMMfZy4TROCO1KtgSkd"
       },
       "artists": [
@@ -607,7 +643,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 147632,
       "name": "Dos Semanas",
       "url": "https://open.spotify.com/track/5xBLH2lm5TFylXBOuJwnDm"

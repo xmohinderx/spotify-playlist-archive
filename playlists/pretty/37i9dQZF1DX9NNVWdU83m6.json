@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 27026,
+  "num_followers": 27051,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGNlZTM3MjVhZDJmNzcyZDVhZDE5MzE5NzI4MDc1NDZl",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDk3OWUzMzA5OTZhN2VmYzhiZjg2MTBlZTc4NjkxYzk0",
   "tracks": [
     {
       "added_at": "2022-07-15 04:02:00",
@@ -129,22 +129,6 @@
       "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Badeep",
-        "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 363554,
-      "name": "Badeep",
-      "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Chapter One: Shredemption",
@@ -167,6 +151,22 @@
       "duration_ms": 207625,
       "name": "U.T.F.F.",
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Badeep",
+        "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 363554,
+      "name": "Badeep",
+      "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Love Devotion Surrender",
@@ -507,6 +491,22 @@
       "duration_ms": 568893,
       "name": "The Life Divine",
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
-      },
-      "artists": [
-        {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Lowell",
-      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Zeal",
@@ -575,6 +559,22 @@
       "duration_ms": 383881,
       "name": "Zeal",
       "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
+      },
+      "artists": [
+        {
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Lowell",
+      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Bundles",
-        "url": "https://open.spotify.com/album/5FIJVdysoyoIeIz149oxo0"
-      },
-      "artists": [
-        {
-          "name": "Soft Machine",
-          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
-        }
-      ],
-      "duration_ms": 329533,
-      "name": "Hazard Profile, Pt. 5",
-      "url": "https://open.spotify.com/track/5pZdl7YgmgIu8O06wS8sg9"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Seven",
         "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Lingua Franca",
-        "url": "https://open.spotify.com/album/2xoZN3Rk6x5Llp8PgJjwlh"
+        "name": "Bundles",
+        "url": "https://open.spotify.com/album/5FIJVdysoyoIeIz149oxo0"
       },
       "artists": [
         {
-          "name": "T.R.A.M",
-          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
         }
       ],
-      "duration_ms": 284186,
-      "name": "Consider Yourself Judged",
-      "url": "https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE"
+      "duration_ms": 329533,
+      "name": "Hazard Profile, Pt. 5",
+      "url": "https://open.spotify.com/track/5pZdl7YgmgIu8O06wS8sg9"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -723,6 +707,22 @@
       "duration_ms": 183601,
       "name": "Taurian Matador",
       "url": "https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Lingua Franca",
+        "url": "https://open.spotify.com/album/2xoZN3Rk6x5Llp8PgJjwlh"
+      },
+      "artists": [
+        {
+          "name": "T.R.A.M",
+          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
+        }
+      ],
+      "duration_ms": 284186,
+      "name": "Consider Yourself Judged",
+      "url": "https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE"
     },
     {
       "added_at": "2021-04-23 04:01:00",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Little Big",
+        "url": "https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Dirty Mindz (feat. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock)",
@@ -911,22 +927,6 @@
       "duration_ms": 545719,
       "name": "Dirty Mindz (feat. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock)",
       "url": "https://open.spotify.com/track/2LPvgbWHHy7evKFvqGh1yI"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Little Big",
-        "url": "https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA"
     }
   ],
   "unique_name": "Prog Jazz",

@@ -4,7 +4,7 @@
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-387 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/5uvLVBp4h63WAyYfutapmk)
+388 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/5uvLVBp4h63WAyYfutapmk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Divine Isolation](https://open.spotify.com/track/5rcxm9TSerLQGlEI1Qc60F) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Crawl Among the Filth](https://open.spotify.com/album/3sf0aZF8NohMSqmhdHOWLP) | 3:35 | 2021-11-30 | 2022-03-22 |
 | [Do a Number on Me](https://open.spotify.com/track/1z8YQmYE3pFF5ygbKsCvQq) | [Peer Pressure](https://open.spotify.com/artist/4LjqrkcbfHIV0CXWyjcwtW) | [Catharsis](https://open.spotify.com/album/4ngdX929zd3kTyuAOlXPD0) | 3:27 | 2021-12-21 | 2022-07-20 |
 | [Do All Words Can Do](https://open.spotify.com/track/1oRG31Ul43khRm0agIELnV) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Do All Words Can Do](https://open.spotify.com/album/5xTha5DkYQycSFG7BwbOSM) | 3:11 | 2022-01-21 | 2022-03-23 |
-| [Dogma](https://open.spotify.com/track/0Bf8wFv1dNuicZgKDVJYke) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Dogma](https://open.spotify.com/album/4VtLbsxzDY62vbjHT4HZjp) | 3:11 | 2021-12-21 |  |
+| [Dogma](https://open.spotify.com/track/0Bf8wFv1dNuicZgKDVJYke) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Dogma](https://open.spotify.com/album/4VtLbsxzDY62vbjHT4HZjp) | 3:11 | 2021-12-21 | 2022-08-04 |
 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 | 2021-11-30 | 2022-03-23 |
 | [Don't Give In](https://open.spotify.com/track/7fH523jfZlfpmHRCvdH3bA) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Don't Give In](https://open.spotify.com/album/1tfVICncyPQcbJdxQ5s3dY) | 3:00 | 2021-12-21 | 2022-07-25 |
 | [Dove and Fist](https://open.spotify.com/track/20avfrTLFEQnhsxJBf61jV) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Pure Noise Tour 2019](https://open.spotify.com/album/0KOU67Qu8f2gXjGs4GayxY) | 2:38 | 2021-11-30 | 2022-07-26 |
@@ -359,6 +359,7 @@
 | [Timeless](https://open.spotify.com/track/0CvpLjEpHQLsaqOsCxSEJ0) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:06 | 2021-12-21 |  |
 | [Tiresome](https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 3:05 | 2022-03-11 |  |
 | [To Conquer a Fear](https://open.spotify.com/track/5t7qzUCllOEDNDtG0AkT3F) | [We Struck Gold](https://open.spotify.com/artist/4K0XZDwm1TkQkAPgPmIbW1) | [To Conquer a Fear](https://open.spotify.com/album/1lnExV2XW8LnhWccXGcUjJ) | 3:35 | 2021-12-21 | 2022-07-22 |
+| [Toxic Freedom](https://open.spotify.com/track/48A4o6Jur5DODfkCBegHwb) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Go Ahead and Die](https://open.spotify.com/album/44yTZ3cCjCDUsdYQgUasFV) | 3:25 | 2022-04-01 |  |
 | [Toxic Freedom](https://open.spotify.com/track/4jq6j6AcaMcMmJGvjkXB8a) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Toxic Freedom](https://open.spotify.com/album/07QiBkVx7nUbtLmr485zoO) | 3:25 | 2021-12-21 | 2022-07-29 |
 | [Trabajo](https://open.spotify.com/track/6c73R8pPMvfzgFzYuxHxBZ) | [MALDITA](https://open.spotify.com/artist/2dYPah1Trks2vM9bfUxRMK) | [MALDITA](https://open.spotify.com/album/2MpjBDSdhALP8iO8zQmYbd) | 2:55 | 2022-03-11 | 2022-07-28 |
 | [Traverse](https://open.spotify.com/track/3kRCORw9uFR7aW3icacOFV) | [Typecaste](https://open.spotify.com/artist/1EAWutb0TKdAoTtjZ1N3JR) | [Traverse](https://open.spotify.com/album/6FK0LPWoPiV12ZRENVHoFn) | 2:24 | 2021-11-30 | 2022-07-23 |

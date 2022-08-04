@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Sing Me a Lullaby, My Sweet Temptation, the latest album by the $uicideboy$.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,559 likes - 75 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,997 likes - 75 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 74 | [ALL BLACK ATTIRE](https://open.spotify.com/track/3ljyB9X8TMFKRkLEJ6JgtD) | [SHUSH](https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [ALL BLACK ATTIRE](https://open.spotify.com/album/4Y705O8UoVmJuhZHOZrX9R) | 3:34 |
 | 75 | [BURNER](https://open.spotify.com/track/1gANf7FccsLPFIwgueeo7u) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [BURNER](https://open.spotify.com/album/4DGrJDl2ReUKTqYJsCDk0V) | 2:25 |
 
-Snapshot ID: `MTY1OTA2ODEwMCwwMDAwMDAwMGMwNzEzMTU4MDJkMmZhNTAxYTY2YjYxZGNmNWE5NTcx`
+Snapshot ID: `MTY1OTU2NDY0MCwwMDAwMDAwMDMwM2RmOWZmY2Y1NmZlMjhmYWU3ZDBlOWY2NjgxZmRm`

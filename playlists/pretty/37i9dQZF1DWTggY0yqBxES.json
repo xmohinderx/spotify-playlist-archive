@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Ben Reilly",
-  "num_followers": 876655,
+  "num_followers": 876978,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNjg2MSwwMDAwMDAwMDU2YWU3ZjliMTcxYTE3OTE5MTgxY2RkMjViOTA4ZTg3",
+  "snapshot_id": "MTY1OTEwNjg2MSwwMDAwMDAwMDY5YTE4MjkyZTRlNGNmY2NjZGE3NTUzZmMwMWZlZDRl",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Private Valet",
+        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 149074,
+      "name": "Private Valet",
+      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Breath Control",
         "url": "https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 147187,
       "name": "Breath Control (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Private Valet",
-        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 149074,
-      "name": "Private Valet",
-      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Kimbo Slice",
-        "url": "https://open.spotify.com/album/6sBL4GtNAGmcZxk5w0Y6AF"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        }
-      ],
-      "duration_ms": 193109,
-      "name": "Kimbo Slice",
-      "url": "https://open.spotify.com/track/1uRvYHBetRUQNsHrSlrlUi"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "TYRON",
         "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Kimbo Slice",
+        "url": "https://open.spotify.com/album/6sBL4GtNAGmcZxk5w0Y6AF"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 193109,
+      "name": "Kimbo Slice",
+      "url": "https://open.spotify.com/track/1uRvYHBetRUQNsHrSlrlUi"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL"
+        "name": "Barely Miss",
+        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
       },
       "artists": [
         {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
         }
       ],
-      "duration_ms": 102397,
-      "name": "ROUND HERE (PART ONE)",
-      "url": "https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De"
+      "duration_ms": 193656,
+      "name": "Barely Miss",
+      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -847,22 +847,6 @@
       "duration_ms": 253232,
       "name": "FATHER'S DAY",
       "url": "https://open.spotify.com/track/6umZfXvscE1GxzTG2SDiol"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Barely Miss",
-        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Barely Miss",
-      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -891,26 +875,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        },
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        }
-      ],
-      "duration_ms": 191777,
-      "name": "DENY (feat. Tyla Yaweh)",
-      "url": "https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Hip Hop 50: Vol. 1",
         "url": "https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm"
       },
@@ -935,6 +899,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        },
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        }
+      ],
+      "duration_ms": 191777,
+      "name": "DENY (feat. Tyla Yaweh)",
+      "url": "https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Psychedelic Views (feat. IDK)",
         "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 280000,
       "name": "Psychedelic Views (feat. IDK)",
       "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Paper",
+        "url": "https://open.spotify.com/album/1rNaHjqEp2w9z2Pryotv4r"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 187527,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/58njyEW0iRoGKUy9xyPukJ"
     }
   ],
   "unique_name": "Alternative Hip-Hop",

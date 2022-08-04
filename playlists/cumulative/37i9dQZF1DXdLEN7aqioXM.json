@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 215424,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/7KxyDBiAiTnb1vz62ZlH88"
@@ -4433,6 +4433,28 @@
       "duration_ms": 412119,
       "name": "Purple Sun",
       "url": "https://open.spotify.com/track/5GorBkISuzSRgEuiq3dJu6"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/44P5y0hkgPpmYM8nAMTa56"
+      },
+      "artists": [
+        {
+          "name": "Fury Weekend",
+          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
+        },
+        {
+          "name": "Young Medicine",
+          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271304,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/55jTVB6tALwo85MptV69q4"
     },
     {
       "album": {

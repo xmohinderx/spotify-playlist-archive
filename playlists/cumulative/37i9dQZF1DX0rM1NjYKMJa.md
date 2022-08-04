@@ -4,7 +4,7 @@
 
 > The biggest & baddest tunes to get you ready for Carnival 2022 \- curated by Nino Brown & Young Teesh.
 
-156 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
+157 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Thickiana](https://open.spotify.com/track/6YXLiEWYes0RJUhz2iEN6J) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Thickiana](https://open.spotify.com/album/05guEviu84uZVrswOmNc2E) | 2:41 | 2022-07-30 |  |
 | [Tilt](https://open.spotify.com/track/4boWnSLvtMns64y7Ns6fYx) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Tilt Riddim, Pt\. 1](https://open.spotify.com/album/2uJ638CIojgWY2CA1hFbEi) | 2:59 | 2022-02-24 | 2022-07-31 |
 | [Ting Go Nice Again](https://open.spotify.com/track/3kAGfsY1IsWM7FZZbPz1NN) | [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Ting Go Nice Again](https://open.spotify.com/album/4lRghnOCeOBFQyfuOkANAi) | 2:59 | 2021-08-26 | 2022-02-25 |
-| [Too Much](https://open.spotify.com/track/4hYlMt88kDIIVzbXQg5vkE) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Too Much](https://open.spotify.com/album/5Cx9EvnH8mZfAG4yton1CZ) | 2:21 | 2022-07-30 |  |
+| [Too Much](https://open.spotify.com/track/1Oln8wIs3KmPJR65ZCMmgP) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Too Much](https://open.spotify.com/album/1cKly7Qk5xyU5AHLLgkbaZ) | 2:21 | 2022-08-03 |  |
+| [Too Much](https://open.spotify.com/track/4hYlMt88kDIIVzbXQg5vkE) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Too Much](https://open.spotify.com/album/5Cx9EvnH8mZfAG4yton1CZ) | 2:21 | 2022-07-30 | 2022-08-04 |
 | [Too Real](https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Too Real](https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR) | 3:06 | 2022-07-30 |  |
 | [Toxic Love](https://open.spotify.com/track/6FdiXkhry8vFGEBiOTc9nW) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Toxic Love](https://open.spotify.com/album/11UfrXlUFcK3pjfQOjzdMr) | 3:32 | 2021-08-26 | 2022-02-25 |
 | [Trini](https://open.spotify.com/track/0ldH1S3dN0T3D3VRC4BJCh) | [Benjai](https://open.spotify.com/artist/7mD8DNhQrjw6SmuWoMTlo8) | [See Mi Yah: The Best Of Benjai](https://open.spotify.com/album/3akzzNL12NgIF6A5ySP9JN) | 3:43 | 2022-07-30 |  |

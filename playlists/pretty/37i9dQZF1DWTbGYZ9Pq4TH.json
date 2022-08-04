@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 155824,
+  "num_followers": 155853,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDIyMzQyNWFjMTEwNWJiYWMxZDQ1Y2Q4OTRmMDRhN2Uz",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGFkOTVjNjYxNmVmZDA2YTFhMWMwMGUwYWU0NGIwNmMz",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -207,6 +207,26 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+      },
+      "artists": [
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Stanza Singola (feat. Tommaso Paradiso)",
+      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/5lws5rpO14cspkEls5WGpq"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 186147,
       "name": "Estate",
       "url": "https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 221631,
-      "name": "MADAME - L'anima (feat. Madame)",
-      "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -259,22 +259,22 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Stanza Singola",
-        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
       "artists": [
         {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
         }
       ],
-      "duration_ms": 196615,
-      "name": "Stanza Singola (feat. Tommaso Paradiso)",
-      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
+      "duration_ms": 221631,
+      "name": "MADAME - L'anima (feat. Madame)",
+      "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
     },
     {
       "added_at": "2021-09-26 18:38:53",

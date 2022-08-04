@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "Azad\u00ee",
+        "url": "https://open.spotify.com/album/6zJCr9aBd5PIt6ltumUA4O"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201916,
+      "name": "Azad\u00ee",
+      "url": "https://open.spotify.com/track/4C79mdd7zUzW2hVwJmJLwk"
+    },
+    {
+      "album": {
         "name": "Baby Don\u2019t You Know",
         "url": "https://open.spotify.com/album/4l5x1qG6w7csFmEobi7Ttn"
       },

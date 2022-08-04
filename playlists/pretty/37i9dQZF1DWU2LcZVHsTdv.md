@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Tyler Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,659 likes - 116 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,750 likes - 116 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 62 | [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 |
 | 63 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 |
 | 64 | [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 |
-| 65 | [Blessed Beyond Believin'](https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/68GS4wGbEr9qpkNjidH1eS) | 3:49 |
+| 65 | [Blessed Beyond Believin'](https://open.spotify.com/track/5KisXZeI0uzWFyYBHoexy1) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/3TFEza0C8FxbxxAKMPC0X8) | 3:49 |
 | 66 | [Chase Me Down \(feat\. RaeLynn\)](https://open.spotify.com/track/4PVt0PcZyI61mCuwMdvtzy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:28 |
 | 67 | [Less Than Whole](https://open.spotify.com/track/3OzqxGvLzW00YOet2P78sD) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:44 |
 | 68 | [Are You Washed in the Blood?](https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [And Now, Let's Turn to Page…](https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA) | 3:03 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 115 | [Here On Earth](https://open.spotify.com/track/6oARVUWXiWceOYeijMwcvw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 4:21 |
 | 116 | [The Distance](https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:24 |
 
-Snapshot ID: `MTY1OTMyNjQwMCwwMDAwMDAwMGNjOGRmYTA0MTNiZmY2ODJkZGY2ZDQzZjFkN2JlYjcy`
+Snapshot ID: `MTY1OTMyNjQwMCwwMDAwMDAwMDRlNGRkNmEzYmNmNjJjOWViM2NiYjBiYmMyNGFkM2Q4`

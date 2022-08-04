@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 
 > Long, dark and sustained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,943 likes - 60 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,004 likes - 60 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,25 +48,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 | 38 | [City of Light](https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 6:34 |
 | 39 | [eon](https://open.spotify.com/track/6fPnhlrHFNOgqjkbv4IThA) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 6:30 |
 | 40 | [Sleeping Since Last Year](https://open.spotify.com/track/2kc18BHDqGI7QGpGN150AG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Sleeping Since Last Year](https://open.spotify.com/album/0hrFPfSOWBFo156sLpdho2) | 5:59 |
-| 41 | [Torn Page](https://open.spotify.com/track/5BEcsUdHuN9aQBqA46iPqP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Torn Page](https://open.spotify.com/album/7zeAIjVBhbNkgXmcoWWjx9) | 19:54 |
-| 42 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 |
+| 41 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 |
+| 42 | [Torn Page](https://open.spotify.com/track/5BEcsUdHuN9aQBqA46iPqP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Torn Page](https://open.spotify.com/album/7zeAIjVBhbNkgXmcoWWjx9) | 19:54 |
 | 43 | [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 |
 | 44 | [Nuuk \(Air\)](https://open.spotify.com/track/4iBVHkmGRBoEOpRRmEqv94) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/3ulAX8iVHCIvzCfcMZiKg9) | 4:47 |
-| 45 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 |
-| 46 | [Stora vreden i Storvreta](https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h) | [Gävle\-Stockholm Dub](https://open.spotify.com/artist/6aDddHTB6bkZ4ozFebxEdE), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Pro424](https://open.spotify.com/artist/2JM8Yxfky3rGXzVvchyFof) | [Ingenmansland](https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk) | 5:04 |
+| 45 | [Stora vreden i Storvreta](https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h) | [Gävle\-Stockholm Dub](https://open.spotify.com/artist/6aDddHTB6bkZ4ozFebxEdE), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Pro424](https://open.spotify.com/artist/2JM8Yxfky3rGXzVvchyFof) | [Ingenmansland](https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk) | 5:04 |
+| 46 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 |
 | 47 | [Burn It All Down](https://open.spotify.com/track/3CnXVFKUwgYWZuH6KmlTsv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:31 |
 | 48 | [Lobby](https://open.spotify.com/track/4UmwjnEQ4CZy9XmaN52r0I) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 3:01 |
 | 49 | [Enigma](https://open.spotify.com/track/4eW3kSiXV8s2wCOCKGQHEL) | [Blear Moon](https://open.spotify.com/artist/02QLDm7vKE5aNu4ovk1rE9) | [Enigma](https://open.spotify.com/album/2tdi5KxoYhjlnOQDre2Jvb) | 5:44 |
 | 50 | [Procession](https://open.spotify.com/track/3aY7DXuLSjhZWylrsxZlvS) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Emanate](https://open.spotify.com/album/1egylUUEu5VyrBX4Sn8LwW) | 5:34 |
 | 51 | [abundance](https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A) | [badfocus](https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh), [Albert Štifter](https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi) | [emerged, vol\. II](https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb) | 2:23 |
-| 52 | [Magnified Pieces of Thermodynamics](https://open.spotify.com/track/6yVJyoTT6goRqEvSv6rWLZ) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O), [Forest Management](https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7) | [Landmarks](https://open.spotify.com/album/4W0Qq5GuaCeVSL4ME7kqLy) | 6:26 |
-| 53 | [Mod Aki Kasa](https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Pararatronic](https://open.spotify.com/album/6tf8KKUz2s11zLiP5HNqKL) | 3:46 |
-| 54 | [Some Absolute Means](https://open.spotify.com/track/3BNrzu0bRMzwWsVNdBjn9X) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [Thresholder](https://open.spotify.com/album/5WvwBOE3bEIU8U9rOO92FE) | 5:06 |
-| 55 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 |
-| 56 | [Memory limitations in artificial intelligence](https://open.spotify.com/track/79kYL6ssks9MT1Ruo1lMeq) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:56 |
-| 57 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 |
+| 52 | [Mod Aki Kasa](https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Pararatronic](https://open.spotify.com/album/6tf8KKUz2s11zLiP5HNqKL) | 3:46 |
+| 53 | [Some Absolute Means](https://open.spotify.com/track/3BNrzu0bRMzwWsVNdBjn9X) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [Thresholder](https://open.spotify.com/album/5WvwBOE3bEIU8U9rOO92FE) | 5:06 |
+| 54 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 |
+| 55 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 |
+| 56 | [Magnified Pieces of Thermodynamics](https://open.spotify.com/track/6yVJyoTT6goRqEvSv6rWLZ) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O), [Forest Management](https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7) | [Landmarks](https://open.spotify.com/album/4W0Qq5GuaCeVSL4ME7kqLy) | 6:26 |
+| 57 | [Memory limitations in artificial intelligence](https://open.spotify.com/track/79kYL6ssks9MT1Ruo1lMeq) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:56 |
 | 58 | [Blanket](https://open.spotify.com/track/3yN1isCiYLgoihgq5FYoGM) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc) | 6:00 |
-| 59 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 |
-| 60 | [Vulnerary](https://open.spotify.com/track/3cNm9MMQenN0LJtOJb7XAU) | [Hüma Utku](https://open.spotify.com/artist/6FkocGSMDJrbTxsoJxLrMT) | [Gnosis](https://open.spotify.com/album/5kYTnkTyeMYV4ltEaF8CDX) | 6:29 |
+| 59 | [Vulnerary](https://open.spotify.com/track/3cNm9MMQenN0LJtOJb7XAU) | [Hüma Utku](https://open.spotify.com/artist/6FkocGSMDJrbTxsoJxLrMT) | [Gnosis](https://open.spotify.com/album/5kYTnkTyeMYV4ltEaF8CDX) | 6:29 |
+| 60 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 |
 
-Snapshot ID: `MTY1NzI5MDgxNCwwMDAwMDAwMDUwZWMzM2Y3MTc1NzRmYzc4ZmJmZmM5NWI0MWExZGEx`
+Snapshot ID: `MTY1NzI5MDgxNCwwMDAwMDAwMDNhM2EwMWE5MGEwNjBmODljODgyODdkMzY0NDcxMmRm`

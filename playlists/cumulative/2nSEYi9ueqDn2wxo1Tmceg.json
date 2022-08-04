@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 235200,
       "name": "1995",
       "url": "https://open.spotify.com/track/2VClwPpZUCKuJEN9acH7nA"
@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "All These Things",
+        "url": "https://open.spotify.com/album/54CU9jHxWLV6hca9h81eAe"
+      },
+      "artists": [
+        {
+          "name": "DC Gore",
+          "url": "https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270316,
+      "name": "All These Things",
+      "url": "https://open.spotify.com/track/11gQ6pYyjk6TtZq4SWtDzA"
+    },
+    {
+      "album": {
+        "name": "All These Things",
         "url": "https://open.spotify.com/album/2X2wOUf1d0tdAxWMN6U3sm"
       },
       "artists": [
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 270316,
       "name": "All These Things",
       "url": "https://open.spotify.com/track/5k0FUO0GmHOELaM8tJlmjP"
@@ -327,7 +345,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 216102,
       "name": "C Tactile Afferent",
       "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
@@ -458,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Death of Melody",
+        "url": "https://open.spotify.com/album/1Ivd4yOwhtb7q14eCyWlkX"
+      },
+      "artists": [
+        {
+          "name": "Preoccupations",
+          "url": "https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233946,
+      "name": "Death of Melody",
+      "url": "https://open.spotify.com/track/5PGu9yeMZkuL2oCgUOICoz"
+    },
+    {
+      "album": {
         "name": "Deep In The Glowing Heart (Night Version)",
         "url": "https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ"
       },
@@ -473,7 +509,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 420923,
       "name": "Deep In The Glowing Heart - Night Version",
       "url": "https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m"
@@ -531,10 +567,32 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 232469,
       "name": "Down - Sworn Virgins Remix - Edit",
       "url": "https://open.spotify.com/track/51TCXUklE2Ng2uJFHfBhHQ"
+    },
+    {
+      "album": {
+        "name": "Edge of the Edge",
+        "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288746,
+      "name": "Edge of the Edge",
+      "url": "https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a"
     },
     {
       "album": {
@@ -673,6 +731,24 @@
       "duration_ms": 241960,
       "name": "Feel Another Day",
       "url": "https://open.spotify.com/track/3QeDBrfHSMvJFKQd6ALYM2"
+    },
+    {
+      "album": {
+        "name": "(Herman\u2019s) House / Follow Me",
+        "url": "https://open.spotify.com/album/06WAdZd3Ty6SpqW6NPepJW"
+      },
+      "artists": [
+        {
+          "name": "Special Interest",
+          "url": "https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250691,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0DpQewnCgU5o57KOGeb9Lh"
     },
     {
       "album": {
@@ -861,6 +937,28 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "album": {
+        "name": "30 Something",
+        "url": "https://open.spotify.com/album/1pq7A65DygpNTNRnwJv77h"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431280,
+      "name": "Halcyon & On - Jon Hopkins Remix",
+      "url": "https://open.spotify.com/track/3dsnJC7f8lA4NxXsb8LMOr"
     },
     {
       "album": {
@@ -1119,7 +1217,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 145120,
       "name": "Isn't It Lovely",
       "url": "https://open.spotify.com/track/3ukEbKCjmgeAWlROfHSF2Y"
@@ -1451,7 +1549,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 281190,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5"
@@ -1473,6 +1571,24 @@
       "duration_ms": 199753,
       "name": "Please Yourself",
       "url": "https://open.spotify.com/track/56zAKeMNf17IrHkJfX3uTb"
+    },
+    {
+      "album": {
+        "name": "Polygod",
+        "url": "https://open.spotify.com/album/3ckC8EdvfgHQ8lrM0kITWV"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181789,
+      "name": "Polygod",
+      "url": "https://open.spotify.com/track/7ecU6yTdlPj3Tas3hGR6uS"
     },
     {
       "album": {
@@ -1679,7 +1795,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 239385,
       "name": "Sisyphus - Single Version",
       "url": "https://open.spotify.com/track/4QJIaGAfI4Ems0oU17NgYQ"
@@ -2093,7 +2209,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 424720,
       "name": "Weather Alive",
       "url": "https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY"
@@ -2191,6 +2307,28 @@
       "duration_ms": 178378,
       "name": "You Got The Silver",
       "url": "https://open.spotify.com/track/3VPE7mBeUwK0id0xjvLRmV"
+    },
+    {
+      "album": {
+        "name": "Zum Herz",
+        "url": "https://open.spotify.com/album/0miVSp8X4tYSuxINhZRyO8"
+      },
+      "artists": [
+        {
+          "name": "Guerilla Toss",
+          "url": "https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO"
+        },
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258213,
+      "name": "Zum Herz",
+      "url": "https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4"
     }
   ],
   "url": "https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg"

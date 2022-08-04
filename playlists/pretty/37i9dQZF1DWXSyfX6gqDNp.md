@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,013 likes - 122 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,029 likes - 122 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

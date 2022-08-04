@@ -4,7 +4,7 @@
 
 > The biggest songs in Latin America in 2004\. Cover: Juanes
 
-59 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/0fnqMRgAcbpZ4Qg9kxzXr2)
+60 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/0fnqMRgAcbpZ4Qg9kxzXr2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,9 +37,10 @@
 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 | 2021-12-22 |  |
 | [Llenos De Magia](https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 3:52 | 2021-12-22 |  |
 | [Lo Busqué](https://open.spotify.com/track/5gEqsAFXdbOyyT1tCbtR65) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Agarre De Fieras](https://open.spotify.com/album/5AzHdlw7PCUkiN7mlZ1661) | 4:35 | 2021-12-22 |  |
-| [Los Caminos de la Vida](https://open.spotify.com/track/0nqCrvY5A8cPNYujwtZGp5) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Fuerza Argentina!](https://open.spotify.com/album/2r1Hl2RU10Gm5zDILXbzkh) | 3:59 | 2021-12-22 |  |
+| [Los Caminos de la Vida](https://open.spotify.com/track/0nqCrvY5A8cPNYujwtZGp5) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Fuerza Argentina!](https://open.spotify.com/album/2r1Hl2RU10Gm5zDILXbzkh) | 3:59 | 2021-12-22 | 2022-08-04 |
 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 | 2021-12-22 |  |
 | [Nada Valgo Sin Tu Amor](https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:16 | 2021-12-22 |  |
+| [Ni Tú Ni Nadie](https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits](https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as) | 3:39 | 2021-12-22 |  |
 | [Ni Tú Ni Nadie](https://open.spotify.com/track/7l6joxiMavoJQgeXPxlIzt) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Joyas del Rock](https://open.spotify.com/album/6niEkRTpgTIhhQS4gpMkrg) | 3:39 | 2021-12-22 | 2022-07-29 |
 | [No Me Quiero Enamorar](https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 3:37 | 2021-12-22 | 2022-07-29 |
 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 | 2021-12-22 |  |

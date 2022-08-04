@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Beyonc\u00e9.",
-  "num_followers": 396452,
+  "num_followers": 396597,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTExODk2MiwwMDAwMDAwMGIwNThiM2NmY2U2ZTU1ZDIzZDcwODllNzgxOWQ1ZjY5",
+  "snapshot_id": "MTY1OTExODk2MiwwMDAwMDAwMDNlYTdjMTUxMGFjMDIwMmI5MjZkODU4NzNiNTM3YWQ4",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Move Your Feet",
-        "url": "https://open.spotify.com/album/7iLJZpx8K5yQEHPQz7abgp"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/2LXlp1GPl3hwGe7uzmoLER"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 183750,
       "name": "SICK",
       "url": "https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Move Your Feet",
+        "url": "https://open.spotify.com/album/7iLJZpx8K5yQEHPQz7abgp"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/2LXlp1GPl3hwGe7uzmoLER"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Club Sound",
-        "url": "https://open.spotify.com/album/42CRuLjPlRuJD21zOiDJSF"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 133593,
-      "name": "Club Sound",
-      "url": "https://open.spotify.com/track/5qMFUrAHnU59d025ULDjZU"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Seven Letters",
         "url": "https://open.spotify.com/album/4gHDvzDB9HgU4EuhH8qCVv"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 165517,
       "name": "Seven Letters",
       "url": "https://open.spotify.com/track/2yy2Ya5RSyrE7vs2qsVsMG"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Club Sound",
+        "url": "https://open.spotify.com/album/42CRuLjPlRuJD21zOiDJSF"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 133593,
+      "name": "Club Sound",
+      "url": "https://open.spotify.com/track/5qMFUrAHnU59d025ULDjZU"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Kinda Funny (feat. Audrey Mika)",
+        "url": "https://open.spotify.com/album/2fdpHqEU8XfNlKmM5P9uH6"
+      },
+      "artists": [
+        {
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 121951,
+      "name": "Kinda Funny (feat. Audrey Mika)",
+      "url": "https://open.spotify.com/track/1FxHNKoRql64kL15iccqz1"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/0LnhXvcJIhcMWIpvxhVguB"
       },
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Kinda Funny (feat. Audrey Mika)",
-        "url": "https://open.spotify.com/album/2fdpHqEU8XfNlKmM5P9uH6"
-      },
-      "artists": [
-        {
-          "name": "Young Bombs",
-          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 121951,
-      "name": "Kinda Funny (feat. Audrey Mika)",
-      "url": "https://open.spotify.com/track/1FxHNKoRql64kL15iccqz1"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Saturday Love",
         "url": "https://open.spotify.com/album/5s3xUOBWNhBFVHcWvK29hG"
       },
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Body Rock",
-        "url": "https://open.spotify.com/album/5xvpeDsb7iGwaflSsOXuaH"
-      },
-      "artists": [
-        {
-          "name": "ManyFew",
-          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
-        },
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        }
-      ],
-      "duration_ms": 175184,
-      "name": "Body Rock",
-      "url": "https://open.spotify.com/track/085icCpqAgdrZw1bEQg1Gh"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC"
       },
@@ -1179,22 +1159,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Ten Years",
-        "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
+        "name": "Body Rock",
+        "url": "https://open.spotify.com/album/5xvpeDsb7iGwaflSsOXuaH"
       },
       "artists": [
         {
-          "name": "Win and Woo",
-          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
+          "name": "ManyFew",
+          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
         },
         {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
         }
       ],
-      "duration_ms": 147753,
-      "name": "All This Motion (with Louis the Child)",
-      "url": "https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj"
+      "duration_ms": 175184,
+      "name": "Body Rock",
+      "url": "https://open.spotify.com/track/085icCpqAgdrZw1bEQg1Gh"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1231,6 +1211,26 @@
       "duration_ms": 173447,
       "name": "Needless",
       "url": "https://open.spotify.com/track/1TKxmDwCr7tloqmTWG7zlO"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Ten Years",
+        "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
+      },
+      "artists": [
+        {
+          "name": "Win and Woo",
+          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 147753,
+      "name": "All This Motion (with Louis the Child)",
+      "url": "https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1275,26 +1275,6 @@
       "duration_ms": 155786,
       "name": "heartbeat",
       "url": "https://open.spotify.com/track/25rWqXxOkuEHev55nFRQLI"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Moonshine River",
-        "url": "https://open.spotify.com/album/5mNQ4eQemT92gMvUQiRHo6"
-      },
-      "artists": [
-        {
-          "name": "Just Kiddin",
-          "url": "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
-        },
-        {
-          "name": "DiRTY RADiO",
-          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
-        }
-      ],
-      "duration_ms": 147675,
-      "name": "Moonshine River",
-      "url": "https://open.spotify.com/track/2VmaCHiGuA9JrD4JFfNRQt"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1411,18 +1391,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/41CodDANPLmQrst12l1MAI"
+        "name": "Crayzee",
+        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
       },
       "artists": [
         {
-          "name": "Neggy Gemmy",
-          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 231770,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/4T3VWXlsa1feVAXyDE5V4f"
+      "duration_ms": 173907,
+      "name": "Crayzee",
+      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1447,18 +1427,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Crayzee",
-        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/41CodDANPLmQrst12l1MAI"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
         }
       ],
-      "duration_ms": 173907,
-      "name": "Crayzee",
-      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
+      "duration_ms": 231770,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4T3VWXlsa1feVAXyDE5V4f"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1519,22 +1499,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "DERR1TETE",
-        "url": "https://open.spotify.com/album/467M862F7JBrNB14CeDjDq"
-      },
-      "artists": [
-        {
-          "name": "LVL1",
-          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
-        }
-      ],
-      "duration_ms": 225299,
-      "name": "DERR1TETE",
-      "url": "https://open.spotify.com/track/7gjIVNdtHjbkhH9tfgCPM8"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Magic (feat. Issa)",
         "url": "https://open.spotify.com/album/5IwngJcnGYAWv9M24sa82t"
       },
@@ -1551,6 +1515,22 @@
       "duration_ms": 222720,
       "name": "Magic (feat. Issa)",
       "url": "https://open.spotify.com/track/5P5VW7FpeAFpEFveHpW9si"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "DERR1TETE",
+        "url": "https://open.spotify.com/album/467M862F7JBrNB14CeDjDq"
+      },
+      "artists": [
+        {
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+        }
+      ],
+      "duration_ms": 225299,
+      "name": "DERR1TETE",
+      "url": "https://open.spotify.com/track/7gjIVNdtHjbkhH9tfgCPM8"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1643,30 +1623,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/3HNlQkEdaXNTb5QNy67xR1"
-      },
-      "artists": [
-        {
-          "name": "Tough Love",
-          "url": "https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG"
-        },
-        {
-          "name": "Needs No Sleep",
-          "url": "https://open.spotify.com/artist/5PBIAEdx1voGTUb8apBiEs"
-        },
-        {
-          "name": "Justine Eltakchi",
-          "url": "https://open.spotify.com/artist/5imUnnLq1VEfLuuRoUmL3M"
-        }
-      ],
-      "duration_ms": 163928,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/46p1YC6uJ95Cvlkmcmaw0c"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/2f7if07zQ8aqkwjq6NovP8"
       },
@@ -1687,6 +1643,30 @@
       "duration_ms": 170040,
       "name": "Push It",
       "url": "https://open.spotify.com/track/0QUVjsIqKTRkV76T59rCMM"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/3HNlQkEdaXNTb5QNy67xR1"
+      },
+      "artists": [
+        {
+          "name": "Tough Love",
+          "url": "https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG"
+        },
+        {
+          "name": "Needs No Sleep",
+          "url": "https://open.spotify.com/artist/5PBIAEdx1voGTUb8apBiEs"
+        },
+        {
+          "name": "Justine Eltakchi",
+          "url": "https://open.spotify.com/artist/5imUnnLq1VEfLuuRoUmL3M"
+        }
+      ],
+      "duration_ms": 163928,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/46p1YC6uJ95Cvlkmcmaw0c"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1743,6 +1723,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Dense Metaverse",
+        "url": "https://open.spotify.com/album/7teNbjdosS30JB38wjG15Y"
+      },
+      "artists": [
+        {
+          "name": "Elisa Bee",
+          "url": "https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX"
+        }
+      ],
+      "duration_ms": 341974,
+      "name": "Dense Metaverse",
+      "url": "https://open.spotify.com/track/6HgUNScygasBr2xtbTpueF"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Channeler",
         "url": "https://open.spotify.com/album/2FMNp9LdgDER7r6CP3uR8u"
       },
@@ -1775,22 +1771,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Dense Metaverse",
-        "url": "https://open.spotify.com/album/7teNbjdosS30JB38wjG15Y"
-      },
-      "artists": [
-        {
-          "name": "Elisa Bee",
-          "url": "https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX"
-        }
-      ],
-      "duration_ms": 341974,
-      "name": "Dense Metaverse",
-      "url": "https://open.spotify.com/track/6HgUNScygasBr2xtbTpueF"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Nigh",
         "url": "https://open.spotify.com/album/2sHPkujZbHvkrxS5o37EwL"
       },
@@ -1807,6 +1787,22 @@
       "duration_ms": 423157,
       "name": "The Hammer",
       "url": "https://open.spotify.com/track/0u1ihYKX1FxCeYTaHdhgPO"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/7yfvAWefdUaKlHmVYLPjzR"
+      },
+      "artists": [
+        {
+          "name": "Lena Leon",
+          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        }
+      ],
+      "duration_ms": 161193,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/5B9HpTPTixssrDSFYE35l7"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1831,34 +1827,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/7yfvAWefdUaKlHmVYLPjzR"
+        "name": "Moonshine River",
+        "url": "https://open.spotify.com/album/46emIKPmmmvWQo0I2aymNq"
       },
       "artists": [
         {
-          "name": "Lena Leon",
-          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
-        }
-      ],
-      "duration_ms": 161193,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/5B9HpTPTixssrDSFYE35l7"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Monnaka",
-        "url": "https://open.spotify.com/album/3TfFyklAVBg3gjjdrskNXW"
-      },
-      "artists": [
+          "name": "Just Kiddin",
+          "url": "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
+        },
         {
-          "name": "boys be kko",
-          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+          "name": "DiRTY RADiO",
+          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
         }
       ],
-      "duration_ms": 414882,
-      "name": "Monnaka",
-      "url": "https://open.spotify.com/track/0aCG03vw75PQTjNKZbhPHT"
+      "duration_ms": 147675,
+      "name": "Moonshine River",
+      "url": "https://open.spotify.com/track/1xMuxIzt8CmjXTWYZvcNzA"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1875,6 +1859,22 @@
       "duration_ms": 353731,
       "name": "Endless (II)",
       "url": "https://open.spotify.com/track/69GYmAddI3McJuUrYb8QrD"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Monnaka",
+        "url": "https://open.spotify.com/album/3TfFyklAVBg3gjjdrskNXW"
+      },
+      "artists": [
+        {
+          "name": "boys be kko",
+          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+        }
+      ],
+      "duration_ms": 414882,
+      "name": "Monnaka",
+      "url": "https://open.spotify.com/track/0aCG03vw75PQTjNKZbhPHT"
     },
     {
       "added_at": "2022-07-29 04:01:00",

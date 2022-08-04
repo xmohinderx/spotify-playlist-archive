@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-482 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+483 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-11-30 | 2021-12-29 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-17 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-05-09 |
+| [VAKMELEG](https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [VAKMELEG](https://open.spotify.com/album/1EMSC0Mx6dukvWdXIuYoV5) | 2:52 | 2022-08-03 |  |
 | [Vezetői Engedély](https://open.spotify.com/track/0fY8YdsEhwdE2VdYc8tRlN) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:10 | 2022-03-12 | 2022-03-15 |
 | [Virágok](https://open.spotify.com/track/0A01SG58NY4LxLeQQmTsuv) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 3:03 | 2021-07-31 | 2021-08-09 |
 | [Visz a vérem](https://open.spotify.com/track/5ljaIN5amyFn4fluFmjXy6) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [Manuel](https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s) | [Visz a vérem](https://open.spotify.com/album/4z36zSFApY8fkbCprjgEV4) | 3:07 | 2022-04-15 | 2022-04-17 |
@@ -482,7 +483,7 @@
 | [Zombi \- Pt.2](https://open.spotify.com/track/40CEufN1AE9J2sb6fH5HPO) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Darius King](https://open.spotify.com/artist/6tX86ql40AoZSYDv3Bx7Vr) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 3:13 | 2022-06-07 | 2022-06-13 |
 | [Ájkosz](https://open.spotify.com/track/1zoULyy3P5grr7iRLKKmCm) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Ájkosz](https://open.spotify.com/album/5dbnOcIzIROMH0q7QXwzNU) | 2:07 | 2021-12-24 | 2022-03-13 |
 | [Állat](https://open.spotify.com/track/5bmPNUbxkFtxPeen1Lqjen) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Berta'Lami](https://open.spotify.com/artist/4hKnMdOlXgv52JpK4hCbv3) | [Állat](https://open.spotify.com/album/0i2gJ7D6SuwVbFjYpaRe5c) | 3:58 | 2021-05-29 | 2021-06-13 |
-| [Álmatlan esték](https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Nemazalány](https://open.spotify.com/artist/474u1cnCRF41ym7ZNBddcc), [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Álmatlan esték](https://open.spotify.com/album/7N0Ft1YrxAf52HZXfrdgho) | 3:03 | 2021-10-30 |  |
+| [Álmatlan esték](https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Nemazalány](https://open.spotify.com/artist/474u1cnCRF41ym7ZNBddcc), [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Álmatlan esték](https://open.spotify.com/album/7N0Ft1YrxAf52HZXfrdgho) | 3:03 | 2021-10-30 | 2022-08-04 |
 | [Éget a nap](https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Éget a nap](https://open.spotify.com/album/2g6EW3GB1zeDuGVs5TJGX4) | 2:30 | 2021-06-04 |  |
 | [Élvezd](https://open.spotify.com/track/15Zz41Ec3C6Rh6nDZa8331) | [Punnany Massif](https://open.spotify.com/artist/6cOn5jBriFvJ1qy817VmMD) | [Sun Kick](https://open.spotify.com/album/1SQpN9vgJgxl9IhktvHwTp) | 3:57 | 2021-07-05 | 2021-08-24 |
 | [És Az Apák Keze Ökölbe Szorul](https://open.spotify.com/track/7tgvPuBv33OWi7JKklAuqC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 1:08 | 2022-03-12 | 2022-03-14 |

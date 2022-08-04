@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Elicê, Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,866 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,925 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 2 | [Tropa do Mais Novo](https://open.spotify.com/track/1Afqu53uuGNHKXyCfNIqhW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Tropa do Mais Novo](https://open.spotify.com/album/1HDwGbuDmbuu8WJG81cCMV) | 3:21 |
 | 3 | [Para Sempre 21 \- Remix](https://open.spotify.com/track/5di62sje3CXN84ejeAIaGx) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Para Sempre 21 \(Remix\)](https://open.spotify.com/album/3F1QSpRVW6TuZX5qnt1SC9) | 3:21 |
 | 4 | [Ambição e Desejo](https://open.spotify.com/track/6RAJXjuBuK2SvSmVRPuoG5) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 2:59 |
-| 5 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [MVK](https://open.spotify.com/artist/6kZfwxPFYvs3pZVeEnDuxR), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
+| 5 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [MVK](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
 | 6 | [Pocotó](https://open.spotify.com/track/41aZcrF6TnaxbZm6V5ot57) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Pocotó](https://open.spotify.com/album/0roLlyaXprnSd9LU6MaF74) | 2:26 |
 | 7 | [Flash Cash 2](https://open.spotify.com/track/7qDvIejvwMIZdmAvHcxUkJ) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [Feelings](https://open.spotify.com/album/4wVQHgi9WjsNtnKXyqSo7K) | 2:17 |
 | 8 | [Malokeragem](https://open.spotify.com/track/4xdMBPkevffdDNHv1VsiQo) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Malokeragem](https://open.spotify.com/album/7AJ5F18Xp1EWst3lLu6eeR) | 2:53 |

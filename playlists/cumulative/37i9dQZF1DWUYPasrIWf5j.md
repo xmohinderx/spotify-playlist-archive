@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-82 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/1s1TQtiEzAtYVOJeSrtlYU)
+86 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1s1TQtiEzAtYVOJeSrtlYU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Can't Help Falling In Love](https://open.spotify.com/track/7cIIcCaaa4Db6tQJdR7VPp) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 3:09 | 2022-05-20 |  |
 | [Chandelier \- Ukulele Version](https://open.spotify.com/track/4zYScIQJOR961vVGVb4XTt) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Chandelier \(Ukulele Version\)](https://open.spotify.com/album/1Oeat3PspWRfN6pzIt9jTM) | 3:29 | 2022-05-20 |  |
 | [Come On Get Higher](https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:37 | 2022-05-20 |  |
+| [Count On Me](https://open.spotify.com/track/49mGPurzHvCPjiLTTEsc7G) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [This Is Home](https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa) | 3:30 | 2022-08-03 |  |
 | [Creep](https://open.spotify.com/track/1e9ByTDUpTepe8OFCoSVaT) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 4:04 | 2022-07-01 |  |
 | [Despacito](https://open.spotify.com/track/6BhpS9x9Sy1GPcfpl9noHW) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits, Vol\. 7](https://open.spotify.com/album/1uSFwBlRRHwIQETrBhnr7I) | 3:53 | 2022-05-20 |  |
 | [Don't Start Now \- Ukulele Version](https://open.spotify.com/track/12v4asulImAdU8BagKjivV) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:01 | 2022-05-20 |  |
@@ -37,6 +38,7 @@
 | [Imagine](https://open.spotify.com/track/5QwJtbZbdQxPnKR7CAXtyO) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Imagine](https://open.spotify.com/album/5uZvfWL9waxif9bt1CaCU1) | 3:04 | 2022-07-01 |  |
 | [In My Life](https://open.spotify.com/track/1LBi1Zjam0zpKVCCbZtPqu) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra](https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam) | 2:26 | 2022-07-26 |  |
 | [In My Life](https://open.spotify.com/track/7wv9b0S0n3Y6Jk2iguxhdM) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra plays The Beatles](https://open.spotify.com/album/1wyGOzD94QfrjDS6E5c4JU) | 2:26 | 2022-05-20 | 2022-07-29 |
+| [Island In The Sun](https://open.spotify.com/track/0uRq3UbO7llLNzcPkLdIqt) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pumped Up Kicks](https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu) | 3:20 | 2022-08-03 |  |
 | [Just the Way You Are \(Instrumental Version\)](https://open.spotify.com/track/7I4WwDEIeROWytTUZ5RMGc) | [Instrumental Pop Songs](https://open.spotify.com/artist/7GqJy10VkyFR1oacMiXkZn), [Soft Background Music](https://open.spotify.com/artist/2voHaTmDMF2QFv95m9SLtq) | [Ukulele \- Instrumental Pop Covers](https://open.spotify.com/album/4cBqvfoQMiDqCRED4fG73j) | 3:20 | 2022-05-20 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/0Md5bAtczAcMF2Wly7OIXU) | [Kalei Gamiao](https://open.spotify.com/artist/4h2zUDNlxj3GOWCg4RdPjs) | [Kalei Gamiao Contemporary Ukulele](https://open.spotify.com/album/6FNnLVDRrXFYn0Z7IghzdQ) | 3:14 | 2022-05-20 |  |
 | [Knowing Me, Knowing You](https://open.spotify.com/track/0i540Oa6722htaipZglBZm) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Knowing Me, Knowing You](https://open.spotify.com/album/2hG3WDbIHtUvXPWYyKRftN) | 3:51 | 2022-07-26 |  |
@@ -57,6 +59,7 @@
 | [Norwegian Wood](https://open.spotify.com/track/3BE3TKiC6SSfwOFtL9bcav) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 2:40 | 2022-05-20 |  |
 | [Only Love Can Break Your Heart](https://open.spotify.com/track/2PK8tIp5lpoWjSls9eEXEK) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [Wild World](https://open.spotify.com/album/4rEIHof7KCIYtsapQ2MMbe) | 3:45 | 2022-05-20 |  |
 | [Perfect](https://open.spotify.com/track/5KD1XpRTsNmaxLtT3M5oiD) | [Dennis Lookman](https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h) | [Ukelele Moments](https://open.spotify.com/album/2imt754FShtqbVcAyALgbq) | 4:18 | 2022-05-20 |  |
+| [Pumped Up Kicks](https://open.spotify.com/track/58b0omCJozdH06nY5riZfI) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pumped Up Kicks](https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu) | 3:22 | 2022-08-03 |  |
 | [Put Your Records On](https://open.spotify.com/track/6lOjXZgnwPzXXjZCPGXann) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Uke Songs to Fall in Love](https://open.spotify.com/album/0uU1jAQCgqDhJdLVYSzJVD) | 3:39 | 2022-05-20 |  |
 | [Riptide](https://open.spotify.com/track/26WunHZg3SjYMOu8SzNPGF) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:35 | 2022-05-20 |  |
 | [Rude](https://open.spotify.com/track/0VL4jLupGZHGv7RYTX6RSM) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 2:29 | 2022-05-20 |  |
@@ -80,6 +83,7 @@
 | [The Lion Sleeps Tonight](https://open.spotify.com/track/1lYTXhbkp0rZAN8KXqyX0I) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:16 | 2022-05-20 |  |
 | [The Scientist](https://open.spotify.com/track/17ejm3j1Pm74j0tC19FenK) | [Laurie Hefner](https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1) | [Me and My Uke](https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn) | 4:00 | 2022-05-20 |  |
 | [Thinking out Loud \- Ukulele Version](https://open.spotify.com/track/5vGoHkL7i3BFor4BzkmgUf) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Thinking out Loud \(Ukulele Version\)](https://open.spotify.com/album/1tLqdPFJvI4GiAgAv1TQBh) | 4:35 | 2022-05-20 |  |
+| [This Is Home](https://open.spotify.com/track/3IMXuDKy3jPJoPmV8yWJY9) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [This Is Home](https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa) | 3:47 | 2022-08-03 |  |
 | [Three Little Birds \- Ukulele Version](https://open.spotify.com/track/2kCMqR9YzN0WlPFqUdSkiC) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele Renditions of Summer Classic Hits! \(Ukulele Version\)](https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l) | 3:01 | 2022-05-20 |  |
 | [Time of the Season](https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Stand By Me](https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP) | 3:22 | 2022-07-01 |  |
 | [Upside Down](https://open.spotify.com/track/2ceP1Xn0blgkm4lF2ZSztF) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 3:03 | 2022-05-20 |  |

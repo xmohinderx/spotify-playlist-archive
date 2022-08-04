@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: SleazyWorld Go
 
-551 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+552 songs - 1 day 0 hr 49 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,8 @@
 | [The Wolf Is In The Peacoat](https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [The Wolf Is In The Peacoat](https://open.spotify.com/album/67p1Bgut3cEHpDJBTG8NQV) | 3:16 | 2022-03-04 | 2022-04-29 |
 | [The World Is Yours](https://open.spotify.com/track/5GOScDxUt3v3UP0SqfFwXJ) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Under Investigation 3](https://open.spotify.com/album/4fLrea4VuVYG6EpJEARt4R) | 2:27 | 2022-04-29 | 2022-06-18 |
 | [THEY DON'T KNOW](https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [THEY DON'T KNOW](https://open.spotify.com/album/2xAgOtruwnkJarTLexy2DS) | 1:43 | 2022-05-06 | 2022-05-20 |
-| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 | 2022-07-29 |  |
+| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/2l94QRczQbAB2EIugAS0sA) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 3:28 | 2022-07-29 |  |
+| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 | 2022-07-29 | 2022-08-04 |
 | [Throw'd As It Gets \(Remix\)\[Feat\. Maxo Kream\]](https://open.spotify.com/track/7zSSH0SSoU3jOUT6gbd1uA) | [Cam Wallace](https://open.spotify.com/artist/15PcygUDr0j5LvDA23i5BG), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Throw'd As It Gets \(Remix\)\[Feat\. Maxo Kream\]](https://open.spotify.com/album/7xrChkbhPLl6lWyFNOlix5) | 3:21 | 2022-04-15 | 2022-06-11 |
 | [Thug Paradise 2](https://open.spotify.com/track/1wqg2VowoogPATrqPzrpi3) | [Soldier Kidd](https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy) | [Thug Melodies](https://open.spotify.com/album/5VjgH8wgFP70tarZ6iJChd) | 3:00 | 2022-02-04 | 2022-04-02 |
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-04-08 | 2022-07-29 |

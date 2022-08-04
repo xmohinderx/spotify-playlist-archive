@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 195493,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3"
@@ -1766,6 +1766,28 @@
     },
     {
       "album": {
+        "name": "Mereces Menos",
+        "url": "https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Mereces Menos",
+      "url": "https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq"
+    },
+    {
+      "album": {
         "name": "Mi Cama (Remix)",
         "url": "https://open.spotify.com/album/6dVC3KSMioVw7ywpXx10cl"
       },
@@ -2621,7 +2643,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
@@ -2661,7 +2683,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 178723,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/2RzPVFpfWi2c0vTqzLoHwa"

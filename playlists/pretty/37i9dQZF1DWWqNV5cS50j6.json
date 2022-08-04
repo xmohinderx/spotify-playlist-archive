@@ -1,12 +1,12 @@
 {
   "description": "Indie music antimatter. Cover: brakence",
-  "num_followers": 654419,
+  "num_followers": 654519,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2MzcxMSwwMDAwMDAwMDYzOTUwMmMxNjAzNWZkOTYyYmQ3NmEyYzg5NmU1ZjBk",
+  "snapshot_id": "MTY1OTU2NDk1OCwwMDAwMDAwMGY5NDFjODAzMTIzOWNlYTYzMmYxNTUyZDBkY2I3ZDc5",
   "tracks": [
     {
       "added_at": "2022-07-22 09:35:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-07-19 15:55:17",
       "album": {
+        "name": "Ester",
+        "url": "https://open.spotify.com/album/4fRVpyAnoJZy0n1VQjAlNo"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "duration_ms": 185465,
+      "name": "Ester",
+      "url": "https://open.spotify.com/track/4JGv7vVgZvj5eTh4lecMBS"
+    },
+    {
+      "added_at": "2022-07-19 15:55:17",
+      "album": {
         "name": "MANDELA EFFECT",
         "url": "https://open.spotify.com/album/0Q9E2nWt9kadthLSxMydpU"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 109000,
       "name": "G00D.decisions^1",
       "url": "https://open.spotify.com/track/2u9SwGXDZF9bfwP4cs23ng"
-    },
-    {
-      "added_at": "2022-07-19 15:55:17",
-      "album": {
-        "name": "Ester",
-        "url": "https://open.spotify.com/album/4fRVpyAnoJZy0n1VQjAlNo"
-      },
-      "artists": [
-        {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
-        }
-      ],
-      "duration_ms": 185465,
-      "name": "Ester",
-      "url": "https://open.spotify.com/track/4JGv7vVgZvj5eTh4lecMBS"
     },
     {
       "added_at": "2022-07-19 15:55:17",

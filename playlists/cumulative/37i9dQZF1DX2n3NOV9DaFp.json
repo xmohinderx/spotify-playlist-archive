@@ -543,7 +543,7 @@
     {
       "album": {
         "name": "Final Destination",
-        "url": "https://open.spotify.com/album/3uvbInwEqnTnYmjgCDfCsc"
+        "url": "https://open.spotify.com/album/6PZymRFp89JEYsgQyD5NNl"
       },
       "artists": [
         {
@@ -558,6 +558,28 @@
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181087,
+      "name": "Beat Box 2 (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/3fHNHBb2eGLahIvoVa19zq"
+    },
+    {
+      "album": {
+        "name": "Final Destination",
+        "url": "https://open.spotify.com/album/3uvbInwEqnTnYmjgCDfCsc"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
       "duration_ms": 181087,
       "name": "Beat Box 2 (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/4viLFSt63lJgCEZMfJwxI4"

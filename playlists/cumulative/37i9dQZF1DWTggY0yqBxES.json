@@ -3126,6 +3126,24 @@
     },
     {
       "album": {
+        "name": "Paper",
+        "url": "https://open.spotify.com/album/1rNaHjqEp2w9z2Pryotv4r"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187527,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/58njyEW0iRoGKUy9xyPukJ"
+    },
+    {
+      "album": {
         "name": "peon",
         "url": "https://open.spotify.com/album/5SAq4DdwbqQkt2bNNqpOsr"
       },
@@ -3531,7 +3549,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 102397,
       "name": "ROUND HERE (PART ONE)",
       "url": "https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De"

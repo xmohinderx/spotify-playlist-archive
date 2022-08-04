@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,240 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,278 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 4 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 |
 | 5 | [If These Walls Could Talk](https://open.spotify.com/track/4yt9MUm0zxEgx6m0Nml7M9) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:02 |
 | 6 | [Big Daddy Wiz \(feat\. Girl Talk\)](https://open.spotify.com/track/327BrH20DE945kxC164frW) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Big Daddy Wiz \(feat\. Girl Talk\)](https://open.spotify.com/album/3uN1rbML3QpLSYVWMcrASW) | 2:11 |
-| 7 | [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 |
+| 7 | [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/2l94QRczQbAB2EIugAS0sA) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 3:28 |
 | 8 | [Fuck Alone \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/track/5fFoGKU6y3121VH0kHE3us) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Fuck Alone \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/album/0E8oKtWaoYMi8EPfEY0hLW) | 3:39 |
 | 9 | [What You Sellin](https://open.spotify.com/track/5eXeZ6zBes2uEyycxqhqgx) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [What You Sellin](https://open.spotify.com/album/7pXCljjRvxq7VaB3upUpIm) | 2:09 |
 | 10 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 96 | [Bows](https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Bows](https://open.spotify.com/album/6arekQAfjAS10TzMsgacOn) | 2:34 |
 | 97 | [Way Back](https://open.spotify.com/track/3yXKeBqm4cG0HNouTjclZ8) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [P\-Valley: Season 2, Episode 5 \(Music From the Original TV Series\)](https://open.spotify.com/album/4fPZpkXFGZEXHWjA4igRTF) | 2:35 |
 
-Snapshot ID: `MTY1OTA2ODk4MywwMDAwMDAwMGE2NDUyMDdmOWM0ZGQ2MjdlMDFhYzU0YTNmOTU3YjM3`
+Snapshot ID: `MTY1OTA2ODk4MywwMDAwMDAwMDkzZTEwYTNlMWFjM2ZlYzk2NGYyYjZiYjcxY2M0Nzg3`

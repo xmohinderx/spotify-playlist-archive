@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230362,
+  "num_followers": 230367,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMDE2NTg2ZTM3MWM5Zjk0YTAzMzI5YjQxNzU5YWY2Y2Iw",
+  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMDVkZGZmNzcwNjk4ZWQ1N2Q5NDc2ZGUyMWMxZmUxZjg3",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -303,18 +303,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Cruel Summer",
-        "url": "https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk"
+        "name": "Wicked Hearts",
+        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
       "artists": [
         {
-          "name": "Daniel Liebt",
-          "url": "https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Jamie Hartman",
+          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
         }
       ],
-      "duration_ms": 209142,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2"
+      "duration_ms": 189136,
+      "name": "Wicked Hearts",
+      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -383,26 +387,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Wicked Hearts",
-        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
-      },
-      "artists": [
-        {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        },
-        {
-          "name": "Jamie Hartman",
-          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
-        }
-      ],
-      "duration_ms": 189136,
-      "name": "Wicked Hearts",
-      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "The Ghost in Your Smile",
         "url": "https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 194242,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Cruel Summer",
+        "url": "https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Liebt",
+          "url": "https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
-      },
-      "artists": [
-        {
-          "name": "Sol Calor",
-          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
-        }
-      ],
-      "duration_ms": 218584,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 229581,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
+      },
+      "artists": [
+        {
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+        }
+      ],
+      "duration_ms": 218584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
     }
   ],
   "unique_name": "Aperitivo Time",

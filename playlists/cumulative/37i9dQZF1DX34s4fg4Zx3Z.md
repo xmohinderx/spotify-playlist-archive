@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-485 songs - 1 day 4 hr 12 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+486 songs - 1 day 4 hr 16 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bóng Tối Là Ánh Nến Của Anh](https://open.spotify.com/track/6burQf4069mXMBz6H7Iehn) | [Killic](https://open.spotify.com/artist/5Zosih1NRDj5W7mruPqfpu), [Buford](https://open.spotify.com/artist/1DxMYqEhE2kFdVI9mrxUJf) | [Bóng Tối Là Ánh Nến Của Anh](https://open.spotify.com/album/0c8d0ZPZ1JmWKurJ3YzNeR) | 2:57 | 2022-06-03 | 2022-06-28 |
 | [Bước Cùng Bé Yêu](https://open.spotify.com/track/79Ud2j9tHgzsBcRbDGH7oH) | [okenoc](https://open.spotify.com/artist/1016AntYdm2XoXWsvYA6tc), [FiGDee](https://open.spotify.com/artist/0z1BxmlQBMGmM99NI8tlAd) | [Bước Cùng Bé Yêu](https://open.spotify.com/album/6ZyWZpmK4K8Ai55j453jmY) | 4:10 | 2022-05-24 | 2022-06-10 |
 | [Bản Waltz Của Tình Yêu](https://open.spotify.com/track/7GxJZkBwSBdKX8uXfZvsCZ) | [Liamism](https://open.spotify.com/artist/0tEyJ5Bd4FCwcHGq3l3kKY) | [Bản Waltz Của Tình Yêu](https://open.spotify.com/album/3kWHoBh1wWoqU3u3ynP1vH) | 6:19 | 2022-07-09 | 2022-07-21 |
+| [Bất Cần](https://open.spotify.com/track/4NvUI0B8zb7OgV5z5n6pbS) | [Masta Trippy](https://open.spotify.com/artist/6mhwVvYiIjEBAbKoMrIW6K) | [Bất Cần](https://open.spotify.com/album/1RUaxIXWSiGj5pPn0NIM6b) | 3:10 | 2022-08-03 |  |
 | [Bận Than Với Bạn Thân \(feat\. Minh Trang\)](https://open.spotify.com/track/3Vq9NIyCBuyVGhugwFkivR) | [Hades](https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh), [Minh Trang](https://open.spotify.com/artist/6WasoKpQ0fKRA4cTF8qj4n) | [Bận Than Với Bạn Thân \(feat\. Minh Trang\)](https://open.spotify.com/album/6qJbKzYWgKUqlxw6FK3AbE) | 2:34 | 2022-03-17 | 2022-03-31 |
 | [Bắp Rang Bơ](https://open.spotify.com/track/0aybUP5A6uBYmAr87tDY5t) | [HENRY](https://open.spotify.com/artist/1iBO7Ag9LniAVT6sEHhgUZ), [MKM](https://open.spotify.com/artist/1gcl9SIG3bF3Y9tTum9bkL) | [Bắp Rang Bơ](https://open.spotify.com/album/6VY0535fKsUyyVoQQvoCYX) | 2:43 | 2022-06-16 | 2022-06-27 |
 | [Bằng Lăng Nở Hoa](https://open.spotify.com/track/4ZP49DLU2Uk0LmRT98w0bK) | [Anh Rồng](https://open.spotify.com/artist/6QwHC6CRkFfpwGYEzFsTsK) | [Bằng Lăng Nở Hoa](https://open.spotify.com/album/5KZ1wmO6kW021XN89RKxiL) | 3:54 | 2022-06-19 | 2022-06-27 |
@@ -478,7 +479,7 @@
 | [Đôi Tay Trầy Xước](https://open.spotify.com/track/2L2g1BED1XmJERsPTtP7Se) | [Ti\-K](https://open.spotify.com/artist/721Jxv7PIbCVpW3eDeE4SM) | [Đôi Tay Trầy Xước](https://open.spotify.com/album/0XlO9yeFWBtsnzAKmOzSje) | 2:51 | 2022-03-14 | 2022-04-28 |
 | [Đông Mờ Phai Trên Bờ Vai](https://open.spotify.com/track/01Ta8m4osrCItbtunaqdhe) | [ImD](https://open.spotify.com/artist/4kZKhAiaD155vll9hoEycu) | [Đông Mờ Phai Trên Bờ Vai](https://open.spotify.com/album/4LqMT9znaLPzLMIYnHAhB5) | 3:18 | 2022-03-02 | 2022-03-18 |
 | [Đơn Phương Là Chờ Cho Hết Thương](https://open.spotify.com/track/3pPttHSxChJv7vb0k7YYxD) | [Lena](https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT), [Sz](https://open.spotify.com/artist/6sLyjLHoclS6nQAsPpPOT4) | [Đơn Phương Là Chờ Cho Hết Thương](https://open.spotify.com/album/7EwIPHlheq7paCmXeVum8M) | 2:31 | 2022-07-09 | 2022-07-22 |
-| [Đơn Phương Yêu Một Người](https://open.spotify.com/track/6QGsnqstsglVRe3j7PT9uv) | [Long.C](https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Đơn Phương Yêu Một Người](https://open.spotify.com/album/28v33lCIBAgp79shHixWMi) | 3:54 | 2022-06-26 |  |
+| [Đơn Phương Yêu Một Người](https://open.spotify.com/track/6QGsnqstsglVRe3j7PT9uv) | [Long.C](https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Đơn Phương Yêu Một Người](https://open.spotify.com/album/28v33lCIBAgp79shHixWMi) | 3:54 | 2022-06-26 | 2022-08-04 |
 | [Đưa Anh Tờ Giấy Đó](https://open.spotify.com/track/2C3XvbGDiVe8BrLVHELS1Y) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [Đưa Anh Tờ Giấy Đó](https://open.spotify.com/album/3ARYSUUZErfVr3XNOts8ul) | 2:42 | 2022-03-22 | 2022-03-31 |
 | [Đưa Đôi Tay Đây](https://open.spotify.com/track/5n3slwb8POHmZ3eM9M6qM3) | [Lê Vũ](https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ), [Hồ Văn Quý](https://open.spotify.com/artist/7uU7S5FLq7ZZABczz5xstR), [XAM](https://open.spotify.com/artist/0eu5rO5SFhiupVgf5woh9H) | [Đưa Đôi Tay Đây](https://open.spotify.com/album/6m4X1PZ3MqZgyilGMECnI1) | 3:36 | 2022-01-06 | 2022-01-21 |
 | [Đường Vẫn Còn Dài](https://open.spotify.com/track/5dkMPrtwjnRzAtE6gMnwK6) | [SMO](https://open.spotify.com/artist/1eLRJ9F6qwKeI6frD3ZzQg) | [Đường Vẫn Còn Dài](https://open.spotify.com/album/0jxKreW7Q1Btq4pcEU1zYH) | 3:36 | 2022-04-22 | 2022-06-22 |

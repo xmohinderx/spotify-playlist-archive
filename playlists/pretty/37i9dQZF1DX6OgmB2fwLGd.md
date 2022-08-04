@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Minions
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,881 likes - 90 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,569 likes - 90 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 89 | [Knight in Shining Armor](https://open.spotify.com/track/19Bbo6pDB5AdMFIl9UpxlV) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Knight in Shining Armor](https://open.spotify.com/album/6anwom4cs5kruajxIqjveO) | 2:20 |
 | 90 | [2010](https://open.spotify.com/track/7ze7yEV1xvxPxuPaF0oUUU) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 2:28 |
 
-Snapshot ID: `MTY1OTM2NDY4NywwMDAwMDAwMGUwOWYxNTM5NmUwYmFlMzU2ODRhY2JjZWYxOWUxMzM4`
+Snapshot ID: `MTY1OTU1NjEyNiwwMDAwMDAwMDk1ZjI0YzM0ZGUyMTJmNThlNDFkZWUxOTc3NDdjMGZk`

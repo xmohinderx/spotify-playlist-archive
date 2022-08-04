@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 
 > nos fuimos de fiesta 🎉 <br/>Cover: Farruko
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,256 likes - 116 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,339 likes - 116 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: DOMi & JD BECK
 
-1,601 songs - 3 day 18 hr 11 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,603 songs - 3 day 18 hr 17 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 | 2022-03-25 | 2022-07-09 |
 | [Can't Leave You Like This](https://open.spotify.com/track/3CWBf0gBsPvTsP02CbvNze) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Can't Leave You Like This](https://open.spotify.com/album/2GBwTicnRZQWVAdkh13pe4) | 5:33 | 2019-09-20 | 2019-10-16 |
 | [CANDY CANE](https://open.spotify.com/track/0aIGp0OnQ5if6Ike2pBKxy) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Special K](https://open.spotify.com/album/0CI3WeE4BpZtCC2rjEIAwX) | 3:53 | 2020-10-22 | 2020-11-13 |
+| [candy reign \(!\)](https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [candy reign \(!\)](https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2) | 2:18 | 2022-08-03 |  |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2021-12-10 | 2022-02-12 |
 | [Caption](https://open.spotify.com/track/0XYw1lyebbiNd3wwO5d4kN) | [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Caption](https://open.spotify.com/album/41ZsJ5HRfm29cYRQDGPUx9) | 3:14 | 2020-09-18 | 2020-12-04 |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2020-10-16 | 2021-02-06 |
@@ -1472,6 +1473,7 @@
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-24 |  |
 | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq) | 2:43 | 2020-09-11 | 2020-10-22 |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2021-02-06 | 2021-04-09 |
+| [Twin Flame](https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/4rZPUX1MOeZ4XpJSta8Epm) | 3:52 | 2022-08-03 |  |
 | [Twinkle](https://open.spotify.com/track/2Eqbp4tBXu1E4QT6DB9JjR) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Twinkle](https://open.spotify.com/album/3EqyTGIVS6GR5dr3zvq0n0) | 3:14 | 2020-10-03 | 2021-02-12 |
 | [two door tiffany](https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [quinn](https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2) | 3:06 | 2022-07-22 |  |
 | [Two Face](https://open.spotify.com/track/7eE8Doh8THjGp6Vpg3RdQ8) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Two Face](https://open.spotify.com/album/52G5UzGDFImfKKpMiYzn1W) | 4:07 | 2021-04-01 | 2022-01-15 |

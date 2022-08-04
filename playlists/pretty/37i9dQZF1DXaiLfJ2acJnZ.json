@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 34145,
+  "num_followers": 34152,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMGEwZjNiMWUzMDQwNzA5OWYyNjI4MWY1NTQ0MzFmYzg1",
+  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMGY3OTYxOWIwNzU1OWRjMGM0NThkNjkxNWE4OWFiNmNi",
   "tracks": [
     {
       "added_at": "2022-01-21 15:01:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Something in the Water",
-        "url": "https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt"
-      },
-      "artists": [
-        {
-          "name": "Boys World",
-          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
-        }
-      ],
-      "duration_ms": 186963,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Can You Hear Me Now?",
         "url": "https://open.spotify.com/album/54AUddF7LyGKylFLSNoK8g"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 149210,
       "name": "CHARGER",
       "url": "https://open.spotify.com/track/0iBBOvVQ8QCK7F95boCn3C"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Something in the Water",
+        "url": "https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "duration_ms": 186963,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
+        "name": "When The Lights Go Out",
+        "url": "https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "When The Lights Go Out",
+      "url": "https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
         "name": "1,000,000 X Better",
         "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 191739,
       "name": "1,000,000 X Better",
       "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
-        "name": "When The Lights Go Out",
-        "url": "https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "When The Lights Go Out",
-      "url": "https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "New Wave EP",
-        "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "New Wave",
-      "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "One Foot in Front of the Other",
         "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 192075,
       "name": "One Foot in Front of the Other",
       "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "New Wave EP",
+        "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "New Wave",
+      "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
     },
     {
       "added_at": "2022-01-21 15:01:49",

@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-57 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+58 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Two Two Two](https://open.spotify.com/track/7mhJ08BCG6goQ8mPpk9TuZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 2:56 | 2022-04-28 |  |
 | [Uruttu](https://open.spotify.com/track/56kHBD2biMor1AHSCE40bA) | [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD), [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz), [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Uruttu \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/3hHZsklIyfzfx3bqsywRnQ) | 3:34 | 2021-12-02 | 2022-06-28 |
 | [Vaadi Vaasal \- From "The Legend"](https://open.spotify.com/track/1603c8fUKw65aJubrsTnAt) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Vaadi Vaasal \(From "The Legend"\)](https://open.spotify.com/album/2xc1j2STHlCyX00edTUkOc) | 4:18 | 2022-05-23 |  |
+| [Vaanam Kidukidunga](https://open.spotify.com/track/7pog5PPLDv7NcGO975f3EJ) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm) | [Viruman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Rwd1j6rdOs7M9PLCkqcOi) | 4:08 | 2022-08-03 |  |
 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 | 2021-12-01 |  |
 | [Vaathi Kabaddi \(From "Master"\)](https://open.spotify.com/track/7uMf1DQzEMqgJOSQgc5K2Y) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Vaathi Kabaddi \(From "Master"\)](https://open.spotify.com/album/5wLGZYZn31hwzP5CI6M8z0) | 3:26 | 2021-12-01 |  |
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2021-12-01 |  |

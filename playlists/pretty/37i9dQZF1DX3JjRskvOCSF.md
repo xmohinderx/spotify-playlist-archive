@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjRskvOCSF.md) - [plain]
 
 > <a href =“spotify:artist:10hGPIDZi33LRaYRIq3Bh4”>Dimitri Vangelis & Wyman</a> are the perfect duo to get us into main stage vibes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 4 songs - 13 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 708 likes - 4 songs - 13 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

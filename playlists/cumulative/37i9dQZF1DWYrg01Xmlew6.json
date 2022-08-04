@@ -1041,6 +1041,28 @@
     {
       "album": {
         "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227005,
+      "name": "No Love (feat. CoCo)",
+      "url": "https://open.spotify.com/track/04UJuGMKBimBWXdpL93dDd"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
       },
       "artists": [
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 227005,
       "name": "No Love (feat. CoCo)",
       "url": "https://open.spotify.com/track/4tlDLoVg3YX4GNBnddaNZb"
@@ -1215,10 +1237,32 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 210493,
       "name": "Over (feat. Geolier)",
       "url": "https://open.spotify.com/track/50MEBYlrrt47OTvpoZ8AcH"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Over (feat. Geolier)",
+      "url": "https://open.spotify.com/track/6URgRkWHKc7SJpC1NSVBrP"
     },
     {
       "album": {

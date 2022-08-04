@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Brray.",
-  "num_followers": 107481,
+  "num_followers": 107554,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1OTY4NywwMDAwMDAwMGQ5ODEyMTNlNmY0ZjZiNDJiZjI1ODhlMzQzZTNmZDc4",
+  "snapshot_id": "MTY1ODQ1OTY4NywwMDAwMDAwMDY1YmNlMWFmYWY1Mjg5MGUzZmQzZDQwYjA5MDI0OWUx",
   "tracks": [
     {
       "added_at": "2022-07-22 03:14:47",
@@ -599,6 +599,42 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 212312,
+      "name": "Reggaetonera",
+      "url": "https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "PA' ROMPERLA",
+      "url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -635,42 +671,6 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "PA' ROMPERLA",
-      "url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 212312,
-      "name": "Reggaetonera",
-      "url": "https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Keii",
-        "url": "https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Keii",
-      "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 178064,
       "name": "Trakat\u00e1",
       "url": "https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "Keii",
+        "url": "https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Keii",
+      "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -911,42 +911,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 231745,
-      "name": "Jangueo",
-      "url": "https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "Cu4tro",
         "url": "https://open.spotify.com/album/20Eimnv9BdL7PQ1WGnbQX3"
       },
@@ -967,6 +931,42 @@
       "duration_ms": 249854,
       "name": "Cu4tro",
       "url": "https://open.spotify.com/track/68V31zQa7VOH4P99PMeBna"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 231745,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1719,30 +1719,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Parcera",
-        "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
-      },
-      "artists": [
-        {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "ADSO",
-          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
-        }
-      ],
-      "duration_ms": 213652,
-      "name": "Parcera",
-      "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -1767,6 +1743,30 @@
       "duration_ms": 156096,
       "name": "Full Pioli (feat. Best)",
       "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
+      },
+      "artists": [
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        }
+      ],
+      "duration_ms": 213652,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
+        "name": "\u00c1cido",
+        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "\u00c1cido",
+      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
         "name": "Pikete",
         "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 153191,
       "name": "Pikete",
       "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "\u00c1cido",
-        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "\u00c1cido",
-      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
+        "name": "Antonio",
+        "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Antonio",
+      "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
         "name": "Cerrando Cap\u00edtulo",
         "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 172054,
       "name": "Coraz\u00f3n Ego\u00edsta",
       "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "Antonio",
-        "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Antonio",
-      "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
     },
     {
       "added_at": "2022-07-22 03:14:47",

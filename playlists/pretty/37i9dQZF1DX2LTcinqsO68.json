@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth",
-  "num_followers": 2277906,
+  "num_followers": 2279137,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzc1NjgwMCwwMDAwMDAwMDMwNDU0ZjNjZjk2M2JhYjA2NjFmYzU3NzAxZjdlYTMy",
+  "snapshot_id": "MTY1Nzc1NjgwMCwwMDAwMDAwMDRjMzRlMTdhMDkzMmI3MTFkMTdjMDU4MDMxNGVkZDk5",
   "tracks": [
     {
       "added_at": "2022-07-14 00:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 316866,
-      "name": "Metal Health (Bang Your Head)",
-      "url": "https://open.spotify.com/track/28clONjZmul6FjfO6tZQDE"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Kill 'Em All (Remastered)",
         "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 414720,
       "name": "Seek & Destroy (Remastered)",
       "url": "https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
+      },
+      "artists": [
+        {
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 316866,
+      "name": "Metal Health (Bang Your Head)",
+      "url": "https://open.spotify.com/track/28clONjZmul6FjfO6tZQDE"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 368506,
-      "name": "Highway Star",
-      "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "No Remorse",
         "url": "https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 279306,
       "name": "Killed by Death",
       "url": "https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 368506,
+      "name": "Highway Star",
+      "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+        "name": "Among The Living",
+        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
       },
       "artists": [
         {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
         }
       ],
-      "duration_ms": 187493,
-      "name": "Animal (Fuck Like A Beast)",
-      "url": "https://open.spotify.com/track/22KezdnLpayPKz4aTDt899"
+      "duration_ms": 341333,
+      "name": "Indians",
+      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Among The Living",
-        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
       "artists": [
         {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
         }
       ],
-      "duration_ms": 341333,
-      "name": "Indians",
-      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
+      "duration_ms": 187493,
+      "name": "Animal (Fuck Like A Beast)",
+      "url": "https://open.spotify.com/track/22KezdnLpayPKz4aTDt899"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Among The Living (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 300093,
-      "name": "Caught In A Mosh",
-      "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Wheels of Steel (2009 Remastered Version)",
         "url": "https://open.spotify.com/album/6EGEGr4oY0PsV6yGBxeQ8J"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 283226,
       "name": "Burn in Hell",
       "url": "https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Among The Living (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 300093,
+      "name": "Caught In A Mosh",
+      "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "On Through The Night",
-        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Restless And Wild",
-        "url": "https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Fast as a Shark",
-      "url": "https://open.spotify.com/track/204523f9MSgEfc0oDJycNS"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Denim and Leather",
         "url": "https://open.spotify.com/album/40v5zR6YBrjhkodFEjZcKs"
       },
@@ -1675,6 +1643,22 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
+        "name": "On Through The Night",
+        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
         "name": "Don't Break the Oath",
         "url": "https://open.spotify.com/album/6gADLDKOjcXTFrfE5Xp3HA"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 312760,
       "name": "A Dangerous Meeting",
       "url": "https://open.spotify.com/track/0V7iTNAnyoOqcZz54lGA4E"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Restless And Wild",
+        "url": "https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Fast as a Shark",
+      "url": "https://open.spotify.com/track/204523f9MSgEfc0oDJycNS"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1755,38 +1755,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Metal Rendez-Vous",
-        "url": "https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw"
-      },
-      "artists": [
-        {
-          "name": "Krokus",
-          "url": "https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Bedside Radio",
-      "url": "https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Fire Down Under",
-        "url": "https://open.spotify.com/album/5yygmFcqz4aOo36rLXyNXO"
-      },
-      "artists": [
-        {
-          "name": "Riot",
-          "url": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Swords and Tequila",
-      "url": "https://open.spotify.com/track/3lJqE5AKrrFDFdhDyB0kqx"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Michael Schenker Group",
         "url": "https://open.spotify.com/album/6QqK1XqWiU2fSVuLUXgdeR"
       },
@@ -1803,18 +1771,18 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Restless And Wild",
-        "url": "https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX"
+        "name": "Fire Down Under",
+        "url": "https://open.spotify.com/album/5yygmFcqz4aOo36rLXyNXO"
       },
       "artists": [
         {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+          "name": "Riot",
+          "url": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
         }
       ],
-      "duration_ms": 375466,
-      "name": "Princess of the Dawn",
-      "url": "https://open.spotify.com/track/2CgXyaryyuxl35iMlvanD8"
+      "duration_ms": 200333,
+      "name": "Swords and Tequila",
+      "url": "https://open.spotify.com/track/3lJqE5AKrrFDFdhDyB0kqx"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1847,6 +1815,38 @@
       "duration_ms": 282560,
       "name": "Under Jolly Roger",
       "url": "https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Restless And Wild",
+        "url": "https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 375466,
+      "name": "Princess of the Dawn",
+      "url": "https://open.spotify.com/track/2CgXyaryyuxl35iMlvanD8"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Metal Rendez-Vous",
+        "url": "https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw"
+      },
+      "artists": [
+        {
+          "name": "Krokus",
+          "url": "https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Bedside Radio",
+      "url": "https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Metal Heart",
-        "url": "https://open.spotify.com/album/3aNoUWVxh05ahM2uHaEhKp"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "Metal Heart",
-      "url": "https://open.spotify.com/track/4f73ikIdf3E1r89cRzo7e6"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Ten Black Years: Best Of",
         "url": "https://open.spotify.com/album/4CkwJZRRMAFz8L0F2sBaWp"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 364626,
       "name": "Agent Orange",
       "url": "https://open.spotify.com/track/0CDHN3Wk8JY0p5myySB0mS"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Metal Heart",
+        "url": "https://open.spotify.com/album/3aNoUWVxh05ahM2uHaEhKp"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Metal Heart",
+      "url": "https://open.spotify.com/track/4f73ikIdf3E1r89cRzo7e6"
     },
     {
       "added_at": "2022-07-14 00:00:00",

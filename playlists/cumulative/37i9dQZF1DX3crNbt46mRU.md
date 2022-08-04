@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Beyoncé
 
-2,516 songs - 5 day 9 hr 3 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+2,517 songs - 5 day 9 hr 7 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,7 +1173,7 @@
 | [Karussell](https://open.spotify.com/track/1YcuhTZfBHeyo9wVdNRiRR) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Karussell](https://open.spotify.com/album/3Dfx1KFbOkFXBWQGL7U0MD) | 2:35 | 2022-07-14 | 2022-07-22 |
 | [Karussell](https://open.spotify.com/track/2bq6A8jTCM4TqUf3fcLgJs) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Karussell](https://open.spotify.com/album/7j3alBkBX6MaPfGZsPDdv9) | 2:37 | 2022-06-23 | 2022-07-01 |
 | [Kasse](https://open.spotify.com/track/5mKmAthjFupo7Gwxu0MMQW) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Kasse](https://open.spotify.com/album/71pophw7yRzwN6TxqeXjv5) | 2:26 | 2022-04-07 | 2022-04-15 |
-| [Kaum Bist Du Weg](https://open.spotify.com/track/7I3RKM56bJLsy4e0kMVhsS) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [Yrrre](https://open.spotify.com/artist/28YHID2MGPhoEJIuCxqdpO) | [Kaum Bist Du Weg](https://open.spotify.com/album/1eZZAJKD78LU8b0lmvQyyK) | 4:11 | 2022-07-29 |  |
+| [Kaum Bist Du Weg](https://open.spotify.com/track/7I3RKM56bJLsy4e0kMVhsS) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC) | [Kaum Bist Du Weg](https://open.spotify.com/album/1eZZAJKD78LU8b0lmvQyyK) | 4:11 | 2022-07-29 |  |
 | [Kaviar am Block](https://open.spotify.com/track/7yc7BFxFm5CPNBYrLQc4U2) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ), [Azzi Memo](https://open.spotify.com/artist/477D3WI5iTnEmCOe7QFU5G) | [Kaviar am Block](https://open.spotify.com/album/2RUaa3UGmYTI6uby8CvnBp) | 2:38 | 2022-05-12 | 2022-05-20 |
 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 | 2022-06-23 | 2022-07-01 |
 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 | 2022-06-16 | 2022-06-24 |
@@ -2199,7 +2199,8 @@
 | [Thoughts](https://open.spotify.com/track/2hwdkCGyNMrCaSlFSdJtQ7) | [DOTE](https://open.spotify.com/artist/0OxUICX98hef3SYXRXZUNi) | [Thoughts](https://open.spotify.com/album/6tKmTnhWjpcg1PCi583KrH) | 2:57 | 2022-02-17 | 2022-02-25 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-21 | 2022-04-29 |
 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-05-12 | 2022-05-20 |
-| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 | 2022-07-29 |  |
+| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/2l94QRczQbAB2EIugAS0sA) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 3:28 | 2022-07-29 |  |
+| [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 | 2022-07-29 | 2022-08-04 |
 | [Throw Up When I See Your Face](https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Throw Up When I See Your Face](https://open.spotify.com/album/00Q3J1ya3dDlApLcaaczR1) | 2:44 | 2022-04-28 | 2022-05-06 |
 | [Thunder Fever](https://open.spotify.com/track/22uorZHWp6U89kCJugaqiR) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Thunder Fever](https://open.spotify.com/album/5d92PvDER2GJql4x86vkwk) | 3:09 | 2022-02-24 | 2022-03-04 |
 | [Ticket nach Ketama \(feat\. Liaze\)](https://open.spotify.com/track/7KWwQ8SokgUDO7es6Q4ZGW) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [Ticket nach Ketama \(feat\. Liaze\)](https://open.spotify.com/album/1VzaGDvMcgi3PbBZhfrbLV) | 3:04 | 2022-07-21 | 2022-07-29 |

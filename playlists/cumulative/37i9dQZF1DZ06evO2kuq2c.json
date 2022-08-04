@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 247664,
       "name": "An Ordinary Extinction",
       "url": "https://open.spotify.com/track/1a3ght71qSYa6wBFmmmTE2"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 264706,
       "name": "Hollow Crown",
       "url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 241034,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
@@ -729,6 +729,24 @@
     {
       "album": {
         "name": "tear gas",
+        "url": "https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257903,
+      "name": "tear gas",
+      "url": "https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF"
+    },
+    {
+      "album": {
+        "name": "tear gas",
         "url": "https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L"
       },
       "artists": [
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 257903,
       "name": "tear gas",
       "url": "https://open.spotify.com/track/5dmmNOi4QVrB6TbYDy2GCg"

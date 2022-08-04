@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Justin Morales en portada.",
-  "num_followers": 41896,
+  "num_followers": 41957,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1NjQwMCwwMDAwMDAwMGFhNGNkM2Y2MDQ4OTRmZDBlZTc1MTM3ODY1NzQwZjY4",
+  "snapshot_id": "MTY1NzI1NjQwMCwwMDAwMDAwMDEwZDMyYzRjZGVkYzM3MDgzYmY0NjFmMmVlM2M1Zjc1",
   "tracks": [
     {
       "added_at": "2022-02-23 16:41:23",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
     },
     {
-      "added_at": "2022-06-17 17:30:56",
-      "album": {
-        "name": "Lo Que Construimos - Spotify Singles",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos - Spotify Singles",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
       "added_at": "2022-02-23 16:41:23",
       "album": {
         "name": "Marcando La Diferencia",
@@ -463,6 +447,22 @@
       "duration_ms": 193666,
       "name": "Qu\u00e9date Conmigo",
       "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
+    },
+    {
+      "added_at": "2022-06-17 17:30:56",
+      "album": {
+        "name": "Lo Que Construimos - Spotify Singles",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-03-04 17:57:14",
@@ -641,24 +641,20 @@
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
     },
     {
-      "added_at": "2022-02-23 16:41:23",
+      "added_at": "2022-04-01 18:32:14",
       "album": {
-        "name": "Me Dicen Nini",
-        "url": "https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5"
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
       },
       "artists": [
         {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Markitos Toys",
-          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 215121,
-      "name": "Me Dicen Nini",
-      "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
     },
     {
       "added_at": "2021-12-27 20:28:17",
@@ -677,20 +673,24 @@
       "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
-      "added_at": "2022-04-01 18:32:14",
+      "added_at": "2022-02-23 16:41:23",
       "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+        "name": "Me Dicen Nini",
+        "url": "https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Markitos Toys",
+          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
         }
       ],
-      "duration_ms": 174405,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
+      "duration_ms": 215121,
+      "name": "Me Dicen Nini",
+      "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
     },
     {
       "added_at": "2022-04-29 05:00:00",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53"
     },
     {
-      "added_at": "2022-05-13 05:00:00",
-      "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/01Jm1oH8OrOMtMQOI6UfUg"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 220280,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/0jdSKCIcsJuIVeg39EevgT"
-    },
-    {
       "added_at": "2022-06-24 05:00:00",
       "album": {
         "name": "Alucinando",
@@ -1191,6 +1175,22 @@
       "duration_ms": 174400,
       "name": "El Discovery",
       "url": "https://open.spotify.com/track/6osid8f2nLcVrpa1Xd0emE"
+    },
+    {
+      "added_at": "2022-05-13 05:00:00",
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/01Jm1oH8OrOMtMQOI6UfUg"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 220280,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/0jdSKCIcsJuIVeg39EevgT"
     },
     {
       "added_at": "2022-04-01 18:32:14",

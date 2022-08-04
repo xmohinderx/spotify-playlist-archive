@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists.  Cover: Garth Brooks and Trisha Yearwood",
-  "num_followers": 74961,
+  "num_followers": 75044,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDlmYjk3ZGI4YWQ5Mjg3MWQyYWMxN2NjYWRhYTVlNGU5",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDYwZWU1ZGVjODM0NzRkZjkxMmJkYWI5NzgwY2NkM2Q1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Reba Duets",
         "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 223746,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Loud and Heavy",
         "url": "https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 201076,
       "name": "Loud and Heavy",
       "url": "https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Uncovered",
-        "url": "https://open.spotify.com/album/5hs99gvzSISGOEmncgy853"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Uncovered",
+        "url": "https://open.spotify.com/album/5hs99gvzSISGOEmncgy853"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/35bKt6TLADU51iQ6Z3Of5S"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Three Times A Lady",
-      "url": "https://open.spotify.com/track/4kNaVprADQDfWl18mCXxh7"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Carolina In My Mind",
         "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 233684,
       "name": "Carolina In My Mind",
       "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/35bKt6TLADU51iQ6Z3Of5S"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/4kNaVprADQDfWl18mCXxh7"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Wild And Blue",
-      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Wild And Blue",
+      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "I Wanna Dance with Somebody",
+        "url": "https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K"
+      },
+      "artists": [
+        {
+          "name": "Mark Jones & Twenty Paces",
+          "url": "https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04"
+        }
+      ],
+      "duration_ms": 191258,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Flower Shops",
         "url": "https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 230453,
       "name": "Home",
       "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "I Wanna Dance with Somebody",
-        "url": "https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K"
-      },
-      "artists": [
-        {
-          "name": "Mark Jones & Twenty Paces",
-          "url": "https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04"
-        }
-      ],
-      "duration_ms": 191258,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z"
     },
     {
       "added_at": "2022-07-29 04:00:00",

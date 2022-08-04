@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Jeevanandhan Ram
 
-151 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+152 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Tea Vibes](https://open.spotify.com/track/1iJV3JB2IjuVYE3dSdY9oA) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes \- Single](https://open.spotify.com/album/3FDsCWMMNczB3gUKe7Wokj) | 3:31 | 2022-07-11 |  |
 | [Tea Vibes](https://open.spotify.com/track/5RjmGdKkv1jm1eZay74ViD) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes](https://open.spotify.com/album/4UQWiTOg75IvIlw4W8YI4H) | 3:31 | 2022-07-11 | 2022-07-29 |
 | [thamizhachi.](https://open.spotify.com/track/3IeeDRRDhcTCNIrbF5Xo0i) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Therukural](https://open.spotify.com/album/7gBpS4mYJ2YEvd9GpDn6jI) | 3:26 | 2021-12-01 |  |
+| [Thandananae Metagen](https://open.spotify.com/track/03eCtcvHSyUkq0LSlRfDmL) | [Oxygen World Fusion Music Band](https://open.spotify.com/artist/33NPndmRz4nlEGs0yO2r8l), [Tenor Strings](https://open.spotify.com/artist/6NpWPtVunT8TkdsI6PNSN6) | [Thandananae Metagen](https://open.spotify.com/album/3LdVRj3WizD4hL8go16TEi) | 3:41 | 2022-08-03 |  |
 | [Thanimai](https://open.spotify.com/track/7JEHMrljGhwHVUvOvuxRR1) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Mukhil Mayuri](https://open.spotify.com/artist/6xt9DlwkUDHvbHszleG8sj), [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w) | [Thanimai](https://open.spotify.com/album/4Izn8g8vdI1AWqS3M9nEEA) | 4:01 | 2022-06-27 | 2022-07-15 |
 | [Thanimaiyil Unai Ninaikkiren](https://open.spotify.com/track/1b3F0PVSarXVhhnw4hhf6D) | [Raj Palanivel](https://open.spotify.com/artist/5eHUcMTz8P3Cwodr0oWbFx), [Praniti](https://open.spotify.com/artist/2SrfI49UJd2PEkseov5GSF) | [Thanimaiyil Unai Ninaikkiren](https://open.spotify.com/album/3OuLfxbXvms0Y4OqgAGblN) | 3:51 | 2022-03-28 | 2022-07-18 |
 | [Thedi thedi](https://open.spotify.com/track/3Cke9lomwCAl7OvAe95mHR) | [Ponkundram](https://open.spotify.com/artist/1oOMV1i6RXQag9uraVqkW3) | [MOUNAM](https://open.spotify.com/album/3zrBiHKgxiZhjVCI8N7WfI) | 2:36 | 2022-06-17 |  |

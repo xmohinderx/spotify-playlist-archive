@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare in questa summersad ❤️‍🩹 🌦 e in cover olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,584 likes - 85 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,590 likes - 85 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

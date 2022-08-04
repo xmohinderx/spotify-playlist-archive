@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Beyoncé 🐝
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,090 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,082 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 93 | [Summer On The East Coast](https://open.spotify.com/track/3hjo33dOJ98AGLOHhxv7NE) | [Lilianna Wilde](https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY) | [Summer On The East Coast](https://open.spotify.com/album/7wTobC0vSrjpwi1SYKhKlV) | 1:45 |
 | 94 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
 | 95 | [OMGarden](https://open.spotify.com/track/5Tpsm1K4aLCRtqTMSbRNT5) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [OMGarden](https://open.spotify.com/album/6P4uVtkCyz4RolM62iuqa2) | 3:53 |
-| 96 | [Moonshine River](https://open.spotify.com/track/2VmaCHiGuA9JrD4JFfNRQt) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Moonshine River](https://open.spotify.com/album/5mNQ4eQemT92gMvUQiRHo6) | 2:27 |
+| 96 | [Moonshine River](https://open.spotify.com/track/1xMuxIzt8CmjXTWYZvcNzA) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Moonshine River](https://open.spotify.com/album/46emIKPmmmvWQo0I2aymNq) | 2:27 |
 | 97 | [City Of Serpents](https://open.spotify.com/track/1lgUY0CDC92SbaVwcpyaRn) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [City Of Serpents](https://open.spotify.com/album/5ih9wrmTQmzJR4G1aCpGfQ) | 2:07 |
 | 98 | [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 |
 | 99 | [Heat Rush](https://open.spotify.com/track/1c1bXK9Ez12AX3HRIc2CuM) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Dyer](https://open.spotify.com/artist/5lZsgwFPYEIgoZ6Kahe6VF) | [Heat Rush](https://open.spotify.com/album/11srcc3f4TvwQCnR0rql1J) | 2:52 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 101 | [Miss Miss Miss](https://open.spotify.com/track/2C2ThMDcEbG3exx1nHmW9g) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Miss Miss Miss](https://open.spotify.com/album/29368c8WE9XT7lsmkPG5GY) | 3:37 |
 | 102 | [Crazy He Calls Me](https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Crazy He Calls Me](https://open.spotify.com/album/1S0Arx1e1OK0XWnb41R7fx) | 2:30 |
 
-Snapshot ID: `MTY1OTA2ODkzOSwwMDAwMDAwMGQwZjRkMjU5MzE3ZDUyZTVjZTdhYWE5MTMzZmQ4NmQ2`
+Snapshot ID: `MTY1OTA2ODkzOSwwMDAwMDAwMDNlODlmOWM1NTFjM2E3MjM5YzY1ZGNiNGM3NTM2YzQ4`

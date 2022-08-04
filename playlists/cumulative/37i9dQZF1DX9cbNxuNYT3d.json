@@ -464,24 +464,6 @@
     },
     {
       "album": {
-        "name": "In Love With You",
-        "url": "https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d"
-      },
-      "artists": [
-        {
-          "name": "The Paradise",
-          "url": "https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ"
-        }
-      ],
-      "date_added": "2022-07-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 254066,
-      "name": "In Love With You",
-      "url": "https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7"
-    },
-    {
-      "album": {
         "name": "In Love With You - Single",
         "url": "https://open.spotify.com/album/1tYPQUdo3Sxv21ILqO8gDJ"
       },
@@ -497,6 +479,32 @@
       "duration_ms": 254066,
       "name": "In Love With You",
       "url": "https://open.spotify.com/track/2MciXM60hrG1cz5DE7ZWzK"
+    },
+    {
+      "album": {
+        "name": "In Love With You",
+        "url": "https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d"
+      },
+      "artists": [
+        {
+          "name": "The Paradise",
+          "url": "https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Romuald",
+          "url": "https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254066,
+      "name": "In Love With You",
+      "url": "https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7"
     },
     {
       "album": {

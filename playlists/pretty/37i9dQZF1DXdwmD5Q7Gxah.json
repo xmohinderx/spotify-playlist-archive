@@ -1,12 +1,12 @@
 {
   "description": "maggie :) ",
-  "num_followers": 926047,
+  "num_followers": 926205,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2MDQyNiwwMDAwMDAwMDdiMmNkMGUyYTM0MjNmNTcyMDM2NWMwYjA2YjRmYWY1",
+  "snapshot_id": "MTY1OTU0MjcyNywwMDAwMDAwMDQ2NzlhNWQ4ZDY2OWIwOWYyMDhkMDQwNzg3MzEwZDM4",
   "tracks": [
     {
       "added_at": "2022-07-15 14:04:45",
@@ -23,6 +23,38 @@
       "duration_ms": 222089,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/35YlFbOf6PdSkXnuTG0uKi"
+    },
+    {
+      "added_at": "2022-08-03 15:35:43",
+      "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2022-08-02 17:13:46",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-07-18 15:38:02",
@@ -57,6 +89,38 @@
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
+      "added_at": "2022-08-03 16:05:27",
+      "album": {
+        "name": "Bedside",
+        "url": "https://open.spotify.com/album/6KbYLgPQPoXADBXV4LhtkR"
+      },
+      "artists": [
+        {
+          "name": "Pierz Barry",
+          "url": "https://open.spotify.com/artist/2dzdUgM8QYmJYG3BIFn4J1"
+        }
+      ],
+      "duration_ms": 253218,
+      "name": "Bedside",
+      "url": "https://open.spotify.com/track/0WIb4zQlCptgIkV5oIBadk"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
       "added_at": "2022-07-29 04:00:00",
       "album": {
         "name": "Favors",
@@ -73,6 +137,22 @@
       "url": "https://open.spotify.com/track/1BBZlU3fsvpVRiwLO16Aoe"
     },
     {
+      "added_at": "2022-08-03 15:35:43",
+      "album": {
+        "name": "What Does That Make Me?",
+        "url": "https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "What Does That Make Me?",
+      "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
+    },
+    {
       "added_at": "2022-07-15 12:08:06",
       "album": {
         "name": "Beatopia",
@@ -87,6 +167,22 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2022-08-03 16:05:27",
+      "album": {
+        "name": "safety",
+        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
       "added_at": "2022-06-02 15:01:34",
@@ -151,38 +247,6 @@
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Bumblebee",
-        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
-    },
-    {
-      "added_at": "2022-08-02 17:13:46",
-      "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -859,26 +923,6 @@
     {
       "added_at": "2022-07-07 17:59:52",
       "album": {
-        "name": "Harvest Moon (Roosevelt Remix)",
-        "url": "https://open.spotify.com/album/4Wv2LOxjKDpIiz1EMcmsuP"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 342733,
-      "name": "Harvest Moon \u2013 Roosevelt Remix",
-      "url": "https://open.spotify.com/track/3hZYeFn30pgoH9mL4Gp39x"
-    },
-    {
-      "added_at": "2022-07-07 17:59:52",
-      "album": {
         "name": "Pink Songs 2",
         "url": "https://open.spotify.com/album/5Hss6ml2F35xoVJzFmnicV"
       },
@@ -986,6 +1030,10 @@
         {
           "name": "EKKSTACY",
           "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
         }
       ],
       "duration_ms": 174155,
@@ -1167,22 +1215,6 @@
       "duration_ms": 224000,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
-    },
-    {
-      "added_at": "2022-06-21 18:39:24",
-      "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi"
     },
     {
       "added_at": "2022-06-28 00:59:58",
@@ -1443,26 +1475,6 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "DEAR MISS HOLLOWAY",
-        "url": "https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        },
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "DEAR MISS HOLLOWAY",
-      "url": "https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D"
     },
     {
       "added_at": "2022-05-27 04:00:00",

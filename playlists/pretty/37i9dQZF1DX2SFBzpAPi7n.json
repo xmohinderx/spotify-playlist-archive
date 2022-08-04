@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Kim Hye Rim(\uae40\ud61c\ub9bc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 185186,
+  "num_followers": 185182,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3MTU2MSwwMDAwMDAwMDhhMGM0MTUxNGY2MTRmYmNkZmE5MWIyYjYzMzVjMzI4",
+  "snapshot_id": "MTY1OTM3MTU2MSwwMDAwMDAwMDMxMDAxOWFlNWU4MjkxMzJjMzMwYTIxOWJjZTkwZjI0",
   "tracks": [
     {
       "added_at": "2022-08-01 16:32:41",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-08-01 16:32:41",
       "album": {
-        "name": "[Apocalypse : Save us]",
-        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "MAISON",
-      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
-    },
-    {
-      "added_at": "2022-08-01 16:32:41",
-      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+    },
+    {
+      "added_at": "2022-08-01 16:32:41",
+      "album": {
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
     },
     {
       "added_at": "2022-08-01 16:32:41",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-08-01 16:32:41",
       "album": {
+        "name": "[Apocalypse : Save us]",
+        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "MAISON",
+      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
+    },
+    {
+      "added_at": "2022-08-01 16:32:41",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 215476,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
-    },
-    {
-      "added_at": "2022-08-01 16:32:41",
-      "album": {
-        "name": "[Dystopia : Lose Myself]",
-        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "BOCA",
-      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
     },
     {
       "added_at": "2022-08-01 16:32:41",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-08-01 16:32:41",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
     },
     {
       "added_at": "2022-08-01 16:32:41",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-08-01 16:32:41",
       "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
     },
     {
       "added_at": "2022-08-01 16:32:41",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-08-01 16:32:41",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 213217,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
+      "duration_ms": 224760,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
     },
     {
       "added_at": "2022-08-01 16:32:41",
@@ -571,38 +571,6 @@
     {
       "added_at": "2022-08-01 16:32:41",
       "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "DIVE",
-      "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
-    },
-    {
-      "added_at": "2022-08-01 16:32:41",
-      "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
-    },
-    {
-      "added_at": "2022-08-01 16:32:41",
-      "album": {
         "name": "Verse 2",
         "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 235068,
       "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
       "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+    },
+    {
+      "added_at": "2022-08-01 16:32:41",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 213217,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
+    },
+    {
+      "added_at": "2022-08-01 16:32:41",
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "DIVE",
+      "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
     },
     {
       "added_at": "2022-08-01 16:32:41",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-08-01 16:32:41",
       "album": {
-        "name": "C.I.T.T (Cheese in the Trap)",
-        "url": "https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf"
+        "name": "The End of Nightmare",
+        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
       },
       "artists": [
         {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 177400,
-      "name": "C.I.T.T (Cheese in the Trap)",
-      "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
+      "duration_ms": 206819,
+      "name": "PIRI",
+      "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
     },
     {
       "added_at": "2022-08-01 16:32:41",
@@ -663,6 +663,22 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+    },
+    {
+      "added_at": "2022-08-01 16:32:41",
+      "album": {
+        "name": "C.I.T.T (Cheese in the Trap)",
+        "url": "https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "C.I.T.T (Cheese in the Trap)",
+      "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
     },
     {
       "added_at": "2022-08-01 16:32:41",
@@ -711,22 +727,6 @@
       "duration_ms": 228320,
       "name": "Comes and Goes",
       "url": "https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE"
-    },
-    {
-      "added_at": "2022-08-01 16:32:41",
-      "album": {
-        "name": "The End of Nightmare",
-        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 206819,
-      "name": "PIRI",
-      "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
     },
     {
       "added_at": "2022-08-01 16:32:41",

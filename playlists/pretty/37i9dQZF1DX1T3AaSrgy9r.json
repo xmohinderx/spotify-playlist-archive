@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 63855,
+  "num_followers": 63935,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDNiMWZlZTkyOTMzOTY0ZDhjOWM5ZWI4NDgwMTE2ZDRi",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGU4YmU1YWQ5M2RkYzkyN2JmN2M1MGRlNGIwMzEzZmQy",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "You've Come A Long Way Baby",
-        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 413880,
-      "name": "The Rockafeller Skank",
-      "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Saturday Teenage Kick",
         "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 327173,
       "name": "Dealing with the Roster",
       "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 413880,
+      "name": "The Rockafeller Skank",
+      "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Swamp Thing",
         "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 237453,
       "name": "Swamp Thing",
       "url": "https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
     },
     {
       "added_at": "2021-07-14 17:36:34",

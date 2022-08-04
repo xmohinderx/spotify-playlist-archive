@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 108501,
+  "num_followers": 108519,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDY4NWI5YWU5ZDM2ZDZmMzg4NjFiZDAxYmMzY2RkYzI0",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGQ3NGIxYTFiOTNkYzM2ZGU1MTYzMGM1MmEzNzJiY2E5",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
-      },
-      "artists": [
-        {
-          "name": "Logan Mize",
-          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
-        }
-      ],
-      "duration_ms": 204004,
-      "name": "Better Off Gone (Acoustic Sessions)",
-      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Love Like I Drink",
         "url": "https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 195309,
       "name": "Love Like I Drink",
       "url": "https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
+      },
+      "artists": [
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "duration_ms": 204004,
+      "name": "Better Off Gone (Acoustic Sessions)",
+      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Take My Name (Wedding Version)",
-        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Take My Name - Wedding Version",
-      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Another (Wedding Version)",
         "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Take My Name (Wedding Version)",
+        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Take My Name - Wedding Version",
+      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Weekends Look A Little Acoustic These Days",
-        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
+        "name": "Secret (Gravel Drive Sounds)",
+        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
         }
       ],
-      "duration_ms": 254989,
-      "name": "You Didn\u2019t - Acoustic",
-      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
+      "duration_ms": 225240,
+      "name": "Secret - Gravel Drive Sounds",
+      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Secret (Gravel Drive Sounds)",
-        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
+        "name": "Weekends Look A Little Acoustic These Days",
+        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 225240,
-      "name": "Secret - Gravel Drive Sounds",
-      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+      "duration_ms": 254989,
+      "name": "You Didn\u2019t - Acoustic",
+      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Sunrise Tells The Story (Acoustic)",
         "url": "https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "I Wanna Remember (feat. Carrie Underwood) [Acoustic]",
         "url": "https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn"
       },
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "As You Leave (undone)",
+        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "As You Leave (undone)",
+      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Just About Over You (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
       },
@@ -1251,54 +1267,6 @@
       "duration_ms": 188026,
       "name": "Just About Over You - Acoustic Version",
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Hope It's Hot Out (Acoustic)",
-        "url": "https://open.spotify.com/album/6PIh55HBPHm7iFyODh5ZLk"
-      },
-      "artists": [
-        {
-          "name": "Kyle Clark",
-          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
-        }
-      ],
-      "duration_ms": 167833,
-      "name": "Hope It's Hot Out - Acoustic",
-      "url": "https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Loved Me That Way (stripped)",
-        "url": "https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o"
-      },
-      "artists": [
-        {
-          "name": "Lauren Duski",
-          "url": "https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5"
-        }
-      ],
-      "duration_ms": 222352,
-      "name": "Loved Me That Way (stripped)",
-      "url": "https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Break My Heart Again (Live Acoustic)",
-        "url": "https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Break My Heart Again - Live Acoustic",
-      "url": "https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1319,6 +1287,38 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Loved Me That Way (stripped)",
+        "url": "https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o"
+      },
+      "artists": [
+        {
+          "name": "Lauren Duski",
+          "url": "https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5"
+        }
+      ],
+      "duration_ms": 222352,
+      "name": "Loved Me That Way (stripped)",
+      "url": "https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Hope It's Hot Out (Acoustic)",
+        "url": "https://open.spotify.com/album/6PIh55HBPHm7iFyODh5ZLk"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Hope It's Hot Out - Acoustic",
+      "url": "https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Wildfire (Acoustic)",
         "url": "https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW"
       },
@@ -1331,6 +1331,38 @@
       "duration_ms": 173790,
       "name": "Wildfire - Acoustic",
       "url": "https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Break My Heart Again (Live Acoustic)",
+        "url": "https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Break My Heart Again - Live Acoustic",
+      "url": "https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Growing Up (Acoustic)",
+        "url": "https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 151828,
+      "name": "Growing Up (Are You Happy) - Acoustic",
+      "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1419,38 +1451,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "As You Leave (undone)",
-        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "As You Leave (undone)",
-      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Growing Up (Acoustic)",
-        "url": "https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 151828,
-      "name": "Growing Up (Are You Happy) - Acoustic",
-      "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Don't Come Lookin' (Live Acoustic)",
         "url": "https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6"
       },
@@ -1463,6 +1463,26 @@
       "duration_ms": 215337,
       "name": "Don't Come Lookin' - Live Acoustic",
       "url": "https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Thought This Through",
+        "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "duration_ms": 172663,
+      "name": "Thought This Through",
+      "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1499,22 +1519,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Thought This Through",
-        "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
+        "name": "Put It in Drive",
+        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
       },
       "artists": [
         {
-          "name": "Josh Kerr",
-          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
-        },
-        {
-          "name": "Emily Falvey",
-          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+          "name": "Tommy Karlas",
+          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
         }
       ],
-      "duration_ms": 172663,
-      "name": "Thought This Through",
-      "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
+      "duration_ms": 191973,
+      "name": "Lessons (Acoustic)",
+      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 191400,
       "name": "Some Girls - Acoustic",
       "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Put It in Drive",
-        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
-      },
-      "artists": [
-        {
-          "name": "Tommy Karlas",
-          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Lessons (Acoustic)",
-      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
     },
     {
       "added_at": "2022-07-29 04:00:00",

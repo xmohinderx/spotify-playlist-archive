@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-212 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
+213 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Return To Me \(Ritorna\-Me\)](https://open.spotify.com/track/65AS0PhfS5a6LfVbFz4Tf8) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Essential](https://open.spotify.com/album/4fEBlmHtFoNu8brwngLgOT) | 2:45 | 2020-07-08 | 2022-07-29 |
 | [Rock and Roll Waltz \- Remastered](https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h) | 2:58 | 2020-07-08 | 2022-07-29 |
 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 | 2020-07-08 | 2022-07-29 |
+| [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 | 2020-07-08 |  |
 | [Rubber Ball](https://open.spotify.com/track/3Onckv4ELY5JiWgoqUFxvf) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Essential](https://open.spotify.com/album/2qvgU7ANFcPldErKcJkcnR) | 2:21 | 2020-07-08 | 2022-07-25 |
 | [Rubber Ball](https://open.spotify.com/track/35gkASz2Cb1VryMGIuEPjX) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Bobby Vee](https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV) | 2:24 | 2020-07-08 |  |
 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 | 2020-07-08 |  |
@@ -159,7 +160,7 @@
 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 | 2020-07-08 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/307XEC1IUwUs9ojlEFwH7f) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Best Of The Platters](https://open.spotify.com/album/48VpGQRP9z2Nhw2iq1uyaN) | 2:37 | 2020-07-08 | 2022-07-29 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:40 | 2020-07-08 |  |
-| [Softly Softly](https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [The Magic Of Ruby Murray](https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue) | 2:29 | 2020-07-08 |  |
+| [Softly Softly](https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [The Magic Of Ruby Murray](https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue) | 2:29 | 2020-07-08 | 2022-08-04 |
 | [Softly Softly](https://open.spotify.com/track/5cHrLAHz5UWvIGBaNiBs7g) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Massive Hits!: Easy](https://open.spotify.com/album/67eGxAC3rzgNcewIdibXqX) | 2:29 | 2020-07-08 | 2022-07-29 |
 | [Somebody Stole My Gal](https://open.spotify.com/track/7h7Tc9jvW74WbhkvIofPO8) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [CRY](https://open.spotify.com/album/0Vqj7U2w6U7txFlZWA5dWj) | 2:25 | 2020-07-08 | 2022-07-24 |
 | [Someday \(You'll Want Me to Want You\)](https://open.spotify.com/track/4sRytDNylu3zfgW6y2rsAB) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Summertime Blues \(Rock'n'roll Love Songs\)](https://open.spotify.com/album/1mVeUTmyqPaOgM7px3QFyg) | 2:50 | 2020-07-08 | 2022-07-29 |

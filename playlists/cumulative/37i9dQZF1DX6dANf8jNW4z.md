@@ -4,7 +4,7 @@
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Zahara
 
-343 songs - 18 hr 13 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+344 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Me Enamora](https://open.spotify.com/track/6SPwsGI1IMrflIj83XglJX) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe), [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Me Enamora](https://open.spotify.com/album/0J35hFeVvMTuRiklnGihyI) | 3:24 | 2022-02-01 | 2022-03-08 |
 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 | 2022-05-31 | 2022-07-06 |
 | [ME OLVIDARÉ](https://open.spotify.com/track/3PaQRWe7mcUpOCErTEFLYF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg), [Zeper](https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL) | [ME OLVIDARÉ](https://open.spotify.com/album/4i5s9jkFyeBWjxR56yZaoi) | 2:32 | 2022-05-03 | 2022-06-01 |
+| [MERICHANE](https://open.spotify.com/track/3o3YFP1o1SEb4Rh5jNkVT4) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 4:18 | 2022-08-03 |  |
 | [Metro Ibiza](https://open.spotify.com/track/4lQCIurepFWnH8pE7sqnP1) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Metro Ibiza](https://open.spotify.com/album/4mA0FC8jHRKSedKt4oTDyI) | 2:14 | 2022-03-07 | 2022-04-07 |
 | [mi am0r](https://open.spotify.com/track/6FDKx3IsTlgPsqcFhUfuNQ) | [SWÏSSA](https://open.spotify.com/artist/1FrfvYtYgNnkVnwVAB9cCC), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [mi am0r](https://open.spotify.com/album/33cpLakQQ8U1uhB8mU6ur2) | 2:22 | 2022-08-02 |  |
 | [Mi Camino](https://open.spotify.com/track/1PLvq7zYHIIaIjzWqx1Dh6) | [Nerea López](https://open.spotify.com/artist/6Ke4c6HNdStx9BHodZ8FiE) | [Mi Camino](https://open.spotify.com/album/04qlJFbq8GeXiEhSeBwKyP) | 3:23 | 2022-03-07 | 2022-04-07 |
@@ -261,7 +262,7 @@
 | [Quizás](https://open.spotify.com/track/2xG0dBIhdly34uUvjH0yVm) | [Nerea Benito](https://open.spotify.com/artist/0aHqsMWm8sJBiX7ueqwyGE), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y) | [Quizás](https://open.spotify.com/album/3WWq4I9nt4YoebA1T6NLU9) | 3:02 | 2022-01-04 | 2022-02-02 |
 | [Qué Quiero Yo](https://open.spotify.com/track/5KfWLVa3ACxqgkoi3snJ0U) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Cuaderno de Verano](https://open.spotify.com/album/4AntRUIWQc2jPGAvy6HasN) | 2:57 | 2022-01-04 | 2022-02-02 |
 | [Ramita de romero](https://open.spotify.com/track/2hTIOaiprWuGLYpbcdset4) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Ramita de romero](https://open.spotify.com/album/6FK1JOpkJhKmVRmstYT9FR) | 3:06 | 2022-05-03 | 2022-06-01 |
-| [RAMONA \(REPUTA\)](https://open.spotify.com/track/5oqT7jmVqyrEmOZ94jWm3E) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu), [PRETTY PRETTY 2000](https://open.spotify.com/artist/2A8lmxvTtdh5nYLYJ9OExB) | [RAMONA \(REPUTA\)](https://open.spotify.com/album/2s1FEsVrsUi6M4tOqtGgVv) | 4:19 | 2022-08-02 |  |
+| [RAMONA \(REPUTA\)](https://open.spotify.com/track/5oqT7jmVqyrEmOZ94jWm3E) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu), [PRETTY PRETTY 2000](https://open.spotify.com/artist/2A8lmxvTtdh5nYLYJ9OExB) | [RAMONA \(REPUTA\)](https://open.spotify.com/album/2s1FEsVrsUi6M4tOqtGgVv) | 4:19 | 2022-08-02 | 2022-08-04 |
 | [Refuerzo intermitente](https://open.spotify.com/track/5VGtzg8ItpLJYsuCHTEQ22) | [aroa ay](https://open.spotify.com/artist/11VTXvScf8D82FdfeUp8UC) | [Refuerzo intermitente](https://open.spotify.com/album/2MfMysgQ1tZrVp6uslmu55) | 3:16 | 2022-02-01 | 2022-03-08 |
 | [Renacer](https://open.spotify.com/track/6PGxh2c2iBXUvHchfL7FNo) | [Eva B](https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq) | [Renacer](https://open.spotify.com/album/6AuB19AqITRiJQzN7hSnif) | 2:23 | 2022-07-05 |  |
 | [Rezar a Dios](https://open.spotify.com/track/1GEXpkr1PgP5QJgKdg6yzU) | [Grasias](https://open.spotify.com/artist/7Ixf4HN0m8oP5ISOu75n79) | [Rezar a Dios](https://open.spotify.com/album/5RFBbqgtkrQDKgzqonmRnM) | 3:15 | 2022-07-05 |  |

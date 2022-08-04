@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 246431,
+  "num_followers": 246579,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAwMDE0ZDZhYjBmZGFhODQzZTU1MDI0ZjExOTA4OWI0MTE0",
+  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAwMDlmODE0MzhlZWZhNGIwMTc5ZWMxZGYxMDA2YmNmNDk2",
   "tracks": [
     {
       "added_at": "2022-04-01 04:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
+      "duration_ms": 170915,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN"
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
       "artists": [
         {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 170915,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/5RMDvDiSQwkiK7Ja7EgXhI"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 179763,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/1qxX6y9aYFx4OykdlnzA2s"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 300895,
       "name": "Weather",
       "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/5RMDvDiSQwkiK7Ja7EgXhI"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 179763,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/1qxX6y9aYFx4OykdlnzA2s"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -631,22 +631,6 @@
       "duration_ms": 192266,
       "name": "Dirty Rain",
       "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -735,24 +719,8 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "Fuck Up",
-      "url": "https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
       },
       "artists": [
         {
@@ -760,25 +728,9 @@
           "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 241646,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Hurtin' (On the Bottle)",
-      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -799,18 +751,34 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+      "duration_ms": 252506,
+      "name": "Hurtin' (On the Bottle)",
+      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "Fuck Up",
+      "url": "https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -827,6 +795,22 @@
       "duration_ms": 209826,
       "name": "Where Ya Been?",
       "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -879,6 +863,22 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 241646,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
         "name": "Canyons of my Mind",
         "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 232040,
       "name": "Makin' Memories",
       "url": "https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Forever and Then Some",
-        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
       },
       "artists": [
         {
-          "name": "Lillie Mae",
-          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Forever and Then Some",
-      "url": "https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ"
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 240801,
       "name": "Hotel Amarillo",
       "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Forever and Then Some",
+        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
+      },
+      "artists": [
+        {
+          "name": "Lillie Mae",
+          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Forever and Then Some",
+      "url": "https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 186773,
       "name": "Run-down Neighborhood",
       "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "No Name",
-      "url": "https://open.spotify.com/track/4LJ2bh3gZf9rEKQeFeuG3R"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Golden Eagle",
         "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 208826,
       "name": "No One Has the Answers",
       "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "No Name",
+      "url": "https://open.spotify.com/track/4LJ2bh3gZf9rEKQeFeuG3R"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Table for One",
-      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "All Or Nothin' (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
       },
@@ -1399,22 +1383,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Rule 62",
-        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
-      },
-      "artists": [
-        {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
-        }
-      ],
-      "duration_ms": 250080,
-      "name": "You Don't Scare Me",
-      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "En Los Shadows de San Antone",
         "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
       },
@@ -1427,6 +1395,38 @@
       "duration_ms": 185216,
       "name": "Goodbye San Antonio, Hello Amsterdam",
       "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Table for One",
+      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Rule 62",
+        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "duration_ms": 250080,
+      "name": "You Don't Scare Me",
+      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "South Texas Suite",
-        "url": "https://open.spotify.com/album/4yplutFc2VEEIEuXRYa9Ie"
-      },
-      "artists": [
-        {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
-        }
-      ],
-      "duration_ms": 204229,
-      "name": "Analog",
-      "url": "https://open.spotify.com/track/7gznOSnMIlcZzT1RFb1sYv"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Blue Kentucky Girl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
@@ -1575,22 +1559,34 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Same Devil (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
+        "name": "South Texas Suite",
+        "url": "https://open.spotify.com/album/4yplutFc2VEEIEuXRYa9Ie"
       },
       "artists": [
         {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
         }
       ],
-      "duration_ms": 187466,
-      "name": "Same Devil (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+      "duration_ms": 204229,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/7gznOSnMIlcZzT1RFb1sYv"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Every Single Star",
+        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
+      },
+      "artists": [
+        {
+          "name": "Dori Freeman",
+          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "That's How I Feel",
+      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1627,18 +1623,22 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Every Single Star",
-        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
+        "name": "Same Devil (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
       "artists": [
         {
-          "name": "Dori Freeman",
-          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 163906,
-      "name": "That's How I Feel",
-      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
+      "duration_ms": 187466,
+      "name": "Same Devil (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
     },
     {
       "added_at": "2022-04-01 04:00:00",

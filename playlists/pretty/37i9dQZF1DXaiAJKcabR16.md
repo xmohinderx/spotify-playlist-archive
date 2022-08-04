@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,637 likes - 61 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,703 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,16 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 48 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 |
 | 49 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 |
 | 50 | [Bang Bang Bang](https://open.spotify.com/track/5JNjURdjUrcEgUPq2SjkSC) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Swagger, Steel & Spurs](https://open.spotify.com/album/01zaNaojDp8OJJ1J60gm6R) | 3:09 |
-| 51 | [Ain't No Easy Way](https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:36 |
-| 52 | [Little Lady Blues](https://open.spotify.com/track/15Zws6dwefFYdx9yiqOlo3) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 5:12 |
-| 53 | [Henry Nearly Killed Me \(It's a Shame\)](https://open.spotify.com/track/3WlKwc0STwk7MYHyn2FjXm) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain \(Expanded Edition\)](https://open.spotify.com/album/7iMybHeeEiPQSEI0TG3pdo) | 4:22 |
-| 54 | [Old Number Seven](https://open.spotify.com/track/7FqrsV0vBwNiQNQI6jfzni) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:20 |
-| 55 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
-| 56 | [Night Has Turned to Day](https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 2:40 |
-| 57 | [Three More Days](https://open.spotify.com/track/2pDOP7lUpO5LGUz798H0me) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 3:36 |
-| 58 | [1922 Blues](https://open.spotify.com/track/0F3ZS2gMHCImgws6ewz1H7) | [Charlie Parr](https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG) | [Cheap Wine](https://open.spotify.com/album/7u3ltEekQZKZllPqivvqK4) | 2:44 |
-| 59 | [To Be Alone](https://open.spotify.com/track/32G6qOwK5SuBEA9D6pth34) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 5:23 |
-| 60 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
-| 61 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
+| 51 | [Little Lady Blues](https://open.spotify.com/track/15Zws6dwefFYdx9yiqOlo3) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 5:12 |
+| 52 | [Henry Nearly Killed Me \(It's a Shame\)](https://open.spotify.com/track/3WlKwc0STwk7MYHyn2FjXm) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain \(Expanded Edition\)](https://open.spotify.com/album/7iMybHeeEiPQSEI0TG3pdo) | 4:22 |
+| 53 | [Old Number Seven](https://open.spotify.com/track/7FqrsV0vBwNiQNQI6jfzni) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:20 |
+| 54 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
+| 55 | [Night Has Turned to Day](https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 2:40 |
+| 56 | [Three More Days](https://open.spotify.com/track/2pDOP7lUpO5LGUz798H0me) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 3:36 |
+| 57 | [1922 Blues](https://open.spotify.com/track/0F3ZS2gMHCImgws6ewz1H7) | [Charlie Parr](https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG) | [Cheap Wine](https://open.spotify.com/album/7u3ltEekQZKZllPqivvqK4) | 2:44 |
+| 58 | [To Be Alone](https://open.spotify.com/track/32G6qOwK5SuBEA9D6pth34) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 5:23 |
+| 59 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
+| 60 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 
-Snapshot ID: `MTYyNzYxNzY2MCwwMDAwMDAwMGVkMDAxMTI5YTgxM2Y5OTIxMTY1MzNjMzQyMmJjMmFk`
+Snapshot ID: `MTYyNzYxNzY2MCwwMDAwMDAwMDUyNjBhZTdmOTQyZTNkYzNlYTUxNjM1OTM0OWU3Yjdi`

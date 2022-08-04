@@ -1386,6 +1386,24 @@
     },
     {
       "album": {
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
+      },
+      "artists": [
+        {
+          "name": "H1GHR MUSIC",
+          "url": "https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304746,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
+    },
+    {
+      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/2DUCTJhmXzOWNpjYnzt7Sz"
       },

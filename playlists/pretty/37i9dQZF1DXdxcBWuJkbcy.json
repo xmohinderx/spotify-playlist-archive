@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6411302,
+  "num_followers": 6412980,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MjgwMywwMDAwMDAwMDg5Y2U1OTEzNTA1YTc0OTc2NTAyODM3NTZiMDM3MmNk",
+  "snapshot_id": "MTY1OTM0MjgwMywwMDAwMDAwMGJjNWExNWVjNWQxMzM2YzJjYjkzODcxYzM1ZTI0MmNl",
   "tracks": [
     {
       "added_at": "2022-06-23 22:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-06-23 22:01:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        }
-      ],
-      "duration_ms": 213298,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
-    },
-    {
-      "added_at": "2022-06-23 22:01:00",
-      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/2Ev260A0m7FJyCcnHYLKZN"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 132479,
       "name": "Blue (Da Ba Dee)",
       "url": "https://open.spotify.com/track/5WyD2lZhEeTNg91oEF0TYK"
+    },
+    {
+      "added_at": "2022-06-23 22:01:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "duration_ms": 213298,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
     },
     {
       "added_at": "2022-06-23 22:01:00",
@@ -1801,6 +1801,22 @@
       "url": "https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9"
     },
     {
+      "added_at": "2022-07-04 19:13:10",
+      "album": {
+        "name": "Melocoton (The Donka Donk Song)",
+        "url": "https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi"
+      },
+      "artists": [
+        {
+          "name": "Subwoolfer",
+          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Melocoton (The Donka Donk Song)",
+      "url": "https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU"
+    },
+    {
       "added_at": "2022-06-23 22:01:00",
       "album": {
         "name": "Tension",
@@ -1821,20 +1837,24 @@
       "url": "https://open.spotify.com/track/2mozbqXyO5NOmpOZc9O5s9"
     },
     {
-      "added_at": "2022-07-04 19:13:10",
+      "added_at": "2022-06-23 22:01:00",
       "album": {
-        "name": "Melocoton (The Donka Donk Song)",
-        "url": "https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi"
+        "name": "Jenny From The Block",
+        "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
       },
       "artists": [
         {
-          "name": "Subwoolfer",
-          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
         }
       ],
-      "duration_ms": 142853,
-      "name": "Melocoton (The Donka Donk Song)",
-      "url": "https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU"
+      "duration_ms": 120000,
+      "name": "Jenny From The Block",
+      "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
     },
     {
       "added_at": "2022-06-23 22:01:00",
@@ -1855,26 +1875,6 @@
       "duration_ms": 207998,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3LkdTjyywksp2Zr1yqJS6d"
-    },
-    {
-      "added_at": "2022-06-23 22:01:00",
-      "album": {
-        "name": "Jenny From The Block",
-        "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Jenny From The Block",
-      "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
     },
     {
       "added_at": "2022-06-23 22:01:00",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2022-06-23 22:01:00",
       "album": {
-        "name": "Salvation",
-        "url": "https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
-    },
-    {
-      "added_at": "2022-06-23 22:01:00",
-      "album": {
         "name": "Your Love (9PM) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/1H9wSqKGrpJmZV1C0Ipzuw"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 186531,
       "name": "Your Love (9PM) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3ZUGQQQdTteMWdPg2bvLsp"
+    },
+    {
+      "added_at": "2022-06-23 22:01:00",
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
     },
     {
       "added_at": "2022-06-23 22:01:00",

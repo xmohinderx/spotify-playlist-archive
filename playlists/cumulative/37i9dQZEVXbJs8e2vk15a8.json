@@ -34,6 +34,24 @@
     },
     {
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "7 Weeks & 3 Days",
+      "url": "https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk"
+    },
+    {
+      "album": {
         "name": "A Casa Pete",
         "url": "https://open.spotify.com/album/42Xz6SNoG4eaGbko9JFgpd"
       },
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 146470,
       "name": "Betty (Get Money)",
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 98211,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
@@ -3885,7 +3903,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 235932,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"

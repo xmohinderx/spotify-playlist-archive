@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: WSG WANNABE) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: JUSTHIS(\uc800\uc2a4\ub514\uc2a4)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -1075,6 +1075,24 @@
       "duration_ms": 218186,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/7BOZXsXcOKbHMjbBVcT4R6"
+    },
+    {
+      "album": {
+        "name": "Broke Up, Met Again",
+        "url": "https://open.spotify.com/album/3b6gNzdvqczZecDmziSvvx"
+      },
+      "artists": [
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Broke Up, Met Again (prod. DOKO) - You Remix Version",
+      "url": "https://open.spotify.com/track/7vgez1qM4xypCv921l7688"
     },
     {
       "album": {

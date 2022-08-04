@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,843 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,547 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 36 | [Suddenly](https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The End Of Comedy](https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H) | 3:17 |
 | 37 | [The Light](https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 4:32 |
 | 38 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 |
-| 39 | [Friends](https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Minds Of Our Own](https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL) | 3:37 |
-| 40 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
+| 39 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
+| 40 | [Friends](https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Minds Of Our Own](https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL) | 3:37 |
 | 41 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
 | 42 | [Water Your Garden](https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 2:49 |
 | 43 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
@@ -86,27 +86,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 76 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 |
 | 77 | [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 |
 | 78 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 |
-| 79 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
-| 80 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
-| 81 | [Maps](https://open.spotify.com/track/75fKUcetc638W5uJVF3X7M) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf) | 4:36 |
-| 82 | [Holy Hell](https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Holy Hell](https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj) | 3:24 |
-| 83 | [Like Yesterday](https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Flavour](https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw) | 4:00 |
+| 79 | [Holy Hell](https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Holy Hell](https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj) | 3:24 |
+| 80 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
+| 81 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
+| 82 | [Distraction](https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | ["Hello, Hi"](https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9) | 5:10 |
+| 83 | [Maps](https://open.spotify.com/track/75fKUcetc638W5uJVF3X7M) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf) | 4:36 |
 | 84 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 |
-| 85 | [Distraction](https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | ["Hello, Hi"](https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9) | 5:10 |
+| 85 | [Like Yesterday](https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Flavour](https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw) | 4:00 |
 | 86 | [Under The Moon](https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [In The Darkest Of Nights, Let The Birds Sing](https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX) | 4:39 |
-| 87 | [Sesame](https://open.spotify.com/track/0TjN0hpZEKt5OWMJDPUQ3r) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Sesame](https://open.spotify.com/album/6kBbu8hwcdYGGNi1FpU3K8) | 5:10 |
-| 88 | [Prester John](https://open.spotify.com/track/0VDJzLBQw9SABBURyQjDvW) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Time Skiffs](https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv) | 6:29 |
+| 87 | [Prester John](https://open.spotify.com/track/0VDJzLBQw9SABBURyQjDvW) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Time Skiffs](https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv) | 6:29 |
+| 88 | [Sesame](https://open.spotify.com/track/0TjN0hpZEKt5OWMJDPUQ3r) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Sesame](https://open.spotify.com/album/6kBbu8hwcdYGGNi1FpU3K8) | 5:10 |
 | 89 | [America's Cup](https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 3:49 |
-| 90 | [California](https://open.spotify.com/track/2JquuHosB2mPp8wuUSc6Yl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0cRE81Ug6gUBGBcktixA7G) | 4:36 |
-| 91 | [One More Time](https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [One More Time](https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen) | 3:19 |
+| 90 | [One More Time](https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [One More Time](https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen) | 3:19 |
+| 91 | [California](https://open.spotify.com/track/2JquuHosB2mPp8wuUSc6Yl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0cRE81Ug6gUBGBcktixA7G) | 4:36 |
 | 92 | [Howl With Me](https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4) | 4:19 |
 | 93 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 |
-| 94 | [Tiger](https://open.spotify.com/track/1zydSwU6v1IHHYeb58c3YB) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL) | 3:00 |
-| 95 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 |
-| 96 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 |
-| 97 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 |
-| 98 | [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 |
-| 99 | [Like Exploding Stones](https://open.spotify.com/track/2JND4SkJHfRpLpN0woStlP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Like Exploding Stones](https://open.spotify.com/album/1FcMgCGoLa3reBCYnNVK0m) | 7:18 |
-| 100 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 |
+| 94 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 |
+| 95 | [Tiger](https://open.spotify.com/track/1zydSwU6v1IHHYeb58c3YB) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL) | 3:00 |
+| 96 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 |
+| 97 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 |
+| 98 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 |
+| 99 | [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 |
+| 100 | [Like Exploding Stones](https://open.spotify.com/track/2JND4SkJHfRpLpN0woStlP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Like Exploding Stones](https://open.spotify.com/album/1FcMgCGoLa3reBCYnNVK0m) | 7:18 |
 
-Snapshot ID: `MTY1OTM2NDgzNiwwMDAwMDAwMDFkNTViN2NiZjEwZGU0NzI0YzRhYTIzNTg4ZWUzNWU2`
+Snapshot ID: `MTY1OTU1NjA3MSwwMDAwMDAwMGRkY2M3ZGI1NjY0NGRkNGRiYWE5Mzg1YzVlNjUxM2Mx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,907 likes - 440 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,062 likes - 440 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,7 +270,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 260 | [bright nights](https://open.spotify.com/track/1cIiZ4ri9EX6Y4GCgIFOta) | [Wenight](https://open.spotify.com/artist/7wqCmmvVIKxwPR8afJHqpM) | [bright nights](https://open.spotify.com/album/0C60u4lFEWkkIgsmNpLyI1) | 2:03 |
 | 261 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 |
 | 262 | [Calm](https://open.spotify.com/track/16dOF8Ipta4LC2lEwh9xDE) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Calm](https://open.spotify.com/album/57gD95ZSJ9lA4NVTBoIhvs) | 2:28 |
-| 263 | [Morning Sun](https://open.spotify.com/track/2HiqbtpYcQcuWTDRbfLLD5) | [Deli](https://open.spotify.com/artist/6UUlZWE7mcQ41Qwos0O6gl) | [Morning Sun](https://open.spotify.com/album/0SL8oqPqcQ5kgzLF00UN0o) | 1:58 |
+| 263 | [Morning Sun](https://open.spotify.com/track/2HiqbtpYcQcuWTDRbfLLD5) | [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [Morning Sun](https://open.spotify.com/album/0SL8oqPqcQ5kgzLF00UN0o) | 1:58 |
 | 264 | [Lemon Ginger](https://open.spotify.com/track/5YWNeJW5s40JgHGFiNhFh2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lemon Ginger](https://open.spotify.com/album/6TtmdWWZP4o3gJgUb2Q83f) | 2:33 |
 | 265 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 |
 | 266 | [Rainbow Dragon Waterfall](https://open.spotify.com/track/2VEaXzY3365EVAOB3ktamQ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Rainbow Dragon Waterfall](https://open.spotify.com/album/3mSSqe5wkfk6n18x9RWDBn) | 2:24 |

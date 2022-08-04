@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Yung Nobre
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,209 likes - 73 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,233 likes - 73 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-131 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+133 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,10 +37,12 @@
 | [Del Alma](https://open.spotify.com/track/0AsmtlXXgI1hugFJPQKEZd) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Del Alma](https://open.spotify.com/album/3lARxNjOobsA9r56G5kDTf) | 2:37 | 2022-06-17 | 2022-07-29 |
 | [Del Alma](https://open.spotify.com/track/3VYUGuPuqZiKEd7NKwV7PI) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Del Alma](https://open.spotify.com/album/26rKW6kKbLSdKh0DFnlQfo) | 2:37 | 2022-07-29 |  |
 | [Del Barrio](https://open.spotify.com/track/1PtRT6TUiXfDcVpm7w7LXk) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Del Barrio](https://open.spotify.com/album/3wXfiZLFeJXriFIMMC1Ti4) | 2:02 | 2022-06-17 |  |
-| [Delicate Love](https://open.spotify.com/track/6uJFme7KrCugSiNLtv6D5v) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/1WtNJblFHyHS5oo6oqbpHI) | 2:21 | 2022-06-17 |  |
+| [Delicate Love](https://open.spotify.com/track/19NC6JIZJJ88CHJBZkF2o2) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/5Ujv5ySO7k7d373Yjx1k6y) | 2:21 | 2022-07-29 |  |
+| [Delicate Love](https://open.spotify.com/track/6uJFme7KrCugSiNLtv6D5v) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/1WtNJblFHyHS5oo6oqbpHI) | 2:21 | 2022-06-17 | 2022-08-04 |
 | [Dianthus](https://open.spotify.com/track/5BzjvgbKD4J7qr6Qq3LN0Q) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Dianthus](https://open.spotify.com/album/7M847xnmEPmIyAIXiXTKJv) | 3:51 | 2022-06-17 |  |
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-06-17 |  |
-| [Dos Semanas](https://open.spotify.com/track/5xBLH2lm5TFylXBOuJwnDm) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/7wGfMMfZy4TROCO1KtgSkd) | 2:27 | 2022-06-17 |  |
+| [Dos Semanas](https://open.spotify.com/track/0DLJOEDh4Xdi7tlRXJCh0r) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/6j0fxPpJFCs4Bj9ua6SEQg) | 2:27 | 2022-07-29 |  |
+| [Dos Semanas](https://open.spotify.com/track/5xBLH2lm5TFylXBOuJwnDm) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/7wGfMMfZy4TROCO1KtgSkd) | 2:27 | 2022-06-17 | 2022-08-04 |
 | [El Arte De La Guitarra](https://open.spotify.com/track/12t9WB5iWTX3nAz5aLSjGA) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Romantic Spanish Guitar, Vol\. 3](https://open.spotify.com/album/7vpRhpWT83mNvLBqjJ9Kbt) | 4:12 | 2022-06-17 |  |
 | [El Ciego](https://open.spotify.com/track/1EtqyTZZhHtT7cmznkSc25) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [El Ciego](https://open.spotify.com/album/6qo8bLXjZSYwCU5I6PaN4b) | 1:39 | 2022-06-17 |  |
 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 | 2022-06-17 |  |

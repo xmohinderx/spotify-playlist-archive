@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 47502,
+  "num_followers": 47520,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDJlZGY3NzhhYjEyNzFmM2M1MmVlOWM1ZDVjOGVkMDg0",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDA3NDY5MjYwMTNmMGFkZGVmY2Q1ZjI4OThkZDIzNzgz",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1211,38 +1211,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "20 A\u00f1os en Vivo & En Directo",
-        "url": "https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 331169,
-      "name": "La M\u00e1scara - En Vivo",
-      "url": "https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Alta Lucha",
         "url": "https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v"
       },
@@ -1263,6 +1231,38 @@
       "duration_ms": 202306,
       "name": "M\u00e1s Libre",
       "url": "https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "20 A\u00f1os en Vivo & En Directo",
+        "url": "https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 331169,
+      "name": "La M\u00e1scara - En Vivo",
+      "url": "https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV"
     },
     {
       "added_at": "2022-07-01 04:02:00",

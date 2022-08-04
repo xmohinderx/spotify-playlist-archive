@@ -1,13 +1,29 @@
 {
   "description": "Wyj\u0105tkowe polskie artystki na jednej playli\u015bcie. S\u0142uchaj kobiet na ca\u0142y g\u0142os! Cover: Ofelia",
-  "num_followers": 8748,
+  "num_followers": 8873,
   "original_name": "EQUAL Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3NzYwMCwwMDAwMDAwMGNhNDRmZDI0OGY4ZWFlMzBhYzEwY2Q3NTIyNGE2MmM1",
+  "snapshot_id": "MTY1OTQ3NzYwMCwwMDAwMDAwMGNlZDE4OGRlMjIzZmU5YWM2YzY5ZTM1ZDVhYjJjYzE3",
   "tracks": [
+    {
+      "added_at": "2022-08-02 22:00:00",
+      "album": {
+        "name": "Bolesne ko\u015bci (Tymoteusz)",
+        "url": "https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M"
+      },
+      "artists": [
+        {
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX"
+        }
+      ],
+      "duration_ms": 244272,
+      "name": "Bolesne ko\u015bci (Tymoteusz)",
+      "url": "https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su"
+    },
     {
       "added_at": "2022-08-02 22:00:00",
       "album": {
@@ -406,6 +422,10 @@
         {
           "name": "KUBA",
           "url": "https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
         }
       ],
       "duration_ms": 162782,

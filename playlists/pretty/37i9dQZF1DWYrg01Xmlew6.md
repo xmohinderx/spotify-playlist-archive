@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Napoli e il meglio della scena campana\. Cover: Nicola Siciliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,889 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,941 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 17 | [I Miss You](https://open.spotify.com/track/4lgfhjnm922y6kGBAqKhaU) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [I Miss You](https://open.spotify.com/album/2jAiCu51wRIF6CcQqgTpkK) | 2:57 |
 | 18 | [SUL IJ E TE](https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUL IJ E TE](https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS) | 2:16 |
 | 19 | [Jump \(feat\. Lazza\)](https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 |
-| 20 | [Over \(feat\. Geolier\)](https://open.spotify.com/track/50MEBYlrrt47OTvpoZ8AcH) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 3:30 |
+| 20 | [Over \(feat\. Geolier\)](https://open.spotify.com/track/6URgRkWHKc7SJpC1NSVBrP) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:30 |
 | 21 | [OMBRELLO](https://open.spotify.com/track/7yxJ1UAV4FrpGsOiQrp1WV) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [OMBRELLO](https://open.spotify.com/album/4lsRAH0c7Bi7mFSRReZQMk) | 3:09 |
 | 22 | [BEST FRIENDS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/2s8Y2ksyWf6xsh2O6CLZzF) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:54 |
 | 23 | ['O NOMME](https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE) | [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm) | ['O NOMME](https://open.spotify.com/album/0PWAS2mH0qvRuT5Pos0Q5Q) | 2:00 |
-| 24 | [No Love \(feat\. CoCo\)](https://open.spotify.com/track/4tlDLoVg3YX4GNBnddaNZb) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 3:47 |
+| 24 | [No Love \(feat\. CoCo\)](https://open.spotify.com/track/04UJuGMKBimBWXdpL93dDd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:47 |
 | 25 | [Hablan De Mi \- Italian Remix](https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Hablan De Mi \(Italian Remix\)](https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh) | 2:08 |
 | 26 | [Revenge \(feat\. Enzo Dong\)](https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:09 |
 | 27 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Penzier](https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Penzier](https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG) | 2:44 |
 | 50 | [DON'T STOP](https://open.spotify.com/track/7phaQRCg0ws1d9mb9C9aTO) | [SPETRIX](https://open.spotify.com/artist/5TfIVdYlqjs9RmC4vyAesM), [DENEMI](https://open.spotify.com/artist/5wQUqEJMbi2INC969TwMXt) | [DON'T STOP / ACAL 'A VOCE](https://open.spotify.com/album/0IcpZncMY4qhuX44ocnJNr) | 2:30 |
 
-Snapshot ID: `MTY1OTA0NTY2MCwwMDAwMDAwMGE3MTNlNTQ5MDc4YTkxNjEyMWZkMDEzODQ5ZWZiNjcz`
+Snapshot ID: `MTY1OTA0NTY2MCwwMDAwMDAwMDk1MjM3MTRiYmE2ZDQ2Nzg5ZWEzN2Y4ZTg0ODI3YzM2`

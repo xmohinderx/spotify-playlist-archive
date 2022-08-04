@@ -4,7 +4,7 @@
 
 > Pop\-punk, emo, post\-hardcore, alternative \- it's whatever you want it to be\. Cover: Sueco
 
-788 songs - 1 day 18 hr 22 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+789 songs - 1 day 18 hr 24 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,8 @@
 | [New Light](https://open.spotify.com/track/5Xh2kTLGI9cRzarZoY9qYi) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [New Light](https://open.spotify.com/album/1Y3t3ePeJUTp9B7WCk3aKA) | 3:35 | 2021-12-10 | 2022-07-26 |
 | [NEW MEDiCATiON](https://open.spotify.com/track/2IZZyt0YycXZg0p8IHOfaQ) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [NEW MEDiCATiON](https://open.spotify.com/album/0tShSLGUjdIduDX5SSzExG) | 2:48 | 2021-12-10 | 2022-04-16 |
 | [New Waves](https://open.spotify.com/track/2HB8LWG5bjLgUr9DYZc6Eg) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Recovery](https://open.spotify.com/album/4HPjQ1ZIgPYcIgTGJx9n3d) | 4:12 | 2022-03-25 | 2022-04-13 |
-| [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 | 2022-08-02 |  |
+| [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 | 2022-08-02 |  |
+| [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 | 2022-08-02 | 2022-08-04 |
 | [Nice to Meet You](https://open.spotify.com/track/5eTftW1eQHHhIOean3enJ8) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Nice to Meet You](https://open.spotify.com/album/7yVfXby8Nlc8yWjPeTReu4) | 3:30 | 2021-12-10 | 2022-07-09 |
 | [Night Like This](https://open.spotify.com/track/1Wqatg6VRFAFXhpAyhSHIC) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Night Like This](https://open.spotify.com/album/3yNeyVXzNz6BrcVmcZdTFS) | 3:20 | 2022-03-25 | 2022-04-20 |
 | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC) | 2:52 | 2022-06-24 | 2022-08-03 |

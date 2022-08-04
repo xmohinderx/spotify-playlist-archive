@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-142 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
+143 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Night and Day](https://open.spotify.com/track/73LhDgmupOzN8RPljjgzie) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Momento](https://open.spotify.com/album/1DLInOTT0GPK7hUhJ8uIUn) | 4:55 | 2022-05-13 | 2022-07-29 |
 | [O Barquinho](https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [From Paris To Rio](https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk) | 4:29 | 2022-05-13 |  |
 | [O Gato](https://open.spotify.com/track/5bgl7DqcS62Wl9I9TnkQzC) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:34 | 2022-05-13 | 2022-07-29 |
-| [O Gato](https://open.spotify.com/track/39eNnBUZYkxulVzf1NsAxH) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:36 | 2022-06-28 |  |
+| [O Gato](https://open.spotify.com/track/39eNnBUZYkxulVzf1NsAxH) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:36 | 2022-06-28 | 2022-08-04 |
 | [O Gato](https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Greatest Hits Series\-\-Paul Desmond](https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b) | 4:26 | 2022-05-13 |  |
 | [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 | 2022-05-13 | 2022-07-27 |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 | 2022-06-28 |  |
@@ -110,6 +110,7 @@
 | [Rolling in the Deep](https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Rolling in the Deep](https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ) | 3:43 | 2022-05-13 |  |
 | [S'Wonderful](https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:27 | 2022-05-13 |  |
 | [Samba Cantina](https://open.spotify.com/track/1Yimq2iZciRfLDDdeGnhiA) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 5:38 | 2022-05-13 | 2022-07-29 |
+| [Samba Cantina](https://open.spotify.com/track/1tOaKNDYsx3YoWThbOCvVx) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 5:42 | 2022-06-28 |  |
 | [Samba Da Benção](https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 6:54 | 2022-06-28 |  |
 | [Samba Da Benção](https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Baden Powell \- A Bênção Baden Powell](https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf) | 6:50 | 2022-05-13 | 2022-07-29 |
 | [Samba De Uma Nota So](https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:09 | 2022-05-13 |  |

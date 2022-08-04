@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,959 likes - 49 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,970 likes - 49 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 9 | [Today is a diamond \- Full Spec Edition](https://open.spotify.com/track/140e5u8qAM2IzhCyPqHfNG) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 3:31 |
 | 10 | [hands \- Full Spec Edition](https://open.spotify.com/track/3WCKcEJrFuvBOzAevvZ12V) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 3:32 |
 | 11 | [As You Like](https://open.spotify.com/track/03VWoSbfWvZhRF5HXOxgX8) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [吉田 沙織](https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv), [美緒](https://open.spotify.com/artist/59OrirVzqqGU63UES7pKde) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side A\)](https://open.spotify.com/album/3WXNB1IEdCsW6zRLU4Kjt0) | 2:36 |
-| 12 | [時間よ止まれ \- Remastered 2022](https://open.spotify.com/track/2I0WPizsVHeTWkB8GHSYCd) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [SUBWAY EXPRESS 2 \(50th Anniversary Remastered\)](https://open.spotify.com/album/28VMhd1eZ2ldWKUcOoYZjI) | 5:21 |
+| 12 | [時間よ止まれ \(セルフカバー\) \- Remastered 2022](https://open.spotify.com/track/2I0WPizsVHeTWkB8GHSYCd) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [SUBWAY EXPRESS 2 \(50th Anniversary Remastered\)](https://open.spotify.com/album/28VMhd1eZ2ldWKUcOoYZjI) | 5:21 |
 | 13 | [TONIGHT\-restart from this night\- \- Full Spec Edition](https://open.spotify.com/track/636lfobOQapmljr4NOgDIK) | [桐生 一馬\(黒田 崇矢\)](https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn) | [龍が如く極 オリジナルサウンドトラック](https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL) | 4:39 |
 | 14 | [わすれない](https://open.spotify.com/track/30FuMk37tWuBQ7BNKpR8pO) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く OF THE END オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/3ekg0kdMqduIysdGxDA4DL) | 3:30 |
 | 15 | [Bakamitai \- Taxi Driver Edition](https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 4:51 |

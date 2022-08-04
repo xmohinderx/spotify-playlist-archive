@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-164 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/5gfcJLej6wVdRfUIqN4gfB)
+165 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/5gfcJLej6wVdRfUIqN4gfB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Mirror](https://open.spotify.com/track/1QuJc9UoMHLnvFSlaN1eEM) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [1Q87](https://open.spotify.com/album/4sSV6SA4ubFpNm62W8KYRr) | 3:40 | 2022-06-03 | 2022-07-13 |
 | [Model House \(Feat\. Koonta\)](https://open.spotify.com/track/2au4vnPtLBMAHnjH6fmi93) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:25 | 2022-07-22 |  |
 | [Money Serenade](https://open.spotify.com/track/6ihTPZHEJk83jNYr58dQL3) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL \(Episode 3\)](https://open.spotify.com/album/2bKpgH4MLl6pRfl6ZzuOkj) | 3:40 | 2022-05-23 | 2022-07-25 |
-| [Money Serenade \(Feat\. Wonstein & Kim Seung Min\)](https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL Episode 3](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) | 3:40 | 2022-07-22 |  |
+| [Money Serenade \(Feat\. Wonstein & Kim Seung Min\)](https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL Episode 3](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) | 3:40 | 2022-07-22 | 2022-08-04 |
 | [Murphy \(feat\. Khundi Panda\)](https://open.spotify.com/track/15dMUsQM3NVYhGJUcTgil0) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [The Dragon Warrior](https://open.spotify.com/album/48qODc7NCpO2HaUuFw60Nd) | 2:58 | 2022-05-23 | 2022-07-28 |
 | [My dream](https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Never give up, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp) | 3:26 | 2022-06-09 |  |
 | [My Heroes](https://open.spotify.com/track/76BNJil2zrNPs1O6NAKAAC) | [TAKUWA](https://open.spotify.com/artist/46gc3yx3R3HyZtpwV9s82V) | [My Heroes](https://open.spotify.com/album/1JPSVgdFZV9iFds7x0MDth) | 2:33 | 2022-05-23 | 2022-06-19 |
@@ -126,6 +126,7 @@
 | [SINKING DOWN WITH U \- Piano Version](https://open.spotify.com/track/5X3BkFOMHEbTNjrhecMwwq) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:57 | 2022-06-03 | 2022-07-22 |
 | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2022-07-07 | 2022-07-17 |
 | [Skin \(feat\. Seori\)](https://open.spotify.com/track/4JAqA8BZ9aKqgfYVvro8QJ) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Skin](https://open.spotify.com/album/57EMnZPUuiDJaPldPoFXoH) | 4:06 | 2022-05-23 | 2022-07-28 |
+| [Sky](https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Sky](https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT) | 3:39 | 2022-08-03 |  |
 | [sleep tight](https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:49 | 2022-05-23 | 2022-07-29 |
 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/0ifztmwdgzbJe8RU9tXBFk) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:05 | 2022-05-23 | 2022-07-29 |
 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:05 | 2022-07-22 |  |

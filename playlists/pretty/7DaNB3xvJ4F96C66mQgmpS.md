@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > The best workout playlist is here\. Listen to rap and electronic bangers from Nicki Minaj, DJ Snake, and others to power you through.
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 89,161 likes - 50 songs - 2 hr 35 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 89,207 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

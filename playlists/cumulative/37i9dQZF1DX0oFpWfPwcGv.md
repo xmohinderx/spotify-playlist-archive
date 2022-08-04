@@ -4,7 +4,7 @@
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-105 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/5ufXqYS0T25L5OxhQmfhoU)
+106 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5ufXqYS0T25L5OxhQmfhoU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [My Forbidden Lover](https://open.spotify.com/track/4rVxIA2PfuPaFsVH5AOqIm) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 4:34 | 2022-05-17 | 2022-07-29 |
 | [My Forbidden Lover \- 2018 Remaster](https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 4:34 | 2022-07-15 |  |
 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 | 2022-05-17 |  |
-| [Never Knew Love Like This Before](https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Classic Soul](https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q) | 5:25 | 2022-05-17 |  |
+| [Never Knew Love Like This Before](https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Classic Soul](https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q) | 5:25 | 2022-05-17 | 2022-08-04 |
+| [Never Knew Love Like This Before \(Extended Mix\)](https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Groove On, Vol\. 1](https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa) | 5:28 | 2022-07-15 |  |
 | [Nights on Broadway](https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Music Speaks Louder Than Words](https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et) | 3:29 | 2022-05-17 |  |
 | [No One Gets The Prize](https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:40 | 2022-07-15 |  |
 | [No One Gets The Prize](https://open.spotify.com/track/6JOQFjWzYQCB0dTWp0Ina3) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/19x20Cwz3LInQooz8JQ4Zw) | 4:40 | 2022-05-17 | 2022-07-29 |

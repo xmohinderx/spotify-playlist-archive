@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-161 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
+163 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/4WdUMgVMYdn1xeu3X2z9Ai) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/album/4voG9BTFD0GrLyKpEKdBSX) | 5:37 | 2021-10-06 |  |
 | [Ghost in the Machine](https://open.spotify.com/track/3TzsCBPAH3GHE0drmgaACn) | [Movie Club](https://open.spotify.com/artist/3wkilXKggx1opfGLeRK1tC) | [Fangtooth](https://open.spotify.com/album/7G3U6ikCPyS1dgQYmlw7qz) | 4:15 | 2021-10-06 | 2022-07-26 |
 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 | 2021-10-06 |  |
+| [Go Through the Night](https://open.spotify.com/track/6NdiQtxFYkcoo3NDxqOIiV) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f) | 3:52 | 2022-08-03 |  |
 | [Green Phase, Part One](https://open.spotify.com/track/1hQ6qPmHgJhjGkAhhvBQvg) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible \(Green Phase\)](https://open.spotify.com/album/7pmG0FBAsV9T1SBQHkWZKS) | 3:27 | 2021-10-06 | 2022-07-29 |
 | [Green Phase, Part One](https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible](https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2) | 3:27 | 2021-10-06 |  |
 | [Hidden Qi 隐.气](https://open.spotify.com/track/4ciVbZoIxygY9mNaJWzkZd) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Hidden Qi 隐.气](https://open.spotify.com/album/3bSniYoHteg80X3Kmdkt36) | 3:17 | 2021-11-26 |  |
@@ -97,7 +98,7 @@
 | [Marginalia \#48](https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia III](https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM) | 3:53 | 2022-02-23 |  |
 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 | 2022-02-25 |  |
 | [Midnight Horizon](https://open.spotify.com/track/5cfK17MedUMS1ElYVFa3Uv) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Midnight Horizon](https://open.spotify.com/album/4ENJxCNlfPvz3iBQpRIa35) | 3:33 | 2021-10-06 | 2022-07-29 |
-| [Migrants](https://open.spotify.com/track/1z0DCBuLsbLo3qw5XzQ52E) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 4:43 | 2022-04-06 |  |
+| [Migrants](https://open.spotify.com/track/1z0DCBuLsbLo3qw5XzQ52E) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 4:43 | 2022-04-06 | 2022-08-04 |
 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 | 2022-02-18 |  |
 | [Moabit](https://open.spotify.com/track/4hCRPlRaCcEbeNLZoxnZV1) | [Freestyle Man](https://open.spotify.com/artist/0J16SQxQ3aevs1yt0LUwv5), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Jimi Tenor](https://open.spotify.com/artist/5KhHCVgWsq6rHocHATBwdZ) | [Moabit](https://open.spotify.com/album/0UIMMz9GGrgRDseMZHPXLO) | 8:29 | 2022-07-15 |  |
 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 | 2021-10-06 |  |
@@ -139,6 +140,7 @@
 | [Stranger Than Fiction](https://open.spotify.com/track/26b7DkpsVvOSnHgFnHJ4RV) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 4:54 | 2021-10-06 |  |
 | [Street Fighter Mas](https://open.spotify.com/track/3ZaCCDIIXC2NmcT1CHI5MP) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Heaven and Earth](https://open.spotify.com/album/6f3h8jHeXY6I6qduBrK3eK) | 5:58 | 2021-10-06 |  |
 | [Street Fighter Mas](https://open.spotify.com/track/42HCaQAAihJZBY12wIZvyR) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Heaven and Earth](https://open.spotify.com/album/4gqOopeAEc1uZ392BBAWEd) | 5:58 | 2021-10-06 | 2022-07-27 |
+| [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 |  |
 | [Taina](https://open.spotify.com/track/1ZW0uQWkcZsqdh1wkVk0uL) | [Schepetkov](https://open.spotify.com/artist/0MRze6X3tOV76bQXUupBtK), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Taina](https://open.spotify.com/album/5zjwRiG6UwUqKtBnJCaTlY) | 3:20 | 2022-04-23 |  |
 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 | 2021-10-06 |  |
 | [Terrain: III](https://open.spotify.com/track/155m4l4LYVmscSUGWQXDEl) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Terrain](https://open.spotify.com/album/5rCjfRxrqbeQYqMPzcn6M4) | 10:10 | 2021-10-06 |  |
@@ -167,7 +169,7 @@
 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 | 2021-10-06 | 2022-07-29 |
 | [Wing Rowing \(K08\)](https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Nictitating Membrane \(GC164\) / Wing Rowing \(K08\)](https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz) | 2:30 | 2022-01-13 |  |
 | [YOGA IN KARACHI](https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET) | [C.A.R.](https://open.spotify.com/artist/4twUXuOT8MWkh7u53TX0si) | [Befunde ab 1999](https://open.spotify.com/album/7a4Kf2VYhvrby4IcTzJMnq) | 8:47 | 2021-10-06 |  |
-| [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2021-10-06 |  |
+| [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2021-10-06 | 2022-08-04 |
 | [Áss hinn hvíti \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Odin's Raven Magic \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/album/1Eaq9sameAA3etJDxMEJJ6) | 5:09 | 2021-10-06 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

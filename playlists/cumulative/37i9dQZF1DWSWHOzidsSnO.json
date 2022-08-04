@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Paola Jara y m\u00e1s mujeres, a todo volumen!",
+  "description": "\u00a1Ventino y m\u00e1s mujeres, a todo volumen!",
   "name": "EQUAL Colombia",
   "published_playlist_ids": [
     "4BjclhMki5D8Bs9ZwTy9s8"
@@ -99,6 +99,24 @@
       "duration_ms": 237365,
       "name": "Amar As\u00ed",
       "url": "https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C"
+    },
+    {
+      "album": {
+        "name": "Amor de mi vida",
+        "url": "https://open.spotify.com/album/1PpckLJMITfyaGw4yrWCZu"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184218,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/53TlwMMz8k4wrfmcXyALIq"
     },
     {
       "album": {
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 146128,
       "name": "Brindar\u00e9",
       "url": "https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 176968,
       "name": "Hasta Que Te Vi",
       "url": "https://open.spotify.com/track/1v8kXzzhbyCj00F0vAlQys"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 150424,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"

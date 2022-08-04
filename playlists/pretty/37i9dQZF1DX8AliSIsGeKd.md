@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Stella Bossi
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,226 likes - 74 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,461 likes - 74 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

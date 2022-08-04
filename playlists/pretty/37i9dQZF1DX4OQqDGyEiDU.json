@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 44383,
+  "num_followers": 44445,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1OTQ0OSwwMDAwMDAwMDE0ZGEwMzM3M2U1ZjNlODRiMmMyY2QzMGZlNDk1OGMy",
+  "snapshot_id": "MTY1OTQ1OTQ0OSwwMDAwMDAwMDgzNjNjODQ2ZWYxOTI3ZGY5MGIzNmMyM2Q1YmE5NTQw",
   "tracks": [
     {
       "added_at": "2022-08-02 16:57:29",
@@ -120,7 +120,7 @@
           "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         },
         {
-          "name": "Miku Hatsune",
+          "name": "Hatsune Miku",
           "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
@@ -300,7 +300,7 @@
           "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
         },
         {
-          "name": "Miku Hatsune",
+          "name": "Hatsune Miku",
           "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
@@ -592,11 +592,11 @@
           "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
         },
         {
-          "name": "Miku Hatsune",
+          "name": "Hatsune Miku",
           "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         },
         {
-          "name": "Rin Kagamine",
+          "name": "Kagamine Rin",
           "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
         }
       ],
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-08-02 16:57:29",
       "album": {
-        "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD"
+        "name": "\u7089\u5fc3\u878d\u89e3",
+        "url": "https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3"
       },
       "artists": [
         {
-          "name": "toa",
-          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+          "name": "iroha(sasaki)",
+          "url": "https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc"
         }
       ],
-      "duration_ms": 250359,
-      "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W"
+      "duration_ms": 329038,
+      "name": "\u7089\u5fc3\u878d\u89e3",
+      "url": "https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ"
     },
     {
       "added_at": "2022-08-02 16:57:29",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-08-02 16:57:29",
       "album": {
-        "name": "\u7089\u5fc3\u878d\u89e3",
-        "url": "https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3"
+        "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD"
       },
       "artists": [
         {
-          "name": "iroha(sasaki)",
-          "url": "https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc"
+          "name": "toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
         }
       ],
-      "duration_ms": 329038,
-      "name": "\u7089\u5fc3\u878d\u89e3",
-      "url": "https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ"
+      "duration_ms": 250359,
+      "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W"
     },
     {
       "added_at": "2022-08-02 16:57:29",

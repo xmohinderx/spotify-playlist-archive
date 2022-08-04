@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > A party full of glitter, confetti and beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,828 likes - 70 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,050 likes - 70 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 16 | [Unity](https://open.spotify.com/track/4nw0UJNsLOyUMA76q1e7HZ) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Unity](https://open.spotify.com/album/5gOnkV7tKvosDQ4gkBsQEo) | 5:45 |
 | 17 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 |
 | 18 | [Better Mind \- Original Mix](https://open.spotify.com/track/5tPhxNJsIAe7LKSJ7bhy1C) | [Ante Perry](https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW), [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h), [IMYD](https://open.spotify.com/artist/14TY7z7b8iII4hP5uYpKJm) | [Better Mind](https://open.spotify.com/album/5Bycx3sLWBt2bHhamjlDY9) | 6:04 |
-| 19 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
-| 20 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 |
+| 19 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 |
+| 20 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 21 | [10 West \- Anfisa Letyago Remix](https://open.spotify.com/track/4Z0beFsmaQmrT1C7IFXb3Z) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [10 West \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3LqXIRnuGdsfqfWo59lpT4) | 6:10 |
 | 22 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 |
 | 23 | [Untold](https://open.spotify.com/track/4k2XhQNH68LpS0YxQDTcov) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/3RrTZKnXObb9lbtUkgySTl) | 6:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 |
 | 70 | [Hands On..\. Don't Waste My Time](https://open.spotify.com/track/7zPHYX5tpIZYszcKrwfOo0) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Hands On...](https://open.spotify.com/album/5HCJLQJG0k7lMLXyi5zcT1) | 5:29 |
 
-Snapshot ID: `MTY1NjA2NDgwMCwwMDAwMDAwMDRiOGVmNzY0NGI1YWRhMmIzNzllNzlmYWVkZTJjNjNh`
+Snapshot ID: `MTY1NjA2NDgwMCwwMDAwMDAwMDE3ZmMxYzFhZTQyNWEwYTRlYzJmZDZhNTJiZWRjNmJh`

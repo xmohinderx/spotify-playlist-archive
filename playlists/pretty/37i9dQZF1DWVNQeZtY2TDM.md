@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Psy.P
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,873 likes - 72 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,893 likes - 72 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

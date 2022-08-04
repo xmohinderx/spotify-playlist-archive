@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: DOMi & JD BECK
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,529 likes - 90 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,711 likes - 90 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 57 | [Bajrangbali](https://open.spotify.com/track/1iDDTc4gBmnciyfcbauam7) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3IH9cgAWVxj50l31B7vNF9) | 3:32 |
 | 58 | [Scorpion](https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ) | [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Scorpion](https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv) | 3:38 |
 | 59 | [Sweet Isolation \(Metropole Orkest\)](https://open.spotify.com/track/3jNdydQGl08mlbmd2Xceal) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Sweet Isolation \(Metropole Orkest\)](https://open.spotify.com/album/1Bfdlb132DDKkNK946T9rC) | 5:32 |
-| 60 | [We The People Of The Myths](https://open.spotify.com/track/6QPZ2Aph9zvFxAAVOXJpjD) | [Meditations on Crime](https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB), [King Khan](https://open.spotify.com/artist/5zExg5Z9MmcUh2B2K93bbs), [Marshall Allen](https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58), [Sun Ra Arkestra](https://open.spotify.com/artist/5V5vvh5MgM7vDuPp4lJYkh) | [We The People Of The Myths](https://open.spotify.com/album/0kScUUwQyv0enTDkSF91T7) | 5:14 |
+| 60 | [We The People Of The Myths](https://open.spotify.com/track/6QPZ2Aph9zvFxAAVOXJpjD) | [Meditations on Crime](https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB), [King Khan](https://open.spotify.com/artist/5zExg5Z9MmcUh2B2K93bbs), [Harper Simon](https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE), [Marshall Allen](https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58), [Sun Ra Arkestra](https://open.spotify.com/artist/5V5vvh5MgM7vDuPp4lJYkh) | [We The People Of The Myths](https://open.spotify.com/album/0kScUUwQyv0enTDkSF91T7) | 5:14 |
 | 61 | [Epistrophy](https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Epistrophy](https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL) | 3:31 |
 | 62 | [Beep Durple](https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin'](https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx) | 6:20 |
 | 63 | [Joy Road](https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Strata Records \- the Sound of Detroit \- Reimagined by Jazzanova](https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3) | 3:53 |

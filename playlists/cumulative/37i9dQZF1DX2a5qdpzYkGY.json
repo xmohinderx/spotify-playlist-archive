@@ -1072,6 +1072,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232723,
+      "name": "Go Through the Night",
+      "url": "https://open.spotify.com/track/6NdiQtxFYkcoo3NDxqOIiV"
+    },
+    {
+      "album": {
         "name": "The Crucible (Green Phase)",
         "url": "https://open.spotify.com/album/7pmG0FBAsV9T1SBQHkWZKS"
       },
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 283800,
       "name": "Migrants",
       "url": "https://open.spotify.com/track/1z0DCBuLsbLo3qw5XzQ52E"
@@ -2570,6 +2588,24 @@
     },
     {
       "album": {
+        "name": "Swampland / Cava",
+        "url": "https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE"
+      },
+      "artists": [
+        {
+          "name": "Bokoya",
+          "url": "https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75293,
+      "name": "Swampland",
+      "url": "https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf"
+    },
+    {
+      "album": {
         "name": "Taina",
         "url": "https://open.spotify.com/album/5zjwRiG6UwUqKtBnJCaTlY"
       },
@@ -3117,7 +3153,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 297287,
       "name": "You Want Dark Tunes?",
       "url": "https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP"

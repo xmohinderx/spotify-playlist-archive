@@ -1,12 +1,12 @@
 {
   "description": "Country that made country cool! Cover: Shania Twain",
-  "num_followers": 1290419,
+  "num_followers": 1291641,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk1Nzg5MCwwMDAwMDAwMDc0MzJmYTAzZjc2ZDQ5MTRiODRjOGZmYzM4OGQ5NmQy",
+  "snapshot_id": "MTY1ODk1Nzg5MCwwMDAwMDAwMDI0ZTY4YTIwMGU5ODliMmIyNGE1ZjBiYzk0MTA5OTg3",
   "tracks": [
     {
       "added_at": "2022-07-27 21:38:10",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Indian Outlaw",
-      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
-    },
-    {
-      "added_at": "2022-07-27 21:38:10",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179600,
       "name": "Every Light In The House",
       "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
+    },
+    {
+      "added_at": "2022-07-27 21:38:10",
+      "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Indian Outlaw",
+      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "No One Needs To Know",
+      "url": "https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy"
+    },
+    {
+      "added_at": "2022-07-27 21:38:10",
+      "album": {
         "name": "Blue Clear Sky",
         "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "A Thousand Memories",
-        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
-      },
-      "artists": [
-        {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "That Ain't My Truck",
-      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
-    },
-    {
-      "added_at": "2022-07-27 21:38:10",
-      "album": {
         "name": "If You See Him",
         "url": "https://open.spotify.com/album/5CUap1jumnhCkIDCd6DtEc"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "I Will Stand",
-        "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
+        "name": "A Thousand Memories",
+        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
         }
       ],
-      "duration_ms": 205093,
-      "name": "She's Got It All",
-      "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
+      "duration_ms": 243106,
+      "name": "That Ain't My Truck",
+      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
+        "name": "I Will Stand",
+        "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "She's Got It All",
+      "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
+    },
+    {
+      "added_at": "2022-07-27 21:38:10",
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 285200,
       "name": "Fast as You",
       "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
-    },
-    {
-      "added_at": "2022-07-27 21:38:10",
-      "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "No One Needs To Know",
-      "url": "https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 219506,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
+      "duration_ms": 219506,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+        "name": "The Greatest Hits Collection",
+        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
       },
       "artists": [
         {
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
+      "duration_ms": 147640,
+      "name": "Tall, Tall Trees",
+      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -1699,8 +1699,8 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "The Greatest Hits Collection",
-        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
       },
       "artists": [
         {
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 147640,
-      "name": "Tall, Tall Trees",
-      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
+      "duration_ms": 229560,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
-    },
-    {
-      "added_at": "2022-07-27 21:38:10",
-      "album": {
         "name": "High Lonesome",
         "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 160360,
       "name": "Better Class of Losers",
       "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
+    },
+    {
+      "added_at": "2022-07-27 21:38:10",
+      "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -2267,18 +2267,22 @@
     {
       "added_at": "2022-07-27 21:38:10",
       "album": {
-        "name": "Thinkin' About You",
-        "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
+        "name": "Whatcha Gonna Do With A Cowboy",
+        "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
       "artists": [
         {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        },
+        {
+          "name": "Garth Brooks",
+          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
         }
       ],
-      "duration_ms": 203693,
-      "name": "Thinkin' About You",
-      "url": "https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o"
+      "duration_ms": 155000,
+      "name": "Whatcha Gonna Do With A Cowboy",
+      "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -2295,6 +2299,22 @@
       "duration_ms": 188240,
       "name": "I Left Something Turned On At Home",
       "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
+    },
+    {
+      "added_at": "2022-07-27 21:38:10",
+      "album": {
+        "name": "Thinkin' About You",
+        "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "Thinkin' About You",
+      "url": "https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o"
     },
     {
       "added_at": "2022-07-27 21:38:10",
@@ -2327,26 +2347,6 @@
       "duration_ms": 220106,
       "name": "I Do",
       "url": "https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY"
-    },
-    {
-      "added_at": "2022-07-27 21:38:10",
-      "album": {
-        "name": "Whatcha Gonna Do With A Cowboy",
-        "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
-      },
-      "artists": [
-        {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        },
-        {
-          "name": "Garth Brooks",
-          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Whatcha Gonna Do With A Cowboy",
-      "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
     },
     {
       "added_at": "2022-07-27 21:38:10",

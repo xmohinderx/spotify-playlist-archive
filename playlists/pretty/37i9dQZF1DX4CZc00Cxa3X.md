@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,620 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,655 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 34 | [Upstream](https://open.spotify.com/track/3dAQ9qpxPkRg3U5stdog6i) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [Upstream](https://open.spotify.com/album/6ckbxqv6WBX9MbmkaC3axo) | 3:31 |
 | 35 | [Notwithstanding](https://open.spotify.com/track/5Q2MwFBihjnuWXEa8UTB3B) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:52 |
 | 36 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 |
-| 37 | [Birds & Flutes](https://open.spotify.com/track/7usiMIQ4471lFXmVsUworT) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Virtual Dreams: Ambient Explorations In The House & Techno Age, 1993\-1997](https://open.spotify.com/album/11GgRVmpjBJNVRPjNPQQTQ) | 5:21 |
-| 38 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 |
+| 37 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 |
+| 38 | [Birds & Flutes](https://open.spotify.com/track/7usiMIQ4471lFXmVsUworT) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Virtual Dreams: Ambient Explorations In The House & Techno Age, 1993\-1997](https://open.spotify.com/album/11GgRVmpjBJNVRPjNPQQTQ) | 5:21 |
 | 39 | [2c](https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 7:52 |
 | 40 | [Ikigai](https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN) | [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Ikigai](https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi) | 4:55 |
 | 41 | [Sealed](https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Oto No Wa: Selected Sounds of Japan 1988\-2018](https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn) | 5:51 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 52 | [Doubled Flutes](https://open.spotify.com/track/31WhK6qzj9WmsVa46XROQR) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 2:17 |
 | 53 | [Spinnaker on a Southerly](https://open.spotify.com/track/6zrdZQiLJvaIMWzuCOyyIC) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:07 |
 | 54 | [Easter](https://open.spotify.com/track/2vNQxUNCzkSwRlOD9UKcnW) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg) | [Entanglement](https://open.spotify.com/album/4FN58DPGKCKisIpqEmu7av) | 5:24 |
-| 55 | [Ozu](https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [ZEBRA](https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0) | 2:18 |
+| 55 | [Waiting For The Wind To Blow](https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 5:34 |
 | 56 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 |
-| 57 | [Waiting For The Wind To Blow](https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 5:34 |
-| 58 | [Music for Six Rooms](https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 10:06 |
-| 59 | [Adrift](https://open.spotify.com/track/3jexA82J4b3Nd72TbgMAZO) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Ocean Sleep](https://open.spotify.com/album/647uuDQfKJ5QZb1BSduDw2) | 5:00 |
+| 57 | [Ozu](https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [ZEBRA](https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0) | 2:18 |
+| 58 | [Adrift](https://open.spotify.com/track/3jexA82J4b3Nd72TbgMAZO) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Ocean Sleep](https://open.spotify.com/album/647uuDQfKJ5QZb1BSduDw2) | 5:00 |
+| 59 | [Music for Six Rooms](https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 10:06 |
 | 60 | [Un drama mudo](https://open.spotify.com/track/1aacvDW2dyFxwgxU3q7rMN) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ), [Miguel Otero](https://open.spotify.com/artist/7ok1JjfEi1QoRXoyOEINrQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 7:56 |
 
-Snapshot ID: `MTY1NzI5MDg2OSwwMDAwMDAwMGZiNTJiZGEzYzI4ZTIxMTQ1MjljYWVhYmI4NTcwMzhi`
+Snapshot ID: `MTY1NzI5MDg2OSwwMDAwMDAwMGI2OGY5NmJkN2YxNDk0NGJhMDI5M2NhZjQ3MWU5MjA3`

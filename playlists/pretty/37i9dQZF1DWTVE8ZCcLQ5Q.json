@@ -1,12 +1,12 @@
 {
   "description": "Descubra Veigh e novos talentos brasileiros no horizonte.",
-  "num_followers": 421828,
+  "num_followers": 421821,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkyOTYwOCwwMDAwMDAwMGMzZWIxZTg4M2Q2N2QzYzQ1N2U1ZmQ0ZjliY2VjMTEx",
+  "snapshot_id": "MTY1ODkyOTYwOCwwMDAwMDAwMGM1MmRmZmZiN2VjNzc4NTRiNTRlMGUzZmNkMGFkMDgz",
   "tracks": [
     {
       "added_at": "2022-07-27 13:46:48",
@@ -507,30 +507,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "Garrafa Colorida",
-        "url": "https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC"
-      },
-      "artists": [
-        {
-          "name": "Mc Anjim",
-          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
-        },
-        {
-          "name": "DJ PH DA SERRA",
-          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
-        },
-        {
-          "name": "Dj Tg Da Inestan",
-          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Garrafa Colorida",
-      "url": "https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 144682,
       "name": "At\u00e9 o Final",
       "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Garrafa Colorida",
+        "url": "https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC"
+      },
+      "artists": [
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+        },
+        {
+          "name": "DJ PH DA SERRA",
+          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
+        },
+        {
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Garrafa Colorida",
+      "url": "https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "Todo Mundo Ama o Sol",
         "url": "https://open.spotify.com/album/2NgVCkUvypsuwrxloKor6X"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 162000,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0behTwZwYY2BR47eX3GjCq"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2022-07-27 13:46:48",

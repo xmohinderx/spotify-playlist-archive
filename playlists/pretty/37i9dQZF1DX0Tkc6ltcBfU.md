@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,648 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,864 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 16 | [Certified \(feat\. Gunna\)](https://open.spotify.com/track/31xA2Iti4kb3aMiX75e8Y5) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Shiesty Season: Certified](https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE) | 2:29 |
 | 17 | [Love is...](https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Love is…](https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg) | 3:50 |
 | 18 | [If These Walls Could Talk](https://open.spotify.com/track/4yt9MUm0zxEgx6m0Nml7M9) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:02 |
-| 19 | [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 |
+| 19 | [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/2l94QRczQbAB2EIugAS0sA) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 3:28 |
 | 20 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 |
 | 21 | [Rap Niggas](https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Rap Niggas](https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu) | 2:44 |
 | 22 | [Baby Wyd \(Remix\) \(feat\. Latto & Lakeyah\)](https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Wockin’ On A Wire \(feat\. NoCap\)](https://open.spotify.com/track/6MInFLWke89xMBOeMXEqLH) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Wockin’ On A Wire \(feat\. NoCap\)](https://open.spotify.com/album/44lgLZ8UtTfTlLiZb1W9hV) | 3:16 |
 | 50 | [Pogo Stick](https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [Pogo Stick](https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW) | 2:26 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDhmY2ZkZTFhNzg2YzVkODZkMWRjMTNlZmM1NmJmMDBh`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGMyOGJhM2YzZGFjOGY3NzJmODQ5N2U2YjAyMTBjMGQw`

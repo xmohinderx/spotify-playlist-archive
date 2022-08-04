@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > One Love\. More Life\. More Vibes\. Curated by Melanie Fiona for Toronto Carnival 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,009,144 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009,274 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 32 | [It's Growing](https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [It's Growing](https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC) | 3:39 |
 | 33 | [Can't Stop A Man](https://open.spotify.com/track/6wUlIoheUNEQV9fPidzNpi) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Can't Stop A Man](https://open.spotify.com/album/6ghigyTicHIi5CjSMVzFa9) | 3:49 |
 | 34 | [Fresh Vegetable](https://open.spotify.com/track/06UBDbbHwOBlpdx2vVs2Zs) | [Tony Rebel](https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E) | [Tony Rebel Collectors Series Vol.1](https://open.spotify.com/album/6gocsBN1OKc2BeJhAGitzz) | 3:49 |
-| 35 | [Solid As A Rock](https://open.spotify.com/track/6rr0IJtCpW4a0ZFm1FqOI6) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Overstanding](https://open.spotify.com/album/0lG2hSWRSQxfoNurAIoAh5) | 4:26 |
-| 36 | [Love So Nice](https://open.spotify.com/track/0ks5sXa1iEMvtVbYOsfiNq) | [Junior Kelly](https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9) | [Strictly The Best Vol\. 26](https://open.spotify.com/album/0N5eKt7WmMzjeyOsLt9QJC) | 4:00 |
+| 35 | [Love So Nice](https://open.spotify.com/track/0ks5sXa1iEMvtVbYOsfiNq) | [Junior Kelly](https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9) | [Strictly The Best Vol\. 26](https://open.spotify.com/album/0N5eKt7WmMzjeyOsLt9QJC) | 4:00 |
+| 36 | [Solid As A Rock](https://open.spotify.com/track/6rr0IJtCpW4a0ZFm1FqOI6) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Overstanding](https://open.spotify.com/album/0lG2hSWRSQxfoNurAIoAh5) | 4:26 |
 | 37 | [My People Rise](https://open.spotify.com/track/1z6hqfPbd70QAQPQYKus7o) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W), [Fantan Mojah](https://open.spotify.com/artist/224iUwyJmK9mbPT0aLtS5W), [Turbulence](https://open.spotify.com/artist/64TsAZ8OCSex7fSVTRXmGz), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU), [Zareb](https://open.spotify.com/artist/1cp1weWIL0CUbDPsurAjfM), [Mikey General](https://open.spotify.com/artist/2X1tHIKMWxTu5m8pzbcFol), [Spectacular](https://open.spotify.com/artist/1R9M4uPHJEd5WCdA8Y6PBc), [Mikey Melody](https://open.spotify.com/artist/50XrkABrDEY9r7qboHQpS9) | [My People Rise](https://open.spotify.com/album/4PEJfNXDGe1X7is33hBoGz) | 4:01 |
 | 38 | [Don't Explain](https://open.spotify.com/track/4aMJWOxbgdreFo0CAzuVyC) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Celebrating Nina: A Reggae Tribute to Nina Simone](https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF) | 5:08 |
 | 39 | [Work It Out \(feat\. Melanie Fiona\)](https://open.spotify.com/track/62Ca3TqL7sfuthJWzNQjlv) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Royal Soldier](https://open.spotify.com/album/0rnKdoz1sPTCxhS2cpGv7a) | 4:23 |
 | 40 | [Bonafide Love \(feat\. Wayne Wonder\)](https://open.spotify.com/track/6JrtsOaJNTwPUIY414yaCb) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [The Early Years \(90\-95\)](https://open.spotify.com/album/2XjpEz7Rz6dEGdNlZZYPJj) | 3:47 |
-| 41 | [Love Sponge](https://open.spotify.com/track/73QYhs58wfVPnEy2YnpTHR) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 3:38 |
-| 42 | [Love Me Browning](https://open.spotify.com/track/0bhwkOfM7yVI0fZmlS0d2t) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Mr Mention](https://open.spotify.com/album/30OprvPAmiCw2Nlt5FQMT7) | 3:47 |
-| 43 | [\(Dry Cry\) Just One of Those Days](https://open.spotify.com/track/5D0QnhFCV0uiEx3VvRgAkL) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [STRICTLY THE BEST VOL\. 31](https://open.spotify.com/album/26XrLpOvz47iPoQOpVCync) | 3:28 |
+| 41 | [\(Dry Cry\) Just One of Those Days](https://open.spotify.com/track/5D0QnhFCV0uiEx3VvRgAkL) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [STRICTLY THE BEST VOL\. 31](https://open.spotify.com/album/26XrLpOvz47iPoQOpVCync) | 3:28 |
+| 42 | [Love Sponge](https://open.spotify.com/track/73QYhs58wfVPnEy2YnpTHR) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 3:38 |
+| 43 | [Love Me Browning](https://open.spotify.com/track/0bhwkOfM7yVI0fZmlS0d2t) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Mr Mention](https://open.spotify.com/album/30OprvPAmiCw2Nlt5FQMT7) | 3:47 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDVkOTk2MjNiZDM5MjllY2Y1N2IwYmE2YjA0YzExMTkw`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGFmN2M5NTgxYzhhMWFiOWZmM2QwZmQ5YTVmM2JmNmI1`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 
 > No te preocupes, feel it all here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,718 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,763 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
-| 2 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 1 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 2 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
 | 3 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 |
 | 4 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 |
 | 5 | [No Dices Mas](https://open.spotify.com/track/2udRqNX3z2OjdqR01ebDwU) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Adicion](https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq) | 4:19 |
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 10 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 |
 | 11 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 |
 | 12 | [Me Encanta Todo Lo Tuyo](https://open.spotify.com/track/6NHjr1XoiD305MLDr06uOm) | [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Me Encanta Todo Lo Tuyo](https://open.spotify.com/album/40HJi0nzOlsSWWKMlkPVyb) | 2:26 |
-| 13 | [A cuestas](https://open.spotify.com/track/0RIGC0Kd7LmmjQMZih4w0V) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [A cuestas](https://open.spotify.com/album/7K25pKqNWYeW1jmuM2lJ0D) | 3:14 |
-| 14 | [Apaga la Luz](https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Naked Geometry](https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl) | [Apaga la Luz](https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s) | 2:49 |
+| 13 | [Apaga la Luz](https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Naked Geometry](https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl) | [Apaga la Luz](https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s) | 2:49 |
+| 14 | [A cuestas](https://open.spotify.com/track/0RIGC0Kd7LmmjQMZih4w0V) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [A cuestas](https://open.spotify.com/album/7K25pKqNWYeW1jmuM2lJ0D) | 3:14 |
 | 15 | [QUÍTAME LAS ALAS](https://open.spotify.com/track/4gdIIRAalPd15Ox3JEq9Kc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:29 |
 | 16 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 |
 | 17 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 20 | [Rosas](https://open.spotify.com/track/0WDv0uvqDtTwBwxbXkeHH7) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Rosas](https://open.spotify.com/album/3NR8YCaIbiboXBFUDepwM9) | 4:05 |
 | 21 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 |
 | 22 | [atrapada en el cielo](https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:14 |
-| 23 | [Corazón](https://open.spotify.com/track/7eQFb9ZZOOSdkewzAbbwuw) | [Jaime Lorente](https://open.spotify.com/artist/7xHM0B5EaZECFfClTngHl4) | [Corazón](https://open.spotify.com/album/5rETENSUwLes5xtEDFhFze) | 2:58 |
-| 24 | [Egoísmo](https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Egoísmo](https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm) | 3:00 |
+| 23 | [Egoísmo](https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Egoísmo](https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm) | 3:00 |
+| 24 | [Corazón](https://open.spotify.com/track/7eQFb9ZZOOSdkewzAbbwuw) | [Jaime Lorente](https://open.spotify.com/artist/7xHM0B5EaZECFfClTngHl4) | [Corazón](https://open.spotify.com/album/5rETENSUwLes5xtEDFhFze) | 2:58 |
 | 25 | [Dalí](https://open.spotify.com/track/20BbptvwAiTLTfYBSafptA) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Dalí](https://open.spotify.com/album/77OueE2Wa2jvuLYgLiR75i) | 2:42 |
 | 26 | [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 |
 | 27 | [Malabares](https://open.spotify.com/track/3TArda30KGDCgfB3U9fmrC) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Malabares](https://open.spotify.com/album/4r7TvqBqEcQZq95ySGFi71) | 3:26 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 33 | [No estás](https://open.spotify.com/track/32grtzU3DA9uwdSN1w7t7S) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [No estás](https://open.spotify.com/album/1DXTBoAItVHckR0DopqR30) | 2:46 |
 | 34 | [Sad Girl](https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Sad Girl](https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW) | 3:28 |
 | 35 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
-| 36 | [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 |
-| 37 | [Ella Tú y Yo](https://open.spotify.com/track/5E91XW9FMz9Bh5UCBBBfyL) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:27 |
+| 36 | [Ella Tú y Yo](https://open.spotify.com/track/5E91XW9FMz9Bh5UCBBBfyL) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:27 |
+| 37 | [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 |
 | 38 | [Dime la verdad](https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0), [Drunk and Drops](https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG) | [Dime la verdad](https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC) | 3:00 |
 | 39 | [he dejado de llamarte](https://open.spotify.com/track/1G9s7sbgxJ7jOR12NdXup2) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [he dejado de llamarte](https://open.spotify.com/album/3TbPRXA5gmGgM5SlsYQTiH) | 2:25 |
 | 40 | [Dejarte Ir](https://open.spotify.com/track/1aaQt9QmSCjaXhiu5Ebl7f) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Dejarte Ir](https://open.spotify.com/album/1ErvPibzFOYYaxCu0PgGVt) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 49 | [El Club de los Ojos Tristes](https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R) | [Estrada](https://open.spotify.com/artist/1E7tZNnbAqVH2FL2B8JDVU), [Luis Díaz](https://open.spotify.com/artist/35PlzNU9nTOWZZzLzGYWsr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [El Club de los Ojos Tristes](https://open.spotify.com/album/05AdODG6bouWeGMGVVoqfp) | 4:22 |
 | 50 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
 
-Snapshot ID: `MTY0NTU2NDc3NSwwMDAwMDAwMDQ0OGQ0YzhlYmY2YzAwMDliYjZkNjZjNTZkMTg0ZjMw`
+Snapshot ID: `MTY0NTU2NDc3NSwwMDAwMDAwMDQyOGZkZmJkNDc4ODkyMjVkZGU3ZjAzYjJkN2U1ODYz`

@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-145 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
+146 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [i think you're the one \(slowed + reverbed\)](https://open.spotify.com/track/3pQF5dp3vQevA6EUbmKMlY) | [whenthecitysleeps](https://open.spotify.com/artist/4BbvGZ4ciPOGOuaDeDB9Lj) | [i think you're the one \(slowed + reverbed\)](https://open.spotify.com/album/3JStm1I21xNeKrKgmFyzZ5) | 4:29 | 2021-12-08 | 2022-07-27 |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2021-10-01 |  |
 | [I'm Trynna Yeah \- slowed](https://open.spotify.com/track/6Dv0oQL2xrE7OjLga1ALFu) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [I'm Trynna Yeah \(slowed\)](https://open.spotify.com/album/3OaH20YU0AgEc8z9W3xkkH) | 2:42 | 2022-01-05 | 2022-06-02 |
-| [idfc \- Slowed](https://open.spotify.com/track/6yy75oUmEwRAZusSsbx3WI) | [zhokiNg](https://open.spotify.com/artist/71lPkEzWQ92JDhezpRx7ru) | [idfc \(Slowed\)](https://open.spotify.com/album/2eZcDE2Jk0CYbV2hq5MJLW) | 2:11 | 2022-07-22 |  |
+| [idfc \- Slowed](https://open.spotify.com/track/6yy75oUmEwRAZusSsbx3WI) | [zhokiNg](https://open.spotify.com/artist/71lPkEzWQ92JDhezpRx7ru) | [idfc \(Slowed\)](https://open.spotify.com/album/2eZcDE2Jk0CYbV2hq5MJLW) | 2:11 | 2022-07-22 | 2022-08-04 |
 | [If By Chance \- slowed + reverb](https://open.spotify.com/track/27fMPdnYNuuFuSQrUNJkqj) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [If By Chance \(slowed + reverb\)](https://open.spotify.com/album/35myBC3ak9OPMye976nuI4) | 6:24 | 2022-01-14 |  |
 | [ivy \- slowed + reverb](https://open.spotify.com/track/5CyCjhpFanDC11Tsc93Yaw) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [ivy \- slowed + reverb](https://open.spotify.com/album/6BF4dBoqfAhrTmGJ8v5pN5) | 1:47 | 2022-03-25 | 2022-04-02 |
 | [Kangna Tera Nee \- Slowed + Reverb](https://open.spotify.com/track/7fz1JVXRXaa5Wfu7DcwhfZ) | [SickDude, YSRBEATS](https://open.spotify.com/artist/1bLz0kMKZ2iTm58sRK5fiO) | [Dil Mila Mera, Inti Si Bhaat Hai](https://open.spotify.com/album/1TbmtHDUtucciYcFp9Hl6O) | 4:05 | 2022-04-08 | 2022-06-01 |
@@ -119,6 +119,7 @@
 | [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/7lCu7IgWLKeHBGcTR4HfgX) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/4hGbyUnXkhjeGdzecA25H0) | 4:39 | 2022-07-22 |  |
 | [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/0lOzjQKnffLWj7i6AqNMJG) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/3WUbnzlQ2VJRicGZVqwIz5) | 4:39 | 2021-10-01 | 2022-07-29 |
 | [Revenge](https://open.spotify.com/track/1fLHQ3KQtCQV5Ig0X3HVv2) | [Coldare](https://open.spotify.com/artist/2FHefNucZqH8nNdKcJX7tM) | [Revenge](https://open.spotify.com/album/0N7iF1ovuuKhVvNLorIt4N) | 2:11 | 2022-02-25 | 2022-07-29 |
+| [Revenge](https://open.spotify.com/track/7BXgUEEfz7SV4IPlozgmVt) | [kidolitx](https://open.spotify.com/artist/1RUHTffvKRhwvO1QtiUnKJ) | [Revenge](https://open.spotify.com/album/64dCGVdtuASuwRToxTPSta) | 2:11 | 2022-07-29 |  |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \- Slowed + Reverb](https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \[Slowed + Reverb\]](https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC) | 2:18 | 2022-01-21 |  |
 | [save me \- slowed + reverbed](https://open.spotify.com/track/2cUXr81eb5qAqEeNv4R7oy) | [Jameel Patrick](https://open.spotify.com/artist/19fm7cZOZEDKP8Tx48HImG), [HeyMrNoOdLeS](https://open.spotify.com/artist/3SdLQFG1x7XTHmuPoYGrCn), [J Ultimate](https://open.spotify.com/artist/7aP0o1GdGDiH6d5JUrczFn) | [save me \(slowed + reverbed\)](https://open.spotify.com/album/4tp7sSgzvKghj6wXwFCGxg) | 3:23 | 2022-01-05 | 2022-04-24 |
 | [SCATY \(slowed\)](https://open.spotify.com/track/0eo4wxiJ4LvAm6DsX5w4kc) | [Baby Cryptic](https://open.spotify.com/artist/3B29YKN06NRnk3Bd163qOr), [3NIGMA](https://open.spotify.com/artist/6tZIB0k2xzSx5o7P1m7tvq) | [SCATY \(slowed\)](https://open.spotify.com/album/3vXrCGISUeHYfK0WHZ7e15) | 2:46 | 2021-11-12 | 2022-04-20 |

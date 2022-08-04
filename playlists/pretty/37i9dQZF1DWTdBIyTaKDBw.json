@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 30318,
+  "num_followers": 30367,
   "original_name": "Dalkom Mukbang (\ub2ec\ucf64\uba39\ubc29)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4Mjg0MywwMDAwMDAwMDhjZmIwZmI1ZTJkMDVmMDRmNTEzOWUyMDBlM2IxZGYw",
+  "snapshot_id": "MTY1ODQ4Mjg0MywwMDAwMDAwMGFhNzI5NmZhMmMwY2ExNGYzOTdmMmUxN2U2NGM0ZTg0",
   "tracks": [
     {
       "added_at": "2022-07-22 09:40:43",
@@ -675,18 +675,22 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "Seoul Check-in OST Part 6",
-        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 191208,
-      "name": "Check-In",
-      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
+      "duration_ms": 210133,
+      "name": "Love Encore (with Lee Sora)",
+      "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -707,22 +711,18 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "with HER",
-        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+        "name": "Seoul Check-in OST Part 6",
+        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Love Encore (with Lee Sora)",
-      "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
+      "duration_ms": 191208,
+      "name": "Check-In",
+      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "Like A Movie",
-        "url": "https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 270240,
-      "name": "\uc548\ub418\ub098\uc694",
-      "url": "https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1"
-    },
-    {
-      "added_at": "2022-07-22 09:40:43",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 205854,
       "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
       "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
+    },
+    {
+      "added_at": "2022-07-22 09:40:43",
+      "album": {
+        "name": "Like A Movie",
+        "url": "https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 270240,
+      "name": "\uc548\ub418\ub098\uc694",
+      "url": "https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
-    },
-    {
-      "added_at": "2022-07-22 09:40:43",
-      "album": {
         "name": "Candy Pianist",
         "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 238093,
       "name": "All That Jazz",
       "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
+    },
+    {
+      "added_at": "2022-07-22 09:40:43",
+      "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
+        "name": "Our Cinema #2 - Dancing",
+        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Narae Lee",
+          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
         }
       ],
-      "duration_ms": 217666,
-      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
-      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
+      "duration_ms": 210079,
+      "name": "Our Cinema #2 - Dancing",
+      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "Our Cinema #2 - Dancing",
-        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
       },
       "artists": [
         {
-          "name": "Narae Lee",
-          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 210079,
-      "name": "Our Cinema #2 - Dancing",
-      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
+      "duration_ms": 217666,
+      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
+      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
-    },
-    {
-      "added_at": "2022-07-22 09:40:43",
-      "album": {
         "name": "Paul Kim The First Album Part. 1 \u2018the Road\u2019",
         "url": "https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 174856,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+    },
+    {
+      "added_at": "2022-07-22 09:40:43",
+      "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2022-07-22 09:40:43",

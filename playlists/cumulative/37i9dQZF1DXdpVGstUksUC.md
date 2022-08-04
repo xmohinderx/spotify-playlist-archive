@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
-251 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
+252 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 | 2021-11-30 |  |
 | [Spacegrass](https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA) | 6:31 | 2021-11-30 |  |
 | [Stigma](https://open.spotify.com/track/1pd9ahIz23fDLzgcAE9Kb8) | [Ufomammut](https://open.spotify.com/artist/105vC0oJ985P5G3g36EosL) | [Idolum \(Standard Edition\)](https://open.spotify.com/album/03nNWMkQjRkPMisaGgGwM4) | 7:12 | 2021-11-30 | 2022-02-01 |
-| [Strange Gods, Strange Altars](https://open.spotify.com/track/3MH8EVD8DLAo93PlNN5TXi) | [Sheavy](https://open.spotify.com/artist/2VFx18gs5RCvXZPHJpYjcR) | [Celestial Hi\-Fi](https://open.spotify.com/album/5bAYdLWZ9P7oHQaPFzAcwp) | 6:38 | 2021-11-30 |  |
+| [Strange Gods, Strange Altars](https://open.spotify.com/track/3MH8EVD8DLAo93PlNN5TXi) | [Sheavy](https://open.spotify.com/artist/2VFx18gs5RCvXZPHJpYjcR) | [Celestial Hi\-Fi](https://open.spotify.com/album/5bAYdLWZ9P7oHQaPFzAcwp) | 6:38 | 2021-11-30 | 2022-08-04 |
 | [Strange Plan](https://open.spotify.com/track/1rbeJWLIn7yfo7bupq36RN) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Fu30, Pt\. 2](https://open.spotify.com/album/6Vnaiw0ZDBo8ZkFLEwV81R) | 3:52 | 2022-07-22 |  |
 | [Stray Bullit Woman](https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z) | 3:05 | 2022-04-28 |  |
 | [Stray Bullit Woman](https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/4pyLlYKdxHtEH4sEJPSbEe) | 3:05 | 2021-11-30 | 2022-07-28 |
@@ -217,6 +217,7 @@
 | [The Bastard Son](https://open.spotify.com/track/3sfnpW1pV3r70L9O9MTZmg) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [The Bastard Son](https://open.spotify.com/album/72wRdljbxcXYnb8XI9nt59) | 9:26 | 2021-11-30 | 2022-02-12 |
 | [The Bottle](https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O) | 4:42 | 2022-04-28 |  |
 | [The Bottle](https://open.spotify.com/track/0amPDBn2wSRl0vRyWSLk5v) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/3AwAKd4dprx8qAeNc70k9K) | 4:42 | 2021-11-30 | 2022-07-29 |
+| [The Dead Won't Sleep](https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3) | 4:42 | 2022-04-28 |  |
 | [The Dead Won't Sleep](https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P) | 4:42 | 2021-11-30 | 2022-07-29 |
 | [The Ghosts of Charlie Barracuda](https://open.spotify.com/track/2CeY0S8kVprPlCO4r5ffzx) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 7:46 | 2021-11-30 | 2022-07-29 |
 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 | 2021-11-30 |  |

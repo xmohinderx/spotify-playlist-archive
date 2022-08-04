@@ -4,7 +4,7 @@
 
 > The Bollywood crooner's best songs.
 
-82 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
+83 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 | 2021-12-08 |  |
 | [Khamoshiyan \(From "Khamoshiyan"\)](https://open.spotify.com/track/5Gy67YHzPZTk9Q0D73LAGH) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Khamoshiyan \(From "Khamoshiyan"\)](https://open.spotify.com/album/7vQKtc0edApiep4Xdt1bHm) | 5:35 | 2021-12-08 |  |
 | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/track/6h6kOAlIeWdsqNopumppU5) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/album/1okf7DbIC5vVPmU0p7dsQb) | 5:30 | 2022-06-29 |  |
+| [La Ilaaj](https://open.spotify.com/track/5uYHDSKVHfHxBLgYf4H6SH) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Darlings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2CC7SjZUz7ua9SwvwBJBmy) | 4:24 | 2022-08-03 |  |
 | [Lehra Do](https://open.spotify.com/track/1E2Hs9fuKr9wSPAvlYX8lR) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [83 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54MWK3HGLOxBWnQRYWEfEA) | 3:37 | 2022-01-05 |  |
 | [Lehra Do \(From "83"\)](https://open.spotify.com/track/6Owi3S26o0nbvDznmjvOT8) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Lehra Do \(From "83"\)](https://open.spotify.com/album/0Ink7DQBLeYRJ7fPX4pqtm) | 3:37 | 2021-12-08 |  |
 | [Main Dhoondne Ko Zamaane Mein](https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heartless](https://open.spotify.com/album/1hPrjTLgnaAlEmDIDtfd5X) | 4:22 | 2021-12-08 |  |

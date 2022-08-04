@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 680937,
+  "num_followers": 681013,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzY3MDI4MCwwMDAwMDAwMDEwYzQxNTE0Njc2ZGNiY2I1NWY2YWQ3YjY3NDFiNTMx",
+  "snapshot_id": "MTYzMzY3MDI4MCwwMDAwMDAwMDY5YjM1ZDFiMTk5NjAwODNjYmNjZmExN2ZhNWViYzdm",
   "tracks": [
     {
       "added_at": "2021-10-08 05:18:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Wait Up For Me",
-      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
         "name": "Living Room Worktapes",
         "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 195200,
       "name": "Autumn Town Leaves",
       "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Wait Up For Me",
+      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA"
     },
     {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "Carry on, San Vicente",
-        "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Nothing Like You",
-      "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Breakups (Acoustic)",
@@ -671,6 +655,22 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Carry on, San Vicente",
+        "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Nothing Like You",
+      "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Sunday Drive",
-        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "Where the Heart Is",
-      "url": "https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
         "name": "Puxico",
         "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 179306,
       "name": "Cairo, IL",
       "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "Where the Heart Is",
+      "url": "https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Johnny Cash: Forever Words Expanded",
-        "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 266186,
-      "name": "Body On Body",
-      "url": "https://open.spotify.com/track/5CWPHctw7j1tLXQivEstv7"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
         "name": "Desert Dove",
         "url": "https://open.spotify.com/album/2u0hv91dEom8vbu6bRdPJc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 192556,
       "name": "By Our Design",
       "url": "https://open.spotify.com/track/218xrI3IoInlZWablELMrG"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Johnny Cash: Forever Words Expanded",
+        "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 266186,
+      "name": "Body On Body",
+      "url": "https://open.spotify.com/track/5CWPHctw7j1tLXQivEstv7"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
     },
     {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "Without A Word",
-        "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Without A Word",
-      "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
-    },
-    {
       "added_at": "2021-08-20 03:27:40",
       "album": {
         "name": "Carolina In My Mind",
@@ -1039,6 +1023,22 @@
       "duration_ms": 233684,
       "name": "Carolina In My Mind",
       "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Without A Word",
+        "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Without A Word",
+      "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686"
     },
     {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "Forces - EP",
-        "url": "https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I"
-      },
-      "artists": [
-        {
-          "name": "Jordan DePaul",
-          "url": "https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h"
-        }
-      ],
-      "duration_ms": 228787,
-      "name": "Brighter Shade of Blue",
-      "url": "https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh"
-    },
-    {
       "added_at": "2021-08-20 03:27:40",
       "album": {
         "name": "Glasshouse Children",
@@ -1295,6 +1279,22 @@
       "duration_ms": 91554,
       "name": "Bulleit Blues",
       "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Forces - EP",
+        "url": "https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I"
+      },
+      "artists": [
+        {
+          "name": "Jordan DePaul",
+          "url": "https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h"
+        }
+      ],
+      "duration_ms": 228787,
+      "name": "Brighter Shade of Blue",
+      "url": "https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -1345,20 +1345,20 @@
       "url": "https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb"
     },
     {
-      "added_at": "2021-10-08 05:18:00",
+      "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Crystal Eyes",
-        "url": "https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y"
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
       },
       "artists": [
         {
-          "name": "Thomas Csorba",
-          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
+          "name": "Jedd Hughes",
+          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
         }
       ],
-      "duration_ms": 222028,
-      "name": "Crystal Eyes",
-      "url": "https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3"
+      "duration_ms": 224626,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
     }
   ],
   "unique_name": "Country Coffeehouse",

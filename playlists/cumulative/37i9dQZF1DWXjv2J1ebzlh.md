@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,572 songs - 4 day 9 hr 41 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,573 songs - 4 day 9 hr 44 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1252,6 +1252,7 @@
 | [Sal y Agua](https://open.spotify.com/track/6v86JB6r1YYRegbvSnLTVZ) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE) | [El Enamorado](https://open.spotify.com/album/2dDSXxPCAssKdaT2aIt9GV) | 3:11 | 2022-06-09 | 2022-07-29 |
 | [Salvación](https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Salvación](https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE) | 2:47 | 2022-06-09 |  |
 | [Samba Maneiro](https://open.spotify.com/track/4oMKnlEt1TyeziKf55adIY) | [Rosa Maria](https://open.spotify.com/artist/2y6NMHOK3fgS7DN9bNpRk6) | [Mr Bongo Record Club Volume 2](https://open.spotify.com/album/0svTEhVMXKLKWc4I9OxPBP) | 2:53 | 2022-06-09 | 2022-08-03 |
+| [Samba Maneiro](https://open.spotify.com/track/6QFy8lfzC8qP0sMG14daTZ) | [Rosa Maria](https://open.spotify.com/artist/2y6NMHOK3fgS7DN9bNpRk6) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 2:53 | 2022-07-27 |  |
 | [Samba Saravah](https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL) | [Pierre Barouh](https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl) | [Un homme et une femme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk) | 4:36 | 2022-06-09 |  |
 | [San Jacinto](https://open.spotify.com/track/0FwCQUsENqxJbmQ6l0DiVE) | [Anibal Velasquez Y Su Conjunto](https://open.spotify.com/artist/5KyE03kjGuutFNGwN2K48c) | [La Cumbia Está Llamando \- Early Cumbia From Colombia](https://open.spotify.com/album/5cnBdljuMe92rjF9cWuyu8) | 2:59 | 2022-07-27 |  |
 | [San Jacinto](https://open.spotify.com/track/5Ue73Wc8gMwS9ziWWmaFto) | [Anibal Velasquez Y Su Conjunto](https://open.spotify.com/artist/5KyE03kjGuutFNGwN2K48c) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:59 | 2022-06-09 | 2022-07-29 |

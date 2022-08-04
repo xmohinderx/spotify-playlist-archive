@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,092 likes - 96 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,156 likes - 96 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 3 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 |
 | 4 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 |
 | 5 | [The buzz of the forest](https://open.spotify.com/track/7INHRFTJ8ZrXjomdjYjadN) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Relieving anxiety and healing a good night's sleep recommended by mental trainers \- Music that connects with nature \-](https://open.spotify.com/album/0UcMdGC8UJwzGcHXfX8PG5) | 5:12 |
-| 6 | [Kokyo](https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1) | [MONO](https://open.spotify.com/artist/70jglQB3DhSl1SLP0RedzJ) | [My Story, The Buraku Story \(An Original Soundtrack\)](https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP) | 2:31 |
+| 6 | [Kokyo](https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [My Story, The Buraku Story \(An Original Soundtrack\)](https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP) | 2:31 |
 | 7 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 |
 | 8 | [193193 Sleep](https://open.spotify.com/track/6XCzzYdNBLpHMHelYHVJoK) | [Chino Yoshio](https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m) | [193193](https://open.spotify.com/album/1fF1ghrobgXFDvlzqyRPRm) | 3:14 |
 | 9 | [Simple](https://open.spotify.com/track/3NycsY2xkMtw46D7rlUs3v) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 3:12 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 46 | [Grass Harp](https://open.spotify.com/track/3IS7K9DaeCMDC087s79GWk) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC) | 5:57 |
 | 47 | [birefringence](https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 4:23 |
 | 48 | [The Spider's Thread](https://open.spotify.com/track/45okZJHya7HLzEi0zvRaDI) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [A Halo of Light One Day](https://open.spotify.com/album/2erifYmBD16kWNRjYipk1x) | 5:29 |
-| 49 | [Meditate Tree](https://open.spotify.com/track/10oCzOihnI3bK0WTUtX6bi) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.7](https://open.spotify.com/album/0ncAz6Q13wOuvBIe5qWgmI) | 2:49 |
+| 49 | [Meditate Tree](https://open.spotify.com/track/3UrXhetqxfROItPT6URWHb) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Meditate Tree](https://open.spotify.com/album/07dwyiZBrQmoaQvOolbHI5) | 2:49 |
 | 50 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 |
 | 51 | [Warm Rain in June I](https://open.spotify.com/track/6Le1Cc6RGvSJjOcqNmrVL0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Black Swallow](https://open.spotify.com/album/5Jjb86zs7y0MmchMBNvpNU) | 3:34 |
 | 52 | [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 57 | [Snow](https://open.spotify.com/track/52pPNQZglknCxoofqnP2te) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Alone](https://open.spotify.com/album/29uYtZzhSRS2aaVVefeStL) | 3:07 |
 | 58 | [ONE](https://open.spotify.com/track/3zOhZDocdY3Rfk9usRPBBt) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 |
 | 59 | [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 |
-| 60 | [Slow Flow](https://open.spotify.com/track/36rMFJK7q1LOwc3JBD6gne) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.1](https://open.spotify.com/album/4cnvrE64yUSs7WlrfIzpAH) | 4:54 |
+| 60 | [Slow Flow](https://open.spotify.com/track/6gOotEcEdpVVxcGCpETBg4) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Slow Flow](https://open.spotify.com/album/28aB0w9WKYvpQeyoOATEfh) | 4:54 |
 | 61 | [Tea House](https://open.spotify.com/track/77HFkDRYAxTTjEQxUSEwFg) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:50 |
 | 62 | [Cherry Blossom](https://open.spotify.com/track/49FgEirdzQYfzmDKwNynOI) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Cherry Blossom](https://open.spotify.com/album/0Ps7E8fAZir8LS7bEosHhL) | 3:16 |
 | 63 | [sensory](https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC) | [gen asai](https://open.spotify.com/artist/4s1ecdG6K20lrCOSkqf7BR) | [saunagood](https://open.spotify.com/album/0iNaYKXcXqLvGuRP5w3BYl) | 4:33 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 95 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
 | 96 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 |
 
-Snapshot ID: `MTY1ODQ5ODcwMywwMDAwMDAwMGM1ZDE0OWY5MmQ0NTgyZjhjNzc1YzRkNGVmNjRlMTE2`
+Snapshot ID: `MTY1ODQ5ODcwMywwMDAwMDAwMGIwYmIzNDkwZWU5ZDE1MTEwZWUxZWU0MDliYjI5MjQ3`

@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Montell Fish ",
-  "num_followers": 303736,
+  "num_followers": 303798,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg2ODMzNiwwMDAwMDAwMDBjZTU2M2Q4NGMwMTQ1OTY3ZmMzNGJkMWYwYjdkODZh",
+  "snapshot_id": "MTY1ODg2ODMzNiwwMDAwMDAwMDhhZDI2OTY4ZDRjOTRlOGQ4M2Q3NTFjMWM0NjA0NmY5",
   "tracks": [
     {
       "added_at": "2021-06-03 16:59:20",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/6kPYPazaW34fsXAgVGQxxZ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 245708,
-      "name": "True Romance",
-      "url": "https://open.spotify.com/track/7G4aD9GSe262y5lisfaIGy"
-    },
-    {
       "added_at": "2021-06-03 16:59:20",
       "album": {
         "name": "Instrumental Relics",
@@ -641,20 +625,20 @@
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
-      "added_at": "2021-06-03 16:59:20",
+      "added_at": "2022-06-24 04:00:00",
       "album": {
-        "name": "Killshot (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/6kPYPazaW34fsXAgVGQxxZ"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 278074,
-      "name": "Killshot - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
+      "duration_ms": 245708,
+      "name": "True Romance",
+      "url": "https://open.spotify.com/track/7G4aD9GSe262y5lisfaIGy"
     },
     {
       "added_at": "2021-06-03 16:59:20",
@@ -671,6 +655,22 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2021-06-03 16:59:20",
+      "album": {
+        "name": "Killshot (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 278074,
+      "name": "Killshot - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
     },
     {
       "added_at": "2022-04-22 18:26:13",
@@ -797,26 +797,6 @@
       "url": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY"
     },
     {
-      "added_at": "2021-06-03 16:59:20",
-      "album": {
-        "name": "Guilty Conscience (Tame Impala Remix)",
-        "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Guilty Conscience - Tame Impala Remix",
-      "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
-    },
-    {
       "added_at": "2022-06-03 04:15:00",
       "album": {
         "name": "HYPNOS",
@@ -835,6 +815,26 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
+    },
+    {
+      "added_at": "2021-06-03 16:59:20",
+      "album": {
+        "name": "Guilty Conscience (Tame Impala Remix)",
+        "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Guilty Conscience - Tame Impala Remix",
+      "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
     },
     {
       "added_at": "2022-06-03 04:15:00",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
     },
     {
-      "added_at": "2021-06-03 16:59:20",
-      "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "i want war (BUT I NEED PEACE)",
-      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
-    },
-    {
       "added_at": "2022-04-22 18:26:13",
       "album": {
         "name": "Skin and Bones",
@@ -979,6 +963,22 @@
       "duration_ms": 214157,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB"
+    },
+    {
+      "added_at": "2021-06-03 16:59:20",
+      "album": {
+        "name": "TO FEEL ALIVE EP",
+        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "i want war (BUT I NEED PEACE)",
+      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
-      "added_at": "2022-07-01 20:53:37",
-      "album": {
-        "name": "Fourth of July",
-        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223201,
-      "name": "Fourth of July - April Base Version",
-      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
-    },
-    {
       "added_at": "2021-06-03 16:59:20",
       "album": {
         "name": "Dreaming of David",
@@ -1077,6 +1061,22 @@
       "url": "https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN"
     },
     {
+      "added_at": "2022-07-01 20:53:37",
+      "album": {
+        "name": "Fourth of July",
+        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223201,
+      "name": "Fourth of July - April Base Version",
+      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
+    },
+    {
       "added_at": "2022-06-03 04:15:00",
       "album": {
         "name": "The One",
@@ -1091,6 +1091,22 @@
       "duration_ms": 145750,
       "name": "The One",
       "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "i'm watching you",
+        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
     },
     {
       "added_at": "2021-06-03 16:59:20",
@@ -1127,22 +1143,6 @@
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "i'm watching you",
-        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
     },
     {
       "added_at": "2021-06-03 16:59:20",

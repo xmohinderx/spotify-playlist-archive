@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-332 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+333 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Aftershock](https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [77](https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v) | 2:20 | 2021-10-15 |  |
 | [American Cars](https://open.spotify.com/track/2ybIQegkNqVdUMhLAtqv4d) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Dark Hearts](https://open.spotify.com/album/79w7ntjrEgNuWW1OziZ0zZ) | 3:46 | 2022-07-22 |  |
 | [American Cars](https://open.spotify.com/track/4J2fJp9BPeXZKjL3iCzVQy) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [American Cars](https://open.spotify.com/album/0T3inf6wyoQqegxC1oojP3) | 3:46 | 2022-04-01 | 2022-04-18 |
-| [Anywhere](https://open.spotify.com/track/7KxyDBiAiTnb1vz62ZlH88) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A), [Zealyn](https://open.spotify.com/artist/0ORcnlg4NMByo3oPEjaPae) | [Anywhere](https://open.spotify.com/album/2dwabGQ19mCQ16GhQL4BzA) | 3:35 | 2022-04-01 |  |
+| [Anywhere](https://open.spotify.com/track/7KxyDBiAiTnb1vz62ZlH88) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A), [Zealyn](https://open.spotify.com/artist/0ORcnlg4NMByo3oPEjaPae) | [Anywhere](https://open.spotify.com/album/2dwabGQ19mCQ16GhQL4BzA) | 3:35 | 2022-04-01 | 2022-08-04 |
 | [Arcades](https://open.spotify.com/track/5DOAJk4OI8pG1qwr4IvoSP) | [Nhyx](https://open.spotify.com/artist/15hYbx7vg01TZFFgipPAHm) | [Arcades](https://open.spotify.com/album/0gD0gX1zzbSBNXyhUPY2Xl) | 4:11 | 2022-04-01 | 2022-07-28 |
 | [Argon Prime \(From “in Search of Tomorrow”\)](https://open.spotify.com/track/0Ze0BHOGmP7dam4zPuTGrU) | [Zombie Hyperdrive](https://open.spotify.com/artist/72naL8vQVNsx85zPLuTSWf) | [Argon Prime \(From “in Search of Tomorrow”\)](https://open.spotify.com/album/31kky74Q1UeLzsREiCVyFp) | 5:05 | 2022-06-17 | 2022-07-29 |
 | [Arpyness](https://open.spotify.com/track/3RBqODwZkvWdLmyd7d9sh1) | [Tainsus](https://open.spotify.com/artist/26xZG1fqaCKjvOIkMS31BT) | [Arpyness](https://open.spotify.com/album/7nnjXgeQJyLc3SvIdiBGy0) | 2:31 | 2021-10-15 | 2022-07-29 |
@@ -242,6 +242,7 @@
 | [Propagation](https://open.spotify.com/track/3DOZrIy0OP3wtyDbJAALcu) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Iteration](https://open.spotify.com/album/4cXAcWU9jjDPTAAM8JyDmK) | 4:10 | 2022-04-01 | 2022-07-27 |
 | [Pulse](https://open.spotify.com/track/2MCHEtkqXvG4uxuC7IOJQ8) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Pulse](https://open.spotify.com/album/3b7zXxAnACY66H0JnV6EBU) | 3:10 | 2022-06-03 |  |
 | [Purple Sun](https://open.spotify.com/track/5GorBkISuzSRgEuiq3dJu6) | [Honom](https://open.spotify.com/artist/13WQt5GKTugUQuHSXpixo8) | [Purple Sun](https://open.spotify.com/album/5gUwXtM9UM3dk0vGnW0rQC) | 6:52 | 2022-04-01 |  |
+| [Real Love](https://open.spotify.com/track/55jTVB6tALwo85MptV69q4) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH), [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Real Love](https://open.spotify.com/album/44P5y0hkgPpmYM8nAMTa56) | 4:31 | 2022-07-29 |  |
 | [Recall](https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Recall](https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd) | 3:25 | 2022-07-22 | 2022-07-27 |
 | [Refusal Of The Return](https://open.spotify.com/track/27nEodVw1shr7qeyXMcsJ6) | [Russian Linesman](https://open.spotify.com/artist/3sIH8lHWLGHJMenpRCSmMv) | [Monomyth V \- The Return](https://open.spotify.com/album/01ZwLUFpfgiP6PuuGb4BGA) | 7:32 | 2021-10-15 |  |
 | [Regatta \- Original Mix](https://open.spotify.com/track/2VS9Np3bgVlXEaTQrSusof) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Anjunadeep 03](https://open.spotify.com/album/4Qi3v9fRbBBAfsaWKXMvrn) | 6:06 | 2022-04-01 | 2022-04-19 |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-460 songs - 1 day 1 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+461 songs - 1 day 1 hr 5 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Takda Rava](https://open.spotify.com/track/07RmHcfHXMoouyEL9cRnN4) | [Da Banotra](https://open.spotify.com/artist/6qA494Mxl9DGij4HZmK9aH) | [Takda Rava](https://open.spotify.com/album/1L0mD1Fyyqu7OZwtIfaeK8) | 4:04 | 2022-04-04 | 2022-05-11 |
 | [Tareef](https://open.spotify.com/track/0S1Qsd33jxP2Q9TTuup4z6) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Tareef](https://open.spotify.com/album/2eje9luFSp6mQgP5oNyYLE) | 2:28 | 2022-06-23 | 2022-07-12 |
 | [Tasali](https://open.spotify.com/track/4DFrhdXZU0zlW2ImuZ970f) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:33 | 2022-02-01 | 2022-02-12 |
+| [Tenu Dil Vich Rakhan](https://open.spotify.com/track/3hEWZfIqeDyUiMnDYJMI3d) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R), [Amjad Nadeem Aamir](https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq) | [Tenu Dil Vich Rakhan](https://open.spotify.com/album/6pbfvzLmWR6GQ0RoUSm7Ae) | 3:37 | 2022-08-03 |  |
 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 | 2022-04-15 | 2022-04-29 |
 | [Tera Pyaar Ve](https://open.spotify.com/track/1E4MAiOaObaDGgpqvRnxva) | [Aman Ghuman](https://open.spotify.com/artist/5F9H8STHJE2bPys4Eh5eLJ) | [Tera Pyaar Ve](https://open.spotify.com/album/35wFZvVX88QtIReBPjZspB) | 3:15 | 2022-07-15 |  |
 | [Tere Bina](https://open.spotify.com/track/47G3rE1gZFI4BjEcvIsrWf) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 4:04 | 2022-05-06 | 2022-05-20 |

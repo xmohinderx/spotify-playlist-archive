@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 69736,
+  "num_followers": 69901,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA1MjM5OSwwMDAwMDAwMGFhZTRlOTM4YTU1Nzg3ZDcwYzZjMTllN2RjY2E2MmEz",
+  "snapshot_id": "MTY1OTA1MjM5OSwwMDAwMDAwMDYyM2Y4M2NjMTAwYTAzMmIwZDc4NGM4ODQxZjgzZjIz",
   "tracks": [
     {
       "added_at": "2022-07-28 23:53:19",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-07-28 23:53:19",
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "added_at": "2022-07-28 23:53:19",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2022-07-28 23:53:19",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2022-07-28 23:53:19",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-07-28 23:53:19",
       "album": {
-        "name": "Only With Time - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
-      },
-      "artists": [
-        {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
-        }
-      ],
-      "duration_ms": 304411,
-      "name": "Only With Time - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU"
-    },
-    {
-      "added_at": "2022-07-28 23:53:19",
-      "album": {
         "name": "How Could I Forget You",
         "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2022-07-28 23:53:19",
       "album": {
-        "name": "SULA (Paperback)",
-        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
+        "name": "Only With Time - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
       },
       "artists": [
         {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
         }
       ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
+      "duration_ms": 304411,
+      "name": "Only With Time - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU"
     },
     {
       "added_at": "2022-07-28 23:53:19",
@@ -859,6 +843,22 @@
       "duration_ms": 212640,
       "name": "Fool of Me",
       "url": "https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3"
+    },
+    {
+      "added_at": "2022-07-28 23:53:19",
+      "album": {
+        "name": "SULA (Paperback)",
+        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
     },
     {
       "added_at": "2022-07-28 23:53:19",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-07-28 23:53:19",
       "album": {
+        "name": "A Real Romantic",
+        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "duration_ms": 269354,
+      "name": "Livid",
+      "url": "https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR"
+    },
+    {
+      "added_at": "2022-07-28 23:53:19",
+      "album": {
         "name": "Milly",
         "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 238153,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
-    },
-    {
-      "added_at": "2022-07-28 23:53:19",
-      "album": {
-        "name": "A Real Romantic",
-        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
-      },
-      "artists": [
-        {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        }
-      ],
-      "duration_ms": 269354,
-      "name": "Livid",
-      "url": "https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR"
     },
     {
       "added_at": "2022-07-28 23:53:19",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-07-28 23:53:19",
       "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6"
-      },
-      "artists": [
-        {
-          "name": "Emily Muli",
-          "url": "https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N"
-    },
-    {
-      "added_at": "2022-07-28 23:53:19",
-      "album": {
         "name": "Communication",
         "url": "https://open.spotify.com/album/6ttLLA2T9nDaqDyTAaxudU"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 216360,
       "name": "Communication",
       "url": "https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG"
+    },
+    {
+      "added_at": "2022-07-28 23:53:19",
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6"
+      },
+      "artists": [
+        {
+          "name": "Emily Muli",
+          "url": "https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N"
     },
     {
       "added_at": "2022-07-28 23:53:19",

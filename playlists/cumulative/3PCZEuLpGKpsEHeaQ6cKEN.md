@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Brando &amp; Ninetails
 
-202 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+203 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Looking For Your Love](https://open.spotify.com/track/0KzjAoqpdCaW2TJTupzJkz) | [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Looking For Your Love](https://open.spotify.com/album/3jIzxpC0nCn0wkGzR3Gno5) | 2:46 | 2022-06-09 |  |
 | [Loop](https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loop](https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW) | 3:10 | 2022-07-28 |  |
 | [Lost You Somewhere \- Evolution Mix](https://open.spotify.com/track/3PxR3XasfbFP0258F6DRvd) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowds \(Evolution Mixes\)](https://open.spotify.com/album/5CR6luLHeshWtx2pgH7tAn) | 3:13 | 2022-06-10 | 2022-06-17 |
+| [Lotus](https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Lotus](https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8) | 4:32 | 2022-08-03 |  |
 | [Love Again](https://open.spotify.com/track/7mQmVvJCFwhHSSXwZwnPRQ) | [New Hype](https://open.spotify.com/artist/394nMXTFPSgEKKDUverHbo) | [Love Again](https://open.spotify.com/album/1nE53MrFK1xt3AYvKdwpQZ) | 2:52 | 2022-06-09 |  |
 | [Love Runs Deep](https://open.spotify.com/track/33oQaDZex8PFThfgpCpOdH) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Tiina](https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8) | [Love Runs Deep](https://open.spotify.com/album/3ZFHeK3HYytlTh7LASxQwU) | 2:46 | 2022-06-09 |  |
 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-06-09 |  |
@@ -150,7 +151,7 @@
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-06-09 |  |
 | [Run](https://open.spotify.com/track/18tBaPJwKQIPjlFv5sb6z8) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Adrian Mønteiro](https://open.spotify.com/artist/6ziI5fDvwg8r0QPT0nAT7r) | [Run](https://open.spotify.com/album/2ZPxfnPG1lRVInwl3TX1Vq) | 2:43 | 2022-06-09 |  |
 | [Running \(feat\. Meg Myers\) \- Edit](https://open.spotify.com/track/0iM0qeZYlvGvVFO5NzoBOB) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/2e9HNBkCn2I9WM3J7JzRsw) | 3:10 | 2022-06-09 | 2022-07-29 |
-| [Running \(feat\. Meg Myers\) \- Original Mix](https://open.spotify.com/track/6fbNKnzlcQzbtryQYSxpMb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/2e9HNBkCn2I9WM3J7JzRsw) | 6:25 | 2022-06-20 |  |
+| [Running \(feat\. Meg Myers\) \- Original Mix](https://open.spotify.com/track/6fbNKnzlcQzbtryQYSxpMb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/2e9HNBkCn2I9WM3J7JzRsw) | 6:25 | 2022-06-20 | 2022-08-04 |
 | [Saturday Night \(Feel The Groove\)](https://open.spotify.com/track/3deRcubbfOBaLsjLqYsmLw) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Ninetails](https://open.spotify.com/artist/6rhYa3MFqd5BLCRqtytA7q) | [Saturday Night \(Feel The Groove\)](https://open.spotify.com/album/1oSDNl2qNV8uy6kP47ohdu) | 2:33 | 2022-07-28 |  |
 | [Save Me](https://open.spotify.com/track/7HwguyXxWy1xYfAxGstDKi) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Save Me](https://open.spotify.com/album/0JpC3lX4iuzhNtaslimmd0) | 2:25 | 2022-06-09 |  |
 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 | 2022-06-09 |  |

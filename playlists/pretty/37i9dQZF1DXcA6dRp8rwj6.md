@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Warren Hue \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,431 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,461 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 6 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
 | 7 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 |
 | 8 | [Anytime, Anywhere](https://open.spotify.com/track/5HsMafas66Rt5mTidyhUtm) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [15th Dream](https://open.spotify.com/album/6GPi7wmWKl6cKpnDhgSSYS) | 2:56 |
-| 9 | [Members Only \(feat\. Bangkokboy\)](https://open.spotify.com/track/0LsyMXszUJSU6dMygF4j8d) | [BRYN](https://open.spotify.com/artist/1zvn2abDKYPJPjhrftlRqr), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Bangkokboy](https://open.spotify.com/artist/2HLElSllbwwiTppPlCwVFL) | [Members Only \(feat\. Bangkokboy\)](https://open.spotify.com/album/309klDouSMmkfM0ZcObrn3) | 2:54 |
+| 9 | [Members Only \(feat\. Bangkokboy\)](https://open.spotify.com/track/0LsyMXszUJSU6dMygF4j8d) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Bangkokboy](https://open.spotify.com/artist/2HLElSllbwwiTppPlCwVFL) | [Members Only \(feat\. Bangkokboy\)](https://open.spotify.com/album/309klDouSMmkfM0ZcObrn3) | 2:54 |
 | 10 | [Big Daddy Wiz \(feat\. Girl Talk\)](https://open.spotify.com/track/327BrH20DE945kxC164frW) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Big Daddy Wiz \(feat\. Girl Talk\)](https://open.spotify.com/album/3uN1rbML3QpLSYVWMcrASW) | 2:11 |
 | 11 | [Ridin' With The Moonlight](https://open.spotify.com/track/2EEj4xqP1kOOxN2xK4cQ4i) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [DU4LI7Y](https://open.spotify.com/album/4kAZzYkAxND103ygB4tZ3a) | 2:45 |
 | 12 | [CURBS](https://open.spotify.com/track/2yWq1VUkJut0ExfZbzy4vF) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:05 |

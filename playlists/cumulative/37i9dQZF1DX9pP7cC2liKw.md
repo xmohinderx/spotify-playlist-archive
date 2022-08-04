@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-184 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+185 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 | 2022-01-04 |  |
 | [Sano](https://open.spotify.com/track/1QK07g4OCnd9NEMq0Np4uS) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [LUVI TORRES](https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ) | [Sano](https://open.spotify.com/album/3l7IqIzmBSUWv3yAmKnB4i) | 3:20 | 2022-02-15 | 2022-07-29 |
 | [Santa Teresa](https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Santa Teresa](https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT) | 4:58 | 2022-04-17 |  |
+| [Savanne](https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Savanne](https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF) | 5:16 | 2022-08-03 |  |
 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 | 2022-04-17 | 2022-07-29 |
 | [Sentir](https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Sentir](https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z) | 3:48 | 2022-01-04 |  |
 | [Señor](https://open.spotify.com/track/7JDJFIsPs8ir43qeH1WsrQ) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Señor](https://open.spotify.com/album/0MNEoUApUNkyOPAsxaCAni) | 2:30 | 2022-01-04 | 2022-07-29 |
@@ -183,7 +184,7 @@
 | [Tune Rider](https://open.spotify.com/track/4HBz7gmSjQ143OiMoFFKJu) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [German I](https://open.spotify.com/artist/0cGJK3i9jWhsjvY7svZas3) | [Tune Rider](https://open.spotify.com/album/1AOe1eOT8UamKJwpkHV110) | 3:50 | 2022-01-04 | 2022-07-26 |
 | [Turn Around](https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Turn Around](https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u) | 7:17 | 2022-06-15 |  |
 | [Tuyo \- Original Mix](https://open.spotify.com/track/3ZcjaZ8kqimC1lgQ3662U0) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Tuyo](https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml) | 6:34 | 2022-06-15 |  |
-| [Tzantza](https://open.spotify.com/track/2xixdZ2dxE00bX6A6jV17m) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:50 | 2022-06-15 |  |
+| [Tzantza](https://open.spotify.com/track/2xixdZ2dxE00bX6A6jV17m) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:50 | 2022-06-15 | 2022-08-04 |
 | [Túnel](https://open.spotify.com/track/4974yRfhueqSPopZgkNnpc) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [De Andén a Andén](https://open.spotify.com/album/5E4yoFUkfybAQnLmiqYOSl) | 5:35 | 2022-01-04 | 2022-05-21 |
 | [Un Canto](https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Un Canto](https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B) | 4:44 | 2022-01-04 | 2022-07-29 |
 | [Urban Birds](https://open.spotify.com/track/1gwZfgadcwtAyeI45vHsyu) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 6:32 | 2022-04-17 |  |

@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Cory Henry
 
-529 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+530 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Letter 2 U](https://open.spotify.com/track/6vztLRlDjURphQVkyxqix9) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:05 | 2021-02-12 | 2021-04-17 |
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2020-08-25 | 2021-07-10 |
 | [Liar](https://open.spotify.com/track/4YpDq6rsh692wdM5OCtAE2) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Liar](https://open.spotify.com/album/2OtCg2Q7vftxfxDLD8anj2) | 2:16 | 2022-01-13 | 2022-07-29 |
+| [Liar](https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [No Tears In My Champagne](https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF) | 2:16 | 2022-07-28 |  |
 | [Lie To Me](https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh) | 4:10 | 2022-04-28 |  |
 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 | 2021-05-07 |  |
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2021-02-28 | 2021-12-14 |
@@ -413,7 +414,7 @@
 | [Some Days](https://open.spotify.com/track/0GMZTe7a0XBj0kAsp8TOxA) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/2BEcS31JAcmiXeMsYAyJtq) | 3:28 | 2020-07-11 | 2020-10-09 |
 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-07-21 |  |
 | [Someday \- Single Edit](https://open.spotify.com/track/1YFlEcAlkv01mD3RWOSeic) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Someday](https://open.spotify.com/album/20ZgiptFHLnPL6GeOJMgbU) | 3:35 | 2021-10-29 | 2022-01-14 |
-| [Someone Like You](https://open.spotify.com/track/0gqi6ZMHHEGUHjtlsR8hrA) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [No Tears In My Champagne](https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF) | 2:34 | 2022-06-16 |  |
+| [Someone Like You](https://open.spotify.com/track/0gqi6ZMHHEGUHjtlsR8hrA) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [No Tears In My Champagne](https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF) | 2:34 | 2022-06-16 | 2022-08-04 |
 | [Someone To Love](https://open.spotify.com/track/4fQ1RRzL8SntodxIHCeDqh) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Someone To Love](https://open.spotify.com/album/53ql8KYecZgqOmKpb9cQWY) | 3:27 | 2020-07-11 | 2021-01-09 |
 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2020-07-03 | 2021-06-11 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-06-03 | 2022-07-27 |

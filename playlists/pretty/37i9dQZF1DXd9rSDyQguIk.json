@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 923456,
+  "num_followers": 924043,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMDk2YzM2YzU2MTY5Mzc3OGM0NjlmMmY1ZDk5NTVmNGZj",
+  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMGJiZDA2OGM5ZmQ4NTExMjFkYWUxNjBjMTBkY2EyOGVh",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Love Me Like a Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Getting Ready... (World)",
@@ -335,6 +319,22 @@
       "duration_ms": 253333,
       "name": "I'm Tore Down",
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "Should I Wait",
-      "url": "https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq"
-    },
-    {
       "added_at": "2021-06-18 04:29:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
@@ -1023,6 +1007,22 @@
       "duration_ms": 334400,
       "name": "Blue Monday Hangover - Remastered",
       "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Alligator Records Years",
+        "url": "https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "Should I Wait",
+      "url": "https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Best Of Slim Harpo",
-        "url": "https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Best Of Duke-Peacock Blues",
@@ -1087,6 +1071,22 @@
       "duration_ms": 163373,
       "name": "Texas Flood",
       "url": "https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Best Of Slim Harpo",
+        "url": "https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
     },
     {
       "added_at": "2020-01-15 21:29:46",

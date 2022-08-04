@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a Kevin Kaarl, nuestro artista Radar!",
-  "num_followers": 58689,
+  "num_followers": 58736,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMzMDAwMCwwMDAwMDAwMGUzMzFjMzUxOGUyM2Y2ZmEzNmZlOTNjZTQ3ODZhYjYy",
+  "snapshot_id": "MTY1OTMzMDAwMCwwMDAwMDAwMGU1MDRkNmJiNjhlZWQ2ZWIzMTM4NGYwMDdiNTRiYzAz",
   "tracks": [
     {
       "added_at": "2022-08-01 05:00:00",
@@ -599,18 +599,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
       },
       "artists": [
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
+      "duration_ms": 157280,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -683,22 +687,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
       },
       "artists": [
         {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 157280,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
+      "duration_ms": 210857,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "SESENTAYNUEVE",
+        "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "SESENTAYNUEVE",
+      "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 150441,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Entes",
-        "url": "https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA"
-      },
-      "artists": [
-        {
-          "name": "Elie Tigre",
-          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Entes",
-      "url": "https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

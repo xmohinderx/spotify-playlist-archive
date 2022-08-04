@@ -4,7 +4,7 @@
 
 > Sweet songs for sunny days.
 
-285 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+286 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [I'm Here \- Spring Version](https://open.spotify.com/track/088IcdXpQmgBIjXmftych4) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [I'm Here \(Spring Version\)](https://open.spotify.com/album/5lWhVcc2WfVCpmIEjxydcD) | 2:33 | 2022-03-21 | 2022-06-08 |
 | [If I Don't Go](https://open.spotify.com/track/25VI5vSKDc2SA3Nubt97jz) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [What Will We Do](https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X) | 4:12 | 2022-06-07 |  |
 | [If We Were Vampires](https://open.spotify.com/track/7o8Fe4IHujZWCSV6c84kln) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [If We Were Vampires](https://open.spotify.com/album/4mwBBYV7dU6LbnOWKdIk1k) | 3:35 | 2021-12-20 | 2022-03-22 |
+| [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-08-03 |  |
 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2022-03-21 | 2022-06-08 |
 | [Into the Sun](https://open.spotify.com/track/28VaajbqYCw2D5B0kECiSP) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 3:52 | 2022-06-07 |  |
 | [Into the Sun](https://open.spotify.com/track/4LuVCdZLCLcaOCzomwp4es) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/3Z2WGCFNGlAJgiyG2tOkjs) | 3:52 | 2022-06-07 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > A salute to all of the women that like it loud & heavy\. Cover: Scene Queen
 
-222 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
+223 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 | 2022-03-11 |  |
 | [Fantasy's Wings](https://open.spotify.com/track/5n4Ale9oujD3ZsfAM2NFG0) | [Ancient Bards](https://open.spotify.com/artist/3ZlSRBv3StWrGuGTAwKskP) | [Fantasy's Wings](https://open.spotify.com/album/5kKPRzB4yBekhxRbWaROKp) | 4:51 | 2020-12-07\* | 2020-12-11 |
 | [Father Of Lies](https://open.spotify.com/track/2Di9hrXOq4ov2MGfSNMZiA) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Father Of Lies](https://open.spotify.com/album/4oILK4Qdj0Ba9tdEXSkhZR) | 4:17 | 2021-10-12 | 2021-10-14 |
+| [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 | 2022-03-11 |  |
 | [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 | 2021-05-29 |  |
 | [Fear The Anchor \(feat\. Ecca Vandal\)](https://open.spotify.com/track/0hxJjLqtlZZ7jIRheunNCE) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Golden Retriever](https://open.spotify.com/album/23iRSv5jms1gbtCgj1dDnW) | 1:54 | 2021-10-10 | 2021-12-12 |
 | [Fire](https://open.spotify.com/track/0cFVXBxX1BQoelZKqdmobz) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Fire](https://open.spotify.com/album/0JzqeIliDEQQG2iC5qI167) | 4:05 | 2020-12-07\* | 2020-12-11 |
@@ -144,7 +145,7 @@
 | [Noise](https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:40 | 2022-03-11 |  |
 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 | 2020-12-07\* | 2022-07-29 |
 | [One Second](https://open.spotify.com/track/6frLIzuYmfTQcfX4khfRZP) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [One Second](https://open.spotify.com/album/6cyzwj2z7TDNU9Vhk85w1s) | 3:36 | 2020-12-07\* | 2022-07-29 |
-| [One Second](https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 3:36 | 2022-03-11 |  |
+| [One Second](https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 3:36 | 2022-03-11 | 2022-08-04 |
 | [Peacekeepers](https://open.spotify.com/track/7pXR2dMRaCpxz5zOrE0lP9) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Peacekeepers](https://open.spotify.com/album/6n6NSUl6ACzrurerNthgHh) | 4:13 | 2020-12-07\* | 2022-07-29 |
 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 | 2021-10-02 |  |
 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 | 2022-03-11 | 2022-07-29 |

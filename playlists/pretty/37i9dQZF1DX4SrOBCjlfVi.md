@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo & Takeoff, Rod Wave, and Gucci Mane\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,245 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,345 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 |
 | 12 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 13 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 |
-| 14 | [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 3:28 |
+| 14 | [Throw In The Towel \(with Lil Uzi Vert\)](https://open.spotify.com/track/2l94QRczQbAB2EIugAS0sA) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 3:28 |
 | 15 | [MIXIN JUICES \(feat\. BabyFace Ray\)](https://open.spotify.com/track/468NRmZeJqCleHKt23TP1k) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [WEIGHT OF THE WORLD \(Deluxe\)](https://open.spotify.com/album/5UH8fwsDbf7Rcc0BlhFobs) | 3:03 |
 | 16 | [In My Pockets](https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [In My Pockets](https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO) | 2:39 |
 | 17 | [Long Day \(Pussy Crazy\) \(feat\. Gwen Bunn\)](https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Superghetto \(Deluxe\)](https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP) | 2:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [John Madden](https://open.spotify.com/track/11KwAIwVAJBBu11EZSs4bx) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Rage](https://open.spotify.com/album/6GSQB5UGNrBtsbebop239n) | 2:27 |
 | 49 | [Lost Me](https://open.spotify.com/track/1gKDstFnwZNgvrE01YG7AA) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy) | [Lost Me](https://open.spotify.com/album/0jXMtfh2sdBtRZ1Fu3UJwY) | 2:35 |
 
-Snapshot ID: `MTY1OTMyMDczOCwwMDAwMDAwMDQzY2ZkNjc0YjE3NGYzZTVhYTY4MzU3NDgxYzc0MDBi`
+Snapshot ID: `MTY1OTMyMDczOCwwMDAwMDAwMGFmODhiMDQxYzQzNjVkN2IyNTQ1OGMzY2U5ODY2NWNh`

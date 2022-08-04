@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 25898,
+  "num_followers": 25967,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDg2Y2U0YzZjNGVkNGMwZmUzMDg5OWU2MjE4MDYyOTIz",
+  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDRlMDY4MmFkYTQ1MGI3YjgyOTdmZWU3ZjNjMGIxYzg1",
   "tracks": [
     {
       "added_at": "2022-07-15 04:40:14",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Back To Back",
         "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 229626,
       "name": "I Want To Thank You",
       "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
-        "name": "Classic Soul",
-        "url": "https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -391,6 +375,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
         "name": "Love is Back",
         "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -543,22 +527,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Karen Carpenter",
         "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 225160,
       "name": "My Body Keeps Changing My Mind",
       "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -707,22 +691,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Norma Jean",
-        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean Wright",
-          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Instant Replay (Expanded Edition)",
         "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
       },
@@ -735,6 +703,22 @@
       "duration_ms": 320480,
       "name": "Instant Replay",
       "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Norma Jean",
+        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean Wright",
+          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
+        }
+      ],
+      "duration_ms": 366160,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -775,22 +759,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
-      },
-      "artists": [
-        {
-          "name": "Viola Wills",
-          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
@@ -811,6 +779,22 @@
       "duration_ms": 490826,
       "name": "Last Dance - 12\" Version",
       "url": "https://open.spotify.com/track/4nWrCsWZzxiXX8FYHbydzl"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
+      },
+      "artists": [
+        {
+          "name": "Viola Wills",
+          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -863,22 +847,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 360506,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
       },
@@ -891,6 +859,22 @@
       "duration_ms": 468831,
       "name": "Don't You Want My Love - Remastered",
       "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 360506,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -979,6 +963,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295125,
+      "name": "Bad Girls - 12\" Version",
+      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
         "name": "The Essential Jean Carn - The PIR Years",
         "url": "https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295125,
-      "name": "Bad Girls - 12\" Version",
-      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
         "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 280733,
       "name": "No One Gets The Prize",
       "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Groove On, Vol. 1",
+        "url": "https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 328266,
+      "name": "Never Knew Love Like This Before (Extended Mix)",
+      "url": "https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Miss Gladys Knight",
         "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
-      },
-      "artists": [
-        {
-          "name": "Ms. (Sharon) Ridley",
-          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
-        }
-      ],
-      "duration_ms": 388920,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Jean Carn",
         "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 255400,
       "name": "Time Waits for No One",
       "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
+      },
+      "artists": [
+        {
+          "name": "Ms. (Sharon) Ridley",
+          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
+        }
+      ],
+      "duration_ms": 388920,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
     },
     {
       "added_at": "2022-07-15 04:40:14",

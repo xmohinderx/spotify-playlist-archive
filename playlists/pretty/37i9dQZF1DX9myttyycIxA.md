@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: girlpuppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,251 likes - 113 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,399 likes - 113 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 112 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
 | 113 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 |
 
-Snapshot ID: `MTY1OTMwODgwNSwwMDAwMDAwMDg5NjkzYTBiZGE1MWRiNmM5MzU0YWVhOWM3NzcxNDYx`
+Snapshot ID: `MTY1OTU1NjU2MCwwMDAwMDAwMGVkZWNhOTlhY2EyZWI3YjJhYTUzOTc5NmY2NjgzNjcw`

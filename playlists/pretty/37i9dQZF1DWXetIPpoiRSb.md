@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,525 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,567 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 53 | [Pressure Makes Diamonds](https://open.spotify.com/track/7uvbgJNZV2lDa7p9AWmJv1) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pressure Makes Diamonds](https://open.spotify.com/album/2Er4Xcq9U8ts068V6w1EM6) | 2:41 |
 | 54 | [If We Were A Party](https://open.spotify.com/track/10jL8CyereIW7EhM0pzsSD) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:35 |
 | 55 | [Ruin](https://open.spotify.com/track/01S9Y2qZZkQs23TJmTmmUb) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Ruin](https://open.spotify.com/album/0ZGErbeMpGiuczw2AZjUb5) | 3:30 |
-| 56 | [The Fall](https://open.spotify.com/track/0yoPok7tf8oOoyWkFanvXd) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ Why Can't You Wait\)](https://open.spotify.com/album/6lZXf2zysA8254dmpzvrhw) | 3:16 |
+| 56 | [The Fall](https://open.spotify.com/track/5T5q3aHSVzT1UUc5cRCQni) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ Time Bomb\)](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:16 |
 | 57 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
 | 58 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 |
 | 59 | [Everything Beautiful](https://open.spotify.com/track/3JnIF3q9h27Ig30GGJwnXB) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Everything Beautiful](https://open.spotify.com/album/251rTSmbyNQ4lfsHsghWzR) | 2:19 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 84 | [Adult](https://open.spotify.com/track/4g6gocnIEurcIFvjkDctUy) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Adult](https://open.spotify.com/album/3yE61uruSJMiR3z09HCndH) | 3:04 |
 | 85 | [Elephant](https://open.spotify.com/track/4xehJPtCQ3EgOOk9nvZRuv) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Elephant](https://open.spotify.com/album/6KOwnHARboTpECb96e8ERU) | 2:30 |
 
-Snapshot ID: `MTY1OTEwMDg0MCwwMDAwMDAwMDAwYTI3MjdjNzZiZmVjNDFiOWQ0MDI3ZjJmYjk1M2U3`
+Snapshot ID: `MTY1OTEwMDg0MCwwMDAwMDAwMDZjMmFjY2M2ZWRiYTcxZWQ4NWM4MDVjMjlhOWEyNGVl`

@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 281643,
+  "num_followers": 281829,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5MTYwMCwwMDAwMDAwMGZiOTIzODgxNGY4MGUwOWE0MjA0ZTc2ZDBkMjg5OTI1",
+  "snapshot_id": "MTY0OTk5MTYwMCwwMDAwMDAwMDY5NGU0ZDhlOGM0M2FmOWQ0MTc5NWVjODMwMmEyZTg0",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "De Dentro Pra Fora",
+        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "De Dentro Pra Fora",
+      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
       },
@@ -195,18 +211,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "De Dentro Pra Fora",
-        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
+        "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
+        "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 307213,
-      "name": "De Dentro Pra Fora",
-      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+      "duration_ms": 297680,
+      "name": "Grandes Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -223,22 +239,6 @@
       "duration_ms": 290763,
       "name": "Ele N\u00e3o Desiste de Voc\u00ea",
       "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
-        "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 297680,
-      "name": "Grandes Coisas - Ao Vivo",
-      "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Vitorioso \u00c9s (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0PdIF199ZNM4lCTCtcNNv3"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 354150,
-      "name": "Vitorioso \u00c9s - Ao Vivo",
-      "url": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 287826,
       "name": "Meu Barquinho",
       "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Vitorioso \u00c9s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PdIF199ZNM4lCTCtcNNv3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 354150,
+      "name": "Vitorioso \u00c9s - Ao Vivo",
+      "url": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -359,26 +359,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+        "name": "Casa De Deus",
+        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
       },
       "artists": [
         {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        },
-        {
-          "name": "For\u00e7a Jovem RJ",
-          "url": "https://open.spotify.com/artist/6MyKEycdZOKcCXq0pQ4feI"
-        },
-        {
-          "name": "Angelo Torres",
-          "url": "https://open.spotify.com/artist/5hvG3vCln060TdigBSXnOV"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 231608,
-      "name": "N\u00e3o Morrerei",
-      "url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz"
+      "duration_ms": 216320,
+      "name": "Me Ajude A Melhorar",
+      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -399,18 +391,26 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Casa De Deus",
-        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
+        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        },
+        {
+          "name": "For\u00e7a Jovem RJ",
+          "url": "https://open.spotify.com/artist/6MyKEycdZOKcCXq0pQ4feI"
+        },
+        {
+          "name": "Angelo Torres",
+          "url": "https://open.spotify.com/artist/5hvG3vCln060TdigBSXnOV"
         }
       ],
-      "duration_ms": 216320,
-      "name": "Me Ajude A Melhorar",
-      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
+      "duration_ms": 231608,
+      "name": "N\u00e3o Morrerei",
+      "url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Eu Escolho Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 336716,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Eu Escolho Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Minha Vez",
-        "url": "https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 231637,
-      "name": "Minha Vez",
-      "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Esconderijo",
         "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 271209,
       "name": "Deus \u00e9 Deus",
       "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Minha Vez",
+        "url": "https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 231637,
+      "name": "Minha Vez",
+      "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "Hino da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 224920,
       "name": "Hey, Pai - Ao Vivo",
       "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "Hino da Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Liberta-Me de Mim",
-        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 429332,
-      "name": "Liberta-Me de Mim",
-      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 277680,
       "name": "Mesmo Sem Entender - Ao Vivo",
       "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Liberta-Me de Mim",
+        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 429332,
+      "name": "Liberta-Me de Mim",
+      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
+        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
         }
       ],
-      "duration_ms": 306560,
-      "name": "Al\u00e9m do Rio Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
+      "duration_ms": 495026,
+      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1111,22 +1107,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Pra Todo Mundo Ouvir",
-        "url": "https://open.spotify.com/album/5zrda93TUp1ocxGB68NKaP"
+        "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
       },
       "artists": [
         {
-          "name": "Aurelina Dourado",
-          "url": "https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         },
         {
-          "name": "Luanna Dourado",
-          "url": "https://open.spotify.com/artist/5TZcTF1bRTO4saqs5a84uz"
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 228855,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/0McSPomzSJmikLJaN7vmPb"
+      "duration_ms": 306560,
+      "name": "Al\u00e9m do Rio Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1147,18 +1143,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
+        "name": "Pra Todo Mundo Ouvir",
+        "url": "https://open.spotify.com/album/5zrda93TUp1ocxGB68NKaP"
       },
       "artists": [
         {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+          "name": "Aurelina Dourado",
+          "url": "https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz"
+        },
+        {
+          "name": "Luanna Dourado",
+          "url": "https://open.spotify.com/artist/5TZcTF1bRTO4saqs5a84uz"
         }
       ],
-      "duration_ms": 495026,
-      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
-      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
+      "duration_ms": 228855,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/0McSPomzSJmikLJaN7vmPb"
     },
     {
       "added_at": "2022-04-15 03:00:00",

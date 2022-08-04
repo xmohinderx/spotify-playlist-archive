@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Tom The Mail Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,289 likes - 126 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,365 likes - 126 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 25 | [Passenger](https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Passenger](https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4) | 3:26 |
 | 26 | [A Disappearing Act](https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:29 |
 | 27 | [Trash](https://open.spotify.com/track/26TWZ1x4NDSEpzDtHxiZAM) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Trash](https://open.spotify.com/album/3mCgA0NaZukB0CROXayoHp) | 2:10 |
-| 28 | [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 |
+| 28 | [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 |
 | 29 | [Human Condition](https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Human Condition](https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85) | 3:50 |
 | 30 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 |
 | 31 | [SOS \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/2F2GeLnaoaCed5E2qP4UJO) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [SOS \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0tZ4mjASeCuSeTHueHQqoQ) | 2:39 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [Omens \(feat\. Spencer Chamberlain\)](https://open.spotify.com/track/3fztnHcEJ8xjtCONtN2qMg) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Out of Light](https://open.spotify.com/album/5ltB1kwrCDqYclK0hcoIge) | 3:45 |
 | 126 | [Wake Up](https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Wake Up](https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv) | 2:54 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDk3NjU3ZmY0OTMwODk1MDhiMmM1MzVjNjRlZDFkMGM1`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDM4YTc5YWUyNTdjZWJkMTZkNjc5YjAxMWRiMzI3YTdl`

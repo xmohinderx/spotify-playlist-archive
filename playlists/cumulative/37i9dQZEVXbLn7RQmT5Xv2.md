@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-467 songs - 1 day 2 hr 31 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+468 songs - 1 day 2 hr 35 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-07 | 2022-02-03 |
 | [Abl Mawsalek](https://open.spotify.com/track/6382iMgZk6yyPg3htCkpB5) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Abl Mawsalek](https://open.spotify.com/album/5zJx8EKJIpZSjM1BH3FzYz) | 4:38 | 2021-11-23 | 2022-04-02 |
 | [Abu Mecca](https://open.spotify.com/track/0kRVLXoBrU3IaKGUknzzJs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Abu Mecca](https://open.spotify.com/album/05YBYtyENG04UjhacVIy0Z) | 3:24 | 2021-03-27\* | 2021-06-23 |
+| [Adrenaline](https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Adrenaline](https://open.spotify.com/album/7BbMlrhOzLqWAbf9o1yBw6) | 3:14 | 2022-08-03 |  |
 | [Adriana Lima](https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Adriana Lima](https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS) | 3:01 | 2022-03-25 | 2022-06-30 |
 | [Agans](https://open.spotify.com/track/5biDlrBER5BUecUfzsCf1E) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [اجانص مع كسار](https://open.spotify.com/album/3jVvYkqbknlDjduLr6cBxS) | 3:25 | 2021-03-27\* | 2021-05-14 |
 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 | 2022-03-23 | 2022-05-21 |
@@ -99,7 +100,7 @@
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-17 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-21 | 2021-07-23 |
 | [Dis\-ease](https://open.spotify.com/track/54DmTIv86D3sYdiawjULQ0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:59 | 2021-05-30 | 2021-05-31 |
-| [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-29 |  |
+| [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-29 | 2022-08-04 |
 | [Don](https://open.spotify.com/track/4bjdKuJEtkr8IEwBiqyxAq) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:08 | 2021-03-31 | 2021-06-26 |
 | [Don’t Break My Heart](https://open.spotify.com/track/0iZ7MgaUedNHqlqg9PMqsY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 3:25 | 2022-01-08 | 2022-01-10 |
 | [Don’t Break My Heart](https://open.spotify.com/track/6a4GH1gljLL7VvmO9u5O92) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:25 | 2022-01-09 | 2022-01-13 |
@@ -415,7 +416,7 @@
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-03-24 | 2022-04-17 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2021-08-07 | 2022-02-23 |
 | [تراك الموسم](https://open.spotify.com/track/6ACKR9iNKxeBAc7fs52pHa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [تراك الموسم](https://open.spotify.com/album/6VHyM1P7H6Q7qzl50DZWHx) | 3:07 | 2022-02-01 | 2022-02-07 |
-| [تليفونى للسؤال](https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [تليفونى للسؤال](https://open.spotify.com/album/3hzCVYGtdd3YzDcmFw53ll) | 3:38 | 2022-08-02 |  |
+| [تليفونى للسؤال](https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [تليفونى للسؤال](https://open.spotify.com/album/3hzCVYGtdd3YzDcmFw53ll) | 3:38 | 2022-08-02 | 2022-08-04 |
 | [ثرثرة](https://open.spotify.com/track/1PN1vuSWAW9mlIZSgFrQ7y) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 2:58 | 2021-03-27\* | 2022-01-27 |
 | [حدوته ألماني](https://open.spotify.com/track/2bXrayhgyX8nvNNxMjFT0b) | [Hussein Black](https://open.spotify.com/artist/2iPEr3Uk3Nvikdnx4e3ELe) | [حدوته ألماني](https://open.spotify.com/album/2TeKtE9myzBTuM0MmrlGkl) | 2:35 | 2022-07-16 | 2022-07-28 |
 | [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-07-13 |  |
@@ -443,7 +444,7 @@
 | [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 |  |
 | [عصفورة \- بتنقل الكلام دى مش رجوله](https://open.spotify.com/track/4Y0HYqCtlXqSCZp3C2UoaY) | [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG), [Za3blawy](https://open.spotify.com/artist/7BkpFKhw7N5aeZ3doZ2k8V) | [عصفورة \(بتنقل الكلام دى مش رجوله\)](https://open.spotify.com/album/61ErcbWUlflfi766DtCkG2) | 3:33 | 2021-05-03 | 2021-05-22 |
 | [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 | 2022-06-29 | 2022-07-07 |
-| [عطشان وبستنى تغيير \| بيبسى](https://open.spotify.com/track/0KnywDnEmEjN6Ul2bOng5v) | [Dar El\-Salam](https://open.spotify.com/artist/3if09cF9yYwphLILD8bnh8), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير \| بيبسى](https://open.spotify.com/album/1A8W5ePeAAyhp5AyugIyVz) | 1:28 | 2022-07-06 | 2022-08-03 |
+| [عطشان وبستنى تغيير \| بيبسى](https://open.spotify.com/track/0KnywDnEmEjN6Ul2bOng5v) | [Dar El\-Salam](https://open.spotify.com/artist/3if09cF9yYwphLILD8bnh8), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير \| بيبسى](https://open.spotify.com/album/1A8W5ePeAAyhp5AyugIyVz) | 1:28 | 2022-07-06 |  |
 | [عفاريت الأسفلت](https://open.spotify.com/track/02G9n2WgsNd2j7CqTmcDR2) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/3gWQJL3JHzaNzWuFqG7osw) | 3:24 | 2022-04-05 |  |
 | [عفاريت الأسفلت](https://open.spotify.com/track/4uNc5GMR6a5az5U3Ghdyf8) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/1fwFqGqTUEwm4n1m8vX9J1) | 3:24 | 2021-07-20 | 2022-04-06 |
 | [علي راحتي](https://open.spotify.com/track/7ovuIttxBRyuJepLizxnbJ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جزيرة البطل](https://open.spotify.com/album/4YDXa3PlsqjaUdT9rClcY7) | 3:42 | 2021-03-27\* | 2021-04-14 |

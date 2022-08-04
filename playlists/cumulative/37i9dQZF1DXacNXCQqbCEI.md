@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-214 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+215 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 | 2021-11-26 |  |
 | [A Lo Bien \- CERO39 rmx](https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Remixeado a Lo Bien](https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c) | 5:34 | 2022-04-15 | 2022-07-24 |
 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/1yON8AeGECjNVsxBH7QEzs) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/18PagmMWN9250w8cED8U8f) | 2:42 | 2022-04-15 | 2022-04-20 |
+| [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 | 2022-04-15 |  |
 | [Abuela Teresa](https://open.spotify.com/track/7GBsAHlkm0AApjZbvd14S6) | [Renzo Zong](https://open.spotify.com/artist/6wdEQYkry4yDmHKsU6ZcNn), [Dimitri Manga](https://open.spotify.com/artist/00yQmnDRAMXZcaZPYOGF6c) | [Abuela Teresa](https://open.spotify.com/album/0gFYzlvQ4FBAQgzcdXf87p) | 5:48 | 2022-04-15 | 2022-04-20 |
 | [Adiós Batata \- Cerrero Dub Mix](https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Adiós Batata \(Cerrero Dub Mix\)](https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo) | 6:47 | 2021-11-26 | 2022-06-17 |
 | [Agujeros Blancos](https://open.spotify.com/track/74spSIGR2o7FrjHSG4AVM3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2kle3HDOBmnyx5BrR9B8EW) | 2:24 | 2021-11-26 | 2022-06-04 |
@@ -166,7 +167,7 @@
 | [Rosa](https://open.spotify.com/track/1sSUq2MY9J8SI5VJvDqCip) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Casablanca](https://open.spotify.com/artist/7fjEmxeL2TjPLZ5sUGN1wl) | [Rosa](https://open.spotify.com/album/4fFsdDkjzE5YCHAywV12ms) | 4:04 | 2021-11-26 | 2022-01-22 |
 | [Sakoneta](https://open.spotify.com/track/49Dq0m0JDGJJfz8VqxIt81) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Sakoneta](https://open.spotify.com/album/0KKaGCuDZAyrrkH40KBnEI) | 4:45 | 2021-11-26 | 2022-07-28 |
 | [Sala Nabina \- Karmaâ Remix](https://open.spotify.com/track/19NaGWC4RQwfNJmgclF3XX) | [IZADORÄ](https://open.spotify.com/artist/1rPvh2OggGcSpB8iBaTksJ), [Ayoub Rahhal](https://open.spotify.com/artist/6IVY9D4To5r6rpCHwoFkqZ), [Karmaâ](https://open.spotify.com/artist/3yx74xmlyOAsmyqn0r4iOV) | [Sala Nabina \(Karmaâ Remix\)](https://open.spotify.com/album/2HT5Fus8tASVOThQIGznZA) | 7:14 | 2022-04-15 | 2022-07-03 |
-| [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 | 2021-11-26 |  |
+| [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 | 2021-11-26 | 2022-08-04 |
 | [Salsa Caliente \- Versión Aumentada](https://open.spotify.com/track/5pUOPXkEVcdrnd61jfLwMf) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/41X2H1RsNkjrELghdVKNEV) | 4:43 | 2021-11-26 | 2022-07-25 |
 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 | 2021-11-26 |  |
 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 | 2022-04-15 |  |

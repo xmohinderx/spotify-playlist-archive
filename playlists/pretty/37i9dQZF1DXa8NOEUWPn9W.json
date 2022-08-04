@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:house\">House</a> music lives here. United in one house. Cover: AM\u00c9M\u00c9",
-  "num_followers": 1655123,
+  "num_followers": 1655475,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMGNmZmJhZDA0OGM1Yjg2ZDQ3NTFkOGMxMDc2YzljMGE5",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDA5OTVlYjk0M2MxYjA2OTc5NDVmMTAwNmE2NDUxZTQw",
   "tracks": [
     {
       "added_at": "2022-07-08 17:09:17",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
-      },
-      "artists": [
-        {
-          "name": "Seamus D",
-          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
-        }
-      ],
-      "duration_ms": 180719,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "My Feelings For You (Mark Knight Remix)",
@@ -707,6 +691,22 @@
       "duration_ms": 224515,
       "name": "My Feelings For You - Mark Knight Remix",
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
+      },
+      "artists": [
+        {
+          "name": "Seamus D",
+          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
+        }
+      ],
+      "duration_ms": 180719,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -837,6 +837,26 @@
       "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All) / Move To The",
+        "url": "https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/7M1125M74qeHedad25bx4U"
+    },
+    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "Liquor Store",
@@ -867,26 +887,6 @@
       "duration_ms": 160669,
       "name": "Welcome To The People",
       "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "B.O.T.A. (Baddest Of Them All) / Move To The",
-        "url": "https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/7M1125M74qeHedad25bx4U"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -941,30 +941,6 @@
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Adidas & Pearls",
-        "url": "https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "LOWES",
-          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Adidas & Pearls",
-      "url": "https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM"
-    },
-    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "Nightjar (feat. SHELLS)",
@@ -987,6 +963,30 @@
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Adidas & Pearls",
+        "url": "https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Adidas & Pearls",
+      "url": "https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Back Tomorrow",
         "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 118871,
       "name": "Back Tomorrow",
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Dancing",
-        "url": "https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 240480,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Just Feels Tight",
-        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Just Feels Tight",
-      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "I Confess (feat. ROM\u00c9O)",
@@ -1207,6 +1191,22 @@
       "duration_ms": 157875,
       "name": "I Confess (feat. ROM\u00c9O)",
       "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Just Feels Tight",
+        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Just Feels Tight",
+      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Dancing Clich\u00e9",
-        "url": "https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 152669,
-      "name": "Dancing Clich\u00e9",
-      "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Dancing Clich\u00e9",
+        "url": "https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 152669,
+      "name": "Dancing Clich\u00e9",
+      "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "Billie (loving arms)",
+        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 217265,
+      "name": "Billie (loving arms)",
+      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Tripasia",
         "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 176791,
       "name": "Tripasia",
       "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Billie (loving arms)",
-        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 217265,
-      "name": "Billie (loving arms)",
-      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/1wZ8FVTvRXubQlYnrRNF5B"
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 162318,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ"
+      "duration_ms": 192960,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli"
     },
     {
       "added_at": "2022-06-03 19:49:43",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi"
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/1wZ8FVTvRXubQlYnrRNF5B"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli"
+      "duration_ms": 162318,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Out Of Reach",
         "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 255991,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2022-05-27 11:57:28",

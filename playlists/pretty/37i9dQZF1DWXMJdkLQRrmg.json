@@ -1,12 +1,12 @@
 {
   "description": "Unplugged versions of your favorite rock & alt songs. Cover: Wolf Alice",
-  "num_followers": 282663,
+  "num_followers": 282726,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDAwMGRlYWEzMDZkZDg5NzA4NDM5ZDQ0ZGJlMjM4OTBlN2U5",
+  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDAwMDFiMTVlYTM0YjMyMGM5MjU0YzNlMzdiMDY4YWU4ZGYy",
   "tracks": [
     {
       "added_at": "2022-06-10 04:02:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Bite Me (Acoustic)",
-        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Bite Me - Acoustic",
-      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 214413,
       "name": "Sorry - Acoustic",
       "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Bite Me (Acoustic)",
+        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Bite Me - Acoustic",
+      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Zen X Four",
-        "url": "https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Glycerine - Acoustic",
-      "url": "https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
         "name": "Scumbag (Acoustic)",
         "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Zen X Four",
+        "url": "https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Glycerine - Acoustic",
+      "url": "https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75"
     },
     {
       "added_at": "2022-06-10 04:02:00",

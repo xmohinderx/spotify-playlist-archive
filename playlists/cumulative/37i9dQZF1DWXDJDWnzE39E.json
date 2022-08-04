@@ -1270,6 +1270,24 @@
     },
     {
       "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257398,
+      "name": "Father Of Lies",
+      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
+    },
+    {
+      "album": {
         "name": "Fear of Dying",
         "url": "https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt"
       },
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 216520,
       "name": "One Second",
       "url": "https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD"

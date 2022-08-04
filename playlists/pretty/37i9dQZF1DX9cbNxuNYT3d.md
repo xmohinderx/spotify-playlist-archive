@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,337 likes - 48 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,399 likes - 48 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 17 | [Zdarlight](https://open.spotify.com/track/2loA8ulmO8Ec34aaSqzimz) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 5:40 |
 | 18 | [Voyager](https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:47 |
 | 19 | [In Your Arms \(We Gonna Make It\)](https://open.spotify.com/track/1Y0WKHEvAmFP8AClB2jY0d) | [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim) | [Strange Attitude \(Special Edition\)](https://open.spotify.com/album/2ehhDqK506h8wm245nVCK6) | 4:21 |
-| 20 | [In Love With You](https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ) | [In Love With You](https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d) | 4:14 |
+| 20 | [In Love With You](https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Romuald](https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG) | [In Love With You](https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d) | 4:14 |
 | 21 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
 | 22 | [La ritournelle](https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Politics](https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY) | 7:34 |
 | 23 | [Breathe](https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:42 |

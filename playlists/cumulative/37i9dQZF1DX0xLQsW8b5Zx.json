@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Face It",
+        "url": "https://open.spotify.com/album/10OMUhwFGYP9es5wBaeS5B"
+      },
+      "artists": [
+        {
+          "name": "Mr. Breathless",
+          "url": "https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168373,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/04YEUXO7f7Bmbuilnwv0rA"
+    },
+    {
+      "album": {
         "name": "Tear It Up",
         "url": "https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK"
       },
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"

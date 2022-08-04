@@ -418,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Night in Tijuana",
+        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
+      },
+      "artists": [
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Dancehall, Audubon Ballroom",
+      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
+    },
+    {
+      "album": {
         "name": "Tragicomic",
         "url": "https://open.spotify.com/album/7MLoEoQIno3oRHwGj0gJJh"
       },
@@ -547,7 +565,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 257122,
       "name": "Drum Dance",
       "url": "https://open.spotify.com/track/0g6KSwu63mYMkdA1IF1BAA"
@@ -844,6 +862,36 @@
     },
     {
       "album": {
+        "name": "Goteo",
+        "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
+      },
+      "artists": [
+        {
+          "name": "Sangre Nueva",
+          "url": "https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        },
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
+    },
+    {
+      "album": {
         "name": "I Can't Find",
         "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
       },
@@ -873,7 +921,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 374246,
       "name": "Ibuprofeno",
       "url": "https://open.spotify.com/track/6H0gNFYu67JwZkCf5lAfaH"
@@ -1355,6 +1403,24 @@
       "duration_ms": 375000,
       "name": "Midnight Raider",
       "url": "https://open.spotify.com/track/4ELHDQIzYG8LDkpkCrUlBP"
+    },
+    {
+      "album": {
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+      },
+      "artists": [
+        {
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "album": {
@@ -1983,7 +2049,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 294625,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg"

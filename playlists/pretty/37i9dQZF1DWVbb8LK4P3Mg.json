@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists.",
-  "num_followers": 44798,
+  "num_followers": 44786,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5Nzc2MCwwMDAwMDAwMDFlNzMxNmM2NzkyYTFkZTRjYTk0NDYzYTFiMzg2ZDc4",
+  "snapshot_id": "MTY0MDA5Nzc2MCwwMDAwMDAwMGQ0MzZjNWI0YTM3N2VmNTdkMDcwNTYwYThkZjEyZjIy",
   "tracks": [
     {
       "added_at": "2021-12-21 14:42:40",
@@ -487,18 +487,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "merry merry",
-        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 165693,
-      "name": "merry merry",
-      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
+      "duration_ms": 158226,
+      "name": "Be Your Christmas (feat. BOL4)",
+      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -519,22 +523,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Be Your Christmas",
-        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
+        "name": "merry merry",
+        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
       },
       "artists": [
         {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        },
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 158226,
-      "name": "Be Your Christmas (feat. BOL4)",
-      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
+      "duration_ms": 165693,
+      "name": "merry merry",
+      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Everyday Christmas",
-        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Everyday Christmas",
-      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "Merry-Chri",
         "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 332666,
       "name": "Merry-Chri",
       "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Everyday Christmas",
+        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Everyday Christmas",
+      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "APRIL 3rd Mini Album 'Prelude'",
-        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
-      },
-      "artists": [
-        {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
-        }
-      ],
-      "duration_ms": 185354,
-      "name": "Snowman (Special Ver.)",
-      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "This Christmas - Single",
         "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 227825,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "APRIL 3rd Mini Album 'Prelude'",
+        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 185354,
+      "name": "Snowman (Special Ver.)",
+      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4"
+      },
+      "artists": [
+        {
+          "name": "Summer Soul",
+          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "My Christmas Day's For You - 2021",
+      "url": "https://open.spotify.com/track/3IToKKHkdw19GKoZRnc3MY"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "Will You Be My Home",
         "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 209205,
       "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
       "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4"
-      },
-      "artists": [
-        {
-          "name": "Summer Soul",
-          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "My Christmas Day's For You - 2021",
-      "url": "https://open.spotify.com/track/3IToKKHkdw19GKoZRnc3MY"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Our Christmas",
-        "url": "https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih"
-      },
-      "artists": [
-        {
-          "name": "Kylie",
-          "url": "https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2"
-        }
-      ],
-      "duration_ms": 216565,
-      "name": "Our Christmas",
-      "url": "https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/27brxcSO7wHNJbtoUFALaa"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 196586,
       "name": "Just Christmas - 2018 Remastered Ver.",
       "url": "https://open.spotify.com/track/1a1S62JgjgBq5L7vdXwYWV"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Our Christmas",
+        "url": "https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih"
+      },
+      "artists": [
+        {
+          "name": "Kylie",
+          "url": "https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2"
+        }
+      ],
+      "duration_ms": 216565,
+      "name": "Our Christmas",
+      "url": "https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "The Christmas Book Page 2",
+        "url": "https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "duration_ms": 239777,
+      "name": "Winter Land",
+      "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "Let It Snow",
         "url": "https://open.spotify.com/album/206xAPJt0WNGyXrDVRFbxb"
       },
@@ -1539,6 +1555,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "Like Christmas",
+        "url": "https://open.spotify.com/album/1nKUE9kMGJ0MtssOmUzutw"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Like Christmas",
+      "url": "https://open.spotify.com/track/3PeIvDEnn0o7EH4uBc4JY8"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "DAILY",
         "url": "https://open.spotify.com/album/2xizHLpgVU5Rew3RtSEh2f"
       },
@@ -1551,22 +1583,6 @@
       "duration_ms": 143977,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/1969eDqAJwlhdu4ChKLgqG"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "The Christmas Book Page 2",
-        "url": "https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3"
-      },
-      "artists": [
-        {
-          "name": "SBGB",
-          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
-        }
-      ],
-      "duration_ms": 239777,
-      "name": "Winter Land",
-      "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1599,22 +1615,6 @@
       "duration_ms": 277040,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Like Christmas",
-        "url": "https://open.spotify.com/album/1nKUE9kMGJ0MtssOmUzutw"
-      },
-      "artists": [
-        {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Like Christmas",
-      "url": "https://open.spotify.com/track/3PeIvDEnn0o7EH4uBc4JY8"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "home party",
+        "url": "https://open.spotify.com/album/1W7ehCzsS567jcOlWr9Mdi"
+      },
+      "artists": [
+        {
+          "name": "Beer",
+          "url": "https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2"
+        }
+      ],
+      "duration_ms": 106966,
+      "name": "Warm wishes on christmas",
+      "url": "https://open.spotify.com/track/1lzqz6Ac9YYAqfYo8076iU"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "The Christmas Sessions",
         "url": "https://open.spotify.com/album/5w49x3ZNF7DvYrrk8NpEyF"
       },
@@ -1703,38 +1719,6 @@
       "duration_ms": 188833,
       "name": "Fa La La",
       "url": "https://open.spotify.com/track/1MxfYcDldrmqS0ppZ1SyBd"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Santa is Busy",
-        "url": "https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF"
-      },
-      "artists": [
-        {
-          "name": "The Barberettes",
-          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
-        }
-      ],
-      "duration_ms": 199708,
-      "name": "Winter Wind",
-      "url": "https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "home party",
-        "url": "https://open.spotify.com/album/1W7ehCzsS567jcOlWr9Mdi"
-      },
-      "artists": [
-        {
-          "name": "Beer",
-          "url": "https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2"
-        }
-      ],
-      "duration_ms": 106966,
-      "name": "Warm wishes on christmas",
-      "url": "https://open.spotify.com/track/1lzqz6Ac9YYAqfYo8076iU"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1767,6 +1751,38 @@
       "duration_ms": 184815,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/1bSqmWIWw4AHevbOXBtBwm"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Santa is Busy",
+        "url": "https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF"
+      },
+      "artists": [
+        {
+          "name": "The Barberettes",
+          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
+        }
+      ],
+      "duration_ms": 199708,
+      "name": "Winter Wind",
+      "url": "https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Your Christmas",
+        "url": "https://open.spotify.com/album/2WMyiJMS8Jyi4XTnrOuQz9"
+      },
+      "artists": [
+        {
+          "name": "Benaddict",
+          "url": "https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz"
+        }
+      ],
+      "duration_ms": 237322,
+      "name": "Your Christmas",
+      "url": "https://open.spotify.com/track/1iVa2ZhhxEnP2KyVv9vLtA"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1815,22 +1831,6 @@
       "duration_ms": 175480,
       "name": "Merry Christmas JAM!",
       "url": "https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Your Christmas",
-        "url": "https://open.spotify.com/album/2WMyiJMS8Jyi4XTnrOuQz9"
-      },
-      "artists": [
-        {
-          "name": "Benaddict",
-          "url": "https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz"
-        }
-      ],
-      "duration_ms": 237322,
-      "name": "Your Christmas",
-      "url": "https://open.spotify.com/track/1iVa2ZhhxEnP2KyVv9vLtA"
     }
   ],
   "unique_name": "Christmas K-Pop",

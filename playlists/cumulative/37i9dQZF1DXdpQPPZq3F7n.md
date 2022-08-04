@@ -4,7 +4,7 @@
 
 > Best Bollywood love songs from last 10 years\. Cover\- Shamshera
 
-96 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
+97 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT) | 0:44 | 2022-05-19 | 2022-07-19 |
 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 | 2022-05-19 |  |
 | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/track/6h6kOAlIeWdsqNopumppU5) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/album/1okf7DbIC5vVPmU0p7dsQb) | 5:30 | 2022-07-08 |  |
+| [La Ilaaj](https://open.spotify.com/track/5uYHDSKVHfHxBLgYf4H6SH) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Darlings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2CC7SjZUz7ua9SwvwBJBmy) | 4:24 | 2022-08-03 |  |
 | [Lut Gaye](https://open.spotify.com/track/2rU33n6Fhd6G1MzYhUj6C5) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Emraan Hashmi](https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb) | [Mumbai Saga](https://open.spotify.com/album/1A6zSLiNekSSlyPuJmka71) | 3:48 | 2022-05-19 |  |
 | [Maafi \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/5YRF192d5rE7xk6cT1H6wN) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Maafi \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/4ohGfpncGicmnQ3gPHeIlt) | 4:20 | 2022-05-19 | 2022-07-26 |
 | [Main Dhoondne Ko Zamaane Mein](https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heartless](https://open.spotify.com/album/1hPrjTLgnaAlEmDIDtfd5X) | 4:22 | 2022-05-19 |  |

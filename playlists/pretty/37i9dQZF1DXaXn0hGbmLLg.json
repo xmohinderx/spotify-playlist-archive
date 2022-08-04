@@ -1,13 +1,29 @@
 {
   "description": "Women at full volume! Luister naar muziek van vrouwen uit Nederland. Cover: Naaz",
-  "num_followers": 4665,
+  "num_followers": 4699,
   "original_name": "EQUAL Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3NzYwMCwwMDAwMDAwMDc0OWQ5ZjA4ZTNiMTE2YWM2YWVkMzMxNzRlMmU4YzMw",
+  "snapshot_id": "MTY1OTQ3NzYwMCwwMDAwMDAwMGZhNmJmMjhmYzEwZjI3Yzg4MTM1ZmU2OTRjYTQwMGZk",
   "tracks": [
+    {
+      "added_at": "2022-08-02 22:00:00",
+      "album": {
+        "name": "Azad\u00ee",
+        "url": "https://open.spotify.com/album/6zJCr9aBd5PIt6ltumUA4O"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "duration_ms": 201916,
+      "name": "Azad\u00ee",
+      "url": "https://open.spotify.com/track/4C79mdd7zUzW2hVwJmJLwk"
+    },
     {
       "added_at": "2022-08-02 22:00:00",
       "album": {

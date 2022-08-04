@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 496209,
+  "num_followers": 496386,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTI3OTk5NCwwMDAwMDAwMDI2NDRkZmVhMmFmMmRjZjk2MDdkNmQwZGM5OGE1OGQ0",
+  "snapshot_id": "MTY1OTI3OTk5NCwwMDAwMDAwMGM4ZWI1MzI4YjBjOGQwZGM1OTE1MjkyYjdmZTFlNmM1",
   "tracks": [
     {
       "added_at": "2022-07-22 15:06:35",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
-        }
-      ],
-      "duration_ms": 331160,
-      "name": "Ramito de violetas",
-      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "10 A\u00f1os Con Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 236543,
       "name": "La Mejor Version de M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "duration_ms": 331160,
+      "name": "Ramito de violetas",
+      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Trilog\u00eda: 1er acto",
-        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        }
-      ],
-      "duration_ms": 373773,
-      "name": "El Federal",
-      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "A Pura Snagre",
         "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
       },
@@ -899,22 +883,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "Me Duele Tu Nombre (En Vivo)",
         "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
       },
@@ -935,6 +903,38 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
+        "name": "Trilog\u00eda: 1er acto",
+        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "duration_ms": 373773,
+      "name": "El Federal",
+      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
         "name": "Ni Lo Pienses",
         "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
       },
@@ -947,38 +947,6 @@
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/1vTsQEEsyMLY7b5xKvSklj"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Tu Nombre",
-      "url": "https://open.spotify.com/track/1pDXVj8a0oeGI787QMOc2l"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1007,18 +975,34 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Antologia Carlitos La Mona Jimenez",
-        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 245053,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/1vTsQEEsyMLY7b5xKvSklj"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/1pDXVj8a0oeGI787QMOc2l"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1067,6 +1051,22 @@
       "duration_ms": 387552,
       "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
       "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "Antologia Carlitos La Mona Jimenez",
+        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "duration_ms": 245053,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1155,46 +1155,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "A Pura Snagre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
-      },
-      "artists": [
-        {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "No Me Mientas",
-      "url": "https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
-        "name": "Beso a Beso (con La Mona)",
-        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Hugh Padgham",
-          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
-        },
-        {
-          "name": "Sergio Oliva",
-          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Beso a beso",
-      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "Fern\u00e9, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!",
         "url": "https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT"
       },
@@ -1267,6 +1227,22 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
+        "name": "A Pura Snagre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "No Me Mientas",
+      "url": "https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
         "name": "Con Piel de Cuarteto",
         "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
@@ -1299,6 +1275,30 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
+        "name": "Beso a Beso (con La Mona)",
+        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Hugh Padgham",
+          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
+        },
+        {
+          "name": "Sergio Oliva",
+          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Beso a beso",
+      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 178816,
       "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "Esta de Moda",
+        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+      },
+      "artists": [
+        {
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+        }
+      ],
+      "duration_ms": 204382,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1331,22 +1347,6 @@
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
-        "name": "Esta de Moda",
-        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
-      },
-      "artists": [
-        {
-          "name": "Pitty Murua",
-          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
-        }
-      ],
-      "duration_ms": 204382,
-      "name": "Lo Aprend\u00ed de Ti",
-      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Paloma loca",
-      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "Para Rato!",
         "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 480888,
       "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
       "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Paloma loca",
+      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "200 Copas (En Vivo)",
         "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Cuarte Party",
-        "url": "https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA"
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
       },
       "artists": [
         {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
         }
       ],
-      "duration_ms": 572488,
-      "name": "Cuarte Party",
-      "url": "https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q"
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1567,6 +1551,22 @@
       "duration_ms": 242950,
       "name": "Perfecto Idiota",
       "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "Cuarte Party",
+        "url": "https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "duration_ms": 572488,
+      "name": "Cuarte Party",
+      "url": "https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q"
     },
     {
       "added_at": "2022-07-22 15:06:35",

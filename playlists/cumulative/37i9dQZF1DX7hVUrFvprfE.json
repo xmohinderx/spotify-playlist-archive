@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/08VQWx0GZFqmUgRtGPntdg"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160518,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/42Rb5FxBg53gSib0MMACQs"
+    },
+    {
+      "album": {
         "name": "cypress grove",
         "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
       },
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 157000,
       "name": "For the Damaged Coda",
       "url": "https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs"

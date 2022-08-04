@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 19509,
+  "num_followers": 19548,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDRiMWE5NjkyYzk0NmExMjVlYWM2MTlmZjBjODA0ZTUz",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMGZkYmVhZmI5ZjQ4NzlkYTA5YjZjMWI0NzZmYmRlNjMx",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Dancin' On My Own",
-        "url": "https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR"
-      },
-      "artists": [
-        {
-          "name": "Michael Mayo",
-          "url": "https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p"
-        }
-      ],
-      "duration_ms": 99910,
-      "name": "Dancin' On My Own",
-      "url": "https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 160016,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4WrPZ198RawgV8uMVwkYWU"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Dancin' On My Own",
+        "url": "https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR"
+      },
+      "artists": [
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p"
+        }
+      ],
+      "duration_ms": 99910,
+      "name": "Dancin' On My Own",
+      "url": "https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -827,18 +827,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Luhh Galore",
-        "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
+        "name": "Back Up On It (Jasmine)",
+        "url": "https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph"
       },
       "artists": [
         {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+          "name": "DJ Fire",
+          "url": "https://open.spotify.com/artist/0ky4LIRukBkNFLJ2uzpQ9Y"
+        },
+        {
+          "name": "Dougie F & DJ Fire",
+          "url": "https://open.spotify.com/artist/57UWHentGuHNFZBertnsf8"
+        },
+        {
+          "name": "Dougie F",
+          "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
         }
       ],
-      "duration_ms": 88302,
-      "name": "Luhh Galore",
-      "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
+      "duration_ms": 200869,
+      "name": "Back Up On It (Jasmine)",
+      "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -883,26 +891,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Back Up On It (Jasmine)",
-        "url": "https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph"
+        "name": "Luhh Galore",
+        "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
       },
       "artists": [
         {
-          "name": "DJ Fire",
-          "url": "https://open.spotify.com/artist/0ky4LIRukBkNFLJ2uzpQ9Y"
-        },
-        {
-          "name": "Dougie F & DJ Fire",
-          "url": "https://open.spotify.com/artist/57UWHentGuHNFZBertnsf8"
-        },
-        {
-          "name": "Dougie F",
-          "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Back Up On It (Jasmine)",
-      "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
+      "duration_ms": 88302,
+      "name": "Luhh Galore",
+      "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "New Jersey Club EP",
+        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
+      },
+      "artists": [
+        {
+          "name": "DJ Tray",
+          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
+        }
+      ],
+      "duration_ms": 98208,
+      "name": "Nobody's Perfect - Original Mix",
+      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
         "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 184058,
       "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
       "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "New Jersey Club EP",
-        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
-      },
-      "artists": [
-        {
-          "name": "DJ Tray",
-          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
-        }
-      ],
-      "duration_ms": 98208,
-      "name": "Nobody's Perfect - Original Mix",
-      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Jimmy Crooks",
-        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
-      },
-      "artists": [
-        {
-          "name": "Tricks",
-          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
-        }
-      ],
-      "duration_ms": 145711,
-      "name": "Jimmy Crooks",
-      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Tek 9 EP",
         "url": "https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 232776,
       "name": "Rude Boy Giddy Up",
       "url": "https://open.spotify.com/track/5r4ZtJLtLbMufaMw8UBK6Q"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Jimmy Crooks",
+        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
+      },
+      "artists": [
+        {
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
+        }
+      ],
+      "duration_ms": 145711,
+      "name": "Jimmy Crooks",
+      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bilg",
-        "url": "https://open.spotify.com/album/2h03HxIBrxCFOocHnJlW1N"
-      },
-      "artists": [
-        {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
-        },
-        {
-          "name": "West End Tricks",
-          "url": "https://open.spotify.com/artist/4KWruAZX5BRTjIW1l9wgSK"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "Bilg",
-      "url": "https://open.spotify.com/track/0teV9KmskEvhm01O37HoUU"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Tek 9 EP",
         "url": "https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 140000,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Bilg",
+        "url": "https://open.spotify.com/album/2h03HxIBrxCFOocHnJlW1N"
+      },
+      "artists": [
+        {
+          "name": "DJ LILMAN",
+          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+        },
+        {
+          "name": "West End Tricks",
+          "url": "https://open.spotify.com/artist/4KWruAZX5BRTjIW1l9wgSK"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "Bilg",
+      "url": "https://open.spotify.com/track/0teV9KmskEvhm01O37HoUU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Club Soda, Vol. 2",
-        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "She's From Jersey",
-      "url": "https://open.spotify.com/track/57nbcWp3VhiQQBNcka0Eql"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Jersey Vs The World",
         "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 170015,
       "name": "Free Me",
       "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Club Soda, Vol. 2",
+        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "She's From Jersey",
+      "url": "https://open.spotify.com/track/57nbcWp3VhiQQBNcka0Eql"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Walkdown",
+        "url": "https://open.spotify.com/album/2ZOj3Ok0uGgTN1sbGYeJTe"
+      },
+      "artists": [
+        {
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
+        },
+        {
+          "name": "Nook Lauren",
+          "url": "https://open.spotify.com/artist/69LrKFU90Iu9Q8yKb8YZ3Q"
+        }
+      ],
+      "duration_ms": 105900,
+      "name": "Walkdown",
+      "url": "https://open.spotify.com/track/0M9A9pur06soprR1p61B3x"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "The Last One",
         "url": "https://open.spotify.com/album/2f4c6NPzKvnz2aY0DeRJaR"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 158896,
       "name": "My Back 2020",
       "url": "https://open.spotify.com/track/1CQNhW4EjAbKxCBDzrc9ru"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Walkdown",
-        "url": "https://open.spotify.com/album/2ZOj3Ok0uGgTN1sbGYeJTe"
-      },
-      "artists": [
-        {
-          "name": "LilC4",
-          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
-        },
-        {
-          "name": "Nook Lauren",
-          "url": "https://open.spotify.com/artist/69LrKFU90Iu9Q8yKb8YZ3Q"
-        }
-      ],
-      "duration_ms": 105900,
-      "name": "Walkdown",
-      "url": "https://open.spotify.com/track/0M9A9pur06soprR1p61B3x"
     },
     {
       "added_at": "2022-07-22 04:01:00",

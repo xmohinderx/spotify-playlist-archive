@@ -1,13 +1,29 @@
 {
-  "description": "Cada mi\u00e9rcoles, m\u00fasica fresca de artistas independientes para tu descubrimiento. Foto: TRIST\u00c1N!",
-  "num_followers": 4971,
+  "description": "Cada mi\u00e9rcoles, m\u00fasica fresca de artistas independientes para tu descubrimiento. Foto: Claudia Allmang.",
+  "num_followers": 4997,
   "original_name": "Fresh Finds Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3NzYwMCwwMDAwMDAwMGNmZGNiMGZlMzhkZDY5YTIyZTc0OTFhYjM2ZDQ3MzJl",
+  "snapshot_id": "MTY1OTUyMzA4NiwwMDAwMDAwMDc4MDY0ZjRkNTdmN2NjNjI4NDA4NjQ1ZWM1NDY5YTY4",
   "tracks": [
+    {
+      "added_at": "2022-08-02 22:00:00",
+      "album": {
+        "name": "casi algo",
+        "url": "https://open.spotify.com/album/1JL9GKum5aiwVKPmZ2rGfG"
+      },
+      "artists": [
+        {
+          "name": "Claudia Allmang",
+          "url": "https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh"
+        }
+      ],
+      "duration_ms": 134593,
+      "name": "casi algo",
+      "url": "https://open.spotify.com/track/4GauJC4IfolWyyHMCprgwv"
+    },
     {
       "added_at": "2022-08-02 22:00:00",
       "album": {
@@ -59,22 +75,6 @@
       "duration_ms": 178204,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/01ZgAAf4KLKlquuSTREcEY"
-    },
-    {
-      "added_at": "2022-08-02 22:00:00",
-      "album": {
-        "name": "casi algo",
-        "url": "https://open.spotify.com/album/1JL9GKum5aiwVKPmZ2rGfG"
-      },
-      "artists": [
-        {
-          "name": "Claudia Allmang",
-          "url": "https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh"
-        }
-      ],
-      "duration_ms": 134593,
-      "name": "casi algo",
-      "url": "https://open.spotify.com/track/4GauJC4IfolWyyHMCprgwv"
     },
     {
       "added_at": "2022-08-02 22:00:00",

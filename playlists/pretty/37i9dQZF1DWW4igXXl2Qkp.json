@@ -1,13 +1,129 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Lil Darius\n",
-  "num_followers": 187749,
+  "num_followers": 187936,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5MzQ0MiwwMDAwMDAwMDIwMTAyMTQ5ZDg4NzVmMjVjODQ3ZDZiMGE3MDQ1NTM5",
+  "snapshot_id": "MTY1OTU0MjQwMCwwMDAwMDAwMDhjMTIwZDNiOGE3MGEwYTRkYzY2ZjVjZjU3MTI2NGU1",
   "tracks": [
+    {
+      "added_at": "2022-07-29 02:11:40",
+      "album": {
+        "name": "Internet Shooter",
+        "url": "https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M"
+      },
+      "artists": [
+        {
+          "name": "Lil Seeto",
+          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
+        }
+      ],
+      "duration_ms": 117562,
+      "name": "Internet Shooter",
+      "url": "https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Blood Boy",
+        "url": "https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p"
+      },
+      "artists": [
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Blood Boy",
+      "url": "https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "delightz",
+        "url": "https://open.spotify.com/album/4QuXKAkEwk0fckOGbW3YRS"
+      },
+      "artists": [
+        {
+          "name": "WIZE",
+          "url": "https://open.spotify.com/artist/0b1Ixfw9ikmQSMkAnGPQBb"
+        }
+      ],
+      "duration_ms": 214157,
+      "name": "delightz (safe)",
+      "url": "https://open.spotify.com/track/3218xSQExWjZMnTeieR0Y6"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Freelance: Charlie",
+        "url": "https://open.spotify.com/album/6JLtQCr4wR5TbPMCK53XDt"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Agenda",
+      "url": "https://open.spotify.com/track/2S0YH4sawK9y1k7p1v8iZn"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Money Matrimony",
+        "url": "https://open.spotify.com/album/4yk5yvGk6Hn2kJGMDsem8p"
+      },
+      "artists": [
+        {
+          "name": "MBK Spudway",
+          "url": "https://open.spotify.com/artist/27lx5HSB2Oj5cW5e2z8SqU"
+        },
+        {
+          "name": "T.F",
+          "url": "https://open.spotify.com/artist/3S0ftTsY7HDY3Rnzqy5v9d"
+        }
+      ],
+      "duration_ms": 148584,
+      "name": "Money Matrimony",
+      "url": "https://open.spotify.com/track/6KH863tOvCwzRXd48Oflcz"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/1onhB0kvvPOjMIfFzLEeN2"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "duration_ms": 149237,
+      "name": "Gifted",
+      "url": "https://open.spotify.com/track/54Xc1XEgM7PQICYfgQsgt4"
+    },
+    {
+      "added_at": "2022-07-20 20:45:44",
+      "album": {
+        "name": "Get Even",
+        "url": "https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 161149,
+      "name": "Get Even",
+      "url": "https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h"
+    },
     {
       "added_at": "2022-07-27 19:17:38",
       "album": {
@@ -27,22 +143,6 @@
       "duration_ms": 177428,
       "name": "Murder",
       "url": "https://open.spotify.com/track/621SNKZYqIor6NW8nR2sCX"
-    },
-    {
-      "added_at": "2022-07-29 02:11:40",
-      "album": {
-        "name": "Internet Shooter",
-        "url": "https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M"
-      },
-      "artists": [
-        {
-          "name": "Lil Seeto",
-          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
-        }
-      ],
-      "duration_ms": 117562,
-      "name": "Internet Shooter",
-      "url": "https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw"
     },
     {
       "added_at": "2022-07-20 20:45:44",
@@ -113,6 +213,38 @@
       "url": "https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE"
     },
     {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Boy On Mars 2",
+        "url": "https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq"
+      },
+      "artists": [
+        {
+          "name": "Take45",
+          "url": "https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO"
+        }
+      ],
+      "duration_ms": 107083,
+      "name": "TOOYOUNG",
+      "url": "https://open.spotify.com/track/737kPzO3GT2cALxjXouTVC"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Lost Me",
+        "url": "https://open.spotify.com/album/0jXMtfh2sdBtRZ1Fu3UJwY"
+      },
+      "artists": [
+        {
+          "name": "Henny Hermes",
+          "url": "https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy"
+        }
+      ],
+      "duration_ms": 155156,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/1gKDstFnwZNgvrE01YG7AA"
+    },
+    {
       "added_at": "2022-07-27 19:17:38",
       "album": {
         "name": "Gol Chane'",
@@ -129,20 +261,20 @@
       "url": "https://open.spotify.com/track/3J7ACQMFkrloBL0cQAIWWL"
     },
     {
-      "added_at": "2022-07-20 20:45:44",
+      "added_at": "2022-08-03 16:00:00",
       "album": {
-        "name": "Get Even",
-        "url": "https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV"
+        "name": "Trust Lost",
+        "url": "https://open.spotify.com/album/1uwVxqhh2cKeguBv19OS7N"
       },
       "artists": [
         {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+          "name": "MiloXO",
+          "url": "https://open.spotify.com/artist/1GikQjAs1mSTJtZKPi3hWr"
         }
       ],
-      "duration_ms": 161149,
-      "name": "Get Even",
-      "url": "https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h"
+      "duration_ms": 171064,
+      "name": "Trust Lost",
+      "url": "https://open.spotify.com/track/4tmxNaDiSwPosCx6D4AxPm"
     },
     {
       "added_at": "2022-07-27 19:17:38",
@@ -159,6 +291,22 @@
       "duration_ms": 99454,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2vl4TeVHnGQTnfr9qptusw"
+      },
+      "artists": [
+        {
+          "name": "Shani Boni",
+          "url": "https://open.spotify.com/artist/1tzZtJUaD3xPSetRFaP5Ae"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/42hfVS3MCDIbyFoBriCiJF"
     },
     {
       "added_at": "2022-07-27 19:17:38",
@@ -211,6 +359,26 @@
       "duration_ms": 158354,
       "name": "Live Or Die",
       "url": "https://open.spotify.com/track/3gdYZmIaIXQjHfl1yRgGWR"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/4pZ6oHLEyWAxaYohfq5VgW"
+      },
+      "artists": [
+        {
+          "name": "ShantiLo",
+          "url": "https://open.spotify.com/artist/4mSwprljb5xK9vIc9W3xU3"
+        },
+        {
+          "name": "Rocky Badd",
+          "url": "https://open.spotify.com/artist/1SwYzkVWDvzFbLblUN4snA"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/5IvAhpE2N6BAinhPpNpOR7"
     },
     {
       "added_at": "2022-07-20 20:45:44",
@@ -335,22 +503,6 @@
     {
       "added_at": "2022-07-20 20:45:44",
       "album": {
-        "name": "Pretty In Black",
-        "url": "https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 158236,
-      "name": "ON DAT SHIT",
-      "url": "https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er"
       },
@@ -463,38 +615,6 @@
       "duration_ms": 191290,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/7y1kQ8gmRikqLM5Zaos8vC"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Certified Dripper",
-        "url": "https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        }
-      ],
-      "duration_ms": 152166,
-      "name": "Certified Dripper",
-      "url": "https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "From Rags 2 Riches",
-        "url": "https://open.spotify.com/album/1NK6GHI9PEVb50IrTdEx7P"
-      },
-      "artists": [
-        {
-          "name": "GMK",
-          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
-        }
-      ],
-      "duration_ms": 137306,
-      "name": "From Rags 2 Riches",
-      "url": "https://open.spotify.com/track/4MsSQKCg2TVyvszBu3BbYq"
     },
     {
       "added_at": "2022-07-20 20:45:44",
@@ -679,46 +799,6 @@
     {
       "added_at": "2022-07-20 20:45:44",
       "album": {
-        "name": "War Cries",
-        "url": "https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6"
-      },
-      "artists": [
-        {
-          "name": "Fastmoney Ant",
-          "url": "https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "War Cries",
-      "url": "https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Awready",
-        "url": "https://open.spotify.com/album/3QfIpWyod9hiAsYFYXA9qt"
-      },
-      "artists": [
-        {
-          "name": "TEXAS BOYZ",
-          "url": "https://open.spotify.com/artist/40qj4OBMZQvOZfqhoSE758"
-        },
-        {
-          "name": "Tay Muletti",
-          "url": "https://open.spotify.com/artist/1VfrgiZIcpiZ1Gyt33B4K4"
-        },
-        {
-          "name": "Nick Gee",
-          "url": "https://open.spotify.com/artist/7D2Vq4xIfvAtBPKGeWlrw2"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Awready",
-      "url": "https://open.spotify.com/track/29Bpg0Agd8i1R9lBoZ9Zbi"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
         "name": "Y OFC",
         "url": "https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06"
       },
@@ -831,42 +911,6 @@
       "duration_ms": 220671,
       "name": "OOTAZ",
       "url": "https://open.spotify.com/track/0WmDdW0eCWfNN6Yr386WUD"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Bounty",
-        "url": "https://open.spotify.com/album/28dDJurFyOppjxs3xkoNSO"
-      },
-      "artists": [
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        },
-        {
-          "name": "Kodak",
-          "url": "https://open.spotify.com/artist/0g8s4P6qArdILFxEXViKMo"
-        }
-      ],
-      "duration_ms": 168190,
-      "name": "Bounty",
-      "url": "https://open.spotify.com/track/49ZSE92nSaGofTlhMQJvkX"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "APPARENT",
-        "url": "https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy"
-      },
-      "artists": [
-        {
-          "name": "Al-Doms",
-          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "APPARENT",
-      "url": "https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN"
     }
   ],
   "unique_name": "Fresh Finds Hip-Hop",

@@ -1,13 +1,209 @@
 {
-  "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: obviouslydan, Artwork: Rewina Beshue.",
-  "num_followers": 131011,
+  "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: FOURA Artwork: Rewina Beshue.",
+  "num_followers": 131155,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk0MDEyNCwwMDAwMDAwMGQxMjdjNzhkOGQyY2M2ODc1MGEwNGU2MTk5NzU3ZDMw",
+  "snapshot_id": "MTY1OTU0MjQwMCwwMDAwMDAwMGI2MDJhODNlMDRiMGQxZTBlNmM2OGY2MmJmYWQxMDVm",
   "tracks": [
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5bmyUdQ6KHEYONPh3m2FsY"
+      },
+      "artists": [
+        {
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+        }
+      ],
+      "duration_ms": 206957,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2PB9qohRHoU7XmRKtaEpY0"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/79lPyElfnFYZiUnkIee5ZR"
+      },
+      "artists": [
+        {
+          "name": "Liam Doc",
+          "url": "https://open.spotify.com/artist/0E4quFKqDI4EyQuYeZleNH"
+        }
+      ],
+      "duration_ms": 296750,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3R1CDwyVr5CXYWfbW3swuY"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "FOLLY OF THE BEAST",
+        "url": "https://open.spotify.com/album/5lhVz7zr6Ej09RVfK6giPn"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "FOLLY OF THE BEAST",
+      "url": "https://open.spotify.com/track/6quamSso052PZs9gRG0INo"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Can U Lose?",
+        "url": "https://open.spotify.com/album/1jWJAhNFUtfWxJOtYAUCy2"
+      },
+      "artists": [
+        {
+          "name": "Lean Low",
+          "url": "https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz"
+        }
+      ],
+      "duration_ms": 199024,
+      "name": "Can U Lose?",
+      "url": "https://open.spotify.com/track/3fWCRNmlVnOSO4rtV3leN2"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Light the Fire",
+        "url": "https://open.spotify.com/album/6c4HdAPkw3osFzeUzKCkBV"
+      },
+      "artists": [
+        {
+          "name": "Mason Flint",
+          "url": "https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "Light the Fire",
+      "url": "https://open.spotify.com/track/2gNcIZILc3onJJRPU9gLm8"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Love Feels",
+        "url": "https://open.spotify.com/album/7ngvZdcqDzku2mx4Vd0sHi"
+      },
+      "artists": [
+        {
+          "name": "Dave + Sam",
+          "url": "https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Love Feels",
+      "url": "https://open.spotify.com/track/2Xm0rTs3qXMGSACpgH2xbU"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Old Dogs Groove / Pure NRG",
+        "url": "https://open.spotify.com/album/2UphPjQMbhOQ4QaLSTdb5s"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "duration_ms": 306883,
+      "name": "Old Dogs Groove",
+      "url": "https://open.spotify.com/track/2DFDqK6DZgboonzKhGjhdr"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Not Like Them",
+        "url": "https://open.spotify.com/album/4hmJY5jHikwnnqhhwC7dVw"
+      },
+      "artists": [
+        {
+          "name": "Mount Pleasant",
+          "url": "https://open.spotify.com/artist/1kzPmFEEz0wTgXoCzJTwBz"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Not Like Them",
+      "url": "https://open.spotify.com/track/2RrPlTxCzDY9PibX4fkFhy"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Send It",
+        "url": "https://open.spotify.com/album/3VbO0QsGNxev1Xr41mychg"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "Send It",
+      "url": "https://open.spotify.com/track/4BkThntLPOd8THPHZdQUYH"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "a song about you",
+        "url": "https://open.spotify.com/album/4NC5SJtApIZeXU9wYfgMZ5"
+      },
+      "artists": [
+        {
+          "name": "R E X E X",
+          "url": "https://open.spotify.com/artist/4xPBwLE2M0L8FFmQRTVOzh"
+        },
+        {
+          "name": "Penthouse Penthouse",
+          "url": "https://open.spotify.com/artist/5UfeYtslz7DT0hvVnkCEjB"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "a song about you",
+      "url": "https://open.spotify.com/track/3y5cDjgv94ABNp1pSEmHcY"
+    },
     {
       "added_at": "2022-07-27 16:42:03",
       "album": {
@@ -107,6 +303,22 @@
       "duration_ms": 293694,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2H28Hbm2ScwDoWdsbHUsNB"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Dense Metaverse",
+        "url": "https://open.spotify.com/album/7teNbjdosS30JB38wjG15Y"
+      },
+      "artists": [
+        {
+          "name": "Elisa Bee",
+          "url": "https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX"
+        }
+      ],
+      "duration_ms": 341974,
+      "name": "Dense Metaverse",
+      "url": "https://open.spotify.com/track/6HgUNScygasBr2xtbTpueF"
     },
     {
       "added_at": "2022-07-27 16:42:03",
@@ -243,6 +455,22 @@
       "duration_ms": 387692,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/5PMqYYi5iU1iOiSc7iLuUS"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/3cQ5YF4ZK4E7lrhBLBAHc9"
+      },
+      "artists": [
+        {
+          "name": "Fairbrother",
+          "url": "https://open.spotify.com/artist/7nCnDKl8A5fs3W0GwDhEIc"
+        }
+      ],
+      "duration_ms": 274887,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5ky1N5AItID6Y1mOGlpL9x"
     },
     {
       "added_at": "2022-07-27 16:42:03",
@@ -479,22 +707,6 @@
     {
       "added_at": "2022-07-20 16:00:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/4oPVG9WoUwe9VTs4MKw2vI"
-      },
-      "artists": [
-        {
-          "name": "Dom Ryan",
-          "url": "https://open.spotify.com/artist/1U29RvolWLQ1YUTmf3We0L"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/07QjFaqY0lzahZXQ0jdjXc"
-    },
-    {
-      "added_at": "2022-07-20 16:00:00",
-      "album": {
         "name": "Get Familiar",
         "url": "https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN"
       },
@@ -511,6 +723,26 @@
       "duration_ms": 291288,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Steamin",
+        "url": "https://open.spotify.com/album/00ciJacke9mRfbm616SfWq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Steamin",
+      "url": "https://open.spotify.com/track/1eJHtjhx9G89WPHHX20ndU"
     },
     {
       "added_at": "2022-07-06 15:52:14",
@@ -751,54 +983,6 @@
     {
       "added_at": "2022-07-06 15:52:14",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/6XnDIgE6Vpy7uNHSEvnCSh"
-      },
-      "artists": [
-        {
-          "name": "D.E.L",
-          "url": "https://open.spotify.com/artist/0XCOqb0sQxtEjujH2yHNh1"
-        }
-      ],
-      "duration_ms": 147583,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1ce7QZQaWokujZ2E7Pjosk"
-    },
-    {
-      "added_at": "2022-07-06 15:52:14",
-      "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/4KDI4RT3iWSyrZmeyQRBs2"
-      },
-      "artists": [
-        {
-          "name": "william light",
-          "url": "https://open.spotify.com/artist/1b1QgXUMfRNZjLaq5Iilsd"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/7AWbSAaYHMb82k4HF1Hb4J"
-    },
-    {
-      "added_at": "2022-07-06 15:52:14",
-      "album": {
-        "name": "Colour & Pattern",
-        "url": "https://open.spotify.com/album/2KmwZ0B9mMaKkA38Z3SE2D"
-      },
-      "artists": [
-        {
-          "name": "Tutara Peak",
-          "url": "https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX"
-        }
-      ],
-      "duration_ms": 322296,
-      "name": "Colour & Pattern",
-      "url": "https://open.spotify.com/track/0bJex0EvS5p6bgCIv1Pb04"
-    },
-    {
-      "added_at": "2022-07-06 15:52:14",
-      "album": {
         "name": "Sweet Feeling",
         "url": "https://open.spotify.com/album/39EnCB11xB9RNE7wNDNYmc"
       },
@@ -835,22 +1019,6 @@
       "duration_ms": 214285,
       "name": "Storm - Max Ada Remix",
       "url": "https://open.spotify.com/track/7oMWpTEMCoHmctzBDMhKJP"
-    },
-    {
-      "added_at": "2022-07-06 15:52:14",
-      "album": {
-        "name": "Hymn EP",
-        "url": "https://open.spotify.com/album/7zm4nHUqUFvw1ELqgzUKIc"
-      },
-      "artists": [
-        {
-          "name": "MOL\u00d8",
-          "url": "https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg"
-        }
-      ],
-      "duration_ms": 241976,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/1v2jFLpXe18CqSMhoCTwzN"
     },
     {
       "added_at": "2022-07-06 15:52:14",
@@ -973,26 +1141,6 @@
       "url": "https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT"
     },
     {
-      "added_at": "2022-07-06 15:52:14",
-      "album": {
-        "name": "Stupid Dream",
-        "url": "https://open.spotify.com/album/11jhlNkbuvhLc2BtL3FZaV"
-      },
-      "artists": [
-        {
-          "name": "N4C",
-          "url": "https://open.spotify.com/artist/4Edn3J3wzqhLiSjfIq3WHo"
-        },
-        {
-          "name": "AVE",
-          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
-        }
-      ],
-      "duration_ms": 188184,
-      "name": "Stupid Dream",
-      "url": "https://open.spotify.com/track/0cO34SNE851Yf5s9dcBGan"
-    },
-    {
       "added_at": "2022-06-29 16:50:53",
       "album": {
         "name": "DONT TRUST EM",
@@ -1075,30 +1223,6 @@
       "duration_ms": 186264,
       "name": "Magic Gravity",
       "url": "https://open.spotify.com/track/7iyHeIh13D48v9CX3tIcjU"
-    },
-    {
-      "added_at": "2022-06-29 16:50:53",
-      "album": {
-        "name": "Do Me Wrong",
-        "url": "https://open.spotify.com/album/1rgDVi4I6Hp2iDAZwNCd6m"
-      },
-      "artists": [
-        {
-          "name": "Roska",
-          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
-        },
-        {
-          "name": "Jammz",
-          "url": "https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0"
-        },
-        {
-          "name": "Aleisha Lee",
-          "url": "https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij"
-        }
-      ],
-      "duration_ms": 223697,
-      "name": "Do Me Wrong",
-      "url": "https://open.spotify.com/track/1AMjlgMPiepOmSXtVPlqtx"
     },
     {
       "added_at": "2022-06-29 16:50:53",
@@ -1379,22 +1503,6 @@
     {
       "added_at": "2022-06-08 15:56:16",
       "album": {
-        "name": "Intro To The Anthem",
-        "url": "https://open.spotify.com/album/35nX4nWahP8YjnuxHfJ2Ow"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller (Aus)",
-          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Intro To The Anthem",
-      "url": "https://open.spotify.com/track/7zEOLbjfVd6jvEK7roRBvn"
-    },
-    {
-      "added_at": "2022-06-08 15:56:16",
-      "album": {
         "name": "Cerchi Imperfetti",
         "url": "https://open.spotify.com/album/47P6Xu4PL5CNBnjNniTWgX"
       },
@@ -1423,22 +1531,6 @@
       "duration_ms": 242892,
       "name": "Pods",
       "url": "https://open.spotify.com/track/6lHH2Pf5R8IBuQtew5hWz8"
-    },
-    {
-      "added_at": "2022-06-08 15:56:16",
-      "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/4ovhXv8kgzbnDq9TARjqrt"
-      },
-      "artists": [
-        {
-          "name": "Best Friends Club",
-          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
-        }
-      ],
-      "duration_ms": 401280,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/2LV41Ak7cWNsFXVDELb2AE"
     },
     {
       "added_at": "2022-06-08 15:56:16",
@@ -1555,22 +1647,6 @@
       "duration_ms": 434963,
       "name": "Flux Deluxe",
       "url": "https://open.spotify.com/track/0yYxcuAue5deZEgcr1Vw7x"
-    },
-    {
-      "added_at": "2022-06-08 15:56:16",
-      "album": {
-        "name": "Hedonistic Tendancies Pt. 2",
-        "url": "https://open.spotify.com/album/5lspP1H8g61FntKYJ44LsV"
-      },
-      "artists": [
-        {
-          "name": "Kiwi",
-          "url": "https://open.spotify.com/artist/5B9vWdtlNqK2UKM6MdE0WN"
-        }
-      ],
-      "duration_ms": 402074,
-      "name": "More Raves",
-      "url": "https://open.spotify.com/track/4en6WEcMAsjbEXEHrTxX6I"
     },
     {
       "added_at": "2022-06-08 15:56:16",

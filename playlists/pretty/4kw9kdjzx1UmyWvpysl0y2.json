@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128522,
+  "num_followers": 128523,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU1Miw1ZDQyMDEzNjY2ZWJiNDhjMjYzMzE2ZmE2YmZhMDM5NzU3ZGZmOGJk",
+  "snapshot_id": "MzU1NCw4N2Y3YWZmYzg4ZWIwOTk0ZTM1NTY2Y2EyYmZiYWVkNDA3NDIyYjhk",
   "tracks": [
+    {
+      "added_at": "2022-08-03 16:23:05",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        },
+        {
+          "name": "Banaati",
+          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
+        }
+      ],
+      "duration_ms": 196625,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/5sYFhAc4iVN7qEXgEK0Bhf"
+    },
     {
       "added_at": "2022-08-02 17:31:19",
       "album": {
@@ -1111,22 +1131,6 @@
       "duration_ms": 150742,
       "name": "Rays",
       "url": "https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG"
-    },
-    {
-      "added_at": "2022-05-24 16:30:39",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/7CPCLln80ae2SZtBWWsCqn"
-      },
-      "artists": [
-        {
-          "name": "Leah Culver",
-          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/0PnypUaIbVQJNTUI7uAu7l"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Lamb of God
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,409 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,570 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 26 | [Flight from Destruction](https://open.spotify.com/track/1kUK56tApcfH86bweyDFNv) | [Dragonland](https://open.spotify.com/artist/5qwH9gKvchSfuv8V6pBU71) | [Flight from Destruction](https://open.spotify.com/album/08Yi7UE0R27yvnxyPTCPLw) | 4:35 |
 | 27 | [Age of Censorship](https://open.spotify.com/track/6infMeFCJ9idHWdoa0a1MB) | [Pagefire](https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF) | [Age of Censorship](https://open.spotify.com/album/6UyYZbNNXAob2uSorhZDV5) | 2:41 |
 | 28 | [Restless](https://open.spotify.com/track/5zjhWHGdukDg2mbYa9qeqM) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Restless](https://open.spotify.com/album/5DPlwpHfUCiZ0D7Tf00xum) | 1:58 |
-| 29 | [NADA](https://open.spotify.com/track/3Hci2iLarYEtZxuQBfIgyZ) | [DEATHSTARE](https://open.spotify.com/artist/1Dr4YjNKFhztnwAIG5iPzC), [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [NADA](https://open.spotify.com/album/3YRtscvxhy9ypjoZ1i4U2s) | 2:17 |
+| 29 | [NADA](https://open.spotify.com/track/3Hci2iLarYEtZxuQBfIgyZ) | [DEATHSTARE](https://open.spotify.com/artist/1Dr4YjNKFhztnwAIG5iPzC), [screwyounick](https://open.spotify.com/artist/5lDCPxWrmmxRuTpHdHT25a), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [NADA](https://open.spotify.com/album/3YRtscvxhy9ypjoZ1i4U2s) | 2:17 |
 | 30 | [Bloodbather \(feat\. Matthias Tarnath\)](https://open.spotify.com/track/4bYlbGQYrBG4nxGOuhThpz) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2), [Matthias Tarnath](https://open.spotify.com/artist/6ZPEUnjIiJ1QioOnUGDCya) | [Bloodbather \(feat\. Matthias Tarnath\)](https://open.spotify.com/album/2oDXy1YY7mFgsHZiMv1mes) | 4:04 |
 | 31 | [Violent Ends](https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Violent Ends](https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg) | 2:41 |
 | 32 | [War Blood Hammer](https://open.spotify.com/track/0Etrk3mvodJ3pcM2KvMDNP) | [Krisiun](https://open.spotify.com/artist/3pzAW9xs16rX8fukH8wV6N) | [Mortem Solis](https://open.spotify.com/album/5lQW7kHR5FlOWlrkfkbPLs) | 4:07 |

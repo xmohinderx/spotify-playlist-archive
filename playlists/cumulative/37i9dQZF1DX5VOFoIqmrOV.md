@@ -2,7 +2,7 @@
 
 ### [Tollywood Pearls](https://open.spotify.com/playlist/37i9dQZF1DX5VOFoIqmrOV)
 
-> The finest set of Telugu music from the past 5 years\. <br/>Cover : Pushpa
+> The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
 143 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/715jXIfJUzT2AiTQl5FY7n)
 
@@ -110,7 +110,7 @@
 | [Okey Oka Lokam](https://open.spotify.com/track/0CHCU726JnK7AIdbqrzN9Y) | [Arun Chiluveru](https://open.spotify.com/artist/5V2HiLnG5lasODb0y5iwVf), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sashi](https://open.spotify.com/album/2Tt1DJbkA80r9q79P6M2BJ) | 3:28 | 2021-12-16 | 2022-07-25 |
 | [OMG Daddy](https://open.spotify.com/track/1WBA3KunNN2GGpHghfwnNE) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Lady Kash](https://open.spotify.com/artist/2a1ts2wPvq6Vif1x7KJV7a), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:48 | 2021-12-16 | 2022-07-25 |
 | [Oo Aadapilla](https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Ananta Sriram](https://open.spotify.com/artist/0yzw4DhGyaUCd87BFCPjel) | [Ashoka Vanamlo Arjuna Kalyanam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pocDFnAWVLjSwp7biK2Le) | 4:57 | 2022-07-24 |  |
-| [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2021-12-16 | 2022-07-25 |
+| [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2021-12-16 |  |
 | [Padi Padi Leche](https://open.spotify.com/track/7tXaDnRF8OVbcecl0KurVn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Padi Padi Leche Manasu](https://open.spotify.com/album/5yaWNdlJB8FoxwbngILePz) | 3:23 | 2021-12-16 | 2022-07-25 |
 | [Peniviti](https://open.spotify.com/track/1YA5XoTcKyrpQ6cW6XsAfB) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 5:10 | 2021-12-16 | 2022-07-24 |
 | [Penny](https://open.spotify.com/track/43MaYmeXYuEH4mpuaGH0uC) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Penny \- Sarkaru Vaari Paata](https://open.spotify.com/album/61c0b8wBHLNjw1lLUXMMy9) | 4:39 | 2022-03-20 | 2022-07-25 |

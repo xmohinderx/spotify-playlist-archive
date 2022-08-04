@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,320 likes - 97 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,707 likes - 109 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,6 +104,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 94 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 |
 | 95 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 |
 | 96 | [Mil Sonidos](https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [Mil Sonidos](https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe) | 3:12 |
-| 97 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 |
+| 97 | [Look At The Stars](https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH) | [The Purple Stripe](https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A) | [Look At The Stars](https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR) | 3:36 |
+| 98 | [both sides of the coin](https://open.spotify.com/track/1chT7Yo3zSvjFPRQ20fWFH) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [crestline](https://open.spotify.com/album/0uQHf0jM3WV0yLSoS9x2tj) | 2:51 |
+| 99 | [Hypnagogia Well](https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Hypnagogia Well](https://open.spotify.com/album/5QULT8EPM4qXnA8hAQmbJL) | 3:42 |
+| 100 | [Waiting for the Sunrise](https://open.spotify.com/track/7wH5Ck2MRPWwwunLeMjg9f) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [Waiting for the Sunrise](https://open.spotify.com/album/4tE7BUhKkN8i5Bp4FQGGtB) | 2:54 |
+| 101 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 |
+| 102 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 |
+| 103 | [Collapse Into Light](https://open.spotify.com/track/3jP962JoLAn9p4wCDdx4My) | [Evin Iris](https://open.spotify.com/artist/0H11IrXWhpptE27M8Xll9w) | [Collapse Into Light](https://open.spotify.com/album/0rUgWKzUwGMo0XAHN6R2eY) | 2:59 |
+| 104 | [two](https://open.spotify.com/track/39xRHgkRG13GJYOw8sOaQJ) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [alternative universe](https://open.spotify.com/album/5fC4bXk6Eo7PNikqtqU53T) | 3:08 |
+| 105 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 |
+| 106 | [Anagram](https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Anagram](https://open.spotify.com/album/3EMafNmPdqTVmiESnJAwOp) | 2:28 |
+| 107 | [deep wild](https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [deep wild](https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh) | 2:32 |
+| 108 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 |
+| 109 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 |
 
-Snapshot ID: `MTY1ODcyODY0MSwwMDAwMDAwMDBhZGMzNmEzYzRhMWYyMTZiOTg4ZjJmMzM2ZjZhODg5`
+Snapshot ID: `MTY1OTUzNTcyMywwMDAwMDAwMDY3ZWU5NzZhYmNmMjdkYWVjNzZjMzZhZTQwMDUxMWNm`

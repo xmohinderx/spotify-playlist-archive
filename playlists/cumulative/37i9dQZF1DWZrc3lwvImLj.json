@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Berceuse Lunaire",
+        "url": "https://open.spotify.com/album/0oe2Iw47umB4rnfgeiAhrB"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Aio",
+          "url": "https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "Berceuse Lunaire",
+      "url": "https://open.spotify.com/track/0u7orD5v4Yrw6NwaWdBh5Q"
+    },
+    {
+      "album": {
         "name": "Beyond Imagination",
         "url": "https://open.spotify.com/album/0se06XbSZrjmsMLnuSFnrt"
       },
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 172322,
       "name": "Cadeques",
       "url": "https://open.spotify.com/track/4Be9pGAhN2aR1PTefJJX51"
@@ -656,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Dear Mom",
+        "url": "https://open.spotify.com/album/1J4qdT4JnTedrMlTgxRoGm"
+      },
+      "artists": [
+        {
+          "name": "Silke B\u00f6hm",
+          "url": "https://open.spotify.com/artist/0Cl19kEnD1Zk5sVsrkaaM8"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160404,
+      "name": "Dear Mom",
+      "url": "https://open.spotify.com/track/64OnVK4dInm0TVFzFPxCVV"
+    },
+    {
+      "album": {
         "name": "Deepest Woods",
         "url": "https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe"
       },
@@ -671,6 +707,24 @@
       "duration_ms": 169250,
       "name": "Deepest woods",
       "url": "https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7"
+    },
+    {
+      "album": {
+        "name": "midnight dreams & diamond star",
+        "url": "https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF"
+      },
+      "artists": [
+        {
+          "name": "our distant worlds",
+          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160250,
+      "name": "diamond star",
+      "url": "https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh"
     },
     {
       "album": {
@@ -962,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Expansion",
+        "url": "https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU"
+      },
+      "artists": [
+        {
+          "name": "Amalgamare",
+          "url": "https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152787,
+      "name": "Expansion",
+      "url": "https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE"
       },
@@ -1088,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "Fuji - Futatabi",
+        "url": "https://open.spotify.com/album/3YPpT1A5QFruYfcabFLMxU"
+      },
+      "artists": [
+        {
+          "name": "Magn\u00f9s Cour",
+          "url": "https://open.spotify.com/artist/21qSsfOHPvjfaQLFcEMjqS"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189685,
+      "name": "Fuji - Futatabi",
+      "url": "https://open.spotify.com/track/2tVRVbSH9OhRhS88cGS4iG"
+    },
+    {
+      "album": {
         "name": "Funiculaire",
         "url": "https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i"
       },
@@ -1157,6 +1247,24 @@
       "duration_ms": 237092,
       "name": "Home",
       "url": "https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T"
+    },
+    {
+      "album": {
+        "name": "Hvile",
+        "url": "https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV"
+      },
+      "artists": [
+        {
+          "name": "Frode Gjermundsen",
+          "url": "https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151989,
+      "name": "Hvile",
+      "url": "https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64"
     },
     {
       "album": {
@@ -2140,6 +2248,24 @@
     },
     {
       "album": {
+        "name": "Num\u00e9ro 11",
+        "url": "https://open.spotify.com/album/1TRmbAEVPLZNn1aNW0YdKh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8sefine",
+          "url": "https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168625,
+      "name": "Num\u00e9ro 11",
+      "url": "https://open.spotify.com/track/1esrhRyrNWhIn2OcB48AzP"
+    },
+    {
+      "album": {
         "name": "Ocean Heart",
         "url": "https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL"
       },
@@ -2227,6 +2353,24 @@
       "duration_ms": 214624,
       "name": "Once I saw the northern lights",
       "url": "https://open.spotify.com/track/5F0xQGBmdcmcm3bpvHNIt9"
+    },
+    {
+      "album": {
+        "name": "one way",
+        "url": "https://open.spotify.com/album/1e4qJMNCZwSH001bUM0kuz"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164572,
+      "name": "one way",
+      "url": "https://open.spotify.com/track/4W2432JBzc5yujNBQOinng"
     },
     {
       "album": {
@@ -2411,6 +2555,24 @@
     {
       "album": {
         "name": "Reflections",
+        "url": "https://open.spotify.com/album/3gJ78a3igJbhbBCE5uXeYG"
+      },
+      "artists": [
+        {
+          "name": "Illari Palben",
+          "url": "https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156150,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/52GgYnigt5XKncqm9sEjHw"
+    },
+    {
+      "album": {
+        "name": "Reflections",
         "url": "https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI"
       },
       "artists": [
@@ -2536,6 +2698,24 @@
     },
     {
       "album": {
+        "name": "Salamander",
+        "url": "https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn"
+      },
+      "artists": [
+        {
+          "name": "Ennis Elder",
+          "url": "https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185620,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl"
+    },
+    {
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/2P0LRL1vg6759KzEwnlP9U"
       },
@@ -2623,6 +2803,24 @@
       "duration_ms": 178000,
       "name": "Silentness",
       "url": "https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu"
+    },
+    {
+      "album": {
+        "name": "Singularities",
+        "url": "https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9"
+      },
+      "artists": [
+        {
+          "name": "Constance Lucas",
+          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149377,
+      "name": "Singularities",
+      "url": "https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi"
     },
     {
       "album": {
@@ -2943,7 +3141,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1u1aXnuFIFr5rm3Z1h7NWK"
@@ -3225,7 +3423,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 202232,
       "name": "Time of the Season",
       "url": "https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z"

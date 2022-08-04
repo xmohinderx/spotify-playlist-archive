@@ -4,12 +4,13 @@
 
 > Los más pesados y polémicos del Regional Mexicano\. Los Tigres del Norte en portada.
 
-59 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/1CrwH8POYCHyYSONehJDrB)
+60 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/1CrwH8POYCHyYSONehJDrB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Catarino y los Rurales](https://open.spotify.com/track/0J4FqWQvnEP4a9msECu8ZA) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [24 Exitazos Serie Lindisima](https://open.spotify.com/album/49Zi6kGRaeHIBdEmtllEVD) | 2:55 | 2021-10-15 |  |
+| [Catarino y los Rurales](https://open.spotify.com/track/0J4FqWQvnEP4a9msECu8ZA) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [24 Exitazos Serie Lindisima](https://open.spotify.com/album/49Zi6kGRaeHIBdEmtllEVD) | 2:55 | 2021-10-15 | 2022-08-04 |
 | [Catarino Y Los Rurales](https://open.spotify.com/track/0xLOfZEzRtkzy1ADdZ2m3W) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Ramalazo](https://open.spotify.com/album/15qK1WoL0Rh066I1PJnVLy) | 2:55 | 2021-10-15 | 2022-07-29 |
+| [Catarino y Los Rurales](https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Ramalazo](https://open.spotify.com/album/1kllifC08UwQ9d0ZoI3gh4) | 2:55 | 2021-10-15 |  |
 | [Chevrolet Cuatro por Cuatro](https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS) | [Los Dos Grandes De La Sierra](https://open.spotify.com/artist/58EWXwU9oVr0Iwuh4rF6on) | [Chevrolet 4 X 4](https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6) | 3:07 | 2021-10-15 |  |
 | [Chingon De Chingones](https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Quince Madrazos Con Sus Compas](https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2) | 3:29 | 2021-10-15 |  |
 | [Clave Privada](https://open.spotify.com/track/4m5hcZXjgM3iL1tWNCWaer) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras, Vol\. 2](https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73) | 2:58 | 2021-10-15 |  |

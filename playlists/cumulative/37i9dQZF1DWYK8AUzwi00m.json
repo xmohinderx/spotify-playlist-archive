@@ -2035,10 +2035,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 176500,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2016",
+        "url": "https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8"
     },
     {
       "album": {
@@ -2339,7 +2357,7 @@
     {
       "album": {
         "name": "Chillhop Essentials Winter 2016",
-        "url": "https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853"
+        "url": "https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ"
       },
       "artists": [
         {
@@ -2350,6 +2368,24 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 126271,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/34qYvf7M6RXRzQF5HMJB38"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2016",
+        "url": "https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853"
+      },
+      "artists": [
+        {
+          "name": "Limes",
+          "url": "https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
       "duration_ms": 126271,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/6nlmgDXzsQ0snHKYPOy6WH"

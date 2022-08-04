@@ -4,7 +4,7 @@
 
 > baby all i wanna do is coast cover: Hailee Steinfeld
 
-1,206 songs - 2 day 14 hr 31 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,207 songs - 2 day 14 hr 34 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,7 @@
 | [Let's Go](https://open.spotify.com/track/05J6B8Mei5yhX84mrUDa7U) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Let's Go](https://open.spotify.com/album/3AsiOVv4RrFwgSXFch8wP9) | 2:22 | 2021-12-24 | 2022-03-26 |
 | [Let's Go Out](https://open.spotify.com/track/4o7IJJZdZG9blmt9Czt1lI) | [Berly](https://open.spotify.com/artist/6U9EnTzy0ihpx4mgs9mfud) | [Let's Go Out](https://open.spotify.com/album/2BJnr6QdGtXYV36KhoKrgg) | 3:07 | 2020-04-21 | 2020-09-25 |
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2021-11-05 |  |
-| [let's run away](https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [let's run away](https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk) | 3:25 | 2022-07-08 |  |
+| [let's run away](https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [let's run away](https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk) | 3:25 | 2022-07-08 | 2022-08-04 |
 | [Leta](https://open.spotify.com/track/0XdYJ2mMOTRV2s7Y555Hw2) | [Intelligency](https://open.spotify.com/artist/6DdgtZYlUGNzjqkdCqvmfB) | [Leta](https://open.spotify.com/album/4mvdViANsdmhvbvHYmpunp) | 3:58 | 2021-05-03 | 2021-05-28 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-03-25 | 2022-04-20 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-03-18 | 2022-04-21 |
@@ -1041,6 +1041,7 @@
 | [Superstar](https://open.spotify.com/track/3c46fXVjVArsPheex1R7AI) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J), [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [Superstar](https://open.spotify.com/album/7EWhJMY64EezShQPMD2zf4) | 2:57 | 2021-09-19 | 2021-11-19 |
 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 | 2022-03-11 | 2022-06-25 |
 | [survival of the littest](https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:12 | 2022-05-20 | 2022-07-29 |
+| [Sweat](https://open.spotify.com/track/0TzXhuxOpmvIa68QykPqIV) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Sweat](https://open.spotify.com/album/1lgihc94VjHPpUEIS9S7gp) | 3:03 | 2022-07-29 |  |
 | [Sweet Tooth Baby](https://open.spotify.com/track/7h9GhjA4crhzz4z0Qk9h2Q) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA), [YOREN!](https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW) | [Sweet Tooth Baby](https://open.spotify.com/album/3EHocdF9UkeXjlEEGCrdCx) | 3:20 | 2020-09-30 | 2021-01-15 |
 | [Swimming Pools](https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Swimming Pools](https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff) | 2:38 | 2022-06-24 |  |
 | [Swing Swing](https://open.spotify.com/track/0VWRbuEicramx9Hp2iWCTC) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Swing Swing](https://open.spotify.com/album/1kImx6P9OYh8lob0po00jJ) | 3:11 | 2019-05-26\* | 2019-08-13 |

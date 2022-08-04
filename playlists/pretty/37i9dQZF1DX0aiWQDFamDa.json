@@ -1,12 +1,12 @@
 {
   "description": "Sad instrumental and vocal jazz.",
-  "num_followers": 5782,
+  "num_followers": 5852,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ5MTI5NCwwMDAwMDAwMDljODZhYWI5ZWRhMzJhMzlmMTZiODBmZWY2YzgzNzlh",
+  "snapshot_id": "MTY1NjQ5MTI5NCwwMDAwMDAwMDczMWViZWUyNjhlZDZiNGQ3MWQzMDBkNDYwNTc4OTc2",
   "tracks": [
     {
       "added_at": "2022-06-29 08:28:14",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 245086,
-      "name": "Is There a Way",
-      "url": "https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP"
-    },
-    {
-      "added_at": "2022-06-29 08:28:14",
-      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 197173,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
+    },
+    {
+      "added_at": "2022-06-29 08:28:14",
+      "album": {
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 245086,
+      "name": "Is There a Way",
+      "url": "https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP"
     },
     {
       "added_at": "2022-06-29 08:28:14",
@@ -731,22 +731,18 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
         }
       ],
-      "duration_ms": 179866,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y"
+      "duration_ms": 241666,
+      "name": "I Thought About You",
+      "url": "https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs"
     },
     {
       "added_at": "2022-06-29 08:28:14",
@@ -775,18 +771,22 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
       "artists": [
         {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        },
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
         }
       ],
-      "duration_ms": 241666,
-      "name": "I Thought About You",
-      "url": "https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs"
+      "duration_ms": 179866,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y"
     },
     {
       "added_at": "2022-06-29 08:28:14",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
+        "name": "Jazz Flute Traditions",
+        "url": "https://open.spotify.com/album/4DqJWhHolufk0kDOzbIsQs"
+      },
+      "artists": [
+        {
+          "name": "Nestor Torres",
+          "url": "https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk"
+        }
+      ],
+      "duration_ms": 505031,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/1CML9iOr9Ht5LfYLYpra1A"
+    },
+    {
+      "added_at": "2022-06-29 08:28:14",
+      "album": {
         "name": "Some Love Songs",
         "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
-        "name": "Jazz Flute Traditions",
-        "url": "https://open.spotify.com/album/4DqJWhHolufk0kDOzbIsQs"
-      },
-      "artists": [
-        {
-          "name": "Nestor Torres",
-          "url": "https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk"
-        }
-      ],
-      "duration_ms": 505031,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/1CML9iOr9Ht5LfYLYpra1A"
-    },
-    {
-      "added_at": "2022-06-29 08:28:14",
-      "album": {
         "name": "In My Solitude: Billie Sings Ballads",
         "url": "https://open.spotify.com/album/6VGj5HLqvQSJetlleNjCly"
       },
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+        "name": "Waltz For Debby",
+        "url": "https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+      "duration_ms": 183733,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1QnLbfLk02EXAJ01pTUsvs"
     },
     {
       "added_at": "2022-06-29 08:28:14",
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
-        "name": "Waltz For Debby",
-        "url": "https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Once Upon A Summertime",
-      "url": "https://open.spotify.com/track/1QnLbfLk02EXAJ01pTUsvs"
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2022-06-29 08:28:14",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 330173,
-      "name": "Maybe You'll Be There",
-      "url": "https://open.spotify.com/track/3CtayjiEM7bB0XMAtlLCsS"
-    },
-    {
-      "added_at": "2022-06-29 08:28:14",
-      "album": {
         "name": "Familiar Places",
         "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+    },
+    {
+      "added_at": "2022-06-29 08:28:14",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 330173,
+      "name": "Maybe You'll Be There",
+      "url": "https://open.spotify.com/track/3CtayjiEM7bB0XMAtlLCsS"
     },
     {
       "added_at": "2022-06-29 08:28:14",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2022-06-29 08:28:14",
       "album": {
-        "name": "Bluebeard",
-        "url": "https://open.spotify.com/album/7bcJhX13orgLxahPE038Gi"
-      },
-      "artists": [
-        {
-          "name": "Yuri Honing Acoustic Quartet",
-          "url": "https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN"
-        }
-      ],
-      "duration_ms": 301480,
-      "name": "The Art of Losing Isn't Hard to Master",
-      "url": "https://open.spotify.com/track/5VHKQiMstyF28VfcN18whs"
-    },
-    {
-      "added_at": "2022-06-29 08:28:14",
-      "album": {
         "name": "The Boy Next Door (Special Edition)",
         "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 208546,
       "name": "I Get Along Without You Very Well",
       "url": "https://open.spotify.com/track/2Cn7yli998K5DNaXOlgs6i"
+    },
+    {
+      "added_at": "2022-06-29 08:28:14",
+      "album": {
+        "name": "Bluebeard",
+        "url": "https://open.spotify.com/album/7bcJhX13orgLxahPE038Gi"
+      },
+      "artists": [
+        {
+          "name": "Yuri Honing Acoustic Quartet",
+          "url": "https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN"
+        }
+      ],
+      "duration_ms": 301480,
+      "name": "The Art of Losing Isn't Hard to Master",
+      "url": "https://open.spotify.com/track/5VHKQiMstyF28VfcN18whs"
     },
     {
       "added_at": "2022-06-29 08:28:14",

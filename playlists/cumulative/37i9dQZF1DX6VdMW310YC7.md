@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,279 songs - 3 day 16 hr 51 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,280 songs - 3 day 16 hr 54 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [Emerald Rush \- Solomun Remix \(Edit\)](https://open.spotify.com/track/7Jt7EwMBOOUKG2eUSXyQaX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Emerald Rush \(Solomun Remix\)](https://open.spotify.com/album/1aNHNh5fDmMtpRWc6j4QXi) | 3:41 | 2020-02-29\* | 2020-03-16 |
 | [Emily](https://open.spotify.com/track/3VY42CX63Kshy77EbM6Zrr) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Emily](https://open.spotify.com/album/3df1BIiTr2gxRch1Et9LaB) | 3:51 | 2020-03-17 | 2022-04-19 |
 | [Empire](https://open.spotify.com/track/1ywIrbGuUkwHADbRcgTHZI) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Empire](https://open.spotify.com/album/1H2dCA0ubfJW3K35f17QCy) | 4:16 | 2021-11-12 | 2022-05-07 |
-| [Empty Promise](https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Empty Promise](https://open.spotify.com/album/7c1vkq6VrXtK7gdUOPy5ch) | 3:51 | 2022-04-01 |  |
+| [Empty Promise](https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Empty Promise](https://open.spotify.com/album/7c1vkq6VrXtK7gdUOPy5ch) | 3:51 | 2022-04-01 | 2022-08-04 |
 | [Endless](https://open.spotify.com/track/0EnCOAi1Nx7yJwlQpUoha1) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:47 | 2020-04-13 | 2022-03-05 |
 | [Endless Endeavor](https://open.spotify.com/track/6No1iyh21ROzdBkxGWqhmQ) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [RIPPLS](https://open.spotify.com/album/3L7pWKpDt0YFxACcY0CbLR) | 2:55 | 2020-03-25 | 2022-04-18 |
 | [Enough](https://open.spotify.com/track/0o4fUGy8EitPtnQZ2Wp1jy) | [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Enough](https://open.spotify.com/album/6Na2NRtCRObMaG7Qa4S54Q) | 3:21 | 2020-05-18 | 2020-07-18 |
@@ -966,6 +966,7 @@
 | [Sentir](https://open.spotify.com/track/5xb2vxUeGJ7Yeclvfaq1O8) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/3CqVFoJ77PdxzkiXxm8gjG) | 2:20 | 2021-11-12 | 2022-07-28 |
 | [September Everywhere](https://open.spotify.com/track/6TkKnUX4Cb2VoGOS4b4sZk) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Indigo EP](https://open.spotify.com/album/1Q9c6iGrzaPX9IFn57UbYD) | 4:43 | 2022-01-21 | 2022-07-29 |
 | [Settle](https://open.spotify.com/track/5kVRGfWiIOcJwxIjLjesuM) | [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Settle](https://open.spotify.com/album/5PsQzh0gLIPqgM3GK3DV42) | 4:12 | 2020-11-17 |  |
+| [Seven Letters](https://open.spotify.com/track/2yy2Ya5RSyrE7vs2qsVsMG) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Seven Letters](https://open.spotify.com/album/4gHDvzDB9HgU4EuhH8qCVv) | 2:45 | 2022-07-29 |  |
 | [Sever the Ties \(feat\. Esther Sparkes\)](https://open.spotify.com/track/0crMum0BzSBoGK9lxXx26b) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Esther Sparkes](https://open.spotify.com/artist/5KyW31NaWHwLPbk1gaAHUr) | [Sever the Ties \(feat\. Esther Sparkes\)](https://open.spotify.com/album/6UMHHjx3UgmaJ5EFA5DFSS) | 3:29 | 2020-05-22 | 2020-07-03 |
 | [Sexual Healing \- Kygo Remix](https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Sexual Healing \(Kygo Remix\)](https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5) | 6:08 | 2020-05-22 | 2020-07-03 |
 | [Shadow \(Maceo Plex Remix\)](https://open.spotify.com/track/5BAJDNTutBFJL27pKunac1) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow \(Remixes\)](https://open.spotify.com/album/0UN2MKtYHmSYDOXTgWls4q) | 4:58 | 2021-03-06 | 2021-03-10 |

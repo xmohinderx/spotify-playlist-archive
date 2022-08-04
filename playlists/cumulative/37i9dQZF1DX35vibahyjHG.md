@@ -4,7 +4,7 @@
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh?si=F4YJgKgiS8O1SxFpTB873g"> Sio </a>
 
-139 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
+140 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Mbeni](https://open.spotify.com/track/4GoHJShWNMbRoCmG2hn23w) | [Coco Em](https://open.spotify.com/artist/3FahF8OhHNaw7OJRfEPy9x), [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [Kilumi](https://open.spotify.com/album/4medk5UXHb4cLGZnQmRkoF) | 3:26 | 2022-05-04 | 2022-07-06 |
 | [Milele](https://open.spotify.com/track/0y2qVXYOckABR6ZJT5QiYs) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Milele](https://open.spotify.com/album/1l6eZ2RICsffC8CKNJbuWn) | 3:24 | 2021-10-15 | 2022-03-08 |
 | [Mine](https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa), [TAIO](https://open.spotify.com/artist/6WuZ1saWkFrczv6G1inkOp) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:55 | 2022-03-08 | 2022-08-03 |
-| [Miniskirt](https://open.spotify.com/track/5W2JnzMTTGEIpXDzP0EcPe) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Miniskirt](https://open.spotify.com/album/5BzGiOWRTSHoSseuc4yWxs) | 2:45 | 2022-03-08 |  |
+| [Miniskirt](https://open.spotify.com/track/1xzb7fv8KZpqPnniAOOjG9) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Miniskirt](https://open.spotify.com/album/7hxbgm40CDChTGr1SyVuq6) | 2:45 | 2022-03-08 |  |
+| [Miniskirt](https://open.spotify.com/track/5W2JnzMTTGEIpXDzP0EcPe) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Miniskirt](https://open.spotify.com/album/5BzGiOWRTSHoSseuc4yWxs) | 2:45 | 2022-03-08 | 2022-08-04 |
 | [Money Bag](https://open.spotify.com/track/7zNxJelOT54ax0bLw21qDJ) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Money Bag](https://open.spotify.com/album/1DljXwHBRFBGAnKqJKOt3D) | 2:36 | 2021-10-15 | 2022-08-03 |
 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 | 2021-10-15 |  |
 | [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 | 2021-12-01 | 2022-06-01 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,985 likes - 116 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,101 likes - 116 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sabor a Mí](https://open.spotify.com/track/4nQcTeraFLNBq0oMrNBG7i) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Sabor a Mí](https://open.spotify.com/album/3hqWgSWTjXhcFHgAAAP6Mg) | 1:52 |
-| 2 | [Dos Semanas](https://open.spotify.com/track/5xBLH2lm5TFylXBOuJwnDm) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/7wGfMMfZy4TROCO1KtgSkd) | 2:27 |
+| 2 | [Dos Semanas](https://open.spotify.com/track/0DLJOEDh4Xdi7tlRXJCh0r) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Dos Semanas](https://open.spotify.com/album/6j0fxPpJFCs4Bj9ua6SEQg) | 2:27 |
 | 3 | [Poemas](https://open.spotify.com/track/5HAGuQKDFNwzBb9DrlhcZi) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Poemas](https://open.spotify.com/album/14LzDSYYy3zINHJ2MCh3Kh) | 2:07 |
 | 4 | [Vitoya](https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Vitoya](https://open.spotify.com/album/32r0Ctv0IjNJf1W7sNLk0t) | 3:31 |
 | 5 | [Rêvant de qui nous étions](https://open.spotify.com/track/6eC8cmEgLmoNEL9MkLZYDr) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Rêvant de qui nous étions](https://open.spotify.com/album/6rCxZZio0rQLHSWoJ5NJp7) | 2:30 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 84 | [The End Of A Love Affair](https://open.spotify.com/track/7cSsTfPAectKHrHZD3zsn0) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [The End Of A Love Affair](https://open.spotify.com/album/28E3zfSiJxO1mjaaDiU8ih) | 2:41 |
 | 85 | [Bye bye](https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Bye bye](https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV) | 2:41 |
 | 86 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 |
-| 87 | [Delicate Love](https://open.spotify.com/track/6uJFme7KrCugSiNLtv6D5v) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/1WtNJblFHyHS5oo6oqbpHI) | 2:21 |
+| 87 | [Delicate Love](https://open.spotify.com/track/19NC6JIZJJ88CHJBZkF2o2) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/5Ujv5ySO7k7d373Yjx1k6y) | 2:21 |
 | 88 | [Chartres](https://open.spotify.com/track/7qrmODD2bTNoMzqn31vSjE) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Tachibana Bay](https://open.spotify.com/album/6o1qA16sjgZwcFrp819vHx) | 3:41 |
 | 89 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 |
 | 90 | [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 115 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
 | 116 | [Sombra](https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sombra](https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0) | 1:42 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDQ0NmJlM2NjNjdlNmEwMTk4YjJhYjk4YmE0NjgyZDUx`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDE2ZTY0ZTYwMDEzZjFlODlmZTFhNGEwZDQ3OTJhNWJm`

@@ -8492,6 +8492,24 @@
     },
     {
       "album": {
+        "name": "VAKMELEG",
+        "url": "https://open.spotify.com/album/1EMSC0Mx6dukvWdXIuYoV5"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172138,
+      "name": "VAKMELEG",
+      "url": "https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg"
+    },
+    {
+      "album": {
         "name": "Digit\u00e1lis/Anal\u00f3g",
         "url": "https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA"
       },
@@ -9363,7 +9381,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 183686,
       "name": "\u00c1lmatlan est\u00e9k",
       "url": "https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of"

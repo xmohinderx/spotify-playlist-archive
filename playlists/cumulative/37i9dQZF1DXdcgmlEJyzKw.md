@@ -4,7 +4,7 @@
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-67 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
+68 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Classique: Bidule et un](https://open.spotify.com/track/6mnIQOz3XmSQbmf4rwQxkZ) | [Pierre Henry](https://open.spotify.com/artist/5ITPNl5P6R6cFbw4DAcMAY), [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [1st panorama de musique concrete \(Remastered\)](https://open.spotify.com/album/7BIGumADSOqwUPay2wCCZw) | 1:54 | 2022-01-07 |  |
 | [Come Out](https://open.spotify.com/track/1tVAblkpwlHpALeyy0RpzU) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo) | [Early Works](https://open.spotify.com/album/4uIHaNrFxVRek39VQwBHVd) | 12:58 | 2022-01-07 |  |
 | [Concert de bruit: No\. 2, Étude aux chemis de fer "Imposée"](https://open.spotify.com/track/2fvs8D9hWFCdtRBFsaq1dc) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl), [Club d'essai de la Radiodiffusion\-télévision Française](https://open.spotify.com/artist/1YA4zHtk2xQz2CVHYYJEdx) | [Premier panorama de musique concrète \(Mono Version\)](https://open.spotify.com/album/77ANTgiaByXP1i5UxgC0Fm) | 2:50 | 2022-01-07 | 2022-07-29 |
-| [Dies Irae](https://open.spotify.com/track/3ekTbi14cj5gjg1HXj1XFv) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [Requiem](https://open.spotify.com/album/6TcZlksMuA6Zb5nKjCBMrF) | 6:08 | 2022-01-07 |  |
+| [Dies Irae](https://open.spotify.com/track/3ekTbi14cj5gjg1HXj1XFv) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [Requiem](https://open.spotify.com/album/6TcZlksMuA6Zb5nKjCBMrF) | 6:08 | 2022-01-07 | 2022-08-04 |
 | [Doppelrohr II](https://open.spotify.com/track/50o8R42HqFNbxpF83dIIGu) | [Bengt Hambræus](https://open.spotify.com/artist/5SihRtRJCRsSDEdOIm8bXP) | [Electro\-Acoustic Music from Sweden](https://open.spotify.com/album/4biPA5OR52QkgyCtvgsr0s) | 4:01 | 2022-01-07 |  |
 | [Dripsody](https://open.spotify.com/track/1NtVJ0TksmWA229RJDUncD) | [Hugh Le Caine](https://open.spotify.com/artist/5kJwg8VhJgK5UGXDh9Zw4K) | [Introduction To Canadian Music](https://open.spotify.com/album/6GEUVoj81Mtud9smdG5JNc) | 2:03 | 2022-01-07 |  |
 | [Eclats de voix](https://open.spotify.com/track/5llYBDvEsysCoto0hZQUBv) | [Robert Normandeau](https://open.spotify.com/artist/4mmZpFXE6WSLSPRJcKdpAp) | [Tangram](https://open.spotify.com/album/3gxulcCKgsxSjlctDhObRB) | 3:05 | 2022-01-07 |  |
@@ -59,6 +59,7 @@
 | [Piece \#1](https://open.spotify.com/track/01fu0lEF6cNRFRwoum0uTK) | [Tod Dockstader](https://open.spotify.com/artist/3I573obp4ckH9yt4EYEA6e) | [Eight Electronic Pieces](https://open.spotify.com/album/5cEeSuLl2QxwCqWZBX2bHq) | 2:00 | 2022-01-07 |  |
 | [Postlude from Music for a Sacred Service](https://open.spotify.com/track/145BSsZ7UiS66DQP3paXqY) | [Bülent Arel](https://open.spotify.com/artist/4KnXMlHb6c0xiwsmFMv1Pw) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 4:01 | 2022-01-07 |  |
 | [Poème Electronique](https://open.spotify.com/track/6gdOMWMd4WKHU03vfmxkIp) | [Edgard Varèse](https://open.spotify.com/artist/0enRaCZSvIUa2nVC7I4roi) | [Varèse: The Complete Works](https://open.spotify.com/album/1GVXkLXndn3JMWi9bftSZF) | 8:02 | 2022-01-07 |  |
+| [Requiem: Dies Irae](https://open.spotify.com/track/2rNcTGZDoTyph4Pr6tQnrO) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [An Anthology Of Noise And Electronic Music Vol.3 \(Third\-A\-Chronology\)](https://open.spotify.com/album/45EWD3WMf5gZY833sDJbos) | 6:00 | 2022-01-07 |  |
 | [Revolution 9 \- Remastered 2009](https://open.spotify.com/track/5dZ8PeKKZJLIQAWNTdp8WX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 8:22 | 2022-01-07 |  |
 | [Science & Industry](https://open.spotify.com/track/5k7TXJ6IwxCiqU5z0V6laU) | [Phil Young](https://open.spotify.com/artist/3jbkcQVR0WH0APuO1Gd4Ly) | [Roots of Electronica Vol\. 2, European Avant\-Garde, Noise and Experimental Music](https://open.spotify.com/album/5296k3euZM2KzXQsTPNkqN) | 0:28 | 2022-01-07 |  |
 | [Science & Industry](https://open.spotify.com/track/5pAZhawFE5XMjnSWApssUg) | [Phil Young](https://open.spotify.com/artist/3jbkcQVR0WH0APuO1Gd4Ly) | [Electronycs Vol.4, 20th Century Early Electronic, Noise and Experimental Music\. 1920\-1960](https://open.spotify.com/album/6OAZsSkpQaUeOXzRWDcT3L) | 0:28 | 2022-01-07 | 2022-07-29 |

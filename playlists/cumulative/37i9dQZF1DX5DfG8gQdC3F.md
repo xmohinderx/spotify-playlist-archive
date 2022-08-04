@@ -4,7 +4,7 @@
 
 > All the best new tracks this week, all in one place\. Cover: Beyoncé 🐝
 
-3,116 songs - 6 day 21 hr 50 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+3,117 songs - 6 day 21 hr 52 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1795,7 +1795,8 @@
 | [Monsters and Echoes](https://open.spotify.com/track/29yY0KOZFxCZS6I6dJx5Gm) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Monsters and Echoes](https://open.spotify.com/album/1LDsch1dSd9L8pQoYT9ITJ) | 3:02 | 2022-01-21 | 2022-01-29 |
 | [Moonlight](https://open.spotify.com/track/4zW1QVds6b5wWms1YLg64b) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 3:53 | 2022-06-24 | 2022-07-02 |
 | [Moonlight Show](https://open.spotify.com/track/6WmOqMNxlVpqoguNrzGvWR) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Moonlight Show](https://open.spotify.com/album/3bCjFRmqLnecYOMeQrtHnG) | 3:50 | 2022-04-22 | 2022-04-29 |
-| [Moonshine River](https://open.spotify.com/track/2VmaCHiGuA9JrD4JFfNRQt) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Moonshine River](https://open.spotify.com/album/5mNQ4eQemT92gMvUQiRHo6) | 2:27 | 2022-07-29 |  |
+| [Moonshine River](https://open.spotify.com/track/1xMuxIzt8CmjXTWYZvcNzA) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Moonshine River](https://open.spotify.com/album/46emIKPmmmvWQo0I2aymNq) | 2:27 | 2022-07-29 |  |
+| [Moonshine River](https://open.spotify.com/track/2VmaCHiGuA9JrD4JFfNRQt) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Moonshine River](https://open.spotify.com/album/5mNQ4eQemT92gMvUQiRHo6) | 2:27 | 2022-07-29 | 2022-08-04 |
 | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/album/1RuIdS69hrZ6ToCFOIRjYK) | 3:36 | 2022-04-29 | 2022-05-07 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-01 | 2022-07-09 |
 | [More](https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [More](https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8) | 4:46 | 2022-05-13 | 2022-05-20 |

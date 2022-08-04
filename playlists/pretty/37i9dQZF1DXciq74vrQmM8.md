@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. zand
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,873 likes - 89 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,162 likes - 89 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 88 | [Tongue in cheek](https://open.spotify.com/track/5PEaxIDwsHnncKTlBezBpP) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/3zl3Qtgdt9tMVqiMa7RaK1) | 2:36 |
 | 89 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 |
 
-Snapshot ID: `MTY1OTQ5MDQ4MSwwMDAwMDAwMDg4OWMwN2Q0MTk5MjEyODYxODkxZjc4NWJjN2E4ZGVh`
+Snapshot ID: `MTY1OTA0OTIwMCwwMDAwMDAwMDRlOGVjMzNjNTg3MGQxZDk1ZGYzZDcxOTAxMjg0ZDhh`
