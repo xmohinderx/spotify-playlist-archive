@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,552 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,595 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 38 | [Seventeen Going Under](https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 5:02 |
 | 39 | [Tides](https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:15 |
 | 40 | [parents](https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 2:51 |
-| 41 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
-| 42 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
+| 41 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
+| 42 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
 | 43 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 |
 | 44 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 |
 | 45 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 77 | [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 |
 | 78 | [Roses](https://open.spotify.com/track/3Q8u1ugsmi8ZLq8vVoL6uI) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:01 |
 | 79 | [I'm Not Mad](https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 2:53 |
-| 80 | [Broken In All The Right Places](https://open.spotify.com/track/3iINQZKpmSMY2mkjLtlzYO) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [It's Not You, It's Me](https://open.spotify.com/album/4zsIydG84QRTBlDlXKn8dH) | 2:45 |
+| 80 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 |
 
-Snapshot ID: `MTY1OTM0MjY3MiwwMDAwMDAwMGZmOGJiYTVkZmMxYjI4YWViMDNhZGU1Y2E4ODY5OWY2`
+Snapshot ID: `MTY1OTM0MjY3MiwwMDAwMDAwMDQ4MDBkMDExNTFmNDdkOTYyZjlmNTM1MTZjODMxNmIz`

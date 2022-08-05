@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Cover: Kuremino",
+  "description": "La nuova generazione del rap italiano. Cover: Zefe",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -31,6 +31,28 @@
       "duration_ms": 128250,
       "name": "#WEOWE2",
       "url": "https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h"
+    },
+    {
+      "album": {
+        "name": "17ANNI",
+        "url": "https://open.spotify.com/album/0sORJIrRbMnPOzPnwdtuiJ"
+      },
+      "artists": [
+        {
+          "name": "LA PLATA",
+          "url": "https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ"
+        },
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150674,
+      "name": "17ANNI",
+      "url": "https://open.spotify.com/track/2EjjzbpzMZqhpHuyft3LRc"
     },
     {
       "album": {
@@ -3382,6 +3404,24 @@
     },
     {
       "album": {
+        "name": "SKI",
+        "url": "https://open.spotify.com/album/4fCiOCAlxIZnw8s01FAEul"
+      },
+      "artists": [
+        {
+          "name": "G.Issa",
+          "url": "https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137983,
+      "name": "SKI",
+      "url": "https://open.spotify.com/track/2gAJM0gtcA24UXzKmJJDrn"
+    },
+    {
+      "album": {
         "name": "Speranza e Fame",
         "url": "https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ"
       },
@@ -3401,6 +3441,24 @@
       "duration_ms": 168979,
       "name": "Speranza e Fame",
       "url": "https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th"
+    },
+    {
+      "album": {
+        "name": "Street Fama",
+        "url": "https://open.spotify.com/album/7nRdzbjeBrcvh1PgxcikXA"
+      },
+      "artists": [
+        {
+          "name": "Korbe",
+          "url": "https://open.spotify.com/artist/4UpISNZSBbdGOIXWBwhfL7"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91500,
+      "name": "Street Fama",
+      "url": "https://open.spotify.com/track/6CTYj58wisw6s6AJTbGdrE"
     },
     {
       "album": {

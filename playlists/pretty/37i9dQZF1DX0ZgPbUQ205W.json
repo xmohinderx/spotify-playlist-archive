@@ -1,12 +1,12 @@
 {
   "description": "Calm and relaxing sounds of  jazz to help you unwind.",
-  "num_followers": 56929,
+  "num_followers": 56954,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ5MjMwOCwwMDAwMDAwMDk3ZDA5MjI4MTUzMjRiOThjYmZlYjE1ZGQzMzM2Njdj",
+  "snapshot_id": "MTY1NjQ5MjMwOCwwMDAwMDAwMDFlN2JlYjQzN2UzN2RjZDhmNzRkYzZkMzJlMzk5YzVk",
   "tracks": [
     {
       "added_at": "2022-06-29 08:45:08",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Dream Logic",
-        "url": "https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        }
-      ],
-      "duration_ms": 261320,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/4qj4LfQdDQUgohrOtYHgVD"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "Dream Logic",
+        "url": "https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        }
+      ],
+      "duration_ms": 261320,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -815,38 +815,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Niobe",
-        "url": "https://open.spotify.com/album/46vWorTcjLlFIAYR1ua95i"
-      },
-      "artists": [
-        {
-          "name": "aki",
-          "url": "https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB"
-        }
-      ],
-      "duration_ms": 380465,
-      "name": "Niobe",
-      "url": "https://open.spotify.com/track/1cG3AuFMfDyVCMb5BbYFLo"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Winter's End",
-        "url": "https://open.spotify.com/album/29HLuD88a9SxVZzoYWNBWB"
-      },
-      "artists": [
-        {
-          "name": "Stephan Micus",
-          "url": "https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Walking In Sand",
-      "url": "https://open.spotify.com/track/7rgU8MJnY9aHCgbNo7iYRB"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "Pipe Dreams",
         "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
       },
@@ -867,6 +835,38 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
+        "name": "Winter's End",
+        "url": "https://open.spotify.com/album/29HLuD88a9SxVZzoYWNBWB"
+      },
+      "artists": [
+        {
+          "name": "Stephan Micus",
+          "url": "https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "Walking In Sand",
+      "url": "https://open.spotify.com/track/7rgU8MJnY9aHCgbNo7iYRB"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "Niobe",
+        "url": "https://open.spotify.com/album/46vWorTcjLlFIAYR1ua95i"
+      },
+      "artists": [
+        {
+          "name": "aki",
+          "url": "https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB"
+        }
+      ],
+      "duration_ms": 380465,
+      "name": "Niobe",
+      "url": "https://open.spotify.com/track/1cG3AuFMfDyVCMb5BbYFLo"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
         "name": "A Long Story",
         "url": "https://open.spotify.com/album/4jIyJQ84ajG8EDOZRAd50H"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Space Wales",
-        "url": "https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB"
-      },
-      "artists": [
-        {
-          "name": "Petter Ryl\u00e9n",
-          "url": "https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c"
-        }
-      ],
-      "duration_ms": 264729,
-      "name": "Space Wales",
-      "url": "https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "Absinthe",
         "url": "https://open.spotify.com/album/4HbfKHqxencShWOYNeQFZr"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 133626,
       "name": "La Petite Reine",
       "url": "https://open.spotify.com/track/1iW5dmZ7R7BXF60UvGqO78"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "Space Wales",
+        "url": "https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB"
+      },
+      "artists": [
+        {
+          "name": "Petter Ryl\u00e9n",
+          "url": "https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c"
+        }
+      ],
+      "duration_ms": 264729,
+      "name": "Space Wales",
+      "url": "https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1335,22 +1335,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "\u00c1n tillits",
-        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
+        "name": "Strata",
+        "url": "https://open.spotify.com/album/2xaTBvbW8pWwaGEao3Ajt4"
       },
       "artists": [
         {
-          "name": "Magn\u00fas J\u00f3hann",
-          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
-        },
-        {
           "name": "Sk\u00fali Sverrisson",
           "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 152234,
-      "name": "M\u00f3gr\u00e1",
-      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
+      "duration_ms": 146353,
+      "name": "Sweet Earth",
+      "url": "https://open.spotify.com/track/74zEQOrvwBXDY2omVJrjTL"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Song Dust",
-        "url": "https://open.spotify.com/album/3gjZxipq6EELnrScGPc750"
+        "name": "\u00c1n tillits",
+        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
       },
       "artists": [
         {
-          "name": "Karl Str\u00f8mme",
-          "url": "https://open.spotify.com/artist/5jw4NHPslG7CRCah8PbK7F"
+          "name": "Magn\u00fas J\u00f3hann",
+          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
         }
       ],
-      "duration_ms": 333613,
-      "name": "Song Dust",
-      "url": "https://open.spotify.com/track/6xyDGPD0MeceKsXQ0OcZ8y"
+      "duration_ms": 152234,
+      "name": "M\u00f3gr\u00e1",
+      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1407,22 +1411,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Strata",
-        "url": "https://open.spotify.com/album/2xaTBvbW8pWwaGEao3Ajt4"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
       },
       "artists": [
         {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+          "name": "Anders Hagberg",
+          "url": "https://open.spotify.com/artist/4EHq5kOSsWr0OxdUYA2KoJ"
         },
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Johannes Lundberg",
+          "url": "https://open.spotify.com/artist/4e1gyH3KCIRfVPQ9YVIyEG"
         }
       ],
-      "duration_ms": 146353,
-      "name": "Sweet Earth",
-      "url": "https://open.spotify.com/track/74zEQOrvwBXDY2omVJrjTL"
+      "duration_ms": 281855,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1443,22 +1447,18 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
+        "name": "Song Dust",
+        "url": "https://open.spotify.com/album/3gjZxipq6EELnrScGPc750"
       },
       "artists": [
         {
-          "name": "Anders Hagberg",
-          "url": "https://open.spotify.com/artist/4EHq5kOSsWr0OxdUYA2KoJ"
-        },
-        {
-          "name": "Johannes Lundberg",
-          "url": "https://open.spotify.com/artist/4e1gyH3KCIRfVPQ9YVIyEG"
+          "name": "Karl Str\u00f8mme",
+          "url": "https://open.spotify.com/artist/5jw4NHPslG7CRCah8PbK7F"
         }
       ],
-      "duration_ms": 281855,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
+      "duration_ms": 333613,
+      "name": "Song Dust",
+      "url": "https://open.spotify.com/track/6xyDGPD0MeceKsXQ0OcZ8y"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/1WwlmTdtSfNTS3ZmUeMCRq"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "Grace #5",
+      "url": "https://open.spotify.com/track/4KKUAZG4mZVfC65Q8GRIqj"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
         "name": "Uma Elmo",
         "url": "https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 415053,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/1WwlmTdtSfNTS3ZmUeMCRq"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "Grace #5",
-      "url": "https://open.spotify.com/track/4KKUAZG4mZVfC65Q8GRIqj"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "His Name Is John",
-        "url": "https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN"
-      },
-      "artists": [
-        {
-          "name": "Tomas Raae",
-          "url": "https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL"
-        }
-      ],
-      "duration_ms": 547803,
-      "name": "Fear Not, Zechariah",
-      "url": "https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 298293,
       "name": "22",
       "url": "https://open.spotify.com/track/14WHFYmB7bieMaJCQEQ8jE"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "His Name Is John",
+        "url": "https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN"
+      },
+      "artists": [
+        {
+          "name": "Tomas Raae",
+          "url": "https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL"
+        }
+      ],
+      "duration_ms": 547803,
+      "name": "Fear Not, Zechariah",
+      "url": "https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -1903,6 +1903,30 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
+        "name": "Gefion",
+        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
+      },
+      "artists": [
+        {
+          "name": "Jakob Bro",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Lyskaster",
+      "url": "https://open.spotify.com/track/3Ex9d18dywAHyaRvq3hWK3"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
         "name": "Secret Island",
         "url": "https://open.spotify.com/album/0fILKf7zaIvUdPf85OoFaA"
       },
@@ -1927,30 +1951,6 @@
       "duration_ms": 203013,
       "name": "Silenced Wings",
       "url": "https://open.spotify.com/track/6Jvz580uudC0WWdkJQAe8h"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Gefion",
-        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
-      },
-      "artists": [
-        {
-          "name": "Jakob Bro",
-          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
-        },
-        {
-          "name": "Thomas Morgan",
-          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Lyskaster",
-      "url": "https://open.spotify.com/track/3Ex9d18dywAHyaRvq3hWK3"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
+        "name": "Ghost Song #6",
+        "url": "https://open.spotify.com/album/69GnQv4bJpxL2yWfBQ93X2"
+      },
+      "artists": [
+        {
+          "name": "Paul Jarret",
+          "url": "https://open.spotify.com/artist/3UZbyz0QMCgygRaBh7dEEa"
+        },
+        {
+          "name": "Jim Black",
+          "url": "https://open.spotify.com/artist/6kqqAVzvnHV9B3xHGkHxA4"
+        }
+      ],
+      "duration_ms": 145546,
+      "name": "Ghost Song #6",
+      "url": "https://open.spotify.com/track/72PmD0iDjTNM9seYDN87Av"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
         "name": "To Stanko",
         "url": "https://open.spotify.com/album/0ksqjbNa6ijHABsFn8YWtZ"
       },
@@ -2055,26 +2075,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Ghost Song #6",
-        "url": "https://open.spotify.com/album/69GnQv4bJpxL2yWfBQ93X2"
-      },
-      "artists": [
-        {
-          "name": "Paul Jarret",
-          "url": "https://open.spotify.com/artist/3UZbyz0QMCgygRaBh7dEEa"
-        },
-        {
-          "name": "Jim Black",
-          "url": "https://open.spotify.com/artist/6kqqAVzvnHV9B3xHGkHxA4"
-        }
-      ],
-      "duration_ms": 145546,
-      "name": "Ghost Song #6",
-      "url": "https://open.spotify.com/track/72PmD0iDjTNM9seYDN87Av"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "Warp",
         "url": "https://open.spotify.com/album/32XHiqhjVkOjYz0IHp2Vdv"
       },
@@ -2087,6 +2087,22 @@
       "duration_ms": 183426,
       "name": "Amarinthine",
       "url": "https://open.spotify.com/track/31c6uaIRRejku8CXA4ms92"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "Waking Arp",
+        "url": "https://open.spotify.com/album/7N1q0x0yRFCPiCewBOrInP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 378306,
+      "name": "Waking Arp",
+      "url": "https://open.spotify.com/track/1mV5APwrdpSCY6ZpehzJDi"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -2107,22 +2123,6 @@
       "duration_ms": 183701,
       "name": "Beautiful Skin",
       "url": "https://open.spotify.com/track/6RCaFbkhc54IEtih0e3JhO"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
-        "name": "Waking Arp",
-        "url": "https://open.spotify.com/album/7N1q0x0yRFCPiCewBOrInP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 378306,
-      "name": "Waking Arp",
-      "url": "https://open.spotify.com/track/1mV5APwrdpSCY6ZpehzJDi"
     },
     {
       "added_at": "2022-06-29 08:45:08",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-06-29 08:45:08",
       "album": {
-        "name": "Viscosity",
-        "url": "https://open.spotify.com/album/2uudnhmqCK9jNCdTpvURLP"
-      },
-      "artists": [
-        {
-          "name": "Samuel Leipold",
-          "url": "https://open.spotify.com/artist/2h7N4wfh7AuswiyfAzYwPV"
-        }
-      ],
-      "duration_ms": 475815,
-      "name": "Sho\u0304",
-      "url": "https://open.spotify.com/track/24d5JrCEp7pB9PsBonjlO8"
-    },
-    {
-      "added_at": "2022-06-29 08:45:08",
-      "album": {
         "name": "Invisible Threads",
         "url": "https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 355906,
       "name": "Sound Flower",
       "url": "https://open.spotify.com/track/6ihL2LDx69EHKQQgtWRvLd"
+    },
+    {
+      "added_at": "2022-06-29 08:45:08",
+      "album": {
+        "name": "Viscosity",
+        "url": "https://open.spotify.com/album/2uudnhmqCK9jNCdTpvURLP"
+      },
+      "artists": [
+        {
+          "name": "Samuel Leipold",
+          "url": "https://open.spotify.com/artist/2h7N4wfh7AuswiyfAzYwPV"
+        }
+      ],
+      "duration_ms": 475815,
+      "name": "Sho\u0304",
+      "url": "https://open.spotify.com/track/24d5JrCEp7pB9PsBonjlO8"
     },
     {
       "added_at": "2022-06-29 08:45:08",

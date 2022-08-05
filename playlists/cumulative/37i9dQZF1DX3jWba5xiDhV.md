@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-142 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
+143 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 | 2022-02-11 |  |
 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 | 2022-02-11 |  |
 | [Color My Love](https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH) | 4:06 | 2022-07-01 | 2022-08-01 |
+| [Color My Love](https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [The Hits Collection](https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam) | 4:06 | 2022-07-01 |  |
 | [Color My Love](https://open.spotify.com/track/7F1FamJw5Vy5cAYzkDAtJx) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/5PMIGV61YVeA6mJim1LqJg) | 4:06 | 2022-02-11 | 2022-07-17 |
 | [Comanchero \- Vocal Radio](https://open.spotify.com/track/1Oqt89VF7VM172bY8DCuB9) | [Moon Ray](https://open.spotify.com/artist/0ipBu57ONv2AW0Pxpc2etO), [Gatto](https://open.spotify.com/artist/7Fe0ln6Y2R1l05ZeIpV2Aa), [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Comanchero](https://open.spotify.com/album/3faEyz0PVK8IWWXSlDtxij) | 3:57 | 2022-02-11 | 2022-03-22 |
-| [Curiosa Scoperta](https://open.spotify.com/track/6jwovHRnlHpGDjEChm57Os) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Autostrada Galattica](https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9) | 5:00 | 2022-02-11 |  |
+| [Curiosa Scoperta](https://open.spotify.com/track/6jwovHRnlHpGDjEChm57Os) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Autostrada Galattica](https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9) | 5:00 | 2022-02-11 | 2022-08-05 |
 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 | 2022-02-11 |  |
 | [Dancin' All The Night \- Original Extended Version](https://open.spotify.com/track/21br0MBSr0o05d073b2ld8) | [Paul Sharada](https://open.spotify.com/artist/6Ka73Uf6EKU9GW8zTTRobK) | [80's Dance Story Original Italo Hits](https://open.spotify.com/album/0rcYpBkTkKMUv5W32JPcaY) | 6:19 | 2022-02-11 | 2022-02-22 |
 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 | 2022-02-11 |  |

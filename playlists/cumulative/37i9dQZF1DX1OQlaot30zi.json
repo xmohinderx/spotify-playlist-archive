@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Luch\u00e8, Sfera Ebbasta, Rhove, Paky e tanti altri!",
+  "description": "Sempre aggiornata. Con nuovi brani di Shiva, Luch\u00e8, Sfera Ebbasta e tanti altri!",
   "name": "Novit\u00e0 Rap Italiano",
   "published_playlist_ids": [
     "7sfA9EX1ungjA32R4YoNij"
@@ -104,6 +104,24 @@
     },
     {
       "album": {
+        "name": "10 Palazzi",
+        "url": "https://open.spotify.com/album/6GsPsIUVqMXSluMjdZxPh0"
+      },
+      "artists": [
+        {
+          "name": "Martz Da Marte",
+          "url": "https://open.spotify.com/artist/3eeWlV9pUBYTFvIhxbykUa"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "10 Palazzi",
+      "url": "https://open.spotify.com/track/0l2ZViNpvnoVr80QcfDS2u"
+    },
+    {
+      "album": {
         "name": "17 Berlino",
         "url": "https://open.spotify.com/album/01NuASlz7u24ikeHy9R1t5"
       },
@@ -119,6 +137,28 @@
       "duration_ms": 108000,
       "name": "17 Berlino",
       "url": "https://open.spotify.com/track/4XodYuADHWXXEn9EZF4N9V"
+    },
+    {
+      "album": {
+        "name": "17ANNI",
+        "url": "https://open.spotify.com/album/0sORJIrRbMnPOzPnwdtuiJ"
+      },
+      "artists": [
+        {
+          "name": "LA PLATA",
+          "url": "https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ"
+        },
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150674,
+      "name": "17ANNI",
+      "url": "https://open.spotify.com/track/2EjjzbpzMZqhpHuyft3LRc"
     },
     {
       "album": {
@@ -371,7 +411,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 124195,
       "name": "A TE",
       "url": "https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu"
@@ -569,7 +609,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 171620,
       "name": "Al ladro",
       "url": "https://open.spotify.com/track/03MnE7T7IGkL6f7K7lQj2L"
@@ -1613,7 +1653,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 201160,
       "name": "C'EST PAS FACIL",
       "url": "https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ"
@@ -1705,6 +1745,28 @@
       "duration_ms": 154538,
       "name": "Cantera",
       "url": "https://open.spotify.com/track/3SYWHJmcQk8em3LKufiea5"
+    },
+    {
+      "album": {
+        "name": "Cantera",
+        "url": "https://open.spotify.com/album/4UQz1RBOfXzKpAjYBMem3a"
+      },
+      "artists": [
+        {
+          "name": "Stewie",
+          "url": "https://open.spotify.com/artist/6mx7oUYgX5FeSX3TVAZOYz"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Cantera",
+      "url": "https://open.spotify.com/track/6gJCVegy1Dfajp7Yvup1cu"
     },
     {
       "album": {
@@ -1999,7 +2061,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 187680,
       "name": "Che Stai Dicenn (feat. Paky)",
       "url": "https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm"
@@ -2083,7 +2145,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 107333,
       "name": "Chimico",
       "url": "https://open.spotify.com/track/4ipAS8LhHG6nARTPURzCn3"
@@ -2241,7 +2303,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 197647,
       "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
       "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
@@ -2505,7 +2567,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 154531,
       "name": "Cucaracha",
       "url": "https://open.spotify.com/track/4h9MncHxnveRZ6NOEdslYL"
@@ -2615,6 +2677,28 @@
       "duration_ms": 246818,
       "name": "Daimon",
       "url": "https://open.spotify.com/track/64XdgtHEsUoYNqg0ZHyGcb"
+    },
+    {
+      "album": {
+        "name": "DALLA PLAYA",
+        "url": "https://open.spotify.com/album/7E4nwk9oE5t9zYfrEgPZJI"
+      },
+      "artists": [
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        },
+        {
+          "name": "Enomoney",
+          "url": "https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161145,
+      "name": "DALLA PLAYA",
+      "url": "https://open.spotify.com/track/6ombChWzCoS74KbgNR9Wxs"
     },
     {
       "album": {
@@ -3046,6 +3130,24 @@
     },
     {
       "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/7uladFoBRhD7lGfyKd0Ta2"
+      },
+      "artists": [
+        {
+          "name": "Goosie",
+          "url": "https://open.spotify.com/artist/1Q5MLomG7ynZZsa8RcAEwI"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112372,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/1UdXBJYOZ1XUdptM0IlzzJ"
+    },
+    {
+      "album": {
         "name": "Sottozero",
         "url": "https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb"
       },
@@ -3079,7 +3181,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 124500,
       "name": "Entriamo d'abuso",
       "url": "https://open.spotify.com/track/26d8hSpEjm2snnNZNZXW9Y"
@@ -4291,7 +4393,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 161632,
       "name": "GTA",
       "url": "https://open.spotify.com/track/7GxYAGCVnS7muu1bKJppMY"
@@ -5761,7 +5863,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 202600,
       "name": "LEI (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
@@ -5849,7 +5951,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 109000,
       "name": "LIBERT\u00c0",
       "url": "https://open.spotify.com/track/4fuGglruUIbpjDlDLRCP7I"
@@ -6039,7 +6141,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 173907,
       "name": "Lucifero",
       "url": "https://open.spotify.com/track/49wZe6prFOo9iSHwsUXrLO"
@@ -6277,6 +6379,14 @@
         {
           "name": "Lovegang126",
           "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        },
+        {
+          "name": "Nino Brown",
+          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
         },
         {
           "name": "Franco126",
@@ -7353,7 +7463,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 241333,
       "name": "Non \u00e8 tempo per piangere - St Luca Spenish Remix",
       "url": "https://open.spotify.com/track/46VBmqVfyQfJJTbsPFEnUY"
@@ -7527,7 +7637,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 164005,
       "name": "ODDIO",
       "url": "https://open.spotify.com/track/5F69cHo64dWslA2pB151fM"
@@ -7669,7 +7779,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 146005,
       "name": "Oro di Milano",
       "url": "https://open.spotify.com/track/5BoCC9UK96aExL91xxSIPA"
@@ -8061,7 +8171,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 201194,
       "name": "Piccolo principe",
       "url": "https://open.spotify.com/track/0OziUV1T8aoQk6rr95pPA8"
@@ -8621,6 +8731,24 @@
       "duration_ms": 152500,
       "name": "Rebelde",
       "url": "https://open.spotify.com/track/3UNzocVUG1h0FI43jpTrP3"
+    },
+    {
+      "album": {
+        "name": "Regina del Block",
+        "url": "https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198516,
+      "name": "Regina del Block",
+      "url": "https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB"
     },
     {
       "album": {
@@ -9449,6 +9577,24 @@
       "duration_ms": 176612,
       "name": "Sinfonia della distruzione",
       "url": "https://open.spotify.com/track/0ZmgMHj47xZ0Hb780sq8Lm"
+    },
+    {
+      "album": {
+        "name": "SKI",
+        "url": "https://open.spotify.com/album/4fCiOCAlxIZnw8s01FAEul"
+      },
+      "artists": [
+        {
+          "name": "G.Issa",
+          "url": "https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137983,
+      "name": "SKI",
+      "url": "https://open.spotify.com/track/2gAJM0gtcA24UXzKmJJDrn"
     },
     {
       "album": {
@@ -10627,7 +10773,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
@@ -10725,7 +10871,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 140000,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/5tdUWLALLzFt180vBlT2su"

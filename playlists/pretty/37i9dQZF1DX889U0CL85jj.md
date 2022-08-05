@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 ### [Chill Vibes](https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj)
 
-> Just chill...
+> Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368,332 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,368,929 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 150 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 |
 
-Snapshot ID: `MTY1OTQ2ODE3NywwMDAwMDAwMDU0ODRlM2U5N2QzZTQ0YjdlYjdlYzQ1MDZlMDBhYmMz`
+Snapshot ID: `MTY1OTYzMDI2OSwwMDAwMDAwMDEyZmY5OGQ1NmZjMTc3NzEzNmM3MDdlNzNlNTE2MzAx`

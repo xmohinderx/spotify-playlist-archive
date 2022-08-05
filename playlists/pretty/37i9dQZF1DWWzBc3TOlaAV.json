@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 771285,
+  "num_followers": 771511,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjYwMSwwMDAwMDAwMDBiOGVhOTFjZjExOTQ0NGI5OTZmODRhMDliOTk3Mzdm",
+  "snapshot_id": "MTY1NzAzNjYwMSwwMDAwMDAwMDIwOThlNjhhODRiMzUxNjZjNDA0MDdjMDVmZTBiZTZk",
   "tracks": [
     {
       "added_at": "2021-12-21 11:01:21",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "River Deep-Mountain High",
-        "url": "https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "River Deep - Mountain High",
-      "url": "https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "Never To Be Forgotten - The Mustang Years",
         "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 138360,
       "name": "I Fought the Law - Single Version",
       "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "River Deep-Mountain High",
+        "url": "https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "River Deep - Mountain High",
+      "url": "https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3"
     }
   ],
   "unique_name": "60s Rock Anthems",

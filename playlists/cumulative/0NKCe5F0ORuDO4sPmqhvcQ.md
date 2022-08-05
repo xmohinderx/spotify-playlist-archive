@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-278 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+280 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [icarus](https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 | 2022-01-31 | 2022-03-31 |
 | [In Your Eyes](https://open.spotify.com/track/4LZtJRxcce5RPdSNmfa9AT) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [In Your Eyes](https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4) | 3:12 | 2022-06-25 | 2022-07-16 |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-03-11 | 2022-03-31 |
+| [Into The Night](https://open.spotify.com/track/36NDrXStsbcDfQWVKlAj0p) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Eilish Gilligan](https://open.spotify.com/artist/65LDkZn0JiySoZODomsvVQ) | [Into The Night](https://open.spotify.com/album/37NLypcnxqNBPzPuoJYcVS) | 2:30 | 2022-08-04 |  |
 | [intothedeep](https://open.spotify.com/track/0rEe4czu55DQ8sHtWRnaci) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/7c2heWYrt28gCmmJ8U9fwu) | 3:10 | 2022-07-01 | 2022-07-16 |
 | [It's All for You](https://open.spotify.com/track/0nmllQKv85yVIgPHHzKK4l) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Aria](https://open.spotify.com/album/0NlaAPR7ZFnfi1OTL0eOly) | 3:25 | 2021-09-29 | 2022-01-08 |
 | [John Cena](https://open.spotify.com/track/4DKILQtMzmWQe5iWxKfqrE) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Kevin Bedford](https://open.spotify.com/artist/4Db2sZjOrXmsy7upT254sM) | [John Cena](https://open.spotify.com/album/6wgIEc5ueZ7LdkvPiqlUsx) | 2:33 | 2021-09-24 | 2022-01-08 |
@@ -248,6 +249,7 @@
 | [tellmewhatuwant](https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [tellmewhatuwant](https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR) | 3:13 | 2022-01-21 | 2022-02-16 |
 | [The Drunk Song](https://open.spotify.com/track/3eq75k7Y2KnA1VmDXO5fDx) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Lain](https://open.spotify.com/artist/2V7qTNoIHlrmDGhjI005us) | [The Drunk Song](https://open.spotify.com/album/5N1I5GterExcrrM0sesPsR) | 3:18 | 2022-04-01 | 2022-06-25 |
 | [The End](https://open.spotify.com/track/1jcde8M1qCE1peeOMkqNyy) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:28 | 2022-07-21 |  |
+| [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 | 2022-08-04 |  |
 | [The Flower Blooms](https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 3:40 | 2022-01-21 | 2022-02-05 |
 | [THE HAMMERER](https://open.spotify.com/track/5AUakzTxKCgTmwajCeK4WD) | [Henry Jack Toll](https://open.spotify.com/artist/6foNhmGLcjNIjDdNh1llMw) | [THE HAMMERER](https://open.spotify.com/album/4qCCd43wewyM2pRpvp7tdz) | 1:34 | 2022-03-25 | 2022-04-19 |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:59 | 2022-02-10 | 2022-03-10 |

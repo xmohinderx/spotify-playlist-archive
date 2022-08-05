@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 880542,
+  "num_followers": 881292,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg0NzM2OCwwMDAwMDAwMDU5MDcwYWNlYTI1N2YwZDg2Nzk4YmM5OGY0ZGRhZTc0",
+  "snapshot_id": "MTY1ODg0NzM2OCwwMDAwMDAwMDk5ZTk2OWQ3Mzg0NGU3OTg4ZjVlMTlhODc5MDUyNGQ1",
   "tracks": [
     {
       "added_at": "2022-07-03 17:33:39",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-07-03 17:33:39",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2022-07-03 17:33:39",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 179813,
       "name": "Here It Goes Again",
       "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
+    },
+    {
+      "added_at": "2022-07-03 17:33:39",
+      "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2022-07-03 17:33:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-07-03 17:33:39",
       "album": {
-        "name": "Stella Brown",
-        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 187415,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
-    },
-    {
-      "added_at": "2022-07-03 17:33:39",
-      "album": {
         "name": "A Little Lift",
         "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 199742,
       "name": "Empress",
       "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
+    },
+    {
+      "added_at": "2022-07-03 17:33:39",
+      "album": {
+        "name": "Stella Brown",
+        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
     },
     {
       "added_at": "2022-07-03 17:33:39",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-07-03 17:33:39",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "I Need Never Get Old",
-      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
-    },
-    {
-      "added_at": "2022-07-03 17:33:39",
-      "album": {
         "name": "Heza",
         "url": "https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 226933,
       "name": "Put a Light On",
       "url": "https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI"
+    },
+    {
+      "added_at": "2022-07-03 17:33:39",
+      "album": {
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "I Need Never Get Old",
+      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
     },
     {
       "added_at": "2022-07-03 17:33:39",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-07-03 17:33:39",
       "album": {
-        "name": "We Were Dead Before The Ship Even Sank",
-        "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 264813,
-      "name": "Missed the Boat",
-      "url": "https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ"
-    },
-    {
-      "added_at": "2022-07-03 17:33:39",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 198040,
       "name": "The Ghost Inside",
       "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
+    },
+    {
+      "added_at": "2022-07-03 17:33:39",
+      "album": {
+        "name": "We Were Dead Before The Ship Even Sank",
+        "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 264813,
+      "name": "Missed the Boat",
+      "url": "https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ"
     },
     {
       "added_at": "2022-07-03 17:33:39",

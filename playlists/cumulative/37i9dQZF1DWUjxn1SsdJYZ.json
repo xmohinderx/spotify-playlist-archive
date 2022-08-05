@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best Hip Hop coming out of Australia. Cover: Tmk",
+  "description": "The best Hip Hop coming out of Australia. Cover: HP Boyz",
   "name": "Local Hype",
   "published_playlist_ids": [
     "4Dkoxwgg3cIjwa7yuFFJFE"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 166817,
       "name": "DASH (feat. T-Pain) - T-Mix",
       "url": "https://open.spotify.com/track/4xOjOPeY9SycyVG8J0xz9h"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 151149,
       "name": "HoodBars",
       "url": "https://open.spotify.com/track/6rtXSNFe76po3VuIhHgzqU"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 159059,
       "name": "HoodBars",
       "url": "https://open.spotify.com/track/4xEtZV7oNIjlr7XsPZdklQ"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 128365,
       "name": "Hoodbars Hoodrichhefs",
       "url": "https://open.spotify.com/track/27RiwXFVkCYv1ODbaENPKb"
@@ -3065,7 +3065,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 173793,
       "name": "RUNNIN",
       "url": "https://open.spotify.com/track/1IA11fh0nHMauEx6WrMIKy"
@@ -3200,6 +3200,32 @@
     },
     {
       "album": {
+        "name": "SEXDRUGSMONEY!",
+        "url": "https://open.spotify.com/album/5XH4LOOcyRC07buDQTiAfr"
+      },
+      "artists": [
+        {
+          "name": "Tanboymiguel",
+          "url": "https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc"
+        },
+        {
+          "name": "Cult Sh\u03c6tta",
+          "url": "https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P"
+        },
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149577,
+      "name": "SEXDRUGSMONEY!",
+      "url": "https://open.spotify.com/track/6T809CO7blHPfXAMRNN529"
+    },
+    {
+      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/3QZBubJYumSQsFMuvnlFm9"
       },
@@ -3255,7 +3281,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 152689,
       "name": "Shoodaz",
       "url": "https://open.spotify.com/track/5KbXgp0TIX4awIBgGl8dck"
@@ -3819,7 +3845,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 185965,
       "name": "TRIALS",
       "url": "https://open.spotify.com/track/4rIxN5z79tqoECKb6ua8NP"
@@ -3849,6 +3875,24 @@
       "duration_ms": 183484,
       "name": "Troublesome",
       "url": "https://open.spotify.com/track/0VC5JJ1DVONoX1tv77nxLm"
+    },
+    {
+      "album": {
+        "name": "TRUE",
+        "url": "https://open.spotify.com/album/3dHPLhmxVB5H2OdDtnKQgE"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/5IqvWuThZk3OZHeo7FJfnw"
     },
     {
       "album": {

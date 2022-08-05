@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Cecil Alexander Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,744 likes - 79 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,015 likes - 79 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

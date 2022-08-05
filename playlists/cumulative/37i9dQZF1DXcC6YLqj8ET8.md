@@ -4,7 +4,7 @@
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-73 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/47hjr70tGR1mvbCMqz6RSX)
+74 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/47hjr70tGR1mvbCMqz6RSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Cataclysm جائحة](https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Cataclysm جائحة](https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I) | 2:19 | 2021-11-09 |  |
 | [Dam](https://open.spotify.com/track/0ptmm2MFQXuGjWTix8yx9K) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Dam](https://open.spotify.com/album/5I15j6rtNdviAPqcTQ5SJn) | 2:14 | 2021-11-09 | 2022-07-29 |
 | [Dam](https://open.spotify.com/track/1App8pyno1hjzhyOelLCEH) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Dam](https://open.spotify.com/album/5O4dEF4J39Q8I9yyk6Aorn) | 2:14 | 2022-04-07 | 2022-07-31 |
+| [Dam](https://open.spotify.com/track/6rPiKdPNCMmjRoSkHDxu8G) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Dam](https://open.spotify.com/album/3u0OvKGvYRQhn0ICKs5iOQ) | 2:14 | 2022-04-07 |  |
 | [Desert Lord](https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Desert Lord](https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK) | 2:05 | 2021-11-09 |  |
 | [Do You?](https://open.spotify.com/track/0tAFy8LVdMQgW6A6Nq7olS) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 3](https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW) | 3:15 | 2022-04-06 |  |
 | [Drop It Again](https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [Drop It Again](https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q) | 2:42 | 2021-11-09 |  |
@@ -67,7 +68,7 @@
 | [Raqsni](https://open.spotify.com/track/0sVmHjhJDCR8BCh2dwWRjb) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW), [The Anka Music](https://open.spotify.com/artist/5YXi3lEh6AvClD3yzgsRdR) | [Raqsni](https://open.spotify.com/album/3SnQhoe2qBBiB8k9ZFUbde) | 2:34 | 2021-11-09 |  |
 | [Rise](https://open.spotify.com/track/06VL0LPGJodM9Kq7j2mpcu) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [SVRRIC](https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E) | [Rise](https://open.spotify.com/album/6TfsBtepltkzcQIKSSkXnF) | 2:17 | 2021-11-09 |  |
 | [Roots](https://open.spotify.com/track/1yRyJyB90a0YiaogagFXfx) | [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK) | [Roots](https://open.spotify.com/album/0IbRugL7qPDVyD2AmWNhmk) | 3:42 | 2021-11-09 |  |
-| [Royal](https://open.spotify.com/track/4M92m8y6WXm0xHzWBY3tJJ) | [Nextro](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq), [Wizard](https://open.spotify.com/artist/0tCxvv05YgEzpyn3uIA7iM) | [Royal](https://open.spotify.com/album/4egsetbw3T8yB4eT39kHkY) | 3:32 | 2021-11-09 |  |
+| [Royal](https://open.spotify.com/track/4M92m8y6WXm0xHzWBY3tJJ) | [Nextro](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq), [Wizard](https://open.spotify.com/artist/0tCxvv05YgEzpyn3uIA7iM) | [Royal](https://open.spotify.com/album/4egsetbw3T8yB4eT39kHkY) | 3:32 | 2021-11-09 | 2022-08-05 |
 | [Sailor Mars](https://open.spotify.com/track/38n8scVMRubWOn1rIN2hfr) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sailor Mars](https://open.spotify.com/album/4Ql6PbVf1kgd4g22lWdgf7) | 2:32 | 2021-11-09 |  |
 | [Sargon](https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sargon](https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl) | 3:04 | 2021-11-09 |  |
 | [Secret](https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Secret](https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH) | 2:18 | 2021-11-09 |  |

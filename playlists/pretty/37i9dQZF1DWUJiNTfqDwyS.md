@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,126 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,428 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 3 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
 | 4 | [Word Up!](https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Word Up! \(The Remixes\)](https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF) | 2:52 |
 | 5 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
-| 6 | [Blue on Black](https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Blue on Black](https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc) | 4:34 |
+| 6 | [Paranoid](https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 2:32 |
 | 7 | [Chop Suey!](https://open.spotify.com/track/37SgiDGQSiUTQXZo2Ml888) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Chop Suey!](https://open.spotify.com/album/0TkVuK1bb6hvlJOjZlV80i) | 3:38 |
-| 8 | [Paranoid](https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 2:32 |
+| 8 | [Blue on Black](https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Blue on Black](https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc) | 4:34 |
 | 9 | [In the Air Tonight](https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Recoil \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G) | 4:33 |
 | 10 | [Wind of Change](https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Wind of Change](https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG) | 5:22 |
 | 11 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 28 | [Fight Fire With Fire](https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ), [Maciej Taff](https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml) | [Necropolis](https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR) | 4:05 |
 | 29 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
 | 30 | [Aerials](https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Surtur Rising](https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB) | 3:39 |
-| 31 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
-| 32 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
-| 33 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 |
+| 31 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 |
+| 32 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
+| 33 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
 | 34 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 35 | [Enemy](https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Enemy](https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898) | 2:51 |
 | 36 | [The Devil Went Down to Georgia](https://open.spotify.com/track/7z3yEMhxw6ggDA9MjBqXow) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Devil Went Down to Georgia](https://open.spotify.com/album/6WMyuY1fcOfwMcjLqI3X1W) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 74 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 |
 | 75 | [Astronomy Domine](https://open.spotify.com/track/4gHNdbRBmLgMmZFBG99Hje) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [The Best of Voivod](https://open.spotify.com/album/0TJzcxxTif2yPcgdn1EKdj) | 5:30 |
 
-Snapshot ID: `MTY1NTEwMjc3NCwwMDAwMDAwMDBmN2MyZDliZjcxZDBhMjY2MmY3Y2VmY2YxNjhjNTc0`
+Snapshot ID: `MTY1NTEwMjc3NCwwMDAwMDAwMDQ1YzM4Yzg4YWI3NWQwNGVhOWExZDYzZDdhMTQ1ODlj`

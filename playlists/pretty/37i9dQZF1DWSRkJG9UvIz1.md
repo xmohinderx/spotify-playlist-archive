@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,467 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,464 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 6 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:21 |
 | 7 | [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 |
 | 8 | [Sunshine \(feat\. Lil Wayne & Childish Gambino\)](https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 3:26 |
-| 9 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
-| 10 | [Runnin'](https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:56 |
+| 9 | [Runnin'](https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:56 |
+| 10 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
 | 11 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
 | 12 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Acoustic Bossa Version](https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 4:10 |
 | 13 | [Sorri, Sou Rei \(feat\. Claudia Leitte\)](https://open.spotify.com/track/4UChhDCTtneR0QXN0btEmz) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Box Natiruts](https://open.spotify.com/album/6H7aEzVGlXJlMXfcZml7vP) | 5:32 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 28 | [Sonho Bossa Nova](https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Dança Entre Casais](https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA) | 3:52 |
 | 29 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 30 | [Café Com Leite](https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 4:22 |
-| 31 | [Sexy](https://open.spotify.com/track/3hX4oYznwMulMXCMeT6Ia9) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:43 |
-| 32 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
+| 31 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
+| 32 | [Sexy](https://open.spotify.com/track/3hX4oYznwMulMXCMeT6Ia9) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:43 |
 | 33 | [SEM MALDADE](https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [SEM MALDADE](https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ) | 2:50 |
 | 34 | [Um Corpo no Mundo](https://open.spotify.com/track/2kEGhFlJxjVtXnIpudVLtI) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 6:25 |
 | 35 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 |
 | 60 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 
-Snapshot ID: `MTY1NTE3MjQxOSwwMDAwMDAwMDcxYmRlNmU4OTk5ZmJjZWJmZTkwNzY0MDMwMWMzMDU1`
+Snapshot ID: `MTY1NTE3MjQxOSwwMDAwMDAwMDg0NjY1ZjE2NjJjNGY2YmVjYzJlNmFhYzdiZmM1ZmIy`

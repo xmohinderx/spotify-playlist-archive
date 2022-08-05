@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 748868,
+  "num_followers": 748889,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwNTA3NiwwMDAwMDAwMDI3Y2E1ZDQwOGIzMjRkNDQzZGJiN2RkZWFlMDUyYTdj",
+  "snapshot_id": "MTY1ODUwNTA3NiwwMDAwMDAwMDg1NDI3ODhmZTYyNzI0YjIxMjhmNjFkZWEzNGFiMGFh",
   "tracks": [
     {
       "added_at": "2022-07-22 15:51:16",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
         "name": "up at night (feat. justin bieber)",
         "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 182226,
       "name": "up at night (feat. justin bieber)",
       "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 182657,
-      "name": "BAGDAD - Cap.7: Liturgia",
-      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
         "name": "En Mi Cuarto",
         "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 182657,
+      "name": "BAGDAD - Cap.7: Liturgia",
+      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "La vie - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5IdRMFYaJOclQaE3xChUUh"
-      },
-      "artists": [
-        {
-          "name": "Ichon",
-          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
-        }
-      ],
-      "duration_ms": 229225,
-      "name": "La vie - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6Xuz1r6GgUXgYZPn8XEFAV"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
         "name": "CALL",
         "url": "https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 176701,
       "name": "CALL",
       "url": "https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
+        "name": "La vie - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5IdRMFYaJOclQaE3xChUUh"
+      },
+      "artists": [
+        {
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+        }
+      ],
+      "duration_ms": 229225,
+      "name": "La vie - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6Xuz1r6GgUXgYZPn8XEFAV"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "tenemos que quedar",
-        "url": "https://open.spotify.com/album/7vUAVFwLNWAazVVZOwQtc4"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "el sof\u00e1",
-      "url": "https://open.spotify.com/track/6gpTColYGFZ1q0isxHoE0u"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
         "name": "Fashion Freak",
         "url": "https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 150606,
       "name": "Fashion Freak",
       "url": "https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
+        "name": "tenemos que quedar",
+        "url": "https://open.spotify.com/album/7vUAVFwLNWAazVVZOwQtc4"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "el sof\u00e1",
+      "url": "https://open.spotify.com/track/6gpTColYGFZ1q0isxHoE0u"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "Californication (Feels Like I'm Falling In Love)",
-        "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 180327,
-      "name": "Californication (Feels Like I'm Falling In Love)",
-      "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
+        "name": "Californication (Feels Like I'm Falling In Love)",
+        "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 180327,
+      "name": "Californication (Feels Like I'm Falling In Love)",
+      "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
     },
     {
       "added_at": "2022-07-22 15:51:16",

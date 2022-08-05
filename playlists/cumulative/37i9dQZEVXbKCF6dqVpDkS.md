@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-704 songs - 1 day 12 hr 46 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+705 songs - 1 day 12 hr 50 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Innerlijke Rust](https://open.spotify.com/track/2w7lsIkOJ11xigclNdQQyQ) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Innerlijke Rust](https://open.spotify.com/album/6JoawV1wERDwkY8uHCuIQC) | 2:29 | 2021-08-01 | 2021-08-13 |
 | [Innerlijke Rust](https://open.spotify.com/track/6fNjOtz46tTGKvpiYLAeca) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 2:29 | 2021-09-05 | 2021-09-12 |
 | [Invaincu](https://open.spotify.com/track/2GiZ3sC2p1Cc2t2gbdMKsN) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:05 | 2022-03-05 | 2022-03-10 |
-| [Is Dat Nou Echt?](https://open.spotify.com/track/1TksL7PBmYxefJYTBrnSE6) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Is Dat Nou Echt?](https://open.spotify.com/album/779Io1t4GipURrEwigZOz1) | 2:28 | 2022-07-16 |  |
+| [Is Dat Nou Echt?](https://open.spotify.com/track/1TksL7PBmYxefJYTBrnSE6) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Is Dat Nou Echt?](https://open.spotify.com/album/779Io1t4GipURrEwigZOz1) | 2:28 | 2022-07-16 | 2022-08-05 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-14 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-10 | 2022-04-15 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-30 | 2021-12-29 |
@@ -601,6 +601,7 @@
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-08 | 2022-04-24 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-03-21 |
+| [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-08-04 |  |
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D) | 2:59 | 2022-05-16 | 2022-05-26 |
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-25 | 2021-12-27 |
 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 | 2022-01-01 | 2022-01-04 |

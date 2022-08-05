@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Trousdale",
-  "num_followers": 779781,
+  "num_followers": 779847,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzEyOTE5MiwwMDAwMDAwMGZiZTFiZWFiMGRkM2ExM2I5NjRjMTBmZjRkZDMxNTE0",
+  "snapshot_id": "MTY0NzEyOTE5MiwwMDAwMDAwMDQ4ZDU5OWY0N2Q5OWJiNTgwNDdhMjg3MjQ1NTExOTk0",
   "tracks": [
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Do Right",
         "url": "https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 213453,
       "name": "Do Right",
       "url": "https://open.spotify.com/track/1Ab2FPSnr5C7PkndTMHdP6"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Better When We're Falling Apart",
+      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
         "name": "The Ghost and the Wall",
         "url": "https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo"
       },
@@ -1119,6 +1135,22 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Some Kind Of Love",
+        "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
+      },
+      "artists": [
+        {
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Some Kind Of Love",
+      "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1155,22 +1187,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Some Kind Of Love",
-        "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
-      },
-      "artists": [
-        {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Some Kind Of Love",
-      "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 183379,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Better When We're Falling Apart",
-      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Omaha",
-        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
-      },
-      "artists": [
-        {
-          "name": "Falls",
-          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Kairos",
         "url": "https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "All But The Sun",
-        "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
+        "name": "Omaha",
+        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
       },
       "artists": [
         {
-          "name": "Winterbourne",
-          "url": "https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty"
+          "name": "Falls",
+          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
         }
       ],
-      "duration_ms": 266397,
-      "name": "Steady My Bones",
-      "url": "https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd"
+      "duration_ms": 198600,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1311,6 +1295,22 @@
       "duration_ms": 144506,
       "name": "Searching",
       "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "All But The Sun",
+        "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
+      },
+      "artists": [
+        {
+          "name": "Winterbourne",
+          "url": "https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty"
+        }
+      ],
+      "duration_ms": 266397,
+      "name": "Steady My Bones",
+      "url": "https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "In Tokens & Charms",
-        "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 211193,
-      "name": "Oh Love",
-      "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 211360,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "In Tokens & Charms",
+        "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 211193,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Left With The Wolves",
-        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
-      },
-      "artists": [
-        {
-          "name": "Nathan Hawes",
-          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
-        }
-      ],
-      "duration_ms": 229334,
-      "name": "Left With The Wolves",
-      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 215080,
       "name": "War In Your Arms",
       "url": "https://open.spotify.com/track/2EFy7yp659dID3X1TVbdfq"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Left With The Wolves",
+        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hawes",
+          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
+        }
+      ],
+      "duration_ms": 229334,
+      "name": "Left With The Wolves",
+      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Kick Out the Windows (Radio Edit)",
-        "url": "https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm"
-      },
-      "artists": [
-        {
-          "name": "Parsonsfield",
-          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Kick Out the Windows (Radio Edit)",
-      "url": "https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Always, Joni",
         "url": "https://open.spotify.com/album/5kSFUmD1KNcPJP0A4Cdakp"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 189563,
       "name": "Always, Joni",
       "url": "https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Kick Out the Windows (Radio Edit)",
+        "url": "https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm"
+      },
+      "artists": [
+        {
+          "name": "Parsonsfield",
+          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Kick Out the Windows (Radio Edit)",
+      "url": "https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Clich\u00e9",
-        "url": "https://open.spotify.com/album/7fL5UDmFr1IdZH3DNP5xhG"
-      },
-      "artists": [
-        {
-          "name": "Cece Coakley",
-          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/2pBym9Ta4unUYYefC1qEjy"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 243776,
       "name": "River",
       "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/7fL5UDmFr1IdZH3DNP5xhG"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/2pBym9Ta4unUYYefC1qEjy"
     },
     {
       "added_at": "2022-03-12 23:53:12",

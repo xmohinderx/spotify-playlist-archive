@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > Celebrating Black love, one song at a time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,002 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,125 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 38 | [Roll Some Mo](https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:52 |
 | 39 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
 | 40 | [Make It Last Forever \(with Jacci McGhee\)](https://open.spotify.com/track/7vVIj8Tm1wCawjvwVZdeLD) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m), [Jacci McGhee](https://open.spotify.com/artist/2iAAXHZCgL2E1zqj204GEh) | [Make It Last Forever](https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN) | 4:56 |
-| 41 | [I Like](https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:54 |
-| 42 | [Beauty](https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:32 |
-| 43 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 41 | [Beauty](https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:32 |
+| 42 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 43 | [I Like](https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:54 |
 | 44 | [Breakdown \(feat\. Krayzie Bone & Wish Bone\)](https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Wishbone](https://open.spotify.com/artist/47AKGI5jfLa8uWKA0QSMs7) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:43 |
 | 45 | [Let It Burn](https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Reality Show](https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh) | 3:43 |
 | 46 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 49 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 50 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 |
 | 51 | [Inside My Love \- Remastered](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
-| 52 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 |
-| 53 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 |
-| 54 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
+| 52 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
+| 53 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 |
+| 54 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 |
 | 55 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
 | 56 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
 | 57 | [This Is for the Lover in You](https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Three for Love](https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X) | 5:04 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 76 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 77 | [Come Close](https://open.spotify.com/track/2dCD8qq7yHZPZduA8FJazs) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Electric Circus](https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X) | 4:35 |
 | 78 | [SURF \(feat\. Masego\)](https://open.spotify.com/track/1lxs63LaZX1wHBr0qIt5oK) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [if You Feel](https://open.spotify.com/album/3MbutmdmYVZkJet5KXtALG) | 3:22 |
-| 79 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 |
-| 80 | [I Like The Way](https://open.spotify.com/track/0flZtKtmkZMNqFF7V7Yfmu) | [Hi\-Five](https://open.spotify.com/artist/0EVUivUkugMtNF09L4QBMH) | [Greatest Hits](https://open.spotify.com/album/50q6yYmQ9Mzk4L95sxGXib) | 5:50 |
+| 79 | [I Like The Way](https://open.spotify.com/track/0flZtKtmkZMNqFF7V7Yfmu) | [Hi\-Five](https://open.spotify.com/artist/0EVUivUkugMtNF09L4QBMH) | [Greatest Hits](https://open.spotify.com/album/50q6yYmQ9Mzk4L95sxGXib) | 5:50 |
+| 80 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 |
 
-Snapshot ID: `MTY0NzI4NzY1OCwwMDAwMDAwMDU4ODgzOGQ0ZDQzOWYxMWIxOTYxNzJjNjAzNmY5MjU5`
+Snapshot ID: `MTY0NzI4NzY1OCwwMDAwMDAwMDdmZTQ0YWM4MDI1YmEyMGM4OGU4M2MxYTUzYTU5NDBi`

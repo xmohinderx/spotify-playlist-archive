@@ -4,7 +4,7 @@
 
 > Some heart and soul for those up late.
 
-80 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
+82 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Better Man](https://open.spotify.com/track/6PN51jW5TJ4XOFMO41lc6h) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/0DnxCSZdeApVBVfcWsm3IJ) | 5:29 | 2017-11-04 | 2022-07-29 |
 | [By My Side](https://open.spotify.com/track/6QF8BEta1IcrPi0eigAGWY) | [Kat Wright](https://open.spotify.com/artist/3FX6ZjUpCoJOwsxleWx2ci) | [By My Side](https://open.spotify.com/album/1Qi9oI1lVDTZQL3gFikBIH) | 6:07 | 2017-11-04 |  |
 | [Cry to Me](https://open.spotify.com/track/2ERRgYqz82Ps5UagTAzze2) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. \- Save Our Soul, Vol\. 2: Soul on a Mission](https://open.spotify.com/album/3alOo6XDq9rGuaEFC2Khhy) | 2:37 | 2017-11-04 | 2022-07-29 |
-| [Cry to Me](https://open.spotify.com/track/69EkVHI0mRHqMXFmXDMLuP) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:37 | 2017-11-04 |  |
+| [Cry to Me](https://open.spotify.com/track/69EkVHI0mRHqMXFmXDMLuP) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:37 | 2017-11-04 | 2022-08-05 |
 | [Drop of Honey](https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW) | [Eric Kufs](https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr) | [The Long \- EP](https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo) | 4:17 | 2017-11-04 |  |
 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 | 2020-04-08 |  |
 | [Falling](https://open.spotify.com/track/2rRJrJEo19S2J82BDsQ3F7) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/1Hy76RlNvOHe6cpih1RxXq) | 2:39 | 2020-04-08 | 2022-07-29 |
@@ -33,6 +33,7 @@
 | [Giver](https://open.spotify.com/track/4zmhbFzPgE28eJN8OU4lL5) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [The Suffers](https://open.spotify.com/album/1mqd47Zj7XrAKfiDi99TcG) | 7:15 | 2017-11-04 |  |
 | [Gracefully](https://open.spotify.com/track/5mkpRcKJW7E9vlDoRJGxr9) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3AcNiMMqbJ9WxtLtUeTNB0) | 3:38 | 2017-11-04 | 2022-07-29 |
 | [Gracefully](https://open.spotify.com/track/6o48EgHLxA0g0NLcDXukz7) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 3:38 | 2017-11-04 |  |
+| [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2022-08-04 |  |
 | [Hanging Tree](https://open.spotify.com/track/0UWt8PbXRSS69MsdzyEekU) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Hanging Tree](https://open.spotify.com/album/1qABaNWpFHTVAOZRtZlHQI) | 3:10 | 2017-11-04 |  |
 | [Have You Heard Anything from the Lord Today](https://open.spotify.com/track/0SZKxs3mvzmK0kTWbCgvWB) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [My Love Devine Degree](https://open.spotify.com/album/0GfwalBiyhcjAAaMgTWXxc) | 3:21 | 2017-11-04 | 2022-07-29 |
 | [Have You Heard Anything from the Lord Today](https://open.spotify.com/track/5OCwYvNcTGvP4XpaNNr9LN) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [My Love Divine Degree](https://open.spotify.com/album/1IsiXen1EXcsHlF5LVhUP0) | 3:21 | 2017-11-04 |  |
@@ -56,6 +57,7 @@
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-03-08 |  |
 | [Made A Fool Of Me](https://open.spotify.com/track/1wcz1iL6DiDjvl4w0nhh8F) | [Nicky Egan](https://open.spotify.com/artist/3hv0XXNWxgBu7S0df8xEMy) | [The 45 Homestead Project](https://open.spotify.com/album/7ohAr9Yj2IderBrP1aseio) | 4:35 | 2017-11-04 | 2022-07-29 |
 | [Made a Fool of Me](https://open.spotify.com/track/6mND5p3oGGyLe9d6flens2) | [Nicky Egan](https://open.spotify.com/artist/3hv0XXNWxgBu7S0df8xEMy) | [The 45 Homestead Project](https://open.spotify.com/album/1xWTWwjBHRcVELnZvdgvaS) | 4:35 | 2017-11-04 |  |
+| [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-08-04 |  |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-03-08 |  |
 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 | 2021-04-09 |  |
 | [Miracles](https://open.spotify.com/track/3Z4m4bw6t1LTM09WfrXfPc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/42T1PWZl6NilUzBk3vCXoz) | 4:51 | 2021-04-09 | 2022-07-29 |

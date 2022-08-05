@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Baby Keem",
-  "num_followers": 70424,
+  "num_followers": 70548,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGEzNDUzZjMyNjZjYzJiNzVlNDU2MzliZjk3MDgxMjAw",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDQ4OWEyMWQ5NzM0MDAxN2JkOTlhNDVjMDI1MDBjYTAx",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 210200,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Mr. Davis",
-        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 233087,
-      "name": "I Get the Bag (feat. Migos)",
-      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
     },
     {
       "added_at": "2022-07-29 04:00:00",

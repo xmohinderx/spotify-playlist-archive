@@ -2,9 +2,9 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Napoli e il meglio della scena campana\. Cover: Nicola Siciliano
+> Napoli e il meglio della scena campana\. Cover: Luchè
 
-91 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+92 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Parln e me](https://open.spotify.com/track/42K8rB0IhO0NzPTZNm7QNq) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ), [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf) | [Parln e me](https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i) | 2:35 | 2022-05-10 |  |
 | [PARTENOPE](https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 3:37 | 2022-05-10 |  |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-10 | 2022-07-29 |
-| [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 |  |
+| [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
+| [Password](https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 2:45 | 2022-08-04 |  |
 | [Pelle D'Oca \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:24 | 2022-05-10 |  |
 | [Penzier](https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Penzier](https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG) | 2:44 | 2022-05-12 |  |
 | [POF \(feat\. Ensi\)](https://open.spotify.com/track/4E9trhAx1In5kXUQamSsA5) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:48 | 2022-05-10 | 2022-06-03 |

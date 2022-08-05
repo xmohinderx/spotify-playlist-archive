@@ -674,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Eminence",
+        "url": "https://open.spotify.com/album/2sm7AYwabkhNkYxx3BkaUV"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165166,
+      "name": "Eminence",
+      "url": "https://open.spotify.com/track/1vTdIN54rYOds3Cf1ymCE5"
+    },
+    {
+      "album": {
         "name": "Eranthis",
         "url": "https://open.spotify.com/album/1AN5NyjT7pUu6rj5yEIWmD"
       },

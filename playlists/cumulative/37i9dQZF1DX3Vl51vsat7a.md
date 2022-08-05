@@ -4,11 +4,11 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: JOPLYN
 
-120 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+121 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...](https://open.spotify.com/track/2n1WH7I33C9Tm47unwnp8U) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 2:17 | 2021-12-16 |  |
+| [...](https://open.spotify.com/track/2n1WH7I33C9Tm47unwnp8U) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 2:17 | 2021-12-16 | 2022-08-05 |
 | [17 für immer](https://open.spotify.com/track/0UJUoXIawV7KpPu4dRKUUh) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/2LCs34ukoSlsBDbetAKMYm) | 2:40 | 2022-06-16 | 2022-07-29 |
 | [17 für immer](https://open.spotify.com/track/4NRJsPrgVbKwBCR7woZSHM) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/4IdKZ2doupiUIY2R5GpD4d) | 2:40 | 2022-07-28 |  |
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 |  |
@@ -103,6 +103,7 @@
 | [Smile](https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Smile](https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr) | 3:42 | 2022-05-19 |  |
 | [Spring](https://open.spotify.com/track/0M8XGFqzmGHLsGDLRgd6fp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Spring](https://open.spotify.com/album/4BC8x5GAShlXg15iXkqtl0) | 3:37 | 2022-05-12 | 2022-07-29 |
 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 | 2022-06-30 |  |
+| [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-04 |  |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2021-12-16 |  |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-01-27 | 2022-04-08 |
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-07-07 |  |

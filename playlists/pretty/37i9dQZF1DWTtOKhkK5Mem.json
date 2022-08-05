@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 659985,
+  "num_followers": 660167,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNzExMSwwMDAwMDAwMDE3MDc1NTlkYzllZWY0ZjY5ZGZjNDgwN2Y0ZjZiZGM1",
+  "snapshot_id": "MTY1MzkxNzExMSwwMDAwMDAwMGEyOTY1MmRmM2Q4YTA5NWU5MDg4YThiYWNiZGUxNTYz",
   "tracks": [
     {
       "added_at": "2022-05-27 10:50:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-05-27 10:50:00",
       "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
-    },
-    {
-      "added_at": "2022-05-27 10:50:00",
-      "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2022-05-27 10:50:00",
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
       "added_at": "2022-05-27 10:50:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-05-27 10:50:00",
       "album": {
-        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
-        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
-    },
-    {
-      "added_at": "2022-05-27 10:50:00",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 228146,
       "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
       "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+    },
+    {
+      "added_at": "2022-05-27 10:50:00",
+      "album": {
+        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
+        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
     },
     {
       "added_at": "2022-05-27 10:50:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-05-27 10:50:00",
       "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 258720,
-      "name": "She Believes In Me",
-      "url": "https://open.spotify.com/track/5ggOAMsJCAYDHnyoqJ0xAD"
-    },
-    {
-      "added_at": "2022-05-27 10:50:00",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 265160,
       "name": "You're All I Need",
       "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+    },
+    {
+      "added_at": "2022-05-27 10:50:00",
+      "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 258720,
+      "name": "She Believes In Me",
+      "url": "https://open.spotify.com/track/5ggOAMsJCAYDHnyoqJ0xAD"
     },
     {
       "added_at": "2022-05-27 10:50:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-05-27 10:50:00",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 308840,
-      "name": "Something About The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4l4mSq8IKgCMz0q9KFZ7tK"
-    },
-    {
-      "added_at": "2022-05-27 10:50:00",
-      "album": {
         "name": "Gotta Get Thru This",
         "url": "https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 257160,
       "name": "If You're Not The One",
       "url": "https://open.spotify.com/track/4gJoAvFpDvaeqm2EKYGmhb"
+    },
+    {
+      "added_at": "2022-05-27 10:50:00",
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 308840,
+      "name": "Something About The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4l4mSq8IKgCMz0q9KFZ7tK"
     },
     {
       "added_at": "2022-05-27 10:50:00",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2022-05-27 10:50:00",
       "album": {
-        "name": "All I Need To Know",
-        "url": "https://open.spotify.com/album/2OWY8X9HTnG6srfrO76bBL"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3f5rOhrNLYP53c9RcPfp02"
+      "duration_ms": 271626,
+      "name": "All By Myself - Single Edit",
+      "url": "https://open.spotify.com/track/6G3DBTj1s8fuKMAvzTK5JI"
     }
   ],
   "unique_name": "In the Arms of a Woman",

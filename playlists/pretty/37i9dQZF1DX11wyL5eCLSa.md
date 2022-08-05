@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Petite Amie en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,444 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,552 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 66 | [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 |
 | 67 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 |
 | 68 | [Solo](https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 3:54 |
-| 69 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
-| 70 | [Como Tú \(Magic Music Box\)](https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Rock en español](https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx) | 3:52 |
+| 69 | [Como Tú \(Magic Music Box\)](https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Rock en español](https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx) | 3:52 |
+| 70 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
 | 71 | [Mi Canción](https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Mi Canción](https://open.spotify.com/album/1YcVrh4wME3hr6ZY7yk3d6) | 3:08 |
 | 72 | [Lluvia de Fuego](https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Lluvia de Fuego](https://open.spotify.com/album/1Wp3tH8FxE60ofdJWAP106) | 3:27 |
 | 73 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 |
 | 74 | [¿Por Qué Te Vas?](https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [¿Por Qué Te Vas?](https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ) | 3:24 |
 | 75 | [Tomar el Sol](https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Lanza Internacional](https://open.spotify.com/album/5MC0RCLUWwbTE4UHGhAtxm) | 5:38 |
 
-Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMGMzNDU0ZDllNDM5MWM3MGM4YTkzZDFlYzBhYWI5NjNm`
+Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMDEwN2NlMGI3OTFlMmFhZTc1N2QxYjRmNzZiNTdlNzBj`

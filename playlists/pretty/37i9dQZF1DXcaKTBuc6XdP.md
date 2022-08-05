@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,138 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 27 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 |
 | 28 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
 | 29 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
-| 30 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 |
-| 31 | [Brokenness Aside](https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Season One](https://open.spotify.com/album/0SKZC7cvktjidQLucmftED) | 5:52 |
+| 30 | [Brokenness Aside](https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Season One](https://open.spotify.com/album/0SKZC7cvktjidQLucmftED) | 5:52 |
+| 31 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 |
 | 32 | [Alive \- Studio Version](https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [We Are Young & Free \(Live\)](https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ) | 3:47 |
 | 33 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 |
 | 34 | [Do Not Worry \(feat\. Ellie Holcomb\)](https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo) | [Rain For Roots](https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Kingdom of Heaven Is Like This](https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x) | 3:02 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Living in Freedom](https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK) | [Stephen Witt](https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg) | [Living in Freedom](https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG) | 4:26 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDY4OGZiYmQ2MDU4MDhiM2ZiOWRkZmI5ZTNlYTAwNDUz`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDY1ZDdmMjhmNjUyM2QwYTg0OTA5OWVjOTA5YWNhZTE4`

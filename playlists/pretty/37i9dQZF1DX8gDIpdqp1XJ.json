@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 765547,
+  "num_followers": 766313,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1NjA3MSwwMDAwMDAwMGRkY2M3ZGI1NjY0NGRkNGRiYWE5Mzg1YzVlNjUxM2Mx",
+  "snapshot_id": "MTY1OTU1NjA3MSwwMDAwMDAwMGVmZDVmM2VlYzAyYmNlOTBhNTM4MjNjMmRjNWEyOTJj",
   "tracks": [
     {
       "added_at": "2022-08-01 14:40:36",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Blacklight Shine",
-        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
-      },
-      "artists": [
-        {
-          "name": "The Mars Volta",
-          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
-        }
-      ],
-      "duration_ms": 175657,
-      "name": "Blacklight Shine",
-      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 270945,
       "name": "Thin Thing",
       "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Blacklight Shine",
+        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "duration_ms": 175657,
+      "name": "Blacklight Shine",
+      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Minds Of Our Own",
-        "url": "https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL"
-      },
-      "artists": [
-        {
-          "name": "levitation room",
-          "url": "https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "I Just Wanna",
         "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Minds Of Our Own",
+        "url": "https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL"
+      },
+      "artists": [
+        {
+          "name": "levitation room",
+          "url": "https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 204708,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 204708,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "play it pretty",
         "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
       },
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
+        "name": "In The Darkest Of Nights, Let The Birds Sing",
+        "url": "https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 241173,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
+      "duration_ms": 279361,
+      "name": "Under The Moon",
+      "url": "https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "In The Darkest Of Nights, Let The Birds Sing",
-        "url": "https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 279361,
-      "name": "Under The Moon",
-      "url": "https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "Time Skiffs",
         "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
       },
@@ -1467,22 +1451,6 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
-        "name": "Sesame",
-        "url": "https://open.spotify.com/album/6kBbu8hwcdYGGNi1FpU3K8"
-      },
-      "artists": [
-        {
-          "name": "HOMESHAKE",
-          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "Sesame",
-      "url": "https://open.spotify.com/track/0TjN0hpZEKt5OWMJDPUQ3r"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
       },
@@ -1495,6 +1463,38 @@
       "duration_ms": 229595,
       "name": "America's Cup",
       "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
+        "name": "Sesame",
+        "url": "https://open.spotify.com/album/6kBbu8hwcdYGGNi1FpU3K8"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "duration_ms": 310266,
+      "name": "Sesame",
+      "url": "https://open.spotify.com/track/0TjN0hpZEKt5OWMJDPUQ3r"
     },
     {
       "added_at": "2022-08-01 14:40:36",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-08-01 14:40:36",
       "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 242261,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+    },
+    {
+      "added_at": "2022-08-01 14:40:36",
+      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 222573,
       "name": "Madison",
       "url": "https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ"
-    },
-    {
-      "added_at": "2022-08-01 14:40:36",
-      "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 242261,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
     },
     {
       "added_at": "2022-08-01 14:40:36",

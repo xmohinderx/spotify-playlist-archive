@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,447 likes - 35 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,607 likes - 35 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 4 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
 | 5 | [Thank God I Found You \(feat\. Joe & Nas\) \- Make It Last Remix Edit](https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Clue](https://open.spotify.com/artist/4ybJiTIMVzeVOd00nI8Xxm), [Supa Engineer "Duro"](https://open.spotify.com/artist/04PvD1Anr3LC341vrIWXsf) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:11 |
 | 6 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
-| 7 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
-| 8 | [Sweet Thing](https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 3:45 |
+| 7 | [Sweet Thing](https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 3:45 |
+| 8 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
 | 9 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 | 10 | [Who Can I Run To](https://open.spotify.com/track/0wdaPticLmmqJdhgLDJ9zI) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Off The Hook](https://open.spotify.com/album/6lwTyWDtJbJ3czkIkUBPoj) | 3:36 |
 | 11 | [Million](https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Million](https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU) | 4:31 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
 | 35 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDE4ZjU1YjM2OTRhMDllNTNlZWNkNGRiMzAxNmQxZGQ4`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMGZiOWI0Y2NmMmU3YjFjNDg3MWRkY2RhZThhMDJiNWNk`

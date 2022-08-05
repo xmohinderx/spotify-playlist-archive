@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 
 > La mejor energía con los éxitos de Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,891 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,933 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

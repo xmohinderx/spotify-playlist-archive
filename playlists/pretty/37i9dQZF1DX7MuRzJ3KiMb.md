@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,340 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,397 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 42 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 43 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
 | 44 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
-| 45 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
-| 46 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
+| 45 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
+| 46 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
 | 47 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 48 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 |
 | 49 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 66 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
 | 67 | [Postre](https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN) | 3:00 |
 | 68 | [Florecer](https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Florecer](https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9) | 3:23 |
-| 69 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
-| 70 | [Miedo](https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Miedo](https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8) | 3:20 |
+| 69 | [Miedo](https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Miedo](https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8) | 3:20 |
+| 70 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
 | 71 | [Lalalá](https://open.spotify.com/track/63KP70pPlQ7TMSwkdIP0jC) | [Manu Negrete](https://open.spotify.com/artist/5CEPxspt5POCY0oeaCdOEO) | [Lalalá](https://open.spotify.com/album/6LHfK1MmIEokFqkFBZ8r9S) | 3:01 |
 | 72 | [Contigo Me Quedo](https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Contigo Me Quedo](https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV) | 3:16 |
 | 73 | [Lo Nuestro](https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk) | [Sofía Trenti](https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU) | [Lo Nuestro](https://open.spotify.com/album/3BtYsIyQezsBNFanF9CeOW) | 4:27 |
 | 74 | [Tiempo](https://open.spotify.com/track/08S8EziI1G7mKlpLppezs1) | [César Iván](https://open.spotify.com/artist/0FbElMinO7597uQdQNvIIR) | [Tiempo](https://open.spotify.com/album/5CsywNE84L0cjfi7pr2K5B) | 3:09 |
 | 75 | [Aurana Espérame](https://open.spotify.com/track/0JwJElZzKXF4TnzN30uxZw) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:03 |
 
-Snapshot ID: `MTY1ODI1Mjk4NCwwMDAwMDAwMGJkNzZjOGJjMDg1NjRhYmI5Njg2ZjBmNTQ0NzM1MzM4`
+Snapshot ID: `MTY1ODI1Mjk4NCwwMDAwMDAwMGU2MjUxZDYwMjRiMDA3MjBkMjQwM2RlYTYwNzQ5OGUx`

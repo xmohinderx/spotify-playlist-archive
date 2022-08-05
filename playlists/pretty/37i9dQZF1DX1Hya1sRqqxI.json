@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 121374,
+  "num_followers": 121552,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM0NjgzMywwMDAwMDAwMGJjN2Q3MDU2MGM5ZGU4OGRiYWMwZWVmMzdhMDZlMGQ3",
+  "snapshot_id": "MTY0NzM0NjgzMywwMDAwMDAwMDJiZWZiZjNmODA4OTIxZGM4OGE1NDZjMWY5MzcxMTY4",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Raspberries",
-        "url": "https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv"
-      },
-      "artists": [
-        {
-          "name": "Raspberries",
-          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Go All The Way",
-      "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "War And Peace",
-        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+        "name": "Raspberries",
+        "url": "https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv"
       },
       "artists": [
         {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+          "name": "Raspberries",
+          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
         }
       ],
-      "duration_ms": 200266,
-      "name": "War",
-      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+      "duration_ms": 205346,
+      "name": "Go All The Way",
+      "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1531,6 +1515,22 @@
       "duration_ms": 239611,
       "name": "Stumblin' In - 2017 Remaster",
       "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "War And Peace",
+        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "4 Hits: Eruption",
         "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 213200,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1771,6 +1771,26 @@
       "duration_ms": 251333,
       "name": "Love Is The Drug",
       "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Best Years of Our Lives (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4D1oAjj0nxeAlsAJWAJn8g"
+      },
+      "artists": [
+        {
+          "name": "Steve Harley",
+          "url": "https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym"
+        },
+        {
+          "name": "Steve Harley & Cockney Rebel",
+          "url": "https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1807,26 +1827,6 @@
       "duration_ms": 183693,
       "name": "I Love to Love",
       "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Best Years of Our Lives (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4D1oAjj0nxeAlsAJWAJn8g"
-      },
-      "artists": [
-        {
-          "name": "Steve Harley",
-          "url": "https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym"
-        },
-        {
-          "name": "Steve Harley & Cockney Rebel",
-          "url": "https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
-      "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1989,6 +1989,22 @@
       "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "A Taste Of Honey",
+        "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
+      },
+      "artists": [
+        {
+          "name": "A Taste Of Honey",
+          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
+        }
+      ],
+      "duration_ms": 338320,
+      "name": "Boogie Oogie Oogie - Remastered 2004",
+      "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Wild And Peaceful",
@@ -2007,18 +2023,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "A Taste Of Honey",
-        "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
       },
       "artists": [
         {
-          "name": "A Taste Of Honey",
-          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 338320,
-      "name": "Boogie Oogie Oogie - Remastered 2004",
-      "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
+      "duration_ms": 240333,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2069,22 +2085,6 @@
       "url": "https://open.spotify.com/track/2ktaHXmUWb5fcHqoevvHgg"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Signature Box",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Nightbirds",
-        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
-      },
-      "artists": [
-        {
-          "name": "LaBelle",
-          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Lady Marmalade",
-      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Sky High",
         "url": "https://open.spotify.com/album/0Iytoyo5RIovN9CL5Ii8nW"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 393013,
       "name": "Heaven Must Be Missing An Angel - Pt. 1",
       "url": "https://open.spotify.com/track/7BDW57CKVzbjvwRT2xuv01"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Nightbirds",
+        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
+      },
+      "artists": [
+        {
+          "name": "LaBelle",
+          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Lady Marmalade",
+      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2233,22 +2233,6 @@
       "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "I Love The Way You Love",
-        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Clean up Woman",
-      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "I Remember Yesterday",
@@ -2263,6 +2247,22 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "I Love The Way You Love",
+        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Clean up Woman",
+      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
       "added_at": "2021-09-08 13:31:49",

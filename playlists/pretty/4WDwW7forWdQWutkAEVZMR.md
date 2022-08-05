@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Beyoncé, Harry Styles &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,306 likes - 44 songs - 2 hr 21 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,307 likes - 44 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,474 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,483 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 44 | [Trenzas](https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Brian Chambouleyron](https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ), [Esteban Morgado](https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl), [Damian Bolotin](https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp), [Walter Castro](https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG), [Mono Hurtado](https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL) | [Patio De Tango](https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS) | 4:30 |
 | 45 | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z) | [Ada Falcón](https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3) | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy) | 3:28 |
 | 46 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
-| 47 | [Cafetín de Buenos Aires](https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Horacio Avilano](https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E), [Hernán Fredes](https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj), [Hernán Mastromarini](https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY) | [Buenos Aires](https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7) | 3:30 |
+| 47 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
 | 48 | [Sur](https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [Tangos Famosos Cantados](https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo) | 3:18 |
 | 49 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
-| 50 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
+| 50 | [Cafetín de Buenos Aires](https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Horacio Avilano](https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E), [Hernán Fredes](https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj), [Hernán Mastromarini](https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY) | [Buenos Aires](https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7) | 3:30 |
 | 51 | [Tal vez será su voz](https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal Vez Será Su Voz](https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW) | 4:25 |
 | 52 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
 | 53 | [Muñeca Brava](https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temas Pendientes](https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB) | 2:45 |
 | 54 | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki) | [Gisela Magri](https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH), [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu) | 2:06 |
-| 55 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
+| 55 | [Balada para el](https://open.spotify.com/track/7bgQHZYKli3IE0vI379Yso) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/1VzmZvoHSg9ecyFb9W3jaR) | 4:29 |
 
-Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDM3N2E5NGE0OGRkNTUxYWJjNGFiMWY3YzIwMjJjMjEw`
+Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDNlYjBmY2E5MGNhMDM1NDM1M2I1NjhkNjQ3NzNlZDhl`

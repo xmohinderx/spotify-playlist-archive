@@ -4,7 +4,7 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-70 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/6Yv4Yq1148W8YtnN6t5EXN)
+71 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/6Yv4Yq1148W8YtnN6t5EXN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Altered States \- Original Version](https://open.spotify.com/track/4Ps7ZJ2YJmQhmEpHhPZ5Pu) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Altered States Blak Tech Society \(Remixes and Rethinks\)](https://open.spotify.com/album/3jBDwYYSaq2mvWLaQbjx5Q) | 13:40 | 2021-06-01 |  |
 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 | 2021-06-01 |  |
 | [Bring Down the Walls \- Club 12" Mix](https://open.spotify.com/track/5B877qrirzwdOZUzNZ8GJj) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Sources \- The Trax Records Anthology Compiled by Bill Brewster](https://open.spotify.com/album/1k8Bqa4KCK7ihCuyljIoBC) | 5:37 | 2021-06-01 | 2022-07-29 |
-| [Can U Dance](https://open.spotify.com/track/3poyzqZ7oCNWEQQbNDdxJG) | [Kenny Jason](https://open.spotify.com/artist/49BbzHPrQAPcJKg79Ef2aB), [Dj Fast Eddie](https://open.spotify.com/artist/5lXVbldEpBEB9PWoNKokut) | [Colours of House Music, Vol\. 1 \(Essential Collection of House Music, Oldskool and Future Classixx\)](https://open.spotify.com/album/2zK1ok08vM1oGFXJt4mcw1) | 6:52 | 2021-06-01 |  |
+| [Can U Dance](https://open.spotify.com/track/3poyzqZ7oCNWEQQbNDdxJG) | [Kenny Jason](https://open.spotify.com/artist/49BbzHPrQAPcJKg79Ef2aB), [Dj Fast Eddie](https://open.spotify.com/artist/5lXVbldEpBEB9PWoNKokut) | [Colours of House Music, Vol\. 1 \(Essential Collection of House Music, Oldskool and Future Classixx\)](https://open.spotify.com/album/2zK1ok08vM1oGFXJt4mcw1) | 6:52 | 2021-06-01 | 2022-08-05 |
+| [Can U Dance \- Original](https://open.spotify.com/track/3fwERi4c7YGnHFEVnwGTQm) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Can U Dance](https://open.spotify.com/album/4e14JHptqsfgqVlX0Z0NoI) | 6:52 | 2021-06-01 |  |
 | [Can You Party](https://open.spotify.com/track/0oWsLdL42QXWzHA1mzekTC) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [Can You Party](https://open.spotify.com/album/6XDDcGr98kPfkv1FZ5fYoI) | 5:10 | 2021-06-01 |  |
 | [Can You Party \(Club Mix\)](https://open.spotify.com/track/6TeKFnwaPsXI35gaQEoR8z) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [Can You Party](https://open.spotify.com/album/6XDDcGr98kPfkv1FZ5fYoI) | 6:04 | 2021-06-01 |  |
 | [Can't Get Enough \- Club](https://open.spotify.com/track/1Y1j6O3M0UFs508PiScqFA) | [Liz Torres](https://open.spotify.com/artist/7LI1GL4hWpWNZZqF0YOrBG) | [Original Acid House Tracks](https://open.spotify.com/album/2OAtpG4qmck9JB40ztJJpy) | 5:21 | 2021-06-01 | 2022-07-29 |

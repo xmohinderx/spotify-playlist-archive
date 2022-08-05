@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,243 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,328 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 2 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 |
-| 3 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 |
-| 4 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
+| 3 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
+| 4 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 |
 | 5 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
 | 6 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
 | 7 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 42 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 |
 | 43 | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/track/1BsZW3NH0aTEc7KMmglYWU) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/album/3UkdUEC0ih1F7F6tXMlXbT) | 2:32 |
 | 44 | [Not Gang \(feat\. EST Gee\)](https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0) | [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood Sample](https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3) | 3:09 |
-| 45 | [Chanel Slides \(feat\. Kash Doll\)](https://open.spotify.com/track/0Q7oKGmOMygeemUaUr6lYJ) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Big Dreez](https://open.spotify.com/album/6LTCFCmcHl9RgVCjWKghNS) | 2:54 |
-| 46 | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v) | 3:05 |
+| 45 | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v) | 3:05 |
+| 46 | [Chanel Slides \(feat\. Kash Doll\)](https://open.spotify.com/track/0Q7oKGmOMygeemUaUr6lYJ) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Big Dreez](https://open.spotify.com/album/6LTCFCmcHl9RgVCjWKghNS) | 2:54 |
 | 47 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 |
 | 48 | [Bankrupt](https://open.spotify.com/track/1mnQEp3ySFIn18UpKUiQCw) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Aaliyah Keef](https://open.spotify.com/album/7bgJfdpf6ciPAFW27o2rc5) | 3:01 |
 | 49 | [Don't Like Me](https://open.spotify.com/track/15vBa8JFlc906oRT103Fdf) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Don't Like Me](https://open.spotify.com/album/4LlFHwHtA9gQZ6XC9fvWeZ) | 2:17 |
 | 50 | [Join Em](https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:50 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDRlMzk5NzE0ZmNiNjk4ZDhkYmI0NjQ2ZTQxNjhjZjdh`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDEwZGEzNWViODgyNjE4MjdiOWI1NmU1ZWU4Yjg3Yzkx`

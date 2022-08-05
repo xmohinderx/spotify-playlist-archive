@@ -1,12 +1,12 @@
 {
   "description": "Aquele pop misturado com hip hop ou funk pura brisa. Foto: Lukinhas",
-  "num_followers": 224031,
+  "num_followers": 224093,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5NTc4NiwwMDAwMDAwMGEzMmVkOGIzODM1ZGFhOGU0NTQ2MjM3MWVmOWNiYTIy",
+  "snapshot_id": "MTY1ODQ5NTc4NiwwMDAwMDAwMDY4ZjIwMTJlNWFiZTA4MjIwMjUwMjU3ZWY5M2EzZjBk",
   "tracks": [
     {
       "added_at": "2022-07-22 13:16:26",
@@ -399,6 +399,30 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
+        "name": "Zod\u00edaco",
+        "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Le\u00e3o",
+      "url": "https://open.spotify.com/track/2J1ypgIAzXp75ekOrTtYkC"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -427,30 +451,6 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
-        "name": "Zod\u00edaco",
-        "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Le\u00e3o",
-      "url": "https://open.spotify.com/track/2J1ypgIAzXp75ekOrTtYkC"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
         "name": "EITA MENINA",
         "url": "https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE"
       },
@@ -471,6 +471,54 @@
       "duration_ms": 187069,
       "name": "EITA MENINA",
       "url": "https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
+        "name": "Ei Amor",
+        "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
+      },
+      "artists": [
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        },
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        }
+      ],
+      "duration_ms": 141354,
+      "name": "Ei Amor",
+      "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
+        "name": "Ap\u00ea 1001",
+        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ap\u00ea 1001",
+      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -507,54 +555,6 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
-        "name": "Ap\u00ea 1001",
-        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Ap\u00ea 1001",
-      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
-        "name": "Ei Amor",
-        "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
-      },
-      "artists": [
-        {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
-        },
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        }
-      ],
-      "duration_ms": 141354,
-      "name": "Ei Amor",
-      "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
         "name": "Mais Uma Vez",
         "url": "https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs"
       },
@@ -567,30 +567,6 @@
       "duration_ms": 131571,
       "name": "Atr\u00e1s Do Meu Amor",
       "url": "https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
-        "name": "Ac\u00fastico Canc\u00fan",
-        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Irineu Bars\u00e9",
-          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Uma Linda Mulher - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -623,6 +599,30 @@
       "duration_ms": 164471,
       "name": "aff...",
       "url": "https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
+        "name": "Ac\u00fastico Canc\u00fan",
+        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Irineu Bars\u00e9",
+          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Uma Linda Mulher - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
+        "name": "No Controle",
+        "url": "https://open.spotify.com/album/3jUBaYSWGMrdUJDNuX8a9j"
+      },
+      "artists": [
+        {
+          "name": "Zoo",
+          "url": "https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH"
+        }
+      ],
+      "duration_ms": 169646,
+      "name": "No Controle",
+      "url": "https://open.spotify.com/track/5N3Eev4bnivAyCQabpYPLX"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 208762,
       "name": "Linda",
       "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
-        "name": "No Controle",
-        "url": "https://open.spotify.com/album/3jUBaYSWGMrdUJDNuX8a9j"
-      },
-      "artists": [
-        {
-          "name": "Zoo",
-          "url": "https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH"
-        }
-      ],
-      "duration_ms": 169646,
-      "name": "No Controle",
-      "url": "https://open.spotify.com/track/5N3Eev4bnivAyCQabpYPLX"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
-        "name": "Sem Ca\u00f4",
-        "url": "https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "IssoQue\u00c9SomDeRap",
-          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
-        },
-        {
-          "name": "Cortesia Da Casa",
-          "url": "https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6"
-        }
-      ],
-      "duration_ms": 234826,
-      "name": "Sem Ca\u00f4",
-      "url": "https://open.spotify.com/track/06fLo9eK0m0OCN6GDS1N8M"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
         "name": "Fora de contexto",
         "url": "https://open.spotify.com/album/2qWZTDrMZaYJOkYHssLIWN"
       },
@@ -1527,6 +1503,30 @@
       "duration_ms": 125969,
       "name": "Fora de contexto",
       "url": "https://open.spotify.com/track/6pyEoSCvWdCvl0EAkVdpDp"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
+        "name": "Sem Ca\u00f4",
+        "url": "https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        },
+        {
+          "name": "Cortesia Da Casa",
+          "url": "https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6"
+        }
+      ],
+      "duration_ms": 234826,
+      "name": "Sem Ca\u00f4",
+      "url": "https://open.spotify.com/track/06fLo9eK0m0OCN6GDS1N8M"
     },
     {
       "added_at": "2022-07-22 13:16:26",

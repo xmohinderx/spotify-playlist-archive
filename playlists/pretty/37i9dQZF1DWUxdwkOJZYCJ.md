@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 
 > Energetic tracks from the 1990s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,404 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,693 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 17 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
 | 18 | [Black or White \- Single Version](https://open.spotify.com/track/6wdviVWctiZnY6tVn6bh6A) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 3:18 |
 | 19 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
-| 20 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
-| 21 | [Beautiful Life](https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Bridge](https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3) | 3:41 |
+| 20 | [Beautiful Life](https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Bridge](https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3) | 3:41 |
+| 21 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
 | 22 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 |
 | 23 | [Men In Black \- From "Men In Black" Soundtrack](https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
 | 24 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 38 | [Affirmation](https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:55 |
 | 39 | [Things Can Only Get Better](https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj) | 4:18 |
 | 40 | [Joyride](https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Extended Version\)](https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N) | 4:23 |
-| 41 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 |
-| 42 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 |
-| 43 | [The One and Only](https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [Buddy's Song](https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz) | 3:43 |
+| 41 | [The One and Only](https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [Buddy's Song](https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz) | 3:43 |
+| 42 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 |
+| 43 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 |
 | 44 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
 | 45 | [Life Is a Flower](https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Flowers](https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q) | 3:47 |
 | 46 | [The Animal Song](https://open.spotify.com/track/5TuzQ44lPWTCKbfXbNIEXg) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 49 | [Killer / Papa Was a Rollin' Stone](https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:15 |
 | 50 | [All or Nothing](https://open.spotify.com/track/4yWeYfdw5FR0vAMjtFfddA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:58 |
 
-Snapshot ID: `MTY1MjM1ODYwMywwMDAwMDAwMDlhOGNkMDNhOTE0NzQ5MWI3ZDExYTlhYzk2MjQ5YWQx`
+Snapshot ID: `MTY1MjM1ODYwMywwMDAwMDAwMGRlMTVmYTgwMWZjNTFhYTUxNWYwNjFhZTE3NDY4NTAy`

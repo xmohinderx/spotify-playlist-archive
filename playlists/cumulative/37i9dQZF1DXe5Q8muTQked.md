@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-598 songs - 1 day 13 hr 0 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+599 songs - 1 day 13 hr 2 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 | 2021-10-20 |  |
 | [Bright](https://open.spotify.com/track/1SyLXPm2RkbX1UjS1eTmlQ) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Bright](https://open.spotify.com/album/6NCCIT61z4lECW3MPrvf2z) | 3:36 | 2021-10-20 | 2022-04-30 |
 | [Buckets Of Rain](https://open.spotify.com/track/25SaaQh3t8GNLdsOZpTbZP) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin TX](https://open.spotify.com/album/1woYdJYYs9ZaCT8VyMVcdk) | 2:48 | 2022-06-10 | 2022-07-23 |
+| [Buckets of Rain \- Live](https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/2omhPQsUhtcv9lWE443mcC) | 2:48 | 2022-06-10 |  |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-06-10 |  |
 | [California](https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/1og5RxTX9bM7v7yw5qOFqC) | 2:47 | 2021-10-20 | 2022-07-28 |
 | [California Dreamin \- Acoustic Mix](https://open.spotify.com/track/4FmVtdjLVhzHpNuBhMF8Wj) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T) | [California Dreamin](https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al) | 3:28 | 2021-10-20 | 2022-07-29 |
@@ -585,7 +586,7 @@
 | [Yes It Is \- Live](https://open.spotify.com/track/5ooRLYGe1WiqSDxVAsrAd5) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [BRIDGE SCHOOL CONCERTS, VOL\. ONE](https://open.spotify.com/album/2vcDnqv787PE1q1ym6qvjN) | 2:45 | 2022-04-29 | 2022-07-29 |
 | [Yesterday](https://open.spotify.com/track/1UdSYzD1LoJDjMItD0b9S7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Yesterday](https://open.spotify.com/album/1BO3Inze7ruR55Qf10PRw6) | 2:36 | 2021-10-20 | 2022-07-29 |
 | [Yesterday \- The Voice Performance](https://open.spotify.com/track/1vwS6VySlFAoxGIlz8Lgz6) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Tony Lucca](https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC) | [Yesterday \(The Voice Performance\)](https://open.spotify.com/album/5L0UZjPgiMHjYIWsBACd80) | 2:11 | 2021-10-20 | 2022-07-03 |
-| [Yesterday \- The Voice Performance](https://open.spotify.com/track/5fvETjmhp6xoCQKVAjklVE) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Tony Lucca](https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC) | [Yesterday \(The Voice Performance\)](https://open.spotify.com/album/25vKdvb2IkaTIuHLcIgrAZ) | 2:11 | 2022-06-10 |  |
+| [Yesterday \- The Voice Performance](https://open.spotify.com/track/5fvETjmhp6xoCQKVAjklVE) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Tony Lucca](https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC) | [Yesterday \(The Voice Performance\)](https://open.spotify.com/album/25vKdvb2IkaTIuHLcIgrAZ) | 2:11 | 2022-06-10 | 2022-08-05 |
 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH) | 6:13 | 2021-10-20 |  |
 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 | 2021-10-20 |  |
 | [You Can Call Me Al](https://open.spotify.com/track/5ByfgksA7N2f70dnuFABTE) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [You Can Call Me Al](https://open.spotify.com/album/2cfSqRUVoq2Q8Ds0upCXM4) | 4:13 | 2021-10-20 | 2022-07-29 |

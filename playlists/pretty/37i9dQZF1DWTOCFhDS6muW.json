@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 15152,
+  "num_followers": 15164,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDRkODhhNjNkNDgxNDk5NTA1NzRhOWNmZDBlMzkzM2Rm",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGE4YWIzNzZkYWZmODE1YmE4ZTYwY2M1NGQ0ZjRhNWFl",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -75,18 +75,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
+        "name": "El Otro Yo",
+        "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
       },
       "artists": [
         {
-          "name": "Los Roland's",
-          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
+          "name": "Pilo Tejeda",
+          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
+        },
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 278151,
-      "name": "La Yuca",
-      "url": "https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8"
+      "duration_ms": 195578,
+      "name": "Sopa de Caracol (Remix)",
+      "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -107,22 +111,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "El Otro Yo",
-        "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
       },
       "artists": [
         {
-          "name": "Pilo Tejeda",
-          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
-        },
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+          "name": "Los Roland's",
+          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
         }
       ],
-      "duration_ms": 195578,
-      "name": "Sopa de Caracol (Remix)",
-      "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
+      "duration_ms": 278151,
+      "name": "La Yuca",
+      "url": "https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -191,6 +191,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
+      },
+      "artists": [
+        {
+          "name": "Los Roland's",
+          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
+        }
+      ],
+      "duration_ms": 325250,
+      "name": "Tickita Tickita",
+      "url": "https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 443520,
       "name": "Puntas Garifunas Criollas",
       "url": "https://open.spotify.com/track/1dIQDYKOOoE4GuUXO5ReV9"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
-      },
-      "artists": [
-        {
-          "name": "Los Roland's",
-          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
-        }
-      ],
-      "duration_ms": 325250,
-      "name": "Tickita Tickita",
-      "url": "https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 299400,
-      "name": "El Pato y la Gallina",
-      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Batalla de las Puntas, Vol. 3",
         "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
       },
@@ -347,38 +331,6 @@
       "duration_ms": 309240,
       "name": "Oye Este Canto Aka Levantando las Manos",
       "url": "https://open.spotify.com/track/6VHH8EZHnvE2QcL0pipwhY"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
-      },
-      "artists": [
-        {
-          "name": "Garifuna Kids",
-          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
-        }
-      ],
-      "duration_ms": 396303,
-      "name": "Baila Baila",
-      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Puro \u00c9xitos: Las Chicas Rolands",
-        "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Rolands",
-          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
-        }
-      ],
-      "duration_ms": 213178,
-      "name": "Laluda Belly",
-      "url": "https://open.spotify.com/track/3IpmaBjOYg4SRJHS7HXnSa"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -415,6 +367,54 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
+      },
+      "artists": [
+        {
+          "name": "Garifuna Kids",
+          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
+        }
+      ],
+      "duration_ms": 396303,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Puro \u00c9xitos: Las Chicas Rolands",
+        "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "duration_ms": 213178,
+      "name": "Laluda Belly",
+      "url": "https://open.spotify.com/track/3IpmaBjOYg4SRJHS7HXnSa"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 299400,
+      "name": "El Pato y la Gallina",
+      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "L\u00e1ndini",
         "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
       },
@@ -447,8 +447,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Puntas Garifunas Con Cache",
-        "url": "https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
       },
       "artists": [
         {
@@ -456,41 +456,9 @@
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 222360,
-      "name": "Dona Amidi",
-      "url": "https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "Imagenes",
-      "url": "https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 282723,
-      "name": "Punta Silver",
-      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
+      "duration_ms": 255133,
+      "name": "Si Pudiera Yo",
+      "url": "https://open.spotify.com/track/6hOVsyMdpk2aZK6zcKnXMK"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -527,6 +495,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "Imagenes",
+      "url": "https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Mete Y Saca",
         "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
       },
@@ -543,22 +527,6 @@
       "duration_ms": 323436,
       "name": "Mete Y Saca",
       "url": "https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -595,34 +563,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
       },
       "artists": [
         {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Si Pudiera Yo",
-      "url": "https://open.spotify.com/track/6hOVsyMdpk2aZK6zcKnXMK"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "La Ametralladora",
-        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Rolands",
-          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
-        }
-      ],
-      "duration_ms": 154476,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
+      "duration_ms": 186410,
+      "name": "Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -643,6 +595,38 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Puntas Garifunas Con Cache",
+        "url": "https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Dona Amidi",
+      "url": "https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "duration_ms": 113475,
+      "name": "Vamos Vamos Todos Con la Seleccion",
+      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Mete Y Saca",
         "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 371135,
       "name": "Cartel Mix",
       "url": "https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     }
   ],
   "unique_name": "Punta",

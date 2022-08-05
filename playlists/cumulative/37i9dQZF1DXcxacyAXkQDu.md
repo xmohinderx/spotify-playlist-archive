@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-752 songs - 1 day 20 hr 39 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+753 songs - 1 day 20 hr 42 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Feel About You](https://open.spotify.com/track/4TtuBJndJBA7cEq8ZmFY1t) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [Feel About You](https://open.spotify.com/album/3SrY29FmKk8C2Z9W3gAsPf) | 3:20 | 2022-03-24 | 2022-07-29 |
 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 | 2021-12-21 |  |
 | [Fight For You](https://open.spotify.com/track/39b57sOdT2Rq8dV73tXLnQ) | [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ZAY](https://open.spotify.com/artist/3ziV4m3hRoAABPnGVWrIAL) | [Fight For You](https://open.spotify.com/album/34FWkEPkGoKb2cSPef1nmF) | 3:05 | 2022-01-07 | 2022-06-08 |
+| [Fight For You](https://open.spotify.com/track/3YGTxLdUcOk5upQGt7iYC4) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [ZAY](https://open.spotify.com/artist/3ziV4m3hRoAABPnGVWrIAL) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:05 | 2022-07-08 |  |
 | [Fight Song \- Acoustic version](https://open.spotify.com/track/4UaxxZPHAlBEwtI0roFdSG) | [SAFARI](https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK) | [Fight Song](https://open.spotify.com/album/25kZ8tRCpxb2g3QcskOMOa) | 4:02 | 2022-07-08 |  |
 | [Fight Song \- Acoustic version](https://open.spotify.com/track/5CyWu4wp8Q8pII8RTo6d2d) | [SAFARI](https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK) | [Fight Song](https://open.spotify.com/album/3DzusYJgPXdUyCHpi9REsC) | 4:02 | 2022-03-24 | 2022-04-20 |
 | [Fill Me Up](https://open.spotify.com/track/1d17pl7cIypQY8CABIJpWb) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Summer 3000](https://open.spotify.com/album/7BAhm5zjEzoHlfC3cIZaKf) | 2:34 | 2021-12-21 | 2022-07-29 |
@@ -686,7 +687,7 @@
 | [Ugly Heart](https://open.spotify.com/track/7mNPYVxyHtEneLo7tjQJMj) | [Thyra](https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G) | [Ugly Heart](https://open.spotify.com/album/7FqsBBmPJedOQJ93xZ6JRg) | 3:38 | 2022-03-24 | 2022-04-20 |
 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 | 2021-12-21 |  |
 | [Uncrazy \- Acoustic](https://open.spotify.com/track/77Mh4OWNEJiHbMgJZoZRcY) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Uncrazy \(Acoustic\)](https://open.spotify.com/album/6gcxHD2oNouSKLigpESX0w) | 3:51 | 2021-12-21 |  |
-| [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2022-07-08 |  |
+| [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2022-07-08 | 2022-08-05 |
 | [Unknown](https://open.spotify.com/track/3fXbUuDBRoe0PMQ3BItnAc) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown/Running](https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak) | 4:10 | 2022-03-24 | 2022-04-17 |
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 | 2021-12-21 | 2022-02-08 |
 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 | 2021-12-21 |  |

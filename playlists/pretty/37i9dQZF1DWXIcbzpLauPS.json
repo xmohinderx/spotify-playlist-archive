@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: August Burns Red",
-  "num_followers": 868445,
+  "num_followers": 868417,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDQ5ODA1MmFjOGYwNWVmM2IzOWExOGQxNDEwZjMxYTMy",
+  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDkwM2UxM2YzNDU3ZTQ2Mzc1OTY4ZGJlMzJiMjI1OGQ3",
   "tracks": [
     {
       "added_at": "2022-07-08 00:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Play Time",
-        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
-      },
-      "artists": [
-        {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
-        }
-      ],
-      "duration_ms": 216917,
-      "name": "Play Time",
-      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Fury",
         "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 186358,
       "name": "Code of Honor",
       "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Play Time",
+        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+      },
+      "artists": [
+        {
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        }
+      ],
+      "duration_ms": 216917,
+      "name": "Play Time",
+      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "What Is War",
         "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 239571,
       "name": "No Hope 'Til Now",
       "url": "https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Dead Circus",
+        "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Dead Circus",
+      "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 169000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Dead Circus",
-        "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Dead Circus",
-      "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "Summertown",
         "url": "https://open.spotify.com/album/40iNTLmwIhwkEYRtsUNlJC"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 223538,
       "name": "Summertown",
       "url": "https://open.spotify.com/track/5M0jC2erbDuwYEM6PgiQ3I"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Be Someone",
-        "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
-      },
-      "artists": [
-        {
-          "name": "Banks Arcade",
-          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw"
-      },
-      "artists": [
-        {
-          "name": "VENUES",
-          "url": "https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Miscreation",
         "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 213401,
       "name": "Miscreation",
       "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw"
+      },
+      "artists": [
+        {
+          "name": "VENUES",
+          "url": "https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "No King Rules Forever",
-        "url": "https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI"
-      },
-      "artists": [
-        {
-          "name": "Alex Yarmak",
-          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "No King Rules Forever",
-      "url": "https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 198657,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "No King Rules Forever",
+        "url": "https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI"
+      },
+      "artists": [
+        {
+          "name": "Alex Yarmak",
+          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No King Rules Forever",
+      "url": "https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n"
     },
     {
       "added_at": "2022-07-08 00:00:00",

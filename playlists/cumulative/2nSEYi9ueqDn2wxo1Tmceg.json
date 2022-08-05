@@ -1610,6 +1610,28 @@
     },
     {
       "album": {
+        "name": "P\u00e1jaros en Verano",
+        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "P\u00e1jaros en Verano",
+      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
+    },
+    {
+      "album": {
         "name": "Rainbows and Dreams",
         "url": "https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr"
       },

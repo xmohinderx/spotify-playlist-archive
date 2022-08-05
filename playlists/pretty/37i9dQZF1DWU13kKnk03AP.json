@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 1985401,
+  "num_followers": 1985755,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM4NDAxOSwwMDAwMDAwMGRkYmViYWU3NGJjNTYxOWQ2N2ExNTg5NDgyNWE1Zjgy",
+  "snapshot_id": "MTY1OTM4NDAxOSwwMDAwMDAwMGYxOTAxMzBkZmY1MTljNDMwMGM0NTViMDRkYmE1MWZi",
   "tracks": [
     {
       "added_at": "2022-08-01 20:00:19",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-08-01 20:00:19",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
-    },
-    {
-      "added_at": "2022-08-01 20:00:19",
-      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2022-08-01 20:00:19",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
     },
     {
       "added_at": "2022-08-01 20:00:19",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2022-08-01 20:00:19",
       "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+    },
+    {
+      "added_at": "2022-08-01 20:00:19",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 177156,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
-    },
-    {
-      "added_at": "2022-08-01 20:00:19",
-      "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2022-08-01 20:00:19",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-08-01 20:00:19",
       "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2022-08-01 20:00:19",
+      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
-    },
-    {
-      "added_at": "2022-08-01 20:00:19",
-      "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2022-08-01 20:00:19",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-08-01 20:00:19",
       "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
-    },
-    {
-      "added_at": "2022-08-01 20:00:19",
-      "album": {
         "name": "Easy Lover (feat. Big Sean)",
         "url": "https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 215937,
       "name": "Easy Lover (feat. Big Sean)",
       "url": "https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs"
+    },
+    {
+      "added_at": "2022-08-01 20:00:19",
+      "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 170858,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
     },
     {
       "added_at": "2022-08-01 20:00:19",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-08-01 20:00:19",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 185522,
-      "name": "I Love U",
-      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
-    },
-    {
-      "added_at": "2022-08-01 20:00:19",
-      "album": {
         "name": "What A Man Gotta Do",
         "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 180644,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "added_at": "2022-08-01 20:00:19",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 185522,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
     },
     {
       "added_at": "2022-08-01 20:00:19",

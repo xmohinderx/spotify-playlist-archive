@@ -92,6 +92,28 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/0iaxJy9W6DrkrnvwKgdyjf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164609,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5tOq0CP7E8025oB6l9eghz"
+    },
+    {
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/5vSXoikwA71eYYku7kcKA6"
       },

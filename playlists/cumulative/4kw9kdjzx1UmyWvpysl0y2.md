@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-227 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+228 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |
+| [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 | 2022-08-04 |  |
 | [Jupiter & Saturn](https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Jupiter & Saturn](https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW) | 3:13 | 2022-06-17 |  |
 | [Just Dance](https://open.spotify.com/track/3OTClWUY9bf3qVXrR9LNL6) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Just Dance](https://open.spotify.com/album/5JKQ1by0GaQLYzgR1IyyS4) | 3:14 | 2022-04-15 | 2022-06-25 |
 | [just wanna luv](https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [just wanna luv](https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv) | 4:17 | 2022-03-25 | 2022-06-08 |
@@ -162,7 +163,7 @@
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-28 |  |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |
 | [Rainbow Rave Parade](https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Rainbow Rave Parade](https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz) | 3:32 | 2022-02-28 | 2022-05-11 |
-| [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 |  |
+| [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 | 2022-08-05 |
 | [Read Your Lips](https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Read Your Lips](https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb) | 3:27 | 2021-11-19 | 2022-01-25 |
 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 | 2022-07-15 |  |
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 | 2022-07-07 |

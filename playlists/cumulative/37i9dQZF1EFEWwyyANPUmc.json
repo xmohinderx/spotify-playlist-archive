@@ -1010,6 +1010,32 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/45joQYljjWbtQHKYgoFoQz"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213070,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7BnARJhzGKD89USQRKGtbU"
+    },
+    {
+      "album": {
         "name": "Les 5inq",
         "url": "https://open.spotify.com/album/1UliRcbHEglMIQmsRnlspu"
       },

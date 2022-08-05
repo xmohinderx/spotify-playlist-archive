@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,051 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,058 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 17 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 |
 | 18 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp) | 4:23 |
 | 19 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
-| 20 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
-| 21 | [When the Well Runs Dry](https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8) | [Liv Douglas](https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [When the Well Runs Dry](https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ) | 4:00 |
+| 20 | [When the Well Runs Dry](https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8) | [Liv Douglas](https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [When the Well Runs Dry](https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ) | 4:00 |
+| 21 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
 | 22 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 |
-| 23 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
-| 24 | [07:00 the Morning Comes](https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:36 |
+| 23 | [07:00 the Morning Comes](https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:36 |
+| 24 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
 | 25 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 |
 | 26 | [Stir A Passion](https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [O, Peace](https://open.spotify.com/album/0DQEChF6qLK8DthcId02sL) | 5:04 |
 | 27 | [This Is Love](https://open.spotify.com/track/6dt39KMTAzJS87Hfp0n1Mc) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Love Secrets](https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM) | 3:33 |
 | 28 | [Daughters of Zion](https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Neighbor Songs](https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So) | 4:01 |
-| 29 | [A Little Bit of Faith](https://open.spotify.com/track/3EW6m7ejAsPQklHPqvkOCI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:03 |
-| 30 | [For Your Glory](https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Comes and Goes](https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP) | 3:37 |
-| 31 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 |
-| 32 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
+| 29 | [For Your Glory](https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Comes and Goes](https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP) | 3:37 |
+| 30 | [A Little Bit of Faith](https://open.spotify.com/track/3EW6m7ejAsPQklHPqvkOCI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:03 |
+| 31 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
+| 32 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 |
 | 33 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
 | 34 | [Loved by You](https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Loved by You](https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm) | 4:54 |
 | 35 | [Held by Your Love](https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK) | [Lion & Bear](https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g) | [Hollows](https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l) | 4:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 |
 | 60 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMGRhMjg0ZTE0ZDVjMTY4Y2RmZjIyZGY4ZGM3NWM3Nzg2`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDI4OGVhOWFkNDlhZDVjYjg2ZGQwOTJmOTQwZDc5ODk5`

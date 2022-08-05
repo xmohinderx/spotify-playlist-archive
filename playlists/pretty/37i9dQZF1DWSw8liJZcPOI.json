@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 382503,
+  "num_followers": 382632,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDk0YTI0ZThjNjMyYWMwNGQzNjkxN2RkZmZlNjEwOWM5",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDI0NDAwMjVlNzU4NTk3NzE1OTU5NTgyNWY4ZDcyMjc3",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -131,6 +131,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 159837,
+      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Woven Song \u2014 piano reworks",
         "url": "https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 219549,
       "name": "Eyes Closed And Traveling",
       "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 159837,
-      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Surface (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 148432,
+      "name": "Surfaced - From \"Surface\"",
+      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Chasing the Present (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 238046,
       "name": "Beginnings",
       "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Surface (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 148432,
-      "name": "Surfaced - From \"Surface\"",
-      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Humming Bird Rework",
-        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        },
-        {
-          "name": "Mond\u00ebna Quartet",
-          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
-        }
-      ],
-      "duration_ms": 201774,
-      "name": "Humming Bird Rework",
-      "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Sigur R\u00f3s: Flj\u00f3tav\u00edk",
         "url": "https://open.spotify.com/album/5lTDQh05XStGCWjbEuKW45"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 248692,
       "name": "Flj\u00f3tav\u00edk",
       "url": "https://open.spotify.com/track/6hkOAdgduiWe3jCV3PjPKJ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Humming Bird Rework",
+        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        },
+        {
+          "name": "Mond\u00ebna Quartet",
+          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
+        }
+      ],
+      "duration_ms": 201774,
+      "name": "Humming Bird Rework",
+      "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Solanales",
         "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 332607,
       "name": "Solanales",
       "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Clear Language",
+        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Clear Language",
+      "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "The Time It Takes",
         "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
-      },
-      "artists": [
-        {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "acceptances",
         "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Clear Language",
-        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
         }
       ],
-      "duration_ms": 193386,
-      "name": "Clear Language",
-      "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Tramlines",
-        "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
+        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
+        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
       },
       "artists": [
         {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
         }
       ],
-      "duration_ms": 226669,
-      "name": "Tramlines",
-      "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
+      "duration_ms": 207000,
+      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
+      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
-        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
+        "name": "Tramlines",
+        "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
       },
       "artists": [
         {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
         }
       ],
-      "duration_ms": 207000,
-      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
-      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
+      "duration_ms": 226669,
+      "name": "Tramlines",
+      "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Acqua",
-        "url": "https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1343,18 +1327,42 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf"
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk"
       },
       "artists": [
         {
-          "name": "Thomas Farnon",
-          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
         }
       ],
-      "duration_ms": 232000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR"
+      "duration_ms": 196000,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Muku",
+        "url": "https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Muku",
+      "url": "https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1379,6 +1387,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Glow (Foam and Sand Rework)",
         "url": "https://open.spotify.com/album/5CEIDLZZdmlacCspDjYNYJ"
       },
@@ -1395,22 +1419,6 @@
       "duration_ms": 255482,
       "name": "Glow - Foam and Sand Rework",
       "url": "https://open.spotify.com/track/6TuQKHMMawk2rswRisvV9J"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Nomadland (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 246257,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
     }
   ],
   "unique_name": "Not Quite Classical",

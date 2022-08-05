@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 123320,
+  "num_followers": 123357,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMyMTAwMywwMDAwMDAwMGFhMzRiYzYwNjMxYmRjODU0ZTNmZDBkYTYzM2NiZDc5",
+  "snapshot_id": "MTY1OTMyMTAwMywwMDAwMDAwMGRiMzJlZWE4NGIwMGFiODA1MjVlNmVkMjhjY2I1OTRi",
   "tracks": [
     {
       "added_at": "2022-08-01 02:30:03",
@@ -583,22 +583,18 @@
     {
       "added_at": "2022-08-01 02:30:03",
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2022-08-01 02:30:03",
@@ -627,18 +623,22 @@
     {
       "added_at": "2022-08-01 02:30:03",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
     },
     {
       "added_at": "2022-08-01 02:30:03",

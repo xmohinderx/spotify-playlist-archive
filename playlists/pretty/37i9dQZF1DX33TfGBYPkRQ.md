@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,307 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,386 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 33 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
 | 34 | [Dancing Without Music](https://open.spotify.com/track/35JqhVvhuyBoPLLUY8Klqd) | [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Ie+](https://open.spotify.com/album/0Q0dRDcgxKmNqtwdva153b) | 4:08 |
 | 35 | [A Lack of Color](https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:35 |
-| 36 | [Blindsided](https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:29 |
-| 37 | [Wilderness](https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:29 |
+| 36 | [Wilderness](https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:29 |
+| 37 | [Blindsided](https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:29 |
 | 38 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
 | 39 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
 | 40 | [i don't miss u](https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:58 |
@@ -84,17 +84,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 74 | [All I Do](https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 3:36 |
 | 75 | [Do What You Have to Do](https://open.spotify.com/track/39IGBhszdamLErnDoOlovS) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 3:46 |
 | 76 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
-| 77 | [Among the Leaves](https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Among the Leaves](https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv) | 3:31 |
-| 78 | [Waltz \#1](https://open.spotify.com/track/4SD4ri0Msp6DxgoXKcf6ug) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
+| 77 | [Waltz \#1](https://open.spotify.com/track/4SD4ri0Msp6DxgoXKcf6ug) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
+| 78 | [Among the Leaves](https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Among the Leaves](https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv) | 3:31 |
 | 79 | [Bring It Back to Me](https://open.spotify.com/track/3jyF9eNYpI3vxJWHzcZPIv) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [Take Out Of Me EP](https://open.spotify.com/album/0c5kUADkXAnNiVeaRtTTty) | 2:27 |
 | 80 | [Seaweed](https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 3:01 |
 | 81 | [My Mistake \- Piano Version](https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [My Mistake \(Piano Version\)](https://open.spotify.com/album/08igQqnY2HwbN9rCgu81Ij) | 4:52 |
 | 82 | [Your Love is Killing Me](https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 6:18 |
-| 83 | [King's Crossing](https://open.spotify.com/track/2GsiKnbHHXDpoL7R6cJUTZ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:57 |
-| 84 | [Think Twice](https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Think Twice](https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP) | 3:31 |
-| 85 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
-| 86 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
-| 87 | [Historians](https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 3:56 |
+| 83 | [Think Twice](https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Think Twice](https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP) | 3:31 |
+| 84 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
+| 85 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
+| 86 | [Historians](https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 3:56 |
+| 87 | [King's Crossing](https://open.spotify.com/track/2GsiKnbHHXDpoL7R6cJUTZ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:57 |
 | 88 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 |
 | 89 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
 | 90 | [Keep Me in Your Heart](https://open.spotify.com/track/1fRv46UIwPMVNZGMZR6ymI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:37 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 96 | [She Went Quietly](https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Running Still](https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U) | 3:59 |
 | 97 | [Basket Case](https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 4:11 |
 | 98 | [No Need To Argue](https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [No Need To Argue](https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX) | 3:13 |
-| 99 | [I Told You Everything](https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:45 |
-| 100 | [One Last Wedding](https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No) | [One Last Wedding](https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF) | 3:42 |
+| 99 | [One Last Wedding](https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No) | [One Last Wedding](https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF) | 3:42 |
+| 100 | [I Told You Everything](https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:45 |
 
-Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDFlYjNlYzlhYTNjMmIyY2ZiMjc2NzNhMDkyM2I5YjJj`
+Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMGQyMTgzZTkzMTkwMjY2MmVkMjM4YjQ2ZDkxZjE5MmMx`

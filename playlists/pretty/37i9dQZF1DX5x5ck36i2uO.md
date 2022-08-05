@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,435 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,447 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 19 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
 | 20 | [변하지 않아](https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5) | 4:03 |
 | 21 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
-| 22 | [Message In A Bottle](https://open.spotify.com/track/3Ypwf52y6piITO7AFTdqFc) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Message In A Bottle](https://open.spotify.com/album/26rsyTRa4oAqcqBgJTKE3R) | 3:00 |
+| 22 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
 | 23 | [ice coffee](https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 2:53 |
-| 24 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
+| 24 | [Message In A Bottle](https://open.spotify.com/track/3Ypwf52y6piITO7AFTdqFc) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Message In A Bottle](https://open.spotify.com/album/26rsyTRa4oAqcqBgJTKE3R) | 3:00 |
 | 25 | [Daydreamin \(Feat\. sogumm & Woo\) \(Prod\. Yosi & CODE KUNST\)](https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:00 |
 | 26 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 | 27 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [GOOD NIGHT](https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [TRAVEL: NOAH](https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5) | 3:35 |
 | 50 | [MOONSTRUCK](https://open.spotify.com/track/3X59f3kPYiJ3odC71ArJb7) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [WALKIN', Vol.2](https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc) | 3:50 |
 
-Snapshot ID: `MTY1ODQ4MjMwOCwwMDAwMDAwMGYwMzdmMGFlMDViYTJhOTJlNzgwYzg3YjdmOWUyM2E5`
+Snapshot ID: `MTY1ODQ4MjMwOCwwMDAwMDAwMGRlZjUxYTdiOTljMzQwOTE4NmU1YWFjMTc5NTMyNGU1`

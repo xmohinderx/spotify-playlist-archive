@@ -4,7 +4,7 @@
 
 > A selection of the greatest funk & soul records ever made.
 
-163 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/2AjOW6a9C9C9LSslZhQe3k)
+164 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/2AjOW6a9C9C9LSslZhQe3k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/45n7W7WLGntk46zi08LmVz) | [Baby Charles](https://open.spotify.com/artist/1Z8nlka1Hqf0UNytiL7wAp) | [Baby Charles](https://open.spotify.com/album/5wo7j2ExKorVKV1WU7p2gb) | 4:28 | 2020-09-10 | 2022-07-28 |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 | 2020-09-10 |  |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/1I8956VUImfafRIuccR9Cq) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out I'll Be There](https://open.spotify.com/album/7KrwyjO26jw7TJaUcJvbz9) | 2:42 | 2020-09-10 | 2022-07-29 |
-| [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 | 2020-09-10 |  |
+| [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 | 2020-09-10 | 2022-08-05 |
 | [I Got The...](https://open.spotify.com/track/2tQKA7DAqoVX8ouYgNpHHl) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 6:24 | 2020-09-10 | 2022-07-28 |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 | 2020-09-10 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/27m1soUndRthrAA1ediOXn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Heard It Through The Grapevine / In The Groove \(Stereo\)](https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X) | 3:15 | 2020-09-10 | 2022-07-29 |
@@ -150,6 +150,7 @@
 | [Tainted Love](https://open.spotify.com/track/2ADfheRRkK5P2f1t8si3Lj) | [Gloria Jones](https://open.spotify.com/artist/08BQmH2M3Ew9XjMHaHsl1l) | [Vixen](https://open.spotify.com/album/0vBH7dsa3ZY44AeGimirdZ) | 2:42 | 2020-09-10 | 2022-07-29 |
 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 | 2020-09-10 |  |
 | [Take Yo' Praise](https://open.spotify.com/track/72gugwdcoiR4AcKzdhx9E0) | [Camille Yarbrough](https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9) | [The Iron Pot Cooker](https://open.spotify.com/album/3q5BYgFAEAkSble4dewhSC) | 4:13 | 2020-09-10 | 2022-07-29 |
+| [Take Yo' Praise](https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk) | [Camille Yarbrough](https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9) | [The Iron Pot Cooker](https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo) | 4:13 | 2020-09-10 |  |
 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2020-09-10 | 2022-07-15 |
 | [That Lady, Pts\. 1 & 2](https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 5:34 | 2020-09-10 | 2022-07-29 |
 | [The Boss](https://open.spotify.com/track/4Lv1bzAvoAeroCGiUUGZ9w) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Black Caesar \(Soundtrack\)](https://open.spotify.com/album/2DB6M530oEOJdPLgdNuP9F) | 3:14 | 2020-09-10 | 2022-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: TINI TINI TINI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,823 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,901 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 53 | [La Sensación del Bloque](https://open.spotify.com/track/6DcBYL6EyNztiSNxnVqPVN) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [La Sensación del Bloque](https://open.spotify.com/album/1ITkLq86DWEdkI5DhdFhNE) | 3:07 |
 | 54 | [No Se Va](https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [No Se Va](https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT) | 3:21 |
 | 55 | [Me Voy](https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Voy](https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN) | 2:57 |
-| 56 | [Colorín Colorado](https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Colorín Colorado](https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ) | 2:24 |
-| 57 | [Bonita](https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Bonita](https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU) | 2:34 |
+| 56 | [Bonita](https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Bonita](https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU) | 2:34 |
+| 57 | [Colorín Colorado](https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Colorín Colorado](https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ) | 2:24 |
 | 58 | [Todo a la Vez](https://open.spotify.com/track/2tuKnCgbscxmebC7vN9X1i) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Todo a la Vez](https://open.spotify.com/album/6e724GNtDwcjqCXzbeBlL9) | 2:39 |
 | 59 | [No hay más nada](https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Cuestión de tiempo](https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw) | 3:54 |
 | 60 | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x) | 3:12 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 73 | [Vamo A Tomar Una](https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Vamo A Tomar Una](https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0) | 2:09 |
 | 74 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 |
 | 75 | [Corazón de Cemento](https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Corazón de Cemento](https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY) | 4:00 |
-| 76 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 |
-| 77 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
-| 78 | [Si Me Llamas](https://open.spotify.com/track/3966kX7ysRx4oKHShvmSYR) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Si Me Llamas](https://open.spotify.com/album/6zQNch9hnRub7vECxKXiye) | 3:28 |
+| 76 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
+| 77 | [Si Me Llamas](https://open.spotify.com/track/3966kX7ysRx4oKHShvmSYR) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Si Me Llamas](https://open.spotify.com/album/6zQNch9hnRub7vECxKXiye) | 3:28 |
+| 78 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 |
 | 79 | [El Equivocado](https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 2:44 |
 | 80 | [Que Lloro](https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp) | [Zona Cumbia](https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ) | [Que Lloro](https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq) | 3:20 |
 | 81 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 |
 | 100 | [Cerca de Ti](https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Farovi](https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Cerca de Ti](https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA) | 2:25 |
 
-Snapshot ID: `MTY1OTEzMzUyOSwwMDAwMDAwMDFlNTRiYTA5Yjk0OTAxNDlmOTBmZTg3YjhjNTM5YzY4`
+Snapshot ID: `MTY1OTEzMzUyOSwwMDAwMDAwMDc4YjJhMjEzZDVjZmE4OWFmMjUxYzJhZjEyOWQ3MGIw`

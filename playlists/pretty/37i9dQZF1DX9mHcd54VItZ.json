@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO?si=O3eWhkVkSa6Frw6gZCvImw\">Black Cat Bones</a>",
-  "num_followers": 10698,
+  "num_followers": 10703,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTU0MCwwMDAwMDAwMGZiMjEyMGNlMjQ5MDUxYTRjZTMzM2RiMmNhMTNiZDJj",
+  "snapshot_id": "MTY1OTY1MDM0MCwwMDAwMDAwMDFjYWY0OTFlNjJlNzk2N2NiMDY1MDNjODYwNTRiZjg5",
   "tracks": [
     {
       "added_at": "2022-07-28 21:59:00",
@@ -107,6 +107,22 @@
       "duration_ms": 182984,
       "name": "kill all my feelings",
       "url": "https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm"
+    },
+    {
+      "added_at": "2022-08-04 21:59:00",
+      "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG"
+      },
+      "artists": [
+        {
+          "name": "Dream Demon",
+          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq"
     },
     {
       "added_at": "2022-07-28 21:59:00",
@@ -761,22 +777,6 @@
       "url": "https://open.spotify.com/track/1tj3R3NipqoiaWj4gVLoHT"
     },
     {
-      "added_at": "2022-03-24 21:59:00",
-      "album": {
-        "name": "EX-GIRLFRIEND",
-        "url": "https://open.spotify.com/album/6D5taPEIOdazo0DMHRRJnQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Solomon",
-          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
-        }
-      ],
-      "duration_ms": 145511,
-      "name": "EX-GIRLFRIEND",
-      "url": "https://open.spotify.com/track/6z2gZVqlUUhl0ilSSDpFY8"
-    },
-    {
       "added_at": "2022-01-21 09:30:41",
       "album": {
         "name": "Last Tear",
@@ -791,38 +791,6 @@
       "duration_ms": 241111,
       "name": "Last Tear",
       "url": "https://open.spotify.com/track/7KXty1ex5eJ9sMgJRdTDXf"
-    },
-    {
-      "added_at": "2021-12-09 21:59:00",
-      "album": {
-        "name": "ohmygosh (Acoustic)",
-        "url": "https://open.spotify.com/album/2hEBqU7NAneCBKhh7SUoJ9"
-      },
-      "artists": [
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
-        }
-      ],
-      "duration_ms": 252375,
-      "name": "ohmygosh - Acoustic",
-      "url": "https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5"
-    },
-    {
-      "added_at": "2022-03-18 11:49:18",
-      "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S"
-      },
-      "artists": [
-        {
-          "name": "Hunter Kennedy",
-          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
-        }
-      ],
-      "duration_ms": 162077,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc"
     },
     {
       "added_at": "2021-03-25 22:00:00",
@@ -893,46 +861,6 @@
       "url": "https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e"
     },
     {
-      "added_at": "2022-02-10 21:59:00",
-      "album": {
-        "name": "Tell the World",
-        "url": "https://open.spotify.com/album/6bfRzJDoHtvx1JNeo6nAUq"
-      },
-      "artists": [
-        {
-          "name": "Matthew John Duncan",
-          "url": "https://open.spotify.com/artist/4dqbuy4ucRfaFUVfzDk9LA"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "Tell the World",
-      "url": "https://open.spotify.com/track/417MnGJAJS2Cg9WM9PUJlH"
-    },
-    {
-      "added_at": "2022-02-17 21:59:00",
-      "album": {
-        "name": "Thinking Too Hard",
-        "url": "https://open.spotify.com/album/4owf9ZhxKn94LWb9Yl71hk"
-      },
-      "artists": [
-        {
-          "name": "Evert Snyman",
-          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
-        },
-        {
-          "name": "The Aviary",
-          "url": "https://open.spotify.com/artist/1uCvRbLFcNf6GFBriq60j5"
-        },
-        {
-          "name": "Jacques Moolman",
-          "url": "https://open.spotify.com/artist/6xpYpXQ06FPx2QOvymd25l"
-        }
-      ],
-      "duration_ms": 140103,
-      "name": "Thinking Too Hard",
-      "url": "https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ"
-    },
-    {
       "added_at": "2022-02-03 21:59:00",
       "album": {
         "name": "Country in Me",
@@ -963,38 +891,6 @@
       "duration_ms": 230712,
       "name": "Ready to Die",
       "url": "https://open.spotify.com/track/0s0DYUz6tg1Ma14AV2zD9R"
-    },
-    {
-      "added_at": "2022-03-24 21:59:00",
-      "album": {
-        "name": "Adieu Or Die",
-        "url": "https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt"
-      },
-      "artists": [
-        {
-          "name": "Moskitos",
-          "url": "https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY"
-        }
-      ],
-      "duration_ms": 192116,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4"
-    },
-    {
-      "added_at": "2021-11-25 21:59:00",
-      "album": {
-        "name": "Hounds Loose",
-        "url": "https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO"
-      },
-      "artists": [
-        {
-          "name": "Dan Patlansky",
-          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Hounds Loose",
-      "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
     },
     {
       "added_at": "2021-12-02 22:01:35",
@@ -1045,38 +941,6 @@
       "url": "https://open.spotify.com/track/7h7BQnUpWSdhSmrlaXBZuW"
     },
     {
-      "added_at": "2022-02-25 07:24:37",
-      "album": {
-        "name": "I Feel Fine",
-        "url": "https://open.spotify.com/album/51jmh9S7sUGP5j2oBtwmOv"
-      },
-      "artists": [
-        {
-          "name": "Billy Inglish",
-          "url": "https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC"
-        }
-      ],
-      "duration_ms": 188228,
-      "name": "I Feel Fine",
-      "url": "https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj"
-    },
-    {
-      "added_at": "2022-03-31 21:59:00",
-      "album": {
-        "name": "She's My Prison",
-        "url": "https://open.spotify.com/album/1nRv2ODqAVDimTiTHWGUvf"
-      },
-      "artists": [
-        {
-          "name": "L.A. Cobra",
-          "url": "https://open.spotify.com/artist/0zNNwyg2hDNqsmvxCyvHDs"
-        }
-      ],
-      "duration_ms": 213497,
-      "name": "She's My Prison",
-      "url": "https://open.spotify.com/track/5RhOozvlBujH7KsRCTzxcy"
-    },
-    {
       "added_at": "2021-12-09 21:59:00",
       "album": {
         "name": "Out & About",
@@ -1107,118 +971,6 @@
       "duration_ms": 152634,
       "name": "Sick & Tired",
       "url": "https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF"
-    },
-    {
-      "added_at": "2021-10-07 21:59:00",
-      "album": {
-        "name": "A World at Suicide",
-        "url": "https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe"
-      },
-      "artists": [
-        {
-          "name": "Kahn Morbee",
-          "url": "https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo"
-    },
-    {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
-        "name": "Prodigal Son",
-        "url": "https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT"
-      },
-      "artists": [
-        {
-          "name": "Wonderboom",
-          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Prodigal Son",
-      "url": "https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf"
-    },
-    {
-      "added_at": "2021-08-05 21:59:00",
-      "album": {
-        "name": "Emerging Submarines",
-        "url": "https://open.spotify.com/album/2t0uNfOp9TPHcuapmhFH09"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 268713,
-      "name": "Emerging Submarines",
-      "url": "https://open.spotify.com/track/0EYUcHeJoy86VDc7xKJifF"
-    },
-    {
-      "added_at": "2021-12-09 21:59:00",
-      "album": {
-        "name": "Somewhere Chill (Radio Edit)",
-        "url": "https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto"
-      },
-      "artists": [
-        {
-          "name": "John Niel",
-          "url": "https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA"
-        }
-      ],
-      "duration_ms": 185001,
-      "name": "Somewhere Chill - Radio Edit",
-      "url": "https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO"
-    },
-    {
-      "added_at": "2022-03-03 21:59:00",
-      "album": {
-        "name": "The Veneer",
-        "url": "https://open.spotify.com/album/2W7cWviTHNhhWawHI80Wbp"
-      },
-      "artists": [
-        {
-          "name": "A MILLION WAYS TO DIE",
-          "url": "https://open.spotify.com/artist/5sItFxUca07yQu3TkbBp9U"
-        }
-      ],
-      "duration_ms": 296277,
-      "name": "The Veneer",
-      "url": "https://open.spotify.com/track/1iWervHoQ9m2dlDcoOpFL8"
-    },
-    {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
-        "name": "Eisbein",
-        "url": "https://open.spotify.com/album/1qbb2G6mIZsigTkoS9jR0U"
-      },
-      "artists": [
-        {
-          "name": "Yndian Mynah",
-          "url": "https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C"
-        }
-      ],
-      "duration_ms": 312391,
-      "name": "Eisbein",
-      "url": "https://open.spotify.com/track/4dv4j1YkymrFPZEiEjyofL"
-    },
-    {
-      "added_at": "2022-02-17 21:59:00",
-      "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/5LsVvRpDG6HIju5gZK1gRe"
-      },
-      "artists": [
-        {
-          "name": "The Tazers",
-          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
-        }
-      ],
-      "duration_ms": 240378,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/0DWkbxfSqGNmHaEuqlR3wU"
     },
     {
       "added_at": "2022-04-08 07:20:14",

@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Paramore",
-  "num_followers": 982726,
+  "num_followers": 983471,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDM5MjJiNTFhNDQzZDgzMzBiNjdhOTZlM2ZkODY0ODZj",
+  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDA4N2I2YWJmM2JkOGRkMGFkMGNkODI5MDhjNWI1YjY5",
   "tracks": [
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Double Dare",
         "url": "https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 191544,
       "name": "Stupid for You",
       "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "Boys Like Girls",
-        "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
-      },
-      "artists": [
-        {
-          "name": "Boys Like Girls",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "The Great Escape",
-      "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+        "name": "Boys Like Girls",
+        "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
       },
       "artists": [
         {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+          "name": "Boys Like Girls",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
         }
       ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+      "duration_ms": 206520,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
     },
     {
       "added_at": "2022-06-16 15:49:01",

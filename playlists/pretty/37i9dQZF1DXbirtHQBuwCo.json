@@ -1,12 +1,12 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: \b\bDPR IAN)",
-  "num_followers": 794920,
+  "num_followers": 795613,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2NDQyMSwwMDAwMDAwMGUxZWNkYzY1NTc3MGE5ZTA3ODEyYmFlOTZkYjk2ZGU1",
+  "snapshot_id": "MTY1OTQ2NDQyMSwwMDAwMDAwMGI2YTNiYzlhY2UxMjU4MzM2MTVkMzA0MTJlZDYzZWRl",
   "tracks": [
     {
       "added_at": "2022-08-02 18:20:21",
@@ -395,26 +395,22 @@
     {
       "added_at": "2022-08-02 18:20:21",
       "album": {
-        "name": "Spring in Winter",
-        "url": "https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         },
         {
-          "name": "Ashley Alisha",
-          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
-        },
-        {
-          "name": "nobody likes you pat",
-          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 168870,
-      "name": "Winter blossom",
-      "url": "https://open.spotify.com/track/1ynuDDHKN7P7fmJEljdCLd"
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
     },
     {
       "added_at": "2022-08-02 18:20:21",
@@ -435,22 +431,26 @@
     {
       "added_at": "2022-08-02 18:20:21",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+        "name": "Spring in Winter",
+        "url": "https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         },
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
         }
       ],
-      "duration_ms": 205120,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+      "duration_ms": 168870,
+      "name": "Winter blossom",
+      "url": "https://open.spotify.com/track/1ynuDDHKN7P7fmJEljdCLd"
     },
     {
       "added_at": "2022-08-02 18:20:21",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-02 18:20:21",
       "album": {
-        "name": "WHEE",
-        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 197413,
-      "name": "Make Me Happy",
-      "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
-    },
-    {
-      "added_at": "2022-08-02 18:20:21",
-      "album": {
         "name": "Dawn Defibrillation, Vol.1",
         "url": "https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 235666,
       "name": "Last",
       "url": "https://open.spotify.com/track/41r2Q4UEDdU9cktfgQETnx"
+    },
+    {
+      "added_at": "2022-08-02 18:20:21",
+      "album": {
+        "name": "WHEE",
+        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 197413,
+      "name": "Make Me Happy",
+      "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
     },
     {
       "added_at": "2022-08-02 18:20:21",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2022-08-02 18:20:21",
       "album": {
+        "name": "Your Dog Loves You",
+        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "Your Dog Loves You (Feat. Crush)",
+      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
+    },
+    {
+      "added_at": "2022-08-02 18:20:21",
+      "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
-    },
-    {
-      "added_at": "2022-08-02 18:20:21",
-      "album": {
-        "name": "LOVE&LOVE",
-        "url": "https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8"
-      },
-      "artists": [
-        {
-          "name": "Seo In Guk",
-          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
-        },
-        {
-          "name": "RAVI",
-          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "MY LOVE (feat. RAVI)",
-      "url": "https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N"
     },
     {
       "added_at": "2022-08-02 18:20:21",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2022-08-02 18:20:21",
       "album": {
-        "name": "Your Dog Loves You",
-        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "Your Dog Loves You (Feat. Crush)",
-      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
-    },
-    {
-      "added_at": "2022-08-02 18:20:21",
-      "album": {
         "name": "Every letter I sent you.",
         "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+    },
+    {
+      "added_at": "2022-08-02 18:20:21",
+      "album": {
+        "name": "LOVE&LOVE",
+        "url": "https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        },
+        {
+          "name": "RAVI",
+          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "MY LOVE (feat. RAVI)",
+      "url": "https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N"
     },
     {
       "added_at": "2022-08-02 18:20:21",

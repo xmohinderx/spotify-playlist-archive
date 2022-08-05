@@ -1142,24 +1142,6 @@
     },
     {
       "album": {
-        "name": "CD Story",
-        "url": "https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH"
-      },
-      "artists": [
-        {
-          "name": "Michel Delpech",
-          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
-        }
-      ],
-      "date_added": "2021-03-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184480,
-      "name": "Le chasseur",
-      "url": "https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0"
-    },
-    {
-      "album": {
         "name": "Le Chasseur",
         "url": "https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH"
       },
@@ -1175,6 +1157,24 @@
       "duration_ms": 184800,
       "name": "Le chasseur",
       "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
+    },
+    {
+      "album": {
+        "name": "CD Story",
+        "url": "https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184480,
+      "name": "Le chasseur (Les oies sauvages)",
+      "url": "https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0"
     },
     {
       "album": {

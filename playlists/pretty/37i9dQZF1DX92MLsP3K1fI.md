@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Donovan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,090 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,118 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 31 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
 | 32 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 |
 | 33 | [Me Liberé](https://open.spotify.com/track/54o97glZqjfQambK2yyNCG) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Me Liberé](https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S) | 3:37 |
-| 34 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
-| 35 | [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 |
+| 34 | [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 |
+| 35 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
 | 36 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 |
 | 37 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
 | 38 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Bailando al Amanecer](https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Bailando al Amanecer](https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5) | 3:56 |
 | 50 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
 
-Snapshot ID: `MTY1OTExNjg1NSwwMDAwMDAwMDI1ZGQwZWVlMjllOWMyMzkzOGY5MWYyZjNjMTg3Yzcz`
+Snapshot ID: `MTY1OTExNjg1NSwwMDAwMDAwMGQxNDQ4MjliMWZlZjhkNmRlZjViMjRmYWM5MDA4YTE1`

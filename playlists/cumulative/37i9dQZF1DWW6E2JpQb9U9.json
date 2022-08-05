@@ -1407,6 +1407,24 @@
     {
       "album": {
         "name": "En Vivo en Pinamar",
+        "url": "https://open.spotify.com/album/7m4NTbbdfKboFTWiDV98d9"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279065,
+      "name": "El 38",
+      "url": "https://open.spotify.com/track/6JVu9CewlLd5Xox7iyYhdD"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Pinamar",
         "url": "https://open.spotify.com/album/4p4V2S2N82yv00fFW58aJr"
       },
       "artists": [
@@ -3985,7 +4003,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184919,
-      "name": "Strangerdanger (En Vivo)",
+      "name": "Strangerdanger - En Vivo",
       "url": "https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ"
     },
     {
@@ -4131,7 +4149,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 439800,
       "name": "Te Dir\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty"

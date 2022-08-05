@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [أجدد الأغاني](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> اكتشف الأغاني المصرية الجديدة! الغلاف: تامر عاشور
+> اكتشف الأغاني المصرية الجديدة! الغلاف: احمد كامل
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,216 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,318 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 |
-| 2 | [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 |
+| 1 | [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 |
+| 2 | [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 |
 | 3 | [Heya Elnas](https://open.spotify.com/track/1w6kXQlGG8m1KnatAlhuCT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Heya Elnas](https://open.spotify.com/album/5H2gvYWORvnxFSpsbVgwHi) | 4:09 |
 | 4 | [Adrenaline](https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Adrenaline](https://open.spotify.com/album/7BbMlrhOzLqWAbf9o1yBw6) | 3:14 |
 | 5 | [إستمارة 6](https://open.spotify.com/track/570rEFeCi8o1gfjJVmzlMD) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [إستمارة 6](https://open.spotify.com/album/52FCk5Px74jp8QVX3YjYCT) | 3:15 |
@@ -54,9 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 44 | [Agheeb Agheeb](https://open.spotify.com/track/0W2TvZUTKMheKIulf8U1Lr) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Agheeb Agheeb](https://open.spotify.com/album/1j0xsnp8SbACRY7Pq7xzp9) | 3:06 |
 | 45 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 |
 | 46 | [Good Morning Baby](https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Good Morning Baby](https://open.spotify.com/album/41rVNCKFx5rMKUKRKcyLdg) | 2:31 |
-| 47 | [Alb Akhok](https://open.spotify.com/track/4koneNxLYSL43LF9n5ua4k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Alb Akhok](https://open.spotify.com/album/67k3Nzh6LtOIlGBME6nEzK) | 3:49 |
-| 48 | [El Leila Eid](https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Leila Eid](https://open.spotify.com/album/3Vao3BYiDmnLLtoLJa8HoU) | 3:08 |
-| 49 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 |
-| 50 | [Ahla Youm](https://open.spotify.com/track/4klTJvLlyWcr5nt91rZzSu) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ahla Youm](https://open.spotify.com/album/0enk0vJ9ab11zEJVddWyqH) | 2:01 |
+| 47 | [El Leila Eid](https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Leila Eid](https://open.spotify.com/album/3Vao3BYiDmnLLtoLJa8HoU) | 3:08 |
+| 48 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 |
+| 49 | [Ahla Youm](https://open.spotify.com/track/4klTJvLlyWcr5nt91rZzSu) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ahla Youm](https://open.spotify.com/album/0enk0vJ9ab11zEJVddWyqH) | 2:01 |
 
-Snapshot ID: `MTY1OTUzNTIwMCwwMDAwMDAwMDRkODdmODU5ZTliNTViZWQxYjEyNGU1NmI1YWQ5YTNk`
+Snapshot ID: `MTY1OTYyNjU5MCwwMDAwMDAwMDIwNWYxNDBlZTBlNzM0NDBhZjMwY2I4ZDM2NjczNDY3`

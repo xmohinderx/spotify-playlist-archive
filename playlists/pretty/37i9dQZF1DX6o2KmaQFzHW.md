@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,620 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,670 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 22 | [Del Chucaro](https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:27 |
 | 23 | [Añoranzas](https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Las Chacareras Vol.1](https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh) | 2:51 |
 | 24 | [Todo Está en Vos](https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [La Llave](https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6) | 3:50 |
-| 25 | [Zamba de Mi Esperanza \(feat\. Jorge Cafrune\)](https://open.spotify.com/track/5L0QkgiZv1k6KjIk4Aptms) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw), [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Todos Somos Chalchaleros](https://open.spotify.com/album/7LWRJuP4iXgbOH1Gt98GiO) | 3:54 |
-| 26 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Poncho Al Viento](https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124) | 2:35 |
+| 25 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Poncho Al Viento](https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124) | 2:35 |
+| 26 | [Zamba de Mi Esperanza \(feat\. Jorge Cafrune\)](https://open.spotify.com/track/5L0QkgiZv1k6KjIk4Aptms) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw), [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Todos Somos Chalchaleros](https://open.spotify.com/album/7LWRJuP4iXgbOH1Gt98GiO) | 3:54 |
 | 27 | [El Olvidao](https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [La Fiesta del Violinero](https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL) | 3:00 |
 | 28 | [El Corralero](https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Hernan Figueroa Reyes El Unico](https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7) | 2:48 |
 | 29 | [Mi Luna Cautiva](https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune Cronología \- Este Destino Cantor \(1969\)](https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3) | 3:34 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 64 | [Sueñero](https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 4:32 |
 | 65 | [El Escondido \- En Vivo](https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [El Encuentro \(En Vivo\)](https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U) | 2:26 |
 | 66 | [Zamba Del Negro Alegre](https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:03 |
-| 67 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 |
-| 68 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 |
+| 67 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 |
+| 68 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 |
 | 69 | [El Preso Nº 9](https://open.spotify.com/track/3GeFKVsojFAPxafcfnCsxX) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:44 |
 | 70 | [Volveré a Salavina](https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Arde la Vida](https://open.spotify.com/album/1EMQS6RLfRhAd5I7AByWRb) | 2:27 |
 | 71 | [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Angelitos Negros](https://open.spotify.com/track/1Qat6Mf8sXwGwtu40wdzrt) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:14 |
 | 90 | [Milonga Del Solitario](https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Guitarra, Dímelo Tu](https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx) | 4:14 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGZiMmMxYjMxOWU0N2ZhZGUyYjliODYwZTAyZGI4NmIx`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGRkNGNkNGY0NTQ1MzY2MDMwYzRlYjgxZWU1NWZmMmRj`

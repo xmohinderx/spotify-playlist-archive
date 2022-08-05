@@ -1,12 +1,12 @@
 {
   "description": "Dinner music that includes well known and new tracks.",
-  "num_followers": 659257,
+  "num_followers": 659381,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI3NDQwMCwwMDAwMDAwMGRiZWUxZWJjZTNmMjhhN2ZhOTk5YmY3ZDVmY2Y1N2Vk",
+  "snapshot_id": "MTY1NzI3NDQwMCwwMDAwMDAwMDUyZWUzZjY0ZWIyMjY2NDViMTFlODczNzIzZjQ5M2Fj",
   "tracks": [
     {
       "added_at": "2022-07-08 10:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 245826,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Down Low",
-        "url": "https://open.spotify.com/album/585s4f9yrPNsp0G7AkTFDF"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 198390,
-      "name": "Favorite Part Of Me",
-      "url": "https://open.spotify.com/track/0cppqb4vQycORHNMxr8DGd"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "T-Shirts",
         "url": "https://open.spotify.com/album/11wuHldrnFEf8lLKhM9u9X"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 190263,
       "name": "T-Shirts",
       "url": "https://open.spotify.com/track/1Ozmz8mMsPv6LlwcCW2U8l"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/585s4f9yrPNsp0G7AkTFDF"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 198390,
+      "name": "Favorite Part Of Me",
+      "url": "https://open.spotify.com/track/0cppqb4vQycORHNMxr8DGd"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 227133,
       "name": "Again",
       "url": "https://open.spotify.com/track/0IaMMHVbpJ0LrRAeigWOXr"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2159,6 +2159,26 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
+      "url": "https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "SYML",
         "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
       },
@@ -2207,26 +2227,6 @@
       "duration_ms": 246893,
       "name": "Over And Over Again",
       "url": "https://open.spotify.com/track/26h6qDR3KtieqIWgnveqmC"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
-      "url": "https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2531,6 +2531,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 187226,
       "name": "Us",
       "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Here, Right Now",
-        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Here, Right Now",
-      "url": "https://open.spotify.com/track/0voYwjeuMfvXlF76oesZKu"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Here, Right Now",
+        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Here, Right Now",
+      "url": "https://open.spotify.com/track/0voYwjeuMfvXlF76oesZKu"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3091,18 +3091,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
-        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
       },
       "artists": [
         {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
         }
       ],
-      "duration_ms": 270760,
-      "name": "Almaz",
-      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
+      "duration_ms": 243955,
+      "name": "America",
+      "url": "https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3127,18 +3127,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
+        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
+        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
       },
       "artists": [
         {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
         }
       ],
-      "duration_ms": 243955,
-      "name": "America",
-      "url": "https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0"
+      "duration_ms": 270760,
+      "name": "Almaz",
+      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3379,6 +3379,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -3395,22 +3411,6 @@
       "duration_ms": 275800,
       "name": "The Last Waltz Suite: The Weight (feat. The Staples)",
       "url": "https://open.spotify.com/track/3TKOJWYOMrp98OB19y1A0n"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3883,26 +3883,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/01qYEGYCRYzMSNOj8idCmk"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "1975",
         "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
       },
@@ -3935,6 +3915,26 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/01qYEGYCRYzMSNOj8idCmk"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Stardust...The Great American Songbook III",
         "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
       },
@@ -3947,22 +3947,6 @@
       "duration_ms": 230893,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/56lnXV8vtaIBVIYUQtlv42"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Sailor's Heart",
-        "url": "https://open.spotify.com/album/0onhz96ZjCqSainuMn8456"
-      },
-      "artists": [
-        {
-          "name": "Zyke",
-          "url": "https://open.spotify.com/artist/7AjlqcvPUY0YNKTkhtzVeF"
-        }
-      ],
-      "duration_ms": 183125,
-      "name": "Sailor's Heart",
-      "url": "https://open.spotify.com/track/2PvZNsVhnHvhXQG2SAYDTp"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3983,18 +3967,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "14 Washburn St",
-        "url": "https://open.spotify.com/album/6ILwS4fTqO8N32MS4y7ehN"
+        "name": "Sailor's Heart",
+        "url": "https://open.spotify.com/album/0onhz96ZjCqSainuMn8456"
       },
       "artists": [
         {
-          "name": "Sture Zetterberg",
-          "url": "https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG"
+          "name": "Zyke",
+          "url": "https://open.spotify.com/artist/7AjlqcvPUY0YNKTkhtzVeF"
         }
       ],
-      "duration_ms": 205876,
-      "name": "Wrong Team",
-      "url": "https://open.spotify.com/track/0TK1Kui4cCaHR0avKjKXzC"
+      "duration_ms": 183125,
+      "name": "Sailor's Heart",
+      "url": "https://open.spotify.com/track/2PvZNsVhnHvhXQG2SAYDTp"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -4015,6 +3999,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "14 Washburn St",
+        "url": "https://open.spotify.com/album/6ILwS4fTqO8N32MS4y7ehN"
+      },
+      "artists": [
+        {
+          "name": "Sture Zetterberg",
+          "url": "https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG"
+        }
+      ],
+      "duration_ms": 205876,
+      "name": "Wrong Team",
+      "url": "https://open.spotify.com/track/0TK1Kui4cCaHR0avKjKXzC"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Dear Earth, I\u2019m Lost",
         "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
       },
@@ -4031,22 +4031,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Girl, I Know",
         "url": "https://open.spotify.com/album/2ibDc7fdUkMeScSu6WEKUc"
       },
@@ -4059,6 +4043,22 @@
       "duration_ms": 170743,
       "name": "Handcuffs",
       "url": "https://open.spotify.com/track/5GdzPpzW6upr4lxIM7YZDX"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2022-07-08 10:00:00",

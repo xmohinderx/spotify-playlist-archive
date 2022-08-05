@@ -52,7 +52,7 @@
 | [Dharkay Jiya](https://open.spotify.com/track/3csQ8JVWNQ3qrt1OswiPgt) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/2UzCtYWLoRffW5x1Vg1B15) | 4:40 | 2021-08-16 |  |
 | [Dharti Keh Khuda](https://open.spotify.com/track/1M1CPJ6pAlGe0sK0TdY3Ya) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Ishq](https://open.spotify.com/album/6plzKQCGIUaBWgWq7UtRlS) | 4:20 | 2021-08-16 | 2022-07-28 |
 | [Dholan](https://open.spotify.com/track/6rIdE075IRJNDVGj2m4BSW) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Rung](https://open.spotify.com/album/6hyh4qo5rt47cea7PXfO7s) | 4:37 | 2021-08-16 | 2022-07-25 |
-| [Dholna](https://open.spotify.com/track/6GCD5Mc8eHF2aHSYUf8qdN) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Uche Majajaan Wali](https://open.spotify.com/album/1qqXlqwQpMMhif6Asuyhuj) | 6:26 | 2021-08-16 |  |
+| [Dholna](https://open.spotify.com/track/6GCD5Mc8eHF2aHSYUf8qdN) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Uche Majajaan Wali](https://open.spotify.com/album/1qqXlqwQpMMhif6Asuyhuj) | 6:26 | 2021-08-16 | 2022-08-05 |
 | [Dholna](https://open.spotify.com/track/5qypC0xwhJi8NhHgyA6hKr) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Dholna](https://open.spotify.com/album/3VS4uj8EcjbLvfGDQjLUHJ) | 4:10 | 2021-08-16 | 2022-07-29 |
 | [Dil Galti Kar Baitha Hai](https://open.spotify.com/track/1iIPI8CWallsW53fL9hwQh) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Dil Galti Kar Baitha Hai](https://open.spotify.com/album/7zFjoK3HLuXgS6eIQYhtcp) | 8:32 | 2021-08-16 |  |
 | [Dil Haray Pukaray](https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:47 | 2021-08-16 |  |
@@ -198,7 +198,7 @@
 | [Yaara](https://open.spotify.com/track/0S7YflEnzGk1zXTgvITZ9A) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ki Awaz](https://open.spotify.com/album/4eyWYh9SUzBnIt2sWEH49I) | 4:00 | 2021-08-16 | 2022-07-29 |
 | [Ye Hai Meri Kahani](https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Zinda](https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M) | 5:16 | 2021-08-16 |  |
 | [Yeh Pal](https://open.spotify.com/track/2GQ2v7N9nsn7s6VtXEiqA6) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/57UJIr0RMO9VejwwJbGcog) | 5:26 | 2021-08-16 | 2022-07-28 |
-| [Yeh Pal](https://open.spotify.com/track/2dUv1tJPc8jTKBpf2JoBuJ) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/2UzCtYWLoRffW5x1Vg1B15) | 5:29 | 2021-08-16 | 2022-08-03 |
+| [Yeh Pal](https://open.spotify.com/track/2dUv1tJPc8jTKBpf2JoBuJ) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/2UzCtYWLoRffW5x1Vg1B15) | 5:29 | 2021-08-16 |  |
 | [Yeh Sham](https://open.spotify.com/track/4h68L4SwrbU9WLiRBLEoQs) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [Very Best Of Vital Signs Vol \-1](https://open.spotify.com/album/2gkLlal7dxVaOml7Q7uqcm) | 7:18 | 2021-08-16 | 2022-07-23 |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > El icuiricui, el matalacachimba y el ruletero.
 
-182 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/39vfktrnS8Wr51Upfb0wRu)
+183 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/39vfktrnS8Wr51Upfb0wRu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cómo Pude Enamorarme De Ti](https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [Como Pude Enamorarme De Ti](https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU) | 2:11 | 2021-10-12 |  |
 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 | 2021-10-12 |  |
 | [Del Signo Libra](https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn) | 3:26 | 2021-10-12 | 2022-07-29 |
+| [Del Signo Libra](https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Puras Románticas](https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD) | 3:26 | 2021-10-12 |  |
 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 | 2021-10-12 |  |
 | [Después de Ti ¿Quién?](https://open.spotify.com/track/2pwaDBvwFwppCMnnTUbl7A) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s) | 3:54 | 2021-10-12 | 2022-07-29 |
 | [Después de Ti, ¿Quién?](https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:54 | 2021-10-12 |  |
@@ -120,7 +121,7 @@
 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 | 2022-01-19 |  |
 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 | 2022-06-20 | 2022-07-29 |
 | [Oro](https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:10 | 2021-10-12 | 2022-07-29 |
-| [Oro](https://open.spotify.com/track/50QgKV8vabHHc7au535IqK) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 3:10 | 2021-10-12 |  |
+| [Oro](https://open.spotify.com/track/50QgKV8vabHHc7au535IqK) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 3:10 | 2021-10-12 | 2022-08-05 |
 | [Otra Noche](https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC) | 3:18 | 2022-01-19 | 2022-07-29 |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2022-01-19 |  |
 | [Oye Mujer](https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 4:19 | 2021-10-12 |  |

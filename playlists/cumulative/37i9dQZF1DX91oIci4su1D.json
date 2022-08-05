@@ -4116,6 +4116,36 @@
     },
     {
       "album": {
+        "name": "Fatum's Anjunabeats Worldwide 10 Collaborations EP",
+        "url": "https://open.spotify.com/album/32hWfoag5Fg80aC1oa6398"
+      },
+      "artists": [
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        },
+        {
+          "name": "re:boot",
+          "url": "https://open.spotify.com/artist/1HBB7Pn85JrPzx4PwRWIWH"
+        },
+        {
+          "name": "Adrian Alexander",
+          "url": "https://open.spotify.com/artist/5msCUDk1PeADCytZ4lw5D6"
+        },
+        {
+          "name": "Nikhil Prakash",
+          "url": "https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Light & Shade",
+      "url": "https://open.spotify.com/track/1YBg8ylGKiTrq4Sniw6UdB"
+    },
+    {
+      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz"
       },
@@ -5111,7 +5141,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 224761,
       "name": "Mystery Land",
       "url": "https://open.spotify.com/track/6rfu5u7FoVAjwWe5FMCXU0"

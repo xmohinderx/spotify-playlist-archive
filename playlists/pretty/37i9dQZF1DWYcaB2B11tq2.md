@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,664 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,895 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 19 | [Cambiaste Mi Corazón](https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:49 |
 | 20 | [Increíble \(En Vivo\)](https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:35 |
 | 21 | [10.000 Razones](https://open.spotify.com/track/3tovofu1VVmE3fXKKmTapY) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Himnos](https://open.spotify.com/album/5kjjUMt0GGhCEl9uiVB6c0) | 4:50 |
-| 22 | [No Me Soltarás](https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Con El Corazón En La Mano](https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV) | 5:01 |
-| 23 | [Temprano yo te buscaré](https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 3:05 |
+| 22 | [Temprano yo te buscaré](https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 3:05 |
+| 23 | [No Me Soltarás](https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Con El Corazón En La Mano](https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV) | 5:01 |
 | 24 | [Yo También \(Un Billón De Veces\)](https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Yo También \(Un Billón De Veces\)](https://open.spotify.com/album/6zc2WKK1KdSM1E35DXPOit) | 7:18 |
 | 25 | [Promesas](https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Promesas](https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8) | 4:01 |
 | 26 | [Comenzar de Cero](https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Comenzar de Cero](https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Él Es Vida](https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [No Puedo Callar](https://open.spotify.com/album/2ebN5IUSFeey8NJ2MQACla) | 4:31 |
 | 75 | [Viene De Ti](https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Viene De Ti](https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy) | 4:15 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDc3MDViMjdmZjZjZTFkNmM5MzlkOTliN2U3YWJiYTI2`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMGZlZjcwN2Q3Y2YyNjlkNjMyYTZmZTY5NDI0MWFiN2Zj`

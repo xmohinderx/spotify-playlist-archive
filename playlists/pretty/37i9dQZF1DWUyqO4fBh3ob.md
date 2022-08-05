@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,237 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,268 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 20 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
 | 21 | [Faregouni](https://open.spotify.com/track/2epNvNy1bgg6Nu7AOnszBa) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Dance With Nassif Zeytoun](https://open.spotify.com/album/1TABHyMM46DStN9R57uUdE) | 3:41 |
 | 22 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
-| 23 | [Kalam Ennas](https://open.spotify.com/track/6nzQnGY3F6ECVV8hWFqHID) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Café Arabia](https://open.spotify.com/album/1IYJOHu7EOKuwdxulcfqY9) | 7:02 |
-| 24 | [Weinak](https://open.spotify.com/track/4OsDW6scGeKCLjhjr7pFQI) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [Weinak](https://open.spotify.com/album/4MLPuCdNMwTZ2S1sDp6xg3) | 3:33 |
+| 23 | [Weinak](https://open.spotify.com/track/4OsDW6scGeKCLjhjr7pFQI) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [Weinak](https://open.spotify.com/album/4MLPuCdNMwTZ2S1sDp6xg3) | 3:33 |
+| 24 | [Kalam Ennas](https://open.spotify.com/track/6nzQnGY3F6ECVV8hWFqHID) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Café Arabia](https://open.spotify.com/album/1IYJOHu7EOKuwdxulcfqY9) | 7:02 |
 | 25 | [Alloosh](https://open.spotify.com/track/4SutQpeY0rtwP9XeRfa0hi) | [Ali Al Deek](https://open.spotify.com/artist/4gJE3vuk92stqZIRWieUe8) | [Ali Hits](https://open.spotify.com/album/1RL5PDCpMACLDpuIMTsXeI) | 13:43 |
 | 26 | [Azmit Si'a](https://open.spotify.com/track/0754qF0ek1y0HPg17XEW2L) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:41 |
 | 27 | [Hasaruha](https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Hasaruha](https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa) | 3:24 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 34 | [El'nayzak](https://open.spotify.com/track/3vzZaVTN9XJpp1XKVDBGpg) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [El'nayzak](https://open.spotify.com/album/6fvtnyGSzS7gcAiPB4WDo9) | 2:16 |
 | 35 | [La Ana Bensak](https://open.spotify.com/track/1m1MbKuznjpaJcVBHaRBq0) | [Shadi Jamil](https://open.spotify.com/artist/200BwGs3UAf9kQ6e0dllBp) | [Rann El Kaas](https://open.spotify.com/album/4p2g7EyPh4K6SYsmGXdu50) | 7:19 |
 | 36 | [Wassellik Khabar](https://open.spotify.com/track/4USDc2ee6XNky5miYt5QTN) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:56 |
-| 37 | [Sada Mawalena](https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Sada Mawalena](https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7) | 4:20 |
-| 38 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
+| 37 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
+| 38 | [Sada Mawalena](https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Sada Mawalena](https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7) | 4:20 |
 | 39 | [Fi Shi Ghalat](https://open.spotify.com/track/1PP1MIJLfL8CxtSE6gM1U0) | [Hazem Sharif](https://open.spotify.com/artist/7rooLEqVQSdhPAG6QDbg2S) | [Fi Shi Ghalat](https://open.spotify.com/album/7jWfBwQ343B0lwd52OVTFI) | 3:35 |
 | 40 | [Ba'd Elly Saar](https://open.spotify.com/track/2pzOyjen1j1KRzhbeSljyK) | [Shahd Barmada](https://open.spotify.com/artist/6wwlkaIcFu0b2L2w6xtVRr) | [Ba'd Elly Saar](https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG) | 4:44 |
 | 41 | [Aal Hob Rooh w Sallimli](https://open.spotify.com/track/0RUDIa4tOnST24USIXuyyV) | [Nesreen Tafesh](https://open.spotify.com/artist/4e4G7w1BJQ3qpfpsKf6wg2) | [Aal Hob Rooh w Sallimli](https://open.spotify.com/album/0M5qhGTUrD1KSN7cHIRGUt) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Alshaela](https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy) | [Amer Wakka](https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb) | [Alshaela](https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0) | 3:02 |
 | 50 | [Shi Tridin](https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Shi Tridin](https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS) | 6:48 |
 
-Snapshot ID: `MTY1NTcyMDg3MiwwMDAwMDAwMGY4Zjg5OWYzZDEzY2Y0OGY5OTliZDZjNDQ0MGQ2YzE2`
+Snapshot ID: `MTY1NTcyMDg3MiwwMDAwMDAwMGZjZGY5YTZjMGYwYzU2YTY4NThlMDExMTMzNTE2NWFm`

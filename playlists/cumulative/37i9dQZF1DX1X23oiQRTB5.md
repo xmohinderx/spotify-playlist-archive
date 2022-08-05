@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Fresh au top de la première playlist de rap français !
+> Gambi au top de la première playlist de rap français !
 
-86 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+87 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Fuego](https://open.spotify.com/track/1mBdiyA2OUySEprEEOKJ6g) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Fuego](https://open.spotify.com/album/1gKn9d5OHN2aUw9FHRFD4C) | 3:31 | 2022-01-06 | 2022-06-24 |
 | [Full black](https://open.spotify.com/track/3GdWREHnpwt24gHOxqKbOo) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:29 | 2022-01-13 | 2022-07-29 |
 | [Full black](https://open.spotify.com/track/7DPQMoNUREqcRjlnbFh2cN) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/2QZYxEoqTwj45Ajifa0hxg) | 2:29 | 2022-07-28 |  |
-| [FUM22 NOCIVE](https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MELANCHOLIA 999](https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a) | 2:11 | 2022-01-06 |  |
+| [FUM22 NOCIVE](https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MELANCHOLIA 999](https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a) | 2:11 | 2022-01-06 | 2022-08-05 |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 |  |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-06-02 |  |
 | [GROKUWA](https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [GROKUWA](https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH) | 3:02 | 2022-01-06 | 2022-05-27 |
@@ -76,6 +76,7 @@
 | [Parapluie \(feat\. Maes\)](https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [A l'aube](https://open.spotify.com/album/09ObghqbDSf17hSctgsO2Z) | 3:14 | 2022-06-23 |  |
 | [Passat](https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OCHO \(Deluxe\)](https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y) | 3:23 | 2022-01-27 |  |
 | [Peon \(feat\. Orelsan\)](https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:47 | 2022-02-10 | 2022-05-20 |
+| [PETETE](https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [PETETE](https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk) | 2:03 | 2022-08-04 |  |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2022-01-06 | 2022-03-25 |
 | [R.A.S.](https://open.spotify.com/track/1nIxCTbXldWJXeQB2h4Lyh) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [R.A.S.](https://open.spotify.com/album/5aLlyDJDyw2OD4ESHvM7D7) | 3:06 | 2022-02-24 | 2022-06-17 |
 | [RAPPEL](https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [RAPPEL](https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD) | 3:37 | 2022-07-07 |  |

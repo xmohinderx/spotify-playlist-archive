@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Warren Hue
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Mezzaluna
 
 104 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 

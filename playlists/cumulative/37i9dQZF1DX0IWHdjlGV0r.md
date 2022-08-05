@@ -4,7 +4,7 @@
 
 > Certi amori bruciano più di altri\. Cover: Gemitaiz
 
-79 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
+80 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 | 2022-05-03 |  |
 | [Parole di ghiaccio](https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [L'erba cattiva](https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH) | 3:51 | 2022-05-03 |  |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-03 | 2022-07-29 |
-| [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 |  |
+| [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
+| [Password](https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 2:45 | 2022-07-28 |  |
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2022-05-03 |  |
 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 | 2022-05-03 |  |
 | [Purple](https://open.spotify.com/track/6L2omWeSyC8TLGzSRdwCvn) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Vita Vera \- Mixtape, aspettando la Divina Commedia](https://open.spotify.com/album/3VcvEJUFZn6md3wW8kVaJS) | 3:10 | 2022-05-03 |  |

@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-186 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+187 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Goodbye](https://open.spotify.com/track/0tDUVtkNs3dn799WQIfk97) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Randal L Meek](https://open.spotify.com/artist/7IbVTpxbYawdWViVedEJIB) | [Goodbye](https://open.spotify.com/album/5hCt1vCsVJrb4RocHLRiBF) | 3:25 | 2022-06-10 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2022-05-13 |  |
 | [Guitarra De Aire](https://open.spotify.com/track/4CeuvQWrIQ6IGWLicEsZzv) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Guitarra De Aire](https://open.spotify.com/album/4jQAhv8VySlv2D2qt4vh5Y) | 3:45 | 2022-05-13 |  |
+| [Gulf Coast Priory](https://open.spotify.com/track/00uqqC4iEhwjVSLOtewgk9) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Easy Escapes](https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn) | 2:53 | 2022-08-05 |  |
 | [Happy Faces](https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G) | [Juno Harrell](https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY) | [Happy Faces](https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy) | 3:20 | 2022-05-13 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-05-13 |  |
 | [Her Beauty and The Moonlight](https://open.spotify.com/track/5pVB8mXfdg24zKDx8sCy1S) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Her Beauty and The Moonlight](https://open.spotify.com/album/06B2QM3Aysi78sk7q7DWBu) | 2:45 | 2022-05-13 |  |

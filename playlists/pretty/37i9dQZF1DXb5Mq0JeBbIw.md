@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft acoustic songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,916 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,934 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 29 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
 | 30 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 |
 | 31 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 |
-| 32 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
-| 33 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
+| 32 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
+| 33 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
 | 34 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 |
 | 35 | [Kill Em With Kindness \- Acoustic](https://open.spotify.com/track/6pezb9EwyygkHnJqkjLphG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/2OicPkzxga0ybQIdl3kvaa) | 3:32 |
 | 36 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 75 | [Me Without You \- Acoustic](https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD) | 3:11 |
 | 76 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
 | 77 | [Bizarre Love Triangle \- Acoustic](https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Bizarre Love Triangle \(Acoustic\)](https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb) | 2:11 |
-| 78 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
-| 79 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 |
+| 78 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 |
+| 79 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
 | 80 | [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 |
 | 81 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
 | 82 | [Without Me \(Acoustic\)](https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Without Me \(Acoustic\)](https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn) | 3:13 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 89 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea) | 2:43 |
 | 90 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
 | 91 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 |
-| 92 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
-| 93 | [Did We Miss the Morning?](https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Give Me Something](https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6) | 2:54 |
+| 92 | [Did We Miss the Morning?](https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Give Me Something](https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6) | 2:54 |
+| 93 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
 | 94 | [Alone \- Acoustic](https://open.spotify.com/track/0vDnzajlY189JIRlQ0cOUs) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:46 |
 | 95 | [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 |
 | 96 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Should I Stay Or Should I Go](https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC) | [Ofelia](https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr) | [Should I Stay Or Should I Go](https://open.spotify.com/album/6Gq8DXdAYBC7R3kzFCztNz) | 2:37 |
 | 100 | [Cut Me Loose \(feat\. SKAAR\) \- Acoustic](https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:15 |
 
-Snapshot ID: `MTY1NjA2NDgwMCwwMDAwMDAwMDliMjQyM2E3NzlmZTU2YjM4YTY1ODcwOGI2OTY1ZjA0`
+Snapshot ID: `MTY1NjA2NDgwMCwwMDAwMDAwMGI0YmFmYTg2N2ViOTUyYTAwY2Y2NDY0M2EyYzE1NmRj`

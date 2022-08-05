@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,529 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,539 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 4 | [Liten fuggel](https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Liten fuggel \(Med kommentarer\)](https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr) | 3:11 |
 | 5 | [E du nord](https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Og så kom resten av livet](https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN) | 5:11 |
 | 6 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU) | 4:13 |
-| 7 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
-| 8 | [Det Fine Vi Hadd' Sammen](https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Jippi](https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u) | 4:19 |
+| 7 | [Det Fine Vi Hadd' Sammen](https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Jippi](https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u) | 4:19 |
+| 8 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
 | 9 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 |
 | 10 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 |
 | 11 | [20 år på vegen](https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [Søvnlaus](https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp) | 4:06 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 34 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
 | 35 | [Alt slik det var laga](https://open.spotify.com/track/3nfuXqTSLAAyVDMgZgjHpc) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Alt slik det var laga](https://open.spotify.com/album/0fIYDEa2RR461qmtpaJjUM) | 3:54 |
 | 36 | [den tyngste turen](https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc) | [den tyngste turen \(med Aslag Haugen\)](https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS) | 3:25 |
-| 37 | [Små\`n](https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Små\`n](https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC) | 3:11 |
-| 38 | [Det Hainnle Om Å Leve](https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX) | [Kine Hellebust](https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec) | [Det Hainnle Om Å Leve \- Mellom Anna](https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9) | 4:14 |
-| 39 | [Himmelblå](https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT) | 3:45 |
+| 37 | [Himmelblå](https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT) | 3:45 |
+| 38 | [Små\`n](https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Små\`n](https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC) | 3:11 |
+| 39 | [Det Hainnle Om Å Leve](https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX) | [Kine Hellebust](https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec) | [Det Hainnle Om Å Leve \- Mellom Anna](https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9) | 4:14 |
 | 40 | [I ungdommen](https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I ungdommen](https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa) | 2:53 |
 | 41 | [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 |
 | 42 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
 | 50 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 |
 
-Snapshot ID: `MTY1NzgzNjAwMCwwMDAwMDAwMDFmODExZWE3MGUyMDBlOWVlZGZhZWQ3NmY0NjUxOGQy`
+Snapshot ID: `MTY1NzgzNjAwMCwwMDAwMDAwMDM0YTJlODI3YmI4NjYyNGE3YjdkNmEyMjU0YWUyYjM0`

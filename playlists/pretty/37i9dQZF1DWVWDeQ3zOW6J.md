@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,307 likes - 60 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,325 likes - 60 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 16 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 |
 | 17 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
 | 18 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
-| 19 | [Incomprendido](https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 2:56 |
+| 19 | [Las Tumbas](https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 4:04 |
 | 20 | [Zumbale](https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Creativo](https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq) | 5:05 |
 | 21 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 22 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
 | 23 | [La negra Tomasa](https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Las Flores De La Vida](https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD) | 3:58 |
 | 24 | [El Sol de la Noche](https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq) | [Salsa Celtica](https://open.spotify.com/artist/1L4dh63UjFVKTCBZTmbPSZ) | [El Agua de la Vida](https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6) | 5:54 |
-| 25 | [Las Tumbas](https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 4:04 |
+| 25 | [Incomprendido](https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 2:56 |
 | 26 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 |
 | 27 | [La Esencia Del Guaguancó](https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [La Perfecta Combinación](https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0) | 4:06 |
 | 28 | [Estamos en Salsa](https://open.spotify.com/track/6nONybSopBGecWPK0pcvva) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa del Conjunto Salsa](https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8) | 4:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [¿Qué Quiere la Niña?](https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV) | [Kako y Totico](https://open.spotify.com/artist/0vlcfJoJQgepEhvhNSMg0w) | [Siguen Pa' Lante y Pa' Lante](https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm) | 3:53 |
 | 60 | [Candela](https://open.spotify.com/track/0y3FHkZu6lFNADeg0BZqr6) | [Orq La Conquistadora](https://open.spotify.com/artist/19GthW5ux1dOgVFAp9aWWo) | [Salsa De La Mata, Vol\. 2](https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk) | 5:07 |
 
-Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDIzNWM1MGJmMzk4Y2Q1ZDU0NmI0NjJlODgwMDI2ZGQw`
+Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDY5OTlkYzliOGI1ODlhYjVmN2I4MDkxMDk1NDk0ZDRj`

@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 66877,
+  "num_followers": 66939,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDJjNDU0ODVmMzAwYjdmM2NlYjU5NGUyMTg5ODU2Y2Ex",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGRlMmEwZjU0ZTVlM2RiYjc3YzNkZDc5YjVmMmM3ZjA4",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
-      },
-      "artists": [
-        {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
-        }
-      ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "A Walk in the Park",
         "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 325880,
       "name": "A Walk in the Park",
       "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "When We Used To Play",
-        "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
-      },
-      "artists": [
-        {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        }
-      ],
-      "duration_ms": 500807,
-      "name": "When We Used To Play - Original Extended Mix",
-      "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Into The Dark",
         "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 221199,
       "name": "Into The Dark",
       "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "When We Used To Play",
+        "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
+      },
+      "artists": [
+        {
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        }
+      ],
+      "duration_ms": 500807,
+      "name": "When We Used To Play - Original Extended Mix",
+      "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Just Want Another Chance",
-        "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
-      },
-      "artists": [
-        {
-          "name": "Reese",
-          "url": "https://open.spotify.com/artist/4VUUiDoySoS7LDboUOX5mv"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 312894,
-      "name": "Just Want Another Chance - Original Mix",
-      "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Into The Groove",
         "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 396190,
       "name": "Into The Groove - Extended Mix",
       "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Just Want Another Chance",
+        "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
+      },
+      "artists": [
+        {
+          "name": "Reese",
+          "url": "https://open.spotify.com/artist/4VUUiDoySoS7LDboUOX5mv"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 312894,
+      "name": "Just Want Another Chance - Original Mix",
+      "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
     },
     {
       "added_at": "2022-07-22 08:57:48",

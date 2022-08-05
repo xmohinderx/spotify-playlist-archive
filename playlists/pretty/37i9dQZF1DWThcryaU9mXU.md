@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,147 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,207 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 21 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
 | 22 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 23 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 |
-| 24 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
-| 25 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 |
+| 24 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 |
+| 25 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 26 | [Little Boy Blue](https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:14 |
 | 27 | [Love That Burns](https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 5:04 |
 | 28 | [Bonnie](https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 49 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
 | 50 | [Drown in My Own Tears](https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Soul for the Heart](https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4) | 4:35 |
 
-Snapshot ID: `MTY1OTEwNTUxNywwMDAwMDAwMGM1NjFjOGE1ZWExMzNjZjQ2OGVkNWQ0YTRmNWViNWZi`
+Snapshot ID: `MTY1OTEwNTUxNywwMDAwMDAwMDgxN2MwZDNlY2Y5ZmJmODFlZjIwMDJhNzE4NzBhMTM2`

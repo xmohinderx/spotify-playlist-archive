@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "El Noah, Noah",
+      "url": "https://open.spotify.com/track/4yRDlfMcaAnS10mvjGoxek"
+    },
+    {
+      "album": {
         "name": "Prov\u00f3came",
         "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
       },
@@ -683,7 +701,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 182026,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/4hgqP8VpweSME8P2m90XkM"

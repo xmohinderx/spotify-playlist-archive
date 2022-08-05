@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Yot Club",
-  "num_followers": 346080,
+  "num_followers": 346132,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODY4MDQ4MCwwMDAwMDAwMDg1ZDQ3YmEyOGI0ZGY2M2Q3YzgxYmJkNjMyNjE5NTlk",
+  "snapshot_id": "MTY0ODY4MDQ4MCwwMDAwMDAwMGRmNWIyNmYyZmViMTIwYzYwYWU3YjE0NzhjMmYxNDEy",
   "tracks": [
     {
       "added_at": "2022-03-30 22:48:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 167126,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
         "name": "Car Crash in G Major",
         "url": "https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 132000,
       "name": "Car Crash in G Major",
       "url": "https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 167126,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "The Way He Looks",
-        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
       },
       "artists": [
         {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Beautiful Mind",
-      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
+      "duration_ms": 131618,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -595,18 +595,34 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "Human Condition",
-        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
+        "name": "The Way He Looks",
+        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
         }
       ],
-      "duration_ms": 131618,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
+      "duration_ms": 199500,
+      "name": "Beautiful Mind",
+      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -627,22 +643,6 @@
       "duration_ms": 199000,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -691,22 +691,6 @@
       "duration_ms": 260024,
       "name": "How Was Your Day?",
       "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
-        "name": "AHH!!",
-        "url": "https://open.spotify.com/album/2L7RSE9OW0awXvlC5NJB83"
-      },
-      "artists": [
-        {
-          "name": "DellaXOZ",
-          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
-        }
-      ],
-      "duration_ms": 96036,
-      "name": "AHH!!",
-      "url": "https://open.spotify.com/track/0TaJeUTNwvJg0jihCwBefH"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -903,6 +887,22 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
+        "name": "Peach Tinted",
+        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+      },
+      "artists": [
+        {
+          "name": "peach tinted",
+          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
         "name": "\u20ac \u20ac \u20ac \u20ac^^%%!!!!!heaven!!!!!!",
         "url": "https://open.spotify.com/album/7H9foucw2Pl96e1bwW8L3Q"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "Peach Tinted",
-        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
-      },
-      "artists": [
-        {
-          "name": "peach tinted",
-          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
         "name": "OH GOD",
         "url": "https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 132323,
       "name": "OH GOD",
       "url": "https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "duration_ms": 312400,
+      "name": "Deaf",
+      "url": "https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu"
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
       "artists": [
         {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 312400,
-      "name": "Deaf",
-      "url": "https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff"
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -1003,22 +1003,6 @@
       "duration_ms": 239343,
       "name": "Into",
       "url": "https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -1135,22 +1119,6 @@
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
-        "name": "Double Superfine",
-        "url": "https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Darcy",
-      "url": "https://open.spotify.com/track/4QJpOq2ztDLrdwdNtjoEf3"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -1171,6 +1139,22 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
+        "name": "Double Superfine",
+        "url": "https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Darcy",
+      "url": "https://open.spotify.com/track/4QJpOq2ztDLrdwdNtjoEf3"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
         "name": "Anti-glory",
         "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
       },
@@ -1183,22 +1167,6 @@
       "duration_ms": 210640,
       "name": "Anti-glory",
       "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
-        "name": "after 8",
-        "url": "https://open.spotify.com/album/4UfOQR7q2GgbBH16kPyTuC"
-      },
-      "artists": [
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
-        }
-      ],
-      "duration_ms": 117073,
-      "name": "after 8",
-      "url": "https://open.spotify.com/track/2hBSZIMfpkSayib4FO684h"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -1219,6 +1187,22 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
+        "name": "after 8",
+        "url": "https://open.spotify.com/album/4UfOQR7q2GgbBH16kPyTuC"
+      },
+      "artists": [
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+        }
+      ],
+      "duration_ms": 117073,
+      "name": "after 8",
+      "url": "https://open.spotify.com/track/2hBSZIMfpkSayib4FO684h"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
         "name": "Ways to Go",
         "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
       },
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "heat waves - lofi version",
-        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
-      },
-      "artists": [
-        {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
-        }
-      ],
-      "duration_ms": 96363,
-      "name": "heat waves - lofi version",
-      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
         "name": "softcore mourn",
         "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
       },
@@ -1263,6 +1231,22 @@
       "duration_ms": 243102,
       "name": "sugar ray",
       "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
+      },
+      "artists": [
+        {
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+        }
+      ],
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -1507,22 +1491,6 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "Avian",
-        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
-      },
-      "artists": [
-        {
-          "name": "patchymate",
-          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "babyur2nice",
-      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/7A5DR85t7aah8LkyyewTYR"
       },
@@ -1539,18 +1507,34 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "I Am the Car",
-        "url": "https://open.spotify.com/album/6RohLnKk8qFHbBeOrdjBPu"
+        "name": "Avian",
+        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
       "artists": [
         {
-          "name": "Fake Fruit",
-          "url": "https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9"
+          "name": "patchymate",
+          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
         }
       ],
-      "duration_ms": 290000,
-      "name": "I Am the Car",
-      "url": "https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9"
+      "duration_ms": 120000,
+      "name": "babyur2nice",
+      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
+        "name": "No Smoke",
+        "url": "https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa"
+      },
+      "artists": [
+        {
+          "name": "Tiberius b",
+          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "No Smoke",
+      "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 276000,
       "name": "MOTH",
       "url": "https://open.spotify.com/track/4N8sFTTjINCUyQL6hDMJCC"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
+        "name": "I Am the Car",
+        "url": "https://open.spotify.com/album/6RohLnKk8qFHbBeOrdjBPu"
+      },
+      "artists": [
+        {
+          "name": "Fake Fruit",
+          "url": "https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "I Am the Car",
+      "url": "https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9"
     },
     {
       "added_at": "2022-03-30 22:48:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-03-30 22:48:00",
       "album": {
-        "name": "No Smoke",
-        "url": "https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa"
-      },
-      "artists": [
-        {
-          "name": "Tiberius b",
-          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "No Smoke",
-      "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
-    },
-    {
-      "added_at": "2022-03-30 22:48:00",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/77Xaj1yittcrI9g7PWbXxq"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 128362,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/7BKwEybys8ZWeYCMykvUrL"
+    },
+    {
+      "added_at": "2022-03-30 22:48:00",
+      "album": {
+        "name": "Better Than Heaven",
+        "url": "https://open.spotify.com/album/4TD3lHUlqgOGL6ikKTYtmG"
+      },
+      "artists": [
+        {
+          "name": "Jhana Boy",
+          "url": "https://open.spotify.com/artist/2Vlf1v1k5FzSmOVBsVRT2F"
+        }
+      ],
+      "duration_ms": 198345,
+      "name": "Better Than Heaven",
+      "url": "https://open.spotify.com/track/1vv1iEw58OHt0juBWVgoTJ"
     },
     {
       "added_at": "2022-03-30 22:48:00",

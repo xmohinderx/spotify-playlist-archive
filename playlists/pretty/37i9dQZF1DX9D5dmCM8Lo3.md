@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,865 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,194 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 15 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
 | 16 | [I Saw an Angel](https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [Soaring](https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ) | 2:43 |
 | 17 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 |
-| 18 | [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 |
+| 18 | [Pretty Cvnt](https://open.spotify.com/track/4aonVufCxoIUqqSEDc6KCs) | [swelavin](https://open.spotify.com/artist/5cIopFMTkAGk0w0MgSXC0n) | [Pretty Cvnt](https://open.spotify.com/album/52mqwizCJozEgmbGDHMcLN) | 3:40 |
 | 19 | [Everything I Own](https://open.spotify.com/track/53FufLl4OfGMzdJv73Hpgg) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Everything I Own](https://open.spotify.com/album/4Fh7c02zxgLTSw7FKidgeA) | 3:21 |
-| 20 | [Pretty Cvnt](https://open.spotify.com/track/4aonVufCxoIUqqSEDc6KCs) | [swelavin](https://open.spotify.com/artist/5cIopFMTkAGk0w0MgSXC0n) | [Pretty Cvnt](https://open.spotify.com/album/52mqwizCJozEgmbGDHMcLN) | 3:40 |
+| 20 | [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 |
 | 21 | [C3L3STIAL\_CITY](https://open.spotify.com/track/7qfIfb1Wh9K1gVsVzz99jx) | [bliss3three](https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI) | [C3L3STIAL天の](https://open.spotify.com/album/6yiGXFTyMYPu8EabAjSaud) | 1:08 |
 | 22 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 |
 | 23 | [Cyan Hardcore](https://open.spotify.com/track/5DbCXRs5PXXDgFrsdzjGDg) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 5:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 74 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
 | 75 | [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 |
 
-Snapshot ID: `MTY0ODgyNTAwNiwwMDAwMDAwMDc4YTFmMmFiMTI1NjU3ZjQzMmYwNWUyZTZmZDgwYWM2`
+Snapshot ID: `MTY0ODgyNTAwNiwwMDAwMDAwMDAyOWIyMTYzYmNlNTZhZjkzZjYxOTRmMDEwYTNiNzU2`

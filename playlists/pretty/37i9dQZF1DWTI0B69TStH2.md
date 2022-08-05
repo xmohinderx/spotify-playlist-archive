@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Udoo \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,753 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,757 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 3 | [Obrazy, łzy i fobie](https://open.spotify.com/track/0DWNBhQO9QCfWmZFDC9uMP) | [Drowsy Fawn](https://open.spotify.com/artist/4t3gqL8XGUEocHql23HlGy) | [Obrazy, łzy i fobie](https://open.spotify.com/album/0JDs1oRK6BMkUB54oUCyN1) | 4:08 |
 | 4 | [Nieustawiczna](https://open.spotify.com/track/0PiKMkIMyqHgdAi9tUe4mQ) | [GRALIRYKA](https://open.spotify.com/artist/2n4AGfHkzwXOLZhY5rxXLd), [Ula Kowalska](https://open.spotify.com/artist/123wQ583hZkCUjHCfTf8Em) | [Nieustawiczna](https://open.spotify.com/album/79N6PbiHbBUO0ja6wSdBJK) | 2:09 |
 | 5 | [Zatapiam Się](https://open.spotify.com/track/30WWX9Vye66PJ7n5095i0u) | [Baribal](https://open.spotify.com/artist/1WJYSVWDW88M7GpjkFEL50), [Ciucixx](https://open.spotify.com/artist/2nUAOxyAnm0NXMlGW5MzQQ) | [Sploty](https://open.spotify.com/album/1kpIM6LTIMdo2EkixKTaq2) | 3:58 |
-| 6 | [Nie wiem jak](https://open.spotify.com/track/1abcLByljaWOVXqwJgpItc) | [pestka](https://open.spotify.com/artist/7jSicnYNPQym5U7FR2vw6V) | [Nie wiem jak](https://open.spotify.com/album/7EGCgbg8TSnw1iNDNQ2QPg) | 4:32 |
+| 6 | [Nie wiem jak](https://open.spotify.com/track/1abcLByljaWOVXqwJgpItc) | [pestka](https://open.spotify.com/artist/7jSicnYNPQym5U7FR2vw6V), [Ajzeja](https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS) | [Nie wiem jak](https://open.spotify.com/album/7EGCgbg8TSnw1iNDNQ2QPg) | 4:32 |
 | 7 | [może wpadnę](https://open.spotify.com/track/5w2G4hDARa3TJTdOxqUTXu) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może wpadnę](https://open.spotify.com/album/5tvmxNeMjWXgcNw4zcfpri) | 3:32 |
 | 8 | [Freski](https://open.spotify.com/track/1aJrmSUZAsse6xn9DijVWF) | [Nicole Kulesza](https://open.spotify.com/artist/6w2akRTl2UT8xdWikMr4Yy) | [Freski](https://open.spotify.com/album/4X8CAiGX5MYXqPCsDW72ll) | 3:18 |
 | 9 | [Uśnij](https://open.spotify.com/track/3Knt52PYJW57E9o3fLN8Mr) | [Chvost](https://open.spotify.com/artist/52igMo8EJG5hDLoY62CKp5) | [Uśnij](https://open.spotify.com/album/6aA8ad6H7r4cX2L54LGhtO) | 3:46 |

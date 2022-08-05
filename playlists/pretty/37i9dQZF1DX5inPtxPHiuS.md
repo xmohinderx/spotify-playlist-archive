@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Oh'laville
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,754 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,780 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 23 | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm) | 3:25 |
 | 24 | [Algún Contexto](https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 2:54 |
 | 25 | [Perdedor](https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl) | [Consulado Popular](https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR) | [Perdedor](https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB) | 3:11 |
-| 26 | [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 |
+| 26 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
 | 27 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
 | 28 | [Barco de Papel](https://open.spotify.com/track/1ufmRhXT4AWHwSGak3ZO9T) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/2GQgIRVZ3XkqyiZKxHBDZP) | 3:31 |
-| 29 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
+| 29 | [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 |
 | 30 | [Todo Va a Arder](https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [B \(Deluxe Edition\)](https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY) | 3:21 |
 | 31 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
 | 32 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 34 | [Emociones](https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 3:47 |
 | 35 | [Delirio](https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23) | [Los Makenzy](https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s), [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Pipe Bravo](https://open.spotify.com/artist/1jQdrJgtbeqURoJDNUtQaq) | [Delirio](https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI) | 3:30 |
 | 36 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 |
-| 37 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
-| 38 | [Cangrejo](https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Regular](https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ) | 2:42 |
+| 37 | [Cangrejo](https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Regular](https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ) | 2:42 |
+| 38 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 39 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
 | 40 | [Hacia la Noche](https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL) | 3:55 |
 | 41 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Sangre de Prófugo](https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec) | 3:31 |
 | 60 | [Pill](https://open.spotify.com/track/4OFNNqUrrX7WnjUNGk4MpD) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Pill](https://open.spotify.com/album/1xcILaWt6tBBVmLFCqDAag) | 3:00 |
 
-Snapshot ID: `MTY1NjA0NzcwMCwwMDAwMDAwMGQxYTI5MGJiYjMxMzk2YmY5YzIwOTIyNjQ2NmVhOTBh`
+Snapshot ID: `MTY1NjA0NzcwMCwwMDAwMDAwMDA3NTI5NjliNjM3MDY0ZTdmODM1ODQwZDM5MGExNjc5`

@@ -340,6 +340,28 @@
     },
     {
       "album": {
+        "name": "at ease",
+        "url": "https://open.spotify.com/album/7dxZN7ECpA6AdHZZS9FWum"
+      },
+      "artists": [
+        {
+          "name": "CHG",
+          "url": "https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl"
+        },
+        {
+          "name": "sar.casm",
+          "url": "https://open.spotify.com/artist/2gfRk7qGgto6rAfU9HCtnb"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108850,
+      "name": "at ease",
+      "url": "https://open.spotify.com/track/6SeBI5UXEZPZzKVwg3SuNp"
+    },
+    {
+      "album": {
         "name": "Rock Solid",
         "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
       },
@@ -2219,7 +2241,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 352758,
       "name": "Gliding",
       "url": "https://open.spotify.com/track/5hDGNY2DE7MWtlnaLthQho"
@@ -3653,7 +3675,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 214629,
       "name": "Loving You (One Last Time) - Lounge Version",
       "url": "https://open.spotify.com/track/7jYPOUQNUXYYRAIBu3qfVj"
@@ -4317,7 +4339,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 151875,
       "name": "Night In Paris",
       "url": "https://open.spotify.com/track/6RSLUzuAOJBhr12XEqt5Uy"
@@ -4459,7 +4481,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 235384,
       "name": "Oceans - Chill Out Version",
       "url": "https://open.spotify.com/track/5GwOrZrxeUTHwaenkS2GdK"
@@ -6997,7 +7019,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 318453,
       "name": "Who Is There",
       "url": "https://open.spotify.com/track/5Y5d8oPao0t3Mfpk8D0mwO"

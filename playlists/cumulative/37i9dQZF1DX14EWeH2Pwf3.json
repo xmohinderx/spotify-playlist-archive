@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Sfera Ebbasta",
+  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: AVA, Medy, VillaBanks",
   "name": "Plus Ultra",
   "published_playlist_ids": [
     "7z4B5G5t7icaq70XD3Gf3S"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 153693,
       "name": "FREE SOLO (feat. Marracash)",
       "url": "https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o"
@@ -1911,10 +1911,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165721,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil"
     },
     {
       "album": {
@@ -2113,6 +2131,24 @@
       "duration_ms": 155786,
       "name": "RAP (feat. Rondodasosa, Sacky, Neima Ezza)",
       "url": "https://open.spotify.com/track/4M8YEPfCBxN3fsZkatCCLz"
+    },
+    {
+      "album": {
+        "name": "Regina del Block",
+        "url": "https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198516,
+      "name": "Regina del Block",
+      "url": "https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB"
     },
     {
       "album": {

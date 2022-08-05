@@ -2,15 +2,16 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Penggalan lagu lama dari kancah musik independen\. Cover: Funny Little Dream
+> Penggalan lagu lama dari kancah musik independen\. Cover: whisperdesire
 
-88 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+96 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Ouch\) Mighty Love](https://open.spotify.com/track/6fKHg8pucl8ZFj07NVEBvk) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Unrescued World](https://open.spotify.com/album/0knRYnWDxaU96s6cOEu8BF) | 4:11 | 2021-11-25 |  |
 | [2 AM](https://open.spotify.com/track/71x7IYQXrCv8Pd2CX39oQm) | [Monday Math Class](https://open.spotify.com/artist/2TEO3mpRZL9jXJakMGTF3J) | [Volume 1 \- Ep](https://open.spotify.com/album/6cHlFXEzCz5A4zIIy0hdNX) | 4:32 | 2021-11-25 |  |
 | [A Spy in the House of Love](https://open.spotify.com/track/6Um6kOVCAV2LdFUAEWXgyS) | [The Jonis](https://open.spotify.com/artist/5Pq2ik6ubF4yTY3BcTsDqb) | [A Spy in the House of Love](https://open.spotify.com/album/2GvKZUcqklr89phbizRh7M) | 4:39 | 2021-11-25 |  |
+| [a Thousand Miles from the Atmosphere](https://open.spotify.com/track/43wDwERxDlI7shRV8siX07) | [LastElise](https://open.spotify.com/artist/79sjdrTXc4buTUKgEuspYl) | [a Thousand Miles from the Atmosphere](https://open.spotify.com/album/2UHFzT9qA6tnmQjAaAPqo2) | 3:17 | 2022-08-04 |  |
 | [Aku Cinta J.A.K.A.R.T.A](https://open.spotify.com/track/5fFgx8X3SjZ4boxGu0vxeY) | [C'mon Lennon](https://open.spotify.com/artist/1RDrenzYUkREj4MDKQmdnP) | [Ketika La La La](https://open.spotify.com/album/1heP6tMSv3osMfEx4btHFd) | 3:24 | 2022-05-19 |  |
 | [Aku Lupa Aku Luka](https://open.spotify.com/track/3kBV8olpppGCIbhrh8TV6o) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:31 | 2021-11-25 |  |
 | [Ali Baba](https://open.spotify.com/track/7hyVSfiu8VEKYh2l8eAiIb) | [Boys Are Toys](https://open.spotify.com/artist/1b2zga59ICvBeqJ9uuxuu5) | [Weah Weah of the Blah Blah](https://open.spotify.com/album/5W6e1kRTkcmSQPNPiEeYCI) | 2:48 | 2021-11-25 |  |
@@ -19,6 +20,7 @@
 | [Amerika](https://open.spotify.com/track/4brj3kqJtL7DIiA7vxAbyy) | [Armada Racun](https://open.spotify.com/artist/4eQQrNIgQpYGk0MvdNHncq) | [La Peste](https://open.spotify.com/album/2ymuB5HHTqFqKDN6y2ADwa) | 2:31 | 2021-11-25 |  |
 | [Another Song for Her](https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:10 | 2022-01-06 |  |
 | [Apple \(Suicide On Your Stereo Set\)](https://open.spotify.com/track/2YsfSIc88U6nIqWqDTxiDG) | [Annemarie](https://open.spotify.com/artist/510UvK3f9UNOBh4CNZuSoJ) | [ABC On Tv](https://open.spotify.com/album/712iSMC4r6ANdkzBCkqAz3) | 3:38 | 2021-11-25 |  |
+| [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 | 2022-08-04 |  |
 | [Berlayar](https://open.spotify.com/track/2vGdIDuFo0EKPxywKCyWpu) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:01 | 2021-11-25 |  |
 | [Biara](https://open.spotify.com/track/2G38QfmlWGmAnMISsx6EeV) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Biara](https://open.spotify.com/album/3v1Q7EALIjc7mB1PRVfDTQ) | 2:27 | 2021-11-25 |  |
 | [Cermin](https://open.spotify.com/track/3QqEFHU2gPzV0nq277y9fK) | [WONDERGEL](https://open.spotify.com/artist/7kqRQuWrQEUJECtxamxmr3) | [Wondergel](https://open.spotify.com/album/0ljj3xlOQw965rlOFF5xnJ) | 4:21 | 2022-04-14 |  |
@@ -36,9 +38,12 @@
 | [Jatuh Cinta Itu Biasa Saja](https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Efek Rumah Kaca](https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf) | 5:14 | 2021-11-25 |  |
 | [Kelopak Angsa \- Remastered](https://open.spotify.com/track/0YyNk502FhwF3KjTbyAMsb) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Kelopak Angsa \(Remastered\)](https://open.spotify.com/album/4LLtGY51tbEFAxAT82dAjb) | 4:11 | 2021-11-25 |  |
 | [Kisah Dari Selatan Jakarta](https://open.spotify.com/track/20qm0yBgr7ylY91vKp7SpY) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Together Whatever Sessions \(Live Version\)](https://open.spotify.com/album/0eXX7sZMrUItp9FT6FTWdl) | 4:15 | 2021-11-25 |  |
+| [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/track/2MuNPjvtdsIIX46Felbx82) | [Baby Eats Crackers](https://open.spotify.com/artist/5ToCo2V5mapXG8lnr9mV3e) | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/album/0MBi0mMMAW1YoPWyLAtNGl) | 3:16 | 2022-08-04 |  |
+| [Kita Akan Bertemu di Sana](https://open.spotify.com/track/67WXgb9g8eZARad1QRMMpQ) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Cerah Berawan](https://open.spotify.com/album/3mXgaM6h0ZysTtrEahbhUF) | 4:43 | 2022-08-04 |  |
 | [Konservatif](https://open.spotify.com/track/7qUkZhXym0LCTdcmwhGO3b) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [The Adams](https://open.spotify.com/album/78DE7OzE8yFEcfkGQ7L024) | 4:51 | 2021-11-25 |  |
 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 | 2021-11-25 |  |
 | [Kuning](https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Nol Derajat](https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F) | 5:49 | 2021-11-25 |  |
+| [Lagu Hujan](https://open.spotify.com/track/176hBOHzslVQTEF7VFmASt) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Lagu Hujan](https://open.spotify.com/album/4hRM7gpvEqDhwq8zFqz4lt) | 3:58 | 2022-08-04 |  |
 | [Lagu Kesepian](https://open.spotify.com/track/1Ur7wvurvzlYacQUQBCZS4) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Kamar Gelap](https://open.spotify.com/album/7ts3VbRbrQM5CPY4x9E7Om) | 4:27 | 2022-05-12 |  |
 | [Lara Jiwa](https://open.spotify.com/track/0sdb241qppgCn1Q918ujCn) | [Astrolab](https://open.spotify.com/artist/0wp0iMyEsrQjUDYSHXsSup) | [The Blue Thread Saga](https://open.spotify.com/album/3iob7TFfoadjFlKyeq4zun) | 3:53 | 2022-04-14 |  |
 | [Lari 100](https://open.spotify.com/track/73X5FjXQtQHPCnZGc8UJxd) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 4:27 | 2021-11-25 |  |
@@ -61,6 +66,7 @@
 | [Old Friend](https://open.spotify.com/track/6hGV9A3qjB3nBzLCXM4sPV) | [Ballads of the Cliche](https://open.spotify.com/artist/7fNOUKLAwWlOMfv3uAW3RD) | [Evergreen](https://open.spotify.com/album/73hSLzBNglYCR8TvyXJans) | 3:20 | 2021-11-25 |  |
 | [Our Little Secret](https://open.spotify.com/track/30UYhqjoFvR1IKBOuLY4Om) | [Clover](https://open.spotify.com/artist/40YFIe30faVDezEz2qlTVk), [Merdi Simanjuntak](https://open.spotify.com/artist/4N8LDmG9Rwaoix3Sylkgzw) | [Until Whenever](https://open.spotify.com/album/6R9s145A0ajId6I0yjlrZc) | 3:54 | 2022-06-23 |  |
 | [Pada Awalnya](https://open.spotify.com/track/41m65kJO5iZ4S42AqOSD0Q) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 3:43 | 2021-11-25 | 2022-01-07 |
+| [Paradox](https://open.spotify.com/track/6Sqy4qSkZwHvbQlOmqCGe2) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [Mind Thieves](https://open.spotify.com/album/10u0ZDzXKtAUOrzuoZtk8z) | 5:07 | 2022-08-04 |  |
 | [Penggalan Kisah Lama](https://open.spotify.com/track/6CgS033Lai60cUo17xKNUV) | [La Luna](https://open.spotify.com/artist/70vCC614T0CWhPaIjDo9Na) | [Kilas Balik](https://open.spotify.com/album/4dAo8QjTz9yvUGPgUUBn8p) | 3:46 | 2022-04-14 |  |
 | [Pergi Ke Bulan](https://open.spotify.com/track/5ucDkQKPniJlwTVMCQOvj1) | [Klarinet](https://open.spotify.com/artist/5W8Z7MYHJ3JML7lWVUHcY2) | [Klarinet](https://open.spotify.com/album/4ui8LbRdGOFtZu0T7NHbQM) | 2:52 | 2021-11-25 |  |
 | [Pig Paranoia](https://open.spotify.com/track/4ynxHnSWd8VGoocpWpSvTT) | [Zeke Khaseli](https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU) | [Salacca Zalacca \(10TH Anniversary Edition\)](https://open.spotify.com/album/37vmU4bxRfyjWokSMH5rWW) | 2:32 | 2021-11-25 |  |
@@ -68,6 +74,7 @@
 | [Pop Kinetik](https://open.spotify.com/track/5g2V3uYWkLJJYFDPsny0La) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [1+2](https://open.spotify.com/album/5XepVOJPD8w4yF9SaKduLG) | 3:41 | 2021-11-25 |  |
 | [Pulang](https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [No\-Dream Land](https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX) | 3:17 | 2021-11-25 |  |
 | [Rasuna](https://open.spotify.com/track/53osj6QMqLcS0hri9bcrsz) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 5:22 | 2021-11-25 |  |
+| [Ribbons and Tie](https://open.spotify.com/track/6cX2vLd8kzTXkWUp7MUT8B) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Tinkerwish](https://open.spotify.com/album/2Rh5YARuoxIx4DIyeYPDMA) | 4:48 | 2022-08-04 |  |
 | [Rindu](https://open.spotify.com/track/3bgzKtiWqtUkzTQvvX7QQf) | [Planetbumi](https://open.spotify.com/artist/6Gowlt8jc4QjTj8bhDSbPI) | [The Rest of Planet Bumi](https://open.spotify.com/album/4nsL12Cl2TIugB7O9RAZjk) | 4:42 | 2021-11-25 |  |
 | [Rocket Ship Goes By](https://open.spotify.com/track/4t3xYJuEtE62BnjpkIlzdz) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 4:08 | 2021-11-25 |  |
 | [Romansick](https://open.spotify.com/track/3vm6t3eFKsfpTEWTHrHeGT) | [Amazing in Bed](https://open.spotify.com/artist/2jVZ9hbmiAlkPMF2KsO66k) | [Self Titled](https://open.spotify.com/album/706VukfkZprTpoyO6RPE3P) | 4:10 | 2022-06-03 |  |
@@ -94,6 +101,7 @@
 | [Train Song](https://open.spotify.com/track/7oEEo9d9ajxiwOyMnWnE67) | [LAIN](https://open.spotify.com/artist/7jl1uHLFhjyTBm7VhEJkfc) | [Djakarta Goodbye](https://open.spotify.com/album/1yBGzjyYGCLkPs9VwQh1qo) | 3:16 | 2021-11-25 |  |
 | [Tribute for you](https://open.spotify.com/track/6DyR1o2aSYZhvJPwAVkjVX) | [Pestolaer](https://open.spotify.com/artist/1gpfHCNfV3ODeF7f6YfsSF) | [Best of the Best](https://open.spotify.com/album/0ywMYhZ1UwaSMvuIO2HiMI) | 3:53 | 2022-04-14 |  |
 | [Waking Hour](https://open.spotify.com/track/0cs8SUKFfyO9yUPlVCY6oh) | [Hightime Rebellion](https://open.spotify.com/artist/6pdlU4FPMqLG74BWDxcTEO) | [Neurobic](https://open.spotify.com/album/6qwfwz47DEnXUQw6MD2dc6) | 4:43 | 2022-06-03 |  |
+| [When You Love Someone](https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Nowhere to Go](https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU) | 4:31 | 2022-08-04 |  |
 | [Winter Holiday](https://open.spotify.com/track/0IxXRtwQGRBZTEYPmG00Ag) | [Olivetree](https://open.spotify.com/artist/0YrrDoXzukjGeE16uxqQft) | [Return of Strawberry Rock](https://open.spotify.com/album/5PsgYpiJfgCwkbfRUL97B2) | 3:15 | 2022-04-14 |  |
 | [Zsa Zsa Zsu](https://open.spotify.com/track/2243TCbg4yVQmWyS98rAUw) | [Rock N Roll Mafia](https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc) | [Outbox](https://open.spotify.com/album/6p8FUn9K25XtrrlsMrbZ0P) | 4:41 | 2022-05-12 |  |
 

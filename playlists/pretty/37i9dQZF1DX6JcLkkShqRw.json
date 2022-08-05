@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con FMK & Lola Indigo",
-  "num_followers": 258039,
+  "num_followers": 258208,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEzMzE5OCwwMDAwMDAwMDM4NGM5YWRjZWIxNDhhNTM3NjkyNjZiOTcxOTkyZmMy",
+  "snapshot_id": "MTY1OTEzMzE5OCwwMDAwMDAwMGZkMTFmOTUwODIwOTM4Nzk1ZDBlMTU2ZTk2YTc2NGU3",
   "tracks": [
     {
       "added_at": "2022-07-29 22:19:58",
@@ -571,6 +571,26 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
+    },
+    {
+      "added_at": "2022-07-29 22:19:58",
+      "album": {
         "name": "Morad: Bzrp Music Sessions, Vol. 47",
         "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
       },
@@ -591,22 +611,6 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
-        "name": "cuatro veinte",
-        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
-    },
-    {
-      "added_at": "2022-07-29 22:19:58",
-      "album": {
         "name": "Entre Nosotros",
         "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
       },
@@ -623,6 +627,22 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+    },
+    {
+      "added_at": "2022-07-29 22:19:58",
+      "album": {
+        "name": "cuatro veinte",
+        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -651,26 +671,6 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1"
-    },
-    {
-      "added_at": "2022-07-29 22:19:58",
-      "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -763,22 +763,18 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
-        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
+        "name": "La Trampa es Ley",
+        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 161485,
-      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
+      "duration_ms": 141864,
+      "name": "La Trampa es Ley",
+      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -803,18 +799,22 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
-        "name": "La Trampa es Ley",
-        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
+        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         }
       ],
-      "duration_ms": 141864,
-      "name": "La Trampa es Ley",
-      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+      "duration_ms": 161485,
+      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -987,8 +987,8 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
-        "name": "como si no importara",
-        "url": "https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr"
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
       "artists": [
         {
@@ -996,13 +996,13 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 173052,
-      "name": "como si no importara",
-      "url": "https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j"
+      "duration_ms": 168508,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+        "name": "como si no importara",
+        "url": "https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr"
       },
       "artists": [
         {
@@ -1212,13 +1212,13 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 168508,
-      "name": "intoxicao",
-      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
+      "duration_ms": 173052,
+      "name": "como si no importara",
+      "url": "https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
-        "name": "INTERESTELAR",
-        "url": "https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "INTERESTELAR",
-      "url": "https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz"
-    },
-    {
-      "added_at": "2022-07-29 22:19:58",
-      "album": {
         "name": "Hooka",
         "url": "https://open.spotify.com/album/4dotvAmzUuJ8yugn71wz86"
       },
@@ -1523,6 +1499,30 @@
       "duration_ms": 193453,
       "name": "Hooka",
       "url": "https://open.spotify.com/track/5YhEoEA8OdwNYiFIBPh6nt"
+    },
+    {
+      "added_at": "2022-07-29 22:19:58",
+      "album": {
+        "name": "INTERESTELAR",
+        "url": "https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "INTERESTELAR",
+      "url": "https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
+        "name": "Huella Letal",
+        "url": "https://open.spotify.com/album/77Pk12zTQeHZDJBNMX1WjA"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 137732,
+      "name": "Huella Letal",
+      "url": "https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv"
+    },
+    {
+      "added_at": "2022-07-29 22:19:58",
+      "album": {
         "name": "Jet Lag",
         "url": "https://open.spotify.com/album/6FnkMBlsYoeC0RlHukY935"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 184200,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/4ftH6O3bvfEB4EO04K2xIM"
-    },
-    {
-      "added_at": "2022-07-29 22:19:58",
-      "album": {
-        "name": "Huella Letal",
-        "url": "https://open.spotify.com/album/77Pk12zTQeHZDJBNMX1WjA"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 137732,
-      "name": "Huella Letal",
-      "url": "https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -2063,18 +2063,26 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
-        "name": "SOLO POR VOS",
-        "url": "https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE"
+        "name": "Mi Waxita",
+        "url": "https://open.spotify.com/album/1o8ifDcbijqGFTgzfx0min"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Izahn",
+          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         }
       ],
-      "duration_ms": 199825,
-      "name": "SOLO POR VOS",
-      "url": "https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi"
+      "duration_ms": 218006,
+      "name": "Mi Waxita",
+      "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
     },
     {
       "added_at": "2022-07-29 22:19:58",
@@ -2111,6 +2119,22 @@
     {
       "added_at": "2022-07-29 22:19:58",
       "album": {
+        "name": "SOLO POR VOS",
+        "url": "https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 199825,
+      "name": "SOLO POR VOS",
+      "url": "https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi"
+    },
+    {
+      "added_at": "2022-07-29 22:19:58",
+      "album": {
         "name": "FASHION DILLER",
         "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
       },
@@ -2127,30 +2151,6 @@
       "duration_ms": 161638,
       "name": "FASHION DILLER",
       "url": "https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU"
-    },
-    {
-      "added_at": "2022-07-29 22:19:58",
-      "album": {
-        "name": "Mi Waxita",
-        "url": "https://open.spotify.com/album/1o8ifDcbijqGFTgzfx0min"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "Izahn",
-          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 218006,
-      "name": "Mi Waxita",
-      "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
     },
     {
       "added_at": "2022-07-29 22:19:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,808 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,859 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 24 | [Nothing Can Change This Love](https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Mr\. Soul](https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va) | 2:38 |
 | 25 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 26 | [I've Been Loving You Too Long](https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 3:01 |
-| 27 | [I Like The Way You Love Me](https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:43 |
-| 28 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
+| 27 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
+| 28 | [I Like The Way You Love Me](https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:43 |
 | 29 | [Emotions](https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Emotions](https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z) | 2:51 |
 | 30 | [When a Man Loves a Woman](https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA) | 2:55 |
 | 31 | [Where Do You Go To \(My Lovely\) \- Re\-Recorded](https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4) | [Peter Sarstedt](https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B) | [The Lost Album](https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Losing You](https://open.spotify.com/track/78HTdAIfx2UBmFWZN4s7A6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [..."Let Me Sing"](https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4) | 2:34 |
 | 50 | [Skyline Pigeon](https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:37 |
 
-Snapshot ID: `MTY1ODg0ODI3MiwwMDAwMDAwMDIwNDJlOGMzNzlkNThlMmI3ZDNiYTU5ODkzZDA3YzNh`
+Snapshot ID: `MTY1ODg0ODI3MiwwMDAwMDAwMDRjZTdiOTBiMDM2ZGUwNDlmOTM0ZDNhYjBhZmI1YjIy`

@@ -1,12 +1,12 @@
 {
   "description": "Focus on the drums, and your inner animal will come alive! In-your-face rock tracks where the drums can't be ignored.",
-  "num_followers": 156291,
+  "num_followers": 156328,
   "original_name": "Drum Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDUzM2Q0OGQ4ZWQ3NmFiMzdlZjczZTM2M2Q0MDY0ZThm",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGU0ZjFiZDRmYzUxZjYwOTRhOTQ1ZTY4NDRlM2RhODEx",
   "tracks": [
     {
       "added_at": "2018-12-10 20:36:13",
@@ -399,22 +399,6 @@
     {
       "added_at": "2018-12-10 20:36:13",
       "album": {
-        "name": "Idlewild South (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 419093,
-      "name": "In Memory Of Elizabeth Reed",
-      "url": "https://open.spotify.com/track/23KUlJNvJmKrRVmo3XBvxM"
-    },
-    {
-      "added_at": "2018-12-10 20:36:13",
-      "album": {
         "name": "Aja",
         "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 480466,
       "name": "Aja",
       "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
+    },
+    {
+      "added_at": "2018-12-10 20:36:13",
+      "album": {
+        "name": "Idlewild South (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 419093,
+      "name": "In Memory Of Elizabeth Reed",
+      "url": "https://open.spotify.com/track/23KUlJNvJmKrRVmo3XBvxM"
     },
     {
       "added_at": "2018-12-10 20:36:13",

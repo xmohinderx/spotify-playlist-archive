@@ -1,12 +1,12 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1319100,
+  "num_followers": 1319575,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1NjQwMCwwMDAwMDAwMDJmNWEzZTBjY2Y1NzA1N2FkYzk5Yzg5NWQ2YjFlZGNl",
+  "snapshot_id": "MTY1NzI1NjQwMCwwMDAwMDAwMGFhZjZiZjQwZjk2Y2Y1NTA2MzUyZjZmZTljNTQ1YmIy",
   "tracks": [
     {
       "added_at": "2022-07-08 05:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-05-23 18:55:25",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
+    },
+    {
+      "added_at": "2022-05-23 18:55:25",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 169986,
       "name": "Contigo No Fue",
       "url": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
-    },
-    {
-      "added_at": "2022-05-23 18:55:25",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-05-23 18:55:25",
       "album": {
-        "name": "Un Nuevo Amor",
-        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 226776,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
-    },
-    {
-      "added_at": "2022-05-23 18:55:25",
-      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 235213,
       "name": "El Reemplazo",
       "url": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
+    },
+    {
+      "added_at": "2022-05-23 18:55:25",
+      "album": {
+        "name": "Un Nuevo Amor",
+        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 226776,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-05-23 18:55:25",
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
-    },
-    {
-      "added_at": "2022-05-23 18:55:25",
-      "album": {
         "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
         "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 203493,
       "name": "Solo Un Dia (Ahora Te Amo)",
       "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
+    },
+    {
+      "added_at": "2022-05-23 18:55:25",
+      "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
     },
     {
-      "added_at": "2022-06-17 17:08:13",
+      "added_at": "2022-05-23 18:55:25",
       "album": {
-        "name": "Lo Que Construimos - Spotify Singles",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos - Spotify Singles",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -1157,20 +1157,20 @@
       "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
     },
     {
-      "added_at": "2022-05-23 18:55:25",
+      "added_at": "2022-06-17 17:08:13",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+        "name": "Lo Que Construimos - Spotify Singles",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 213280,
-      "name": "Qui\u00e9n Es Usted",
-      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -1203,22 +1203,6 @@
       "duration_ms": 171367,
       "name": "Si Me Duele Que Duela",
       "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2022-05-23 18:55:25",
-      "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/2RvN3fb5MsKXKYjhmpToAF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 217429,
-      "name": "En Donde Esta Tu Amor",
-      "url": "https://open.spotify.com/track/6jweSpMwhhNpfILeZ3kLso"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2022-05-23 18:55:25",
       "album": {
+        "name": "Ya Solo Eres Mi Ex",
+        "url": "https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Ya Solo Eres Mi Ex",
+      "url": "https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9"
+    },
+    {
+      "added_at": "2022-05-23 18:55:25",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 214400,
       "name": "Un Desenga\u00f1o",
       "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+    },
+    {
+      "added_at": "2022-05-23 18:55:25",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/2RvN3fb5MsKXKYjhmpToAF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 217429,
+      "name": "En Donde Esta Tu Amor",
+      "url": "https://open.spotify.com/track/6jweSpMwhhNpfILeZ3kLso"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -1351,22 +1367,6 @@
       "duration_ms": 209673,
       "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
       "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
-    },
-    {
-      "added_at": "2022-05-23 18:55:25",
-      "album": {
-        "name": "Ya Solo Eres Mi Ex",
-        "url": "https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Ya Solo Eres Mi Ex",
-      "url": "https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-05-23 18:55:25",
       "album": {
-        "name": "Unas M\u00edas y Otras Prestadas",
-        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
-    },
-    {
-      "added_at": "2022-05-23 18:55:25",
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 168840,
       "name": "La N\u00famero 20",
       "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
+    },
+    {
+      "added_at": "2022-05-23 18:55:25",
+      "album": {
+        "name": "Unas M\u00edas y Otras Prestadas",
+        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -1745,22 +1745,6 @@
       "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
-      "added_at": "2022-05-27 22:01:50",
-      "album": {
-        "name": "Casi Algo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
-      },
-      "artists": [
-        {
-          "name": "Uriel Barrera",
-          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
-        }
-      ],
-      "duration_ms": 132986,
-      "name": "Casi Algo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
-    },
-    {
       "added_at": "2022-05-23 18:55:25",
       "album": {
         "name": "El Que Te Am\u00f3",
@@ -1775,6 +1759,22 @@
       "duration_ms": 184760,
       "name": "El Que Te Am\u00f3",
       "url": "https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP"
+    },
+    {
+      "added_at": "2022-05-27 22:01:50",
+      "album": {
+        "name": "Casi Algo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
+      },
+      "artists": [
+        {
+          "name": "Uriel Barrera",
+          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
+        }
+      ],
+      "duration_ms": 132986,
+      "name": "Casi Algo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
     },
     {
       "added_at": "2022-05-23 18:55:25",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2022-05-23 18:55:25",
       "album": {
+        "name": "Una Julio 70",
+        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Una Julio 70",
+      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
+    },
+    {
+      "added_at": "2022-05-23 18:55:25",
+      "album": {
         "name": "Hoy Voy a Olvidarte",
         "url": "https://open.spotify.com/album/5AR4N8t3wpMmNEaIg90knJ"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 165000,
       "name": "Que Llore, Que Llore",
       "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
-    },
-    {
-      "added_at": "2022-05-23 18:55:25",
-      "album": {
-        "name": "Una Julio 70",
-        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Una Julio 70",
-      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
     },
     {
       "added_at": "2022-05-23 18:55:25",

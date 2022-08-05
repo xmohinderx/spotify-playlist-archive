@@ -2,9 +2,9 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> Dance and electronic Arabic songs\. Cover: Nancy Ajram & Marshmello.
+> Dance and electronic Arabic songs\. Cover: Khaled & DJ Snake.
 
-62 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+63 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Silent](https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Silent](https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR) | 2:52 | 2022-03-30 |  |
 | [Tearaf Bahebak Leh](https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tearaf Bahebak Leh](https://open.spotify.com/album/1ioz7toy8ZetQuqIH8cT1j) | 2:45 | 2022-03-30 | 2022-07-29 |
 | [Ti Ra Ra \- Mark Shakedown Remix](https://open.spotify.com/track/7jXKKQ3PSmxj0sFLnlX0eb) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W), [Mark Shakedown](https://open.spotify.com/artist/0owA2yBBDFjsmyBi4pgVgo) | [Ti Ra Ra \(Mark Shakedown Remix\)](https://open.spotify.com/album/71gEymvL5E6UHlvGybgMDH) | 2:43 | 2022-03-30 |  |
+| [Trigue Lycée \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycée \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-04 |  |
 | [Valhalla](https://open.spotify.com/track/62XbDU9C904nhFkcjFXnEQ) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Randall](https://open.spotify.com/artist/2SqO0ejUsZ0Z0Rvh4w09Dp) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 3:56 | 2022-03-30 |  |
 | [W Maak](https://open.spotify.com/track/2x4A8I4dHDoilUNfkcCT3V) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:41 | 2022-03-30 |  |
 | [Win \- Lesstars Remix](https://open.spotify.com/track/0F9RxNpcbyw0uif75wpqrz) | [Halim yousfi](https://open.spotify.com/artist/6EUe84nUL0UynwPD7ddtgp), [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba), [Lesstars](https://open.spotify.com/artist/6QKz2YMVPepGdsvvOqeAg9) | [Win \(Lesstars Remix\)](https://open.spotify.com/album/0GNcDMnCoCbAgdgpKZXflS) | 4:17 | 2022-06-23 |  |

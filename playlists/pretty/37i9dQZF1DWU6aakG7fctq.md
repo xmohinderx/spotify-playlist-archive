@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,088 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,124 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 38 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 |
 | 39 | [Porque Existo](https://open.spotify.com/track/3FbYgQOGUARaGbUMkfP9Cp) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 2:50 |
 | 40 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
-| 41 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
-| 42 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
+| 41 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
+| 42 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
 | 43 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 |
-| 44 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 |
-| 45 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 |
+| 44 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 |
+| 45 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 |
 | 46 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 | 47 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 |
 | 48 | [Míranos](https://open.spotify.com/track/2iNDBB85GuREL7p4m1pArU) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Míranos](https://open.spotify.com/album/4jDruC1JOBkdtHarW7fkar) | 3:04 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 57 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 58 | [Amor Extraño](https://open.spotify.com/track/1SK3gmwqNCx7WezSCV3F1W) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 3:44 |
 | 59 | [LA MOLINA](https://open.spotify.com/track/0GZDERiGPr1F3SRs4l7muB) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [LA MOLINA](https://open.spotify.com/album/4vE0Gbo7nKNDdXyhiDuIk8) | 2:43 |
-| 60 | [Flores](https://open.spotify.com/track/5fi7LBIH0j7ZZlHn7Yjrmo) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/6AEvvF0EnuyBbehpsOYUi6) | 3:22 |
-| 61 | [Bad Times Are Good Times](https://open.spotify.com/track/0q1MM7GUhO1QHe37MSYrzG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ), [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Bad Times Are Good Times](https://open.spotify.com/album/1PexXNMz2ZH1ksitcQmkHg) | 3:13 |
-| 62 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 |
+| 60 | [Bad Times Are Good Times](https://open.spotify.com/track/0q1MM7GUhO1QHe37MSYrzG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ), [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Bad Times Are Good Times](https://open.spotify.com/album/1PexXNMz2ZH1ksitcQmkHg) | 3:13 |
+| 61 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 |
+| 62 | [Flores](https://open.spotify.com/track/5fi7LBIH0j7ZZlHn7Yjrmo) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/6AEvvF0EnuyBbehpsOYUi6) | 3:22 |
 | 63 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 |
 | 64 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
 | 65 | [Home](https://open.spotify.com/track/1Mr9Uiv2AFiiqmKWOpzXjW) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Home](https://open.spotify.com/album/519wEU7Sp6ZoypwPArhgny) | 3:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 69 | [Que Sufras](https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Que Sufras](https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu) | 4:42 |
 | 70 | [Laberinto](https://open.spotify.com/track/0g9lp41XLg8wgSaZlXtt6G) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:42 |
 
-Snapshot ID: `MTY1NjUxOTIzMiwwMDAwMDAwMDU5MzgwMTk5MjdjMGY3NjliYjY3OWYwZTI4Zjc5NjY5`
+Snapshot ID: `MTY1NjUxOTIzMiwwMDAwMDAwMGI0ZDVmYzkwNThhNDRmZWM3MmQ4MjRlOTM2NzI1NDY2`

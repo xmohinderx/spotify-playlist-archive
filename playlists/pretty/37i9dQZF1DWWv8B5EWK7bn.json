@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 111915,
+  "num_followers": 112038,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NjEzNSwwMDAwMDAwMGY5YzJkYmZkMmZhODk2OWM3OGY2OGQ5Njc0NzU5MDM5",
+  "snapshot_id": "MTY1OTQ5NjEzNSwwMDAwMDAwMDIwNmVjMWRiMmE2ZGQ4ZGUzNDk1YTk0NGI2YjkyZDQ5",
   "tracks": [
     {
       "added_at": "2022-03-18 05:57:00",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
+      "added_at": "2022-05-12 20:11:25",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "duration_ms": 231422,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -283,22 +299,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2022-05-12 20:11:25",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
-      },
-      "artists": [
-        {
-          "name": "Elephant Gym",
-          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
-        }
-      ],
-      "duration_ms": 231422,
-      "name": "Witches",
-      "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -533,20 +533,20 @@
       "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-02-21 19:54:13",
       "album": {
-        "name": "Find The Sun",
-        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
+        "name": "Switched On Ra",
+        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
       },
       "artists": [
         {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
         }
       ],
-      "duration_ms": 426342,
-      "name": "Saturnine Night",
-      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
+      "duration_ms": 241919,
+      "name": "Outer Spaceways Incorporated",
+      "url": "https://open.spotify.com/track/6YG6A50jZi67JZMhzLgMWr"
     },
     {
       "added_at": "2022-02-08 17:25:13",
@@ -581,20 +581,20 @@
       "url": "https://open.spotify.com/track/2MtVT4LJqi3RhU1D5o8dPt"
     },
     {
-      "added_at": "2022-02-21 19:54:13",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Switched On Ra",
-        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
+        "name": "Find The Sun",
+        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
       "artists": [
         {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
         }
       ],
-      "duration_ms": 241919,
-      "name": "Outer Spaceways Incorporated",
-      "url": "https://open.spotify.com/track/6YG6A50jZi67JZMhzLgMWr"
+      "duration_ms": 426342,
+      "name": "Saturnine Night",
+      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
     },
     {
       "added_at": "2022-04-13 01:43:25",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 280181,
-      "name": "Homing",
-      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "As The Love Continues",
         "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 280181,
+      "name": "Homing",
+      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
+      },
+      "artists": [
+        {
+          "name": "Mt. Mountain",
+          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
+        }
+      ],
+      "duration_ms": 280404,
+      "name": "Aplomb",
+      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
+    },
+    {
       "added_at": "2022-07-19 04:00:00",
       "album": {
         "name": "Atemporal",
@@ -819,22 +835,6 @@
       "duration_ms": 165113,
       "name": "Las Olas Contra Todos",
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Centre",
-        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
-      },
-      "artists": [
-        {
-          "name": "Mt. Mountain",
-          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
-        }
-      ],
-      "duration_ms": 280404,
-      "name": "Aplomb",
-      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
       "added_at": "2022-07-04 22:42:30",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
     },
     {
-      "added_at": "2022-04-20 13:58:09",
-      "album": {
-        "name": "Broken Melody",
-        "url": "https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Broken Melody",
-      "url": "https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b"
-    },
-    {
       "added_at": "2022-06-22 18:28:42",
       "album": {
         "name": "Playing Dead",
@@ -901,6 +885,22 @@
       "url": "https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf"
     },
     {
+      "added_at": "2022-04-20 13:58:09",
+      "album": {
+        "name": "Broken Melody",
+        "url": "https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Broken Melody",
+      "url": "https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b"
+    },
+    {
       "added_at": "2022-05-24 01:31:24",
       "album": {
         "name": "Golden Air",
@@ -915,22 +915,6 @@
       "duration_ms": 342520,
       "name": "Golden Air",
       "url": "https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr"
-    },
-    {
-      "added_at": "2022-06-08 02:42:32",
-      "album": {
-        "name": "Bella Kali",
-        "url": "https://open.spotify.com/album/1WIL297eRvqxkrhQur7qcd"
-      },
-      "artists": [
-        {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
-        }
-      ],
-      "duration_ms": 214322,
-      "name": "Bella Kali",
-      "url": "https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -963,6 +947,22 @@
       "duration_ms": 338371,
       "name": "Plans",
       "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
+    },
+    {
+      "added_at": "2022-06-08 02:42:32",
+      "album": {
+        "name": "Bella Kali",
+        "url": "https://open.spotify.com/album/1WIL297eRvqxkrhQur7qcd"
+      },
+      "artists": [
+        {
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+        }
+      ],
+      "duration_ms": 214322,
+      "name": "Bella Kali",
+      "url": "https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff"
     },
     {
       "added_at": "2022-04-09 04:57:00",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF"
     },
     {
-      "added_at": "2022-03-18 05:57:00",
-      "album": {
-        "name": "Xela",
-        "url": "https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe"
-      },
-      "artists": [
-        {
-          "name": "Clea Vincent",
-          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Xela",
-      "url": "https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "void beats/invocation trex",
@@ -1035,6 +1019,22 @@
       "duration_ms": 233903,
       "name": "melody in high feedback tones",
       "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
+    },
+    {
+      "added_at": "2022-03-18 05:57:00",
+      "album": {
+        "name": "Xela",
+        "url": "https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe"
+      },
+      "artists": [
+        {
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Xela",
+      "url": "https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf"
     },
     {
       "added_at": "2022-03-30 04:28:53",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
     },
     {
+      "added_at": "2022-03-04 04:21:25",
+      "album": {
+        "name": "the dealer",
+        "url": "https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "the dealer",
+      "url": "https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "NOW",
@@ -1139,22 +1155,6 @@
       "duration_ms": 354346,
       "name": "Keep Your Mind Free",
       "url": "https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W"
-    },
-    {
-      "added_at": "2022-03-04 04:21:25",
-      "album": {
-        "name": "the dealer",
-        "url": "https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "the dealer",
-      "url": "https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/2ldqnO15Wz4U6JJQrb8kMy"
     },
     {
-      "added_at": "2022-04-23 03:28:42",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj"
-      },
-      "artists": [
-        {
-          "name": "Zola Jesus",
-          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
-        }
-      ],
-      "duration_ms": 301544,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1423,6 +1407,22 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+    },
+    {
+      "added_at": "2022-04-23 03:28:42",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj"
+      },
+      "artists": [
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        }
+      ],
+      "duration_ms": 301544,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz"
     },
     {
       "added_at": "2022-03-28 15:47:29",

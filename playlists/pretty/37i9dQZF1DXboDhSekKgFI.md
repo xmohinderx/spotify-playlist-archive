@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,321 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,332 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

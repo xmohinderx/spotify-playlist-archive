@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,521 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,645 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 40 | [How Bad We Need Each Other](https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out Of Style](https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T) | 3:13 |
 | 41 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 |
 | 42 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 |
-| 43 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
-| 44 | [CRYING’S JUST A THING YOU DO](https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [UNDIVIDED HEART & SOUL](https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB) | 3:14 |
+| 43 | [CRYING’S JUST A THING YOU DO](https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [UNDIVIDED HEART & SOUL](https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB) | 3:14 |
+| 44 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
 | 45 | [Devil in Me](https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 3:41 |
 | 46 | [Say It](https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:22 |
 | 47 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 50 | [Empty Heart](https://open.spotify.com/track/2eP517crFrL5ggUAEoug16) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Midnight](https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7) | 3:15 |
 | 51 | [Easy to Love](https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 3:38 |
 | 52 | [To the Boys](https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [First Flower](https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup) | 3:47 |
-| 53 | [Never Been a Captain](https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X) | 4:41 |
+| 53 | [Katchi](https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Never Twice](https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4) | 3:40 |
 | 54 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 |
-| 55 | [Katchi](https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Never Twice](https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4) | 3:40 |
+| 55 | [Never Been a Captain](https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X) | 4:41 |
 | 56 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
 | 57 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
 | 58 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 61 | [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 |
 | 62 | [Numb](https://open.spotify.com/track/7n2xBCtl9qFMVnbKjWOvH4) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 4:10 |
 | 63 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 |
-| 64 | [Irene](https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:46 |
+| 64 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4) | 5:52 |
 | 65 | [Riot In The Streets](https://open.spotify.com/track/1vXstUplbFJ0W8DyY39eVL) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Manic Revelations](https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA) | 3:40 |
-| 66 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4) | 5:52 |
+| 66 | [Irene](https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:46 |
 | 67 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
 | 68 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
 | 69 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 |
 | 90 | [Little Record Girl](https://open.spotify.com/track/5K467049SloeEJHvMhJDcl) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:02 |
 
-Snapshot ID: `MTY1OTQ3MDI3NCwwMDAwMDAwMGFjYzIxNTEwZDRlNDFjMTRjNjU5Y2JmZjRkOTU0OGM4`
+Snapshot ID: `MTY1OTQ3MDI3NCwwMDAwMDAwMGYyZTI1NWI3YTJhNzUzOGQ2ZGIzNzQyMjQ2MjIzZDI0`

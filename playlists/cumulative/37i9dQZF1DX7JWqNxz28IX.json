@@ -2230,6 +2230,24 @@
     },
     {
       "album": {
+        "name": "VIVERE X SEMPRE",
+        "url": "https://open.spotify.com/album/0VkiBrHatXlErli8RaPNg6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Hugo",
+          "url": "https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170974,
+      "name": "VIVERE X SEMPRE",
+      "url": "https://open.spotify.com/track/3qceQin2x7gy7OipnI0B9Z"
+    },
+    {
+      "album": {
         "name": "Volevo dirti",
         "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
       },

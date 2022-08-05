@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-102 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+104 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [End of an Era](https://open.spotify.com/track/3ghDD40MNhsova0MBI6SbG) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [End of an Era](https://open.spotify.com/album/2GluBruM0qlhzZI1BppBQ5) | 3:05 | 2022-03-09 |  |
 | [Enigma Variations: Nimrod](https://open.spotify.com/track/7G26YVx3IowgdA1Fzb58bi) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [L'Orchestra Nazionale di Mendoni](https://open.spotify.com/artist/42xl6CZP3xDMz2eLWRWx2w) | [Variations](https://open.spotify.com/album/2XzIVL7OmXQWpwdZDh7eqj) | 3:09 | 2022-03-09 |  |
 | [eventide](https://open.spotify.com/track/1fj2Rp3PtpNImOX38QTblL) | [Naomi Young](https://open.spotify.com/artist/3i3Kwm6kFNGXpnnJfy8U1r) | [aurora](https://open.spotify.com/album/3hYe7VB1qzHba2JLVQVTwe) | 2:34 | 2022-03-09 |  |
+| [Faith in You](https://open.spotify.com/track/0wOmd66tskQXrKtLg33b3U) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Faith in You](https://open.spotify.com/album/5IAp1A7XNBFRAmLbtHYVcW) | 3:18 | 2022-08-05 |  |
 | [Flight](https://open.spotify.com/track/08AlY11E0HRmvm32pt0K9d) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId) | 2:16 | 2022-07-29 |  |
 | [Flight](https://open.spotify.com/track/6x5tRBmT3426qhiOepUDOB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:16 | 2022-03-09 | 2022-07-29 |
 | [Floating \(String Version\)](https://open.spotify.com/track/7rePRjsyBLgY0MTIaUBthX) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Floating \(String Version\)](https://open.spotify.com/album/2ZjQHHvRgWACbDrGcmojZf) | 2:46 | 2022-03-09 |  |
@@ -46,6 +47,7 @@
 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 | 2022-03-09 |  |
 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 | 2022-03-09 |  |
 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 | 2022-03-09 |  |
+| [I'm Sorry](https://open.spotify.com/track/63UfuiDT4cb2fi4LPSNvlm) | [BlackDarkwin](https://open.spotify.com/artist/66nc7AwBS925cs768stOQg) | [I'm Sorry](https://open.spotify.com/album/2KiX8D8GGwlXgjfwYb5z8M) | 2:53 | 2022-08-05 |  |
 | [Inner Sanctum / The Nesting Grounds](https://open.spotify.com/track/1QuqujcrL6Iy0FDokChqHF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur Original Soundtrack](https://open.spotify.com/album/19sIkTpeU6sUjZfafi1aCZ) | 2:57 | 2022-03-09 | 2022-07-29 |
 | [Inner Sanctum / The Nesting Grounds \- From "Dinosaur"/Score](https://open.spotify.com/track/5JbuKh2rpieicj3ld8Yy2L) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur](https://open.spotify.com/album/364YR5hc3wDSLIJfgrrqHi) | 2:57 | 2022-07-29 |  |
 | [Intangible](https://open.spotify.com/track/1z7xRcXHpfq4Isb1JufoRP) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 2:19 | 2022-04-22 |  |

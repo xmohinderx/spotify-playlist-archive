@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-457 songs - 1 day 2 hr 43 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
+458 songs - 1 day 2 hr 46 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-21 | 2022-05-08 |
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-03-27\* | 2021-12-29 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-23 | 2021-10-07 |
+| [Bendita Nota](https://open.spotify.com/track/2nogvCAks6RgjxubNXOPMH) | [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [Bendita Nota](https://open.spotify.com/album/13dmU1iu11URAFbmYZz7i3) | 2:47 | 2022-08-04 |  |
 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 | 2021-03-27 | 2022-06-22 |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2021-03-27\* | 2021-03-27 |
 | [Billetes De 100](https://open.spotify.com/track/4tWOrZqaelCejCT3Th8Phq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:44 | 2021-09-12 | 2021-09-13 |
@@ -285,7 +286,7 @@
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2022-05-07 |  |
 | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2021-07-04 | 2021-08-08 |
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/1mJV1jFzGsipSA6qzuGMZJ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6ToxQqhJUFAQJMKKEfx3O3) | [Grandes Exitos](https://open.spotify.com/album/1yJZHcHfrVITrAiLvDszmN) | 4:27 | 2021-12-25 | 2022-01-04 |
-| [No lo pillas](https://open.spotify.com/track/5SO3nXcGKt5TWIsqTyzxvj) | [Nawi](https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF) | [No lo pillas](https://open.spotify.com/album/0DgaTlnauNvpd2PVSKmTbJ) | 2:38 | 2022-07-26 |  |
+| [No lo pillas](https://open.spotify.com/track/5SO3nXcGKt5TWIsqTyzxvj) | [Nawi](https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF) | [No lo pillas](https://open.spotify.com/album/0DgaTlnauNvpd2PVSKmTbJ) | 2:38 | 2022-07-26 | 2022-08-05 |
 | [No Me Importa un Carajo](https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:10 | 2021-12-05 | 2021-12-06 |
 | [No Me Ronquen Freestyle](https://open.spotify.com/track/6PqF5IRfQEYcieE4wk0v9A) | [Chrisanti](https://open.spotify.com/artist/4PDBUe0k2wtX1OiICrGvay) | [No Me Ronquen Freestyle](https://open.spotify.com/album/7ihRxJYsNitN07gbsA4xNv) | 2:30 | 2022-06-27 | 2022-07-31 |
 | [No Nos Casamo](https://open.spotify.com/track/6pEnJKFCXVNIYRMk6tisBm) | [Lil Dan](https://open.spotify.com/artist/1vC9FxvClViL2IGb6TRUcG) | [No Nos Casamo](https://open.spotify.com/album/6CmUyPGeCKdbciJHYUIkJO) | 2:50 | 2022-07-20 | 2022-08-04 |

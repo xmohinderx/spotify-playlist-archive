@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,509 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,546 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 34 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
 | 35 | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL) | 5:30 |
 | 36 | [Hoy Te Vi / El Paredon \- En Vivo](https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv) | 5:12 |
-| 37 | [Mátame](https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:23 |
+| 37 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
 | 38 | [La danza de los mirlos \- En Vivo](https://open.spotify.com/track/03gL2VXNNyYdeZHYbdsYYO) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 0:37 |
 | 39 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:04 |
-| 40 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
+| 40 | [Mátame](https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:23 |
 | 41 | [Adios Amor Adios \- En Vivo](https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:55 |
 | 42 | [La Ventanita / Beso a Beso](https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 8:03 |
 | 43 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 54 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 | 55 | [Adicta al Dolor \- En Vivo](https://open.spotify.com/track/7lmBtkXGbF9jXD9CXqyKL3) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Adicta al Dolor \(En Vivo\)](https://open.spotify.com/album/6kmIayPZeQ2qqQFRYwWdOA) | 3:04 |
 | 56 | [Vamos A Bailar](https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy) | 4:58 |
-| 57 | [Te Hubieras Ido Antes \- En Vivo](https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Te Hubieras Ido Antes \(En Vivo\)](https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh) | 3:33 |
-| 58 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
+| 57 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
+| 58 | [Te Hubieras Ido Antes \- En Vivo](https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Te Hubieras Ido Antes \(En Vivo\)](https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh) | 3:33 |
 | 59 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
 | 60 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 |
 | 61 | [Duraznito](https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 2:48 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [No Te Vi Crecer \- En Vivo](https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [La Historia Continua](https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn) | 2:52 |
 | 64 | [Cóncavo y Convexo \- En Vivo](https://open.spotify.com/track/3t7KW4pk5pvAZtOIWxXCTR) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 3:38 |
 
-Snapshot ID: `MTY1Nzg1NDAwMCwwMDAwMDAwMGY4OTBjZmFiZjA1M2Y3OGNkMDY0ZWRlMDMwN2U5OWI1`
+Snapshot ID: `MTY1Nzg1NDAwMCwwMDAwMDAwMGZlMjQwMGZlNTU2MWRhNDc0M2NjZTA3NDE1NTQ5YmQ1`

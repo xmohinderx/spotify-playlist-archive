@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: chilly(\uce60\ub9ac)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Black Skirt(\uac80\uc815\uce58\ub9c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "published_playlist_ids": [
     "7oIOz55z3nJxu7NnCUP6gQ"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 196500,
       "name": "Absence",
       "url": "https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
@@ -1636,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "Do You Think Of Me? (4.4)",
+        "url": "https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196293,
+      "name": "Do You Think Of Me?",
+      "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
+    },
+    {
+      "album": {
         "name": "Do You Think Of Me? \ubc29\uc5d0 \ubaa8\uae30\uac00 \uc788\uc5b4",
         "url": "https://open.spotify.com/album/6i8NTK3zdu3TJxo1TR8uzG"
       },
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 275374,
       "name": "Earth",
       "url": "https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2"
@@ -2701,7 +2719,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 159365,
       "name": "girl in red",
       "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
@@ -4032,6 +4050,24 @@
     },
     {
       "album": {
+        "name": "Jungle Bike",
+        "url": "https://open.spotify.com/album/1FkXoPtPNwDUN1Ow5iwWSW"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166997,
+      "name": "Jungle Bike",
+      "url": "https://open.spotify.com/track/58NiYwHiOAsrl9ayiRYQXE"
+    },
+    {
+      "album": {
         "name": "Just a Friend",
         "url": "https://open.spotify.com/album/4o5z8EULkN1q4wmNH6qI8W"
       },
@@ -4253,7 +4289,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
@@ -4365,7 +4401,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 192857,
       "name": "Lock me up",
       "url": "https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb"
@@ -4571,6 +4607,24 @@
       "duration_ms": 276160,
       "name": "Lunch Time \uc810\uc2ec\uc2dc\uac04",
       "url": "https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc"
+    },
+    {
+      "album": {
+        "name": "Esprit",
+        "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214918,
+      "name": "Lustre",
+      "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
     },
     {
       "album": {
@@ -5008,6 +5062,24 @@
     },
     {
       "album": {
+        "name": "My Little Lambs",
+        "url": "https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217513,
+      "name": "My Little Lambs",
+      "url": "https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6"
+    },
+    {
+      "album": {
         "name": "THIRSTY",
         "url": "https://open.spotify.com/album/7dSqbQ9mGpHdlkLk7rBFuO"
       },
@@ -5283,7 +5355,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 249272,
       "name": "Night Swimming",
       "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
@@ -5553,7 +5625,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 206735,
       "name": "Old Notes",
       "url": "https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX"
@@ -5889,7 +5961,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 234758,
       "name": "PLAYLIST",
       "url": "https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9"
@@ -7545,7 +7617,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 182641,
       "name": "That Day",
       "url": "https://open.spotify.com/track/2PRAXIx89uLrMOqHObS4tb"
@@ -8795,7 +8867,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 275500,
       "name": "You Are My Universe",
       "url": "https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs"
@@ -8867,7 +8939,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 176079,
       "name": "You'll be fine",
       "url": "https://open.spotify.com/track/6nRvFUhyQtBxw4gPCF3OzR"

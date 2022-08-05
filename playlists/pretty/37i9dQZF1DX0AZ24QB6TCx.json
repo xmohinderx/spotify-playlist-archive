@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 263010,
+  "num_followers": 263147,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQ3OTgwMSwwMDAwMDAwMDc5ZjUwZmU2MGYxOWY1OWZkNDM2NGZhMjRmNDAyZDcx",
+  "snapshot_id": "MTY1NTQ3OTgwMSwwMDAwMDAwMGZmZjQ0MTg0ODU4NzUwYjlhNjQzZmFiYTE1YTJkZjIy",
   "tracks": [
     {
       "added_at": "2022-06-17 15:30:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
         "name": "Ronda",
         "url": "https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 346586,
       "name": "Ronda",
       "url": "https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/595ckypY5Dho4okbAw24bz"
-      },
-      "artists": [
-        {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
-        }
-      ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
         "name": "No Goodbye",
         "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 252000,
       "name": "No Goodbye",
       "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/595ckypY5Dho4okbAw24bz"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm"
     },
     {
       "added_at": "2022-06-17 15:30:00",

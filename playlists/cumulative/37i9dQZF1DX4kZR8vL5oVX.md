@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Pomme
 
-377 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+378 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dans un fou rire](https://open.spotify.com/track/6Rnz3N2IgUJO7Hl1j8BmuJ) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Dans un fou rire](https://open.spotify.com/album/30O5UTZO0crZdklnMZpQyX) | 3:51 | 2022-02-01 | 2022-03-08 |
 | [dead end](https://open.spotify.com/track/1lnjoZ0B7L2qNpqqt9O7DN) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [dead end](https://open.spotify.com/album/0J5ZEh8YWFejDZISf9xeWY) | 3:06 | 2022-05-03 | 2022-06-01 |
 | [Destination l'amour](https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange](https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS) | 3:15 | 2022-05-31 | 2022-07-06 |
+| [DGT](https://open.spotify.com/track/15qQs3cBr7SeqOssfB0imS) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [DGT](https://open.spotify.com/album/5NXvP0XMCC1zkxYOYVhh9R) | 2:34 | 2022-08-02 |  |
 | [Die \(cover\)](https://open.spotify.com/track/4yWypfTz46wJaMIfkMLC4s) | [Whitney](https://open.spotify.com/artist/5w5MVvOJSu0nGTFRkkc69W) | [Die \(cover\)](https://open.spotify.com/album/4jG0lek2rIC5pbgibDJkpq) | 2:36 | 2022-08-02 |  |
 | [Dingue](https://open.spotify.com/track/7IS3LFvp8mQ2ixwn1Crjwy) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Dingue](https://open.spotify.com/album/1oDrFvXX4mkj5g39vA03NL) | 3:07 | 2022-05-31 | 2022-07-06 |
 | [Dis\-Le Moi](https://open.spotify.com/track/0cnQL2shKRi5RMYW0sNQPo) | [Saandia](https://open.spotify.com/artist/5m9uhS0LyWhc5kFDWkeOjA) | [Dis\-Le Moi](https://open.spotify.com/album/3zO3VmTd5xTXyxpSkl4fDt) | 3:03 | 2022-04-05 | 2022-05-04 |

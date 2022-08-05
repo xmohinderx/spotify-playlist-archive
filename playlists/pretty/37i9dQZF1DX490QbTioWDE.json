@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 496386,
+  "num_followers": 496561,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTI3OTk5NCwwMDAwMDAwMGM4ZWI1MzI4YjBjOGQwZGM1OTE1MjkyYjdmZTFlNmM1",
+  "snapshot_id": "MTY1OTI3OTk5NCwwMDAwMDAwMGFhZWUyYmMxNjY0OTU2Mjk5Y2IxNWEzOTkxNzg2NTUx",
   "tracks": [
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
+        "name": "A Cu\u00e1nto Me Qued\u00e9",
+        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
-        "name": "A Cu\u00e1nto Me Qued\u00e9",
-        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 196970,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "La Fiesta Es De Primera",
-        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        }
-      ],
-      "duration_ms": 319280,
-      "name": "Vuela",
-      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "Hoy Y Siempre (En Vivo)",
         "url": "https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI"
       },
@@ -1487,18 +1471,34 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "No Es Cierto",
-        "url": "https://open.spotify.com/album/4csALsYcKamfcEsMl1xGNd"
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
       },
       "artists": [
         {
-          "name": "C\u00d3MO DICE",
-          "url": "https://open.spotify.com/artist/0kKSgKccwCUSqdNr4ovJDz"
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
         }
       ],
-      "duration_ms": 203125,
-      "name": "No Es Cierto",
-      "url": "https://open.spotify.com/track/5iMQjwcMNYQYUxTIZSa2u7"
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "La Fiesta Es De Primera",
+        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "duration_ms": 319280,
+      "name": "Vuela",
+      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+        "name": "No Es Cierto",
+        "url": "https://open.spotify.com/album/4csALsYcKamfcEsMl1xGNd"
       },
       "artists": [
         {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+          "name": "C\u00d3MO DICE",
+          "url": "https://open.spotify.com/artist/0kKSgKccwCUSqdNr4ovJDz"
         }
       ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
+      "duration_ms": 203125,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/5iMQjwcMNYQYUxTIZSa2u7"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Ta' Buenisimo",
-        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "Me Voy",
         "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 196588,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
+        "name": "Ta' Buenisimo",
+        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
     },
     {
       "added_at": "2022-07-22 15:06:35",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/6uSys9pSb3hy8jUOFlM8Uw"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/7mYr1AckRMJGRIjXipJ7yW"
+    },
+    {
+      "added_at": "2022-07-22 15:06:35",
+      "album": {
         "name": "Trulala - Grandes exitos",
         "url": "https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx"
       },
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Un Sue\u00f1o Hecho Realidad",
-        "url": "https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p"
-      },
-      "artists": [
-        {
-          "name": "Walter Salinas",
-          "url": "https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI"
-        }
-      ],
-      "duration_ms": 191698,
-      "name": "Viuda a los 20",
-      "url": "https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9"
-    },
-    {
-      "added_at": "2022-07-22 15:06:35",
-      "album": {
         "name": "Espectacular Monada",
         "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-07-22 15:06:35",
       "album": {
-        "name": "Mi Venganza",
-        "url": "https://open.spotify.com/album/2VGrCh43R8idRgJsYQrYa0"
+        "name": "Un Sue\u00f1o Hecho Realidad",
+        "url": "https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p"
       },
       "artists": [
         {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+          "name": "Walter Salinas",
+          "url": "https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI"
         }
       ],
-      "duration_ms": 235101,
-      "name": "Mi Venganza",
-      "url": "https://open.spotify.com/track/3AFoC3oyF7fLyOFhWp7mS9"
+      "duration_ms": 191698,
+      "name": "Viuda a los 20",
+      "url": "https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9"
     }
   ],
   "unique_name": "100% Cuarteto",

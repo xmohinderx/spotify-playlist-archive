@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock N' Roll Swagger Served Straight Up  / Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,709 likes - 105 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,782 likes - 105 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 76 | [Off The Rails](https://open.spotify.com/track/48aM8R9hhTHb4MfHT5sajp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde](https://open.spotify.com/album/30aCynsQTyn8A906aoACdn) | 2:55 |
 | 77 | [Tell Me Lies](https://open.spotify.com/track/2scIG4pnqvCStKHTZiWB0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:39 |
 | 78 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
-| 79 | [Blame](https://open.spotify.com/track/0C9QdQmhVHBCC2TLIe3p9i) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream, Pt.1](https://open.spotify.com/album/6W6WuoYFWLovDiCwO5U2TR) | 2:25 |
+| 79 | [Blame](https://open.spotify.com/track/3hPy0hFWd5jeMArVVRf6H2) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/759rhQI6Tgbkd9Ss4Sm81e) | 2:25 |
 | 80 | [My Head](https://open.spotify.com/track/4xgf5wtpweaJlOyCklWa5e) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [My Head](https://open.spotify.com/album/2WEd6WatdAXsq9bWS4nI0R) | 5:15 |
 | 81 | [On To The Next](https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 2:58 |
 | 82 | [Brace for Impact \(Live a Little\)](https://open.spotify.com/track/1cRc03E5Ps0fwe4l8fz2J0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 5:49 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 104 | [Liar](https://open.spotify.com/track/5mry8XEOIVru9Mla0bc8dY) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:03 |
 | 105 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
 
-Snapshot ID: `MTY1NTE3MTgyNSwwMDAwMDAwMDUwZjQxYTM4ZGJmNzNiMDc1ZGJkNzE1ZmVhZGFlYjI2`
+Snapshot ID: `MTY1NTE3MTgyNSwwMDAwMDAwMDYzMTIyZDQ3NDMxZGZkNGIwMzg1NTIxMWYwZGRiMjdm`

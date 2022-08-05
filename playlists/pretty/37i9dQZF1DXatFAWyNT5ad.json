@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 84552,
+  "num_followers": 84595,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MjY3MiwwMDAwMDAwMGZmOGJiYTVkZmMxYjI4YWViMDNhZGU1Y2E4ODY5OWY2",
+  "snapshot_id": "MTY1OTM0MjY3MiwwMDAwMDAwMDQ4MDBkMDExNTFmNDdkOTYyZjlmNTM1MTZjODMxNmIz",
   "tracks": [
     {
       "added_at": "2022-08-01 08:31:12",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-01 08:31:12",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2022-08-01 08:31:12",
-      "album": {
         "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "added_at": "2022-08-01 08:31:12",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-08-01 08:31:12",
@@ -1359,22 +1359,30 @@
     {
       "added_at": "2022-08-01 08:31:12",
       "album": {
-        "name": "It's Not You, It's Me",
-        "url": "https://open.spotify.com/album/4zsIydG84QRTBlDlXKn8dH"
+        "name": "Teenage Heartbreak",
+        "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
       },
       "artists": [
         {
-          "name": "Lost Kings",
-          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
         },
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Tyson Ritter",
+          "url": "https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 165672,
-      "name": "Broken In All The Right Places",
-      "url": "https://open.spotify.com/track/3iINQZKpmSMY2mkjLtlzYO"
+      "duration_ms": 156000,
+      "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
+      "url": "https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D"
     }
   ],
   "unique_name": "Pop Rock",

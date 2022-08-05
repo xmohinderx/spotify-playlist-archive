@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,138 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,210 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 31 | [El Polvorete](https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:48 |
 | 32 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
 | 33 | [El Sinaloense](https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:33 |
-| 34 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
-| 35 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
+| 34 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
+| 35 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
 | 36 | [Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana](https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Una No Es Ninguna](https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw) | 4:11 |
 | 37 | [Las Huiliotas](https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Olvídala](https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh) | 4:01 |
 | 38 | [Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde \- En Vivo](https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Parranda De Los Amigos \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB) | 7:21 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 91 | [Recuerdos a Hernán](https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [De Michoacán al Guamuchil \(Los Mejores Sones de Jaripeo\)](https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ) | 3:03 |
 | 92 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
 | 93 | [Juan Colorado](https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:53 |
-| 94 | [La Amachona \- Sones para Jaripeo](https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:00 |
-| 95 | [El Jaripeo el Jaripeo / La Iguana / Ofelia \- En Vivo](https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG) | [Banda Cruz De La Candelaria](https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr) | [Nuevos Rumbos \- La Herencia del Rey \(En Vivo\)](https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ) | 4:34 |
+| 94 | [El Jaripeo el Jaripeo / La Iguana / Ofelia \- En Vivo](https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG) | [Banda Cruz De La Candelaria](https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr) | [Nuevos Rumbos \- La Herencia del Rey \(En Vivo\)](https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ) | 4:34 |
+| 95 | [La Amachona \- Sones para Jaripeo](https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:00 |
 | 96 | [Popurri De Estados](https://open.spotify.com/track/50lMUFf0zzD3cUHCNLf14y) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 3:18 |
 | 97 | [Popurri Michoacano ..\. El Son Del Pálomino / El Son Del Gallito / El Zapatazo / Cara De Pingo](https://open.spotify.com/track/7mwhO5vDMaFn9kuRSdamQU) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 3:19 |
 | 98 | [Arriba la Joyita](https://open.spotify.com/track/7zSqPFUKufdczYnboF7fJu) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Por el Puro Gusto](https://open.spotify.com/album/0wshoBjCjJYhneJ7rkMjxZ) | 2:25 |
 | 99 | [Las Güilotas](https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Mudanzas A La Luna](https://open.spotify.com/album/6xJfh54aAD89uBv0b8EYIb) | 3:01 |
 | 100 | [Popurri De Sones Barbaro .\. Son Del Toro / Huitzuqueño / Los Colorados / Las Guacayas](https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 3:19 |
 
-Snapshot ID: `MTY0MzE1NDY0MywwMDAwMDAwMGY3Njc1ODFhZDFiNDQyMDhmNTA3NDYzNGJjOWY4OGIw`
+Snapshot ID: `MTY0MzE1NDY0MywwMDAwMDAwMDA2MGYyYmEzMGY4MTU5NDY2Y2IzZmFlNDc1Y2UyYWJh`

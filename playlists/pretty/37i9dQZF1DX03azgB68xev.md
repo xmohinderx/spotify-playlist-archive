@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,907 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,903 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 39 | [Need](https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Need](https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR) | 3:22 |
 | 40 | [Help Me \- Remix](https://open.spotify.com/track/65nhpDbzSPax2Gq46dbat8) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Remix\)](https://open.spotify.com/album/6bzyBO35AF4ro1au4ldI2S) | 2:29 |
 | 41 | [No Better Day](https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH) | 3:02 |
-| 42 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
-| 43 | [Every Step of the Way](https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw) | 3:15 |
+| 42 | [Every Step of the Way](https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw) | 3:15 |
+| 43 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
 | 44 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
 | 45 | [You Are](https://open.spotify.com/track/31FbRIjh7s2pf3As8SSM9F) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 4:14 |
 | 46 | [OTHERSIDE](https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [OTHERSIDE](https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP) | 3:14 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 56 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
 | 57 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 |
 | 58 | [Sunday Morning Feeling](https://open.spotify.com/track/57Ik3h0X3AlIetDl4rhV5f) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:42 |
-| 59 | [Save Me \- Bonus Track](https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:23 |
-| 60 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
+| 59 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
+| 60 | [Save Me \- Bonus Track](https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:23 |
 | 61 | [Undeniable](https://open.spotify.com/track/5lnAvxx2pxIM9MRZUIhkl0) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Undeniable](https://open.spotify.com/album/7GE16Cn80c6fjePXMbq44z) | 3:14 |
 | 62 | [I Got You](https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:01 |
 | 63 | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy) | 3:21 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 67 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
 | 68 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 | 69 | [Warriors](https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Warriors](https://open.spotify.com/album/59IUZfwB5cpxuYHQ9bz37b) | 3:50 |
-| 70 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
+| 70 | [Energía \- Remix](https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Energía \(Remix\)](https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx) | 4:26 |
 
-Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMDdhNzY4ODdhY2Y2NzJiZWEzNDYyODRjODk5MDE0ODAz`
+Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMGFkZjAzMzExMzNkZmMwNTU0NjgwYzZjNjcwMDRkNGE0`

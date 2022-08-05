@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-744 songs - 1 day 16 hr 56 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+745 songs - 1 day 16 hr 59 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-07-10 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-02 |
 | [Jouj Syouf](https://open.spotify.com/track/1JVo9oHmBJWOoGMYN49F3r) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo), [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 3:02 | 2021-04-13 | 2021-04-15 |
+| [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-08-04 |  |
 | [Jump](https://open.spotify.com/track/39emdsWDNJGcJdgCNpbWO4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair](https://open.spotify.com/album/3fxTcARqBOsh0E7VzNNDQu) | 3:57 | 2021-11-08 | 2021-11-09 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-02 |
 | [Jwabi](https://open.spotify.com/track/0HWqu8kIr5iitYHd62RkJH) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 4:22 | 2021-07-23 | 2022-02-12 |
@@ -552,7 +553,7 @@
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-18 |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2021-12-19 | 2022-04-09 |
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-08-29 | 2021-12-13 |
-| [PETETE](https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [PETETE](https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk) | 2:03 | 2022-07-30 |  |
+| [PETETE](https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [PETETE](https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk) | 2:03 | 2022-07-30 | 2022-08-05 |
 | [Petrouchka \(feat\. PLK\)](https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Avec le temps](https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8) | 3:09 | 2021-06-13 | 2021-08-01 |
 | [Phantom](https://open.spotify.com/track/3rrGXNKzqonETGM2APsjF7) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Phantom](https://open.spotify.com/album/1aT541G8lnXNqvP5WdtqM6) | 3:25 | 2021-12-20 | 2021-12-24 |
 | [Phantom Regret by Jim](https://open.spotify.com/track/1NlK2NtpuUazpziLhnJwEV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:59 | 2022-01-08 | 2022-01-10 |

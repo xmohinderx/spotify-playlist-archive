@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 412697,
+  "num_followers": 412757,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg0NzMwNSwwMDAwMDAwMDU1OTU1N2IxNjJiMTMyYWJhNzk3N2I0NGMxN2E2NmU4",
+  "snapshot_id": "MTY1ODg0NzMwNSwwMDAwMDAwMDliNzMyYTJkMzJjNTgwNjI4ZWE0Zjg0OWUyM2Y5ZmZi",
   "tracks": [
     {
       "added_at": "2022-07-26 14:55:05",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Sure Don't Miss You",
+      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "L'hotel Serein",
@@ -427,22 +443,6 @@
       "duration_ms": 254333,
       "name": "Grass Is Greener",
       "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Sure Don't Miss You",
-      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "There's a Light",
-        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 277675,
-      "name": "Empty Me Out",
-      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Hit 'Em Back",
         "url": "https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 273981,
       "name": "Hit 'Em Back",
       "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "There's a Light",
+        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 277675,
+      "name": "Empty Me Out",
+      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Down to the River",
-        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 299680,
-      "name": "Set My Soul on Fire",
-      "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Leftover Feelings",
@@ -703,6 +687,22 @@
       "duration_ms": 205115,
       "name": "Long Black Electric Cadillac",
       "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 299680,
+      "name": "Set My Soul on Fire",
+      "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Made In Muscle Shoals Vol. 2",
-        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Got Love - Made In Muscle Shoals",
-      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Rock & Roll",
@@ -767,6 +751,22 @@
       "duration_ms": 290482,
       "name": "Rock & Roll",
       "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Made In Muscle Shoals Vol. 2",
+        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "Got Love - Made In Muscle Shoals",
+      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
       "added_at": "2022-07-26 14:55:05",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Thinking 'Bout Myself",
@@ -931,6 +915,22 @@
       "duration_ms": 165727,
       "name": "Don't Let The Devil Ride",
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+        "name": "Undercover Bros.",
+        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+      "duration_ms": 248590,
+      "name": "How Deep is Your Love",
+      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Undercover Bros.",
-        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
       "artists": [
         {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 248590,
-      "name": "How Deep is Your Love",
-      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1221,6 +1221,22 @@
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf"
+      },
+      "artists": [
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Man On Fire - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva"
+    },
+    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Wrestling Me",
@@ -1239,22 +1255,6 @@
       "duration_ms": 199306,
       "name": "Wrestling Me",
       "url": "https://open.spotify.com/track/4gQDxDlkP4qLOnhM9XGHYp"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Man On Fire - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva"
     }
   ],
   "unique_name": "Blues Roots",

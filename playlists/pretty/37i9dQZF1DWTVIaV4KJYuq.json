@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 638945,
+  "num_followers": 639067,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMGMxZmYwNGNmYmU2Y2U0MTI0YzVlNmEyNGYyZGIwMTg0",
+  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDNlZjZhOTFjMzA0NGQ3NjdlMWM2MzExODgwNTcxYmRi",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "\u70ba\u611b\u505a\u7684\u4e00\u5207",
         "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 225053,
       "name": "Wild World - Acoustic Version",
       "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 166438,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Into The Mystic",
+        "url": "https://open.spotify.com/album/1cOvG9S55TwHWIRvqVmKWO"
+      },
+      "artists": [
+        {
+          "name": "Andy Kong",
+          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
+        }
+      ],
+      "duration_ms": 168354,
+      "name": "Into The Mystic",
+      "url": "https://open.spotify.com/track/5YyEXkW5W3XBDmTYdvKfTE"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 206586,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Into The Mystic",
-        "url": "https://open.spotify.com/album/1cOvG9S55TwHWIRvqVmKWO"
-      },
-      "artists": [
-        {
-          "name": "Andy Kong",
-          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
-        }
-      ],
-      "duration_ms": 168354,
-      "name": "Into The Mystic",
-      "url": "https://open.spotify.com/track/5YyEXkW5W3XBDmTYdvKfTE"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Ben Folds Live",
-        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds",
-          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
-        }
-      ],
-      "duration_ms": 323600,
-      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
-      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Tribute To (Reissue)",
         "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 213013,
       "name": "My Sweet Lord",
       "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Ben Folds Live",
+        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
+      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
     },
     {
       "added_at": "2022-02-04 05:02:00",

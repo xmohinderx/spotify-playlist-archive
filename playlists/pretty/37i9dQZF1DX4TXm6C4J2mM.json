@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157322,
+  "num_followers": 157315,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDBiNTJlMGI2MTY5NjFiYmJlYjUzMTA3ODY5M2E3ODJm",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGYwMjQ1MGZlNDIwYTlhYmFiMWQ1NjFkNWVhZWQwMGI4",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Bass Goes Down",
+        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
+      },
+      "artists": [
+        {
+          "name": "MOLOW",
+          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
+        },
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        }
+      ],
+      "duration_ms": 144449,
+      "name": "Bass Goes Down",
+      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Mockingbirds (VIZE Remix)",
         "url": "https://open.spotify.com/album/3lNy3fNdMHRw0oxMHpXxuz"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 189140,
       "name": "Mockingbirds - VIZE Remix",
       "url": "https://open.spotify.com/track/33hTKRPELdX0F7JNJOYali"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
-      },
-      "artists": [
-        {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 240383,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Return of the Mack (feat. Afrojack)",
         "url": "https://open.spotify.com/album/4diHNC5rT08L3YWmTSY5Wm"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 187960,
       "name": "Return of the Mack (feat. Afrojack)",
       "url": "https://open.spotify.com/track/4Mghl1kqNADilBMsFVMWRK"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "One Last Time",
-        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 240383,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Raindrops",
-        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
-      },
-      "artists": [
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        },
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "duration_ms": 151832,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Remember (David Guetta VIP Remix)",
         "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 230443,
       "name": "Remember - David Guetta VIP Remix",
       "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        },
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "duration_ms": 151832,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Survivors",
         "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 177560,
       "name": "Survivors",
       "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2023,6 +2023,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Chains (with Project 46)",
         "url": "https://open.spotify.com/album/3Gv9iIhXkCtLvj3Czp2UF0"
       },
@@ -2063,26 +2083,6 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Sara Sangfelt",
-          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
-        }
-      ],
-      "duration_ms": 179756,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
     },
     {
       "added_at": "2022-07-15 14:10:44",

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1022836,
+  "num_followers": 1023223,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY4NjEzNCwwMDAwMDAwMDJhNDhkZTg5NzJkZGZkNzA2YzZlZTE2YjI5ZmU0ODUx",
+  "snapshot_id": "MTY1NjY4NjEzNCwwMDAwMDAwMGZhNzdhZGQwZDU3OTQ2N2Y2ZDZlM2EyNzY3OGU3ZTI4",
   "tracks": [
     {
       "added_at": "2021-10-14 22:02:43",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 178352,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "For Abby",
         "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "Flaming Hot Cheetos",
-        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 123884,
-      "name": "Flaming Hot Cheetos",
-      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
       },
@@ -477,6 +461,22 @@
       "url": "https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn"
     },
     {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "Flaming Hot Cheetos",
+        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 123884,
+      "name": "Flaming Hot Cheetos",
+      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
+    },
+    {
       "added_at": "2022-02-10 20:19:57",
       "album": {
         "name": "Cavetown",
@@ -491,6 +491,38 @@
       "duration_ms": 265010,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
+    },
+    {
+      "added_at": "2022-02-10 20:30:00",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/2BVQCnH3Sj7lcBGAP9wPh1"
+      },
+      "artists": [
+        {
+          "name": "Crisaunt",
+          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+        }
+      ],
+      "duration_ms": 179286,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/3Z6cltU0OfbUdSZtZlzKPL"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -511,22 +543,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "4EVER",
         "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 159595,
       "name": "4EVER",
       "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
-      "added_at": "2022-02-10 20:30:00",
-      "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/2BVQCnH3Sj7lcBGAP9wPh1"
-      },
-      "artists": [
-        {
-          "name": "Crisaunt",
-          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
-        }
-      ],
-      "duration_ms": 179286,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/3Z6cltU0OfbUdSZtZlzKPL"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
     },
     {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
+    },
+    {
       "added_at": "2022-03-04 17:18:32",
       "album": {
         "name": "La Novela",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/0sSIXkYfRqXomRPrK4wYYe"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "A Collection of Fleeting Moments and Daydreams",
-        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 156342,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "A Collection of Fleeting Moments and Daydreams",
+        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2021-09-10 20:10:10",
       "album": {
-        "name": "friends or not",
-        "url": "https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "friends or not",
-      "url": "https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs"
-    },
-    {
-      "added_at": "2021-09-10 20:10:10",
-      "album": {
         "name": "Manic Pixie Dream Girl",
         "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
       },
@@ -1773,20 +1757,20 @@
       "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
     },
     {
-      "added_at": "2021-02-27 16:02:07",
+      "added_at": "2021-09-10 20:10:10",
       "album": {
-        "name": "Puppy Dog",
-        "url": "https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo"
+        "name": "friends or not",
+        "url": "https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT"
       },
       "artists": [
         {
-          "name": "Dreamer Boy",
-          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
         }
       ],
-      "duration_ms": 210281,
-      "name": "Puppy Dog",
-      "url": "https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P"
+      "duration_ms": 192826,
+      "name": "friends or not",
+      "url": "https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs"
     },
     {
       "added_at": "2021-08-27 20:55:21",
@@ -1803,6 +1787,22 @@
       "duration_ms": 191505,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "Puppy Dog",
+        "url": "https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "duration_ms": 210281,
+      "name": "Puppy Dog",
+      "url": "https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P"
     },
     {
       "added_at": "2021-02-27 16:02:07",

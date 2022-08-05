@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Elton John & Ed Sheeran",
-  "num_followers": 202368,
+  "num_followers": 202354,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGYxYTQ5MGJiYjExZmRhMmFiOGFkMDZiZjA3ZDQ5MGZh",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDk1OWQ3MjIyNmE2YThkYTcxZDE5M2RlNTE0OTYyNDJj",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Thank You Note",
         "url": "https://open.spotify.com/album/3rRIBVqBytXrBgtfsNpBe9"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Walking in the Air",
-        "url": "https://open.spotify.com/album/3NBdwkSlzVlWunZGBwxEnm"
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
       },
       "artists": [
         {
-          "name": "McFly",
-          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
         }
       ],
-      "duration_ms": 214513,
-      "name": "Walking in the Air",
-      "url": "https://open.spotify.com/track/1uJ7bM5eeC2PfwHZM37avh"
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -691,6 +675,22 @@
       "duration_ms": 159629,
       "name": "Let It Snow! - 10th Anniversary",
       "url": "https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Walking in the Air",
+        "url": "https://open.spotify.com/album/3NBdwkSlzVlWunZGBwxEnm"
+      },
+      "artists": [
+        {
+          "name": "McFly",
+          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+        }
+      ],
+      "duration_ms": 214513,
+      "name": "Walking in the Air",
+      "url": "https://open.spotify.com/track/1uJ7bM5eeC2PfwHZM37avh"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Tinsel In The River",
+        "url": "https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Francis Leftwich",
+          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        }
+      ],
+      "duration_ms": 169743,
+      "name": "Tinsel In The River",
+      "url": "https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "snowing in LA",
         "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "A Very Teddy Christmas",
-        "url": "https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Christmas Caller",
         "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
@@ -839,34 +839,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Tinsel In The River",
-        "url": "https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM"
+        "name": "A Very Teddy Christmas",
+        "url": "https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp"
       },
       "artists": [
         {
-          "name": "Benjamin Francis Leftwich",
-          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 169743,
-      "name": "Tinsel In The River",
-      "url": "https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "XMAS 01",
-        "url": "https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 141972,
-      "name": "Messed Up On Christmas",
-      "url": "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp"
+      "duration_ms": 188640,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -883,6 +867,22 @@
       "duration_ms": 199890,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "XMAS 01",
+        "url": "https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 141972,
+      "name": "Messed Up On Christmas",
+      "url": "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Please Come Home for Christmas",
+        "url": "https://open.spotify.com/album/2KuLH6xDWAUpRXr7JqxTd9"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 177079,
+      "name": "Please Come Home for Christmas",
+      "url": "https://open.spotify.com/track/2wkAdxI86skFLB5GuFazzL"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "The Christmas Song (Chestnuts Roasting On An Open Fire) (duet with John Legend)",
         "url": "https://open.spotify.com/album/6qSiSv2qh4fTiqjvmSQLCy"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 210026,
       "name": "The Christmas Song (Chestnuts Roasting On An Open Fire) (duet with John Legend)",
       "url": "https://open.spotify.com/track/1O9ML3Bv8XvQ3xWUVL0jj7"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Please Come Home for Christmas",
-        "url": "https://open.spotify.com/album/2KuLH6xDWAUpRXr7JqxTd9"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 177079,
-      "name": "Please Come Home for Christmas",
-      "url": "https://open.spotify.com/track/2wkAdxI86skFLB5GuFazzL"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "2000 Miles",
-        "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "2000 Miles",
-      "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "A Drummer Boy Christmas +",
         "url": "https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 192245,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "2000 Miles",
+        "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 166801,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Krampus",
-        "url": "https://open.spotify.com/album/3rKCZFTsWdruzZyOxie9Ha"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 144456,
-      "name": "Krampus",
-      "url": "https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Sing Along With Me",
         "url": "https://open.spotify.com/album/46roHdAH2qp7LdZAo0STIz"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 182933,
       "name": "Sing Along With Me",
       "url": "https://open.spotify.com/track/7yXdRNtDfc2At6yItKIuMR"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Krampus",
+        "url": "https://open.spotify.com/album/3rKCZFTsWdruzZyOxie9Ha"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 144456,
+      "name": "Krampus",
+      "url": "https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "It Feels Like Christmas",
+        "url": "https://open.spotify.com/album/1euyg708hlOuZhRhiuzEwl"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/7A9KmtBAxSBAjPsAl4f9FX"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Hell of a Holiday",
         "url": "https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 248066,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "It Feels Like Christmas",
-        "url": "https://open.spotify.com/album/1euyg708hlOuZhRhiuzEwl"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/7A9KmtBAxSBAjPsAl4f9FX"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Driving Home for Christmas",
-        "url": "https://open.spotify.com/album/1q9hcTbgfH9d2rWK82sbIr"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 228494,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/5IVrfmg1eeDdHCD4TJZwvK"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Mr. Christmas",
         "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 216042,
       "name": "Mr. Christmas",
       "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Driving Home for Christmas",
+        "url": "https://open.spotify.com/album/1q9hcTbgfH9d2rWK82sbIr"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 228494,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/5IVrfmg1eeDdHCD4TJZwvK"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Mittens (From the Holiday Movie 'Christmas in Tahoe')",
-        "url": "https://open.spotify.com/album/0BBB5KVjdfD4z7EVUTFYDv"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 201996,
-      "name": "Mittens (From the Holiday Movie 'Christmas in Tahoe')",
-      "url": "https://open.spotify.com/track/3Ls0XhCJg3CnCZQOe3dWSF"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "A Tori Kelly Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 184291,
       "name": "Kid Again On Christmas",
       "url": "https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Mittens (From the Holiday Movie 'Christmas in Tahoe')",
+        "url": "https://open.spotify.com/album/0BBB5KVjdfD4z7EVUTFYDv"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 201996,
+      "name": "Mittens (From the Holiday Movie 'Christmas in Tahoe')",
+      "url": "https://open.spotify.com/track/3Ls0XhCJg3CnCZQOe3dWSF"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "O Holy Night (feat. The Tenors)",
-        "url": "https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        },
-        {
-          "name": "The Tenors",
-          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
-        }
-      ],
-      "duration_ms": 259397,
-      "name": "O Holy Night (feat. The Tenors)",
-      "url": "https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Wonderful Time",
         "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 161157,
       "name": "Wonderful Time",
       "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "O Holy Night (feat. The Tenors)",
+        "url": "https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        },
+        {
+          "name": "The Tenors",
+          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
+        }
+      ],
+      "duration_ms": 259397,
+      "name": "O Holy Night (feat. The Tenors)",
+      "url": "https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/007MiUATIZAETzwP71vjxQ"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 307440,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/35L5f32OEgIu5yLVfJHFtJ"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
         "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 185280,
       "name": "O Holy Night (duet with Calum Scott)",
       "url": "https://open.spotify.com/track/6uVIFU7TaQ9MA2CNNQdgTp"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/007MiUATIZAETzwP71vjxQ"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 307440,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/35L5f32OEgIu5yLVfJHFtJ"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2207,26 +2207,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas (feat. Missy Higgins)",
-        "url": "https://open.spotify.com/album/4ymnWZQ8tAE6AkyhlwEags"
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/4anBsp9hZOsLbemSFNAXG3"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        },
-        {
-          "name": "Atlantic Holiday",
-          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
-        },
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+          "name": "Tassia Zappia",
+          "url": "https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Have Yourself A Merry Little Christmas (feat. Missy Higgins)",
-      "url": "https://open.spotify.com/track/1mgs3y0GGmKA941T9qQicU"
+      "duration_ms": 181714,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/2pQ728eJtRMCEM81f2IXhI"
     },
     {
       "added_at": "2021-12-24 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,593,228 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,593,978 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 21 | [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 |
 | 22 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 |
 | 23 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
-| 24 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 |
+| 24 | [Taboo](https://open.spotify.com/track/155PWUwfoYw5mcQOGdzh1w) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 |
 | 25 | [Here](https://open.spotify.com/track/5AWG9WZvWqx9w8am9Vl8TS) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Here](https://open.spotify.com/album/58OrFFZ6M0DI0RQ7J5Mgng) | 3:14 |
 | 26 | [Long Overdue](https://open.spotify.com/track/1tqr4YfDVX4Yp9TzWaNQUD) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:48 |
-| 27 | [Taboo](https://open.spotify.com/track/155PWUwfoYw5mcQOGdzh1w) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 |
+| 27 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 |
 | 28 | [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 |
 | 29 | [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 |
 | 30 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
-| 31 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
-| 32 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 |
+| 31 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 |
+| 32 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
 | 33 | [Get Back \(feat\. Chris Brown\)](https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Get Back \(feat\. Chris Brown\)](https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX) | 3:42 |
 | 34 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 35 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 49 | [UNPREDICTABLE](https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [UNPREDICTABLE](https://open.spotify.com/album/4FlLFmeikHa7syfabGqL0k) | 3:09 |
 | 50 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 |
 
-Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDMxN2E3NDJkNjQzNzdiOWI4NDQ5ZmZiNDU5MzUxYTMy`
+Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMGY3N2RiMmQ5NzQ4MjhjZTM2YTI5OTdmOTViYThlMWZh`

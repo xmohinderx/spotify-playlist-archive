@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,561 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,664 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 71 | [Tú](https://open.spotify.com/track/3XtsyVQ4sj7mi7iNpU3arZ) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Tú](https://open.spotify.com/album/3gHt4axp9bvGEYeDOwCYxB) | 2:20 |
 | 72 | [Como Me Duele Perderte](https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 4:27 |
 | 73 | [Un Beso](https://open.spotify.com/track/6PwVWeo4KpH7YrTg2b5Het) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:21 |
-| 74 | [Qué Será](https://open.spotify.com/track/0EixXz4ZIBS5sq7LjyN1VV) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Qué Será](https://open.spotify.com/album/3YsT4UC2mHKo7ax2cmoGGd) | 3:13 |
-| 75 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
+| 74 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
+| 75 | [Qué Será](https://open.spotify.com/track/0EixXz4ZIBS5sq7LjyN1VV) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Qué Será](https://open.spotify.com/album/3YsT4UC2mHKo7ax2cmoGGd) | 3:13 |
 | 76 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
 | 77 | [Chanteito Pa' un Ex](https://open.spotify.com/track/4mK5PG0R3ch1hJoOW9pFe2) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Chanteito Pa' un Ex](https://open.spotify.com/album/1kmys6i9MjDcH2loOM1ZVB) | 3:36 |
 | 78 | [Vuelve](https://open.spotify.com/track/5WGHknjgYatHVCFRTFB8QP) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:47 |
 | 79 | [Pa' Mi Entero](https://open.spotify.com/track/1oUYEiQ669zjwQOMKGMuKH) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 2:52 |
 | 80 | [Extranjera](https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Extranjera](https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK) | 3:28 |
 
-Snapshot ID: `MTY1NzU2NTIzNSwwMDAwMDAwMDA2ZDQxMWUxYWQ5YmRmMDgyODQ5OTNlNTg4MjJlMDFm`
+Snapshot ID: `MTY1NzU2NTIzNSwwMDAwMDAwMDdhNTI4YTJlMTg2ZTNlNzI5ZGEyODNmNTVlNGZkYzc4`

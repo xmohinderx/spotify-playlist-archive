@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Nazia Hassan",
-  "num_followers": 843788,
+  "num_followers": 843779,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUyNjk4MSwwMDAwMDAwMGJmOWIyOTA0MzdjNTQ4N2U5MGM5ZGI0MzJiYjRmMjdk",
+  "snapshot_id": "MTY1OTUyNjk4MSwwMDAwMDAwMGQ3NzRkNDcxYjgxMTQ5NzA5ODE0OGY4NzUzNTg1OGNm",
   "tracks": [
     {
       "added_at": "2022-08-03 04:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 185995,
       "name": "sugar at the bottom",
       "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
+        "name": "Teenage Renegade",
+        "url": "https://open.spotify.com/album/1MbxlBgw83NZbqcJuoAVnd"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Teenage Renegade",
+      "url": "https://open.spotify.com/track/12UFOhdwV1STPKzAI39hUu"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
         "name": "Tera Nishaan",
         "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 167000,
       "name": "Tera Nishaan",
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "Teenage Renegade",
-        "url": "https://open.spotify.com/album/1MbxlBgw83NZbqcJuoAVnd"
-      },
-      "artists": [
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Teenage Renegade",
-      "url": "https://open.spotify.com/track/12UFOhdwV1STPKzAI39hUu"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "DAMALEONA, VOL. 1",
-        "url": "https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 255660,
-      "name": "TRASCENDER",
-      "url": "https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Come Apart",
         "url": "https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 184240,
       "name": "Come Apart",
       "url": "https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "DAMALEONA, VOL. 1",
+        "url": "https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 255660,
+      "name": "TRASCENDER",
+      "url": "https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu"
     },
     {
       "added_at": "2022-08-03 11:43:01",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Gei",
-        "url": "https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts"
-      },
-      "artists": [
-        {
-          "name": "LaLa Hsu",
-          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
-        }
-      ],
-      "duration_ms": 280097,
-      "name": "Vanishing Love",
-      "url": "https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Sweet My Life",
         "url": "https://open.spotify.com/album/5Tpk1oiARkbmnZZHNJJmmS"
       },
@@ -699,6 +683,46 @@
       "duration_ms": 185554,
       "name": "Wifey - Feat. Lil Keed",
       "url": "https://open.spotify.com/track/1F12ArAq906JEJhfLFuhYh"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Gei",
+        "url": "https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "duration_ms": 280097,
+      "name": "Vanishing Love",
+      "url": "https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "NA JAW",
+        "url": "https://open.spotify.com/album/2afUIxih65L6c308R5dZ1a"
+      },
+      "artists": [
+        {
+          "name": "Dominika Plonka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        },
+        {
+          "name": "Wuja HZG",
+          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "NA JAW",
+      "url": "https://open.spotify.com/track/7dabUwTb0gLl974JRHxKNC"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -735,30 +759,6 @@
       "duration_ms": 201000,
       "name": "Bahagiakan Dia",
       "url": "https://open.spotify.com/track/4oBaBPg7nDBJfvDn3Dkzjk"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "NA JAW",
-        "url": "https://open.spotify.com/album/2afUIxih65L6c308R5dZ1a"
-      },
-      "artists": [
-        {
-          "name": "Dominika Plonka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        },
-        {
-          "name": "Wuja HZG",
-          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "NA JAW",
-      "url": "https://open.spotify.com/track/7dabUwTb0gLl974JRHxKNC"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "it keeps on raining",
-        "url": "https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 202452,
-      "name": "it keeps on raining",
-      "url": "https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Nh\u01b0 L\u1eddi \u0110\u1ed3n",
         "url": "https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
+        "name": "it keeps on raining",
+        "url": "https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 202452,
+      "name": "it keeps on raining",
+      "url": "https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
         "name": "Plastic Flowers",
         "url": "https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 156775,
       "name": "Plastic Flowers",
       "url": "https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "\u0627\u0644\u0648\u0631\u062f\u0629 \u0627\u0644\u0628\u064a\u0636\u0627",
+        "url": "https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO"
+      },
+      "artists": [
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        }
+      ],
+      "duration_ms": 237418,
+      "name": "\u0627\u0644\u0648\u0631\u062f\u0629 \u0627\u0644\u0628\u064a\u0636\u0627",
+      "url": "https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 195000,
       "name": "Call Mi",
       "url": "https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "\u0627\u0644\u0648\u0631\u062f\u0629 \u0627\u0644\u0628\u064a\u0636\u0627",
-        "url": "https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO"
-      },
-      "artists": [
-        {
-          "name": "Zena Emad",
-          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
-        }
-      ],
-      "duration_ms": 237418,
-      "name": "\u0627\u0644\u0648\u0631\u062f\u0629 \u0627\u0644\u0628\u064a\u0636\u0627",
-      "url": "https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Khatt",
-        "url": "https://open.spotify.com/album/5YE64t1MFZB7d5OOUGYAHq"
+        "name": "Bolesne ko\u015bci (Tymoteusz)",
+        "url": "https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M"
       },
       "artists": [
         {
-          "name": "Aqdas Asif",
-          "url": "https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR"
-        },
-        {
-          "name": "Ali Mustafa",
-          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX"
         }
       ],
-      "duration_ms": 232258,
-      "name": "Khatt",
-      "url": "https://open.spotify.com/track/7n6WZ6B685kKuhVsWCuZTe"
+      "duration_ms": 244272,
+      "name": "Bolesne ko\u015bci (Tymoteusz)",
+      "url": "https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -1039,6 +1035,26 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
+        "name": "Khatt",
+        "url": "https://open.spotify.com/album/5YE64t1MFZB7d5OOUGYAHq"
+      },
+      "artists": [
+        {
+          "name": "Aqdas Asif",
+          "url": "https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR"
+        },
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Khatt",
+      "url": "https://open.spotify.com/track/7n6WZ6B685kKuhVsWCuZTe"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn"
       },
@@ -1051,6 +1067,22 @@
       "duration_ms": 145454,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Azad\u00ee",
+        "url": "https://open.spotify.com/album/6zJCr9aBd5PIt6ltumUA4O"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "duration_ms": 201916,
+      "name": "Azad\u00ee",
+      "url": "https://open.spotify.com/track/4C79mdd7zUzW2hVwJmJLwk"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -1087,18 +1119,18 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Azad\u00ee",
-        "url": "https://open.spotify.com/album/6zJCr9aBd5PIt6ltumUA4O"
+        "name": "TWTC",
+        "url": "https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b"
       },
       "artists": [
         {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+          "name": "Mulay",
+          "url": "https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54"
         }
       ],
-      "duration_ms": 201916,
-      "name": "Azad\u00ee",
-      "url": "https://open.spotify.com/track/4C79mdd7zUzW2hVwJmJLwk"
+      "duration_ms": 204568,
+      "name": "TWTC",
+      "url": "https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -1119,18 +1151,18 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Bolesne ko\u015bci (Tymoteusz)",
-        "url": "https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M"
+        "name": "Iss Baarish Mein (Neeti Mohan Version)",
+        "url": "https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi"
       },
       "artists": [
         {
-          "name": "Ofelia",
-          "url": "https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX"
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
         }
       ],
-      "duration_ms": 244272,
-      "name": "Bolesne ko\u015bci (Tymoteusz)",
-      "url": "https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su"
+      "duration_ms": 249692,
+      "name": "Iss Baarish Mein (Neeti Mohan Version)",
+      "url": "https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -1147,38 +1179,6 @@
       "duration_ms": 302584,
       "name": "\u0e08\u0e4a\u0e27\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e2e\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "TWTC",
-        "url": "https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b"
-      },
-      "artists": [
-        {
-          "name": "Mulay",
-          "url": "https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54"
-        }
-      ],
-      "duration_ms": 204568,
-      "name": "TWTC",
-      "url": "https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "Iss Baarish Mein (Neeti Mohan Version)",
-        "url": "https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi"
-      },
-      "artists": [
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        }
-      ],
-      "duration_ms": 249692,
-      "name": "Iss Baarish Mein (Neeti Mohan Version)",
-      "url": "https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U"
     }
   ],
   "unique_name": "EQUAL Global ",

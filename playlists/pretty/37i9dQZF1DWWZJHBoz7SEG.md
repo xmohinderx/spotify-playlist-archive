@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Lasso; ROSALÍA; Beyoncé; Yuridia y Banda MS; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,264 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,291 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 26 | [GYAL](https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ) | [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b) | [ICE BLUE](https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU) | 2:54 |
 | 27 | [Duele](https://open.spotify.com/track/2L5VklbJ3HrfO64vtbfcPF) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Duele](https://open.spotify.com/album/58NqpAufaxeHZYwa052Wuh) | 3:06 |
 | 28 | [Zona Roja](https://open.spotify.com/track/0UGj0v5SOcqd6MX3dteR5z) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Zona Roja](https://open.spotify.com/album/06Bhd1K7fYq9WpEsCijl44) | 3:27 |
-| 29 | [Calafia Tour](https://open.spotify.com/track/5oqPZDLDphVqvMCwzUDRsd) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:27 |
+| 29 | [Calafia Tour](https://open.spotify.com/track/5oqPZDLDphVqvMCwzUDRsd) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:27 |
 | 30 | [Mis Nuevos Nikes](https://open.spotify.com/track/3Eo2ZZLC74YsJYhjGUc1DO) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Aidy Dee](https://open.spotify.com/artist/4tMJnV74U5Wa51DZk91Nvz), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7) | [Mis Nuevos Nikes](https://open.spotify.com/album/0gnzKdcaHoGIkjwcrlnKmz) | 3:36 |
 | 31 | [un día en París](https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [un día en París](https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo) | 4:02 |
 | 32 | [Temporada](https://open.spotify.com/track/1uYXwjOZqQGI0VinJ00rKt) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Específicamente, Tú](https://open.spotify.com/album/4G28Ub1VniOBZCU4NHaYKT) | 2:31 |

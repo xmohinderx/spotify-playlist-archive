@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,079 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,089 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 30 | [Don't Bite the Hand That Feeds You](https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL) | [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3) | [That's Life](https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii) | 4:16 |
 | 31 | [Jason Solo](https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 6:02 |
 | 32 | [Looking For A Woman](https://open.spotify.com/track/6JuJtd8K0jpEejEBJBitlA) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Groovin' In Greaseland](https://open.spotify.com/album/3fZLjidk1UlpKM9Kw5NWSh) | 5:21 |
-| 33 | [Need To Make A Dollar](https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J) | [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Alone With The Blues](https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ) | 2:51 |
-| 34 | [Bad Boys Heaven](https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj) | [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [Code Blue](https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD) | 9:08 |
+| 33 | [Bad Boys Heaven](https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj) | [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [Code Blue](https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD) | 9:08 |
+| 34 | [Need To Make A Dollar](https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J) | [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Alone With The Blues](https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ) | 2:51 |
 | 35 | [Blues On The Moon](https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Louisiana Legend](https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa) | 2:56 |
 | 36 | [Dog Days of August](https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF), [John Cephas](https://open.spotify.com/artist/39gMpw4vsyl8CLCW6OZx97), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [Richmond Blues](https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ) | 4:11 |
 | 37 | [Can't Believe It's This Good](https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 3:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 45 | [Harpoventilatin'](https://open.spotify.com/track/0hMR8CTSJLrRjOgoE7apDR) | [Mark Hummel](https://open.spotify.com/artist/6tThEAJKUsHlj0ALfRObEP) | [Harpbreaker](https://open.spotify.com/album/0HGQj36FzCKitSWq3jy2lX) | 3:44 |
 | 46 | [The Hucklebuck](https://open.spotify.com/track/3HaAIm8CuHSdxxdbv14JkG) | [Marcos Coll](https://open.spotify.com/artist/5mKLyd8tTJxeMvsNXhiHrV), [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Under the Wings](https://open.spotify.com/album/3TpFzGrkx7auCFdstsj2fL) | 4:10 |
 | 47 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
-| 48 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
-| 49 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
+| 48 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
+| 49 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
 | 50 | [Levee Camp Moan](https://open.spotify.com/track/5P3AlDI4rXsBxU4YC3rkL2) | [Forest City Joe](https://open.spotify.com/artist/4lrsWNPzvfhQioDHFarekQ) | [Best of Blues Vol\. 8: Forrest City Joe \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/75TS3pJaEN702DolImKo8K) | 5:19 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMGRkYTUwYjVlM2Q3YThjNWJkZmQ2ZWMxN2JhM2E5MTJi`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMGRhNmM5Zjc3MDdlNzg1ZTEyMTJlYzgyNTBlMjdiNzM0`

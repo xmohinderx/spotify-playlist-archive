@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Will Swinton\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,976 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,990 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 9 | [Wet](https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Wet](https://open.spotify.com/album/5ResSYzjEMB3SbKvC8XmxQ) | 2:58 |
 | 10 | [Heartbeat](https://open.spotify.com/track/2OdyPLxLwIosEAFxNeUucV) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Heartbeat](https://open.spotify.com/album/4fC7DGkjg7cXtI9jf8Kapp) | 3:16 |
 | 11 | [Strange Comfort](https://open.spotify.com/track/6mbeKXLTAtelAqJfaCeBIL) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Strange Comfort](https://open.spotify.com/album/0WNuGgmRZYM3XnUaVRwPgm) | 4:08 |
-| 12 | [Goodmorning](https://open.spotify.com/track/1rzkzVVzCcFBNMoeVVmAdq) | [Silentjay](https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh), [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV) | [Goodmorning](https://open.spotify.com/album/2QvfgdZiEJzWGmXq0M98oV) | 3:01 |
+| 12 | [Goodmorning](https://open.spotify.com/track/1rzkzVVzCcFBNMoeVVmAdq) | [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV), [Silentjay](https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh) | [Goodmorning](https://open.spotify.com/album/2QvfgdZiEJzWGmXq0M98oV) | 3:01 |
 | 13 | [RUNAWAY](https://open.spotify.com/track/5z1WhywqWE1J3L793unDUu) | [Agung Mango](https://open.spotify.com/artist/1XXBwJeXvPE1PdXWjJLuXf) | [RUNAWAY](https://open.spotify.com/album/3dnsnlsCVInuQde79WRxlI) | 4:06 |
 | 14 | [Rainbow Light Beam](https://open.spotify.com/track/02zdjL7X7KmrGLXawaeo9B) | [Dirty Versachi](https://open.spotify.com/artist/0gyh3MRutl5SLUS2jxIWus) | [Rainbow Light Beam](https://open.spotify.com/album/0P5J5sVcAaG8Ya9q6uPGww) | 3:01 |
 | 15 | [Leave Me Alone](https://open.spotify.com/track/1eMevZk9dPrdy4hWdFeRXR) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Leave Me Alone](https://open.spotify.com/album/1kuECkKxX11NNa4U0u7izc) | 4:15 |

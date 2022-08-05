@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "After A Few",
+        "url": "https://open.spotify.com/album/5Z6UUS0n3Oz7i2bDLEdbWL"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "After A Few",
+      "url": "https://open.spotify.com/track/1z6wl2rwKatfmza6usanWw"
+    },
+    {
+      "album": {
         "name": "Almost Maybes",
         "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
       },
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 193426,
       "name": "One Margarita",
       "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 216226,
       "name": "PARADISE TO ME",
       "url": "https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp"
@@ -1397,6 +1415,24 @@
       "duration_ms": 197453,
       "name": "Settling Down",
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+    },
+    {
+      "album": {
+        "name": "Honkytonk Revival",
+        "url": "https://open.spotify.com/album/17uEGzawT4q5I948KsSCtZ"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "She Don't Know",
+      "url": "https://open.spotify.com/track/5s95DvyPmrEGQz68fECUS8"
     },
     {
       "album": {

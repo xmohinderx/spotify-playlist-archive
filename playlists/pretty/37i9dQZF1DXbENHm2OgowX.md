@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,035 likes - 50 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,172 likes - 50 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 20 | [Sea Creatures](https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX) | 4:16 |
 | 21 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 |
 | 22 | [The Dead Flag Blues](https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 16:27 |
-| 23 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 |
+| 23 | [\(Something\)](https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 2:30 |
 | 24 | [Earthmover](https://open.spotify.com/track/77yGZRjuWfSzbDT0ROSSUG) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 11:28 |
 | 25 | [New Dawn Fades \- 2007 Remaster](https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 4:51 |
 | 26 | [I'm Going to Do It](https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 6:16 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 28 | [come](https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 5:17 |
 | 29 | [Hunter](https://open.spotify.com/track/052QjISGAv9TPgtypVETn1) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 9:43 |
 | 30 | [The Mysterious Vanishing of Electra](https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 6:08 |
-| 31 | [\(Something\)](https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 2:30 |
+| 31 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 |
 | 32 | [The Eternal \- 2007 Remaster](https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 6:04 |
 | 33 | [Disengaged](https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:16 |
 | 34 | [Buried Above Ground](https://open.spotify.com/track/5dAoUZkkkmx0YDMK9Bmy2g) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 6:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 49 | [The Marble Eye](https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 5:18 |
 | 50 | [I filled my Lungs with the Necessary Air, and yelled! \- Ben Lukas Boysen Rework](https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Vale Reworked](https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz) | 7:17 |
 
-Snapshot ID: `MTY1NzI5MDc4OCwwMDAwMDAwMDkxZmQwYTA1NGU3NDIzMmNkMWQzMmNjNDQxOTM5MDEx`
+Snapshot ID: `MTY1NzI5MDc4OCwwMDAwMDAwMDQ4YjA2NjY3ZWNjN2NlMmZkOWFkZTQ5OGFiODYwYjdi`

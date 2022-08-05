@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1124259,
+  "num_followers": 1124429,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTg4NTE4NiwwMDAwMDAwMDU5ZjhjMWJiNDhjNzQ3NzAzZDIxOTUxMTdmODc3MGQ3",
+  "snapshot_id": "MTY1NTg4NTE4NiwwMDAwMDAwMDMzMDcwNjZiNzE2YTNkNTY3YjJkMDU1ZDM2NjY5NmY5",
   "tracks": [
     {
       "added_at": "2022-06-22 08:06:26",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 243480,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
-    },
-    {
-      "added_at": "2022-06-22 08:06:26",
-      "album": {
         "name": "Lover Man (Oh, Where Can You Be?)",
         "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183901,
       "name": "Lover Man (Oh, Where Can You Be?)",
       "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+    },
+    {
+      "added_at": "2022-06-22 08:06:26",
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -1259,18 +1259,30 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
+        "name": "At Long Last Love (Live)",
+        "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Barry Stephenson",
+          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
         }
       ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
+      "duration_ms": 171760,
+      "name": "At Long Last Love - Live",
+      "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -1311,30 +1323,18 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "At Long Last Love (Live)",
-        "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
       },
       "artists": [
         {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Barry Stephenson",
-          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 171760,
-      "name": "At Long Last Love - Live",
-      "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "Nat \"King\" Cole & Me",
-        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
         }
       ],
-      "duration_ms": 128520,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
+      "duration_ms": 235093,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -1403,22 +1403,6 @@
       "duration_ms": 234800,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
-    },
-    {
-      "added_at": "2022-06-22 08:06:26",
-      "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
-      },
-      "artists": [
-        {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -1471,26 +1455,6 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/0mG4xDyB6SN5We5RCOVr6e"
-      },
-      "artists": [
-        {
-          "name": "Steven Feifke",
-          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
-        },
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/6tMbxAYrQl0qaORbkNeoTp"
-    },
-    {
-      "added_at": "2022-06-22 08:06:26",
-      "album": {
         "name": "OK Crooner",
         "url": "https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J"
       },
@@ -1511,18 +1475,38 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/0mG4xDyB6SN5We5RCOVr6e"
       },
       "artists": [
         {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        },
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
         }
       ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+      "duration_ms": 378000,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6tMbxAYrQl0qaORbkNeoTp"
+    },
+    {
+      "added_at": "2022-06-22 08:06:26",
+      "album": {
+        "name": "Nat \"King\" Cole & Me",
+        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 128520,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -1543,18 +1527,34 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
       },
       "artists": [
         {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
         }
       ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
+    },
+    {
+      "added_at": "2022-06-22 08:06:26",
+      "album": {
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+      },
+      "artists": [
+        {
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
       },
       "artists": [
         {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
         }
       ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2022-06-22 08:06:26",

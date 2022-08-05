@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 22312,
+  "num_followers": 22381,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMGFjZmU2ZjQzMGQ1ZmYzZDU5NzczZWNkZmZlNjdjZTJh",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDE3NWI3MWM0M2RhNjJkOTM0MzkwNzQ5MWRmZGNmOTdm",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -639,22 +639,18 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "El Farsante (Remix)",
-        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 258000,
-      "name": "El Farsante - Remix",
-      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
+      "duration_ms": 186315,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -679,18 +675,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
+        "name": "El Farsante (Remix)",
+        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 186315,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
+      "duration_ms": 258000,
+      "name": "El Farsante - Remix",
+      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Dura (Remix)",
         "url": "https://open.spotify.com/album/5XGcXkkiPQIgaNSDANurj7"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 242160,
       "name": "Dura - Remix",
       "url": "https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -879,26 +879,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Asesina (Remix)",
         "url": "https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 327466,
       "name": "Asesina - Remix",
       "url": "https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
     },
     {
       "added_at": "2021-12-16 01:11:32",

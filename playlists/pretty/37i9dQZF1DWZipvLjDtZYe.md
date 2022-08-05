@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！© Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,036 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,309 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 45 | [Mai Mai Mai \(feat\. Hatsune Miku\)](https://open.spotify.com/track/72vNbz6kcsk64PIqoih2Jh) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Mai Mai Mai\(feat\. Hatsune Miku\)](https://open.spotify.com/album/5lf6wvBCJ8YFXF5IvIXkdk) | 3:47 |
 | 46 | [二次元ドリームフィーバー](https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [二次元ドリームフィーバー](https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea) | 3:08 |
 | 47 | [Because You're Here](https://open.spotify.com/track/5t60rC3e9mXv8Jy9eGZbkE) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Because You're Here](https://open.spotify.com/album/6Y4oOL7j48ijoIbIrdDSdm) | 4:32 |
-| 48 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
-| 49 | [Twilight ∞ nighT](https://open.spotify.com/track/3QXRtqgt8rS70qA6j02HOM) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [EVER DREAM](https://open.spotify.com/album/46BJOovo6b2j3nFOGS0Nyj) | 3:44 |
-| 50 | [Hello, Planet](https://open.spotify.com/track/4HV2zdfNV6hxc9f97jtDh5) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Do Vocaloids Dream of Doomsday Bird?](https://open.spotify.com/album/1olwRiTXgJqGJL5ASMLJaP) | 5:01 |
+| 48 | [Hello, Planet](https://open.spotify.com/track/4HV2zdfNV6hxc9f97jtDh5) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Do Vocaloids Dream of Doomsday Bird?](https://open.spotify.com/album/1olwRiTXgJqGJL5ASMLJaP) | 5:01 |
+| 49 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
+| 50 | [Twilight ∞ nighT](https://open.spotify.com/track/3QXRtqgt8rS70qA6j02HOM) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [EVER DREAM](https://open.spotify.com/album/46BJOovo6b2j3nFOGS0Nyj) | 3:44 |
 
-Snapshot ID: `MTYzMjQxNzkzMCwwMDAwMDAwMDI5YTFmOGNlZWY2NGRjY2I5MTI1YWM0ZmJjYmQ2Yjc1`
+Snapshot ID: `MTYzMjQxNzkzMCwwMDAwMDAwMDhmMzYwODc3ZjllNWY1Mzk4YmRlNzg3ZmQ1Y2M1ZGU2`

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kim Hye Rim\(김혜림\)\) \(핫한 국내 록음악을 만나보세요!\)
 
-367 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+369 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Be The Rockstar](https://open.spotify.com/track/1BFErqEusB8aPfCzF9kL6R) | [11Degrees](https://open.spotify.com/artist/5CNFUUdKxY57byxjYmbQbo) | [Be The Rockstar](https://open.spotify.com/album/7rlIdvxHB7X7DKervWcjzY) | 4:59 | 2022-06-13 | 2022-06-19 |
 | [beautiful farewell](https://open.spotify.com/track/4R16iPDSmo0uQdifs7S7Pv) | [Adios Audio](https://open.spotify.com/artist/5A5DAxEQJ5F7HA4wVVHV8a) | [beautiful farewell](https://open.spotify.com/album/41x5xlwIDw05W5aWqLBECv) | 2:58 | 2022-05-24 | 2022-06-26 |
 | [Beautiful Jeopardy](https://open.spotify.com/track/6Qcz3rdpgYiH66eJLDVI2R) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Moments in between](https://open.spotify.com/album/5KVVc9JfjVCz3U52XxUqSj) | 6:31 | 2022-04-22 | 2022-07-26 |
+| [Beautiful Night](https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Beautiful Night](https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem) | 2:49 | 2022-08-04 |  |
 | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/track/7veL3B4K9oQB9VnyLtuPJW) | [from20](https://open.spotify.com/artist/16ODiemwC9iXaQQ7AQBVnt) | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/album/1w0r5U0Sl7YqvdKrtzXROQ) | 3:11 | 2022-04-22 | 2022-07-22 |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-06-23 | 2022-07-19 |
@@ -108,7 +109,7 @@
 | [From You](https://open.spotify.com/track/34qvU10EU2RsoBRX5qYlpb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Alice \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1pmEVARxxmA6polrjOqREk) | 3:47 | 2022-04-22 | 2022-07-16 |
 | [Fuckers Are Everywhere](https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G) | [Deadbuttons](https://open.spotify.com/artist/1QOnYPjbIcHGpBetj5Szfb) | [Fuckers Are Everywhere](https://open.spotify.com/album/1fPsgAQLSulmieALAGythC) | 2:55 | 2022-05-03 | 2022-07-14 |
 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 | 2022-04-22 | 2022-07-09 |
-| [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 |  |
+| [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 | 2022-08-05 |
 | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/track/3YPSH6gOsnEZgItxaLDSAL) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/album/3DfLxv8m65MF99PDCpqlUa) | 2:53 | 2022-05-03 | 2022-06-13 |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-05-24 |  |
 | [Going On](https://open.spotify.com/track/05hmP7we4C8bf4DLcrcxeo) | [PAGO](https://open.spotify.com/artist/3M4zeC84P7onkK1PsrI1cE) | [Going On](https://open.spotify.com/album/0VGsRsvO6Cdi5C8qA7A2Kz) | 4:22 | 2022-04-22 | 2022-05-11 |
@@ -197,7 +198,7 @@
 | [Memories](https://open.spotify.com/track/2tjlsodEoYD9xfPDkedn8s) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Memories](https://open.spotify.com/album/6g7NACiHwVR0qCYiBVcwqa) | 4:22 | 2022-05-11 | 2022-05-15 |
 | [Mercury](https://open.spotify.com/track/1Q1lThtKTcrM96wfrh8O6y) | [oomool](https://open.spotify.com/artist/6Hd7QIFavcdnS1Iiri4ssH) | [Mercury](https://open.spotify.com/album/5rEOxoegOUSR6UW1wqkU12) | 5:13 | 2022-06-13 | 2022-06-19 |
 | [Midnight Train 심야행](https://open.spotify.com/track/5frQVgA52nXd4SqlGaQn3H) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF) | 4:17 | 2022-04-21 | 2022-07-29 |
-| [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2022-04-12 |  |
+| [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2022-04-12 | 2022-08-05 |
 | [More](https://open.spotify.com/track/5JUMzqH6U6oO6yKXa0rLZg) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [More](https://open.spotify.com/album/1zvUzhuA4hLQpnl5SL02Sv) | 4:36 | 2022-05-02 | 2022-07-05 |
 | [Mouse](https://open.spotify.com/track/3bFpFHcK5cbg93FyKUTNWs) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/3BLdWzAtpi6No30f2m1okJ) | 3:58 | 2022-04-12 | 2022-07-28 |
 | [MUNG](https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:59 | 2022-04-22 | 2022-07-19 |
@@ -252,6 +253,7 @@
 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 | 2022-06-23 | 2022-07-29 |
 | [Regulus](https://open.spotify.com/track/299CpDyNkUS3aFAZCr0c9A) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [2/4](https://open.spotify.com/album/55ucpTq6CWc40dJakIPajP) | 3:42 | 2022-04-12 | 2022-07-25 |
 | [Remedy](https://open.spotify.com/track/0iJXk34vAEuHtFdgONxCas) | [Vanillare](https://open.spotify.com/artist/1snfnH0w3DHTY1GXJ630Ys) | [Remedy](https://open.spotify.com/album/4ybo5wS56wFFUexsDM5Xne) | 3:04 | 2022-06-09 | 2022-06-26 |
+| [Replay](https://open.spotify.com/track/5cdy7ga5LX3ekZ1Xfl6BUY) | [RecordVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [Replay](https://open.spotify.com/album/3KfQzfa9ojrhFNoOFsE8B8) | 3:46 | 2022-08-04 |  |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2022-04-12 | 2022-07-04 |
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2022-05-11 | 2022-07-26 |
 | [Ride In](https://open.spotify.com/track/2UfV11bsS80uaESfesRWH4) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Ride In, 젊은 날의 꿈](https://open.spotify.com/album/3FbRUoycTSfRRu4V1USSeJ) | 2:41 | 2022-07-01 | 2022-07-06 |

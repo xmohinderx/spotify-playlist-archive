@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 241725,
+  "num_followers": 241741,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzI2NzcyNCwwMDAwMDAwMGNkYzhhNWVlYzVmMjUxOGYxNjdmODlhMjRiYWVlN2Ni",
+  "snapshot_id": "MTYzNzI2NzcyNCwwMDAwMDAwMDQ5N2ZjYTFiODEzNWNiMzhlNzY1MDAyZWVlZjY2OGNh",
   "tracks": [
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 270664,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "New Conditions",
         "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 187185,
       "name": "The Impossible Task of Feeling Complete",
       "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 270664,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
+        "name": "Lincoln, Nebraska",
+        "url": "https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 143674,
+      "name": "Lincoln, Nebraska",
+      "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
         "name": "Meet Me on the Edge of Our Ruin",
         "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 243266,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 238515,
-      "name": "May",
-      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1475,24 +1475,8 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Soft Drop",
-        "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 196756,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Lincoln, Nebraska",
-        "url": "https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH"
+        "name": "May",
+        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
       },
       "artists": [
         {
@@ -1500,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
         }
       ],
-      "duration_ms": 143674,
-      "name": "Lincoln, Nebraska",
-      "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 175773,
       "name": "Rae",
       "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Soft Drop",
+        "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 196756,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
     },
     {
       "added_at": "2021-11-12 05:00:00",

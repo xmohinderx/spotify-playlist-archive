@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Ayleen Valentine, Artwork: Robin Clifford Ellis
 
-783 songs - 1 day 18 hr 28 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+784 songs - 1 day 18 hr 32 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Attention](https://open.spotify.com/track/4ezql13lzGnAGJ5QYi330b) | [Masaya](https://open.spotify.com/artist/3siWAWu5JMY1wtFRmwfuT3) | [Attention](https://open.spotify.com/album/7v4QNtTLDuBmXbk5efMl2E) | 3:38 | 2022-03-22 | 2022-04-27 |
 | [Attention! Shopkeeper](https://open.spotify.com/track/2jm5eKObeNILeRMtJaefyw) | [Pastel Blank](https://open.spotify.com/artist/4v8MCErhmubUGQhwRVbnlN) | [Attention! Shopkeeper](https://open.spotify.com/album/2I9MxXiaV1c02WaiAnZ6Gg) | 3:26 | 2022-04-27 | 2022-05-12 |
 | [Attic](https://open.spotify.com/track/1qgkomqfEcEKfTGvGG2jjp) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Eileen](https://open.spotify.com/artist/0twcXK8RVcSgMQCG4zHFVV) | [Attic](https://open.spotify.com/album/1HPhz8Vf4wNUI9k8qz6Fgd) | 2:06 | 2022-06-08 | 2022-06-30 |
+| [Ava](https://open.spotify.com/track/2UFNep9nbVcfkleCG9icRd) | [Aidan Jack Finnecy](https://open.spotify.com/artist/1WhVurXzCBmvdyXpmR2A22) | [Ava](https://open.spotify.com/album/2kHVasHvva7dlsArXSO1ic) | 3:46 | 2022-08-04 |  |
 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 | 2022-03-16 | 2022-04-27 |
 | [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-01-12 | 2022-03-17 |
 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 | 2022-05-25 | 2022-06-30 |
@@ -790,6 +791,6 @@
 | [Young Love](https://open.spotify.com/track/7gpfYzC7zAaVSSKwIxoUjM) | [Peli Gene](https://open.spotify.com/artist/6f5GYmvxUbqwgeydOPN61A) | [Young Love](https://open.spotify.com/album/3Ev30OM7wT4xSQjnjCYikA) | 3:29 | 2022-06-29 |  |
 | [Your Apartment](https://open.spotify.com/track/1t8GRcn04CDdsUKcgxfftL) | [Real Fake Flowers](https://open.spotify.com/artist/1KmYvsdeVPuhqn5dXPnMbP) | [Your Apartment](https://open.spotify.com/album/0BzsqYJMwH20PuNKrwcK3U) | 3:24 | 2022-07-15 | 2022-08-04 |
 | [Youth Disaster](https://open.spotify.com/track/4apiK6MzpIWYhd7SeBWBOG) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf) | [Youth Disaster](https://open.spotify.com/album/0g9ozbaaQNc2SnV3pyaXH4) | 3:27 | 2022-03-02 | 2022-03-17 |
-| [爱的大巴 \(Love Bus\)](https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [爱的大巴 \(Love Bus\)](https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu) | 4:31 | 2022-07-06 |  |
+| [爱的大巴 \(Love Bus\)](https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [爱的大巴 \(Love Bus\)](https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu) | 4:31 | 2022-07-06 | 2022-08-05 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

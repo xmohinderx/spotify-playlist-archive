@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55644,
+  "num_followers": 55642,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNjgwMywwMDAwMDAwMDFmMjlmZTA0MTkzNDY5NmE5OWE4NjA5YTk0NjI2NmIz",
+  "snapshot_id": "MTYyNDYwNjgwMywwMDAwMDAwMDM2MzViYTI3MzUxZWI4M2Y3MDM2MmExNWQ4NDAzZTJl",
   "tracks": [
     {
       "added_at": "2021-06-25 07:40:03",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "Share That Love (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 172398,
       "name": "Share That Love (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -975,6 +975,22 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "The Art Of Celebration",
+        "url": "https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 224169,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "The Art Of Celebration",
-        "url": "https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 224169,
-      "name": "My Lighthouse",
-      "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Ticket To Ride",
         "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 182066,
       "name": "Ticket To Ride",
       "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
+      "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 194480,
       "name": "Wild Stare",
       "url": "https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
-      "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
     },
     {
       "added_at": "2021-06-25 07:40:03",

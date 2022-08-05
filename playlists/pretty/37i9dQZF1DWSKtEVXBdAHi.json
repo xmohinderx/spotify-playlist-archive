@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 26993,
+  "num_followers": 26994,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDhiNmY5YzM3NWViOGY1MzE3MmNhNzFiZjBiYWE3ZjNl",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGQ2NjRlMWUxNDQxOGU3YjkyZGJkNDM2OTk1ZWQ4YmRm",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        }
+      ],
+      "duration_ms": 168946,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
-      },
-      "artists": [
-        {
-          "name": "Virginia To Vegas",
-          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
-        }
-      ],
-      "duration_ms": 168946,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -771,26 +771,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Lost In Japan (Remix)",
-        "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Lost In Japan - Remix",
-      "url": "https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Easier \u2013 Remix (with Charlie Puth)",
         "url": "https://open.spotify.com/album/5h2ljtbTQqfbCg4nem00bf"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 157325,
       "name": "Easier \u2013 Remix (with Charlie Puth)",
       "url": "https://open.spotify.com/track/5iTaLzgPI5jRMVAxITcZwT"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Lost In Japan (Remix)",
+        "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Lost In Japan - Remix",
+      "url": "https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv"
     },
     {
       "added_at": "2020-02-18 13:31:30",

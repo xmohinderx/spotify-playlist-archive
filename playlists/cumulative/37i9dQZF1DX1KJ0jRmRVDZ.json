@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 208139,
       "name": "FAKE LAND",
       "url": "https://open.spotify.com/track/6sxV9tg9XvGZV0MIgzurqg"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 185800,
       "name": "Fake Parade",
       "url": "https://open.spotify.com/track/3miwadbvtZreaxkLPCnI7X"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 166566,
       "name": "Iranaiyo",
       "url": "https://open.spotify.com/track/2PKkqRTNxb7G9I7qGmsKkk"
@@ -1699,6 +1699,24 @@
       "duration_ms": 184645,
       "name": "The Fog",
       "url": "https://open.spotify.com/track/6WeNx7415S4E0m3YPeDknr"
+    },
+    {
+      "album": {
+        "name": "Under Kids",
+        "url": "https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Under Kids",
+      "url": "https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr"
     },
     {
       "album": {
@@ -3873,7 +3891,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 235346,
       "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6",
       "url": "https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb"
@@ -7169,7 +7187,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 154823,
       "name": "\u9283\u306e\u90e8\u54c1",
       "url": "https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 
 > todo un mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,238 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,487 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 52 | [Me Fije](https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Me Fije](https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC) | 3:22 |
 | 53 | [No Fue \- Remix](https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [No Fue \(feat\. Brray, Feid\) \[Remix\]](https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt) | 5:17 |
 | 54 | [Loquita](https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loquita](https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ) | 3:19 |
-| 55 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 |
-| 56 | [Velitas](https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Velitas](https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA) | 3:45 |
+| 55 | [Velitas](https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Velitas](https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA) | 3:45 |
+| 56 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 |
 | 57 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 |
 | 58 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 |
 | 59 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 83 | [Extasy](https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Para Mi Ex](https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u) | 3:07 |
 | 84 | [Toa la Vida](https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Toa la Vida](https://open.spotify.com/album/0ee6hUkkQZjprmTwnqBTwP) | 3:38 |
 | 85 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 |
-| 86 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 |
-| 87 | [Llori Pari](https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Llori Pari](https://open.spotify.com/album/4jG7eBaWlLUjRRS1ajTCJ3) | 3:35 |
+| 86 | [Llori Pari](https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Llori Pari](https://open.spotify.com/album/4jG7eBaWlLUjRRS1ajTCJ3) | 3:35 |
+| 87 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 |
 | 88 | [Bebé Que Bien Te Ves](https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:46 |
 | 89 | [A Mi También ft\. Alvaro Diaz, Feid](https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:51 |
 | 90 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 99 | [Hasta Abajo](https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Hasta Abajo](https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1) | 3:49 |
 | 100 | [Me Enamora](https://open.spotify.com/track/1bmm8qIp60aMkozpkPnxNM) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Me Enamora](https://open.spotify.com/album/54eRshVtRKzHwHKGfbRKup) | 3:18 |
 
-Snapshot ID: `MTY1ODg1NjY4NSwwMDAwMDAwMDVlMTcxN2U5YmYxZDQxMzA2ZDc4OGRjNmI3MDVjZDEw`
+Snapshot ID: `MTY1ODg1NjY4NSwwMDAwMDAwMGM3NjBmMTgxZWIzNmYwNWNiY2Y2NjAyYzMyMjI0YzQx`

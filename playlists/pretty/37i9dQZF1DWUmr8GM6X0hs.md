@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,496 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,549 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 9 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
 | 10 | [Inolvidable](https://open.spotify.com/track/4WWYBTpa9J6A7RZht1LtzW) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Tito With Love](https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ) | 3:13 |
 | 11 | [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 |
-| 12 | [Tú Me Haces Falta](https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [La Historia De Jose Feliciano](https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9) | 2:49 |
-| 13 | [En la orilla del mar \(Bolero version\)](https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Cuba: Bienvenido Granda](https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt) | 2:50 |
+| 12 | [En la orilla del mar \(Bolero version\)](https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Cuba: Bienvenido Granda](https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt) | 2:50 |
+| 13 | [Tú Me Haces Falta](https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [La Historia De Jose Feliciano](https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9) | 2:49 |
 | 14 | [El Contragolpe](https://open.spotify.com/track/44qNH2IBVbzLimI97YyJeK) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:33 |
 | 15 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 16 | [Mil Cosas](https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:51 |
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 45 | [Así](https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H) | [Chivirico Davila](https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ) | [Más Recuerdos Románticos](https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV) | 4:38 |
 | 46 | [Que Te Vayas Bien](https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Los Triunfadores de la Rockola](https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw) | 3:00 |
 | 47 | [Amor De Pobre](https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Antología 1960 \- 1990 \(Remastered\)](https://open.spotify.com/album/2xAG4UwtVF0U4rG6xLawfx) | 2:12 |
-| 48 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
-| 49 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
-| 50 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
-| 51 | [Ese Hombre](https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 4:26 |
+| 48 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
+| 49 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
+| 50 | [Ese Hombre](https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 4:26 |
+| 51 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
 | 52 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
 | 53 | [Brujerias](https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:25 |
 | 54 | [Sendas Distintas](https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv) | [Trío Los Brillantes](https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S) | [Época de Oro](https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx) | 3:14 |
 | 55 | [Lo Que Quiera Lola](https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Canta](https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr) | 2:46 |
 | 56 | [Otra Copa](https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:24 |
 | 57 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 |
-| 58 | [Si No Estás para Mi](https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:26 |
-| 59 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
-| 60 | [Acepto Mi Destino](https://open.spotify.com/track/7GbcDRHXyRn1ZEzZWopF0h) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:24 |
+| 58 | [Acepto Mi Destino](https://open.spotify.com/track/7GbcDRHXyRn1ZEzZWopF0h) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:24 |
+| 59 | [Si No Estás para Mi](https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:26 |
+| 60 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDg1ZjliODUwNzgxMjg4MzAwN2FmMTMwMGQ2NGM1MGU1`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMGFjNTg1ZGM2YmI1ODg5MTk1ZjU2MTQ0Mzk4MTI3YzYx`

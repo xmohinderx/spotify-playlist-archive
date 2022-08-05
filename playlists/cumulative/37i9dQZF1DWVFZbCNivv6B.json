@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de La Santa Grifa y Santa Fe Klan.",
+  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de MC Davo.",
   "name": "Arena Hip-Hop",
   "published_playlist_ids": [
     "18GYr3VL7srQ56xnZNWbUP"
@@ -653,10 +653,6 @@
         {
           "name": "Fntxy",
           "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        },
-        {
-          "name": "V.Rod",
-          "url": "https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA"
         }
       ],
       "date_added": "2022-07-29",
@@ -1243,7 +1239,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 147104,
       "name": "El Puente",
       "url": "https://open.spotify.com/track/0AEE29MR3wWP5KHo3wIJiu"
@@ -1745,6 +1741,24 @@
       "duration_ms": 234531,
       "name": "INTACHABLE",
       "url": "https://open.spotify.com/track/2O6eoqVbpjDZ6B3uZrcQRR"
+    },
+    {
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/1h4Z8hvxf9BIlEysjDv6Bv"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181318,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8"
     },
     {
       "album": {

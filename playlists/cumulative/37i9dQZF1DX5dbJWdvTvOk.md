@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-138 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+139 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 |  |
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2022-07-15 |  |
 | [So Close](https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [So Close](https://open.spotify.com/album/6Q4SI5mpUxi0dwms50VNzz) | 3:39 | 2022-07-15 |  |
+| [Solitaria](https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Solitaria](https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF) | 2:16 | 2022-08-05 |  |
 | [Solus](https://open.spotify.com/track/3T8Q3pKqqpyz7E2U3VKiwn) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Solus](https://open.spotify.com/album/05Vck1mdBEKe5cPczGEmcl) | 4:01 | 2022-07-15 |  |
 | [Sombras Brillantes](https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ferreyra](https://open.spotify.com/album/6FHQVK0oq7y3Am6U0sYP7U) | 2:17 | 2022-07-15 |  |
 | [Soneto](https://open.spotify.com/track/44hRQCCOLtV5OnghKRFjqa) | [Jonny Wells](https://open.spotify.com/artist/3y9st5kQGA5SegPTroNQwK) | [Belgian Park](https://open.spotify.com/album/7ji31sf4p8xRHMoPA7o6mH) | 2:49 | 2022-07-15 |  |

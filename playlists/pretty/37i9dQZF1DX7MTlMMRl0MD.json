@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata. Cover: Manuel Turizo",
-  "num_followers": 1816520,
+  "num_followers": 1816728,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODIxNzU0NCwwMDAwMDAwMDkyYjlmYzM2MDIxYzRhZDVlOTI5NDAxODAzYzY2YzY0",
+  "snapshot_id": "MTY1ODIxNzU0NCwwMDAwMDAwMDlmMDU5NmFiZTM1NTA5OWJiN2VjZTQ4Zjg1ZTE5MjBm",
   "tracks": [
     {
       "added_at": "2022-07-19 07:59:04",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "La Historia\u2026Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "Me Voy - Bachata",
-      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
         "name": "atravesao",
         "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200510,
       "name": "atravesao",
       "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
+        "name": "La Historia\u2026Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "Me Voy - Bachata",
+      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/2eIfWmj7khob6SiDVlr5Uo"
+      },
+      "artists": [
+        {
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        }
+      ],
+      "duration_ms": 188055,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/4jCiC3KDKNk1x8y16tupUb"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
         "name": "\u00c9xitos De Yoskar Sarante",
         "url": "https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 259053,
       "name": "Que Cosas Tiene El Amor (feat. Prince Royce)",
       "url": "https://open.spotify.com/track/1sRLHqXAohDI070tWU6QIS"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
-        "name": "Bailando Bachata",
-        "url": "https://open.spotify.com/album/2eIfWmj7khob6SiDVlr5Uo"
-      },
-      "artists": [
-        {
-          "name": "Lirow",
-          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
-        }
-      ],
-      "duration_ms": 188055,
-      "name": "Bailando Bachata",
-      "url": "https://open.spotify.com/track/4jCiC3KDKNk1x8y16tupUb"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "No Es una Novela",
-      "url": "https://open.spotify.com/track/6PqaUk1aS7KXHXBr8iELKb"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
         "name": "Cuando Se Acaba el Placer",
         "url": "https://open.spotify.com/album/1LUcYZ8M4G8mYtvxQIg5wd"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 243540,
       "name": "Cuando Se Acaba el Placer",
       "url": "https://open.spotify.com/track/4PcyHWQiux9kwZ43cUJA9W"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
+        "name": "Exitos Y Mas",
+        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "No Es una Novela",
+      "url": "https://open.spotify.com/track/6PqaUk1aS7KXHXBr8iELKb"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Hasta El Fin",
-        "url": "https://open.spotify.com/album/4iHyju83xno9hKLGfdPs02"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Perdidos - Bachata",
-      "url": "https://open.spotify.com/track/44ayrb3kbN6jwX9WWdoTcV"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/5CSN9MnCDb6upSxFVlQTHU"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
+        "name": "Momentos de Cine",
+        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "duration_ms": 166011,
+      "name": "Ella Baila",
+      "url": "https://open.spotify.com/track/2SpZXqtlhjoivW2dRovLZF"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
         "name": "Pa Que Tu Me Llamas",
         "url": "https://open.spotify.com/album/68BpJtPQwgegYqEp57knQ3"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Bailemos Despacio",
-        "url": "https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje"
+        "name": "Hasta El Fin",
+        "url": "https://open.spotify.com/album/4iHyju83xno9hKLGfdPs02"
       },
       "artists": [
         {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 188691,
-      "name": "Bailemos Despacio",
-      "url": "https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW"
+      "duration_ms": 267600,
+      "name": "Perdidos - Bachata",
+      "url": "https://open.spotify.com/track/44ayrb3kbN6jwX9WWdoTcV"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Momentos de Cine",
-        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+        "name": "Bailemos Despacio",
+        "url": "https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje"
       },
       "artists": [
         {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
         }
       ],
-      "duration_ms": 166011,
-      "name": "Ella Baila",
-      "url": "https://open.spotify.com/track/2SpZXqtlhjoivW2dRovLZF"
+      "duration_ms": 188691,
+      "name": "Bailemos Despacio",
+      "url": "https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Quit\u00e9monos la Ropa (Bachata / Pop)",
-        "url": "https://open.spotify.com/album/6GPawvc6g2tgsUgLE0ivlj"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "Confi\u00e9sale",
-      "url": "https://open.spotify.com/track/6GWWpYCHvXk5RSD02XBq24"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
         "name": "Dime Porque",
         "url": "https://open.spotify.com/album/0rHNWqNDjbVu2EU5XLtUNJ"
       },
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
+        "name": "Quit\u00e9monos la Ropa (Bachata / Pop)",
+        "url": "https://open.spotify.com/album/6GPawvc6g2tgsUgLE0ivlj"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "Confi\u00e9sale",
+      "url": "https://open.spotify.com/track/6GWWpYCHvXk5RSD02XBq24"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
         "name": "Como Duele",
         "url": "https://open.spotify.com/album/5ge3dQLnbFHYb043rtbh5M"
       },
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Traici\u00f3nalo Conmigo",
-        "url": "https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Traici\u00f3nalo Conmigo",
-      "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
         "name": "Este Soy Yo",
         "url": "https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ"
       },
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
+        "name": "Traici\u00f3nalo Conmigo",
+        "url": "https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Traici\u00f3nalo Conmigo",
+      "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
         "name": "Por Tu Culpa",
         "url": "https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7"
       },
@@ -1927,6 +1927,26 @@
       "duration_ms": 201906,
       "name": "Por Tu Culpa",
       "url": "https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
+        "name": "Momentos de Cine",
+        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        },
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 232024,
+      "name": "Contando Minutos",
+      "url": "https://open.spotify.com/track/1tGplKExpp5YI63Qzm5cMA"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1959,26 +1979,6 @@
       "duration_ms": 241874,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/0M9Qr6K4wfoGUDBDgSzXgf"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
-        "name": "Momentos de Cine",
-        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        },
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 232024,
-      "name": "Contando Minutos",
-      "url": "https://open.spotify.com/track/1tGplKExpp5YI63Qzm5cMA"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -2095,18 +2095,18 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Yo Tengo Un Angel",
-        "url": "https://open.spotify.com/album/6J7lnjPKdPcZXvsw6dZWSu"
+        "name": "Momentos de Cine",
+        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
       },
       "artists": [
         {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
         }
       ],
-      "duration_ms": 243500,
-      "name": "Yo Tengo Un Angel",
-      "url": "https://open.spotify.com/track/2Wp00eqjQ0Z9IlE26Ls5yG"
+      "duration_ms": 210527,
+      "name": "Batalla Perdida",
+      "url": "https://open.spotify.com/track/1Nk2GBBfdskHJgEgATcHkz"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -2127,18 +2127,18 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Momentos de Cine",
-        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+        "name": "Yo Tengo Un Angel",
+        "url": "https://open.spotify.com/album/6J7lnjPKdPcZXvsw6dZWSu"
       },
       "artists": [
         {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 210527,
-      "name": "Batalla Perdida",
-      "url": "https://open.spotify.com/track/1Nk2GBBfdskHJgEgATcHkz"
+      "duration_ms": 243500,
+      "name": "Yo Tengo Un Angel",
+      "url": "https://open.spotify.com/track/2Wp00eqjQ0Z9IlE26Ls5yG"
     },
     {
       "added_at": "2022-07-19 07:59:04",

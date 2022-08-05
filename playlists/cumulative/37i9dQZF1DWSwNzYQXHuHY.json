@@ -2130,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199606,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/4MsFyMXOLuH1zGe3Efv1y1"
+    },
+    {
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/1xElVJLMTOAUwbimLH2KD5"
       },
@@ -2305,7 +2323,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"

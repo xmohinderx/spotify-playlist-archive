@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: PURPLE KISS \(퍼플키스\)
 
-305 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
+306 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [I'm so sick](https://open.spotify.com/track/3lSM3Wn3RJbzAAHzJ3sX1f) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/5xP2GsTFLRJCtAwYYaNKWh) | 3:19 | 2021-01-23 | 2022-07-03 |
 | [i'M THE TREND](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i'M THE TREND](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) | 3:25 | 2020-10-13\* | 2022-06-10 |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/60jpDubMmVyR5molJp2TCm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/0J1uiXQshfRtz2R8lgUlQk) | 2:55 | 2020-10-13\* | 2022-06-26 |
+| [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 | 2022-07-25 |  |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-01 | 2022-06-22 |
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2020-10-20 | 2022-07-13 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 |  |
@@ -143,7 +144,7 @@
 | [KILLER](https://open.spotify.com/track/1NMxmQKHCIqbz2QKxd1X2E) | [FAINIT](https://open.spotify.com/artist/2RRJVX5gr6einLIajJdDa5) | [KILLER](https://open.spotify.com/album/2hZEI76bqonuaH7Ew3Opp6) | 3:10 | 2022-06-20 | 2022-06-27 |
 | [KKILI KKILI](https://open.spotify.com/track/2K3ht7XaFNLSoJutz7jEat) | [G\-reyish](https://open.spotify.com/artist/6CNfjsyz9f7M68UH4HryH3) | [Bravo My Trip](https://open.spotify.com/album/6f4SZvzYqh8ZvZaWPaJU16) | 3:02 | 2021-02-27 | 2022-04-18 |
 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 | 2020-10-13\* | 2022-07-11 |
-| [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-07-25 |  |
+| [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-07-25 | 2022-08-05 |
 | [La Luna](https://open.spotify.com/track/211bSRBUn8BeVFjWCd1H0o) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [La Luna](https://open.spotify.com/album/7CQBxDLDkce9zO68YmcVGg) | 3:26 | 2020-10-13\* | 2022-04-15 |
 | [Lady](https://open.spotify.com/track/2WusoL0p5HmFzhR5DLGUVx) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Lady](https://open.spotify.com/album/7hdql29wHs1VTWxmGmm5HV) | 3:10 | 2021-02-27 | 2022-04-20 |
 | [LALALAY 날라리](https://open.spotify.com/track/6sWd8ZAH5bWWyjwb7ZV2Zb) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [LALALAY 날라리](https://open.spotify.com/album/1hgIt7Jq6m1zVfT1TzUQzs) | 2:54 | 2021-02-28 | 2022-07-29 |

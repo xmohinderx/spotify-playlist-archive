@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 4 | [聽見下雨的聲音](https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦 不錯哦](https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH) | 4:39 |
 | 5 | [雨 \(電視劇《以家人之名》插曲\)](https://open.spotify.com/track/1TAm4rdMas92o2vCFQs0vz) | [沈以誠](https://open.spotify.com/artist/1WrIe6XUiiU9KovVimwqpE) | [電視劇《以家人之名》原聲帶](https://open.spotify.com/album/71ycnsCtErHHy5LhhWxrpH) | 3:36 |
 | 6 | [下雨天](https://open.spotify.com/track/1rCKpLcFlEMsohPxWPdmQ1) | [与少年他](https://open.spotify.com/artist/3xcvAsqetqeBCnBKBvjCQE), [芝麻Mochi](https://open.spotify.com/artist/0EG7xDeBfiTY274OAt2rmV) | [下雨天](https://open.spotify.com/album/5vz6yRGaRVLPpwAN3X3EvV) | 4:25 |
-| 7 | [淋雨一直走](https://open.spotify.com/track/0FRq4baOBB6AYt22dxbU3Y) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [有形的翅膀](https://open.spotify.com/album/7mItsCAesKNwqLuO1R7AYM) | 3:24 |
-| 8 | [滯留鋒](https://open.spotify.com/track/4lMNnQmrG15MzxbFXECbCy) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/6cHxc7xRPejbtlr0VfOgxJ) | 5:07 |
+| 7 | [滯留鋒](https://open.spotify.com/track/4lMNnQmrG15MzxbFXECbCy) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/6cHxc7xRPejbtlr0VfOgxJ) | 5:07 |
+| 8 | [淋雨一直走](https://open.spotify.com/track/0FRq4baOBB6AYt22dxbU3Y) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [有形的翅膀](https://open.spotify.com/album/7mItsCAesKNwqLuO1R7AYM) | 3:24 |
 | 9 | [雨天](https://open.spotify.com/track/5tZbcQ5PYID0xB0VNblmrK) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [My Story 2006 新歌+精選](https://open.spotify.com/album/0CJT0kDrNaiSkzFp7DI98g) | 4:01 |
 | 10 | [晴天雨天](https://open.spotify.com/track/1AzQjh998Ha3YKhVsUMnd5) | [唐貓 SUGARCAT](https://open.spotify.com/artist/4aWERTpHN8Z4OEtq9hcLR9) | [晴天雨天](https://open.spotify.com/album/5df0AO6gNJBe5KvX4C3tKw) | 3:47 |
 | 11 | [雨下一整晚](https://open.spotify.com/track/1wAiIIAskptjT45tgR35ad) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:14 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 35 | [寫給雨天的歌](https://open.spotify.com/track/0TTqTxpQLrlKyfjgtowNgP) | [Summer Lei](https://open.spotify.com/artist/1oA59f4Muicrwf7QY5nDqV) | [不想忘記的聲音](https://open.spotify.com/album/1G8hk2VOuuurxdrTpb2rju) | 3:50 |
 | 36 | [妳還怕大雨嗎 \- 國語](https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN) | [Pakho Chau](https://open.spotify.com/artist/38t0Qk7AJg7YdrXmOC6TH1) | [8](https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD) | 4:14 |
 | 37 | [冬季到台北來看雨](https://open.spotify.com/track/1ABqZnAkbrJ2m4xyVdDR9y) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [我看見的世界](https://open.spotify.com/album/50A7MTR8Qw3gPz4rLphCk2) | 3:45 |
-| 38 | [雨水一盒](https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [時間的歌](https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO) | 4:49 |
-| 39 | [雨眠](https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [愛情萬歲](https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi) | 3:42 |
+| 38 | [雨眠](https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [愛情萬歲](https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi) | 3:42 |
+| 39 | [雨水一盒](https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [時間的歌](https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO) | 4:49 |
 | 40 | [雨还是不停地落下](https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [克卜勒](https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn) | 4:49 |
 | 41 | [黑風暴雨](https://open.spotify.com/track/4aERDhzOp02MSlYVzUh2I5) | [Ronald Cheng](https://open.spotify.com/artist/66FF9LF0uO3W1zxEN0m8uN) | [怪胎](https://open.spotify.com/album/5EtVeNXucxhZvlz7v8wf7r) | 4:23 |
 | 42 | [被雨傷透 \- 幾米音樂劇「向左走,向右走」歌曲](https://open.spotify.com/track/5DzWobny6yP1EzeO9KbqER) | [Dawen Wang](https://open.spotify.com/artist/550OPGAeMz9GF9mkZRL6d3), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [被雨傷透 \(幾米音樂劇「向左走,向右走」歌曲\)](https://open.spotify.com/album/2gpk0phoZ6Vf4jrw4lPgVl) | 4:12 |
-| 43 | [微雨](https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy) | [邵雨薇](https://open.spotify.com/artist/05PoS1s7QgQDp202WsZ8SP) | [微雨](https://open.spotify.com/album/43wEkgik29K31WN42WmlRr) | 3:53 |
-| 44 | [大雨過後](https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h) | [貝克小姐Miss Bac.](https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK) | [大雨過後](https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm) | 4:07 |
+| 43 | [大雨過後](https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h) | [貝克小姐Miss Bac.](https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK) | [大雨過後](https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm) | 4:07 |
+| 44 | [微雨](https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy) | [邵雨薇](https://open.spotify.com/artist/05PoS1s7QgQDp202WsZ8SP) | [微雨](https://open.spotify.com/album/43wEkgik29K31WN42WmlRr) | 3:53 |
 | 45 | [茉莉雨](https://open.spotify.com/track/46PzflyM0fehl0AtZutikH) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:16 |
 | 46 | [下雨的時候會想你](https://open.spotify.com/track/2P5Uv7JoJSrSQLXpVsN8kP) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [哈囉](https://open.spotify.com/album/7BL07XyqJqNjv2HU3lK7zr) | 4:35 |
 | 47 | [西窗的雨](https://open.spotify.com/track/3H4SYYPnK2hkBtNDG0O6i3) | [好妹妹](https://open.spotify.com/artist/55WwHAHZZasWq8QM0LF5JR) | [西窗](https://open.spotify.com/album/15KBlwp8Ism6KoUQxRHNQd) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 49 | [雨後彩虹](https://open.spotify.com/track/035sykvGT6Muyog0Q7vMoP) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [雨後彩虹](https://open.spotify.com/album/0XNniKwaB8cHEFA17gyxpg) | 3:27 |
 | 50 | [SINGING IN THE RAIN](https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [SINGING IN THE RAIN](https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70) | 3:48 |
 
-Snapshot ID: `MTYzNzU1MTY2MywwMDAwMDAwMGRjNGExMjdkZGE2MzQ2ZjE4NGI0ZGU1ODIzZGIxODA0`
+Snapshot ID: `MTYzNzU1MTY2MywwMDAwMDAwMDM1MjEyYWVkNGM2NjJmYTJiNTZhNGJiOGQ2Nzc4MmZh`

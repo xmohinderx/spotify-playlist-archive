@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón!
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,249 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,377 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,21 +80,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 70 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 |
 | 71 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 |
 | 72 | [Cosas Del Amor](https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:45 |
-| 73 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
+| 73 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
 | 74 | [El Perdedor](https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [Tambo Tambo](https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4) | 4:24 |
 | 75 | [La Tengo Que Olvidar](https://open.spotify.com/track/6EFt4egCAPQOU95A18V5F6) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero 2000](https://open.spotify.com/album/6ClFgIBXkUyzem001BPj6P) | 3:43 |
 | 76 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 |
 | 77 | [Hoy Quiero Verte](https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Hoy Quiero Verte](https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX) | 3:19 |
 | 78 | [Costumbres](https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Éxitos de Oro](https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A) | 3:26 |
 | 79 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 |
-| 80 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
+| 80 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 | 81 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 |
 | 82 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
 | 83 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
 | 84 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
 | 85 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
-| 86 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
-| 87 | [Indiferente](https://open.spotify.com/track/7G00AWh0XZS09lrMdpEcE2) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Y Amigos](https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq) | 3:01 |
+| 86 | [Indiferente](https://open.spotify.com/track/7G00AWh0XZS09lrMdpEcE2) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Y Amigos](https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq) | 3:01 |
+| 87 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
 | 88 | [Yo Me Estoy Enamorando](https://open.spotify.com/track/6ndtFs90yTcAghotHwP6TN) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [La Gata](https://open.spotify.com/album/00oXPHfuBNr2qDN7ORn6YP) | 3:51 |
 | 89 | [Qué Me Van a Hablar de Amor](https://open.spotify.com/track/4Hfya8nJI7KFIdWEtniMte) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Amor y Vida](https://open.spotify.com/album/74fb3iRHnLuIrCzKWSj58X) | 4:03 |
 | 90 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 99 | [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 |
 | 100 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 
-Snapshot ID: `MTY1ODUwMjI2NiwwMDAwMDAwMDEzOTcwZDlhMGI3ODU0ZjY0NWY4ODdiNzk2NjFmMjJj`
+Snapshot ID: `MTY1ODUwMjI2NiwwMDAwMDAwMDZjZTIxZTk4MDFiYjhiNWFhMDBiOGJlNTk3Yzk0NWRl`

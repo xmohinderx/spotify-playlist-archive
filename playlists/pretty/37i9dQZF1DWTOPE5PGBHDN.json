@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 72375,
+  "num_followers": 72516,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDE5NDE3YTNiNmI5YTAzZjZjNTdkZTI0Mjc1YzcxNWI3",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDEyN2NjNDVjYzFlZTM2MjgzYzBkNzdjMjc1NTMwNzY2",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "TKN (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -663,6 +663,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Quiere Beber",
+      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "LOST",
         "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 259600,
       "name": "Jangueo",
       "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "Quiere Beber",
-      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Te Quemaste",
+      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Morado",
         "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 178407,
       "name": "Singapur",
       "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Te Quemaste",
-      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1327,6 +1327,50 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "4K",
+        "url": "https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "4K",
+      "url": "https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 215459,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
@@ -1371,50 +1415,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 215459,
-      "name": "Whine Up",
-      "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "4K",
-        "url": "https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "4K",
-      "url": "https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 233000,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1543,6 +1527,22 @@
       "duration_ms": 200693,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7BuSE9uTIw931wtZYzvZcQ"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2020-07-02 17:35:53",

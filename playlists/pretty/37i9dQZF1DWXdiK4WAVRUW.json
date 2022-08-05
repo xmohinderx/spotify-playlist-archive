@@ -1,12 +1,12 @@
 {
   "description": "The most memorable country hits from the 2010s. Cover: Chris Stapleton",
-  "num_followers": 305664,
+  "num_followers": 306096,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcwMzMwMSwwMDAwMDAwMDkwYmJkM2Y2ZDdhZDk3Mzg3N2ZhNTQ1MjA3MWMyMDg3",
+  "snapshot_id": "MTY1ODcwMzMwMSwwMDAwMDAwMDI3MmIzZGU1YWZiZDdiN2M0ODZlN2MzYzZiMTkzZGIx",
   "tracks": [
     {
       "added_at": "2022-07-24 22:55:01",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 227426,
       "name": "Die A Happy Man",
       "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "We Are Tonight",
-        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
       "artists": [
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 232106,
-      "name": "We Are Tonight",
-      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
+      "duration_ms": 184080,
+      "name": "Written in the Sand",
+      "url": "https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+        "name": "We Are Tonight",
+        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Written in the Sand",
-      "url": "https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn"
+      "duration_ms": 232106,
+      "name": "We Are Tonight",
+      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Hotel Key",
+      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Hotel Key",
-      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Pontoon",
-      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 190733,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Pontoon",
+      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 236865,
-      "name": "I Want Crazy - Encore",
-      "url": "https://open.spotify.com/track/4FkgULes13bk2eHrsJg4q9"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 169920,
       "name": "All To Myself",
       "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 236865,
+      "name": "I Want Crazy - Encore",
+      "url": "https://open.spotify.com/track/4FkgULes13bk2eHrsJg4q9"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Ticket To L.A.",
-        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 196440,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
+      "duration_ms": 253933,
+      "name": "From the Ground Up",
+      "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
+        "name": "Ticket To L.A.",
+        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 253933,
-      "name": "From the Ground Up",
-      "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
+      "duration_ms": 196440,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Everywhere But On",
         "url": "https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO"
       },
@@ -2231,18 +2215,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Days of Gold",
-        "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Beachin'",
-      "url": "https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU"
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2259,6 +2243,22 @@
       "duration_ms": 215120,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Days of Gold",
+        "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Beachin'",
+      "url": "https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Two Lanes Of Freedom",
         "url": "https://open.spotify.com/album/1O3BsjGx9plSOJ036ZY4Fl"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 276880,
       "name": "Highway Don't Care",
       "url": "https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
         }
       ],
-      "duration_ms": 176893,
-      "name": "No Such Thing as a Broken Heart",
-      "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
+      "duration_ms": 301986,
+      "name": "A Little Bit Stronger",
+      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
       "artists": [
         {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 301986,
-      "name": "A Little Bit Stronger",
-      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+      "duration_ms": 176893,
+      "name": "No Such Thing as a Broken Heart",
+      "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "American Saturday Night",
         "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 321640,
       "name": "Then",
       "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
     },
     {
       "added_at": "2022-07-24 22:55:01",

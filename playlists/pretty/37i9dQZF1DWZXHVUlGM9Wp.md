@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > Keep on skating to the groovy boogie apt for skating
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,936 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,196 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 25 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 26 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 27 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
-| 28 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 |
-| 29 | [Messages from the Stars](https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Going Up](https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f) | 4:14 |
+| 28 | [Messages from the Stars](https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Going Up](https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f) | 4:14 |
+| 29 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 |
 | 30 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
 | 31 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 32 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 71 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 |
 | 72 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 4:32 |
 | 73 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
-| 74 | [Kiss It Better \- KAYTRANADA Edition](https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 5:25 |
-| 75 | [Oh Sheit it's X](https://open.spotify.com/track/6EidGY4S6hkU6fwNdSSabg) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Apocalypse](https://open.spotify.com/album/2qqVy8a4qk9FCt00hal9vl) | 3:47 |
+| 74 | [Oh Sheit it's X](https://open.spotify.com/track/6EidGY4S6hkU6fwNdSSabg) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Apocalypse](https://open.spotify.com/album/2qqVy8a4qk9FCt00hal9vl) | 3:47 |
+| 75 | [Kiss It Better \- KAYTRANADA Edition](https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 5:25 |
 
-Snapshot ID: `MTY1ODk1NTg4NywwMDAwMDAwMGYxNGFjYWVhNDE3OWM3NTZiNWU1OGFjM2Q1NmY0MzRj`
+Snapshot ID: `MTY1ODk1NTg4NywwMDAwMDAwMDZlMDEzODlkNGJhOGMzZGNkNjIzZTk4MTg4MmRkMzlm`

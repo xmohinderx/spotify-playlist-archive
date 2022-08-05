@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 
 > The soundtrack of the Summer 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,944 likes - 52 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,965 likes - 52 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 18 | [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
 | 19 | [Green Green Grass](https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass](https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC) | 2:47 |
 | 20 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 |
-| 21 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
-| 22 | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 |
+| 21 | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 |
+| 22 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 | 23 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 |
 | 24 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
 | 25 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 37 | [Friendships \(Lost My Love\)](https://open.spotify.com/track/3tzR2HUk6FAGaXzkrXZpQj) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Friendships \(Lost My Love\)](https://open.spotify.com/album/2jxal1leCfQeW9udq79xgK) | 3:02 |
 | 38 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 |
 | 39 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
-| 40 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 |
-| 41 | [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 |
+| 40 | [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 |
+| 41 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 |
 | 42 | [Hair Toss, Arms Crossed](https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hair Toss, Arms Crossed](https://open.spotify.com/album/62v8uC7bm0dN0FXvkSen7z) | 2:37 |
 | 43 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
 | 44 | [Trompeta](https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns) | 2:48 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 51 | [Let Somebody Go \- Ofenbach Remix](https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Let Somebody Go \(Ofenbach Remix\)](https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN) | 3:14 |
 | 52 | [Getting Better](https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:46 |
 
-Snapshot ID: `MTY1NjYyNjUyMCwwMDAwMDAwMDQ1Zjc3MWRkOTM0NTNjNWJmZjlkZjgyM2E3MWQ0ZjJh`
+Snapshot ID: `MTY1NjYyNjUyMCwwMDAwMDAwMGI1OTQyYWU0MDRkNWM0YmUzZmU0NjU3ZGYzMjFmOTBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,109 likes - 133 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,170 likes - 133 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 49 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 |
 | 50 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 |
 | 51 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
-| 52 | [Waterloo Sunset \- Mono Mix](https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe Edition\)](https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR) | 3:14 |
-| 53 | [Barbara Ann](https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Spirit Of America](https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH) | 2:13 |
+| 52 | [Barbara Ann](https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Spirit Of America](https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH) | 2:13 |
+| 53 | [Waterloo Sunset \- Mono Mix](https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe Edition\)](https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR) | 3:14 |
 | 54 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
 | 55 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
 | 56 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
@@ -100,10 +100,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 90 | [River Deep \- Mountain High](https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 4:04 |
 | 91 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 |
 | 92 | [Viva Las Vegas \(Bonus Track\)](https://open.spotify.com/track/6qNY8xr8GNcvskh5GkVS7b) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 2:24 |
-| 93 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
-| 94 | [Ain't That A Kick In The Head](https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Capitol Years](https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI) | 2:25 |
-| 95 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 |
-| 96 | [My Boy Lollipop](https://open.spotify.com/track/5IM6psLoDLytszopZz9ZOm) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [My Boy Lollipop: The Best Of Millie Small](https://open.spotify.com/album/18Qjvcq1V56GELsTi4fIdS) | 2:00 |
+| 93 | [Ain't That A Kick In The Head](https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Capitol Years](https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI) | 2:25 |
+| 94 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
+| 95 | [My Boy Lollipop](https://open.spotify.com/track/5IM6psLoDLytszopZz9ZOm) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [My Boy Lollipop: The Best Of Millie Small](https://open.spotify.com/album/18Qjvcq1V56GELsTi4fIdS) | 2:00 |
+| 96 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 |
 | 97 | [The Twist](https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Best Of Chubby Checker 1959\-1963](https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA) | 2:33 |
 | 98 | [Speedy Gonzales](https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:33 |
 | 99 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 132 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
 | 133 | [I Want To Hold Your Hand \- Remastered 2009](https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:26 |
 
-Snapshot ID: `MTY1OTM0MTM0NywwMDAwMDAwMDNiZGFmZTMzNGIxNDc5ZmVhYjNkOWEwMjgyYjlhYzVl`
+Snapshot ID: `MTY1OTM0MTM0NywwMDAwMDAwMDZiYjdmMmZkYzczMTk3ZDQ3ZjAzZGViMTMwZTE0ODky`

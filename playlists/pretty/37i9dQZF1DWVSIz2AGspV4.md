@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,636 likes - 52 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,660 likes - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 32 | [Kolshy Ma Bayha](https://open.spotify.com/track/17bI0GhEjP59OHu4yuYjst) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Kolshy Ma Bayha](https://open.spotify.com/album/58XqFD7G0i5cMDbFqnkqmH) | 3:24 |
 | 33 | [Raah Anam](https://open.spotify.com/track/7zxuNEe1gUJGnCN4p30UMf) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Raah Anam](https://open.spotify.com/album/2i7RxBm480Zc6g6FHYc2SE) | 3:15 |
 | 34 | [Kemt Akrahak](https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Kemt Akrahak](https://open.spotify.com/album/5E2oPXxKJgutwwKQrwQftZ) | 3:58 |
-| 35 | [Tektbli W Aktblk](https://open.spotify.com/track/3WA0CwoDzefz4psnqrnM1I) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5) | [Tektbli W Aktblk](https://open.spotify.com/album/0vcGkTrQqdI2Zdb6PaJGyw) | 3:36 |
+| 35 | [Tektbli W Aktblk](https://open.spotify.com/track/3WA0CwoDzefz4psnqrnM1I) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Tektbli W Aktblk](https://open.spotify.com/album/0vcGkTrQqdI2Zdb6PaJGyw) | 3:36 |
 | 36 | [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 |
 | 37 | [Waiak](https://open.spotify.com/track/6iJ9ROZDjbvKBr8cdrVNiF) | [Haitham Yusuf](https://open.spotify.com/artist/02zgHwO8Mwq86RTuXL3JXQ) | [Waiak](https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y) | 4:37 |
 | 38 | [Al Kaaen Al Khyali](https://open.spotify.com/track/0EMIL4R3HQyZkCnIw8DT07) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Al Kaaen Al Khyali](https://open.spotify.com/album/2V5GC1ERTCwPPxcvkZEqHl) | 2:37 |

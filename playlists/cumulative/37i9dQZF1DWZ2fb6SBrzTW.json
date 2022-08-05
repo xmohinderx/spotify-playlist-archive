@@ -1018,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "Gettin' Hot",
+        "url": "https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0"
+      },
+      "artists": [
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Gettin' Hot",
+      "url": "https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ"
+    },
+    {
+      "album": {
         "name": "GIMME DAT",
         "url": "https://open.spotify.com/album/6pp3as7e8WOdjYCxLPgIyd"
       },
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 190839,
       "name": "Kuacha",
       "url": "https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7"

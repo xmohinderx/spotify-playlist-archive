@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,125 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,180 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 20 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
 | 21 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 |
 | 22 | [Clube Da Esquina Nº 2](https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:38 |
-| 23 | [Unguarded Travelin'](https://open.spotify.com/track/4OYS4H9fVFGK87WtC32qmL) | [Koti6](https://open.spotify.com/artist/0son6uK60FSd5ZlXyKLplp) | [Unguarded Travelin'](https://open.spotify.com/album/1LxN2StJXIuiYLFNvrMv7t) | 2:49 |
+| 23 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
 | 24 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 |
-| 25 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
-| 26 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
+| 25 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
+| 26 | [Unguarded Travelin'](https://open.spotify.com/track/4OYS4H9fVFGK87WtC32qmL) | [Koti6](https://open.spotify.com/artist/0son6uK60FSd5ZlXyKLplp) | [Unguarded Travelin'](https://open.spotify.com/album/1LxN2StJXIuiYLFNvrMv7t) | 2:49 |
 | 27 | [Right Right Right](https://open.spotify.com/track/6L7bf5DjI6xolumK6fkMwL) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Right Right Right](https://open.spotify.com/album/11dyjZEqT2IYvosQUqnYG4) | 7:25 |
 | 28 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
 | 29 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
 | 30 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
-| 31 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
-| 32 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
+| 31 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
+| 32 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 33 | [Waende](https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Waende](https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc) | 3:52 |
 | 34 | [Being Here](https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Shadow Work](https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc) | 1:27 |
 | 35 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 46 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
 | 47 | [Timeless](https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 11:57 |
 | 48 | [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 |
-| 49 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
-| 50 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
+| 49 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
+| 50 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
 
-Snapshot ID: `MTY1OTQ5NjQwMywwMDAwMDAwMDljMWM0OGU4ZGRkODZhNGEwNGMyM2M2NTI1MDQ1Nzlm`
+Snapshot ID: `MTY1OTQ5NjQwMywwMDAwMDAwMDMwMzUyZWJiNDgzNjYxZTZmMTAwNTY1MzQyY2FhZDkx`

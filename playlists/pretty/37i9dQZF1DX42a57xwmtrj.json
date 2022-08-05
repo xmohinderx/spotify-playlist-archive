@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
-  "num_followers": 115621,
+  "num_followers": 115681,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDY3YjQ0YmYwODQ5YmJjNGE2MjQ3ZDY5N2FmZDE3MDhl",
+  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDA2OGM0NTc3ZmVkNGYyNzU2YTdmNWZlZTM1NDEzNjlk",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Sue\u00f1os y Realidades",
         "url": "https://open.spotify.com/album/3deMLK3jyBbI4LfAyBo3Qo"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 281480,
       "name": "Toda la Noche",
       "url": "https://open.spotify.com/track/5AdH7YPhpK5zUz5Buz08zF"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
-      },
-      "artists": [
-        {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "No Todo Es Oro",
-      "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Entre \u00c1ngeles y Poetas",
         "url": "https://open.spotify.com/album/20GZvLSomrpPTQwUPQv5bi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 253013,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+      },
+      "artists": [
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "No Todo Es Oro",
+      "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
     },
     {
       "added_at": "2020-11-13 06:01:00",

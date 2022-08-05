@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > A collection of the best metal ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,062 likes - 110 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060,523 likes - 110 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 73 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 74 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
 | 75 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 5:24 |
-| 76 | [Wasted Time](https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 5:48 |
-| 77 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
+| 76 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
+| 77 | [Wasted Time](https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 5:48 |
 | 78 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
 | 79 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 80 | [Blue on Black](https://open.spotify.com/track/1ADRAy7q7FjRak0uQva68H) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 4:34 |
@@ -105,18 +105,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 95 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
 | 96 | [Heart of Steel](https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 5:10 |
 | 97 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
-| 98 | [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 |
+| 98 | [Planet Caravan](https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:03 |
 | 99 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
-| 100 | [Planet Caravan](https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:03 |
+| 100 | [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 |
 | 101 | [You're All I Need \- 2021 \- Remaster](https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(40th Anniversary\) \[2021 \- Remaster\]](https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0) | 4:33 |
-| 102 | [Wuthering Heights](https://open.spotify.com/track/18d4wrjIe06xx5O5b7OfAu) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Angels Cry](https://open.spotify.com/album/1VYp1m8Eo4AApycV8S44a7) | 4:39 |
-| 103 | [Blood And Tears](https://open.spotify.com/track/1Gt07aYIpl5yJcTbH95s7v) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig II: Lucifuge](https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS) | 4:19 |
+| 102 | [Blood And Tears](https://open.spotify.com/track/1Gt07aYIpl5yJcTbH95s7v) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig II: Lucifuge](https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS) | 4:19 |
+| 103 | [Wuthering Heights](https://open.spotify.com/track/18d4wrjIe06xx5O5b7OfAu) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Angels Cry](https://open.spotify.com/album/1VYp1m8Eo4AApycV8S44a7) | 4:39 |
 | 104 | [Guns Are Loaded](https://open.spotify.com/track/2SZF3qH7XF7205oNaeEs49) | [Daron Malakian and Scars On Broadway](https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi) | [Dictator](https://open.spotify.com/album/4cUVZzT8zNBkHjBfd4WiWS) | 4:16 |
-| 105 | [Set Me Free](https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Set Me Free](https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9) | 6:21 |
-| 106 | [Life Eternal](https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:27 |
+| 105 | [Life Eternal](https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:27 |
+| 106 | [Set Me Free](https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Set Me Free](https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9) | 6:21 |
 | 107 | [Lazarus](https://open.spotify.com/track/0OtXJQBLb7wPXL2XyN2cFW) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Deadwing](https://open.spotify.com/album/2oQE67Gnc1GoMqoumvjPwN) | 4:18 |
-| 108 | [Rebirth](https://open.spotify.com/track/1hEVuE88R6SC3Q8ogis00B) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Rebirth](https://open.spotify.com/album/2ruinOPJ9p66TuwYUoOANI) | 5:17 |
-| 109 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
-| 110 | [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 |
+| 108 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
+| 109 | [Rebirth](https://open.spotify.com/track/1hEVuE88R6SC3Q8ogis00B) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Rebirth](https://open.spotify.com/album/2ruinOPJ9p66TuwYUoOANI) | 5:17 |
+| 110 | [I Still Love You](https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 6:06 |
 
-Snapshot ID: `MTY1MDA0NDY0OSwwMDAwMDAwMGM2OTQ1MTIwN2QwODM5OThhZmZkMzhkMTM3OWQ0MzMw`
+Snapshot ID: `MTY1MDA0NDY0OSwwMDAwMDAwMDliYTM3ZDI2ZDhjZmI4NzkyNmNjODUxYTBkYjhlMTMx`

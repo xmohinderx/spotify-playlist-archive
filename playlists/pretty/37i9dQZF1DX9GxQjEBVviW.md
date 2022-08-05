@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,065 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,124 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 10 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
 | 11 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
 | 12 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
-| 13 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
-| 14 | [Down in Mexico](https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 3:16 |
+| 13 | [Down in Mexico](https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 3:16 |
+| 14 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
 | 15 | [The Book of Love](https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Who Wrote The Book Of Love? \[Digital Version\]](https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV) | 2:18 |
 | 16 | [Heart And Soul](https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:17 |
 | 17 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 21 | [Sincerely](https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [The Best Of Bobby Lester And The Moonglows](https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8) | 3:09 |
 | 22 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
 | 23 | [Goin' Out Of My Head](https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Goin' Out Of My Head](https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK) | 2:29 |
-| 24 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
-| 25 | [Whispering Bells](https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5), [Krips Johnson](https://open.spotify.com/artist/1HaB4OY2BLW2ve9FHAwMRZ) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:24 |
+| 24 | [Whispering Bells](https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5), [Krips Johnson](https://open.spotify.com/artist/1HaB4OY2BLW2ve9FHAwMRZ) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:24 |
+| 25 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
 | 26 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
 | 27 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
 | 28 | [Silhouettes](https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD) | [The Rays](https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv) | [Presenting The Rays](https://open.spotify.com/album/32Jl14rurUEKvm8iRuDqoS) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Poison Ivy \- 2007 Remaster; Remastered](https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:44 |
 | 50 | [Zoom Zoom Zoom](https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw) | [The Collegians](https://open.spotify.com/artist/6l5YiEwurRr8zsnOyhJB4g) | [Zoom Zoom Zoom \- Single](https://open.spotify.com/album/1P3tvYyZ40LS5DhAJASjfn) | 2:29 |
 
-Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDdmNzBlMmRmYzVkMWM3M2Y5MWNmOWJkY2JlYWNhYjU2`
+Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDkxYzhhZjdhZTZhNTE3MGQ0NTViMTA1MzBiNTI4ZjJk`

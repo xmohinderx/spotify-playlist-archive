@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Beyonc\u00e9.",
-  "num_followers": 396597,
+  "num_followers": 396786,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTExODk2MiwwMDAwMDAwMDNlYTdjMTUxMGFjMDIwMmI5MjZkODU4NzNiNTM3YWQ4",
+  "snapshot_id": "MTY1OTExODk2MiwwMDAwMDAwMDFlMzBkZmNiN2NiZTk5ZDk5NmUwY2E0MjI4YzNkNzRi",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -555,30 +555,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Superstars",
-        "url": "https://open.spotify.com/album/3GahNbth3Pt8Txu3kIXl4A"
-      },
-      "artists": [
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Kid Vincent",
-          "url": "https://open.spotify.com/artist/6p2OJnQ2LD6Yp58rUULMle"
-        }
-      ],
-      "duration_ms": 177376,
-      "name": "Superstars",
-      "url": "https://open.spotify.com/track/3Nsa1lYqkuyQwFcSjG9xPj"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Running To You (feat. Caden)",
         "url": "https://open.spotify.com/album/3pew3ehm1DOu5HONPx4LhJ"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 183090,
       "name": "Running To You (feat. Caden)",
       "url": "https://open.spotify.com/track/3zc9SflSDf8EnFc7NNoqO9"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Superstars",
+        "url": "https://open.spotify.com/album/3GahNbth3Pt8Txu3kIXl4A"
+      },
+      "artists": [
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Kid Vincent",
+          "url": "https://open.spotify.com/artist/6p2OJnQ2LD6Yp58rUULMle"
+        }
+      ],
+      "duration_ms": 177376,
+      "name": "Superstars",
+      "url": "https://open.spotify.com/track/3Nsa1lYqkuyQwFcSjG9xPj"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Maria Maria",
         "url": "https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 195068,
       "name": "Maria Maria",
       "url": "https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "I Do (Vandelux Remix)",
-        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 196558,
-      "name": "I Do - Vandelux Remix",
-      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Seven Letters",
         "url": "https://open.spotify.com/album/4gHDvzDB9HgU4EuhH8qCVv"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 165517,
       "name": "Seven Letters",
       "url": "https://open.spotify.com/track/2yy2Ya5RSyrE7vs2qsVsMG"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "I Do (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 196558,
+      "name": "I Do - Vandelux Remix",
+      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 448057,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Saturday Love",
         "url": "https://open.spotify.com/album/5s3xUOBWNhBFVHcWvK29hG"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 264910,
       "name": "Saturday Love",
       "url": "https://open.spotify.com/track/3qvZ6QHw87cICfcIqJjMjm"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 448057,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Needless",
+        "url": "https://open.spotify.com/album/34inHiKZWoWXZ3XAsZMGhO"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Needless",
+      "url": "https://open.spotify.com/track/1TKxmDwCr7tloqmTWG7zlO"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Two Rivers",
         "url": "https://open.spotify.com/album/4dTY6TQld6GGgS9aNT0AAV"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 190657,
       "name": "Two Rivers",
       "url": "https://open.spotify.com/track/3mdLBmFskieYOyq8c4tPEe"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Needless",
-        "url": "https://open.spotify.com/album/34inHiKZWoWXZ3XAsZMGhO"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Needless",
-      "url": "https://open.spotify.com/track/1TKxmDwCr7tloqmTWG7zlO"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Summer & Smoke",
-        "url": "https://open.spotify.com/album/7wMBYZjX48j24rDgMuBdmz"
+        "name": "Mucho Tiempo",
+        "url": "https://open.spotify.com/album/144tzxsJOE8473sAmCAeNB"
       },
       "artists": [
         {
-          "name": "Cubicolor",
-          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Marco Tropeano",
+          "url": "https://open.spotify.com/artist/1Iduln9qYbj41kvHf9yDJb"
         }
       ],
-      "duration_ms": 294146,
-      "name": "Summer & Smoke - Edit",
-      "url": "https://open.spotify.com/track/4JOL6kQLqfzdZPjV29T2GW"
+      "duration_ms": 200610,
+      "name": "Mucho Tiempo",
+      "url": "https://open.spotify.com/track/58R6Ua18hdDJ7576ugCEE0"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Mucho Tiempo",
-        "url": "https://open.spotify.com/album/144tzxsJOE8473sAmCAeNB"
+        "name": "Summer & Smoke",
+        "url": "https://open.spotify.com/album/7wMBYZjX48j24rDgMuBdmz"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        },
-        {
-          "name": "Marco Tropeano",
-          "url": "https://open.spotify.com/artist/1Iduln9qYbj41kvHf9yDJb"
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
         }
       ],
-      "duration_ms": 200610,
-      "name": "Mucho Tiempo",
-      "url": "https://open.spotify.com/track/58R6Ua18hdDJ7576ugCEE0"
+      "duration_ms": 294146,
+      "name": "Summer & Smoke - Edit",
+      "url": "https://open.spotify.com/track/4JOL6kQLqfzdZPjV29T2GW"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/41CodDANPLmQrst12l1MAI"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 261678,
       "name": "NECTA_pholo (V.5)",
       "url": "https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1664,29 +1664,9 @@
           "url": "https://open.spotify.com/artist/5imUnnLq1VEfLuuRoUmL3M"
         }
       ],
-      "duration_ms": 163928,
+      "duration_ms": 163869,
       "name": "Promise",
       "url": "https://open.spotify.com/track/46p1YC6uJ95Cvlkmcmaw0c"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Waste My Love (feat. Georgi Kay)",
-        "url": "https://open.spotify.com/album/18Otr1XRIsD6HkVNvdCIUE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Shepherd",
-          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
-        },
-        {
-          "name": "Georgi Kay",
-          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "Waste My Love (feat. Georgi Kay)",
-      "url": "https://open.spotify.com/track/2lQb0fKNvxhsWBD4Jbo5mk"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1723,6 +1703,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Waste My Love (feat. Georgi Kay)",
+        "url": "https://open.spotify.com/album/18Otr1XRIsD6HkVNvdCIUE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "Waste My Love (feat. Georgi Kay)",
+      "url": "https://open.spotify.com/track/2lQb0fKNvxhsWBD4Jbo5mk"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Dense Metaverse",
         "url": "https://open.spotify.com/album/7teNbjdosS30JB38wjG15Y"
       },
@@ -1735,6 +1735,22 @@
       "duration_ms": 341974,
       "name": "Dense Metaverse",
       "url": "https://open.spotify.com/track/6HgUNScygasBr2xtbTpueF"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Be Alone",
+        "url": "https://open.spotify.com/album/3uJSExTkMdZOcPyIm79gGm"
+      },
+      "artists": [
+        {
+          "name": "The First Station",
+          "url": "https://open.spotify.com/artist/3yQP3LX8hoBRipj8eK7xmE"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "Be Alone",
+      "url": "https://open.spotify.com/track/02uzdI5FdhcryTTAkCdB4y"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1755,18 +1771,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Be Alone",
-        "url": "https://open.spotify.com/album/3uJSExTkMdZOcPyIm79gGm"
+        "name": "Moonshine River",
+        "url": "https://open.spotify.com/album/46emIKPmmmvWQo0I2aymNq"
       },
       "artists": [
         {
-          "name": "The First Station",
-          "url": "https://open.spotify.com/artist/3yQP3LX8hoBRipj8eK7xmE"
+          "name": "Just Kiddin",
+          "url": "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
+        },
+        {
+          "name": "DiRTY RADiO",
+          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
         }
       ],
-      "duration_ms": 177049,
-      "name": "Be Alone",
-      "url": "https://open.spotify.com/track/02uzdI5FdhcryTTAkCdB4y"
+      "duration_ms": 147675,
+      "name": "Moonshine River",
+      "url": "https://open.spotify.com/track/1xMuxIzt8CmjXTWYZvcNzA"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1823,26 +1843,6 @@
       "duration_ms": 343125,
       "name": "Blinded - Colyn Remix",
       "url": "https://open.spotify.com/track/0Wcfakqooekr3zdhN9NgM1"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Moonshine River",
-        "url": "https://open.spotify.com/album/46emIKPmmmvWQo0I2aymNq"
-      },
-      "artists": [
-        {
-          "name": "Just Kiddin",
-          "url": "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
-        },
-        {
-          "name": "DiRTY RADiO",
-          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
-        }
-      ],
-      "duration_ms": 147675,
-      "name": "Moonshine River",
-      "url": "https://open.spotify.com/track/1xMuxIzt8CmjXTWYZvcNzA"
     },
     {
       "added_at": "2022-07-29 04:01:00",

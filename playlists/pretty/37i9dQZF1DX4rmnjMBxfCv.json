@@ -1,13 +1,33 @@
 {
-  "description": "Dance and electronic Arabic songs. Cover: Nancy Ajram & Marshmello.",
-  "num_followers": 36911,
+  "description": "Dance and electronic Arabic songs. Cover: Khaled & DJ Snake.",
+  "num_followers": 36950,
   "original_name": "mint \u0646\u0639\u0646\u0639",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0Njk1NywwMDAwMDAwMGMwOGNhMjQ4NGI0ZTcwZjk2YTE2MjdiNzE1YWJkYmQ2",
+  "snapshot_id": "MTY1OTYyOTc4NiwwMDAwMDAwMDc2Y2QxMGY3MDkwNmNiMTFmYTkxMTgwN2ZkMTYxYzc3",
   "tracks": [
+    {
+      "added_at": "2022-08-04 16:15:31",
+      "album": {
+        "name": "Trigue Lyc\u00e9e (Remix)",
+        "url": "https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 185192,
+      "name": "Trigue Lyc\u00e9e - Remix",
+      "url": "https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG"
+    },
     {
       "added_at": "2022-08-01 09:42:37",
       "album": {

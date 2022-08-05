@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 
 > Post\-hardcore\. Post\-punk\. Post\-rock\. Post\-everything\. Cover: Metz
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,417 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,569 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 42 | [If I Told You This Was Killing Me, Would You Stop?](https://open.spotify.com/track/3EP7G1q7sjCYHZiWLGCw0V) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Emotion Is Dead](https://open.spotify.com/album/6BfOCDtxUy6ixkS68vZSll) | 3:52 |
 | 43 | [Way Down](https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 3:21 |
 | 44 | [Snow Day](https://open.spotify.com/track/5hYTN5GH1repxwA730JDk3) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 5:22 |
-| 45 | [Threat to Society](https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 3:57 |
-| 46 | [Manticore](https://open.spotify.com/track/5U4TMT28sQlLxiwAbCcgJM) | [find yourself](https://open.spotify.com/artist/5p57kSMLKMSCG7sk9EawnN), [Isaac Wilson](https://open.spotify.com/artist/1acEWn1axMgKZjnzAbVtno) | [Manticore](https://open.spotify.com/album/3LCtriKbXKi5rp2604MqhM) | 3:24 |
+| 45 | [Manticore](https://open.spotify.com/track/5U4TMT28sQlLxiwAbCcgJM) | [find yourself](https://open.spotify.com/artist/5p57kSMLKMSCG7sk9EawnN), [Isaac Wilson](https://open.spotify.com/artist/1acEWn1axMgKZjnzAbVtno) | [Manticore](https://open.spotify.com/album/3LCtriKbXKi5rp2604MqhM) | 3:24 |
+| 46 | [Threat to Society](https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 3:57 |
 | 47 | [Lament](https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:20 |
 | 48 | [Change with the Sun](https://open.spotify.com/track/1cUIk99uflLAjSqA2XSC9H) | [Soviet Soviet](https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu) | [Ghost](https://open.spotify.com/album/2FCb0YRvaLYsWJRKhpqj4a) | 4:06 |
 | 49 | [Youth](https://open.spotify.com/track/6GgUYuCp1Gac8ECGODmL7R) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 99 | [Dillon and Her Son](https://open.spotify.com/track/7teRqWTNpFal255k5R7vex) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Always Foreign](https://open.spotify.com/album/4w8JKVtsuSVTpypF4rzkVV) | 2:24 |
 | 100 | [Bitter Red](https://open.spotify.com/track/7mZxXLtIz6lfB7biIcicOD) | [Pianos Become The Teeth](https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C) | [Wait For Love](https://open.spotify.com/album/6UkmuaiAzMi21XJ4hyBzIE) | 4:43 |
 
-Snapshot ID: `MTY0ODY4MjAyMiwwMDAwMDAwMDg0NDNlMjgwMDI1MzEwMjNkOTI3ODJkYzJjMDVkYmQ4`
+Snapshot ID: `MTY0ODY4MjAyMiwwMDAwMDAwMDY4ZGRiNzRiNDEzOWY3YWEwMGEyZThlZDNmNWU4YTE5`

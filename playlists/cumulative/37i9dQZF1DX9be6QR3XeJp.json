@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: salute",
+  "description": "Discover your new favourite artists. Cover: Blazer Boccle",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -257,6 +257,24 @@
       "duration_ms": 163750,
       "name": "Black",
       "url": "https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7"
+    },
+    {
+      "album": {
+        "name": "Boppin",
+        "url": "https://open.spotify.com/album/4bmbwGUQQySO2BsQOqO9TE"
+      },
+      "artists": [
+        {
+          "name": "Blazer Boccle",
+          "url": "https://open.spotify.com/artist/2YmC1eRlfWVHvrLFyxAyAn"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215433,
+      "name": "Boppin",
+      "url": "https://open.spotify.com/track/70RfBeqS2vWnO0QiEJcZHF"
     },
     {
       "album": {

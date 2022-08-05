@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Ofelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,873 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,886 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 54 | [Lepszy Model 2022](https://open.spotify.com/track/1GaLebpk2DxtA0hEct9FDS) | [Kasia Klich](https://open.spotify.com/artist/5uBOKfCCQlO6qrNLauUSOH), [Ryfa Ri](https://open.spotify.com/artist/5JyfwSUxEdBxi08TfV0wpo) | [Lepszy Model 2022](https://open.spotify.com/album/5HONCFrx5cyBkWSNgUlQUU) | 3:20 |
 | 55 | [Buziak](https://open.spotify.com/track/3ucxOQUmBWjWYIbJGZCVzW) | [Top Girls](https://open.spotify.com/artist/7K7rRWSKUzSH1pbOMJvlc8) | [Rumieńce CD2](https://open.spotify.com/album/4XK9EkIE8BrI85Hlrdh3hQ) | 3:14 |
 | 56 | [i hate her](https://open.spotify.com/track/0odbe4ylrOm4oHj5V0XQ5l) | [Ziggiel Lou](https://open.spotify.com/artist/3QiTnVbqgpS65j9BABxfiL) | [join the fun with inner self](https://open.spotify.com/album/4I3yGEsC7Q2zgh9YxTK9V7) | 1:59 |
-| 57 | [Nie wiem jak](https://open.spotify.com/track/1abcLByljaWOVXqwJgpItc) | [pestka](https://open.spotify.com/artist/7jSicnYNPQym5U7FR2vw6V) | [Nie wiem jak](https://open.spotify.com/album/7EGCgbg8TSnw1iNDNQ2QPg) | 4:32 |
+| 57 | [Nie wiem jak](https://open.spotify.com/track/1abcLByljaWOVXqwJgpItc) | [pestka](https://open.spotify.com/artist/7jSicnYNPQym5U7FR2vw6V), [Ajzeja](https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS) | [Nie wiem jak](https://open.spotify.com/album/7EGCgbg8TSnw1iNDNQ2QPg) | 4:32 |
 | 58 | [stać cię na więcej](https://open.spotify.com/track/3oXhIbkv2LP8alQB5qMCQ6) | [Lena Moonlight](https://open.spotify.com/artist/0CwqP2Mu1t4u1OzuIwHrwe) | [stać cię na więcej](https://open.spotify.com/album/1VLWuWRPMoopjVXHlhpDvt) | 2:44 |
 | 59 | [Lato](https://open.spotify.com/track/3YRPnvMFb0NbTxs6KTJkRw) | [J.SHPRD](https://open.spotify.com/artist/1VoLL4nQBAbt8z8Hx48ZJY) | [Lato](https://open.spotify.com/album/6bhxIjCKRpcyhrnjJi4Zug) | 3:01 |
 | 60 | [Biegnę](https://open.spotify.com/track/0burgNcA4EtD1jKJ7POUW2) | [Ada Grotkowska](https://open.spotify.com/artist/700Ge0vIiGYXVR94rTvXWU) | [Biegnę](https://open.spotify.com/album/23e3JgBs3LKTNy2ItZSwVw) | 3:30 |

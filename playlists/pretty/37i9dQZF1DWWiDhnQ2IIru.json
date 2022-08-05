@@ -1,12 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 2620486,
+  "num_followers": 2621259,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODE1NSwwMDAwMDAwMGQxNTAxYzJjYjM3NDNjODU1OGRjODI2MGQzMWIzNDQ2",
+  "snapshot_id": "MTY1NzA0ODE1NSwwMDAwMDAwMDA4ZWFhMmVkYzZlMTcxZTdhNmY1YTUyYzljYTU1Yzc1",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
         "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 149880,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
-    },
-    {
       "added_at": "2022-04-14 15:08:02",
       "album": {
         "name": "52nd Street",
@@ -811,6 +795,22 @@
       "duration_ms": 284000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Billy Ocean (Expanded Edition)",
         "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 179013,
       "name": "Love Really Hurts Without You",
       "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Jolene (Expanded Edition)",
         "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Mama Told Me (Not To Come) - Single Version",
+      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
+    },
+    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Frampton",
@@ -1387,22 +1403,6 @@
       "duration_ms": 274040,
       "name": "Moondance - 2013 Remaster",
       "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "It Ain't Easy",
-        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Mama Told Me (Not To Come) - Single Version",
-      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "McCartney (Archive Collection)",
-        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - Remastered 2011",
-      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 233173,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
       "added_at": "2021-02-10 18:00:33",

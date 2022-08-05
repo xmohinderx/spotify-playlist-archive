@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Pop Latino para que los disfrute toda la familia.",
-  "num_followers": 1825,
+  "num_followers": 1841,
   "original_name": "\u00a1Pop Latino!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODgwNzI2MiwwMDAwMDAwMGU1NmNlNjI3ZWFkMWJhMTc0ZmJiODRhMjg5ZjI3NGYy",
+  "snapshot_id": "MTYzODgwNzI2MiwwMDAwMDAwMGEzNDZkZTVmNDBlMDllZTI4Yjc3ODUzOTRmNDJiYzA3",
   "tracks": [
     {
       "added_at": "2020-09-29 17:20:38",
@@ -583,26 +583,6 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 159573,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": "2021-12-06 16:14:22",

@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 472939,
+  "num_followers": 473040,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NjA2MCwwMDAwMDAwMDY4MTZjOGUzNTFiYjVhNjAzMGE1ZDE3Yzk4OTJlN2U2",
+  "snapshot_id": "MTY1ODg1NjA2MCwwMDAwMDAwMGQxZTllNDBiZDBhMmIxMmVjMjQ3NmY3MmQyNDFkNTRj",
   "tracks": [
     {
       "added_at": "2022-07-26 17:21:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
-    },
-    {
-      "added_at": "2022-07-26 17:21:00",
-      "album": {
         "name": "Look out Now!",
         "url": "https://open.spotify.com/album/3If8CnWombvLZqUZiN3FI5"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 350466,
       "name": "River Rises",
       "url": "https://open.spotify.com/track/2cgUuAbgKxogUes21l6BSq"
+    },
+    {
+      "added_at": "2022-07-26 17:21:00",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "To Know Without Knowing",
-        "url": "https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        },
-        {
-          "name": "Black Jesus Experience",
-          "url": "https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4"
-        }
-      ],
-      "duration_ms": 380419,
-      "name": "Mulatu",
-      "url": "https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt"
-    },
-    {
-      "added_at": "2022-07-26 17:21:00",
-      "album": {
         "name": "Tocororo",
         "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 194706,
       "name": "Ay, Mam\u00e1 In\u00e9s",
       "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
+    },
+    {
+      "added_at": "2022-07-26 17:21:00",
+      "album": {
+        "name": "To Know Without Knowing",
+        "url": "https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "Black Jesus Experience",
+          "url": "https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4"
+        }
+      ],
+      "duration_ms": 380419,
+      "name": "Mulatu",
+      "url": "https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -1631,8 +1631,8 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "Soul Bird: Whiffenpoof",
-        "url": "https://open.spotify.com/album/5JZRDbjyuSbc5fvDzcn1iy"
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
       },
       "artists": [
         {
@@ -1640,9 +1640,9 @@
           "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 244053,
-      "name": "Reza",
-      "url": "https://open.spotify.com/track/7sv2Y2vqr4IH8qEyomRjxf"
+      "duration_ms": 165933,
+      "name": "Mambo Sangria",
+      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "El Grito - Suite para Orquesta de Jazz",
-        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
-      },
-      "artists": [
-        {
-          "name": "Jorge L\u00f3pez Ruiz",
-          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
-        }
-      ],
-      "duration_ms": 376546,
-      "name": "El Grito",
-      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
-    },
-    {
-      "added_at": "2022-07-26 17:21:00",
-      "album": {
         "name": "Fantasia Cubana: Variations On Classical Themes",
         "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 270066,
       "name": "Chopin: Prelude In E-Minor",
       "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
+    },
+    {
+      "added_at": "2022-07-26 17:21:00",
+      "album": {
+        "name": "El Grito - Suite para Orquesta de Jazz",
+        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+      },
+      "artists": [
+        {
+          "name": "Jorge L\u00f3pez Ruiz",
+          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+        }
+      ],
+      "duration_ms": 376546,
+      "name": "El Grito",
+      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
     },
     {
       "added_at": "2022-07-26 17:21:00",

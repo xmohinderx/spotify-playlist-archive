@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50YO169g6dw.md) - [plain]
 
 > The best of Within Temptation, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,106 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,211 likes - 51 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50YO169g6dw.md) - [plain]
 | 33 | [Fire and Ice](https://open.spotify.com/track/6fVNrImd5bzHgJMxxLqCee) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 3:57 |
 | 34 | [See Who I Am](https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:51 |
 | 35 | [Forgiven](https://open.spotify.com/track/1uy9eKbA9e0Dg7bsjqGOZr) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:52 |
-| 36 | [Where is the Edge](https://open.spotify.com/track/2UqvNtxruIlQbUWz4bhT89) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 3:59 |
-| 37 | [Somewhere](https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:13 |
-| 38 | [Covered by Roses](https://open.spotify.com/track/35ViOD3ucFVAGwmvIvMSvP) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Special Edition\)](https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76) | 4:47 |
-| 39 | [Hand of Sorrow](https://open.spotify.com/track/41j3TmJuJuSlHsqoX6L3dr) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:36 |
-| 40 | [Forsaken](https://open.spotify.com/track/2SblpmjyQLiiJ1iXkMDFxy) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:53 |
-| 41 | [Stairway to the Skies](https://open.spotify.com/track/6Q3kathPO8kg7vA1BS5d9y) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:30 |
-| 42 | [Our Farewell](https://open.spotify.com/track/7064U7N7XT8CeNRurTpADK) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:20 |
-| 43 | [Silver Moonlight](https://open.spotify.com/track/1Ssk9Jgfcdo5RRBQqIVjat) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Special Edition\)](https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76) | 5:16 |
-| 44 | [Murder](https://open.spotify.com/track/2oU3bhQYCuPAzibTp5OiFU) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:16 |
-| 45 | [Pale](https://open.spotify.com/track/1s2WhoEu2w7ZKXLhjfIQZE) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:28 |
-| 46 | [Say My Name](https://open.spotify.com/track/6va0jBtVHm7x3Ez3DdDLcx) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Angels](https://open.spotify.com/album/5VJ8S6kIKlE2XTPbztvemZ) | 4:06 |
-| 47 | [Edge of the World](https://open.spotify.com/track/5578fHcYLNW0yIa9ohZC2a) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Special Edition\)](https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76) | 4:55 |
-| 48 | [Mother Earth \- Live](https://open.spotify.com/track/6cTTlY28qzrMUCDZqgBADU) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth Tour \(Live\)](https://open.spotify.com/album/50svvltIAFATFHlduLRASx) | 5:31 |
-| 49 | [Aquarius](https://open.spotify.com/track/0cnwPYPg1o7t5tJRC1kQgh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:46 |
-| 50 | [Restless](https://open.spotify.com/track/0gdeTC0zXAPJzbzveGQMdX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Enter + The Dance](https://open.spotify.com/album/0hbFubqseR3NFJLSRKNTnt) | 6:09 |
+| 36 | [Entertain You](https://open.spotify.com/track/2TggWcaQqzZr6Lv80g1c61) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Don't Pray For Me](https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf) | 3:31 |
+| 37 | [Where is the Edge](https://open.spotify.com/track/2UqvNtxruIlQbUWz4bhT89) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 3:59 |
+| 38 | [Somewhere](https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:13 |
+| 39 | [Covered by Roses](https://open.spotify.com/track/35ViOD3ucFVAGwmvIvMSvP) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Special Edition\)](https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76) | 4:47 |
+| 40 | [Hand of Sorrow](https://open.spotify.com/track/41j3TmJuJuSlHsqoX6L3dr) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:36 |
+| 41 | [Forsaken](https://open.spotify.com/track/2SblpmjyQLiiJ1iXkMDFxy) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:53 |
+| 42 | [Stairway to the Skies](https://open.spotify.com/track/6Q3kathPO8kg7vA1BS5d9y) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:30 |
+| 43 | [Our Farewell](https://open.spotify.com/track/7064U7N7XT8CeNRurTpADK) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:20 |
+| 44 | [Silver Moonlight](https://open.spotify.com/track/1Ssk9Jgfcdo5RRBQqIVjat) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Special Edition\)](https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76) | 5:16 |
+| 45 | [Murder](https://open.spotify.com/track/2oU3bhQYCuPAzibTp5OiFU) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:16 |
+| 46 | [Pale](https://open.spotify.com/track/1s2WhoEu2w7ZKXLhjfIQZE) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:28 |
+| 47 | [Say My Name](https://open.spotify.com/track/6va0jBtVHm7x3Ez3DdDLcx) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Angels](https://open.spotify.com/album/5VJ8S6kIKlE2XTPbztvemZ) | 4:06 |
+| 48 | [Edge of the World](https://open.spotify.com/track/5578fHcYLNW0yIa9ohZC2a) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Special Edition\)](https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76) | 4:55 |
+| 49 | [Mother Earth \- Live](https://open.spotify.com/track/6cTTlY28qzrMUCDZqgBADU) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth Tour \(Live\)](https://open.spotify.com/album/50svvltIAFATFHlduLRASx) | 5:31 |
+| 50 | [Aquarius](https://open.spotify.com/track/0cnwPYPg1o7t5tJRC1kQgh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:46 |
+| 51 | [Restless](https://open.spotify.com/track/0gdeTC0zXAPJzbzveGQMdX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Enter + The Dance](https://open.spotify.com/album/0hbFubqseR3NFJLSRKNTnt) | 6:09 |
 
-Snapshot ID: `MTY1NDAwMTY2NywwMDAwMDAwMDhiMTFiMzQ2ODRkOGU0ZDUyZWU3NWM4NDQxMjdkYWQ4`
+Snapshot ID: `MTY1OTYwMzI3MywwMDAwMDAwMDZlNmIxNTUxNDVlOWY1YWFjMWM4YzIwMjgxMTlmNzgz`

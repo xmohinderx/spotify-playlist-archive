@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,725 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,741 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 58 | [Drown](https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:51 |
 | 59 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
 | 60 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
-| 61 | [Maybe](https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 4:30 |
-| 62 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 |
+| 61 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 |
+| 62 | [Maybe](https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 4:30 |
 | 63 | [Thumbs](https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Thumbs](https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc) | 4:25 |
 | 64 | [If It Ain't Me Babe](https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 5:08 |
 | 65 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
@@ -90,16 +90,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 80 | [Cold Caller](https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Eastwick / Cold Caller](https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU) | 3:57 |
 | 81 | [Oliver](https://open.spotify.com/track/60ltZnAfLz7ChT96ld006V) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Oliver](https://open.spotify.com/album/4ngu4UzWbLvArpuZzUl3m0) | 5:15 |
 | 82 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
-| 83 | [World on Fire](https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [Meet Me on the Edge of Our Ruin](https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L) | 4:03 |
-| 84 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 |
+| 83 | [Lincoln, Nebraska](https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH) | 2:23 |
+| 84 | [World on Fire](https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [Meet Me on the Edge of Our Ruin](https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L) | 4:03 |
 | 85 | [hurt](https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:31 |
 | 86 | [Blue](https://open.spotify.com/track/1oAeR6SrUeAMrIM0CD3EdD) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Blue](https://open.spotify.com/album/5KGs3rzqvjS1H7LwPvZD6c) | 4:12 |
 | 87 | [Paula Collins](https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:15 |
 | 88 | [Sprinter](https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR) | 4:44 |
 | 89 | [Better and Better](https://open.spotify.com/track/1o24Xqw0n5tQHJqpZDCXp7) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How to Break a Fall](https://open.spotify.com/album/4BdwmZr2Z7T7evaxK3FuAn) | 3:00 |
-| 90 | [Horses](https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Soft Drop](https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB) | 3:16 |
-| 91 | [Lincoln, Nebraska](https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH) | 2:23 |
-| 92 | [Rae](https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:55 |
+| 90 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 |
+| 91 | [Rae](https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:55 |
+| 92 | [Horses](https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Soft Drop](https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB) | 3:16 |
 | 93 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 |
 | 94 | [Drunk Dreams](https://open.spotify.com/track/40hZhgLAc1ANWvuht7dEV9) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Full Grown](https://open.spotify.com/album/4yvF29Mp5z0VHqxxDOtq9T) | 3:49 |
 | 95 | [Vampire Weeknight](https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Vampire Weeknight](https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 |
 | 100 | [When Skies Were Always Blue](https://open.spotify.com/track/1cxfKJMjgB4OY0mm3QVB6n) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [When Skies Were Always Blue](https://open.spotify.com/album/6ONL60dY4YafW6hPNEsFiN) | 4:15 |
 
-Snapshot ID: `MTYzNzI2NzcyNCwwMDAwMDAwMGNkYzhhNWVlYzVmMjUxOGYxNjdmODlhMjRiYWVlN2Ni`
+Snapshot ID: `MTYzNzI2NzcyNCwwMDAwMDAwMDQ5N2ZjYTFiODEzNWNiMzhlNzY1MDAyZWVlZjY2OGNh`

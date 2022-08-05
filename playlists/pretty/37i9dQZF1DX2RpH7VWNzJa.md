@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 
 > No te preocupes, feel it all here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,763 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,800 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 5 | [No Dices Mas](https://open.spotify.com/track/2udRqNX3z2OjdqR01ebDwU) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Adicion](https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq) | 4:19 |
 | 6 | [Lo jodiste](https://open.spotify.com/track/1Sedbo7kqP6PXnN5iKg183) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Lo jodiste](https://open.spotify.com/album/2A5vxG20vPoqRvvp2gLvrz) | 4:31 |
 | 7 | [De Vez en Cuando \(Aparece\)](https://open.spotify.com/track/08VP9HBayRpUC20OzFktik) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Botánica](https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc) | 3:00 |
-| 8 | [Nunca Estoy](https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Nunca Estoy](https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9) | 2:42 |
-| 9 | [No Me Dejes Así](https://open.spotify.com/track/3uHofhho8p67xqPL8f2Pmt) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [No Me Dejes Así](https://open.spotify.com/album/4n08POuFITwQukkmnc2fAO) | 3:04 |
+| 8 | [No Me Dejes Así](https://open.spotify.com/track/3uHofhho8p67xqPL8f2Pmt) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [No Me Dejes Así](https://open.spotify.com/album/4n08POuFITwQukkmnc2fAO) | 3:04 |
+| 9 | [Nunca Estoy](https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Nunca Estoy](https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9) | 2:42 |
 | 10 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 |
 | 11 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 |
 | 12 | [Me Encanta Todo Lo Tuyo](https://open.spotify.com/track/6NHjr1XoiD305MLDr06uOm) | [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Me Encanta Todo Lo Tuyo](https://open.spotify.com/album/40HJi0nzOlsSWWKMlkPVyb) | 2:26 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 31 | [llueve](https://open.spotify.com/track/5NliUthcviXaUsZ2YELGq1) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [ep2 🌧](https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm) | 3:16 |
 | 32 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 |
 | 33 | [No estás](https://open.spotify.com/track/32grtzU3DA9uwdSN1w7t7S) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [No estás](https://open.spotify.com/album/1DXTBoAItVHckR0DopqR30) | 2:46 |
-| 34 | [Sad Girl](https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Sad Girl](https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW) | 3:28 |
+| 34 | [Ella Tú y Yo](https://open.spotify.com/track/5E91XW9FMz9Bh5UCBBBfyL) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:27 |
 | 35 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
-| 36 | [Ella Tú y Yo](https://open.spotify.com/track/5E91XW9FMz9Bh5UCBBBfyL) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:27 |
+| 36 | [Sad Girl](https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Sad Girl](https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW) | 3:28 |
 | 37 | [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 |
 | 38 | [Dime la verdad](https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0), [Drunk and Drops](https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG) | [Dime la verdad](https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC) | 3:00 |
 | 39 | [he dejado de llamarte](https://open.spotify.com/track/1G9s7sbgxJ7jOR12NdXup2) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [he dejado de llamarte](https://open.spotify.com/album/3TbPRXA5gmGgM5SlsYQTiH) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 49 | [El Club de los Ojos Tristes](https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R) | [Estrada](https://open.spotify.com/artist/1E7tZNnbAqVH2FL2B8JDVU), [Luis Díaz](https://open.spotify.com/artist/35PlzNU9nTOWZZzLzGYWsr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [El Club de los Ojos Tristes](https://open.spotify.com/album/05AdODG6bouWeGMGVVoqfp) | 4:22 |
 | 50 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
 
-Snapshot ID: `MTY0NTU2NDc3NSwwMDAwMDAwMDQyOGZkZmJkNDc4ODkyMjVkZGU3ZjAzYjJkN2U1ODYz`
+Snapshot ID: `MTY0NTU2NDc3NSwwMDAwMDAwMDc1NzFlMGZjMWY5YjA1OGQ5MDQ1MTE1MDU4ZGEwNjJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > the perfect fight scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,609 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,717 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 31 | [I'm Only a Fool for You](https://open.spotify.com/track/3OBVKgbxxSYtPm1YtGse58) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/2giufec1c5uHmZpjQYEr0E) | 1:01 |
 | 32 | [Bunny Girl](https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Bunny Girl](https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl) | 2:46 |
 | 33 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 |
-| 34 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 |
-| 35 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
+| 34 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
+| 35 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 |
 | 36 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
 | 37 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 |
 | 38 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 57 | [THE DAY](https://open.spotify.com/track/1tjOClAkdMxDfYPO0xvGbG) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [Butterfly Effect](https://open.spotify.com/album/01X3RZ75rwi431u8hB34eK) | 4:01 |
 | 58 | [A Cruel Angel's Thesis \(Director's Edit Version\)](https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 4:05 |
 | 59 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
-| 60 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
-| 61 | [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 |
+| 60 | [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 |
+| 61 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
 | 62 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
 | 63 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 |
 | 64 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
 | 75 | [e girl](https://open.spotify.com/track/1Sdf8Z17iHkcJGX2H5q6df) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [e girl](https://open.spotify.com/album/1UHAkH3U5IhqOYISO518LN) | 2:01 |
 
-Snapshot ID: `MTY1NzMwNzA0MCwwMDAwMDAwMDBiN2I0MjdlZTY2NmEzZTYzMzdjM2Y2NzE4ZDdkMmRj`
+Snapshot ID: `MTY1NzMwNzA0MCwwMDAwMDAwMDgyMTU0MzhhZjVmNzJhYWEyM2M4MTBkMTJhYjU4NzEx`

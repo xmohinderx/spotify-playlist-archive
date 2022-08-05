@@ -1,12 +1,12 @@
 {
   "description": "The classic jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 34658,
+  "num_followers": 34740,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzM5ODg1MywwMDAwMDAwMDY0M2VlMjE1ODZmYjBhYTZhYjI5YzcwZGY0ZGJlZTVi",
+  "snapshot_id": "MTY1MzM5ODg1MywwMDAwMDAwMGFjNTQ0ZDQ0MDhmMDg1MDA2MGM4ZjcxZWMyMTJhOTg5",
   "tracks": [
     {
       "added_at": "2022-05-24 13:27:33",
@@ -891,26 +891,18 @@
     {
       "added_at": "2022-05-24 13:27:33",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
       },
       "artists": [
         {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        },
-        {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
-        },
-        {
-          "name": "Benny Goodman Sextet",
-          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
         }
       ],
-      "duration_ms": 182653,
-      "name": "Wholly Cats",
-      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
+      "duration_ms": 255280,
+      "name": "When The Sun Comes Out",
+      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
     },
     {
       "added_at": "2022-05-24 13:27:33",
@@ -931,18 +923,26 @@
     {
       "added_at": "2022-05-24 13:27:33",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
       "artists": [
         {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        },
+        {
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+        },
+        {
+          "name": "Benny Goodman Sextet",
+          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
         }
       ],
-      "duration_ms": 255280,
-      "name": "When The Sun Comes Out",
-      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
+      "duration_ms": 182653,
+      "name": "Wholly Cats",
+      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
     },
     {
       "added_at": "2022-05-24 13:27:33",

@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 357106,
+  "num_followers": 357188,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2MzY2MCwwMDAwMDAwMGE3NjJmNTMzMGVhMzEyNmZkMmEyODI0ZGJhYjcwN2Q4",
+  "snapshot_id": "MTY1OTA2MzY2MCwwMDAwMDAwMDdkOWFlODAwMzkzZGM3YmYzODc0NzRlNjM0ODkzMjA2",
   "tracks": [
     {
       "added_at": "2022-07-29 03:01:00",
@@ -631,30 +631,6 @@
     {
       "added_at": "2022-07-29 03:01:00",
       "album": {
-        "name": "Algum Ritmo (Remix)",
-        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Algum Ritmo - Remix",
-      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
-    },
-    {
-      "added_at": "2022-07-29 03:01:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
+    },
+    {
+      "added_at": "2022-07-29 03:01:00",
+      "album": {
+        "name": "Algum Ritmo (Remix)",
+        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Algum Ritmo - Remix",
+      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
     },
     {
       "added_at": "2022-07-29 03:01:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2022-07-29 03:01:00",
       "album": {
+        "name": "Pumped up Kicks (feat. Joy Corporation)",
+        "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Joy Corporation",
+          "url": "https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "Pumped up Kicks (feat. Joy Corporation)",
+      "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
+    },
+    {
+      "added_at": "2022-07-29 03:01:00",
+      "album": {
         "name": "Hey (Na Na Na)",
         "url": "https://open.spotify.com/album/5of4lavVy9GkGWPAUzKWD8"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 156000,
       "name": "Hey (Na Na Na)",
       "url": "https://open.spotify.com/track/5eYHuFukR95qj8s3Q3YEfQ"
-    },
-    {
-      "added_at": "2022-07-29 03:01:00",
-      "album": {
-        "name": "Pumped up Kicks (feat. Joy Corporation)",
-        "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Joy Corporation",
-          "url": "https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "Pumped up Kicks (feat. Joy Corporation)",
-      "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
     },
     {
       "added_at": "2022-07-29 03:01:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2022-07-29 03:01:00",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
-    },
-    {
-      "added_at": "2022-07-29 03:01:00",
-      "album": {
         "name": "Infinito Particular (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 160019,
       "name": "Infinito Particular - Bhaskar Remix",
       "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+    },
+    {
+      "added_at": "2022-07-29 03:01:00",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2022-07-29 03:01:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2022-07-29 03:01:00",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
-    },
-    {
-      "added_at": "2022-07-29 03:01:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
       },
@@ -1299,22 +1279,22 @@
     {
       "added_at": "2022-07-29 03:01:00",
       "album": {
-        "name": "Are You Mine",
-        "url": "https://open.spotify.com/album/3qBbXUvA3V4814pbJh08sF"
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
       "artists": [
         {
-          "name": "Alex Schulz",
-          "url": "https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Rakan",
-          "url": "https://open.spotify.com/artist/5lzSBbiehAGDkNqhH3Ishd"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         }
       ],
-      "duration_ms": 209477,
-      "name": "Are You Mine",
-      "url": "https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn"
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2022-07-29 03:01:00",
@@ -1335,6 +1315,26 @@
       "duration_ms": 152400,
       "name": "Take You Dancing - Bruno Martini Remix",
       "url": "https://open.spotify.com/track/4yWp3mTUYrzlqazZ588IQh"
+    },
+    {
+      "added_at": "2022-07-29 03:01:00",
+      "album": {
+        "name": "Are You Mine",
+        "url": "https://open.spotify.com/album/3qBbXUvA3V4814pbJh08sF"
+      },
+      "artists": [
+        {
+          "name": "Alex Schulz",
+          "url": "https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7"
+        },
+        {
+          "name": "Rakan",
+          "url": "https://open.spotify.com/artist/5lzSBbiehAGDkNqhH3Ishd"
+        }
+      ],
+      "duration_ms": 209477,
+      "name": "Are You Mine",
+      "url": "https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn"
     },
     {
       "added_at": "2022-07-29 03:01:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2022-07-29 03:01:00",
       "album": {
-        "name": "Paradise (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
-      },
-      "artists": [
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "Paradise - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2022-07-29 03:01:00",
-      "album": {
         "name": "Descobridor dos Sete Mares: Remix",
         "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 191250,
       "name": "Descobridor dos Sete Mares: Remix",
       "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+    },
+    {
+      "added_at": "2022-07-29 03:01:00",
+      "album": {
+        "name": "Paradise (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "Paradise - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
     },
     {
       "added_at": "2022-07-29 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ace Aura.",
-  "num_followers": 955816,
+  "num_followers": 955912,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGE5OTAwOTYzNzZkZTZiNWJkMjZmMDQxOTZhMmVmMWM2",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGMwZmU3YjZmOTRlZWU2MDQ0MTk0MjhkOTc5ZWYzNmFj",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Deja Reve",
-        "url": "https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 168073,
-      "name": "Deja Reve",
-      "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "PEW PEW",
         "url": "https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 199111,
       "name": "PEW PEW",
       "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Deja Reve",
+        "url": "https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 168073,
+      "name": "Deja Reve",
+      "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -951,30 +951,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        },
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Back To The Top",
         "url": "https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 198139,
       "name": "Back To The Top",
       "url": "https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Metrik",
-          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
-        }
-      ],
-      "duration_ms": 250276,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Welcome to the Playhouse",
         "url": "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 188571,
       "name": "Welcome to the Playhouse",
       "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "duration_ms": 250276,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Fear Of Dying",
-        "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Fear Of Dying",
-      "url": "https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 176761,
       "name": "Eden",
       "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Fear Of Dying",
+        "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Fear Of Dying",
+      "url": "https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Spacetime (feat. NEVVE)",
-        "url": "https://open.spotify.com/album/4rrf2a5ZbaHXpC1s85oJTM"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Spacetime (feat. NEVVE)",
-      "url": "https://open.spotify.com/track/39Hpybgua0RgOciVl1C4Sy"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "RELOAD",
         "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
       },
@@ -1555,18 +1535,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae"
+        "name": "Spacetime (feat. NEVVE)",
+        "url": "https://open.spotify.com/album/4rrf2a5ZbaHXpC1s85oJTM"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
         }
       ],
-      "duration_ms": 194813,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc"
+      "duration_ms": 168000,
+      "name": "Spacetime (feat. NEVVE)",
+      "url": "https://open.spotify.com/track/39Hpybgua0RgOciVl1C4Sy"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 283125,
       "name": "Grit",
       "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Don't Look Back (Moore Kismet Remix)",
         "url": "https://open.spotify.com/album/58hRScGH70fQ3w5klmi0V2"
       },
@@ -1731,26 +1747,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Once Upon A Time In Cyberworld",
-        "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "YOOKiE",
-          "url": "https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "Deathstalker",
-      "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Catharsis X",
         "url": "https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs"
       },
@@ -1767,6 +1763,26 @@
       "duration_ms": 244045,
       "name": "Catharsis X",
       "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Once Upon A Time In Cyberworld",
+        "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "YOOKiE",
+          "url": "https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Deathstalker",
+      "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1927,6 +1943,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Goliath",
+        "url": "https://open.spotify.com/album/0NeTUl4u7yfjQPvgjlwutG"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Foramic",
+          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Goliath",
+      "url": "https://open.spotify.com/track/5hfk43a7ccsr1ItYUjIsHU"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Waiting For Love",
         "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
       },
@@ -1947,22 +1983,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Goliath",
-        "url": "https://open.spotify.com/album/0NeTUl4u7yfjQPvgjlwutG"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
       },
       "artists": [
         {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        },
-        {
-          "name": "Foramic",
-          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
         }
       ],
-      "duration_ms": 224400,
-      "name": "Goliath",
-      "url": "https://open.spotify.com/track/5hfk43a7ccsr1ItYUjIsHU"
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1987,22 +2019,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
-      },
-      "artists": [
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "EMBRACE",
         "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 196800,
       "name": "Within The Boundaries",
       "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "As Above So Below",
         "url": "https://open.spotify.com/album/0XXmZS61tYClRAcJU5oXHG"
       },
@@ -2303,6 +2319,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "AWOL",
+        "url": "https://open.spotify.com/album/2h3pi4XeLI0OI5eu3IGaBr"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 215716,
+      "name": "AWOL",
+      "url": "https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Mechanized Mayhem Vol. 2",
         "url": "https://open.spotify.com/album/5JZXWPiy5bwrkJng3gYJcr"
       },
@@ -2339,22 +2371,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "AWOL",
-        "url": "https://open.spotify.com/album/2h3pi4XeLI0OI5eu3IGaBr"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 215716,
-      "name": "AWOL",
-      "url": "https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Fight Milk",
         "url": "https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 192000,
       "name": "Fight Milk",
       "url": "https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2787,26 +2787,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "IDK, Vol. 2 (Remixes)",
-        "url": "https://open.spotify.com/album/7EEYkZsi5x7PJwXYGRuPXX"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        },
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        }
-      ],
-      "duration_ms": 187108,
-      "name": "Run Like The Wind - Ookay Remix",
-      "url": "https://open.spotify.com/track/13iTzttt2HngeGOKtWFOmi"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Body On Me",
         "url": "https://open.spotify.com/album/0HeITVUmIRPXmdbmm5YJa7"
       },
@@ -2823,6 +2803,26 @@
       "duration_ms": 140869,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/1b4pvs5XTG9Rj2WtaggUY7"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "IDK, Vol. 2 (Remixes)",
+        "url": "https://open.spotify.com/album/7EEYkZsi5x7PJwXYGRuPXX"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 187108,
+      "name": "Run Like The Wind - Ookay Remix",
+      "url": "https://open.spotify.com/track/13iTzttt2HngeGOKtWFOmi"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2907,22 +2907,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Underworld",
-        "url": "https://open.spotify.com/album/2zRF8Qd25mEHEyS73DfKya"
-      },
-      "artists": [
-        {
-          "name": "Gl0bal",
-          "url": "https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Underworld",
-      "url": "https://open.spotify.com/track/3YxPfvBBeiPKhgeLVkVoKm"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Last Resort",
         "url": "https://open.spotify.com/album/0dvJgq7sE4B46VNiR10kA8"
       },
@@ -2935,6 +2919,22 @@
       "duration_ms": 166153,
       "name": "Sanity Burn",
       "url": "https://open.spotify.com/track/5gbalg41bavMxRKTgAScd3"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Underworld",
+        "url": "https://open.spotify.com/album/2zRF8Qd25mEHEyS73DfKya"
+      },
+      "artists": [
+        {
+          "name": "Gl0bal",
+          "url": "https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/3YxPfvBBeiPKhgeLVkVoKm"
     }
   ],
   "unique_name": "Bass Arcade",

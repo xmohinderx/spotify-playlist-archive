@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Almas
 
-290 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+291 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-03-01 |  |
 | [زعلانة من نفسي](https://open.spotify.com/track/6rPJBLRp8R0b3aQyb73wsr) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [زعلانة من نفسي](https://open.spotify.com/album/0uQIyzQ7u48jrBVQwFclUE) | 4:14 | 2021-12-23 | 2022-03-02 |
 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 | 2021-12-23 | 2022-03-02 |
+| [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 | 2022-08-04 |  |
 | [سولفت لأمي](https://open.spotify.com/track/6BfRyMh46F5cA3gkgyfh5u) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سولفت لأمي](https://open.spotify.com/album/4i19VcPBc8ufEIsIyFwY5j) | 2:29 | 2021-12-30 | 2022-03-01 |
 | [شيجيلا](https://open.spotify.com/track/4W166RiFWcUJXZgAVC2NRZ) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [شيجيلا](https://open.spotify.com/album/4GGynpOymFrlcEu07M1PjA) | 3:32 | 2021-12-23 | 2022-03-01 |
 | [صرتلكم شمس](https://open.spotify.com/track/3LStpDeZgBqK2O8sU7NP77) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [صرتلكم شمس](https://open.spotify.com/album/7tUqc0LPVpGb1VIBVvs3mE) | 4:31 | 2021-12-23 | 2022-03-02 |
@@ -292,7 +293,7 @@
 | [من أنا](https://open.spotify.com/track/3OscCnbSCyJQiHzN9zhang) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [من أنا](https://open.spotify.com/album/3jjB43pfvp1v3ZH55nYBNV) | 5:08 | 2021-12-23 | 2022-03-01 |
 | [هاجر نعمان \- مسعود هجر](https://open.spotify.com/track/7jA6AqFb0h95bne8OAFQyj) | [هاجر نعمان](https://open.spotify.com/artist/6SeRGZj4fBqstC7JBv2Rb8) | [هاجر نعمان \- مسعود هجر](https://open.spotify.com/album/1aQuxtQPo3W1PNRUKkYT8u) | 6:45 | 2021-12-23 | 2022-03-02 |
 | [وذا مارحت](https://open.spotify.com/track/0yBbI752cyXl1lioeMrn1v) | [ضحى ذاكر](https://open.spotify.com/artist/2YscB4ch7eFXGvGiv6uSV5) | [واذا مارحت \- Single](https://open.spotify.com/album/0rga8umlOMLhiJ6deifelZ) | 2:47 | 2021-12-23 | 2022-03-02 |
-| [ولو](https://open.spotify.com/track/4YkNQggwRFNWBxCOrNf7nj) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [ولو](https://open.spotify.com/album/44ixYLqJfjnmY5UKLOpbgf) | 2:58 | 2022-03-01 |  |
+| [ولو](https://open.spotify.com/track/4YkNQggwRFNWBxCOrNf7nj) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [ولو](https://open.spotify.com/album/44ixYLqJfjnmY5UKLOpbgf) | 2:58 | 2022-03-01 | 2022-08-05 |
 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 | 2022-03-01 |  |
 | [يا طير السنونو](https://open.spotify.com/track/7uJYDaD71XHFUCcm3CDOZV) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1) | [يا طير السنونو](https://open.spotify.com/album/6y4JKfeGDumM3k7OVgoYST) | 1:52 | 2021-12-23 | 2022-03-02 |
 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-12-30 | 2022-03-02 |

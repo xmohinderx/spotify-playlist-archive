@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,476 likes - 60 songs - 3 hr 2 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,480 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 59 | [End Of The World](https://open.spotify.com/track/25tekS8txsCQov85px1xm2) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [End Of The World](https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs) | 3:45 |
 | 60 | [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 3:18 |
 
-Snapshot ID: `NTg0NSxhYjI3YzBhMWMwZDVmYjk4MjNhZTA4MTg5Y2EyZWNjZTYzYThkZmIw`
+Snapshot ID: `NTg0NywyZjY2MzhhZTQ5OTAwZGU3MjFjNzYwNjVjNjVlZjYxOGMwNDk5MzAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,748 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,786 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 47 | [آه يا سلطاني](https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d) | [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [آه يا سلطاني](https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN) | 4:28 |
 | 48 | [تعال معي](https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [مفرق 48 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S) | 2:44 |
 | 49 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
-| 50 | [Warda 7amra \- Live](https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn) | [Amin Kamal](https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os) | [Skizosocial Live](https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf) | 6:50 |
-| 51 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [El Nour](https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF) | 3:19 |
+| 50 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [El Nour](https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF) | 3:19 |
+| 51 | [Warda 7amra \- Live](https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn) | [Amin Kamal](https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os) | [Skizosocial Live](https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf) | 6:50 |
 | 52 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
 | 53 | [The Taste of Love](https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 5:54 |
 | 54 | [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 63 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
 | 64 | [Habibi Ta'al](https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Alsahraa](https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2) | 6:10 |
 | 65 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
-| 66 | [درر](https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY) | [Roxs9](https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru) | [دُرَرْ](https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD) | 4:28 |
-| 67 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
+| 66 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
+| 67 | [درر](https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY) | [Roxs9](https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru) | [دُرَرْ](https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD) | 4:28 |
 | 68 | [Manakir](https://open.spotify.com/track/2E9KtghEPFGSUkFYYV0hQn) | [Haya Zaatry & Ghanni 3an Ta3rif](https://open.spotify.com/artist/5DFpEJYHAfReM6SW58FjJo) | [Rough Guide To Palestine](https://open.spotify.com/album/6KqivdlFFRzj6KmAVSGL0I) | 2:56 |
 | 69 | [Estihala \- Live Acoustic](https://open.spotify.com/track/0CHNFpFyVHk2GwYxcbStKx) | [Sherif Abdelmeged](https://open.spotify.com/artist/6jjt4meb4Y0U7MbzYDjMrQ) | [Estihala \(Live Acoustic\)](https://open.spotify.com/album/3tVevDZe08Jf26YZnjInGT) | 3:18 |
 | 70 | [Oully Ya Sahbi](https://open.spotify.com/track/3KujYyygA5owoZZ3o8iyAE) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Mish Maoul](https://open.spotify.com/album/00oemMx6T4Jdd86Q29vmuW) | 5:33 |
 
-Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMGM4MzkzODc2Y2E3ZmZmMGJhMDFiMDg0OWE2MzkyNzMx`
+Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMDQ3YTk5OWJkMDM5YjczYmZmZjk3NjNlYjJmN2Q3ZDAz`

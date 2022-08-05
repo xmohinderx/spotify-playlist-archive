@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Deejay Telio entra na zona. ",
+  "description": "Mizzy Miles, Gson, Teto e Deejay Telio entram na zona. ",
   "name": "Na Zona",
   "published_playlist_ids": [
     "22ncssGshPQaFSB3hgligM"
@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Eqlibrio",
+        "url": "https://open.spotify.com/album/0G6VzSlavGHhp2NCAWNbnz"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271900,
+      "name": "Eqlibrio",
+      "url": "https://open.spotify.com/track/3DBE7Y8iUKvBiTemUAVBxr"
+    },
+    {
+      "album": {
         "name": "ES7\u00c1DIO",
         "url": "https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq"
       },
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 154285,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 157714,
       "name": "teach me how to love",
       "url": "https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO"

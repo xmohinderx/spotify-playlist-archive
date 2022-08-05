@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Remembering KK
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,858 likes - 42 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,945 likes - 42 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

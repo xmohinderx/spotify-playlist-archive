@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Vientos del Sur",
+        "url": "https://open.spotify.com/album/1VzmZvoHSg9ecyFb9W3jaR"
+      },
+      "artists": [
+        {
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269760,
+      "name": "Balada para el",
+      "url": "https://open.spotify.com/track/7bgQHZYKli3IE0vI379Yso"
+    },
+    {
+      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 218033,
       "name": "Nunca Tuvo Novio",
       "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"

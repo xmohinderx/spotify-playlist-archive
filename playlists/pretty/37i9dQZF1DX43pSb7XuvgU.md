@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,833 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,975 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 30 | [Querida](https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:23 |
 | 31 | [Gotas de Fuego](https://open.spotify.com/track/05BD87wSnrHtYe1SpeOkcE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:50 |
 | 32 | [Yo No Nací para Amar](https://open.spotify.com/track/5dzyCRgh6GpLg4bUnYWgGI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/7LUl8V8OkpiygImst4pOmk) | 4:30 |
-| 33 | [Inocente Pobre Amigo](https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 4:05 |
-| 34 | [Desesperado \(with Mijares\)](https://open.spotify.com/track/74CUfw3VJsGdu1OsQdFlOl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
+| 33 | [Desesperado \(with Mijares\)](https://open.spotify.com/track/74CUfw3VJsGdu1OsQdFlOl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
+| 34 | [Inocente Pobre Amigo](https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 4:05 |
 | 35 | [Mujeriego](https://open.spotify.com/track/2djCa914hXJtSJPxN3ziCX) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Mujeriego](https://open.spotify.com/album/4YHcmItN6rTUvpqee34QxL) | 3:48 |
 | 36 | [O Tú o Yo](https://open.spotify.com/track/0NCQuXo5AGew6q50KwPngk) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 3:55 |
 | 37 | [Mientras Llueve](https://open.spotify.com/track/5bV4nYoPmhTkUShCMs8H8a) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 2:55 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 92 | [Será Mañana](https://open.spotify.com/track/3G9ozHyKNNZPx4WOqkMkb4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 2:56 |
 | 93 | [Uno, Dos y Tres \(Y Me Das un Beso\)](https://open.spotify.com/track/4g39mDwUrt6B1AbuQXahxv) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 2:58 |
 | 94 | [Vienes o Voy](https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:08 |
-| 95 | [Tu Primera Vez](https://open.spotify.com/track/0ocXsGuBCyXZPOutMqx830) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:25 |
-| 96 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
+| 95 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
+| 96 | [Tu Primera Vez](https://open.spotify.com/track/0ocXsGuBCyXZPOutMqx830) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:25 |
 | 97 | [El México Que Se Nos Fue](https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 4:37 |
 | 98 | [Contigo en la Distancia \(with Carlos Cuevas\)](https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
 | 99 | [El Día Que Me Acaricies Lloraré](https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:33 |
 | 100 | [Me Basta \(with Leonel García\)](https://open.spotify.com/track/3OEIHCmRGzhcG3BI8ybSNm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:02 |
 
-Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDJlOTg1Njg2NDE4NmI5OTMyNDlhNDNjZjIzZGI1YzY1`
+Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDAyYmMyZjJiNWIzZjVlOTFiMDRjYzU4MTNiNjliZjlh`

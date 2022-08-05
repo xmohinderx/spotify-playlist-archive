@@ -1,12 +1,12 @@
 {
   "description": "Instrumental jazz to set the mood for a relaxed evening.",
-  "num_followers": 386954,
+  "num_followers": 386985,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTcyMCwwMDAwMDAwMDc2YzdkYjA0ZjlhZDFlMTFlZjcwNGZjMTNkODIzMWMx",
+  "snapshot_id": "MTY1OTA0NTcyMCwwMDAwMDAwMGZmODJkNDI1Y2I4OWNjMGM4ZTNjYjVlNzdhNzRmODgy",
   "tracks": [
     {
       "added_at": "2022-07-28 22:02:00",
@@ -107,6 +107,34 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "My Old Flame",
+        "url": "https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "duration_ms": 347377,
+      "name": "Other Jewels",
+      "url": "https://open.spotify.com/track/5t2AP2RpJc9p0zS5gdsCHF"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
       },
@@ -155,34 +183,6 @@
       "duration_ms": 476992,
       "name": "What Are You Doing the Rest of Your Life?",
       "url": "https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "My Old Flame",
-        "url": "https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo"
-      },
-      "artists": [
-        {
-          "name": "Walt Weiskopf",
-          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        },
-        {
-          "name": "Andreas Lang",
-          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
-        }
-      ],
-      "duration_ms": 347377,
-      "name": "Other Jewels",
-      "url": "https://open.spotify.com/track/5t2AP2RpJc9p0zS5gdsCHF"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+      },
+      "artists": [
+        {
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+        }
+      ],
+      "duration_ms": 401813,
+      "name": "Summer In Central Park",
+      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 423538,
       "name": "I Think of You",
       "url": "https://open.spotify.com/track/5O7gq2BSiX0UhDgPMLbayr"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
-      },
-      "artists": [
-        {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
-        }
-      ],
-      "duration_ms": 401813,
-      "name": "Summer In Central Park",
-      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1079,26 +1079,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Pannonica",
-        "url": "https://open.spotify.com/album/1Enu9y8qf10c0w7eykUfmB"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
         },
         {
-          "name": "Marco Fratini",
-          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
-        },
-        {
-          "name": "Giovanni Paolo Liguori",
-          "url": "https://open.spotify.com/artist/41C1QkN1baxWRNppaBt9CH"
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
         }
       ],
-      "duration_ms": 346923,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/0h3wot8Yt2SKK6Nw170b0M"
+      "duration_ms": 424132,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1127,6 +1123,30 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "Pannonica",
+        "url": "https://open.spotify.com/album/1Enu9y8qf10c0w7eykUfmB"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Marco Fratini",
+          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
+        },
+        {
+          "name": "Giovanni Paolo Liguori",
+          "url": "https://open.spotify.com/artist/41C1QkN1baxWRNppaBt9CH"
+        }
+      ],
+      "duration_ms": 346923,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/0h3wot8Yt2SKK6Nw170b0M"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "Life's Love Songs",
         "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
       },
@@ -1139,22 +1159,6 @@
       "duration_ms": 372376,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "Runmar\u00f6",
-        "url": "https://open.spotify.com/album/7ChRBtXYq64ImcF2wFtZ7i"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 341746,
-      "name": "Runmar\u00f6",
-      "url": "https://open.spotify.com/track/2wcHksp6K21BdxTk5tk6UZ"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1187,26 +1191,18 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "How Deep Is the Ocean",
-        "url": "https://open.spotify.com/album/4O7jV7aCfbf9vFJEqfWblQ"
+        "name": "Runmar\u00f6",
+        "url": "https://open.spotify.com/album/7ChRBtXYq64ImcF2wFtZ7i"
       },
       "artists": [
         {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
-        },
-        {
-          "name": "Danny Gottlieb",
-          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
         }
       ],
-      "duration_ms": 280586,
-      "name": "How Deep Is the Ocean?",
-      "url": "https://open.spotify.com/track/3d8vUViUV2NpB37JhxnTcH"
+      "duration_ms": 341746,
+      "name": "Runmar\u00f6",
+      "url": "https://open.spotify.com/track/2wcHksp6K21BdxTk5tk6UZ"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1231,22 +1227,26 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif"
+        "name": "How Deep Is the Ocean",
+        "url": "https://open.spotify.com/album/4O7jV7aCfbf9vFJEqfWblQ"
       },
       "artists": [
         {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
         },
         {
-          "name": "The Modern Jazz Trio",
-          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
+          "name": "Danny Gottlieb",
+          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
+        },
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
         }
       ],
-      "duration_ms": 424132,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p"
+      "duration_ms": 280586,
+      "name": "How Deep Is the Ocean?",
+      "url": "https://open.spotify.com/track/3d8vUViUV2NpB37JhxnTcH"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa"
+        "name": "Uptown, Downtown",
+        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
         }
       ],
-      "duration_ms": 290447,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar"
+      "duration_ms": 405973,
+      "name": "Bon ami",
+      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        }
+      ],
+      "duration_ms": 290447,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "The Inspiration Suite",
         "url": "https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 393133,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "Uptown, Downtown",
-        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 405973,
-      "name": "Bon ami",
-      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1419,22 +1419,26 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Phil's Mood",
-        "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
+        "name": "Moods",
+        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
       "artists": [
         {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
         },
         {
-          "name": "Space Jazz Trio",
-          "url": "https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65"
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
         }
       ],
-      "duration_ms": 391240,
-      "name": "Hindsight",
-      "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
+      "duration_ms": 462208,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1479,26 +1483,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Moods",
-        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
+        "name": "Phil's Mood",
+        "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
       },
       "artists": [
         {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
         },
         {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+          "name": "Space Jazz Trio",
+          "url": "https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65"
         }
       ],
-      "duration_ms": 462208,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3"
+      "duration_ms": 391240,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "Time For Ballads - The Studio Sessions",
+        "url": "https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+        }
+      ],
+      "duration_ms": 263285,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "Barcode",
         "url": "https://open.spotify.com/album/36Xt075p8VSDs0wTkfcciE"
       },
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Time For Ballads - The Studio Sessions",
-        "url": "https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q"
-      },
-      "artists": [
-        {
-          "name": "Rob Van Bavel",
-          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
-        }
-      ],
-      "duration_ms": 263285,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "To Satch and Duke",
+        "url": "https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B"
+      },
+      "artists": [
+        {
+          "name": "Axel Schlosser Quartet",
+          "url": "https://open.spotify.com/artist/1gyU95deycuGxh38euzxip"
+        }
+      ],
+      "duration_ms": 317643,
+      "name": "In a Mellow Tone",
+      "url": "https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/3fovoZLSTt2B0UuGcmARs6"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 423520,
       "name": "Cambridge Place",
       "url": "https://open.spotify.com/track/6geba7EiMvkWk7h2XWzjb8"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "To Satch and Duke",
-        "url": "https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B"
-      },
-      "artists": [
-        {
-          "name": "Axel Schlosser Quartet",
-          "url": "https://open.spotify.com/artist/1gyU95deycuGxh38euzxip"
-        }
-      ],
-      "duration_ms": 317643,
-      "name": "In a Mellow Tone",
-      "url": "https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Introducing Brad Mehldau",
-        "url": "https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 422066,
-      "name": "London Blues",
-      "url": "https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/2WNi7GjqE18Me0yisREjZV"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 293582,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/6YliyU9qRaWIS1YuQXOe3t"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
+        "name": "Introducing Brad Mehldau",
+        "url": "https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 422066,
+      "name": "London Blues",
+      "url": "https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB"
     }
   ],
   "unique_name": "Jazzy Dinner",

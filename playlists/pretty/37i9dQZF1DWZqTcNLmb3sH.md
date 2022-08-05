@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,782 likes - 82 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,890 likes - 82 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 7 | [Ondu Oorali](https://open.spotify.com/track/1FDqsTKCK9WI5PqM0ZZ6Hs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Ek Love Ya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4QOXsn9u91ufIcv50eI90F) | 3:46 |
 | 8 | [Dhikkara Ninage Devare \(From "James \- Kannada"\)](https://open.spotify.com/track/0G7zNElFN13iZsbGgq6Z37) | [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi) | [Dhikkara Ninage Devare \(From "James \- Kannada"\)](https://open.spotify.com/album/1rzztSE58KV2EFAbbfuwJ1) | 3:32 |
 | 9 | [Devle Devle Devle](https://open.spotify.com/track/2mYi5h5eXeby8kO2pohF2P) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Gaalipata 2](https://open.spotify.com/album/3cyWPXmeBUzEjoefdM6apj) | 4:22 |
-| 10 | [Aane Maadi Heluteeni](https://open.spotify.com/track/7DJuyVnRq0xs140ysznQu6) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Guru Shishyaru](https://open.spotify.com/album/3dftKIfkSLE9XK8OyZOv9S) | 4:25 |
+| 10 | [Aane Maadi Heluteeni \- From "Guru Shishyaru"](https://open.spotify.com/track/6JdoeRdHNV2InrRl80NLac) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Aane Maadi Heluteeni \(From "Guru Shishyaru"\)](https://open.spotify.com/album/7IfqXHuEy0tmIo09RECvSj) | 4:25 |
 | 11 | [Kesariya Rangu \(From "Brahmastra \(Kannada\)"\)](https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kesariya Rangu \[From "Brahmastra \(Kannada\)"\]](https://open.spotify.com/album/0St5fP672OHd31twjogATZ) | 4:38 |
 | 12 | [Gelathiye](https://open.spotify.com/track/1xC8iAy1U6k8dIPDOwm6gb) | [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Varun Ramachandran](https://open.spotify.com/artist/09LX9SpXbL4WjqseZR8SGk) | [Buddies](https://open.spotify.com/album/5gVvdI0hxLvjfjl5IOcXCf) | 3:41 |
 | 13 | [Hey Fakira \(From "Vikrant Rona"\)](https://open.spotify.com/track/71HXynGmLcg9br5GfS2Z8V) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anup Bhandari](https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL) | [Hey Fakira \(From "Vikrant Rona"\)](https://open.spotify.com/album/64YmpCXj6doaZa7EW15zPZ) | 2:52 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 81 | [Sulthana \(From "Kgf Chapter 2"\)](https://open.spotify.com/track/7a2knwPyOj9WZrRSM1lb0i) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Mohan Krishna](https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7), [Sachin Basrur](https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Puneeth Rudranag](https://open.spotify.com/artist/6oLN9TELPauBfctYeWPtYP), [Manish Dinakar](https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw), [Varsha Acharya](https://open.spotify.com/artist/06QNJdEjmoWoO1JLEbaHi0) | [Sulthana \(From "Kgf Chapter 2"\)](https://open.spotify.com/album/5bBoVPJ9tTBfvZ0kjOJecb) | 3:45 |
 | 82 | [Baby Run The Bush \(From "Man Of The Match"\)](https://open.spotify.com/track/6LijWX7PJMlVdFeR33dPHS) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Gokul Abhishek](https://open.spotify.com/artist/0OOQrP00g6QUmlrvpTbfQd) | [Baby Run The Bush \(From "Man Of The Match"\)](https://open.spotify.com/album/0GXWQsfxVJdYTXBCRBkRc3) | 1:36 |
 
-Snapshot ID: `MTY1OTUyNzk3NywwMDAwMDAwMGVjN2JkNWVkNDMyNWRiNmRiYTU2N2NjZGFmMTQ2OWMw`
+Snapshot ID: `MTY1OTUyNzk3NywwMDAwMDAwMDk1NDQ4MzA5OTNhMzU1YjA1MDcyZjY1NjU0MGU2MTU1`

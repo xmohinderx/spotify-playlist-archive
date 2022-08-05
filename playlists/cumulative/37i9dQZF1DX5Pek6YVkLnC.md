@@ -4,7 +4,7 @@
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Big Soto, ARON, Mora
 
-104 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/5dfcyYjgXtZzbFL0wbWZbj)
+105 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/5dfcyYjgXtZzbFL0wbWZbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [HOLY SHIT](https://open.spotify.com/track/134kmpz1I5kIg88qAFgIgk) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [ANTI JUDAS](https://open.spotify.com/album/0BlqUCStGXgKUmB4wQDriv) | 3:23 | 2022-05-25 |  |
 | [Irma](https://open.spotify.com/track/3BggSspByGIm5dUWz7UceG) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:27 | 2022-05-25 |  |
 | [Jangueo](https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj) | [Arkey\-O](https://open.spotify.com/artist/4IiSkchFzuQDd1Y5gOQozC), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Jangueo](https://open.spotify.com/album/5IlQPzzI4ighOkZCiCWwmi) | 3:32 | 2022-07-01 |  |
-| [Kali](https://open.spotify.com/track/560oN6Cr5LUNNp2u3ORQo9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Kali](https://open.spotify.com/album/0K1GMEQqlu3HXC2LRbjRXV) | 2:39 | 2022-07-01 |  |
+| [Kali](https://open.spotify.com/track/560oN6Cr5LUNNp2u3ORQo9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Kali](https://open.spotify.com/album/0K1GMEQqlu3HXC2LRbjRXV) | 2:39 | 2022-07-01 | 2022-08-05 |
 | [Killing Me Softly \(Urban Version\)](https://open.spotify.com/track/1JBf8zlMB7ReukqHoAogSq) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [Killing Me Softly \(Urban Version\)](https://open.spotify.com/album/4Dr4KyUdP0koYuG9aE1gLR) | 3:40 | 2022-05-25 | 2022-07-29 |
 | [La Zona](https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:16 | 2022-05-25 |  |
 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 | 2022-05-25 |  |
@@ -86,6 +86,7 @@
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2022-05-25 |  |
 | [Rating](https://open.spotify.com/track/0lusLMalgd4d8g2BZI5NrT) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Rating](https://open.spotify.com/album/3J7ZDoP6VRD4bGSK1ClMLQ) | 3:22 | 2022-05-25 | 2022-07-25 |
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-07-12 |  |
+| [S.O.S.](https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [S.O.S.](https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR) | 4:03 | 2022-08-04 |  |
 | [Santa Diabla](https://open.spotify.com/track/2xeOY98taPuzh6XZWVKiKK) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Santa Diabla](https://open.spotify.com/album/4bUKgMoGPN3i7Z6ea3sU76) | 4:43 | 2022-05-25 |  |
 | [Se Menea](https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Se Menea](https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5) | 3:10 | 2022-05-25 |  |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-05-25 |  |

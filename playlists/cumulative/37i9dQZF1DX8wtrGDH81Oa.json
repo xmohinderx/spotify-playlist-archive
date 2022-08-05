@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Bonez",
+        "url": "https://open.spotify.com/album/40RcBRJGlIp9zlsWuGHGGj"
+      },
+      "artists": [
+        {
+          "name": "Dahtona",
+          "url": "https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196854,
+      "name": "Bonez",
+      "url": "https://open.spotify.com/track/2BBqygCwljo8N4XcWk6bCN"
+    },
+    {
+      "album": {
         "name": "bonny",
         "url": "https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0"
       },
@@ -2979,6 +2997,24 @@
       "duration_ms": 123130,
       "name": "Xhosa",
       "url": "https://open.spotify.com/track/3Cty5cCROsp5Q2bzlKyzRH"
+    },
+    {
+      "album": {
+        "name": "Yin Yan Tonic",
+        "url": "https://open.spotify.com/album/2cGFqAL2ttK8IrsC3s7n3U"
+      },
+      "artists": [
+        {
+          "name": "Son-us",
+          "url": "https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170256,
+      "name": "Yin Yan Tonic",
+      "url": "https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3"
     },
     {
       "album": {

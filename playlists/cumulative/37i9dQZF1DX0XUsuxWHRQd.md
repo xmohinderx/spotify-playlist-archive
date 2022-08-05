@@ -4,7 +4,7 @@
 
 > New music from Quavo & Takeoff, Rod Wave and Lil Uzi Vert.
 
-1,290 songs - 2 day 18 hr 27 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,291 songs - 2 day 18 hr 32 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-24 | 2021-10-16 |
 | [INDUSTRY GAMES](https://open.spotify.com/track/6ighVlHNMvUaIdwKlJ0hA7) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 2:16 | 2020-08-14 | 2020-08-30 |
 | [Insane](https://open.spotify.com/track/2meHtZ7N97pJfvTL4hYtfv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 2:49 | 2022-06-03 | 2022-07-30 |
+| [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 | 2022-08-04 |  |
 | [Interstate 10 \(feat\. Future\)](https://open.spotify.com/track/4j13h3sia1FhQG18bjSXEC) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:17 | 2019-06-28 | 2019-07-06 |
 | [INTRO](https://open.spotify.com/track/05WepN8vrMLJG5r8XRdLeL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [INTRO](https://open.spotify.com/album/3HzUH9fh5DExUQXfIAt9wI) | 2:52 | 2019-09-20 | 2019-09-27 |
 | [Intro](https://open.spotify.com/track/7tbyiwnLhtKYXNMjCZ60BT) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Intro](https://open.spotify.com/album/1y1l71S4ZveVZQRuqcZk0u) | 3:35 | 2019-08-02 | 2019-08-16 |

@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Deejay Telio entra na zona.
+> Mizzy Miles, Gson, Teto e Deejay Telio entram na zona.
 
-90 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+91 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dentu Di Espanha](https://open.spotify.com/track/7glOAznlQuVCZ3KcqkUqWL) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Casp3r](https://open.spotify.com/artist/2dNyGUrMkoGzDHTMTukhf6) | [Dentu Di Espanha](https://open.spotify.com/album/3iC4A749XyBNEGTJUvGGGi) | 3:33 | 2022-07-21 |  |
 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 | 2022-07-16 |  |
 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 | 2022-07-16 |  |
+| [Eqlibrio](https://open.spotify.com/track/3DBE7Y8iUKvBiTemUAVBxr) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Eqlibrio](https://open.spotify.com/album/0G6VzSlavGHhp2NCAWNbnz) | 4:31 | 2022-08-04 |  |
 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 | 2022-07-16 |  |
 | [Estadia](https://open.spotify.com/track/1ivRu9ANM1hYBgeNDZyRmX) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Estadia](https://open.spotify.com/album/7rHFACi1s7gKshBvKBCbDN) | 3:27 | 2022-07-16 |  |
 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 | 2022-07-16 |  |
@@ -64,7 +65,7 @@
 | [Moncler](https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [Moncler](https://open.spotify.com/album/5V9MRkH3TQlZJKtHJl00kV) | 3:40 | 2022-07-21 |  |
 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 | 2022-07-16 |  |
 | [Moving Crazy](https://open.spotify.com/track/4cMEM20KHRFOxbaXqXgk1d) | [Nicholas](https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB), [Vlone975](https://open.spotify.com/artist/6sIjMCMxg5ZxZLH02pqIJt), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W) | [In Love With This](https://open.spotify.com/album/2V2tB6WfURVBccFxaLUtMw) | 2:53 | 2022-07-21 |  |
-| [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-16 |  |
+| [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-16 | 2022-08-05 |
 | [NADA ME FALTA](https://open.spotify.com/track/1FbYUB1g0NIgywhHzZ0yuS) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [NADA ME FALTA](https://open.spotify.com/album/6KqShDEwsaP31poMKDPemG) | 4:20 | 2022-07-16 |  |
 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 | 2022-08-01 |  |
 | [Noite De Loucura](https://open.spotify.com/track/2V8nMMUbjGSjwSTYfx6zjq) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [NOCAP](https://open.spotify.com/artist/3Btn1ywwqv6SaBQnkWesMb), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0) | [Noite De Loucura](https://open.spotify.com/album/4Y3A4edz8Uqya0a1eIk7qn) | 3:35 | 2022-07-16 |  |
@@ -89,7 +90,7 @@
 | [Sabi na Sabura](https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sabi na Sabura](https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7) | 3:06 | 2022-07-16 |  |
 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 | 2022-07-16 |  |
 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 | 2022-07-16 |  |
-| [teach me how to love](https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO) | [colombianacallmegringo](https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB) | [teach me how to love](https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj) | 2:37 | 2022-07-16 |  |
+| [teach me how to love](https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO) | [colombianacallmegringo](https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB) | [teach me how to love](https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj) | 2:37 | 2022-07-16 | 2022-08-05 |
 | [Teu Cheiro](https://open.spotify.com/track/4hwguRVq6Kv6llWmKf9G88) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Teu Cheiro](https://open.spotify.com/album/4pdhXTGmIQ4JnIdGrOF4nj) | 3:35 | 2022-07-16 |  |
 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 | 2022-07-16 |  |
 | [Tirar Bilhete](https://open.spotify.com/track/3lq7iyMDvegqcMcSi3qAlI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Tirar Bilhete](https://open.spotify.com/album/1LARFxMfvrS6hr8F2sA3uG) | 3:05 | 2022-07-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,611 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,636 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 47 | [DRiNK 2 4GET \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/0Dmy2qmiAKQDbgv2ESvRhx) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:57 |
 | 48 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
 | 49 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
-| 50 | [Murder On The Dance Floor](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | 3:22 |
-| 51 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
+| 50 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
+| 51 | [Murder On The Dance Floor](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | 3:22 |
 | 52 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 |
 | 53 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 |
 | 54 | [Runners](https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 |
 | 60 | [Grxxdy](https://open.spotify.com/track/1WAmQJRFZY6HPROxzuQnRb) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Bad Girlfriend \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/3XkngC33ucHUrYmzczTiLD) | 2:59 |
 
-Snapshot ID: `MTY1NzI2MDk2NiwwMDAwMDAwMGY3YzViNWZmZDliZGUzMjc3Nzg0MGZiNzE2ZmUwZDhk`
+Snapshot ID: `MTY1NzI2MDk2NiwwMDAwMDAwMGNmZjQyOTY2YTc3N2UxZGUzMTJhZTA5MGQ3YjM2M2Yx`

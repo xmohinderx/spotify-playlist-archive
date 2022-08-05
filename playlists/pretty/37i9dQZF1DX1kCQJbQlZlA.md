@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,892 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,896 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 14 | [Hành Trình Trên Đất Phù Sa](https://open.spotify.com/track/1q9nzKilNQd5hUvwo0hhmD) | [Hương Thủy](https://open.spotify.com/artist/4bQ2P3p1cgvh1oeLAuXjho), [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Thương Nhớ Cậu Hai](https://open.spotify.com/album/2tpBn7ctbcP0NQXt6HKjpr) | 4:45 |
 | 15 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS) | [Sơn Tuyền](https://open.spotify.com/artist/0fyBq02ZMDgu857S5JaW9H) | [Tình Là Gì](https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV) | 5:02 |
 | 16 | [Miền Tây Thương Nhớ](https://open.spotify.com/track/4ZPyWUjFoHhSyA73lmaqOa) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Miền Tây Thương Nhớ](https://open.spotify.com/album/6k9COrPyTaqcfwadGhL2jm) | 5:16 |
-| 17 | [Đẹp mối duyên quê](https://open.spotify.com/track/2QmzslvPYjF7Ubas31niaZ) | [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8), [Le Sang](https://open.spotify.com/artist/2z9gi7deY4ZOydUTxhiMff) | [Tuyển Tập Song Ca \(Thương Mối Tình Đầu\)](https://open.spotify.com/album/6SQX1wP7rHofPZnAMUKPco) | 4:53 |
+| 17 | [Đẹp Mối Duyên Quê \(feat\. Ngọc Kiều Oanh\)](https://open.spotify.com/track/1aRoFrHr1Jv2fKrKC0mgld) | [Lê Sang](https://open.spotify.com/artist/1F5d5qNLZ2T1AxZ4fnOnxJ), [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8) | [Tổng Hợp Bài Hát Của Lê Sang](https://open.spotify.com/album/5uMNk9HqwKVVzh3TuVLYkS) | 4:53 |
 | 18 | [Hương Tình Bến Tre](https://open.spotify.com/track/6UN7JNZ1d9ITE2Y9qF0J0a) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Hương Tình Bến Tre](https://open.spotify.com/album/42jLgyRJ3ULOERjCDSpAwo) | 5:28 |
 | 19 | [Em Đi Trên Cỏ Non](https://open.spotify.com/track/4Vu18b6pv5w1rWuWtRSQEx) | [Huong Thuy](https://open.spotify.com/artist/7uSNudh9nTnHLyfs6uQqFv), [Ha Phuong](https://open.spotify.com/artist/5JrB3x7l6ij0DyDh8LXQJq) | [Áo Em Chưa Mặc Một Lần & Vòng Nhẫn Cưới](https://open.spotify.com/album/5W9nC3NXCIohhmrs5SQ6EY) | 5:10 |
 | 20 | [Còn Thương Rau Đắng Mọc Sau Hè](https://open.spotify.com/track/1BkvNL3TRshjUdIP44ijnH) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Bến Sông Chiều](https://open.spotify.com/track/3PVWp9WJgbJiZzRfTXKfkT) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Bến Sông Chiều](https://open.spotify.com/album/5q8d4rWRhhUUWf4AJZykjy) | 5:12 |
 | 75 | [Về Thăm Quê Mẹ](https://open.spotify.com/track/5UuB5YlnUR9s5KMeVi37Ml) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Về Thăm Quê Mẹ](https://open.spotify.com/album/5sMsNnRGNhKZRoBqcTR3Mi) | 4:34 |
 
-Snapshot ID: `MTY1OTQxMzI4OCwwMDAwMDAwMGRjYjBmNTk0ZGFmNGEyNTdhZGEyNzIzM2Q5OGU3OWNk`
+Snapshot ID: `MTY1OTQxMzI4OCwwMDAwMDAwMDQwZDJjZDkxMGY2MTlkNzVmOWI5NDIyYTM1ZWVkZDNm`

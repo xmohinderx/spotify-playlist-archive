@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Rui Orlando",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.",
   "name": "Dancing Kizomba",
   "published_playlist_ids": [
     "33PmHWTm7jqDMnzqBQ57ZY"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 281720,
       "name": "Boa Sorte / Good Luck",
       "url": "https://open.spotify.com/track/1xb4uv25MokAY9xos31WXL"
@@ -1598,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Fala S\u00f3",
+        "url": "https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr"
+      },
+      "artists": [
+        {
+          "name": "Yola Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Fala S\u00f3",
+      "url": "https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ"
+    },
+    {
+      "album": {
         "name": "Faz De Mim",
         "url": "https://open.spotify.com/album/1D0MX6LR1AcT4OckPFp8e4"
       },
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 228666,
       "name": "Fica Parado (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 270053,
       "name": "Loucos (feat. H\u00e9ber Marques)",
       "url": "https://open.spotify.com/track/49Fu8EcEOZ9OnpM1XpPpyU"
@@ -2493,7 +2511,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 255936,
       "name": "Me Toca",
       "url": "https://open.spotify.com/track/3bdyv9dFP9rUVtdGnFd3Sf"
@@ -3383,7 +3401,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
@@ -4799,7 +4817,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 201501,
       "name": "Tu - Inverno",
       "url": "https://open.spotify.com/track/7c3GCFDBe9re7vJxxLRUPW"
@@ -5121,6 +5139,56 @@
       "duration_ms": 220360,
       "name": "Vamos Ficar por Aqui",
       "url": "https://open.spotify.com/track/6sAukzDGVFKv3Z6dF3pU9X"
+    },
+    {
+      "album": {
+        "name": "Versos & Poesias #4: C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/0RuuM2yV5MrV0b4JtcrRxk"
+      },
+      "artists": [
+        {
+          "name": "Dj Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Penelas Sidney",
+          "url": "https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "LordCkOficial",
+          "url": "https://open.spotify.com/artist/67pgzB2Th41qM0tR3mZvpH"
+        },
+        {
+          "name": "Queen Marcy",
+          "url": "https://open.spotify.com/artist/1FpZb8gVHsR9NtEjEidlnT"
+        },
+        {
+          "name": "Sheila Da Cunha",
+          "url": "https://open.spotify.com/artist/56PqlWBrVp8gAxmPVFXu7w"
+        },
+        {
+          "name": "LilBoy Bruce",
+          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
+        },
+        {
+          "name": "Mary J",
+          "url": "https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY"
+        },
+        {
+          "name": "F\u00e1bio S",
+          "url": "https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366394,
+      "name": "Versos & Poesias #4: C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/3VPdA0kcMEOiOq5Pk1oOul"
     },
     {
       "album": {

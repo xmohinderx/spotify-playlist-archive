@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: DPR IAN
+> Future K\-Pop hits! Cover: YENA
 
-618 songs - 1 day 10 hr 30 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+619 songs - 1 day 10 hr 33 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [SIREN](https://open.spotify.com/track/24KYbNn0mcRFuSiGLOegSi) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : STAND OUT](https://open.spotify.com/album/0IBGqfWduNDfbSqYjSd1Tv) | 3:01 | 2020-11-05 | 2021-03-01 |
 | [Slow Dance](https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Slow Dance](https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E) | 3:03 | 2022-01-14 | 2022-02-18 |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-01-19 | 2022-03-22 |
+| [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-04 |  |
 | [SMF \(Prod\. Czaer\)](https://open.spotify.com/track/2RwFM3urdm9MhkZek5G8aH) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Street Man Fighter Original Vol.1](https://open.spotify.com/album/64RwgplkeOHLK04rkdf9Fq) | 2:16 | 2022-06-10 | 2022-07-26 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-19 | 2022-04-09 |
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-12 | 2021-11-24 |

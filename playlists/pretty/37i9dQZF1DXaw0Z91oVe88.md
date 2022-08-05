@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 20 | [Numb](https://open.spotify.com/track/67eJLGtHOUmoNXRYnkedwG) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:46 |
 | 21 | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq) | 2:41 |
 | 22 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 |
-| 23 | [Whatever You Do](https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:38 |
-| 24 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
+| 23 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
+| 24 | [Whatever You Do](https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:38 |
 | 25 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 |
 | 26 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 |
 | 27 | [RAINING](https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:41 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 44 | [Someday](https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Hundred Million Stars from the Sky \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d) | 4:25 |
 | 45 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 |
 | 46 | [A Letter in The Wind](https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 4:27 |
-| 47 | [Forever](https://open.spotify.com/track/4jcW7dMVX8ESpPQ9U3XvWp) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:55 |
-| 48 | [Let’s Dance For Me](https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me](https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes) | 3:35 |
+| 47 | [Let’s Dance For Me](https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me](https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes) | 3:35 |
+| 48 | [Forever](https://open.spotify.com/track/4jcW7dMVX8ESpPQ9U3XvWp) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:55 |
 | 49 | [Surf](https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:17 |
 | 50 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 |
 
-Snapshot ID: `MTY1ODQ4MjgxNiwwMDAwMDAwMGU3ODc4MWE2ODc0ODhlYzY4YzllZTU1NzJkMmJkODc4`
+Snapshot ID: `MTY1ODQ4MjgxNiwwMDAwMDAwMGI4ZTMzY2FiNzdiYWJlZjZjNzBmOTRkMWRmZGI5OGFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Pomme
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,811 likes - 38 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,825 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,22 +29,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 19 | [Pas le temps](https://open.spotify.com/track/7DqBmgSQZJJrKAYqjyDkFB) | [Dina](https://open.spotify.com/artist/40OywkN721WGbrgf7BCB13) | [Pas le temps](https://open.spotify.com/album/2dtYu9dDymWmkf4OFDYoAv) | 3:09 |
 | 20 | [Doudou mets ta robe rouge](https://open.spotify.com/track/54bz9UmXdkI6zpZwJJWeSQ) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Soleil la](https://open.spotify.com/album/3fbuYQnRRZcu85w9BDR2pz) | 3:37 |
 | 21 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 |
-| 22 | [Essayer](https://open.spotify.com/track/5ECIx1f4vNKbPqwtr22erJ) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [Essayer](https://open.spotify.com/album/3iqyYsZVMmIkqe3vFMmq5G) | 3:20 |
-| 23 | [Die \(cover\)](https://open.spotify.com/track/4yWypfTz46wJaMIfkMLC4s) | [Whitney](https://open.spotify.com/artist/5w5MVvOJSu0nGTFRkkc69W) | [Die \(cover\)](https://open.spotify.com/album/4jG0lek2rIC5pbgibDJkpq) | 2:36 |
-| 24 | [Carmen \- Mathilda Summer Tales Rework](https://open.spotify.com/track/0gHb2x76HDKXHfd0qFPwrN) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Carmen \(Mathilda Summer Tales Rework\)](https://open.spotify.com/album/05V6oOZkKo9rTTK7Qvdm0F) | 4:25 |
-| 25 | [Lundi au Lundi](https://open.spotify.com/track/6aphfKrq5Iirl1iNRP7WdL) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Lundi au Lundi](https://open.spotify.com/album/4gbl5DjpiZhaRbFyvRIhKA) | 2:41 |
-| 26 | [PCS](https://open.spotify.com/track/3IKfH3GeCRiSoj4kDpkkdG) | [BabySolo33](https://open.spotify.com/artist/6OpHYcuQqOouW8AEwGc7SL) | [PCS](https://open.spotify.com/album/3f8OW0pdsYzi5GCAXM5YAx) | 2:25 |
-| 27 | [Maladroit](https://open.spotify.com/track/4RFlWLFJwCYwveI46Hdf7z) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Maladroit](https://open.spotify.com/album/4aORDZeFDjW6YzUlEGNz3s) | 2:24 |
-| 28 | [Doucement](https://open.spotify.com/track/1AMe1fpZ2okM8gIdL7iBT9) | [AMELY](https://open.spotify.com/artist/1ZjMt2JJguTMAqvZwRqRNx) | [Doucement](https://open.spotify.com/album/4yzx8KbNlNG1FiktkSPKeP) | 2:40 |
-| 29 | [Starbucks](https://open.spotify.com/track/7kHaEXl42wgQuTa7wl6LFV) | [Morgan](https://open.spotify.com/artist/6sGG5B6oUd8P9FCOtpV97c) | [Brikabrak, Vol.1](https://open.spotify.com/album/0AyQKNQbjWima7HEBgl4nM) | 0:44 |
-| 30 | [Calma](https://open.spotify.com/track/2jll0FYneJFAFcJaZm2GmQ) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Calma](https://open.spotify.com/album/1NK1v7nfbyeEPt18ZbxpFi) | 3:04 |
-| 31 | [NGR](https://open.spotify.com/track/7ymzr1whi9W2ZbL6JX7Ygi) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [NGR](https://open.spotify.com/album/1MtL34RQ5kbc9smWBp956Z) | 2:56 |
-| 32 | [Plus la meme](https://open.spotify.com/track/1XlT7kSK0ISuDMCDhiJQ4w) | [CHERYN AH](https://open.spotify.com/artist/02nADk5pNMk2KsO7QW9Gd5) | [Plus la meme](https://open.spotify.com/album/65WimIdylrtHRDnF7w6UJ5) | 2:34 |
-| 33 | [Café](https://open.spotify.com/track/3VUx8QNifEyi4PgIl0pelw) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [37 degrés](https://open.spotify.com/album/1W1AHlF0ZqSHy1NnVP7DWP) | 2:31 |
-| 34 | [Ma moitié](https://open.spotify.com/track/5cc8kWoW6SecUjRfGMel8w) | [Inèss Parks](https://open.spotify.com/artist/6O0ieEx4E2r2gEwHiXYT6x) | [Ma moitié](https://open.spotify.com/album/0rjNQPfLnySfSJbystUvSe) | 3:02 |
-| 35 | [NOCHE](https://open.spotify.com/track/5hUQtYvMKGP2iqBs1pCrKY) | [SARA SOFIA](https://open.spotify.com/artist/1gpoxohUsapx6qpKkyOCWL) | [Noche](https://open.spotify.com/album/63mLRn0hc6WDFxiotneQPz) | 2:42 |
-| 36 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 |
-| 37 | [Bébé](https://open.spotify.com/track/4l8fvUp5kYt83NTAU9MY3S) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Bébé](https://open.spotify.com/album/75DRDJC5XikqlK93FtFS3Y) | 2:14 |
-| 38 | [Benti](https://open.spotify.com/track/2czmqUI8rI4bhaEmhk4gkk) | [Biaziouka](https://open.spotify.com/artist/6hYHx2DaFd4QyiKNBs2UT8) | [Benti](https://open.spotify.com/album/6LHkEqJNjns3qj2HcFQK3n) | 2:58 |
+| 22 | [DGT](https://open.spotify.com/track/15qQs3cBr7SeqOssfB0imS) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [DGT](https://open.spotify.com/album/5NXvP0XMCC1zkxYOYVhh9R) | 2:34 |
+| 23 | [Essayer](https://open.spotify.com/track/5ECIx1f4vNKbPqwtr22erJ) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [Essayer](https://open.spotify.com/album/3iqyYsZVMmIkqe3vFMmq5G) | 3:20 |
+| 24 | [Die \(cover\)](https://open.spotify.com/track/4yWypfTz46wJaMIfkMLC4s) | [Whitney](https://open.spotify.com/artist/5w5MVvOJSu0nGTFRkkc69W) | [Die \(cover\)](https://open.spotify.com/album/4jG0lek2rIC5pbgibDJkpq) | 2:36 |
+| 25 | [Carmen \- Mathilda Summer Tales Rework](https://open.spotify.com/track/0gHb2x76HDKXHfd0qFPwrN) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Carmen \(Mathilda Summer Tales Rework\)](https://open.spotify.com/album/05V6oOZkKo9rTTK7Qvdm0F) | 4:25 |
+| 26 | [Lundi au Lundi](https://open.spotify.com/track/6aphfKrq5Iirl1iNRP7WdL) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Lundi au Lundi](https://open.spotify.com/album/4gbl5DjpiZhaRbFyvRIhKA) | 2:41 |
+| 27 | [PCS](https://open.spotify.com/track/3IKfH3GeCRiSoj4kDpkkdG) | [BabySolo33](https://open.spotify.com/artist/6OpHYcuQqOouW8AEwGc7SL) | [PCS](https://open.spotify.com/album/3f8OW0pdsYzi5GCAXM5YAx) | 2:25 |
+| 28 | [Maladroit](https://open.spotify.com/track/4RFlWLFJwCYwveI46Hdf7z) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Maladroit](https://open.spotify.com/album/4aORDZeFDjW6YzUlEGNz3s) | 2:24 |
+| 29 | [Doucement](https://open.spotify.com/track/1AMe1fpZ2okM8gIdL7iBT9) | [AMELY](https://open.spotify.com/artist/1ZjMt2JJguTMAqvZwRqRNx) | [Doucement](https://open.spotify.com/album/4yzx8KbNlNG1FiktkSPKeP) | 2:40 |
+| 30 | [Starbucks](https://open.spotify.com/track/7kHaEXl42wgQuTa7wl6LFV) | [Morgan](https://open.spotify.com/artist/6sGG5B6oUd8P9FCOtpV97c) | [Brikabrak, Vol.1](https://open.spotify.com/album/0AyQKNQbjWima7HEBgl4nM) | 0:44 |
+| 31 | [Calma](https://open.spotify.com/track/2jll0FYneJFAFcJaZm2GmQ) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Calma](https://open.spotify.com/album/1NK1v7nfbyeEPt18ZbxpFi) | 3:04 |
+| 32 | [NGR](https://open.spotify.com/track/7ymzr1whi9W2ZbL6JX7Ygi) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [NGR](https://open.spotify.com/album/1MtL34RQ5kbc9smWBp956Z) | 2:56 |
+| 33 | [Plus la meme](https://open.spotify.com/track/1XlT7kSK0ISuDMCDhiJQ4w) | [CHERYN AH](https://open.spotify.com/artist/02nADk5pNMk2KsO7QW9Gd5) | [Plus la meme](https://open.spotify.com/album/65WimIdylrtHRDnF7w6UJ5) | 2:34 |
+| 34 | [Café](https://open.spotify.com/track/3VUx8QNifEyi4PgIl0pelw) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [37 degrés](https://open.spotify.com/album/1W1AHlF0ZqSHy1NnVP7DWP) | 2:31 |
+| 35 | [Ma moitié](https://open.spotify.com/track/5cc8kWoW6SecUjRfGMel8w) | [Inèss Parks](https://open.spotify.com/artist/6O0ieEx4E2r2gEwHiXYT6x) | [Ma moitié](https://open.spotify.com/album/0rjNQPfLnySfSJbystUvSe) | 3:02 |
+| 36 | [NOCHE](https://open.spotify.com/track/5hUQtYvMKGP2iqBs1pCrKY) | [SARA SOFIA](https://open.spotify.com/artist/1gpoxohUsapx6qpKkyOCWL) | [Noche](https://open.spotify.com/album/63mLRn0hc6WDFxiotneQPz) | 2:42 |
+| 37 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 |
+| 38 | [Bébé](https://open.spotify.com/track/4l8fvUp5kYt83NTAU9MY3S) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Bébé](https://open.spotify.com/album/75DRDJC5XikqlK93FtFS3Y) | 2:14 |
+| 39 | [Benti](https://open.spotify.com/track/2czmqUI8rI4bhaEmhk4gkk) | [Biaziouka](https://open.spotify.com/artist/6hYHx2DaFd4QyiKNBs2UT8) | [Benti](https://open.spotify.com/album/6LHkEqJNjns3qj2HcFQK3n) | 2:58 |
 
-Snapshot ID: `MTY1OTQ3NzYwMCwwMDAwMDAwMDE4MzdiODAzM2RlYmFiOGMxMWRhZDNiMzI5OWM4YTVl`
+Snapshot ID: `MTY1OTQ3NzYwMCwwMDAwMDAwMDQ1YWZkOTllNDE2MTA0ZjQ2MWE3ZjJmZWIwZWY2M2E4`

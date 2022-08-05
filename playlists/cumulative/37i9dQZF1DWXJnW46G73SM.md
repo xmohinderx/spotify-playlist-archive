@@ -2,7 +2,7 @@
 
 ### [أجدد الأغاني](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> اكتشف الأغاني المصرية الجديدة! الغلاف: تامر عاشور
+> اكتشف الأغاني المصرية الجديدة! الغلاف: احمد كامل
 
 186 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
@@ -19,7 +19,7 @@
 | [Ahla Youm](https://open.spotify.com/track/4klTJvLlyWcr5nt91rZzSu) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ahla Youm](https://open.spotify.com/album/0enk0vJ9ab11zEJVddWyqH) | 2:01 | 2022-04-07 |  |
 | [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 | 2022-08-03 |  |
 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 | 2021-12-23 | 2022-03-10 |
-| [Alb Akhok](https://open.spotify.com/track/4koneNxLYSL43LF9n5ua4k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Alb Akhok](https://open.spotify.com/album/67k3Nzh6LtOIlGBME6nEzK) | 3:49 | 2022-04-23 |  |
+| [Alb Akhok](https://open.spotify.com/track/4koneNxLYSL43LF9n5ua4k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Alb Akhok](https://open.spotify.com/album/67k3Nzh6LtOIlGBME6nEzK) | 3:49 | 2022-04-23 | 2022-08-05 |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-02-16 | 2022-05-19 |
 | [Alo Ya Albi](https://open.spotify.com/track/1x8DcXrICAz4tK96hOvHin) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Alo Ya Albi](https://open.spotify.com/album/0dDAnhpvukjscXB64M00Ad) | 2:54 | 2022-03-18 | 2022-07-11 |
 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 | 2022-01-10 | 2022-03-18 |

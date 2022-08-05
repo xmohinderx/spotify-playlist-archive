@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367 likes - 81 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371 likes - 81 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Suga Shikao](https://open.spotify.com/artist/6FLRqfzwvP0AmpGhAuTB2e), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 |
-| 2 | [ココ☆ナツ \-ZZ ver.\-](https://open.spotify.com/track/4lVQTUYJODAG5uywdK9UVS) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 4:38 |
-| 3 | [W.W.D](https://open.spotify.com/track/0EuPeDqlNgujy5oQ3LtxvP) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [WORLD WIDE DEMPA](https://open.spotify.com/album/109W7IVCmSvgKLaNIq7kpk) | 5:42 |
-| 4 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/03LNdNAUE2xGFZpAsBmXhJ) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/album/1KoYnGSN4VVXBXYtB3KF1W) | 3:53 |
+| 1 | [ココ☆ナツ \-ZZ ver.\-](https://open.spotify.com/track/4lVQTUYJODAG5uywdK9UVS) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 4:38 |
+| 2 | [W.W.D](https://open.spotify.com/track/0EuPeDqlNgujy5oQ3LtxvP) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [WORLD WIDE DEMPA](https://open.spotify.com/album/109W7IVCmSvgKLaNIq7kpk) | 5:42 |
+| 3 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/03LNdNAUE2xGFZpAsBmXhJ) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/album/1KoYnGSN4VVXBXYtB3KF1W) | 3:53 |
+| 4 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Suga Shikao](https://open.spotify.com/artist/6FLRqfzwvP0AmpGhAuTB2e), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 |
 | 5 | [梅](https://open.spotify.com/track/0OCnqdysdBgBQrPFoQO0vq) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [中人](https://open.spotify.com/album/4cgScdHc1ORAy4GgyoZXoz) | 4:16 |
 | 6 | [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 |
 | 7 | [Hyouriittai](https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Shinsekai](https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63) | 5:36 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 80 | [OKITATTAー](https://open.spotify.com/track/3PLUM7RPDgEZ0E8e8M4XQN) | [おきたらんどキッズ](https://open.spotify.com/artist/2Xt5lDM9fryAwMlI2ps1QO), [畑中香音ちゃん](https://open.spotify.com/artist/1kskfEZRyBTOXxptAu9EYw), [中田麻菜ちゃん](https://open.spotify.com/artist/4IQPj8sjJMndVdNKlNd7hm), [高木京之介くん](https://open.spotify.com/artist/128Hd6hjRTirJHRzw4DU9m) | [ABCTV OHAYOUASAHIDESU OKITARAND OKITATTA](https://open.spotify.com/album/2M5uSQandeQMIhCgpkjkHN) | 1:48 |
 | 81 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MTY1NzYzOTc2MiwwMDAwMDAwMDNjMDJlNjk0NjM5Mjc5ZGE2ZGVkMzgyN2VlMWYwYjgy`
+Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDYwZjZlNThlYzcxYmQ1NGUzZjgyMGJiZDA2NWQ3YTg4`

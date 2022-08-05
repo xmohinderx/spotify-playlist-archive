@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,405 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,403 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 54 | [Silent Night](https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:47 |
 | 55 | [Angel](https://open.spotify.com/track/4yvhsSIcQvMmcwyExJvVja) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/5cIGSAUXb0LAjseafd3s0V) | 2:31 |
 | 56 | [Le ciel était blanc](https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Le ciel était blanc / Ribbons](https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1) | 4:26 |
-| 57 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
-| 58 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
+| 57 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
+| 58 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
 | 59 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB) | 4:38 |
 | 60 | [Noël Lougawou](https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:28 |
 | 61 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/track/62Pil5FPefGmHVmw5C21ch) | [Jonas](https://open.spotify.com/artist/1ZDG9pBZ3QHj4DFsBHdwKF), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/album/2Sx3z3DBBrQPwfs48FHTcq) | 4:24 |
 | 100 | [Écoutez Le Chant Des Anges](https://open.spotify.com/track/7aFE0125T9VaJpKODz4425) | [Sebastian Demrey & Jimmy Lahaie](https://open.spotify.com/artist/4boXCFW88xIa9K94eBJyMX) | [Heritage Cantiques De Noel](https://open.spotify.com/album/0HiAmdNNSc6v1rNHXfVSIn) | 3:23 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDRiZDM2NTZkOWMzOTNiMjczMzRlYzczMjE5ZTEyMzI5`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDQ5OTEwMzVmZWYwN2JiNWYwMDkwODIyNTIwNGU0ZjYy`

@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites.",
-  "num_followers": 1365890,
+  "num_followers": 1366300,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIyMzcyNCwwMDAwMDAwMGMyNjRiNWE3ZjIyMDUwNzBhZDI2Yjc0NjQzOThiYmE0",
+  "snapshot_id": "MTY0NTIyMzcyNCwwMDAwMDAwMDBiMjcwMGY5MmQ4NGU3MDNmZDFiM2M5YjY4YTMxNmNj",
   "tracks": [
     {
       "added_at": "2021-09-21 19:40:07",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "The Whispers: Greatest Hits",
-        "url": "https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp"
-      },
-      "artists": [
-        {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
-        }
-      ],
-      "duration_ms": 454253,
-      "name": "And the Beat Goes On",
-      "url": "https://open.spotify.com/track/7oQ1wkBmYSBEC2x7U08dvn"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
         "name": "Never Can Say Goodbye (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 179466,
       "name": "Never Can Say Goodbye - Single Version",
       "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "The Whispers: Greatest Hits",
+        "url": "https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "duration_ms": 454253,
+      "name": "And the Beat Goes On",
+      "url": "https://open.spotify.com/track/7oQ1wkBmYSBEC2x7U08dvn"
     },
     {
       "added_at": "2021-09-21 19:40:07",

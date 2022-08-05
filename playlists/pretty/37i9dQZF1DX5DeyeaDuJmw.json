@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Brray.",
-  "num_followers": 107554,
+  "num_followers": 107637,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1OTY4NywwMDAwMDAwMDY1YmNlMWFmYWY1Mjg5MGUzZmQzZDQwYjA5MDI0OWUx",
+  "snapshot_id": "MTY1ODQ1OTY4NywwMDAwMDAwMDY0NDE5MjU3MGQ1ZWYwNWE0ZGZiNTg4ZjIwMDE2ODEw",
   "tracks": [
     {
       "added_at": "2022-07-22 03:14:47",
@@ -87,22 +87,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 186096,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -163,18 +163,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -203,22 +207,18 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 158086,
-      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Dime A Ver",
-        "url": "https://open.spotify.com/album/5Ym76s7BarfeaDV6tOCqt6"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Dime A Ver",
-      "url": "https://open.spotify.com/track/2uGyZNHyMNFhB8iM107qb4"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "\u00c1cido",
         "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 149142,
       "name": "\u00c1cido",
       "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "Dime A Ver",
+        "url": "https://open.spotify.com/album/5Ym76s7BarfeaDV6tOCqt6"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Dime A Ver",
+      "url": "https://open.spotify.com/track/2uGyZNHyMNFhB8iM107qb4"
     },
     {
       "added_at": "2022-07-22 03:14:47",

@@ -1,29 +1,13 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Ayleen Valentine, Artwork: Robin Clifford Ellis ",
-  "num_followers": 150123,
+  "num_followers": 150189,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0NTUxMywwMDAwMDAwMGVhMGMyMjkxOTA3NjhmZjQwZTg5MjA1ODNlOWY2Yjhh",
+  "snapshot_id": "MTY1OTY0OTgwNSwwMDAwMDAwMDE0NzFmYjM4M2ExMDdlYWQyODBlNzUzMGFlMGE4OGRl",
   "tracks": [
-    {
-      "added_at": "2022-08-03 16:46:11",
-      "album": {
-        "name": "Bedside",
-        "url": "https://open.spotify.com/album/6KbYLgPQPoXADBXV4LhtkR"
-      },
-      "artists": [
-        {
-          "name": "Pierz Barry",
-          "url": "https://open.spotify.com/artist/2dzdUgM8QYmJYG3BIFn4J1"
-        }
-      ],
-      "duration_ms": 253218,
-      "name": "Bedside",
-      "url": "https://open.spotify.com/track/0WIb4zQlCptgIkV5oIBadk"
-    },
     {
       "added_at": "2022-08-02 18:19:17",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 124007,
       "name": "Solo",
       "url": "https://open.spotify.com/track/0U3uS22zJwNgT8Zfj8qazh"
-    },
-    {
-      "added_at": "2022-08-03 16:46:11",
-      "album": {
-        "name": "safety",
-        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
       "added_at": "2022-08-03 16:46:11",
@@ -91,22 +59,6 @@
     {
       "added_at": "2022-08-03 16:46:11",
       "album": {
-        "name": "Rushmore",
-        "url": "https://open.spotify.com/album/5tGPASugTD6gzSVXc8o2h6"
-      },
-      "artists": [
-        {
-          "name": "ash tuesday",
-          "url": "https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE"
-        }
-      ],
-      "duration_ms": 174001,
-      "name": "Rushmore",
-      "url": "https://open.spotify.com/track/3yqMNt1hSk4Dv4N13Ho29W"
-    },
-    {
-      "added_at": "2022-08-03 16:46:11",
-      "album": {
         "name": "fleabag",
         "url": "https://open.spotify.com/album/3jFSsBILJTu3gdkgJuU0wd"
       },
@@ -119,6 +71,54 @@
       "duration_ms": 193464,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/5umuLOI5hSbZMmuGa8c03c"
+    },
+    {
+      "added_at": "2022-08-03 16:46:11",
+      "album": {
+        "name": "safety",
+        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
+    },
+    {
+      "added_at": "2022-08-03 16:46:11",
+      "album": {
+        "name": "Bedside",
+        "url": "https://open.spotify.com/album/6KbYLgPQPoXADBXV4LhtkR"
+      },
+      "artists": [
+        {
+          "name": "Pierz Barry",
+          "url": "https://open.spotify.com/artist/2dzdUgM8QYmJYG3BIFn4J1"
+        }
+      ],
+      "duration_ms": 253218,
+      "name": "Bedside",
+      "url": "https://open.spotify.com/track/0WIb4zQlCptgIkV5oIBadk"
+    },
+    {
+      "added_at": "2022-08-03 16:46:11",
+      "album": {
+        "name": "Rushmore",
+        "url": "https://open.spotify.com/album/5tGPASugTD6gzSVXc8o2h6"
+      },
+      "artists": [
+        {
+          "name": "ash tuesday",
+          "url": "https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE"
+        }
+      ],
+      "duration_ms": 174001,
+      "name": "Rushmore",
+      "url": "https://open.spotify.com/track/3yqMNt1hSk4Dv4N13Ho29W"
     },
     {
       "added_at": "2022-08-03 16:46:11",
@@ -295,6 +295,22 @@
       "duration_ms": 144495,
       "name": "all day",
       "url": "https://open.spotify.com/track/6a0khAfkIHVBJbn5jeagIK"
+    },
+    {
+      "added_at": "2022-08-04 21:50:05",
+      "album": {
+        "name": "Ava",
+        "url": "https://open.spotify.com/album/2kHVasHvva7dlsArXSO1ic"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jack Finnecy",
+          "url": "https://open.spotify.com/artist/1WhVurXzCBmvdyXpmR2A22"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Ava",
+      "url": "https://open.spotify.com/track/2UFNep9nbVcfkleCG9icRd"
     },
     {
       "added_at": "2022-07-20 18:09:28",
@@ -715,22 +731,6 @@
       "duration_ms": 163153,
       "name": "I See You",
       "url": "https://open.spotify.com/track/4derY89Caf6ShCgi08wNsJ"
-    },
-    {
-      "added_at": "2022-07-06 23:08:29",
-      "album": {
-        "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
-        "url": "https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu"
-      },
-      "artists": [
-        {
-          "name": "Chinese American Bear",
-          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
-        }
-      ],
-      "duration_ms": 271952,
-      "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
-      "url": "https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox"
     },
     {
       "added_at": "2022-07-20 18:09:28",

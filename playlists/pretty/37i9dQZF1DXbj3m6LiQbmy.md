@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,219 likes - 73 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,221 likes - 73 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 17 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 |
 | 18 | [Italove](https://open.spotify.com/track/4ll1UfyVm9we6xoTNGnMYO) | [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [L'uomo d'affari / Italove](https://open.spotify.com/album/5v84MAdR18Ed091b1hlSn5) | 5:19 |
 | 19 | [Good PusS \(feat\. cupcakKe\) \- Remix](https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Good PusS \(feat\. cupcakKe\) \[Remix\]](https://open.spotify.com/album/7bHH8XTv8INRsqbvF507iO) | 3:39 |
-| 20 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
-| 21 | [Oro](https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:30 |
+| 20 | [Oro](https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:30 |
+| 21 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
 | 22 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 |
 | 23 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 | 24 | [Cum \(feat\. Iggy Azalea\)](https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:37 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 68 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 |
 | 69 | [SOTTOPELLE](https://open.spotify.com/track/4I6tfF0z09uVOVXy9fS9e4) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [SOTTOPELLE](https://open.spotify.com/album/0HT35YNuCxYKIIxXyhtJsJ) | 3:02 |
 | 70 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
-| 71 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 |
-| 72 | [Hands On Me](https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Moon Faces EP](https://open.spotify.com/album/55bGD2IkUYPSALh6TySzjy) | 2:41 |
-| 73 | [Credo che tra un po'](https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Credo che tra un po'](https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF) | 3:38 |
+| 71 | [Hands On Me](https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Moon Faces EP](https://open.spotify.com/album/55bGD2IkUYPSALh6TySzjy) | 2:41 |
+| 72 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 |
+| 73 | [Baby](https://open.spotify.com/track/6xktijW71ZdOvRNoWwBQU4) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 2:30 |
 
-Snapshot ID: `MTY1ODM5Mjk0MiwwMDAwMDAwMDE2YTcwZWRjM2Q4MmRiYzMxNWI5NTUzNzdmM2JmMzA3`
+Snapshot ID: `MTY1ODM5Mjk0MiwwMDAwMDAwMDRkOTIzMDU4Mjk4MmEzOThjNWY5MDEwM2VhNzc2OWZh`

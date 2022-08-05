@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-314 songs - 23 hr 12 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+315 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Si Algún Día la Ves](https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7) | 4:44 | 2021-02-02 |  |
 | [Si Algún Día la Ves](https://open.spotify.com/track/6BjTfMFU1X39YbkyAjwiuB) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [16 Merengues de Oro](https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd) | 4:45 | 2021-02-02 | 2022-07-29 |
 | [Si Algún Día la Ves](https://open.spotify.com/track/4syqdNyOYmJLHumi3MZSSA) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Los Hijos Del Rey](https://open.spotify.com/artist/3MLOPdmhPLxNrNttpNCo0c) | [Sergio Vargas y Los Hijos del Rey](https://open.spotify.com/album/7MplwPN74mBvlnk7I0nT1e) | 4:42 | 2021-02-02 |  |
-| [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 | 2021-02-02 |  |
+| [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 | 2021-02-02 | 2022-08-05 |
+| [Si No Te Hubieras Ido](https://open.spotify.com/track/4tOZ6QhFaUwvUItGpe6FkF) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [La Fiesta Del Merengue Mixeao](https://open.spotify.com/album/3lp1LMYZaFmR1MqVGdaaho) | 4:26 | 2021-02-02 |  |
 | [Si Tu Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/6Y7ebE47mQUZplpULuW7NW) | [Wilfrido Vargas y the New York Band](https://open.spotify.com/artist/2iAcT5FciR14w0HYRlZIQB) | [Wilfrido Vargas Presenta the New York Band](https://open.spotify.com/album/2IJlLUBfoUVWQF5zLaN8zb) | 4:29 | 2021-02-02 | 2022-07-28 |
 | [Si Tu Me Dices](https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:43 | 2021-02-02 |  |
 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/3R626n5piRuNywp06q4VVp) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [16 Merengues de Oro](https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd) | 4:28 | 2021-02-02 | 2022-07-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the brilliant sounds of Latin composers.",
-  "num_followers": 24881,
+  "num_followers": 24888,
   "original_name": "Top Latin Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMGM2ZDhkODczMDFlYjMyYzFkODNlMjZhMWEyNzZiNDIy",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDljYTBlN2MwZDZkNTkzOTY0ZGVkYmQ3OTQ0NjBjMjJm",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Live from the Lugano Festival 2005",
-        "url": "https://open.spotify.com/album/2nFMfIwVsFarlL3aXoHSTB"
-      },
-      "artists": [
-        {
-          "name": "Carlos Guastavino",
-          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 316480,
-      "name": "Guastavino: 3 Romances Argentinos: I. Las ni\u00f1as de Santa Fe (Live)",
-      "url": "https://open.spotify.com/track/6YNE1CO3l2jGkPPm21vTF4"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Sones y Danzones de Buena Madera",
         "url": "https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 370773,
       "name": "Dan-Son",
       "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Live from the Lugano Festival 2005",
+        "url": "https://open.spotify.com/album/2nFMfIwVsFarlL3aXoHSTB"
+      },
+      "artists": [
+        {
+          "name": "Carlos Guastavino",
+          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 316480,
+      "name": "Guastavino: 3 Romances Argentinos: I. Las ni\u00f1as de Santa Fe (Live)",
+      "url": "https://open.spotify.com/track/6YNE1CO3l2jGkPPm21vTF4"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -663,30 +663,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Dudamel - Discoveries",
-        "url": "https://open.spotify.com/album/1raz0IPxMaP54dJy320n3b"
-      },
-      "artists": [
-        {
-          "name": "Arturo M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 291933,
-      "name": "Conga del Fuego - Live",
-      "url": "https://open.spotify.com/track/4qQcBZCSitGQx5WpZXLXRK"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Daniela Liebman",
         "url": "https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl"
       },
@@ -707,26 +683,26 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Victoria: Et Jesum, Motets for Solo Voice",
-        "url": "https://open.spotify.com/album/2bPLEqiBA0reFRC2kyBrBQ"
+        "name": "Dudamel - Discoveries",
+        "url": "https://open.spotify.com/album/1raz0IPxMaP54dJy320n3b"
       },
       "artists": [
         {
-          "name": "Tom\u00e1s Luis de Victoria",
-          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+          "name": "Arturo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
         },
         {
-          "name": "Carlos Mena",
-          "url": "https://open.spotify.com/artist/2gW0MPcXDVCwe4687zcTOn"
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
         },
         {
-          "name": "Juan Carlos Rivera",
-          "url": "https://open.spotify.com/artist/0fnEQgde57T4LbxlysVMeX"
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 191973,
-      "name": "O magnum mysterium",
-      "url": "https://open.spotify.com/track/4uNr28b5YpkFVbuV0N5m0g"
+      "duration_ms": 291933,
+      "name": "Conga del Fuego - Live",
+      "url": "https://open.spotify.com/track/4qQcBZCSitGQx5WpZXLXRK"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -775,6 +751,30 @@
       "duration_ms": 422000,
       "name": "Misa Criolla: 2. Gloria (carnavalito-yarav\u00ed)",
       "url": "https://open.spotify.com/track/2aujqyb72uBZJZ4SOkz92q"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Victoria: Et Jesum, Motets for Solo Voice",
+        "url": "https://open.spotify.com/album/2bPLEqiBA0reFRC2kyBrBQ"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+        },
+        {
+          "name": "Carlos Mena",
+          "url": "https://open.spotify.com/artist/2gW0MPcXDVCwe4687zcTOn"
+        },
+        {
+          "name": "Juan Carlos Rivera",
+          "url": "https://open.spotify.com/artist/0fnEQgde57T4LbxlysVMeX"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "O magnum mysterium",
+      "url": "https://open.spotify.com/track/4uNr28b5YpkFVbuV0N5m0g"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Maso, Jordi: Catalan Piano Album (The)",
-        "url": "https://open.spotify.com/album/3sTSGgRT976RB9BkEBog3U"
-      },
-      "artists": [
-        {
-          "name": "Roberto Gerhard",
-          "url": "https://open.spotify.com/artist/7oVsVBfYp7gdC2sHy7Lmux"
-        },
-        {
-          "name": "Jordi Mas\u00f3",
-          "url": "https://open.spotify.com/artist/3AGPFUzKdyY4KxzgZqWGPt"
-        }
-      ],
-      "duration_ms": 79306,
-      "name": "2 Apunts (2 Sketches): No. 1. \u2014",
-      "url": "https://open.spotify.com/track/6N5cDX2vHhilXPu43lj5C8"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Encores",
         "url": "https://open.spotify.com/album/2f4phsz1Hanfw9OaKS9L9S"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 188906,
       "name": "El Cant Dels Ocells",
       "url": "https://open.spotify.com/track/0Rrydi62Dcx5XxdEotzJUI"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Maso, Jordi: Catalan Piano Album (The)",
+        "url": "https://open.spotify.com/album/3sTSGgRT976RB9BkEBog3U"
+      },
+      "artists": [
+        {
+          "name": "Roberto Gerhard",
+          "url": "https://open.spotify.com/artist/7oVsVBfYp7gdC2sHy7Lmux"
+        },
+        {
+          "name": "Jordi Mas\u00f3",
+          "url": "https://open.spotify.com/artist/3AGPFUzKdyY4KxzgZqWGPt"
+        }
+      ],
+      "duration_ms": 79306,
+      "name": "2 Apunts (2 Sketches): No. 1. \u2014",
+      "url": "https://open.spotify.com/track/6N5cDX2vHhilXPu43lj5C8"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Guitar Recital: Emanuele Buono",
-        "url": "https://open.spotify.com/album/0fdlVD12OfJXG7xjOFzMoV"
-      },
-      "artists": [
-        {
-          "name": "Dionisio Aguado",
-          "url": "https://open.spotify.com/artist/15q3kA3H1abSb5saHZuqeN"
-        },
-        {
-          "name": "Emanuele Buono",
-          "url": "https://open.spotify.com/artist/5u16XCmnT7mF1mKAu0iXmD"
-        }
-      ],
-      "duration_ms": 559853,
-      "name": "3 Rondo Brillants, Op. 2: No. 2. Andante - Rondo moderato",
-      "url": "https://open.spotify.com/track/4wYtDWIBePF44xlFrnEnyc"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Piano Recital: Corona, Claudia - Zyman, S. / Ruiz Armengol, M. / Chavez, C. / Villa-Lobos, H. / Ginastera, A. (Musica Latinoamericana)",
         "url": "https://open.spotify.com/album/5nJHftxvSwahI0smkG2jjX"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 79960,
       "name": "Piano Sonata: III. Presto",
       "url": "https://open.spotify.com/track/0JfMzP9XcKjicackTeoBCN"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Guitar Recital: Emanuele Buono",
+        "url": "https://open.spotify.com/album/0fdlVD12OfJXG7xjOFzMoV"
+      },
+      "artists": [
+        {
+          "name": "Dionisio Aguado",
+          "url": "https://open.spotify.com/artist/15q3kA3H1abSb5saHZuqeN"
+        },
+        {
+          "name": "Emanuele Buono",
+          "url": "https://open.spotify.com/artist/5u16XCmnT7mF1mKAu0iXmD"
+        }
+      ],
+      "duration_ms": 559853,
+      "name": "3 Rondo Brillants, Op. 2: No. 2. Andante - Rondo moderato",
+      "url": "https://open.spotify.com/track/4wYtDWIBePF44xlFrnEnyc"
     },
     {
       "added_at": "2022-01-01 08:00:00",

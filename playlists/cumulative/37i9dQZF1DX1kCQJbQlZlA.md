@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-94 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/2zCUYqbonj5e3RrsBlMytG)
+95 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2zCUYqbonj5e3RrsBlMytG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Đường Về Quê Hương](https://open.spotify.com/track/71kpV242QAZolUIsSTtwx6) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V), [Star Online](https://open.spotify.com/artist/5Qzi0GVschWzBUeMBLaQax), [Huỳnh Thật](https://open.spotify.com/artist/3ED04USO05vbjd6ktf3peM) | [Đường Về Hai Thôn](https://open.spotify.com/album/4OGX8J9I12cXXwKundHFL2) | 5:09 | 2022-05-12 |  |
 | [Đất Trời Bạc Liêu](https://open.spotify.com/track/3gk4IDkOi4IKvwBmXXzdXV) | [Đình Văn](https://open.spotify.com/artist/1gmlQgEQyq1beDMA8I4uNJ), [Mai Yen Chi](https://open.spotify.com/artist/6lpRi8Gi9xLSI9YpeMbe6V) | [Đất Trời Bạc Liêu](https://open.spotify.com/album/5w0Jvag4gSdxf0bLRVJ3m5) | 4:39 | 2022-05-12 |  |
 | [Đẹp Mối Duyên Quê](https://open.spotify.com/track/5BJdLaZyHoIXapKb7I4Fj9) | [Le Sang](https://open.spotify.com/artist/2z9gi7deY4ZOydUTxhiMff), [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8) | [Tổng Hợp Bài Hát Của Lê Sang](https://open.spotify.com/album/5bVs4gmLbrp7nQhJThVD9F) | 4:53 | 2022-05-12 | 2022-07-29 |
-| [Đẹp mối duyên quê](https://open.spotify.com/track/2QmzslvPYjF7Ubas31niaZ) | [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8), [Le Sang](https://open.spotify.com/artist/2z9gi7deY4ZOydUTxhiMff) | [Tuyển Tập Song Ca \(Thương Mối Tình Đầu\)](https://open.spotify.com/album/6SQX1wP7rHofPZnAMUKPco) | 4:53 | 2022-07-15 |  |
+| [Đẹp mối duyên quê](https://open.spotify.com/track/2QmzslvPYjF7Ubas31niaZ) | [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8), [Le Sang](https://open.spotify.com/artist/2z9gi7deY4ZOydUTxhiMff) | [Tuyển Tập Song Ca \(Thương Mối Tình Đầu\)](https://open.spotify.com/album/6SQX1wP7rHofPZnAMUKPco) | 4:53 | 2022-07-15 | 2022-08-05 |
+| [Đẹp Mối Duyên Quê \(feat\. Ngọc Kiều Oanh\)](https://open.spotify.com/track/1aRoFrHr1Jv2fKrKC0mgld) | [Lê Sang](https://open.spotify.com/artist/1F5d5qNLZ2T1AxZ4fnOnxJ), [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8) | [Tổng Hợp Bài Hát Của Lê Sang](https://open.spotify.com/album/5uMNk9HqwKVVzh3TuVLYkS) | 4:53 | 2022-07-15 |  |
 | [Ốc Đắng Buồn Ai](https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB) | 5:42 | 2022-05-12 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

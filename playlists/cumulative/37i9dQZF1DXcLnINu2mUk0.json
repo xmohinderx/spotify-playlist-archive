@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 163421,
       "name": "Assim",
       "url": "https://open.spotify.com/track/5gjGfw1eaoMOW9Rq97j1Rp"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 251504,
       "name": "Ela Me Xita",
       "url": "https://open.spotify.com/track/6ywCZJUitftSMmnOtASFvf"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172511,
       "name": "Lagrimas na Chuva",
       "url": "https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU"
@@ -813,10 +813,40 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 148965,
       "name": "Miami",
       "url": "https://open.spotify.com/track/1fxGMZsjCkKZkcwrnjhU7D"
+    },
+    {
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL"
+      },
+      "artists": [
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "Outcast Music",
+          "url": "https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201824,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh"
     },
     {
       "album": {
@@ -892,6 +922,42 @@
     },
     {
       "album": {
+        "name": "No Stress No Money",
+        "url": "https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l"
+      },
+      "artists": [
+        {
+          "name": "C\u00edntia",
+          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177900,
+      "name": "No Stress No Money",
+      "url": "https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg"
+    },
+    {
+      "album": {
+        "name": "Nu Ta Txiga La",
+        "url": "https://open.spotify.com/album/7x85yvxeZjbBFT1UzYpZWU"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174166,
+      "name": "Nu Ta Txiga La",
+      "url": "https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Falo Nada",
         "url": "https://open.spotify.com/album/5ZA4uNOsiWN7j62XRFjN1Y"
       },
@@ -911,7 +977,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 195793,
       "name": "N\u00e3o Falo Nada",
       "url": "https://open.spotify.com/track/344G8K622EI1rYTPfgjhEx"
@@ -1013,7 +1079,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 216000,
       "name": "Party Hard",
       "url": "https://open.spotify.com/track/3x1lrn6EKBSM6yRXQwgzQX"
@@ -1093,7 +1159,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159250,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi"
@@ -1227,7 +1293,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 189870,
       "name": "Seguimos pela metade",
       "url": "https://open.spotify.com/track/1WPe6k0tslGlIRsO0obMTy"
@@ -1311,7 +1377,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 225114,
       "name": "S\u00f3 Tu",
       "url": "https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W"

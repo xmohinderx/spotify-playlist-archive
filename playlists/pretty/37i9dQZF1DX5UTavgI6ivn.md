@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Colombia, qué chimba como escuchas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,025 likes - 97 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,215 likes - 97 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

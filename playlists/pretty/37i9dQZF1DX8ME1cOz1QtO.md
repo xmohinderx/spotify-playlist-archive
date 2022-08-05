@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,056 likes - 100 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,126 likes - 100 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 33 | [The Mermaid](https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [The Essential Yanni](https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx) | 3:45 |
 | 34 | [Rubycon \- Pt\. 1 / Remastered 2018](https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Rubycon \(Deluxe Version\)](https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo) | 17:17 |
 | 35 | [Music for Gymnastics](https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:17 |
-| 36 | [Solveig's Song](https://open.spotify.com/track/6hnHp6HChR0OnNVw56cdZ4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Kosmos](https://open.spotify.com/album/34507GICqU2YpiJEbBOKph) | 4:49 |
+| 36 | [The Light Cone](https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Pinnacles](https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg) | 4:24 |
 | 37 | [To the Unknown Man](https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Spiral](https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX) | 9:06 |
 | 38 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 | 39 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
-| 40 | [The Light Cone](https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Pinnacles](https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg) | 4:24 |
+| 40 | [Solveig's Song](https://open.spotify.com/track/6hnHp6HChR0OnNVw56cdZ4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Kosmos](https://open.spotify.com/album/34507GICqU2YpiJEbBOKph) | 4:49 |
 | 41 | [Carnation Lily Lily Rose](https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0), [Andrew White](https://open.spotify.com/artist/6SkbDEpXcIA4hXjre6qFLT) | [Island](https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr) | 4:48 |
 | 42 | [Movements Of A Visionary \- Remastered 2018](https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 7:57 |
 | 43 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 62 | [Genesis](https://open.spotify.com/track/6rFpQZLHq1fpJniWSTPlTz) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf) | 5:16 |
 | 63 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 |
 | 64 | [Metropolis](https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Ages](https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX) | 11:12 |
-| 65 | [Living Your Ending](https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 5:32 |
-| 66 | [Silmarillion](https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v), [Jan Akkerman](https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t) | [Meditation](https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND) | 12:00 |
+| 65 | [Silmarillion](https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v), [Jan Akkerman](https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t) | [Meditation](https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND) | 12:00 |
+| 66 | [Living Your Ending](https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 5:32 |
 | 67 | [For The Beauty Of The Earth \- Instrumental](https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 2:29 |
 | 68 | [Interlude II](https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Fresh Aire I](https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu) | 2:33 |
 | 69 | [The Angels Of Comfort](https://open.spotify.com/track/6JpONRdUefjY223L1AscpJ) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Celestial Soul Portrait](https://open.spotify.com/album/019HAaxSfRFvJK3MO5Prjs) | 10:59 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 84 | [In the Beginning](https://open.spotify.com/track/648HIKBghwkMmbL9c29LL1) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 8:01 |
 | 85 | [Procession](https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 7:27 |
 | 86 | [Carmel Valley Sunset](https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr) | [David Casper](https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI) | [Hear and Be Yonder](https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0) | 7:45 |
-| 87 | [Koto](https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Pathless Path](https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok) | 3:46 |
-| 88 | [Boreale](https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 4:14 |
+| 87 | [Boreale](https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 4:14 |
+| 88 | [Koto](https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Pathless Path](https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok) | 3:46 |
 | 89 | [Be\-Muse\-Ment](https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite 45th Anniversary Collector's Edition](https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21) | 4:33 |
 | 90 | [Soaring: Crown Chakra](https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:34 |
 | 91 | [Elysian E](https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 9:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Processional: Root Chakra](https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 5:23 |
 | 100 | [Ancient Stars](https://open.spotify.com/track/1k5jE8g4ap9J78p0gH05rL) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 6:18 |
 
-Snapshot ID: `MTY1NjY5NjUzMCwwMDAwMDAwMDJiNjdiNmQwMzgyYTg5ZDA3OGZlZjM4NGE2OTQzZWJi`
+Snapshot ID: `MTY1NjY5NjUzMCwwMDAwMDAwMGQ0OWU2NDFmZWIzZGIyMTI4MWRjYzYwZWVlMmU3YmRk`

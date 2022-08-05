@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Opus Kink
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,779 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,853 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 46 | [Scrappers](https://open.spotify.com/track/14IvWKgBAZojoDYvlI0MGd) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Enola Gay](https://open.spotify.com/album/4wqfGtPLQvvGSPdM7nr37q) | 2:58 |
 | 47 | [Homo Sapien](https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Sympathy for Life](https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT) | 2:55 |
 | 48 | [Big](https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 1:45 |
-| 49 | [Broke](https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN) | 8:01 |
-| 50 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
+| 49 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
+| 50 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 |
 | 51 | [Nigel Hitter](https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:24 |
-| 52 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 |
+| 52 | [Broke](https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN) | 8:01 |
 | 53 | [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 |
 | 54 | [Kebab Spider](https://open.spotify.com/track/14jchGOlTJQ91SNYVCSTLr) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Eton Alive](https://open.spotify.com/album/3QiU8JCc97mcqfJ3caEMzs) | 3:40 |
 | 55 | [Slow \(Loud\)](https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Slow \(Loud\)](https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8) | 5:36 |
 
-Snapshot ID: `MTY1NTQyMDQwMCwwMDAwMDAwMGJhMWI4NmZkYjg2YmZlMTQ0NDdmZDMzNWNjNTI1Yjk2`
+Snapshot ID: `MTY1NTQyMDQwMCwwMDAwMDAwMDBiMzQzNWRjZjNkM2ZhYWQ3ZDU4YjhkY2VmZWI3OWYy`

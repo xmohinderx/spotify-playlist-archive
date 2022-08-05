@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,312 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,367 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 4 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 |
 | 5 | [Where the Night Begins](https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:37 |
 | 6 | [Smooth Sensation](https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Smooth Sensation](https://open.spotify.com/album/12tng68mKohYzlVWT1QRna) | 4:36 |
-| 7 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 |
-| 8 | [Walking In Rhythm](https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq) | [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [A Gift For Tomorrow](https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo) | 5:07 |
+| 7 | [Walking In Rhythm](https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq) | [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [A Gift For Tomorrow](https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo) | 5:07 |
+| 8 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 |
 | 9 | [Caravan of Dreams](https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Caravan Of Dreams](https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X) | 6:00 |
 | 10 | [Ascension](https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [For You](https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ) | 5:14 |
 | 11 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 16 | [Morning Dance](https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [Morning Dance](https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG) | 3:56 |
 | 17 | [So Amazing](https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Just Between Us](https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN) | 4:49 |
 | 18 | [I Can’t Let Go \- Remastered](https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Color Rit \(Remastered\)](https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ) | 4:16 |
-| 19 | [Fly Away \(Thinking Of You\)](https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Blue Touch](https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV) | 3:50 |
-| 20 | [Doc](https://open.spotify.com/track/7MJBBBCfhjj716IaUq4HVG) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Dream Come True](https://open.spotify.com/album/5aY7j8FtsBcTnD7G1vSGHt) | 4:46 |
+| 19 | [Doc](https://open.spotify.com/track/7MJBBBCfhjj716IaUq4HVG) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Dream Come True](https://open.spotify.com/album/5aY7j8FtsBcTnD7G1vSGHt) | 4:46 |
+| 20 | [Fly Away \(Thinking Of You\)](https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Blue Touch](https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV) | 3:50 |
 | 21 | [Betcha Don't Know](https://open.spotify.com/track/5gtNsD1eqLgfVKC9diMwgq) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Najee's Theme](https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a) | 5:49 |
 | 22 | [After Midnight](https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 5:13 |
 | 23 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 41 | [Easy Street](https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Easy Street](https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74) | 5:17 |
 | 42 | [West End](https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [First View](https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8) | 5:26 |
 | 43 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 |
-| 44 | [The Way To You](https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Always](https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov) | 4:51 |
-| 45 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
+| 44 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
+| 45 | [The Way To You](https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Always](https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov) | 4:51 |
 | 46 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
 | 47 | [Follow Your Bliss](https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Classical Soul](https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72) | 5:08 |
 | 48 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
 | 60 | [Personal Touch](https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:55 |
 
-Snapshot ID: `MTYzODg5MzUwMywwMDAwMDAwMDUwYjgxMTg2ZmNjMThmZDg4NzYzMDE4ODJlYzE2MDQ4`
+Snapshot ID: `MTYzODg5MzUwMywwMDAwMDAwMGViY2Y4OTFhNDliMDI0ZTgyODUyYjAwYjk0MTExYzc2`

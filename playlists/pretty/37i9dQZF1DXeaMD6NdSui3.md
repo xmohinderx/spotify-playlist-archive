@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,369 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,410 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 6 | [Palace Of The King](https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:40 |
 | 7 | [Everytime I Roll The Dice](https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Never Been Rocked Enough](https://open.spotify.com/album/3PSl0k14EYuc2IYOLL4hoM) | 4:29 |
 | 8 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 |
-| 9 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
+| 9 | [Life by the Drop](https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/2HEXbzLaGWhZr5yjs1bLBv) | 3:05 |
 | 10 | [Pride and Joy](https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 3:39 |
 | 11 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
-| 12 | [Life by the Drop](https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/2HEXbzLaGWhZr5yjs1bLBv) | 3:05 |
+| 12 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
 | 13 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 |
 | 14 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
 | 15 | [Texas Flood](https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MTY0ODQ5OTYyNCwwMDAwMDAwMDk3YjYwMjRiYWFhMTM0NGI4OTU3NmU0MTk2MmVjZmQ1`
+Snapshot ID: `MTY0ODQ5OTYyNCwwMDAwMDAwMGEyMjAwNzA0MmMxODY4NDFkOTU4MDVkYjdkZDRmMGY1`

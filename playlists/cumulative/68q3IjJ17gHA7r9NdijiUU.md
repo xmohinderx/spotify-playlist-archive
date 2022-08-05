@@ -2,7 +2,7 @@
 
 ### [Road Trip Sing\-Along Songs](https://open.spotify.com/playlist/68q3IjJ17gHA7r9NdijiUU)
 
-> This pop playlist will make your 10 hour drive feel like 5\. Road Trip with OneRepublic, Imagine Dragons, Smash Mouth and more!
+> Finally, the perfect roadtrip playlist is here\. Sing along to these classics and new hits, and discover new favorites along the way!
 
 146 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/7wE4KWEfCjsHjIxhHAMbXZ)
 

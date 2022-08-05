@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 21766,
+  "num_followers": 21795,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMDY3YjBhYmU2MTRhM2JhN2M2MDZlZGU0Mzc4ZmU2M2U0",
+  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMDZhMTg5MzAyMzgzNWU4OWUwZWViYjNlY2RiM2ExZDkw",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "It's Not My Time",
-      "url": "https://open.spotify.com/track/0uybt73QFXaLCoxuVf6fhm"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 198973,
       "name": "Behind These Hazel Eyes",
       "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "It's Not My Time",
+      "url": "https://open.spotify.com/track/0uybt73QFXaLCoxuVf6fhm"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Tyrannosaurus Hives",
-        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Walk Idiot Walk",
-      "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Part Lies, Part Heart, Part Truth, Part Garbage: 1982-2011",
         "url": "https://open.spotify.com/album/0lkKxxnV5EV8XaKUjjODqd"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 237120,
       "name": "Imitation Of Life",
       "url": "https://open.spotify.com/track/6VekqQih8fJTHOsoSL01th"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Walk Idiot Walk",
+      "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
     },
     {
       "added_at": "2021-04-09 06:36:41",

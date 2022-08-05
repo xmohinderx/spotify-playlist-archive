@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,085 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,211 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 18 | [El aire de la calle](https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ) | [Los Delinquentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 3:06 |
 | 19 | [Por la Raja de Tu Falda](https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:22 |
 | 20 | [Lady Madrid](https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Aviones](https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH) | 3:11 |
-| 21 | [Déjame](https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Los Secretos](https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17) | 2:40 |
-| 22 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 |
+| 21 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 |
+| 22 | [Déjame](https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Los Secretos](https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17) | 2:40 |
 | 23 | [El universo sobre mí](https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Pájaros En La Cabeza](https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW) | 4:09 |
 | 24 | [Pan y mantequilla](https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:22 |
 | 25 | [Peter Pan](https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Personas](https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm) | 4:19 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 29 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
 | 30 | [Vacaciones](https://open.spotify.com/track/3Aj18tBmQKLTGU3KEpbZ40) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Voces de Ultrarumba](https://open.spotify.com/album/44wPRtOt2DMSy8C4ELLuwX) | 3:12 |
 | 31 | [Desde Brasil](https://open.spotify.com/track/7H0PDJwUMTdwQEBb3gXMeI) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La taberna del Buda](https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw) | 3:52 |
-| 32 | [Búscate un hombre que te quiera](https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh) | [Arrebato](https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ) | [Que Salga El Sol Por Donde Quiera](https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya) | 3:48 |
-| 33 | [Sincericidio](https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Monstruos](https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B) | 4:11 |
+| 32 | [Sincericidio](https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Monstruos](https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B) | 4:11 |
+| 33 | [Búscate un hombre que te quiera](https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh) | [Arrebato](https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ) | [Que Salga El Sol Por Donde Quiera](https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya) | 3:48 |
 | 34 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 |
 | 35 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 |
 | 36 | [La quiero a morir](https://open.spotify.com/track/7rSBUr661iFb9ndIJS0xUR) | [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [Idas y vueltas](https://open.spotify.com/album/3UGeyUhO0DhMlUeKTC9AVX) | 3:12 |
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 42 | [Felicidad](https://open.spotify.com/track/1pX5XE5hajZQ4lB6HuMVKa) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Vestidos De Domingo \(+ Remixes\)](https://open.spotify.com/album/1zIyzZFhqB27mVPqnwJpTs) | 4:14 |
 | 43 | [La taberna del Buda](https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La taberna del Buda](https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw) | 3:46 |
 | 44 | [Sin documentos](https://open.spotify.com/track/0VD9b7IXBWM0lKGagkYOKu) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Hasta luego](https://open.spotify.com/album/17zbU7662bSZyECndKCYio) | 4:45 |
-| 45 | [Alba](https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:44 |
-| 46 | [El talismán](https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:39 |
+| 45 | [El talismán](https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:39 |
+| 46 | [Alba](https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:44 |
 | 47 | [El calor del amor en un bar](https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg) | [Gabinete Caligari](https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy) | [Al calor del amor en un bar](https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm) | 2:50 |
 | 48 | [Quedate a dormir](https://open.spotify.com/track/0UQitarNPDgB7ObJCj47kn) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Usar Y Tirar](https://open.spotify.com/album/3vqfArwNlflN3NtNTJINqF) | 4:17 |
 | 49 | [Carreteras Infinitas](https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [El Peor Grupo del Mundo](https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP) | 4:26 |
 | 50 | [Cómo Te Atreves](https://open.spotify.com/track/21Tzyc6OYFvtWjKrhZ0cTB) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios..\. Y Unas Cuantas Cosas Más \(Edición Especial\)](https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR) | 4:00 |
-| 51 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
-| 52 | [Puedes Contar Conmigo](https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:58 |
+| 51 | [Puedes Contar Conmigo](https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:58 |
+| 52 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
 | 53 | [All My Loving](https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Pasión Condal](https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy) | 3:13 |
 | 54 | [Echo De Menos](https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 4:00 |
 | 55 | [Ojalá no te hubiera conocido nunca \(feat\. Muchachito Bombo Infierno\)](https://open.spotify.com/track/3xsPBE62YoXqXdPZwF918R) | [No Me Pises Que Llevo Chanclas](https://open.spotify.com/artist/3ixCNjKCjaRIRP7LOy5GTk), [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [25 años de agropop](https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS) | 4:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \(Kalikeno\)](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 
-Snapshot ID: `MTY0MzE1MDgyMiwwMDAwMDAwMDFhOGRlMTFjZDAzNDczZjY4MzcxMTc2ZTlkYWQ1MzA0`
+Snapshot ID: `MTY0MzE1MDgyMiwwMDAwMDAwMGM0NjEwYWUwNTNlNzFjMGY0YTQ4NDdmMWQ0MmY4MzJl`

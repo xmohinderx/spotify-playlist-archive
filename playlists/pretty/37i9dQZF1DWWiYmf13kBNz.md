@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,161 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,310 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 20 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
 | 21 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 |
 | 22 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
-| 23 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 |
-| 24 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
+| 23 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
+| 24 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 |
 | 25 | [You're Nobody 'Til Somebody Loves You \- Remastered/1997](https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:13 |
 | 26 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
 | 27 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
 | 28 | [My Way \- 2008 Remastered](https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:36 |
 | 29 | [Danke Schoen](https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5) | [Wayne Newton](https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ) | [Danke Schoen](https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT) | 2:35 |
 | 30 | [In The Still of the Night](https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [For Collectors Only](https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6) | 3:07 |
-| 31 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
-| 32 | [Again \(with The Mellomen\)](https://open.spotify.com/track/0qB213IfGN0JXXm9aRjldF) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:47 |
+| 31 | [Again \(with The Mellomen\)](https://open.spotify.com/track/0qB213IfGN0JXXm9aRjldF) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:47 |
+| 32 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
 | 33 | [Then He Kissed Me](https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Wall of Sound: The Very Best of Phil Spector 1961\-1966](https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i) | 2:38 |
 | 34 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
 | 35 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 49 | [Blue Velvet](https://open.spotify.com/track/3WO8ZBnOtad3xMz46Z54pY) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [16 Most Requested Songs](https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ) | 2:48 |
 | 50 | [Nevertheless \(I'm In Love With You\) \- 1958 version](https://open.spotify.com/track/7s0ZliVrPsRNdDcTuTlBOJ) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Great Hits](https://open.spotify.com/album/60kSCdFMEKAvxW982OgQpg) | 2:47 |
 
-Snapshot ID: `MTY1ODI1ODgxNywwMDAwMDAwMGRlMzlmM2NmN2JiYTNmZmM5ZjUwZDY0NDZkMjM3N2Fh`
+Snapshot ID: `MTY1ODI1ODgxNywwMDAwMDAwMGI0Y2NlYThlMjEyY2M0MmU3YTU1MjVmNzQxN2IzMjg1`

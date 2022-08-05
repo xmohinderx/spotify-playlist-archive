@@ -4,12 +4,13 @@
 
 > A collection of hits that will have you singing every word\. Cover: Dustin Lynch
 
-100 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/5Q1iirswdRnV2OItF004D6)
+102 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/5Q1iirswdRnV2OItF004D6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 | 2022-07-21 |  |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2022-07-21 |  |
+| [After A Few](https://open.spotify.com/track/1z6wl2rwKatfmza6usanWw) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [After A Few](https://open.spotify.com/album/5Z6UUS0n3Oz7i2bDLEdbWL) | 3:33 | 2022-08-04 |  |
 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 | 2022-07-21 |  |
 | [Beers And Sunshine](https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Beers And Sunshine](https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR) | 2:58 | 2022-07-21 |  |
 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 | 2022-07-21 |  |
@@ -70,16 +71,17 @@
 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 | 2022-07-21 |  |
 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 2:53 | 2022-07-21 |  |
 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 | 2022-07-21 |  |
-| [One Margarita](https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:13 | 2022-07-21 |  |
+| [One Margarita](https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:13 | 2022-07-21 | 2022-08-05 |
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2022-07-21 |  |
 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 | 2022-07-21 |  |
-| [PARADISE TO ME](https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:36 | 2022-07-21 |  |
+| [PARADISE TO ME](https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:36 | 2022-07-21 | 2022-08-05 |
 | [Party Mode](https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 3:31 | 2022-07-21 |  |
 | [REDNECKER](https://open.spotify.com/track/0YVdTI4w1BEqSjGNXcRjX1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk) | 3:21 | 2022-07-21 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-07-21 |  |
 | [Ridin’ Roads](https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Tullahoma](https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5) | 3:25 | 2022-07-21 |  |
 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 | 2022-07-21 |  |
 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 | 2022-07-21 |  |
+| [She Don't Know](https://open.spotify.com/track/5s95DvyPmrEGQz68fECUS8) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/17uEGzawT4q5I948KsSCtZ) | 3:24 | 2022-08-04 |  |
 | [Single Saturday Night](https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Single Saturday Night](https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps) | 3:07 | 2022-07-21 |  |
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2022-07-21 |  |
 | [Slow Down Summer](https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:37 | 2022-07-21 |  |

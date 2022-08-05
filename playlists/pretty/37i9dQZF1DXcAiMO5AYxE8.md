@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,540 likes - 58 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,654 likes - 58 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 36 | [This Is It](https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [This Is It \(Expanded Edition\)](https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz) | 3:31 |
 | 37 | [Taste of Bitter Love](https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:38 |
 | 38 | [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Raydio](https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE) | 4:35 |
-| 39 | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/7ta4djmewg9iYaj0ehfgyv) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Ultimate Collection](https://open.spotify.com/album/2KF5wVOh4ryjq6DUbIkhF9) | 4:03 |
+| 39 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
 | 40 | [The Love I Lost \(feat\. Teddy Pendergrass\) \- Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:33 |
-| 41 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
+| 41 | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/7ta4djmewg9iYaj0ehfgyv) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Ultimate Collection](https://open.spotify.com/album/2KF5wVOh4ryjq6DUbIkhF9) | 4:03 |
 | 42 | [What Can I Say](https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 2:59 |
 | 43 | [Turn the Beat Around](https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:24 |
 | 44 | [Shine On](https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Dream On \(Bonus Track Version\)](https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx) | 5:12 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 57 | [I Love You More](https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Master of the Game \(Expanded Edition\)](https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX) | 3:06 |
 | 58 | [\(Ooh\-Wee\) He's Killing Me](https://open.spotify.com/track/0dEJHQJDmjJEY5rnhlbfyC) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [The Best Of Patti Austin](https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO) | 3:27 |
 
-Snapshot ID: `MTY0MTgxODc0MiwwMDAwMDAwMDQwODZkZmRhOWQ4Y2NhYzBlMmQyYWU4OTU0ZDAyM2I4`
+Snapshot ID: `MTY0MTgxODc0MiwwMDAwMDAwMDI3M2E1MTdiY2EwODU3M2ZhYWE2ZDRlODUxMTdlNjg5`

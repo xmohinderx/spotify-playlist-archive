@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 157 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 157 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 123 | [Tu Cuerpo Pide Sexo \(feat\. Zion\)](https://open.spotify.com/track/0h1TS4mwl4gXkMgSxYBawg) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:38 |
 | 124 | [Presión \(feat\. Cosculluela\)](https://open.spotify.com/track/1nh1GgmRGl0WEYtWCVlVQi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:05 |
 | 125 | [Nadie como Tú](https://open.spotify.com/track/6UzsJEw5naBV2mxA10WVa9) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Seduction](https://open.spotify.com/album/2dV4cA5dVLwcV6rl33amof) | 3:59 |
-| 126 | [Amor Amor](https://open.spotify.com/track/2lOldevYazzMn8mXaOJZxh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:17 |
-| 127 | [Irma](https://open.spotify.com/track/3BggSspByGIm5dUWz7UceG) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:27 |
+| 126 | [Irma](https://open.spotify.com/track/3BggSspByGIm5dUWz7UceG) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:27 |
+| 127 | [Amor Amor](https://open.spotify.com/track/2lOldevYazzMn8mXaOJZxh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:17 |
 | 128 | [Si Te Vas \(feat\. Gocho\)](https://open.spotify.com/track/6OgwJotSzLwJ0CzwCJlJH5) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:55 |
 | 129 | [DALE BANDA](https://open.spotify.com/track/3uvI3MwIB42qk0QEGtQpgT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:55 |
 | 130 | [EL NIÑO](https://open.spotify.com/track/6inSd4dgpqoeXdPzP3B6ac) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:10 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 156 | [Vida Cara](https://open.spotify.com/track/2lewSDdMSGQzszhKYhm2mo) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:10 |
 | 157 | [La Llevo Al Cielo](https://open.spotify.com/track/0ldqpXUPtasGIhmd6p1R1J) | [Aiem](https://open.spotify.com/artist/6CrLTxGRAhecLa3EmGoJDr) | [La Llevo Al Cielo](https://open.spotify.com/album/5JHA1Yu2F7h9kutIwcB1ho) | 2:50 |
 
-Snapshot ID: `Mjc2NTk1ODMsMDAwMDAwMDAwNjc3NGZlYmQ4OWRlYzYwYzY0NTFiYWU3Nzc1MTc3MQ==`
+Snapshot ID: `Mjc2NjEwMjIsMDAwMDAwMDA1OGZkN2U5Y2ZjZGUyYjEyMTA5MDEzMjMwMGU5ODA0Yw==`

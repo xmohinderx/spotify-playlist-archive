@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,498 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,612 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 24 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
 | 25 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 |
 | 26 | [Time for Me to Fly](https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [You Can Tune a Piano, But You Can't Tuna Fish](https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx) | 3:41 |
-| 27 | [You Can Do Magic](https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [View From The Ground](https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h) | 3:57 |
-| 28 | [Somebody's Baby](https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Next Voice You Hear \- The Best Of Jackson Browne](https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu) | 4:22 |
+| 27 | [Somebody's Baby](https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Next Voice You Hear \- The Best Of Jackson Browne](https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu) | 4:22 |
+| 28 | [You Can Do Magic](https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [View From The Ground](https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h) | 3:57 |
 | 29 | [Dance with Me](https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [The Essentials: Orleans](https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6) | 3:00 |
 | 30 | [O\-o\-h Child](https://open.spotify.com/track/1rwGdnrtWnPYBipRrjnzEm) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [Stairsteps \(Expanded Edition\)](https://open.spotify.com/album/7H8uLkHFuEqAWpLKBwbGvg) | 3:17 |
 | 31 | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 3:17 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 60 | [In Your Letter](https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:16 |
 | 61 | [You Belong to Me](https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Carry On](https://open.spotify.com/album/49gYESUIs0Wk80IhUgnbsY) | 3:11 |
 | 62 | [Love Is the Answer \- Single Version](https://open.spotify.com/track/7xKGghZ59EGUT0Ft9BRVMr) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Rhino Hi\-Five: England Dan & John Ford Coley](https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5) | 4:41 |
-| 63 | [If I Saw You Again](https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/1qdncgTUWG6mnVUfTyYdIG) | 3:24 |
-| 64 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
+| 63 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
+| 64 | [If I Saw You Again](https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/1qdncgTUWG6mnVUfTyYdIG) | 3:24 |
 | 65 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
 | 66 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
-| 67 | [Casablanca](https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 4:03 |
-| 68 | [Better Love Next Time](https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:00 |
+| 67 | [Better Love Next Time](https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:00 |
+| 68 | [Casablanca](https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 4:03 |
 | 69 | [The Nightfly](https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 5:47 |
 | 70 | [Say You'll Be Mine](https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 2:56 |
 | 71 | [Still Right Here In My Heart](https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Something In The Night](https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Who's Right, Who's Wrong](https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Future Street](https://open.spotify.com/album/7KBgZw2zPPQes5Oo1vNQha) | 4:19 |
 | 80 | [Baby I Need Your Lovin'](https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Change Of Heart](https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw) | 3:16 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDZiMTM2NWZkZTQ4YTU2MDBlMjgxOTI4MzJiMzUzMjQ3`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGYyY2E5NzUyZDcxZDllOWUwNzRiYTA3OTYwMGRmZTA5`

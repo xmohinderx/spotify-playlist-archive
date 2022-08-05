@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-133 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+134 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Sierra Blanca](https://open.spotify.com/track/7siStEUpB8qicWuum3Ly2u) | [Rosa Gonzales](https://open.spotify.com/artist/6E8WeGatw7QpqYZzLeqZyi) | [Sierra Blanca](https://open.spotify.com/album/4sAhmphKQOaGLsQqhsmem4) | 2:33 | 2022-06-17 |  |
 | [Silva](https://open.spotify.com/track/0OGklcrx4tR6kMuK4dDoK8) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Silva](https://open.spotify.com/album/3IvvUji5JDqhVyBk1PvU6V) | 1:50 | 2022-06-17 |  |
 | [Sol de medianoche](https://open.spotify.com/track/1kA41wXyC5knLXtUHJYokH) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Sol de medianoche](https://open.spotify.com/album/6YDejeG2RxP2S6HidOS4Mq) | 2:11 | 2022-06-17 |  |
+| [Solitaria](https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Solitaria](https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF) | 2:16 | 2022-08-05 |  |
 | [Sombra](https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sombra](https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0) | 1:42 | 2022-06-17 |  |
 | [Soñando](https://open.spotify.com/track/70BMqswqh9Kjz6Sr6lQ47W) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Soñando](https://open.spotify.com/album/1jem5C7Z4jV2ZcpLDVwpt7) | 1:57 | 2022-06-17 |  |
 | [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 | 2022-07-15 |  |

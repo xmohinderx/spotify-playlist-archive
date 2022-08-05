@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 707586,
+  "num_followers": 707715,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDAwMDQ1ODY1MTM1MDI0ZjhmNzhlYjJkZmQzNzFkNDA1Mzhl",
+  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDAwMDcyMWQxN2MyY2Q4ODU0NmQyMTY5YzE0YzQyYzVmODU0",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
         "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 205453,
       "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
       "added_at": "2022-03-11 05:00:00",

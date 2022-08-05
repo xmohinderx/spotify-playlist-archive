@@ -4,7 +4,7 @@
 
 > Rock N' Roll Swagger Served Straight Up  / Cover: Marcus King
 
-146 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
+147 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Black Magic Lady](https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Black Magic Lady](https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc) | 4:47 | 2022-06-03 |  |
 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 | 2021-09-24 |  |
 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 | 2022-01-28 |  |
-| [Blame](https://open.spotify.com/track/0C9QdQmhVHBCC2TLIe3p9i) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream, Pt.1](https://open.spotify.com/album/6W6WuoYFWLovDiCwO5U2TR) | 2:25 | 2021-07-30 |  |
+| [Blame](https://open.spotify.com/track/0C9QdQmhVHBCC2TLIe3p9i) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream, Pt.1](https://open.spotify.com/album/6W6WuoYFWLovDiCwO5U2TR) | 2:25 | 2021-07-30 | 2022-08-05 |
+| [Blame](https://open.spotify.com/track/3hPy0hFWd5jeMArVVRf6H2) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/759rhQI6Tgbkd9Ss4Sm81e) | 2:25 | 2022-06-14 |  |
 | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Jason Hook](https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ) | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv) | 3:27 | 2021-04-30 | 2022-01-05 |
 | [Born Rockin'](https://open.spotify.com/track/45fmYIoK6q9tHVmh7aPfXk) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Born Rockin'](https://open.spotify.com/album/09Q3K63bMHJvmsQ0MwAcSr) | 3:39 | 2021-09-17 |  |
 | [Born to Roam](https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0) | [Phil Campbell and the Bastard Sons](https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q) | [We're the Bastards](https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv) | 4:58 | 2020-11-13 |  |

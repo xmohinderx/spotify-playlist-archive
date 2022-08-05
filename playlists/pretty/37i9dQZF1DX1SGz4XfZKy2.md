@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,034 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,060 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 28 | [Lucent Path](https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 3:44 |
 | 29 | [Gypsy \(Kouli\), Oud](https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi) | [Hamed Nikpay](https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy) | [Solo Passage \(Gozar\)](https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ) | 3:24 |
 | 30 | [Rain Drops](https://open.spotify.com/track/3NI3Cc0IbCZuDsNQrC4sxf) | [Shardad Rohani](https://open.spotify.com/artist/3riIYGDJMkjK1OenmRUMrW), [Scheherazade Quartet](https://open.spotify.com/artist/4YuORJGHaZw7VCi8ENOqcD) | [Scheherazade Quartet](https://open.spotify.com/album/6Z6dWvnag0xnNSw1XArZLD) | 3:31 |
-| 31 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
-| 32 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 |
+| 31 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 |
+| 32 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
 | 33 | [Kupia](https://open.spotify.com/track/78shHmYJjbCNxY69yfWo6l) | [Arash Badie](https://open.spotify.com/artist/6xGJlTZ5odUFdrBzmCUR13), [Kian Kazemi](https://open.spotify.com/artist/55riDVEaIh9wcoW4r4rZ4B) | [Hejar](https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo) | 3:28 |
 | 34 | [Dance Layan Dance](https://open.spotify.com/track/1YnWgkdp8qfnEAb40G3NG2) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC) | [Dhafer Youssef: Sounds of Mirrors](https://open.spotify.com/album/6tqATFYmtKV4JEbZMlQytX) | 4:36 |
 | 35 | [Deeper Sun](https://open.spotify.com/track/72U3GaKjHnwdfKNWoeciA5) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Deeper Sun](https://open.spotify.com/album/1IXO9DNXjDs7DCWfIZlQSZ) | 2:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 |
 | 60 | [Ikarus' Dream](https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/5xNlapmJSkP9oOnTX2Xy7b) | 3:43 |
 
-Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMGY5Yzk4OGFlMDM1ZTcyN2VmZDBhZTAzY2ExMjExYmRl`
+Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDIxOTU0OTE1M2ZmMWFjYjNhY2UwNTM3M2YzMTVkMDg3`

@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 42761,
+  "num_followers": 42806,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMGU2Y2I1MTAzMzdkZjYxMzQzYWE1M2ExZTlmOTJlZmYw",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDQ3OWE5YTBmMWIzNjgxOGIxMjgxOTcyOWUxNjU3MGMy",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -695,26 +695,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI"
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        },
-        {
-          "name": "The Sha La Das",
-          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
         }
       ],
-      "duration_ms": 208418,
-      "name": "Things We Do for Love",
-      "url": "https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp"
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -735,18 +727,26 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI"
       },
       "artists": [
         {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
         }
       ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
+      "duration_ms": 208418,
+      "name": "Things We Do for Love",
+      "url": "https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Starry Eyes",
-      "url": "https://open.spotify.com/track/58xH2AxeyFjJ1o7vWKqUrt"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 213192,
       "name": "Blue Magic (Waikiki)",
       "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/58xH2AxeyFjJ1o7vWKqUrt"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Live for Each Other",
         "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 247560,
       "name": "Oh No (Man)",
       "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
-      },
-      "artists": [
-        {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2022-01-05 09:24:56",

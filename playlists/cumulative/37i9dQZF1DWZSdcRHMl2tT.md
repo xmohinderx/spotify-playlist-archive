@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-251 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+253 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Upside](https://open.spotify.com/track/3xqjgRw2hmbNX3MlKiAmV0) | [Kriz Luna](https://open.spotify.com/artist/4J2cbs2Cl60uWpSxcpnrjV) | [Upside](https://open.spotify.com/album/40f0AIYOvhhmdsQbr6EH2z) | 3:15 | 2022-04-05 |  |
 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 | 2022-04-05 | 2022-05-20 |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2022-04-05 |  |
+| [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 | 2022-08-05 |  |
 | [Vista Del Mar](https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo) | [Mano Manana](https://open.spotify.com/artist/3g70CxwtUMFpp9T8GdhNTG) | [Vista Del Mar](https://open.spotify.com/album/2uXLOxgkD7kJq4gBnHt8nX) | 3:18 | 2022-04-05 |  |
 | [Voces](https://open.spotify.com/track/5xaSDlte9dCRLpIo93ZmbK) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Voces](https://open.spotify.com/album/1dATlWw7ivm6TXdKAqPd4q) | 2:58 | 2022-05-10 | 2022-07-08 |
 | [Walk me home](https://open.spotify.com/track/1BuqwQuyQKhvxa5X3iDkec) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Walk me home](https://open.spotify.com/album/1nn4r3h755kRkcKSrWvw4X) | 2:45 | 2022-05-20 |  |
@@ -258,6 +259,7 @@
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2022-04-05 | 2022-05-20 |
 | [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-08 |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2022-04-05 |  |
+| [Yin Yan Tonic](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Yin Yan Tonic](https://open.spotify.com/album/2cGFqAL2ttK8IrsC3s7n3U) | 2:50 | 2022-08-05 |  |
 | [Zebrawood](https://open.spotify.com/track/4p58sKPMoUqR0bzca3TgVm) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Zebrawood](https://open.spotify.com/album/4dWOHUf6hyWQRa9S7WZwk7) | 3:35 | 2022-04-05 | 2022-06-10 |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute",
-  "num_followers": 247296,
+  "num_followers": 247371,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxOTIwMCwwMDAwMDAwMDhjZGYxZDRhY2ViN2I4NDVjMjIzZWEwOTY5MTJkMTgw",
+  "snapshot_id": "MTY1NjYxOTIwMCwwMDAwMDAwMDY2NWEwYzBlYjYzN2E5Njg0NmRmY2ZhOTI3NjAyZTNl",
   "tracks": [
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "La vida es m\u00e1s compleja de lo que parece",
+      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
         "name": "Maldita Vocaci\u00f3n",
         "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 285341,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "La vida es m\u00e1s compleja de lo que parece",
-      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
-        "name": "Conviene Saber (feat. Rozal\u00e9n)",
-        "url": "https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU"
-      },
-      "artists": [
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 250302,
-      "name": "Conviene Saber (feat. Rozal\u00e9n)",
-      "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
         "name": "En la memoria de la piel (Deluxe Version)",
         "url": "https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 247028,
       "name": "No olvidarme de olvidar (feat. Carlos Rivera)",
       "url": "https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "Conviene Saber (feat. Rozal\u00e9n)",
+        "url": "https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 250302,
+      "name": "Conviene Saber (feat. Rozal\u00e9n)",
+      "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
+        "name": "El \u00c1rbol y el Bosque",
+        "url": "https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 196547,
+      "name": "A Tu Vida",
+      "url": "https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
         "name": "Yo Sin T\u00fa",
         "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "El \u00c1rbol y el Bosque",
-        "url": "https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 196547,
-      "name": "A Tu Vida",
-      "url": "https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH"
     }
   ],
   "unique_name": "Cantautores",

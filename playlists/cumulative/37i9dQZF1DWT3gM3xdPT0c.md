@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-162 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+164 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-03-04 |  |
 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-03-04 |  |
 | [Arizona Sunsets](https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Arizona Sunsets](https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq) | 2:07 | 2022-07-08 | 2022-07-22 |
+| [As The Day Breaks](https://open.spotify.com/track/4Hg2XDxHhPq9eKzcSeL0cD) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [As The Day Breaks](https://open.spotify.com/album/50Dyze2ncQAkBMN6pd5ZZC) | 3:11 | 2022-08-05 |  |
 | [Até o Fim](https://open.spotify.com/track/1BkAjte1N1xGkRprWpczQL) | [Callum Welch](https://open.spotify.com/artist/5xHojkpWvFQNmyVcAW6RKe) | [Até o Fim](https://open.spotify.com/album/1qK7kniKkgorGEAmuRBCTn) | 2:50 | 2022-03-04 |  |
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 |  |
 | [Bliss](https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Portalegre](https://open.spotify.com/album/5HJun0OOsQdgTZt5ixK5K6) | 3:24 | 2022-03-04 |  |
@@ -104,6 +105,7 @@
 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 | 2022-04-22 |  |
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 |  |
 | [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-03-04 |  |
+| [Morning to Do List](https://open.spotify.com/track/0wlkGWrxewjWnvbbCC8DP1) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Easy Escapes](https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn) | 2:53 | 2022-08-05 |  |
 | [Mountain Springs](https://open.spotify.com/track/6FndQWYzwj8kfv30aFAs3W) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mountain Spring](https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG) | 2:26 | 2022-06-10 |  |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-03-04 | 2022-07-08 |
 | [Mysteria](https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Mysteria](https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW) | 2:02 | 2022-03-04 | 2022-04-22 |
@@ -127,7 +129,7 @@
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-03-04 |  |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2022-03-04 |  |
 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 | 2022-07-08 |
-| [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-03-04 |  |
+| [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-03-04 | 2022-08-05 |
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2022-03-04 | 2022-04-22 |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-03-04 |  |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-03-04 |  |

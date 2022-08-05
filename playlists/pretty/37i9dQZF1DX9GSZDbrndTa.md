@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,691 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,746 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 27 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
 | 28 | [Cheryl](https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Savoy 10\-inch LP Collection](https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4) | 3:00 |
 | 29 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 |
-| 30 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
+| 30 | [Blues In The Closet](https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [Blues In The Closet](https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V) | 3:00 |
 | 31 | [Doodlin' \- Remastered](https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 6:45 |
-| 32 | [Blues In The Closet](https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [Blues In The Closet](https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V) | 3:00 |
+| 32 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
 | 33 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red's Blues](https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS) | 6:40 |
 | 34 | [Old Clothes](https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 7:44 |
 | 35 | [Ba\-Lue Bolivar Ba\-Lues\-Are](https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Ernie Henry](https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Brilliant Corners](https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd) | 13:07 |
-| 36 | [Blues By Five \- Rudy Van Gelder Remaster](https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 9:52 |
-| 37 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
-| 38 | [Ready Rudy?](https://open.spotify.com/track/4VhFcVYUSxazQVNDCAIGhP) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Sweet Honey Bee](https://open.spotify.com/album/012q6K9l8vQ83WnDILovA0) | 5:58 |
-| 39 | [Isotope \- Rudy Van Gelder Edition / 2004 Digital Remaster](https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 9:16 |
+| 36 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
+| 37 | [Blues By Five \- Rudy Van Gelder Remaster](https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 9:52 |
+| 38 | [Isotope \- Rudy Van Gelder Edition / 2004 Digital Remaster](https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 9:16 |
+| 39 | [Ready Rudy?](https://open.spotify.com/track/4VhFcVYUSxazQVNDCAIGhP) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Sweet Honey Bee](https://open.spotify.com/album/012q6K9l8vQ83WnDILovA0) | 5:58 |
 | 40 | [Turnaround](https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Wish](https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij) | 6:24 |
 | 41 | [Back Slidin'](https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In the Night](https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y) | 6:54 |
 | 42 | [Well You Needn't](https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1) | [Thelonious Monk Septet](https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB) | [Monk's Music](https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G) | 11:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Freight Trane](https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Coltrane '58: The Prestige Recordings](https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22) | 7:20 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMGYwYmQyYzEyYjEwNmU2NDgxMjQwMjNkM2RmZjljMjUz`
+Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDc1MmRmZGY5Zjg5MWM1OGQ1MzNhZThjYzM2ZWYxYmIy`

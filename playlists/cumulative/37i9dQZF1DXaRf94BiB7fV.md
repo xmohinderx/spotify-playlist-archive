@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Sanchi, Artwork: Isu Kim
 
-535 songs - 1 day 8 hr 0 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+537 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Keys](https://open.spotify.com/track/5MlPWdeAJQfYtzehufIQGs) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Keys](https://open.spotify.com/album/3kluR2qiOYN7frIkTiK4Sg) | 4:56 | 2021-12-01 | 2022-01-13 |
 | [Khaali Samay Mein](https://open.spotify.com/track/10s5ZW5fgUElXBHdNFyPQZ) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Khaali Samay Mein](https://open.spotify.com/album/7cdUgSKdW7z8s83OLtPEjL) | 3:13 | 2022-07-06 |  |
 | [Khat](https://open.spotify.com/track/6XuH38WaoetaiTriUqwEmP) | [Deepali Sathe](https://open.spotify.com/artist/0YiuR8MKsbpnjIxQ6TVOsM), [Durgesh R Rajbhatt](https://open.spotify.com/artist/0E55cja1xY4RWw3K9S9rDS), [Bhavna Choudhary](https://open.spotify.com/artist/573dGl9cVEDD21wFXNoNqe), [Chinmaya Madan](https://open.spotify.com/artist/20OuwAobW7d83jWVGaFA5P), [Sapna Sharma](https://open.spotify.com/artist/7zm3Q6zAZZlTpNwJLRzZgP) | [Khat](https://open.spotify.com/album/2MWiFWNFJ5thUQmIbdI0fE) | 3:32 | 2022-05-11 | 2022-06-30 |
+| [Khilte Rang](https://open.spotify.com/track/6jsoaskE0wunyXLpHriyEz) | [Nikhil Swaroop](https://open.spotify.com/artist/5UjCBnXQI2Kt5DvbLZFhqR) | [Khilte Rang](https://open.spotify.com/album/60WCs762OY1LGoW7rsyJ4z) | 3:17 | 2022-08-03 |  |
 | [Kho Gaya Dil](https://open.spotify.com/track/7cY6YGw5kG7DdtKmjRSACU) | [Vinayak Bahl](https://open.spotify.com/artist/0a3d9L4ClTZmqUQEcg4CLv), [Shobhit Agarwal](https://open.spotify.com/artist/5Qj0uLYfV3IRUzuKKDKzbC) | [Kho Gaya Dil](https://open.spotify.com/album/4XHokoR1hVhTiDTouPOiPt) | 3:40 | 2022-03-02 | 2022-07-07 |
 | [Khota Pyaar](https://open.spotify.com/track/4QVAmvwc4vuTlstTFoNUEa) | [Chhavi Sodhani](https://open.spotify.com/artist/0fAAEVtf2NBPopVvfKNmkd) | [Khota Pyaar](https://open.spotify.com/album/4AqYTOcwbozZUZd1dkDpOh) | 3:27 | 2022-03-02 | 2022-04-07 |
 | [Khoye Khoye](https://open.spotify.com/track/4MIevQx8eo9FZEYrPX0NMN) | [Xubaan](https://open.spotify.com/artist/0c8yvHOj92kzm4suLMGgbZ) | [Khoye Khoye](https://open.spotify.com/album/6ajPpJIO0yNKJFfTcOQOhc) | 4:44 | 2022-05-04 |  |
@@ -253,7 +254,8 @@
 | [Know Your Hail Mary](https://open.spotify.com/track/0TB26F6h84hhMUOVWprkMn) | [Brecilla](https://open.spotify.com/artist/4CuvDi9xxTJKFKvzfhEdRB) | [Know Your Hail Mary](https://open.spotify.com/album/6HSnHC3gXWGLcZtAqES7XP) | 4:15 | 2021-12-01 | 2022-01-13 |
 | [Kora Kaagaz](https://open.spotify.com/track/3nUV7ogIxcj3i2pF7ju5wG) | [Ailaan](https://open.spotify.com/artist/3NIoLvvvEDb1Tocudyhqe9) | [Kora Kaagaz](https://open.spotify.com/album/0qvRz1Y6HugIeHY13jS92P) | 2:55 | 2021-12-01 | 2022-01-13 |
 | [Kulfi](https://open.spotify.com/track/4kRHGApBIgxV4r1SjwD70l) | [Rohan Upadeo](https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j) | [Kulfi](https://open.spotify.com/album/1lnmlCF06Nh3tWsY4IvQqd) | 3:36 | 2022-04-27 | 2022-06-30 |
-| [Kya Mila Hoke Juda](https://open.spotify.com/track/6muPTb2QlXgFFhtWPymORx) | [Muzi BOY](https://open.spotify.com/artist/1ftNvATR3m8rPt1ygLgUXr) | [Kya Mila Hoke Juda](https://open.spotify.com/album/4sUBZbPIeOaKwjzmwkcNO7) | 3:07 | 2022-05-04 |  |
+| [Kya Mila Hoke Juda](https://open.spotify.com/track/7Jh36I3PUNM1mNLulu5tbh) | [Muzi BOY](https://open.spotify.com/artist/1ftNvATR3m8rPt1ygLgUXr) | [Kya Mila Hoke Juda](https://open.spotify.com/album/1BNtf7KCcvI33Zgh4TGFD3) | 3:07 | 2022-08-03 |  |
+| [Kya Mila Hoke Juda](https://open.spotify.com/track/6muPTb2QlXgFFhtWPymORx) | [Muzi BOY](https://open.spotify.com/artist/1ftNvATR3m8rPt1ygLgUXr) | [Kya Mila Hoke Juda](https://open.spotify.com/album/4sUBZbPIeOaKwjzmwkcNO7) | 3:07 | 2022-05-04 | 2022-08-05 |
 | [Kya Pata](https://open.spotify.com/track/30LOB7sU7THmLd48ZyuDkP) | [Rahul Gurung](https://open.spotify.com/artist/501jDprhWjQsobbgEjglKQ) | [Kya Pata](https://open.spotify.com/album/2dgepWvy4VdQHtVYviCI3n) | 3:11 | 2022-04-27 | 2022-06-23 |
 | [Kyu Jana Hai](https://open.spotify.com/track/1L4cmwxRjW8jiIy1yiFINz) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Kyu Jana Hai](https://open.spotify.com/album/2mQnOwJsAwlYkhrw7pYYnX) | 4:12 | 2022-03-09 | 2022-04-21 |
 | [Lapadva](https://open.spotify.com/track/39xh38Je8dutb4nt1yD53O) | [Anurag Halder](https://open.spotify.com/artist/3UWJY7zUWJHuprLrrgNAa0) | [Lapadva](https://open.spotify.com/album/5f4Lvje04d786woyHvLBZR) | 3:19 | 2022-01-12 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-154 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
+155 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Blue Candle](https://open.spotify.com/track/1YsimHSre6MFvtrLgkIqtq) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 3:18 | 2022-04-18 | 2022-07-29 |
 | [Blue Candle](https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 3:18 | 2022-07-25 |  |
 | [blur](https://open.spotify.com/track/2BCCYSCBiejFyNwwCayyf6) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:45 | 2022-04-18 | 2022-06-05 |
-| [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 | 2022-04-21 |  |
+| [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 | 2022-04-21 | 2022-08-05 |
 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 | 2022-04-18 |  |
 | [Bruise](https://open.spotify.com/track/3A7lLlC45v16o5vKgeWIeI) | [Hahm Yechan](https://open.spotify.com/artist/43xPlVmF7ldz5cMXIFO82q) | [Bruise](https://open.spotify.com/album/5jI9pT85DXLdjp7slAE2GX) | 2:44 | 2022-04-21 | 2022-04-25 |
 | [BUS 710](https://open.spotify.com/track/63UIV8B0JeJABBBCViE4Fy) | [Benini](https://open.spotify.com/artist/4SZG62kApZUjkX6j9OmOuJ) | [Achilles](https://open.spotify.com/album/0gEUrkgQCzCQ0zCV5nwoag) | 2:49 | 2022-04-21 | 2022-05-20 |
@@ -58,6 +58,7 @@
 | [Fall](https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [Fall](https://open.spotify.com/album/36KT5I1t1z9Jcsog7V7mpa) | 2:41 | 2022-04-18 |  |
 | [Far Away \(Feat\. H:SEAN, SWRY\) \(Prod\. Liam K\)](https://open.spotify.com/track/4y3zwYdCDCRUnRsXP9gBLI) | [Holmsted](https://open.spotify.com/artist/4AETbFj8tCGWWDWLXIldTB), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18), [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs) | [DOT 1](https://open.spotify.com/album/2pyUjceJRcxmJsf0UAZvOI) | 3:42 | 2022-04-18 | 2022-07-27 |
 | [First time](https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [First time](https://open.spotify.com/album/5ZnkmWDQeXbdgfpj8VaurC) | 3:06 | 2022-04-21 | 2022-07-26 |
+| [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-08-03 |  |
 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 | 2022-04-18 |  |
 | [Frank Ocean](https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn) | [Jiho Givenchy](https://open.spotify.com/artist/7FmUBvEV5FBVdF021jN5r2), [Javan](https://open.spotify.com/artist/2Ov5VPtihyYirhoUVqvb8g) | [Frank Ocean](https://open.spotify.com/album/60HTg0VEeH0VYSkMWLKRfz) | 3:08 | 2022-04-18 | 2022-07-29 |
 | [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 | 2022-04-18 |  |
@@ -95,7 +96,7 @@
 | [midnight](https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:34 | 2022-05-11 | 2022-07-19 |
 | [Midnight, spring](https://open.spotify.com/track/7xFx14KbvPwgP7Luce2Bsl) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [NOV3L](https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9) | 3:38 | 2022-06-03 | 2022-06-07 |
 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 | 2022-04-18 |  |
-| [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 | 2022-04-21 | 2022-08-04 |
+| [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 | 2022-04-21 |  |
 | [Move On](https://open.spotify.com/track/3NpxOsBE4XYhrOsPLjqAgA) | [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Lost In Blue](https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5) | 3:01 | 2022-04-18 | 2022-04-21 |
 | [Movies](https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/2rwFQMzjIl55c4uTnxuJ6D) | 1:56 | 2022-04-18 | 2022-07-29 |
 | [Movies](https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd) | 1:56 | 2022-07-25 |  |
@@ -136,7 +137,7 @@
 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-04-21 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-04-18 |  |
 | [supporting actor](https://open.spotify.com/track/7GKckapJsvimFkGtOoOSB9) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:15 | 2022-04-18 | 2022-04-21 |
-| [the day we first met](https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:04 | 2022-04-18 |  |
+| [the day we first met](https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:04 | 2022-04-18 | 2022-08-05 |
 | [The fin.](https://open.spotify.com/track/5Nr6Z6PpXfyyDjD0J1s6QK) | [MNYL](https://open.spotify.com/artist/6poxjkXTjsM1ucj5rmcyEZ) | [The fin.](https://open.spotify.com/album/0xMZKhtuUSuY14i0bGExLl) | 3:27 | 2022-04-18 | 2022-07-09 |
 | [The Theater](https://open.spotify.com/track/32DpcsdvyzseJWwjjOetkL) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [The Theater](https://open.spotify.com/album/3SuhEMydqNp4tk7q45yTDP) | 2:45 | 2022-06-18 | 2022-07-05 |
 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 | 2022-04-18 |  |

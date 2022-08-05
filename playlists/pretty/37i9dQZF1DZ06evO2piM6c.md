@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,989 likes - 45 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,084 likes - 44 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 5 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
 | 6 | [The Sweetest Taboo](https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:37 |
 | 7 | [Cherish the Day](https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:32 |
-| 8 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
+| 8 | [Love Is Stronger Than Pride](https://open.spotify.com/track/5Qrcxc2YPomtX6UB0bwNaf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:18 |
 | 9 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 |
 | 10 | [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 6:21 |
-| 11 | [Love Is Stronger Than Pride](https://open.spotify.com/track/5Qrcxc2YPomtX6UB0bwNaf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:18 |
+| 11 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
 | 12 | [I Couldn't Love You More](https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:48 |
 | 13 | [Hang on to Your Love](https://open.spotify.com/track/6KIS5YIZAyeiFNx1aE1OhY) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:30 |
 | 14 | [Soldier of Love](https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 5:56 |
@@ -47,11 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 37 | [I Never Thought I'd See the Day](https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:13 |
 | 38 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 |
 | 39 | [Tar Baby](https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 3:58 |
-| 40 | [Be That Easy](https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:39 |
+| 40 | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl) | 4:21 |
 | 41 | [Clean Heart](https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:01 |
-| 42 | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl) | 4:21 |
-| 43 | [It's Only Love That Gets You Through](https://open.spotify.com/track/1jgce88ygplFg5g2AS2WEB) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 3:53 |
+| 42 | [Be That Easy](https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:39 |
+| 43 | [Turn My Back On You](https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 6:06 |
 | 44 | [Bring Me Home](https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:07 |
-| 45 | [Turn My Back On You](https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 6:06 |
 
-Snapshot ID: `Mjc2NTg4OTQsMDAwMDAwMDBhYTE1NDA1YTBlNTBhODI5MmU2Y2M5ZWY4YzYyZDM0ZA==`
+Snapshot ID: `Mjc2NjA1MTAsMDAwMDAwMDA5MDg4Yjc4MGNiMTNkNDA3ZWRmOWJjMGVmMmU3YmFhOA==`

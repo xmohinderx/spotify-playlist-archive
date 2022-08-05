@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 994147,
+  "num_followers": 994344,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGVhNTYxM2I3NzU4NzE0ZDY3NTRiYjAzNWIxNWQ0NmQy",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGQ0ZGVkODZiMGExNWJkNmNlZjNmMGVhNGRlMmNhYzZh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Too Late (with Dirty Heads)",
         "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 157084,
       "name": "Too Late (with Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Uncanny Valley",
-        "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Uncanny Valley",
-        "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 216187,
-      "name": "Brad Pitt",
-      "url": "https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Why Does Everything Happen So Much EP",
         "url": "https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 191954,
       "name": "Mistakes Like This",
       "url": "https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 216187,
+      "name": "Brad Pitt",
+      "url": "https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Denial in Paradise",
-        "url": "https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY"
-      },
-      "artists": [
-        {
-          "name": "courtship.",
-          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
-        }
-      ],
-      "duration_ms": 188257,
-      "name": "Tell Me Tell Me",
-      "url": "https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 161068,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Denial in Paradise",
+        "url": "https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY"
+      },
+      "artists": [
+        {
+          "name": "courtship.",
+          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+        }
+      ],
+      "duration_ms": 188257,
+      "name": "Tell Me Tell Me",
+      "url": "https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx"
     }
   ],
   "unique_name": "Soak Up the Sun",

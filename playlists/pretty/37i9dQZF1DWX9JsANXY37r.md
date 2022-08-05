@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,455 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,474 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 51 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
 | 52 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 |
 | 53 | [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 |
-| 54 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
-| 55 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
+| 54 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
+| 55 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
 | 56 | [Big Brown Eyes](https://open.spotify.com/track/19ovZMFSIQvehxLmvrRbBS) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art](https://open.spotify.com/album/5VKMuDNl95bLr3xsfU2Owm) | 4:12 |
 | 57 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
 | 58 | [Save Room For Us](https://open.spotify.com/track/0fj8OHLYnonkhlJsqmK2Cg) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Songs For You](https://open.spotify.com/album/6WrqA9shYRYrelq2CLQf05) | 2:44 |
 | 59 | [When We Break](https://open.spotify.com/track/0qiz1TZkuI3NEgKDmxCMDp) | [Total Giovanni](https://open.spotify.com/artist/4ULIhLE7QOtxj1MVzJf1D1) | [When We Break](https://open.spotify.com/album/64Luw3nJLGZB7TNAmHivj3) | 4:44 |
 | 60 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 |
 
-Snapshot ID: `MTY1NjAzOTYwMCwwMDAwMDAwMGI5ZGUwMGYzNTAxNGRhYzZjZGNmMjJkYTYwYjI1NGFj`
+Snapshot ID: `MTY1NjAzOTYwMCwwMDAwMDAwMDdmYjFmOWFlZjZjOTFlNjAzY2RlODlkNDRhMDU0OWQ1`

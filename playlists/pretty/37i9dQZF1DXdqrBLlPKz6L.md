@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,491 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,503 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 24 | [Chamito Maraña](https://open.spotify.com/track/3a4dJXsZHfGe5cQd2WY2ir) | [Jack Russell](https://open.spotify.com/artist/1eYgSi9O2AX4sLhR06HKCz) | [Chamito Maraña](https://open.spotify.com/album/4vwrfO8tB0poe7NyjMjCp4) | 4:32 |
 | 25 | [Putero](https://open.spotify.com/track/1dAPH16FxFISqNNqYkOwg5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:09 |
 | 26 | [De Todo](https://open.spotify.com/track/5LR4MmbgcV9cPXXocaM4Fw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [De Todo](https://open.spotify.com/album/6GkuzEN1kTF2XwtIlwLVEP) | 3:24 |
-| 27 | [Q 'VacilOn](https://open.spotify.com/track/1WsBNIhyn8z2UnuvlFTJM4) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [Ag sixteen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux) | [Q 'VacilOn](https://open.spotify.com/album/4ABD3I1tBANiGl803jPwgX) | 3:16 |
+| 27 | [Q 'VacilOn](https://open.spotify.com/track/1WsBNIhyn8z2UnuvlFTJM4) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux) | [Q 'VacilOn](https://open.spotify.com/album/4ABD3I1tBANiGl803jPwgX) | 3:16 |
 | 28 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 |
 | 29 | [¿Que Nalgas Son Esas?](https://open.spotify.com/track/2VkFtqDPapy6UaHARdghVS) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [¿Que Nalgas Son Esas?](https://open.spotify.com/album/6LyOSerd3DNwni2WYl2Qzf) | 2:49 |
 | 30 | [Bon Appétit](https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Una Sangre, Vol\. 3: Trapicheando](https://open.spotify.com/album/1ZSf5zV02X8P3Xbj9LcIm2) | 4:09 |

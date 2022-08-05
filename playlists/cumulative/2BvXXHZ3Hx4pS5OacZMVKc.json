@@ -264,6 +264,32 @@
     },
     {
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/78EOsgCPheBmkCwXtA1nbt"
+      },
+      "artists": [
+        {
+          "name": "Cadmium",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "JAMZ",
+          "url": "https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ"
+        },
+        {
+          "name": "SIMONNE",
+          "url": "https://open.spotify.com/artist/290WOVLmzJRsj8KJjDIEtD"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/1RtI5pMsCPuxoMzsk9etiE"
+    },
+    {
+      "album": {
         "name": "Binary",
         "url": "https://open.spotify.com/album/6j3Viy7lQ4mOZryzo9X8AT"
       },

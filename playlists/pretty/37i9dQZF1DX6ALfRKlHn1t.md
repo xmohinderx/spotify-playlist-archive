@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,147 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,344 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 51 | [Baby Blue Shades](https://open.spotify.com/track/2bCFAFxw6uLRu3Mk1jF9E0) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 3:40 |
 | 52 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 53 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 |
-| 54 | [Too Late \(with Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
-| 55 | [Chapstick](https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:13 |
+| 54 | [Chapstick](https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:13 |
+| 55 | [Too Late \(with Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
 | 56 | [Vacation \(feat\. Train\)](https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Vacation \(feat\. Train\)](https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0) | 3:32 |
 | 57 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
 | 58 | [Milk & Coffee](https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [They Might've Even Loved Me](https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1) | 3:55 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 69 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 | 70 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
 | 71 | [Around The World](https://open.spotify.com/track/06ClI3XK2FPR5uP8tPcFS1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:34 |
-| 72 | [Brad Pitt](https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:36 |
-| 73 | [Mistakes Like This](https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Why Does Everything Happen So Much EP](https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE) | 3:11 |
+| 72 | [Mistakes Like This](https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Why Does Everything Happen So Much EP](https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE) | 3:11 |
+| 73 | [Brad Pitt](https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:36 |
 | 74 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 |
 | 75 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 |
 | 76 | [Hollow Life](https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:57 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 96 | [Carried Away](https://open.spotify.com/track/670iB5TOAt9dGjyPFXUUiu) | [OVERSTREET](https://open.spotify.com/artist/5TGdkTyHliaYLHPGxqcSUt) | [Carried Away](https://open.spotify.com/album/5UHnIcmtWq5rldnKeDF2cc) | 3:16 |
 | 97 | [Guitar Beat](https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Guitar Beat](https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw) | 3:25 |
 | 98 | [U&ME](https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK) | 3:18 |
-| 99 | [Tell Me Tell Me](https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Denial in Paradise](https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY) | 3:08 |
-| 100 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
+| 99 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
+| 100 | [Tell Me Tell Me](https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Denial in Paradise](https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY) | 3:08 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGVhNTYxM2I3NzU4NzE0ZDY3NTRiYjAzNWIxNWQ0NmQy`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGQ0ZGVkODZiMGExNWJkNmNlZjNmMGVhNGRlMmNhYzZh`

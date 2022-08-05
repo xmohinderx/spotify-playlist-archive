@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-145 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
+146 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 | 2022-06-20 |  |
 | [Sunday to Monday](https://open.spotify.com/track/4GlfPmVBquQ8uNV60FVE4B) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Woori The Virgin, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/09jEbMGUNe8el2xPyJrhDj) | 3:42 | 2022-06-20 | 2022-07-24 |
 | [Superwoman](https://open.spotify.com/track/0dCnDWWk79rSoYxcVDpuEc) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Superwoman](https://open.spotify.com/album/2TE6FMZoC19KLaUNb89ChV) | 3:19 | 2022-05-11 | 2022-07-29 |
+| [Superwoman](https://open.spotify.com/track/4MsFyMXOLuH1zGe3Efv1y1) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Garden](https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ) | 3:19 | 2022-07-08 |  |
 | [Surprise \(Feat\. Obze\)](https://open.spotify.com/track/19dZbVguKTPMJDkk36S0D1) | [lunCHbox](https://open.spotify.com/artist/4xC3jrwRyXJM63N1Pfe2s5), [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [Surprise](https://open.spotify.com/album/1xElVJLMTOAUwbimLH2KD5) | 2:50 | 2022-05-11 | 2022-07-29 |
 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 | 2022-05-11 |  |
 | [Sweet \(Feat\. IT'S\)](https://open.spotify.com/track/6rXTfDBH1guxFxqrGVA0bO) | [Heo Chaen](https://open.spotify.com/artist/1OqKIwxU1EKsd7eWhtPufv), [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Sweet](https://open.spotify.com/album/2fKLAmKwohU07Z7Zs3Tnhm) | 3:31 | 2022-06-20 | 2022-07-28 |
@@ -127,7 +128,7 @@
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-06-18 |  |
 | [Tell Me How to Date You \(feat\. Park Han Kyul\)](https://open.spotify.com/track/3xzCvsu9Dtg2KJj25Zq7Te) | [Gilbert](https://open.spotify.com/artist/7HYpsAbttGfuUTmkQXJtsC), [Park Han Kyul](https://open.spotify.com/artist/3lat2ErjBtpkMFnc6veeLa) | [Tell Me How to Date You](https://open.spotify.com/album/5gDB0H17phGRZB4ldgBQxE) | 3:26 | 2022-07-08 | 2022-07-29 |
 | [The day](https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI) | [승희](https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.1](https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c) | 3:16 | 2022-07-04 | 2022-07-28 |
-| [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-07-08 |  |
+| [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-07-08 | 2022-08-05 |
 | [To You](https://open.spotify.com/track/6ahbBXhhqxliPL3K7qmrSa) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [To You](https://open.spotify.com/album/0q6scHkQEGEp9rCYjjyl6k) | 3:34 | 2022-07-08 | 2022-07-14 |
 | [To, Summer](https://open.spotify.com/track/5pwBvZSb3JboCWU9xxgSiT) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr), [SLAY](https://open.spotify.com/artist/40XE71rUobaWT3q5L67GKc) | [Not a fairytale](https://open.spotify.com/album/1g2VqUtlR2v6KJL8X0lSr7) | 3:18 | 2022-05-11 | 2022-07-20 |
 | [Type & Delete](https://open.spotify.com/track/0jrc18dt5N6fOJtRUIH9Dv) | [Dalzi](https://open.spotify.com/artist/3itJiDOt0vbIIMkYTy5Dp1), [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp), [LEE IN JUN](https://open.spotify.com/artist/7vNf4Mqk9uJjZNr4Qnwqf7) | [Type & Delete](https://open.spotify.com/album/4V44wdgmFu3rpWT62ernmW) | 3:50 | 2022-05-11 | 2022-07-29 |

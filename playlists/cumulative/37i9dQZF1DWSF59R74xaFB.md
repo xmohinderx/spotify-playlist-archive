@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-346 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
+347 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2021-10-21 |  |
 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2021-10-21 |  |
 | [Eres tú](https://open.spotify.com/track/5AkV6MdcLZtXZ0eOBbiHzO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 4:11 | 2021-10-21 | 2022-04-20 |
-| [Eres Tú \(Cap\. 6: Miedo a la Soledad\)](https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t) | [Kari](https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu) | [Eres Tú \(Cap\. 6: Miedo a la Soledad\)](https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ) | 3:02 | 2022-07-01 |  |
+| [Eres Tú \(Cap\. 6: Miedo a la Soledad\)](https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t) | [Kari](https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu) | [Eres Tú \(Cap\. 6: Miedo a la Soledad\)](https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ) | 3:02 | 2022-07-01 | 2022-08-05 |
 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 | 2021-10-21 |  |
 | [Escápate Conmigo](https://open.spotify.com/track/4xMptBIupterGqGIHG5wHe) | [Rafa Solis](https://open.spotify.com/artist/6jUerHG64XRsbaumkCDGCM) | [Covers: Diferente](https://open.spotify.com/album/2yIrhn0eJPolR8BjPRIbqX) | 2:04 | 2021-10-21 | 2022-04-21 |
 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 | 2021-10-21 | 2022-07-29 |
@@ -353,6 +353,7 @@
 | [¿Dónde Guardo El Corazón?](https://open.spotify.com/track/1pbOsxdAgCzAoXWxikUoW0) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [¿Dónde Guardo El Corazón?](https://open.spotify.com/album/6zEPOB7CigGFbq1hb1qE6k) | 4:11 | 2021-10-21 | 2022-07-29 |
 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/2zkVH2daHyjS51g7PRJFDn) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [¿Qué Ha Pasao'?](https://open.spotify.com/album/2KSuEqdiRePWkHU15Q9KH6) | 3:18 | 2021-10-21 | 2022-04-21 |
 | [¿Tú Cómo Estás?](https://open.spotify.com/track/2Wv8i9zzxsNHWfYWY7BU9R) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [¿Tú Cómo Estás?](https://open.spotify.com/album/3blO4MbnkRDGVFYpQyk78x) | 3:47 | 2022-07-11 |  |
+| [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-08-04 |  |
 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 | 2021-10-21 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "As The Day Breaks",
+        "url": "https://open.spotify.com/album/50Dyze2ncQAkBMN6pd5ZZC"
+      },
+      "artists": [
+        {
+          "name": "Lance Allen",
+          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191153,
+      "name": "As The Day Breaks",
+      "url": "https://open.spotify.com/track/4Hg2XDxHhPq9eKzcSeL0cD"
+    },
+    {
+      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/1qK7kniKkgorGEAmuRBCTn"
       },
@@ -1744,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Easy Escapes",
+        "url": "https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Morning to Do List",
+      "url": "https://open.spotify.com/track/0wlkGWrxewjWnvbbCC8DP1"
+    },
+    {
+      "album": {
         "name": "Mountain Spring",
         "url": "https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG"
       },
@@ -2169,7 +2205,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 227200,
       "name": "Road to Aberdeen",
       "url": "https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq"

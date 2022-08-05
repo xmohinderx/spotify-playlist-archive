@@ -2,7 +2,7 @@
 
 ### [شعبي مصري](https://open.spotify.com/playlist/37i9dQZF1DX7Gwi28HhdBP)
 
-> أفضل الأغاني الشعبية من قلب مصر! غلاف: مصطفى حجاج
+> أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
 
 182 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
 

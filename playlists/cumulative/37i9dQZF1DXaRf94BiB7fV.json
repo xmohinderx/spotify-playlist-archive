@@ -4630,6 +4630,24 @@
     },
     {
       "album": {
+        "name": "Khilte Rang",
+        "url": "https://open.spotify.com/album/60WCs762OY1LGoW7rsyJ4z"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Swaroop",
+          "url": "https://open.spotify.com/artist/5UjCBnXQI2Kt5DvbLZFhqR"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197694,
+      "name": "Khilte Rang",
+      "url": "https://open.spotify.com/track/6jsoaskE0wunyXLpHriyEz"
+    },
+    {
+      "album": {
         "name": "Kho Gaya Dil",
         "url": "https://open.spotify.com/album/4XHokoR1hVhTiDTouPOiPt"
       },
@@ -4887,6 +4905,24 @@
     {
       "album": {
         "name": "Kya Mila Hoke Juda",
+        "url": "https://open.spotify.com/album/1BNtf7KCcvI33Zgh4TGFD3"
+      },
+      "artists": [
+        {
+          "name": "Muzi BOY",
+          "url": "https://open.spotify.com/artist/1ftNvATR3m8rPt1ygLgUXr"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187860,
+      "name": "Kya Mila Hoke Juda",
+      "url": "https://open.spotify.com/track/7Jh36I3PUNM1mNLulu5tbh"
+    },
+    {
+      "album": {
+        "name": "Kya Mila Hoke Juda",
         "url": "https://open.spotify.com/album/4sUBZbPIeOaKwjzmwkcNO7"
       },
       "artists": [
@@ -4897,7 +4933,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 187879,
       "name": "Kya Mila Hoke Juda",
       "url": "https://open.spotify.com/track/6muPTb2QlXgFFhtWPymORx"

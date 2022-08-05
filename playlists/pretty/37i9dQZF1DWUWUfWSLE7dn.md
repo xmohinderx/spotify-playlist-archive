@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > The perfect score to accompany your literary quest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,876 likes - 92 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,950 likes - 94 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,11 +94,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 84 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 |
 | 85 | [Bonnie at Morn \- Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jackie Moran](https://open.spotify.com/artist/7n7z1ZyAvXU0Hzy5Afawri), [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 |
 | 86 | [Alicia's Noir](https://open.spotify.com/track/47CFKKFp99Wjk3QIyVJnVo) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Alicia's Noir](https://open.spotify.com/album/3y5m3gy0dxv10z5czMmcWH) | 3:19 |
-| 87 | [Remain](https://open.spotify.com/track/04Df7GRcJW9WfstmCQKCkb) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Remain](https://open.spotify.com/album/0yXKfilmlkr1Z0WnYvA3fl) | 3:27 |
-| 88 | [Anticipation](https://open.spotify.com/track/7oXuNksbKMdkaBDDlTjOqT) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Anticipation](https://open.spotify.com/album/4pbZrweaQO1XxygeLeqFq7) | 2:11 |
-| 89 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 |
-| 90 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 |
-| 91 | [Legends of the Fall](https://open.spotify.com/track/31loMj4ZFxOedEd2bHHQjg) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr), [Vic Frasier](https://open.spotify.com/artist/4yDDgkE98qUsBfWkMSstfi) | [Legends Of The Fall Original Motion Picture Soundtrack](https://open.spotify.com/album/1h8CXTofLlK1jaLooye58o) | 4:16 |
-| 92 | [Restless, Tamriel Dreams](https://open.spotify.com/track/5GPpwG6GtAPPfdmxltXJnv) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:51 |
+| 87 | [I'm Sorry](https://open.spotify.com/track/63UfuiDT4cb2fi4LPSNvlm) | [BlackDarkwin](https://open.spotify.com/artist/66nc7AwBS925cs768stOQg) | [I'm Sorry](https://open.spotify.com/album/2KiX8D8GGwlXgjfwYb5z8M) | 2:53 |
+| 88 | [Faith in You](https://open.spotify.com/track/0wOmd66tskQXrKtLg33b3U) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Faith in You](https://open.spotify.com/album/5IAp1A7XNBFRAmLbtHYVcW) | 3:18 |
+| 89 | [Remain](https://open.spotify.com/track/04Df7GRcJW9WfstmCQKCkb) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Remain](https://open.spotify.com/album/0yXKfilmlkr1Z0WnYvA3fl) | 3:27 |
+| 90 | [Anticipation](https://open.spotify.com/track/7oXuNksbKMdkaBDDlTjOqT) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Anticipation](https://open.spotify.com/album/4pbZrweaQO1XxygeLeqFq7) | 2:11 |
+| 91 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 |
+| 92 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 |
+| 93 | [Legends of the Fall](https://open.spotify.com/track/31loMj4ZFxOedEd2bHHQjg) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr), [Vic Frasier](https://open.spotify.com/artist/4yDDgkE98qUsBfWkMSstfi) | [Legends Of The Fall Original Motion Picture Soundtrack](https://open.spotify.com/album/1h8CXTofLlK1jaLooye58o) | 4:16 |
+| 94 | [Restless, Tamriel Dreams](https://open.spotify.com/track/5GPpwG6GtAPPfdmxltXJnv) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:51 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGQ5Nzc0YjU2NmQ0YzA0N2RjN2JhOGFmZGI2ZjM4ZTlk`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDY0ZTM4NzNkM2NhZDM5NWIzNDRiOTlhYzA2MTBhNDlj`

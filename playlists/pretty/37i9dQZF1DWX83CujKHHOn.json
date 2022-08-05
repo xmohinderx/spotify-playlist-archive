@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3121920,
+  "num_followers": 3122934,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3MTU5NywwMDAwMDAwMDhlNDY5ZjVhMTY4MGE5YWVhNjdjMzNiODNjYjA5MjJl",
+  "snapshot_id": "MTY1NzU3MTU5NywwMDAwMDAwMDdkMmIyOWI4NWIzN2Y5ZTVkZWQzYmM1M2YxYWJhNWRm",
   "tracks": [
     {
       "added_at": "2022-07-08 10:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Coping",
-        "url": "https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN"
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Coping",
-      "url": "https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP"
+      "duration_ms": 204000,
+      "name": "Love You From a Distance",
+      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -859,34 +859,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
+        "name": "Coping",
+        "url": "https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN"
       },
       "artists": [
         {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Love You From a Distance",
-      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+      "duration_ms": 190266,
+      "name": "Coping",
+      "url": "https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 264773,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 163547,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Losing Us.",
+        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 236885,
+      "name": "Losing Us.",
+      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Bright Lights (Lights Re-pack / Bonus Version)",
         "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 223213,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Losing Us.",
-        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 236885,
-      "name": "Losing Us.",
-      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "If I Stay (Original Motion Picture Soundtrack) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/0mefrJRDTY0Q1eVZVqAAYU"
-      },
-      "artists": [
-        {
-          "name": "Willamette Stone",
-          "url": "https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Heart Like Yours",
-      "url": "https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Handwritten (Revisited)",
         "url": "https://open.spotify.com/album/11fLgnq2LE8p5hzo8urweI"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 274586,
       "name": "Running Low",
       "url": "https://open.spotify.com/track/2ePgwid1o7NKDpUmNGC69b"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "If I Stay (Original Motion Picture Soundtrack) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/0mefrJRDTY0Q1eVZVqAAYU"
+      },
+      "artists": [
+        {
+          "name": "Willamette Stone",
+          "url": "https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Heart Like Yours",
+      "url": "https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Maybe It Was Me",
-        "url": "https://open.spotify.com/album/2SQwOrBSBV5cOaXA39ALrP"
-      },
-      "artists": [
-        {
-          "name": "Sody",
-          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Maybe It Was Me",
-      "url": "https://open.spotify.com/track/0dlTFvu6sfzEenCh2IAPmu"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Breakthrough (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
       },
@@ -2043,18 +2027,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP"
+        "name": "Maybe It Was Me",
+        "url": "https://open.spotify.com/album/2SQwOrBSBV5cOaXA39ALrP"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
         }
       ],
-      "duration_ms": 257483,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
+      "duration_ms": 179320,
+      "name": "Maybe It Was Me",
+      "url": "https://open.spotify.com/track/0dlTFvu6sfzEenCh2IAPmu"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2079,22 +2063,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "half a world away",
-        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP"
       },
       "artists": [
         {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 207954,
-      "name": "half a world away",
-      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
+      "duration_ms": 257483,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2111,6 +2091,26 @@
       "duration_ms": 202360,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2ZHH9aoZjrqtFk1SX1dXy7"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "half a world away",
+        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 207954,
+      "name": "half a world away",
+      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
     },
     {
       "added_at": "2022-07-08 10:00:00",

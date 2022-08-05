@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
+> African dance party music from Paris to Abidjan\. Photo : Bello Falcao
 
-69 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+70 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 | 2022-05-27 |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 | 2022-06-10 |
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
-| [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-16 |  |
+| [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-16 | 2022-08-05 |
 | [Descend un peu](https://open.spotify.com/track/0Yc6JRXXgNzj6zOtQEv7f3) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [Descend un peu](https://open.spotify.com/album/1GsntAdgmlPTwI5vRcM0fU) | 3:42 | 2021-12-20 |  |
 | [Detounounan](https://open.spotify.com/track/7y55f9xT7YZqyQc5vqHyxc) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Detounounan](https://open.spotify.com/album/0W8RUFSIkglecLJhjt4ocf) | 4:09 | 2021-12-20 |  |
 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 | 2022-06-09 |  |
@@ -70,6 +70,7 @@
 | [Tia Lokolo](https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Tia Lokolo](https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge) | 4:12 | 2022-05-26 |  |
 | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ) | 3:54 | 2022-07-21 |  |
 | [Touche ici](https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Touche ici](https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y) | 3:35 | 2021-12-20 |  |
+| [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 |  |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 |  |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 |  |

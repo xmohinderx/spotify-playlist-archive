@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Lava La Rue
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,170 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,210 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [c.w.u.c](https://open.spotify.com/track/1zZo5HS1jPKm0yWcrL7gxy) | [Voidie](https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN) | [c.w.u.c](https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C) | 2:41 |
 | 85 | [Do You Want It All?](https://open.spotify.com/track/4PkxkGJ8393zzsgLC87esM) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Do You Want It All?](https://open.spotify.com/album/7FO5BmKZbsB0T25JudO5UC) | 3:12 |
 
-Snapshot ID: `MTY1OTA0OTIwMCwwMDAwMDAwMDEyZjA2MzY0NzhmMzVkYzRmM2JmYmJhMzEyZTk2YTJm`
+Snapshot ID: `MTY1OTY1NDAwMCwwMDAwMDAwMDUxM2M4ZWZkZTIxYjY2NmE3MjZhMGEyM2FjMTQ4ODli`

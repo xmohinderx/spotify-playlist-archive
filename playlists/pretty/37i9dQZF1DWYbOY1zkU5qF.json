@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 104022,
+  "num_followers": 104110,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDlkOGFiNTU2ZTg4ODczOGYyMmU5MzliMDIyODZhNjli",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDYxZTdhNmI4M2I0ZjA5OWYwNTNiZWFlNTYwMDk3ZDE5",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 348339,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
         "url": "https://open.spotify.com/album/3tAognJvJ33ya4hsZts96q"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 234437,
       "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
       "url": "https://open.spotify.com/track/1bUBrrlsck74gistqPBpAp"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 348339,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "M\u00e1tenme Porque Me Muero",
+        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 206993,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 291929,
       "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "M\u00e1tenme Porque Me Muero",
-        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 206993,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 185842,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Duele el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 135000,
       "name": "Duele el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
+      },
+      "artists": [
+        {
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+        }
+      ],
+      "duration_ms": 185842,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amigos con derechos",
-        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 160237,
-      "name": "Amigos con derechos",
-      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Y Co\u0301mo Es E\u0301l?",
         "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 231500,
       "name": "Y Co\u0301mo Es E\u0301l?",
       "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 160237,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
     },
     {
       "added_at": "2022-02-18 06:00:00",

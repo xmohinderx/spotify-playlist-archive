@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: salute
+> Discover your new favourite artists\. Cover: Blazer Boccle
 
-135 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+136 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2022-02-18 |  |
 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 | 2022-02-18 |  |
 | [Black](https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Black](https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr) | 2:43 | 2022-02-18 |  |
+| [Boppin](https://open.spotify.com/track/70RfBeqS2vWnO0QiEJcZHF) | [Blazer Boccle](https://open.spotify.com/artist/2YmC1eRlfWVHvrLFyxAyAn) | [Boppin](https://open.spotify.com/album/4bmbwGUQQySO2BsQOqO9TE) | 3:35 | 2022-08-04 |  |
 | [Burning](https://open.spotify.com/track/37mG6IjvmVd0bKf83D7ZGt) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Burning](https://open.spotify.com/album/21aYxAH1YpxxBW6XfnBz0b) | 3:03 | 2022-02-18 |  |
 | [Can you](https://open.spotify.com/track/52VXLQTSzgIGjwFMx3ty3U) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 3:39 | 2022-02-18 |  |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-03-01 | 2022-03-02 |

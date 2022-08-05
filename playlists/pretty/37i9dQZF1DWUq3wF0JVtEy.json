@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 847151,
+  "num_followers": 847381,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGM1ZWY5MzM4ZjRlNDAyN2I3NTdlMjU0OWZiNDBhOWZi",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGJmNzQ1MGQ1ZjVhNTkxNDQ1MWEwMzMxYTYyNTA3ZTYw",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 185730,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Bloodstream",
         "url": "https://open.spotify.com/album/3uzIdtMI1baix8yp2GeiFQ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 148715,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/7BJvauk2ddcxirw5px8Wfa"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 185730,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        }
-      ],
-      "duration_ms": 202515,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Have Me All (feat. Jelita)",
         "url": "https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 170004,
       "name": "Have Me All (feat. Jelita)",
       "url": "https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        }
+      ],
+      "duration_ms": 202515,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -983,6 +983,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 169252,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Turn Off The Lights (Cloonee Remix)",
         "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
-        }
-      ],
-      "duration_ms": 169252,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Gotta Let U Go",
-        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 149219,
-      "name": "Gotta Let U Go",
-      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Safe & Sound",
         "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
       },
@@ -1163,6 +1143,22 @@
       "duration_ms": 200166,
       "name": "Safe & Sound - Radio Edit",
       "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf"
+      },
+      "artists": [
+        {
+          "name": "Zhnark",
+          "url": "https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww"
+        }
+      ],
+      "duration_ms": 218894,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1183,6 +1179,26 @@
       "duration_ms": 151874,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/2M2itA0spt6ZXit7l21WMJ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Gotta Let U Go",
+        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 149219,
+      "name": "Gotta Let U Go",
+      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 157428,
       "name": "Your Tongue",
       "url": "https://open.spotify.com/track/00WQxluVREF12JZkKWvio4"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
@@ -1375,6 +1391,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Anything (Malaa Remix)",
         "url": "https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG"
       },
@@ -1399,26 +1435,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4"
-      },
-      "artists": [
-        {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 171362,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "PPL",
         "url": "https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q"
       },
@@ -1439,22 +1455,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4"
       },
       "artists": [
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
         },
         {
-          "name": "Jake Tarry",
-          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
         }
       ],
-      "duration_ms": 144677,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+      "duration_ms": 171362,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 161951,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Goodnight (feat. JP Cooper)",
         "url": "https://open.spotify.com/album/5LJOHCNAxofL23i7XGRY4o"
       },
@@ -1595,22 +1627,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 161951,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 242343,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf"
-      },
-      "artists": [
-        {
-          "name": "Zhnark",
-          "url": "https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww"
-        }
-      ],
-      "duration_ms": 218894,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "stop",
+        "url": "https://open.spotify.com/album/4CbJbnUWtedRpgLGIgaEiw"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Max Kaluza",
+          "url": "https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "stop",
+      "url": "https://open.spotify.com/track/6BM9s0Pqmj5mvHsrDvLozu"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Oh La La (feat. Mougleta)",
         "url": "https://open.spotify.com/album/3nt62cBy34uUk2SlkOyvSg"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 150368,
       "name": "Oh La La (feat. Mougleta)",
       "url": "https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "stop",
-        "url": "https://open.spotify.com/album/4CbJbnUWtedRpgLGIgaEiw"
-      },
-      "artists": [
-        {
-          "name": "warner case",
-          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
-        },
-        {
-          "name": "Max Kaluza",
-          "url": "https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "stop",
-      "url": "https://open.spotify.com/track/6BM9s0Pqmj5mvHsrDvLozu"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Hypno",
+        "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
+      },
+      "artists": [
+        {
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+        }
+      ],
+      "duration_ms": 238544,
+      "name": "Hypno",
+      "url": "https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Red Handed",
         "url": "https://open.spotify.com/album/6wbcvjFi81H1FRQXUZDygg"
       },
@@ -1879,42 +1895,6 @@
       "duration_ms": 171293,
       "name": "Red Handed",
       "url": "https://open.spotify.com/track/3L5vu7DBK62Nr3UIREIEJE"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/6dDSqtmH6vou9BQnskvrIV"
-      },
-      "artists": [
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        },
-        {
-          "name": "Mo Falk",
-          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
-        }
-      ],
-      "duration_ms": 160004,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/6lLHhKjeqWWNa0hTbJN98R"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Hypno",
-        "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
-      },
-      "artists": [
-        {
-          "name": "Funkin Matt",
-          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
-        }
-      ],
-      "duration_ms": 238544,
-      "name": "Hypno",
-      "url": "https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1943,6 +1923,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/6dDSqtmH6vou9BQnskvrIV"
+      },
+      "artists": [
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        },
+        {
+          "name": "Mo Falk",
+          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
+        }
+      ],
+      "duration_ms": 160004,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/6lLHhKjeqWWNa0hTbJN98R"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Good Catch",
         "url": "https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc"
       },
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Stop Talkin (feat. ALMA)",
-        "url": "https://open.spotify.com/album/55iVqhNXuBbgvx21VTDgdW"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        }
-      ],
-      "duration_ms": 177024,
-      "name": "Stop Talkin (feat. ALMA)",
-      "url": "https://open.spotify.com/track/05r0Rw0wlUSC6Az3fssRlj"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "shit i like",
         "url": "https://open.spotify.com/album/26tPz3DGl0Hno8muVnjfx3"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 230046,
       "name": "shit i like",
       "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Stop Talkin (feat. ALMA)",
+        "url": "https://open.spotify.com/album/55iVqhNXuBbgvx21VTDgdW"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "duration_ms": 177024,
+      "name": "Stop Talkin (feat. ALMA)",
+      "url": "https://open.spotify.com/track/05r0Rw0wlUSC6Az3fssRlj"
     }
   ],
   "unique_name": "Shuffle Syndrome",

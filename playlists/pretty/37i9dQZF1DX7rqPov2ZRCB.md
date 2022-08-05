@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,896 likes - 51 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,918 likes - 51 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 48 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf) | [El General Larguito](https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:22 |
 | 49 | [Un Hombre Nuevo](https://open.spotify.com/track/0RhMC8PTYKSP30ifulHocD) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Mi Luz](https://open.spotify.com/album/7h3BsbfpqQY1865zn3ZuDi) | 3:51 |
 | 50 | [Ya No Te Quiero](https://open.spotify.com/track/6aeAgCXriC5ikrMjEr7DRA) | [Yiki Lee](https://open.spotify.com/artist/288FjEmxkMZJKZjYfDkd1A) | [Muy Loco](https://open.spotify.com/album/6SXxDhaRk2ezuJZC9vrGuD) | 5:57 |
-| 51 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
+| 51 | [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDk5NzkxYWFiODhjMmRmNjhhZTk0YjY3NGEyMWYwMDJi`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDU4YmI1Zjk3MGY0MjI0ZDExYzQxNjQ2OGUzOGJjODM5`

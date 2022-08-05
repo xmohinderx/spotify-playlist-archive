@@ -4,11 +4,12 @@
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-116 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+117 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [333](https://open.spotify.com/track/1hF1acUnz0dqh0RszUsHbF) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [369](https://open.spotify.com/album/0huaoBCZBy6A0kPy34teUE) | 3:08 | 2022-04-25 |  |
+| [Afterlife](https://open.spotify.com/track/2uX9JzpZxul4FNnk87z1zQ) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Afterlife](https://open.spotify.com/album/5x2pZCBJeC8XPXdex5MSsu) | 4:44 | 2022-08-04 |  |
 | [AIBT002](https://open.spotify.com/track/5XJbXTityTLG6SM9Hu6z6M) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [AI Beat Tape](https://open.spotify.com/album/2PgvIOKViA6u74we5C9kEp) | 2:30 | 2022-04-25 |  |
 | [All Night \- Ivy Lab Remix](https://open.spotify.com/track/0HUEIdafaoXyaVWDehISEh) | [Trampa](https://open.spotify.com/artist/31DUXycJt0YIBoMXLI5UdV), [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [All Night \(Ivy Lab Remix\)](https://open.spotify.com/album/0Yn6y2yWBPoJrdi0b1YMWf) | 3:56 | 2021-09-17 | 2022-02-28 |
 | [Always](https://open.spotify.com/track/1OAYXRKMitVKpuhMf8klHc) | [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb) | [Goddess EP \(For Ellie\)](https://open.spotify.com/album/1OVk3K4kxpnMbk85wUm7b1) | 3:58 | 2022-01-22 | 2022-04-16 |

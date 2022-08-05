@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
-  "num_followers": 310376,
+  "num_followers": 310592,
   "original_name": "10s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NzYyOCwwMDAwMDAwMDhiMTY0YTZmMjk4NDdmMzVkZWM0ZTM4NDQzYzFhYTdl",
+  "snapshot_id": "MTY1ODc4NzYyOCwwMDAwMDAwMDkyZDQ0ZDQ1MWIwOTNhM2U5ZTVhMDQ5ZGU3YWUzNjZj",
   "tracks": [
     {
       "added_at": "2022-07-25 22:20:28",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "The Rise of Chaos",
-        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 299720,
-      "name": "Koolaid",
-      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 188266,
       "name": "Diamond Eyes",
       "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "The Rise of Chaos",
+        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 299720,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/399w1uaOvKhnkczdMMZYoy"
+        "name": "Verkligheten",
+        "url": "https://open.spotify.com/album/1bKXTR40NIO0RrsIlFQyTr"
       },
       "artists": [
         {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
         }
       ],
-      "duration_ms": 281332,
-      "name": "The Black",
-      "url": "https://open.spotify.com/track/4ORXSxr4tV5H6gH5KHAiAh"
+      "duration_ms": 265823,
+      "name": "St\u00e5lf\u00e5gel",
+      "url": "https://open.spotify.com/track/4HOVQhtjFCRGY9PnsLoR86"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/399w1uaOvKhnkczdMMZYoy"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/4ORXSxr4tV5H6gH5KHAiAh"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
         "name": "1000hp",
         "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 226466,
       "name": "1000hp",
       "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Verkligheten",
-        "url": "https://open.spotify.com/album/1bKXTR40NIO0RrsIlFQyTr"
-      },
-      "artists": [
-        {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
-        }
-      ],
-      "duration_ms": 265823,
-      "name": "St\u00e5lf\u00e5gel",
-      "url": "https://open.spotify.com/track/4HOVQhtjFCRGY9PnsLoR86"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1317,24 +1317,20 @@
       "url": "https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD"
     },
     {
-      "added_at": "2022-04-24 22:00:00",
+      "added_at": "2022-07-13 14:26:52",
       "album": {
-        "name": "The Dirt Soundtrack",
-        "url": "https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O"
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 232000,
-      "name": "The Dirt (Est. 1981) [feat. Machine Gun Kelly]",
-      "url": "https://open.spotify.com/track/0PloHvXx0nAIwVx1zYjm9F"
+      "duration_ms": 295213,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1355,22 +1351,6 @@
     {
       "added_at": "2022-07-13 14:26:52",
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
-    },
-    {
-      "added_at": "2022-07-13 14:26:52",
-      "album": {
         "name": "The Last Stand",
         "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 192037,
       "name": "The Last Battle",
       "url": "https://open.spotify.com/track/7hrW22GLqFLwQOfQYLEw6q"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "The Dirt Soundtrack",
+        "url": "https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "The Dirt (Est. 1981) [feat. Machine Gun Kelly]",
+      "url": "https://open.spotify.com/track/0PloHvXx0nAIwVx1zYjm9F"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 163066,
+      "name": "Well, Everybody's Fucking In A U.F.O.",
+      "url": "https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
         "name": "Resist (Extended Deluxe)",
         "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/6XnPopwCZ6odHVVqMsllL5"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 163066,
-      "name": "Well, Everybody's Fucking In A U.F.O.",
-      "url": "https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1937,22 +1937,6 @@
       "url": "https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz"
     },
     {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Incarnate",
-        "url": "https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 226786,
-      "name": "Hate by Design",
-      "url": "https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD"
-    },
-    {
       "added_at": "2022-07-13 14:26:52",
       "album": {
         "name": "Shadows Inside",
@@ -1967,6 +1951,22 @@
       "duration_ms": 210889,
       "name": "Lost in the Grey",
       "url": "https://open.spotify.com/track/2bnsTOWLjWLNnWoDyT4S9E"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Incarnate",
+        "url": "https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 226786,
+      "name": "Hate by Design",
+      "url": "https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -2307,18 +2307,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/1tb0QLGgdyuewhLFN4iKnj"
+        "name": "Dream Theater",
+        "url": "https://open.spotify.com/album/2yzeTza4DXX5XpzJYY7CXO"
       },
       "artists": [
         {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 203800,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/3oGBi4YADwMYDtnRfYurnz"
+      "duration_ms": 377373,
+      "name": "The Enemy Inside",
+      "url": "https://open.spotify.com/track/1ZR4QAYsiO9zPsGaMPW2OI"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Dream Theater",
-        "url": "https://open.spotify.com/album/2yzeTza4DXX5XpzJYY7CXO"
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/1tb0QLGgdyuewhLFN4iKnj"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
         }
       ],
-      "duration_ms": 377373,
-      "name": "The Enemy Inside",
-      "url": "https://open.spotify.com/track/1ZR4QAYsiO9zPsGaMPW2OI"
+      "duration_ms": 203800,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/3oGBi4YADwMYDtnRfYurnz"
     },
     {
       "added_at": "2022-07-13 14:26:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,601 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,711 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 61 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4) | 4:13 |
 | 62 | [¿Quién Te Dijo Eso?](https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Abrazar La Vida](https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW) | 4:31 |
 | 63 | [Pobre Diabla](https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don Live](https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ) | 4:14 |
-| 64 | [The Anthem](https://open.spotify.com/track/2cZ5ACJfBj2uAXARdHpjAW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [The Boatlift](https://open.spotify.com/album/7m9AYxqeFPagkaqlg6WE0J) | 4:05 |
+| 64 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
 | 65 | [Nuestro Amor](https://open.spotify.com/track/7F7qwp7VZRVwZsNoddRRgX) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:35 |
-| 66 | [Ni Una Sola Palabra](https://open.spotify.com/track/5xXYuYk2CzHfk3kLKYmRRb) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj) | 3:44 |
-| 67 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
+| 66 | [The Anthem](https://open.spotify.com/track/2cZ5ACJfBj2uAXARdHpjAW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [The Boatlift](https://open.spotify.com/album/7m9AYxqeFPagkaqlg6WE0J) | 4:05 |
+| 67 | [Ni Una Sola Palabra](https://open.spotify.com/track/5xXYuYk2CzHfk3kLKYmRRb) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj) | 3:44 |
 | 68 | [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 |
 | 69 | [Aire](https://open.spotify.com/track/1a8vNLzmwmy31iCT45MNkF) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 4:03 |
 | 70 | [Aún Hay Algo](https://open.spotify.com/track/6fqpsCQ7jF7OgQolXgYovX) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 74 | [Mas Maiz](https://open.spotify.com/track/3r3v3yoi2dEowTwO1IAfLy) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Big Mato](https://open.spotify.com/artist/0tG3OtnzCjdbL1ZVkDprlS), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Chingo Bling](https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5), [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1), [Negra](https://open.spotify.com/artist/0PdmY0FMagjBmahnt6TWpF), [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [N.O.R.E\. Y La Familia](https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA) | 4:34 |
 | 75 | [Genio Atrapado](https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:37 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDc3NmVkNjE1NjFhOTk4OGYyZmI5M2ZhM2NiMjAzYTg0`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMGY3ZGY2Mzc5ZWU2OWVmMWQwMDgwZmZhNmYwNDlkNWFk`

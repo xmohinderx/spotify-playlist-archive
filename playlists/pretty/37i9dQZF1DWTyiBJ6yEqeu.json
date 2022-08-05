@@ -1,12 +1,12 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 4521888,
+  "num_followers": 4524318,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1MjYzNywwMDAwMDAwMGM1YTJiNWE2YzdkZTQyZTgzYWI2MWRlNzVhZmNlNmUw",
+  "snapshot_id": "MTY1OTU1MjYzNywwMDAwMDAwMGZmNGNhZWZjNjU4MWZiZDQ3MTJjMjBlMTQwOGFhZTA2",
   "tracks": [
     {
       "added_at": "2022-08-01 15:11:10",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -571,30 +571,6 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Amanda Reifer",
-          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Die Hard",
-      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 166859,
-      "name": "Tek It - Sped Up",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
+        "name": "Tek It (I Watch the Moon)",
+        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 166859,
+      "name": "Tek It - Sped Up",
+      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -899,6 +899,34 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
+        "name": "Deep Down (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "Deep Down (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -911,30 +939,6 @@
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
-        "name": "love nwantiti (feat. Dj Yo! & AX'EL) [Remix]",
-        "url": "https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Dj Yo!",
-          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
-        },
-        {
-          "name": "AX'EL",
-          "url": "https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
-      "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -975,30 +979,26 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
-        "name": "Deep Down (feat. Never Dull)",
-        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+        "name": "love nwantiti (feat. Dj Yo! & AX'EL) [Remix]",
+        "url": "https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
         },
         {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        },
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+          "name": "AX'EL",
+          "url": "https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz"
         }
       ],
-      "duration_ms": 165752,
-      "name": "Deep Down (feat. Never Dull)",
-      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+      "duration_ms": 188368,
+      "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
+      "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
@@ -1103,18 +1119,22 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+      "duration_ms": 172800,
+      "name": "Ric Flair Drip (with Metro Boomin)",
+      "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -1155,26 +1175,6 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Ric Flair Drip (with Metro Boomin)",
-      "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 205458,
+      "name": "Calling My Phone",
+      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -1227,26 +1247,6 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 205458,
-      "name": "Calling My Phone",
-      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 98413,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 196138,
-      "name": "5% TINT",
-      "url": "https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
         "name": "Phonky Town",
         "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 141343,
       "name": "Phonky Town",
       "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 196138,
+      "name": "5% TINT",
+      "url": "https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds"
     },
     {
       "added_at": "2022-08-03 18:50:36",
@@ -1731,6 +1731,30 @@
     {
       "added_at": "2022-08-01 15:11:10",
       "album": {
+        "name": "Never Sleep",
+        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -1751,6 +1775,22 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 122221,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -1777,42 +1817,6 @@
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
     },
     {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 181393,
-      "name": "What Happened To Virgil (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 122221,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
-    },
-    {
       "added_at": "2022-08-03 18:50:36",
       "album": {
         "name": "CALL ME IF YOU GET LOST",
@@ -1835,6 +1839,26 @@
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+    },
+    {
+      "added_at": "2022-08-01 15:11:10",
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 181393,
+      "name": "What Happened To Virgil (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
     {
       "added_at": "2022-08-01 15:11:10",
@@ -1883,26 +1907,6 @@
       "duration_ms": 170045,
       "name": "Do It Better (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
-    },
-    {
-      "added_at": "2022-08-01 15:11:10",
-      "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 140665,
-      "name": "IDGAF (with blackbear)",
-      "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
     }
   ],
   "unique_name": "Top Gaming Tracks",

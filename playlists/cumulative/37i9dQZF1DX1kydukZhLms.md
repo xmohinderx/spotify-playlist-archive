@@ -4,7 +4,7 @@
 
 > A collection of the best metal ballads.
 
-245 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
+246 songs - 20 hr 52 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 | 2022-04-15 |  |
 | [I Remember You](https://open.spotify.com/track/2kyDqWZoa2VVyrgtlx3yQT) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Rhino Hi\-Five: Skid Row](https://open.spotify.com/album/26QZZyjOmrSVcFCuUK2CoA) | 5:14 | 2022-04-15 | 2022-07-29 |
 | [I Still Love You](https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(Remastered Version\)](https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe) | 6:06 | 2022-04-15 | 2022-07-29 |
+| [I Still Love You](https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 6:06 | 2022-04-15 |  |
 | [I Will Remember \- Remastered](https://open.spotify.com/track/2a3AywJ9UUwws73WLguDzd) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Rage For Order \(Remastered\) \[Expanded Edition\]](https://open.spotify.com/album/4bcTrCj8wfKsFMv8O0NwDe) | 4:38 | 2022-04-15 | 2022-07-28 |
 | [I Won't Forget You \- Remastered](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 | 2022-04-15 |  |
 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 | 2022-04-15 | 2022-07-29 |
@@ -174,7 +175,7 @@
 | [Scarborough Fair](https://open.spotify.com/track/1NAg4r8oHMEzZLqPxWKUc5) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Njord](https://open.spotify.com/album/4AFO4Z3R6GvUNcMgu64QAh) | 4:04 | 2022-04-15 | 2022-07-14 |
 | [Scarlet Rose](https://open.spotify.com/track/1I0oWAoXKhCp9VgLeuU9l0) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Vain Glory Opera](https://open.spotify.com/album/2T9uuvdso9EyHnHG0r3l4Z) | 5:11 | 2022-04-15 | 2022-07-28 |
 | [Scene Five: Through Her Eyes](https://open.spotify.com/track/19CegINw7X0pqHaY7YOaz8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Metropolis, Pt\. 2: Scenes from a Memory](https://open.spotify.com/album/1QZi8laY96nhaeGSklvN4D) | 5:29 | 2022-04-15 | 2022-07-29 |
-| [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 | 2022-04-15 |  |
+| [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 | 2022-04-15 | 2022-08-05 |
 | [Seize the Day](https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:34 | 2022-04-15 |  |
 | [Send Me An Angel](https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 4:33 | 2022-04-15 | 2022-07-29 |
 | [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 | 2022-04-15 |  |

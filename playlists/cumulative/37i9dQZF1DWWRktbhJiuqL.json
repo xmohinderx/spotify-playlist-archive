@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 163893,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 201026,
       "name": "Cherry Pie",
       "url": "https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 214373,
       "name": "Club Foot",
       "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 179360,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 197520,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 370920,
       "name": "Fool in the Rain - Remaster",
       "url": "https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 126573,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 225853,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
@@ -1640,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "Hard Working Man",
+        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
+    },
+    {
+      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 206493,
       "name": "Hey Hey Rise Up - feat. Andriy Khlyvnyuk of Boombox",
       "url": "https://open.spotify.com/track/2ZUSWhE5jP7CvNItpLyZwA"
@@ -2245,7 +2263,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 222506,
       "name": "Kick",
       "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
@@ -2479,7 +2497,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 247010,
       "name": "Living In A Ghost Town",
       "url": "https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t"
@@ -2569,7 +2587,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 242560,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 300480,
       "name": "Make Me A Believer",
       "url": "https://open.spotify.com/track/4BASG8QeQKpn2WOwu33C3u"
@@ -2915,7 +2933,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 234240,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
@@ -3279,7 +3297,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 286840,
       "name": "Rebel Yell - Remastered",
       "url": "https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc"
@@ -3315,7 +3333,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 201693,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
@@ -3441,7 +3459,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 255573,
       "name": "Rock You Like a Hurricane - 2011",
       "url": "https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV"
@@ -3711,7 +3729,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 185133,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
@@ -3873,7 +3891,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
@@ -3963,7 +3981,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 297489,
       "name": "Stardust Chords",
       "url": "https://open.spotify.com/track/07p7PALHp6ZcD5tmlbO94N"
@@ -4287,7 +4305,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 223533,
       "name": "Take Me To The Top",
       "url": "https://open.spotify.com/track/6F7VPRyOTXYvEMUSaCq2n6"
@@ -4377,7 +4395,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
@@ -4467,7 +4485,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 274281,
       "name": "The Way You Used To Do",
       "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
@@ -4955,7 +4973,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 176306,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"

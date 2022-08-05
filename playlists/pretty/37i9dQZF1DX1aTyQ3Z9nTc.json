@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 99472,
+  "num_followers": 99565,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTE0Nzg2NSwwMDAwMDAwMDZkMzk0NzU5YWQ2ZjIwZmM3NTFjYmYxMWE0YTFmY2Ey",
+  "snapshot_id": "MTY1OTE0Nzg2NSwwMDAwMDAwMGVmNTZkYWFhMjZmYmJjOWVhN2JkYzE4M2Q0YWIxNDg1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -461,26 +461,6 @@
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Too Much (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 215397,
-      "name": "Too Much (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Recap (with VanJess & Channel Tres)",
@@ -503,6 +483,26 @@
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Too Much (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 215397,
+      "name": "Too Much (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -577,6 +577,26 @@
       "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
     },
     {
+      "added_at": "2022-07-29 04:11:59",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 169583,
+      "name": "A Body, A Coffin",
+      "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Pressure",
@@ -627,26 +647,6 @@
       "duration_ms": 163106,
       "name": "No Chill",
       "url": "https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq"
-    },
-    {
-      "added_at": "2022-07-29 04:11:59",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 169583,
-      "name": "A Body, A Coffin",
-      "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/632PCenoAviq31MsIh9eBM"
     },
     {
-      "added_at": "2022-07-29 04:11:59",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192518,
-      "name": "i",
-      "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Run It Up",
@@ -847,6 +831,22 @@
       "duration_ms": 178218,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
+    },
+    {
+      "added_at": "2022-07-29 04:11:59",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 192518,
+      "name": "i",
+      "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Simple.",
-        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 136444,
-      "name": "Zaza Tree",
-      "url": "https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
       },
@@ -947,30 +931,38 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "What Would You Do? (feat. Bryson Tiller) [KC Lights Remix]",
-        "url": "https://open.spotify.com/album/7oUToHEuM9v5h1I2vsA7xH"
+        "name": "Simple.",
+        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         }
       ],
-      "duration_ms": 196848,
-      "name": "What Would You Do? (feat. Bryson Tiller) - KC Lights Remix",
-      "url": "https://open.spotify.com/track/79NSe4NDp0fzv49uMMVg9j"
+      "duration_ms": 136444,
+      "name": "Zaza Tree",
+      "url": "https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "They Call Me Disco",
+        "url": "https://open.spotify.com/album/6p40dZWSVoWmChUHZjDRJD"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 244861,
+      "name": "Move Like This",
+      "url": "https://open.spotify.com/track/3Jw0dL0zh6zAYHpXa0sbrA"
     }
   ],
   "unique_name": "Choice Edit",

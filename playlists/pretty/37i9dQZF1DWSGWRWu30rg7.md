@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Febinda Tito\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,810 likes - 61 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,815 likes - 61 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

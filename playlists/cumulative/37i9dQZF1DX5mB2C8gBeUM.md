@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Abby Anderson
 
-251 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+252 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-29 |  |
 | [Right Where You Left It](https://open.spotify.com/track/2g9cCY3YTGaHS6EStrTTQE) | [Eric Dodd](https://open.spotify.com/artist/1JhyDAwoxeTdklxjHDcdpe) | [Right Where You Left It](https://open.spotify.com/album/0LHLrtSr2R2mN93q1ehSst) | 2:51 | 2021-12-10 | 2022-04-09 |
 | [RNDS](https://open.spotify.com/track/6vi8rnrpTsqKM88odyNCWQ) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [RNDS](https://open.spotify.com/album/7qrc5PjoWYo86fXw0es1av) | 3:14 | 2022-01-21 | 2022-04-09 |
-| [Room to Dream](https://open.spotify.com/track/2yzKdZZCEQM9LCNBamNmvC) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/3VEYJ68XnBWjndfdR9uL0V) | 3:07 | 2021-12-10 |  |
+| [Room to Dream](https://open.spotify.com/track/2yzKdZZCEQM9LCNBamNmvC) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/3VEYJ68XnBWjndfdR9uL0V) | 3:07 | 2021-12-10 | 2022-08-05 |
+| [Room to Dream](https://open.spotify.com/track/3ZvP5XbLElIdeYVerFZ1U4) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/759rhQI6Tgbkd9Ss4Sm81e) | 3:07 | 2022-08-01 |  |
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 |  |
 | [Say It First](https://open.spotify.com/track/7hKcJWiTSQ5C7DswfkJKIa) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:20 | 2022-02-11 |  |
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-05-13 |  |

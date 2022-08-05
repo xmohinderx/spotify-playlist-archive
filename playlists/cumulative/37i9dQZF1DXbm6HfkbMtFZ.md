@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-417 songs - 1 day 1 hr 26 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+418 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2022-02-23 | 2022-07-29 |
 | [Last Train \- Remastered Version](https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Southern Nights](https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls) | 3:01 | 2022-03-30 | 2022-04-19 |
 | [Laurence](https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Laurence](https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5) | 3:32 | 2022-05-12 | 2022-06-08 |
-| [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 |  |
+| [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 | 2022-08-05 |
 | [Lesson Learnt](https://open.spotify.com/track/0ibr9W60zg3lSVIClr2tWG) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 2:18 | 2022-03-30 | 2022-04-19 |
 | [Lesson Learnt](https://open.spotify.com/track/7hXtZAHYedEOK3pGdWD6iQ) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 2:18 | 2022-07-26 |  |
 | [Let 'Em In \- Remastered 2014](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 | 2022-03-30 |  |
@@ -221,6 +221,7 @@
 | [Losing Touch](https://open.spotify.com/track/2ryXP4NxcAPXgE7KPoZ6x4) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Losing Touch](https://open.spotify.com/album/0GfYAzaPprg7myHy4OeemX) | 3:55 | 2021-12-16 | 2022-04-20 |
 | [Lost In This City](https://open.spotify.com/track/2Z4GLUVtWq0C95WSeJtWIM) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 4:29 | 2022-03-30 | 2022-04-21 |
 | [Love Survive](https://open.spotify.com/track/34nEzGUaDhG63sgBoql2EL) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/4FRWa4MJSeId62zVtrYMQw) | 2:48 | 2021-12-16 | 2022-04-21 |
+| [Love Survive](https://open.spotify.com/track/50Hylr3XgpE10oDIahc6Cm) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/2xdoZZGPjIn7atH79XSSvS) | 2:48 | 2022-07-26 |  |
 | [Love That Girl](https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 3:04 | 2022-03-30 |  |
 | [Love, Love, Love](https://open.spotify.com/track/3Is2HcRNZFrRxTvORBu6bU) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Someday We'll All Be Free](https://open.spotify.com/album/6kWqwXiHxRwvLKFScZbbdS) | 3:22 | 2022-01-07 | 2022-04-20 |
 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 | 2022-07-26 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,173 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,178 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kaylat Raha](https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr) | [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Kaylat Raha](https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O) | 4:01 |
-| 2 | [Ho More Raja](https://open.spotify.com/track/4du8jzQa9JHA2BB9IVprmc) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 4:56 |
-| 3 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 |
-| 4 | [Mor Tor \(feat\. Rikki Jai\)](https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN) | 4:34 |
+| 1 | [Mor Tor \(feat\. Rikki Jai\)](https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN) | 4:34 |
+| 2 | [Kaylat Raha](https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr) | [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Kaylat Raha](https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O) | 4:01 |
+| 3 | [Ho More Raja](https://open.spotify.com/track/4du8jzQa9JHA2BB9IVprmc) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 4:56 |
+| 4 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 |
 | 5 | [Lago Tore Paiya](https://open.spotify.com/track/30QugxPxe1wtt7e7o0yoQz) | [Nishard M](https://open.spotify.com/artist/6z6RdNPFBjmUIsstVgTzqi), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Lago Tore Paiya](https://open.spotify.com/album/3LfDkwVOjVBEqFexB1va1i) | 3:41 |
 | 6 | [Aur Chale \(feat\. Dil\-E\-Nadan\)](https://open.spotify.com/track/0rqf6vbpvLhynNJz6ya5zG) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Dil\-E\-Nadan](https://open.spotify.com/artist/34B244yve10xAS2LK6VknY) | [Independent Lady](https://open.spotify.com/album/5MX7SERtmC5ObbiWxgVhKb) | 3:24 |
 | 7 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 49 | [Balkissoon](https://open.spotify.com/track/2tx8gLbf1Iy7GbgV6vFl57) | [Omardath Maharaj](https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Balkissoon](https://open.spotify.com/album/0CpGJQDsla57RlmVUMahfy) | 3:44 |
 | 50 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/4bdt4Twty5nZAjR3WsnzNg) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
 
-Snapshot ID: `MTY1OTMzNzgwMCwwMDAwMDAwMGFjNDExNjQ0NmFjNDI4MjQ1ZjZkMjhiNGU1NjEwMGNm`
+Snapshot ID: `MTY1OTU5ODQ3NSwwMDAwMDAwMDExNGJiYjVlNjM4MzZlZWFjNmJhNjcwMjRiNmI3MzM2`

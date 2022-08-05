@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Csi2otB2wp.md) - [plain]
 
 > una lloradita tranqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,713 likes - 74 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,056 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

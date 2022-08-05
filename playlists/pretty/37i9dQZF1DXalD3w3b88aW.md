@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,248 likes - 75 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,255 likes - 75 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 38 | [The Roots \(Interlude\)](https://open.spotify.com/track/1Qr9uLQz5Z8sq39zBUnNnE) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 0:57 |
 | 39 | [Sexy You \(Interlude\)](https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:50 |
 | 40 | [I Dedicate \(Pt\. 3\)](https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 1:01 |
-| 41 | [My Life Interlude](https://open.spotify.com/track/0TOcyKzpOfxMhO7qVDrJZt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 1:15 |
-| 42 | [Puff's Intro](https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 1:40 |
+| 41 | [Puff's Intro](https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 1:40 |
+| 42 | [My Life Interlude](https://open.spotify.com/track/0TOcyKzpOfxMhO7qVDrJZt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 1:15 |
 | 43 | [Soul Intact \- Interlude](https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:47 |
 | 44 | [You Are My Joy \(Interlude\)](https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 1:07 |
 | 45 | [Why \(Interlude\)](https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:43 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 67 | [There Will Be No Fuck Tonight \(Interlude\)](https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:38 |
 | 68 | [Special Place \- Interlude](https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:01 |
 | 69 | [Ghetto \(Interlude\)](https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 1:21 |
-| 70 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
-| 71 | [Truth or Dare \(Interlude\)](https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 1:22 |
+| 70 | [Truth or Dare \(Interlude\)](https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 1:22 |
+| 71 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
 | 72 | [20 \- Pt\. 2 / Interlude](https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [20 Y.O.](https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA) | 0:27 |
 | 73 | [Don't Go Away \- Interlude](https://open.spotify.com/track/18OXiSteYpaqhnqdWxfHQs) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 0:48 |
 | 74 | [So Much Love \- Interlude](https://open.spotify.com/track/1e7BgRrZ1uNwSzEuGRosuP) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 1:48 |
 | 75 | [Never Felt This Way](https://open.spotify.com/track/0uUwnByckydEF8r0ifZ5ke) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 2:00 |
 
-Snapshot ID: `MTYyNzA2MjcwNCwwMDAwMDAwMDVmYzY0YjIzY2U4ZjhiYjc2NGQzYWU0ZWMxNWRlMzMy`
+Snapshot ID: `MTYyNzA2MjcwNCwwMDAwMDAwMGRiM2YzN2I4NGZkZjBkOTBmZDBmMjdlNjY4NjcxZmZm`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 335571,
+  "num_followers": 335917,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA5Njg4MSwwMDAwMDAwMDhhOTRjYTZmYTYzNjI2NjFlZTFkNzY3Y2M5MzFmZTJi",
+  "snapshot_id": "MTY1NjA5Njg4MSwwMDAwMDAwMDllYWJlZTdmOTM4YWVlN2E1OTM5ZjFmODJlZjNmOTcz",
   "tracks": [
     {
       "added_at": "2022-06-24 18:54:41",
@@ -243,22 +243,18 @@
     {
       "added_at": "2022-06-24 18:54:41",
       "album": {
-        "name": "Meu Canto - EP",
-        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
+        "name": "4 da manh\u00e3",
+        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
       },
       "artists": [
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 230786,
-      "name": "Me Espera",
-      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+      "duration_ms": 216428,
+      "name": "4 da manh\u00e3",
+      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
     },
     {
       "added_at": "2022-06-24 18:54:41",
@@ -279,18 +275,22 @@
     {
       "added_at": "2022-06-24 18:54:41",
       "album": {
-        "name": "4 da manh\u00e3",
-        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
+        "name": "Meu Canto - EP",
+        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
       "artists": [
         {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 216428,
-      "name": "4 da manh\u00e3",
-      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
+      "duration_ms": 230786,
+      "name": "Me Espera",
+      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
     },
     {
       "added_at": "2022-06-24 18:54:41",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-06-24 18:54:41",
       "album": {
-        "name": "Varrendo a Lua",
-        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "De Janeiro a Janeiro",
-      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
-    },
-    {
-      "added_at": "2022-06-24 18:54:41",
-      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 171907,
       "name": "deixa fluir",
       "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
+    },
+    {
+      "added_at": "2022-06-24 18:54:41",
+      "album": {
+        "name": "Varrendo a Lua",
+        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "De Janeiro a Janeiro",
+      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
     },
     {
       "added_at": "2022-06-24 18:54:41",

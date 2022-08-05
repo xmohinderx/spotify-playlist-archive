@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Run to indie and alternative hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,434 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,479 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 58 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
 | 59 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 |
 | 60 | [Holding On](https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:50 |
-| 61 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
-| 62 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 |
+| 61 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 |
+| 62 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 63 | [The Wolf](https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:41 |
 | 64 | [One Minute More](https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [Sebu Simonian](https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:22 |
 | 65 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 77 | [1998](https://open.spotify.com/track/0DdNKXYhsBBrHsUyMOdRaa) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/1uWEdiOlz8bwBOl1Mho0ap) | 3:44 |
 | 78 | [Cannons](https://open.spotify.com/track/1tgLMyNVmgtLJcOfE0wbyJ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:44 |
 | 79 | [Come Out](https://open.spotify.com/track/3JkcPEiVQtTfS0rixsJM3e) | [Masek Porter](https://open.spotify.com/artist/2ebNEBhrMUcPdSG5P4Ovf1) | [Come Out](https://open.spotify.com/album/17wkpHFyI3L24Lyoe72UQr) | 4:02 |
-| 80 | [Do Me Like That](https://open.spotify.com/track/2R4B5jDPvxVR09SQGLyDFP) | [Penguin Prison](https://open.spotify.com/artist/5VsOThWOagH8C8gCvIy13k) | [Turn It Up](https://open.spotify.com/album/0mcUaWtpurg0ICvHZiRxeU) | 3:15 |
-| 81 | [Entertainment](https://open.spotify.com/track/6CplRWasnvBmi33sFv6xYn) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1s7a0VpP3aNEubiTgx6YlU) | 3:39 |
+| 80 | [Entertainment](https://open.spotify.com/track/6CplRWasnvBmi33sFv6xYn) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1s7a0VpP3aNEubiTgx6YlU) | 3:39 |
+| 81 | [Do Me Like That](https://open.spotify.com/track/2R4B5jDPvxVR09SQGLyDFP) | [Penguin Prison](https://open.spotify.com/artist/5VsOThWOagH8C8gCvIy13k) | [Turn It Up](https://open.spotify.com/album/0mcUaWtpurg0ICvHZiRxeU) | 3:15 |
 | 82 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:48 |
 | 83 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 |
 | 84 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 90 | [Crypto Kids](https://open.spotify.com/track/1jonRhesfjLxwBlFZk5sJh) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Crypto Kids](https://open.spotify.com/album/7rpNTYRcmMcrocpbHCBErd) | 3:41 |
 | 91 | [tell ur friends](https://open.spotify.com/track/25RmznGaoSP8tjCLeU2iG2) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [tell ur friends](https://open.spotify.com/album/7kuv8kNG5KtYEWe4Sw0lSf) | 2:41 |
 | 92 | [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 |
-| 93 | [Fight or Flight Club](https://open.spotify.com/track/42vh3jC0ejWdPOGp6dT30p) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Fight or Flight Club](https://open.spotify.com/album/1UvqvFI3DlJ6wHCTDqXSYb) | 2:31 |
-| 94 | [Get Out](https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Get Out / Been Drinking](https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I) | 3:32 |
-| 95 | [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 |
+| 93 | [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 |
+| 94 | [Fight or Flight Club](https://open.spotify.com/track/42vh3jC0ejWdPOGp6dT30p) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Fight or Flight Club](https://open.spotify.com/album/1UvqvFI3DlJ6wHCTDqXSYb) | 2:31 |
+| 95 | [Get Out](https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Get Out / Been Drinking](https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I) | 3:32 |
 | 96 | [Love Is An Only Child](https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh) | [Monico Blonde](https://open.spotify.com/artist/7sBhf0gQzkwJ4XZ4K8vWF1) | [Love Is An Only Child](https://open.spotify.com/album/0ocLHXKcQGYosbl8jgyAtw) | 2:24 |
 | 97 | [Speeddance](https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ) | [Reptile Youth](https://open.spotify.com/artist/0XoZwt2DsmzVvOe5GRSYDC) | [Reptile Youth](https://open.spotify.com/album/70diW1bHdn1h7FUvjz7W2o) | 2:57 |
 | 98 | [Backseat Valentine](https://open.spotify.com/track/0QxemWQcwq8AoSmKPc4rcc) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Backseat Valentine](https://open.spotify.com/album/2awaPq7Eq3zv1FuGkSYLqe) | 3:25 |
 | 99 | [Young Boy](https://open.spotify.com/track/3shVhrenvBjnqA3t8CdS0W) | [snny](https://open.spotify.com/artist/33QLeK0AvK6Cj5CQ0hp5sa) | [Learning To Swim](https://open.spotify.com/album/2dqw002N9DsqH7vWZGVRXJ) | 2:18 |
 | 100 | [Heavyweight Champion of the World](https://open.spotify.com/track/2BCOcciJz6LhG3i6HUUJs5) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e) | [Best Of](https://open.spotify.com/album/2OYlTSaQ41GVdO5MdtU18d) | 3:24 |
 
-Snapshot ID: `MTY0OTY3Nzg3NSwwMDAwMDAwMDc1YTEyOTk0N2ExYjNkMzUxYmRhOWJjZTJiYmQwZGU0`
+Snapshot ID: `MTY0OTY3Nzg3NSwwMDAwMDAwMGI3NDI4ZTM1YjEwNDRmNTQyY2YwYjJiZmQ0OTg1MDYw`

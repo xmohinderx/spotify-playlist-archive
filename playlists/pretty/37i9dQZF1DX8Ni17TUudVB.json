@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 128788,
+  "num_followers": 128812,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODgyMzQ0OCwwMDAwMDAwMDhmYmVkZDlkYTA4Nzg1NTYyM2MyMzljNjI0YzJlZGY5",
+  "snapshot_id": "MTY1ODgyMzQ0OCwwMDAwMDAwMDY0NDYxNjExOTNhYTQ5MmZkMjUxNzQ3ZTEyOTU2NWYy",
   "tracks": [
     {
       "added_at": "2022-07-26 08:17:28",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Amsterdam Twerk Music",
+        "url": "https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 211776,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Amsterdam Twerk Music",
-        "url": "https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 211776,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -767,22 +767,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ"
+        "name": "Gold Skies",
+        "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         }
       ],
-      "duration_ms": 147260,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
+      "duration_ms": 294466,
+      "name": "Tremor - Sensation 2014 Anthem",
+      "url": "https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -807,42 +807,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Gold Skies",
-        "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         }
       ],
-      "duration_ms": 294466,
-      "name": "Tremor - Sensation 2014 Anthem",
-      "url": "https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 250264,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7"
+      "duration_ms": 147260,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -863,6 +843,26 @@
       "duration_ms": 240000,
       "name": "Take Me (feat. Gloria Kim)",
       "url": "https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 250264,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1067,6 +1067,34 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Do It!",
+        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Do It! - Dimitri Vegas Radio Edit",
+      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -1095,34 +1123,6 @@
       "duration_ms": 207021,
       "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
       "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Do It!",
-        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Do It! - Dimitri Vegas Radio Edit",
-      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Check This Out",
-        "url": "https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz"
-      },
-      "artists": [
-        {
-          "name": "Toby Green",
-          "url": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
-        }
-      ],
-      "duration_ms": 151020,
-      "name": "Check This Out",
-      "url": "https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 173215,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
         "name": "In Your Eyes (feat. Alida) [KREAM Remix]",
         "url": "https://open.spotify.com/album/4opn0PjzGOFZTGUKFj0JUR"
       },
@@ -1407,6 +1375,38 @@
       "duration_ms": 203240,
       "name": "In Your Eyes (feat. Alida) - KREAM Remix",
       "url": "https://open.spotify.com/track/45vQQXKfA4edHqKV5roP3M"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "duration_ms": 173215,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz"
+      },
+      "artists": [
+        {
+          "name": "Toby Green",
+          "url": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
+        }
+      ],
+      "duration_ms": 151020,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 123228,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
         "name": "Get Trapped, Vol. 1",
         "url": "https://open.spotify.com/album/0K2EUEJo5TH95rs1lCDZTP"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 212804,
       "name": "Beast",
       "url": "https://open.spotify.com/track/74ipYItMMW9NRBhVBXrM6Q"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 123228,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
     }
   ],
   "unique_name": "Ejercicio Total",

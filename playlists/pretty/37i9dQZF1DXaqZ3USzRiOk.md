@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,600 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,754 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 8 | [Alma Enamorada](https://open.spotify.com/track/0gySORG1cXDarlA9LEQvSi) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Alma Enamorada](https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW) | 2:55 |
 | 9 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 |
 | 10 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 |
-| 11 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
-| 12 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
+| 11 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
+| 12 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
 | 13 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 |
 | 14 | [El Borracho](https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:04 |
 | 15 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 79 | [Besos Y Copas](https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos: Chayito Valdez](https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs) | 3:02 |
 | 80 | [Libro Abierto](https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:08 |
 | 81 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 |
-| 82 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
-| 83 | [Tres Veces Te Engañe](https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Tres Veces Te Engañe](https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz) | 3:19 |
+| 82 | [Tres Veces Te Engañe](https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Tres Veces Te Engañe](https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz) | 3:19 |
+| 83 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
 | 84 | [Media Vuelta](https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Boleros\-Boleros\-Bole](https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl) | 2:11 |
 | 85 | [Despedida Con Mariachi](https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Una Aventura](https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe) | 2:44 |
 | 86 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
@@ -132,10 +132,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 122 | [Para Poder Llegar A Ti](https://open.spotify.com/track/23KQy98EfuBMGlCyCKbIXK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Mi Acordeón Y Yo \(Remasterizado\)](https://open.spotify.com/album/2c7AyQtEFhIASh47qXn5il) | 2:59 |
 | 123 | [Nomás Por Tu Culpa](https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS) | [Juan Valentin](https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK) | [El Triunfador](https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6) | 3:22 |
 | 124 | [Vengo A Verte](https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Éxitos 15](https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ) | 3:28 |
-| 125 | [Ojitos Soñadores](https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn) | [Dueto America](https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO) | [La Gran Colección del 60 Aniversario CBS \- Dueto América](https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW) | 2:53 |
-| 126 | [Celosa](https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos De Oro](https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10) | 3:03 |
+| 125 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
+| 126 | [Ojitos Soñadores](https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn) | [Dueto America](https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO) | [La Gran Colección del 60 Aniversario CBS \- Dueto América](https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW) | 2:53 |
 | 127 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
-| 128 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
+| 128 | [Celosa](https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos De Oro](https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10) | 3:03 |
 | 129 | [La Tercera Carta](https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Éxitos 15](https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ) | 3:25 |
 | 130 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
 | 131 | [Nube Viajera](https://open.spotify.com/track/3SxxIc1oAzkZ2n5GSl776X) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/51swWg5ktkZ01dwmd1yWZX) | 4:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 149 | [Cancion Mexicana](https://open.spotify.com/track/1pg0HSVFiMq63vpFc2sO11) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [La Cancion Mexicana, Vol\. 1](https://open.spotify.com/album/56mmo9BDi9ySuahrHgRtAZ) | 2:46 |
 | 150 | [El venadito](https://open.spotify.com/track/6QwLrOSaZXZO7NgE1MhdR2) | [Hermanos Zaizar](https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo) | [16 Exitos de los Hermanos Zaizar](https://open.spotify.com/album/1n9DnpRlC0dB6Fhr70DaGO) | 2:46 |
 
-Snapshot ID: `MTY1NjQzODk1OCwwMDAwMDAwMDU1YmE1NjkxNTljMDk3Y2RjZDRmY2Y0YmMxMWYzOTA0`
+Snapshot ID: `MTY1NjQzODk1OCwwMDAwMDAwMDBiMDg0NmFlYTBkYjZiNDE3N2I3MmYyYmZjOWQ0MjNh`

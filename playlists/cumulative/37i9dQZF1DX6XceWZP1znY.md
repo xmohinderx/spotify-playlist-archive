@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-553 songs - 1 day 13 hr 13 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+554 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [salvation](https://open.spotify.com/track/2AbocYmJLREUEZlSBkbsAe) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation](https://open.spotify.com/album/5JOp4contbA28JuaELOKQW) | 3:24 | 2022-06-07 | 2022-07-18 |
 | [salvation \- Anime ver.](https://open.spotify.com/track/79AU26qJdGVLPK31RsWy31) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation \(Anime ver.\)](https://open.spotify.com/album/7Lva08Wtv6MVY3gv6lJCco) | 1:31 | 2022-06-07 | 2022-07-07 |
 | [Sayonara Namida](https://open.spotify.com/track/4KTv8cmtwYWvI7Umdpnna3) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [Sayonara Namida / Hoshi No Kakera](https://open.spotify.com/album/7aUnnzBbgs5dn3F2ulDqXg) | 4:03 | 2022-06-07 | 2022-07-20 |
-| [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-06-07 |  |
+| [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-06-07 | 2022-08-05 |
 | [See The Light](https://open.spotify.com/track/6lEmBW6LNglffHhnbkosMs) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Switch/PS4『ゆるキャン△ Have a nice day!』OP&ED](https://open.spotify.com/album/3eXDglDIgEA8D7Wxem6WW0) | 3:49 | 2022-06-07 | 2022-07-27 |
 | [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 | 2022-06-07 |  |
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-06-07 | 2022-07-28 |
@@ -501,6 +501,7 @@
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-06-07 |  |
 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 | 2022-06-07 |  |
 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2022-06-07 |  |
+| [流星](https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 | 2022-06-07 |  |
 | [海と真珠](https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [海と真珠](https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67) | 4:40 | 2022-06-07 | 2022-07-28 |
 | [海の見える街 〜「魔女の宅急便」](https://open.spotify.com/track/6T9PZq7rjrjwXioQgOSeRi) | [Giovanni Mirabassi](https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3) | [MITAKA CALLING \-三鷹の呼聲\-](https://open.spotify.com/album/4cQdSs6yXJtK8HynpeRcJO) | 5:28 | 2022-06-07 | 2022-07-27 |
 | [火炎](https://open.spotify.com/track/3ci0yvrzssec1bqDzMkXuu) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/3cYIIURFYUIyn7UTsqCVzD) | 3:35 | 2022-06-07 | 2022-07-24 |

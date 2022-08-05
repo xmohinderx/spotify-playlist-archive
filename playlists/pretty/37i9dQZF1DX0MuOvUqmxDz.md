@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\.  Cover: Brett Eldredge
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,614 likes - 165 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,600 likes - 165 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 43 | [Blue Christmas](https://open.spotify.com/track/60eELuQwcjoTbJKcgJLfo8) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Blue Christmas](https://open.spotify.com/album/4eXDJg77YaPvyNZ8AKVxxq) | 2:15 |
 | 44 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 |
 | 45 | [Mary, Did You Know?](https://open.spotify.com/track/7ymcpXgVeTPd9W2desgjdZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Mary, Did You Know?](https://open.spotify.com/album/2jtvfB4GlsYu2TjyoSmEzs) | 4:04 |
-| 46 | [This Christmas](https://open.spotify.com/track/2JYmQXH4uKDonYvITIGjvl) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [This Christmas](https://open.spotify.com/album/7L9zj3IrPXIIj5OZA77TZx) | 3:26 |
+| 46 | [This Christmas](https://open.spotify.com/track/641ODRLX1Mq1cOB9P0cBcz) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [This Christmas](https://open.spotify.com/album/6LwBtWz865RO1FsEt7ZJhV) | 3:26 |
 | 47 | [Christmas Every Day](https://open.spotify.com/track/2NSYqhkf943kTNJ56A3DNT) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Christmas Every Day](https://open.spotify.com/album/086NkigzdWKxY3CbDQO4CX) | 3:38 |
 | 48 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 |
 | 49 | [Sleigh Ride](https://open.spotify.com/track/1Q4rFC7FrwJCsFDjmrP0Ti) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:02 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 164 | [Christmas You](https://open.spotify.com/track/4oLw4GfMdULMWvlfNLW2PU) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Christmas You](https://open.spotify.com/album/7uNUL7H73TNZULW1cIqJsR) | 3:20 |
 | 165 | [O Holy Night](https://open.spotify.com/track/730mLhmxY5VFu7bfwbXrgF) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [O Holy Night](https://open.spotify.com/album/2hR23vANVKF3OAqHVCDG5E) | 3:39 |
 
-Snapshot ID: `MTYzOTY2ODkwNSwwMDAwMDAwMDIyM2IwMTU5NmM1YzQ4YzEzMWU5M2Q0NGRkNGNkYTE4`
+Snapshot ID: `MTYzOTY2ODkwNSwwMDAwMDAwMGNiZTJmMTA4ODA0N2I5OWNkZDYwMGE2ZDUxZWM1OWE2`

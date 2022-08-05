@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 154157,
+  "num_followers": 154216,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MDIwMSwwMDAwMDAwMDk3YmVjZWVmODdlZTQyNmYxMjMyNDg0ZTQyOTQ5YWJh",
+  "snapshot_id": "MTY1Nzg2MDIwMSwwMDAwMDAwMDYyYjlhNmIyOWM4Y2M3NGFiMTI5YjA5YTMzYmEzOGY0",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "De Sur a Norte",
-        "url": "https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X"
-      },
-      "artists": [
-        {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Basta",
-      "url": "https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Ekhymosis",
         "url": "https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+        "name": "De Sur a Norte",
+        "url": "https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X"
       },
       "artists": [
         {
-          "name": "Sergent Garcia",
-          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
         }
       ],
-      "duration_ms": 456933,
-      "name": "Los desaparecidos",
-      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
+      "duration_ms": 217000,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -815,6 +799,22 @@
       "duration_ms": 216688,
       "name": "La Fuerza del Amor",
       "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+      },
+      "artists": [
+        {
+          "name": "Sergent Garcia",
+          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Los desaparecidos",
+      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Aqu\u00ed No Pasa Nada",
-      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 242216,
       "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
       "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "Aqu\u00ed No Pasa Nada",
+      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Mostros",
-        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 266386,
-      "name": "El Barz\u00f3n",
-      "url": "https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La Historia Del Folklore (2da Parte)",
         "url": "https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 346506,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Mostros",
+        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "El Barz\u00f3n",
+      "url": "https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0wqBRC4M43u5UhM7t5PdWN"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 261364,
-      "name": "Cordillera",
-      "url": "https://open.spotify.com/track/3DuoQtlM73ccKP45QV2eXV"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "El Objeto Antes Llamado Disco",
         "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0wqBRC4M43u5UhM7t5PdWN"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+      "duration_ms": 261364,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/3DuoQtlM73ccKP45QV2eXV"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1439,6 +1423,22 @@
       "duration_ms": 199105,
       "name": "Exigimos",
       "url": "https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 122436,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Formas para Perderse o I.D.E.A.S",
         "url": "https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 299319,
       "name": "Polyrics",
       "url": "https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 122436,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/45ZghnmhUZlf7DWdlgKODE"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "El Club de la Resistencia",
+      "url": "https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Almadura",
         "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
@@ -1803,6 +1819,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Isabel Canta a Violeta",
+        "url": "https://open.spotify.com/album/0N19bDrMu1S7MgaF2q2wb3"
+      },
+      "artists": [
+        {
+          "name": "Isabel Parra",
+          "url": "https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Al Centro de la Injusticia",
+      "url": "https://open.spotify.com/track/4yT9oSQbXPp3FpWgzmhM8g"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Gieco Y Heredia En Vivo",
         "url": "https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3"
       },
@@ -1819,38 +1851,6 @@
       "duration_ms": 226120,
       "name": "Todavia Cantamos",
       "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/45ZghnmhUZlf7DWdlgKODE"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "El Club de la Resistencia",
-      "url": "https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Isabel Canta a Violeta",
-        "url": "https://open.spotify.com/album/0N19bDrMu1S7MgaF2q2wb3"
-      },
-      "artists": [
-        {
-          "name": "Isabel Parra",
-          "url": "https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Al Centro de la Injusticia",
-      "url": "https://open.spotify.com/track/4yT9oSQbXPp3FpWgzmhM8g"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

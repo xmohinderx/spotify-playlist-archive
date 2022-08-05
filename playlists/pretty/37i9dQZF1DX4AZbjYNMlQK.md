@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,985 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,969 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 26 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 |
 | 27 | [Dios Nos Bendecira](https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Remastered\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 3:15 |
 | 28 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
-| 29 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 |
-| 30 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 |
+| 29 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 |
+| 30 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 |
 | 31 | [Diciembre](https://open.spotify.com/track/4uXPGx3gKGFYPx6kkQfUm5) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 3:08 |
 | 32 | [Navidad, Navidad](https://open.spotify.com/track/046nCoUyoSiuK2VXxoCYy8) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Navidad, Navidad](https://open.spotify.com/album/1LBvVHmVIiLz40w6OYUT0d) | 2:46 |
 | 33 | [Peces en el Río](https://open.spotify.com/track/6nMPySUjYhQcGNGR51eGPj) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 4:46 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 37 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
 | 38 | [un deseo más](https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [un deseo más](https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4) | 2:25 |
 | 39 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
-| 40 | [Duele Diciembre](https://open.spotify.com/track/3sZoUYrEPFuCnnqXC2C2tH) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Duele Diciembre](https://open.spotify.com/album/5I5nu2lSLK706l3LpmVjoP) | 4:28 |
-| 41 | [Blanca Navidad](https://open.spotify.com/track/2xGe2LMmUtPcHIQbHBynYa) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [Noel Es Navidad \(Deluxe\)](https://open.spotify.com/album/3xSNVFvU4c5wMtsIXsA2T5) | 3:25 |
+| 40 | [Blanca Navidad](https://open.spotify.com/track/2xGe2LMmUtPcHIQbHBynYa) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [Noel Es Navidad \(Deluxe\)](https://open.spotify.com/album/3xSNVFvU4c5wMtsIXsA2T5) | 3:25 |
+| 41 | [Duele Diciembre](https://open.spotify.com/track/3sZoUYrEPFuCnnqXC2C2tH) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Duele Diciembre](https://open.spotify.com/album/5I5nu2lSLK706l3LpmVjoP) | 4:28 |
 | 42 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 |
 | 43 | [Arbolito de Navidad](https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 3:54 |
 | 44 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/0dpvn7oYZIBFXGaug3SbV8) | [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [Los 3 Reyes Magos](https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq) | 4:03 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 50 | [Este Diciembre](https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Este Diciembre](https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w) | 3:02 |
 | 51 | [Ya Viene la Vieja](https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Feliz Navidad](https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE) | 2:13 |
 | 52 | [Santa Baby \(Spanish\)](https://open.spotify.com/track/403k7tpzOWE2CJRvqJitJk) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [My Grown\-up Christmas List](https://open.spotify.com/album/31FO9vaH0PeeIkDJtUfL8d) | 2:45 |
-| 53 | [Navidad Sin Ti](https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP) | 3:29 |
-| 54 | [Mi Estrella](https://open.spotify.com/track/2LZkBWdmv9zYZdWXlesVlF) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Superestrellas En Navidad](https://open.spotify.com/album/37KAP4I6Cmu0W2sMAV5YFH) | 4:28 |
+| 53 | [Mi Estrella](https://open.spotify.com/track/2LZkBWdmv9zYZdWXlesVlF) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Superestrellas En Navidad](https://open.spotify.com/album/37KAP4I6Cmu0W2sMAV5YFH) | 4:28 |
+| 54 | [Navidad Sin Ti](https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP) | 3:29 |
 | 55 | [Navidad en América](https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX) | [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Navidad en America](https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH) | 7:58 |
 | 56 | [Campana Sobre Campana](https://open.spotify.com/track/0LjIptp63zmCOz6O1V7QQB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Los 3 Reyes Magos](https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq) | 2:38 |
 | 57 | [Oh Holy Night \(Instrumental\)](https://open.spotify.com/track/1m87edJoNGUHHtcPmgGwWT) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [My Grown\-up Christmas List](https://open.spotify.com/album/31FO9vaH0PeeIkDJtUfL8d) | 3:30 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 65 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 |
 | 66 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 |
 
-Snapshot ID: `MTYzOTU5NDE2NSwwMDAwMDAwMDYyMzAzZmU3ZDc4ODk5OWEzNzUxNDk3MzI0YmU4ODM0`
+Snapshot ID: `MTYzOTU5NDE2NSwwMDAwMDAwMDUwYzMzZjdhNmQ4ZjAyMTliMTEzZjI3OGJhNjhhMDcz`

@@ -1,12 +1,12 @@
 {
   "description": "A swinging jazz soundtrack for your drive time.",
-  "num_followers": 27920,
+  "num_followers": 27949,
   "original_name": "Jazz Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5MDAwNiwwMDAwMDAwMDM3Yjc5YTc1ZWM1Y2YyNjk4OTY4ZDQzNjYzZjgxMzE3",
+  "snapshot_id": "MTY1NTk5MDAwNiwwMDAwMDAwMGMzYjI0ZTczNDZhMDk5ZWQ3OGU2ODQ2YzgwZWZjMWRj",
   "tracks": [
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
+    },
+    {
+      "added_at": "2022-06-23 13:13:26",
+      "album": {
         "name": "Toy Tunes",
         "url": "https://open.spotify.com/album/5LH06GNxWhPNoegjEL7czA"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 370396,
       "name": "Don't Ever Call Me Again",
       "url": "https://open.spotify.com/track/0vJLr6QvfbhHwjrt7zcsHX"
-    },
-    {
-      "added_at": "2022-06-23 13:13:26",
-      "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
+        "name": "Chicken N\u2019 Dumplins",
+        "url": "https://open.spotify.com/album/5NaeAGW2OiXxB5ffRmGsKv"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 368536,
+      "name": "Chicken N\u2019 Dumplins",
+      "url": "https://open.spotify.com/track/5odlxlC6AnXJf2SkxfKult"
+    },
+    {
+      "added_at": "2022-06-23 13:13:26",
+      "album": {
         "name": "Mondeo",
         "url": "https://open.spotify.com/album/3m4i9zRFmSutgZN78llWPt"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 367506,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/4Xg4xOrKHFnpc55UtzFmoY"
-    },
-    {
-      "added_at": "2022-06-23 13:13:26",
-      "album": {
-        "name": "Chicken N\u2019 Dumplins",
-        "url": "https://open.spotify.com/album/5NaeAGW2OiXxB5ffRmGsKv"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 368536,
-      "name": "Chicken N\u2019 Dumplins",
-      "url": "https://open.spotify.com/track/5odlxlC6AnXJf2SkxfKult"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "A Day in Copenhagen",
-        "url": "https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        },
-        {
-          "name": "Slide Hampton",
-          "url": "https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys"
-        }
-      ],
-      "duration_ms": 547575,
-      "name": "My Blues",
-      "url": "https://open.spotify.com/track/766eExopMFjwewqQxhoLL3"
-    },
-    {
-      "added_at": "2022-06-23 13:13:26",
-      "album": {
         "name": "It's Always 9.30 in Zog",
         "url": "https://open.spotify.com/album/3ELQli07GHnSHfCeOTleZq"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 312160,
       "name": "Nothing to Lose (feat. Graham Harvey, Geoff Gascoyne & Sebastiaan De Krom)",
       "url": "https://open.spotify.com/track/5BgLI2pLAUAIo6QeUIso95"
+    },
+    {
+      "added_at": "2022-06-23 13:13:26",
+      "album": {
+        "name": "A Day in Copenhagen",
+        "url": "https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        },
+        {
+          "name": "Slide Hampton",
+          "url": "https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys"
+        }
+      ],
+      "duration_ms": 547575,
+      "name": "My Blues",
+      "url": "https://open.spotify.com/track/766eExopMFjwewqQxhoLL3"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
+        "name": "It's All Right!",
+        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Kelly Roll",
+      "url": "https://open.spotify.com/track/695Dt1lYeOCxmsnCDWx2mq"
+    },
+    {
+      "added_at": "2022-06-23 13:13:26",
+      "album": {
         "name": "Swedish Jazz Masters: Alla Mina Kompisar",
         "url": "https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV"
       },
@@ -1615,38 +1631,6 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "It's All Right!",
-        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly Trio",
-          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Kelly Roll",
-      "url": "https://open.spotify.com/track/695Dt1lYeOCxmsnCDWx2mq"
-    },
-    {
-      "added_at": "2022-06-23 13:13:26",
-      "album": {
-        "name": "Cool Struttin\u2019",
-        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 496047,
-      "name": "Sippin' At Bells - Remastered",
-      "url": "https://open.spotify.com/track/6lMuLsSY67KBXLPhQVCbUW"
-    },
-    {
-      "added_at": "2022-06-23 13:13:26",
-      "album": {
         "name": "Jubilation! Celebrating Cannonball Adderley",
         "url": "https://open.spotify.com/album/7kEkIBO5Yd62koWjRR3j01"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 422403,
       "name": "Del Sasser",
       "url": "https://open.spotify.com/track/3IWp07UL6dh4kEQlG0xZPL"
+    },
+    {
+      "added_at": "2022-06-23 13:13:26",
+      "album": {
+        "name": "Cool Struttin\u2019",
+        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 496047,
+      "name": "Sippin' At Bells - Remastered",
+      "url": "https://open.spotify.com/track/6lMuLsSY67KBXLPhQVCbUW"
     },
     {
       "added_at": "2022-06-23 13:13:26",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-06-23 13:13:26",
       "album": {
-        "name": "Friday the 13th",
-        "url": "https://open.spotify.com/album/3sC8dI76VM7jMY8FiD8Mr6"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/0dpDKGE9JbqbpEMzVTkHWq"
       },
       "artists": [
         {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+          "name": "Bart-Jan Hogenhuis",
+          "url": "https://open.spotify.com/artist/7m6f9S82i8F66yr6Efpgjk"
         }
       ],
-      "duration_ms": 398920,
-      "name": "Hoe Down",
-      "url": "https://open.spotify.com/track/21yAA8fIZEYrfITyQqcL3U"
+      "duration_ms": 232666,
+      "name": "Point of No Return",
+      "url": "https://open.spotify.com/track/1hWQR3Ymxm7OPxfKVxeur3"
     }
   ],
   "unique_name": "Jazz Commute",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Lupita Infante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,876 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,929 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 79 | [No Me Amenaces](https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [No Me Amenaces](https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh) | 2:54 |
 | 80 | [Paloma Sin Nido](https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [La Tariácuri](https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU) | 2:56 |
 | 81 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
-| 82 | [Que Te Vaya Bonito](https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd) | 2:58 |
-| 83 | [Por Si Me Olvidas](https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A José Alfredo Jiménez](https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo) | 2:25 |
+| 82 | [Por Si Me Olvidas](https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A José Alfredo Jiménez](https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo) | 2:25 |
+| 83 | [Que Te Vaya Bonito](https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd) | 2:58 |
 | 84 | [Besos y Copas](https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Besos y Copas](https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI) | 3:01 |
 | 85 | [Y Volvere](https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Desafío De Divas](https://open.spotify.com/album/0AtvVJ8iAYBi0drA2wqDU2) | 3:17 |
 | 86 | [La Martina \- Remasterizado](https://open.spotify.com/track/4HicPbKIPTeb4RRRxqSSzN) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Un Mundo Raro](https://open.spotify.com/track/3zVKulPXU2MxM6UPItu1Ri) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Un Mundo Raro](https://open.spotify.com/album/56LrNumPVbrJ5Vqnuor0mb) | 2:41 |
 | 100 | [Amor de un Rato](https://open.spotify.com/track/6VenhGZLU1sw7I4qkh30ln) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 4:32 |
 
-Snapshot ID: `MTY1NDcxMTA3MiwwMDAwMDAwMGQwMWQ0MDc2YjUzMmVlMTFkOWI4MDRlOTFjM2ZiODBi`
+Snapshot ID: `MTY1NDcxMTA3MiwwMDAwMDAwMGY1MjA1NDZkNDAxNGEyYzFjMGYxNDZkMjM5Y2IyNzE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,030 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,019 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 60 | [Christmas Cheer](https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:51 |
 | 61 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/3nr5SzU7pt0IvNCvk7m4np) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 4:50 |
 | 62 | [We Three Kings](https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [More Sounds Of Christmas](https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C) | 4:01 |
-| 63 | [This Christmas](https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:40 |
-| 64 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
+| 63 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
+| 64 | [This Christmas](https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:40 |
 | 65 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 |
-| 66 | [White Christmas](https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:15 |
-| 67 | [The Time of the Year](https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg) | [Niklas Gabrielsson with Martin Landström & His Orchestra](https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm) | [The Time of the Year](https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8) | 3:28 |
+| 66 | [The Time of the Year](https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg) | [Niklas Gabrielsson with Martin Landström & His Orchestra](https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm) | [The Time of the Year](https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8) | 3:28 |
+| 67 | [White Christmas](https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:15 |
 | 68 | [Away In a Manger](https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Away In a Manger](https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5) | 1:09 |
 | 69 | [A Holly Jolly Christmas](https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Christmas Eve](https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP) | 2:22 |
 | 70 | [Let's Share Christmas](https://open.spotify.com/track/2aQiM3ffmt5QzSzU5FxtPm) | [Dick Lieb](https://open.spotify.com/artist/7rB4viLXW5N1ioEuo2Iogz) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:55 |
 
-Snapshot ID: `MTY0MTIwMDA0MywwMDAwMDAwMDRlZGJhNWVmYTdjNzdhNmI4NzUzZWRjZTM1NDBiMTkz`
+Snapshot ID: `MTY0MTIwMDA0MywwMDAwMDAwMGE4MWViYjUwNzNkYzljOWYxYjlhN2RjZDM1MmRiNmYz`

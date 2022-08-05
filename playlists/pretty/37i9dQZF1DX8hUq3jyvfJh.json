@@ -1,12 +1,12 @@
 {
   "description": "Mari Fernandez e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 121692,
+  "num_followers": 121793,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMGMyZjI3YTdmZDBjY2MxOGVlYjIzOWRkN2M4NDg1OGI1",
+  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMGYyMjMyZDNjYjg1ZWI0NzMyMjc0ZDdlN2NmNTlkNDVj",
   "tracks": [
     {
       "added_at": "2022-08-03 03:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Sentimentos",
-        "url": "https://open.spotify.com/album/3l9ItXzowg5VRvrpCSbFgq"
-      },
-      "artists": [
-        {
-          "name": "Bizay",
-          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Descontar N\u00e3o \u00c9 Trair",
-      "url": "https://open.spotify.com/track/7ynknBverBkoUg0XYzvw0Q"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
         "name": "Vem C\u00e1",
         "url": "https://open.spotify.com/album/7nXQUOtTZjBw9o2sOScZVD"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 152528,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/1fQen7vln4OFKCRshZvXoT"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
+        "name": "Sentimentos",
+        "url": "https://open.spotify.com/album/3l9ItXzowg5VRvrpCSbFgq"
+      },
+      "artists": [
+        {
+          "name": "Bizay",
+          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Descontar N\u00e3o \u00c9 Trair",
+      "url": "https://open.spotify.com/track/7ynknBverBkoUg0XYzvw0Q"
     },
     {
       "added_at": "2022-08-03 03:00:00",

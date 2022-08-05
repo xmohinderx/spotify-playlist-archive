@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The songs you just keep coming back to. Cover: JID",
+  "description": "The songs you just keep coming back to. Cover: Central Cee",
   "name": "Hip-Hop Favourites",
   "published_playlist_ids": [
     "5LUYY08NHALqUOrBRkJKro"
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 156719,
       "name": "Candy (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 209640,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx"
@@ -2929,7 +2929,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
@@ -3215,7 +3215,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 145626,
       "name": "Faucet Failure",
       "url": "https://open.spotify.com/track/1ThmUihH9dF8EV08ku5AXN"
@@ -3597,6 +3597,28 @@
       "duration_ms": 107968,
       "name": "Frienemy",
       "url": "https://open.spotify.com/track/7koLa8oGYgyGEZ7ukGRjP3"
+    },
+    {
+      "album": {
+        "name": "From The D 2 The LBC (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215120,
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
       "album": {
@@ -3991,7 +4013,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 210800,
       "name": "Godzilla (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
@@ -4013,7 +4035,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
@@ -4467,7 +4489,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
@@ -5259,7 +5281,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 251236,
       "name": "JUST LIKE YOU",
       "url": "https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi"
@@ -5463,7 +5485,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174682,
       "name": "late at night",
       "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
@@ -5609,7 +5631,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 383036,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
@@ -5697,7 +5719,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
@@ -6019,7 +6041,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "MAFIA",
       "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
@@ -6077,7 +6099,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 181812,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
@@ -6405,7 +6427,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 183906,
       "name": "Mo Bamba",
       "url": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr"
@@ -6889,7 +6911,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/10hcDov7xmcRviA8jLwEaI"
@@ -7603,7 +7625,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
@@ -7625,7 +7647,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153406,
       "name": "Over The Top (feat. Drake)",
       "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
@@ -7651,7 +7673,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 153808,
       "name": "Own Brand Freestyle",
       "url": "https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x"
@@ -7949,7 +7971,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159926,
       "name": "Petty Too (feat. Future)",
       "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
@@ -8311,7 +8333,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 192470,
       "name": "Pure Water (with Migos)",
       "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
@@ -8462,6 +8484,28 @@
     },
     {
       "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "album": {
         "name": "Ramen & OJ",
         "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
       },
@@ -8517,7 +8561,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 131240,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
@@ -8669,7 +8713,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 158032,
       "name": "Reminds Me Of You",
       "url": "https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my"
@@ -8969,7 +9013,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
@@ -9031,7 +9075,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185855,
       "name": "Rumors (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
@@ -9155,7 +9199,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 243976,
       "name": "Sanguine Paradise",
       "url": "https://open.spotify.com/track/3XiNC94b4Tq1xwv70sQJGN"
@@ -10763,7 +10807,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
@@ -10881,7 +10925,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 153147,
       "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
       "url": "https://open.spotify.com/track/13EW51DKru044OJDJ9Bm8o"
@@ -11223,7 +11267,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 124093,
       "name": "Vamp Anthem",
       "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
@@ -11355,7 +11399,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 173288,
       "name": "Walk Em Down (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg"
@@ -11627,7 +11671,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"

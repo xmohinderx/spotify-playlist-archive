@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 147878,
       "name": "Afternoon coffee",
       "url": "https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp"
@@ -5113,6 +5113,28 @@
       "duration_ms": 96226,
       "name": "Pico",
       "url": "https://open.spotify.com/track/2FbsTN9G2FaPR3VathE4Hr"
+    },
+    {
+      "album": {
+        "name": "piece of you",
+        "url": "https://open.spotify.com/album/1yhEihD2M0bqImpJ64hiUW"
+      },
+      "artists": [
+        {
+          "name": "Jadu Jadu",
+          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "piece of you",
+      "url": "https://open.spotify.com/track/07a7G5dHYhnqK5pqICfzV2"
     },
     {
       "album": {

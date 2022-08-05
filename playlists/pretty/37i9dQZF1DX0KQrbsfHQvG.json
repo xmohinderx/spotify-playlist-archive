@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 161261,
+  "num_followers": 161342,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDhlNzc5YzI4NTFiOWJiMmExZjQ3NGRhODAwYmU3MTg3",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGVjOWI5ZTY5NWJiZTYxNTY1NDVjZDI2ZDI3NmMxODFm",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 167700,
-      "name": "Anarchist",
-      "url": "https://open.spotify.com/track/1Wa7BVGznsfYtKQTl0M8no"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Whitey Ford's House of Pain",
         "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 194160,
       "name": "The Culling",
       "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 167700,
+      "name": "Anarchist",
+      "url": "https://open.spotify.com/track/1Wa7BVGznsfYtKQTl0M8no"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "The Disease",
+        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 171426,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "The Disease",
-        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Powerflo",
-        "url": "https://open.spotify.com/album/5k4RJf18UyFQDsXaYsD1Cv"
+        "name": "American Attraction",
+        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
       },
       "artists": [
         {
-          "name": "Powerflo",
-          "url": "https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3"
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Resistance",
-      "url": "https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880"
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
     }
   ],
   "unique_name": "Rise Up",

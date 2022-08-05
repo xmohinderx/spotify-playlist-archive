@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-120 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+121 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Please Yourself](https://open.spotify.com/track/56zAKeMNf17IrHkJfX3uTb) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Please Yourself](https://open.spotify.com/album/3SDYKCfX2te4hJDXcj3JEk) | 3:19 | 2022-06-08 | 2022-06-23 |
 | [Polygod](https://open.spotify.com/track/7ecU6yTdlPj3Tas3hGR6uS) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Polygod](https://open.spotify.com/album/3ckC8EdvfgHQ8lrM0kITWV) | 3:01 | 2022-08-03 |  |
 | [Pygmalion](https://open.spotify.com/track/6HwZ9m97h1DL2gdEkWXp6K) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Pygmalion](https://open.spotify.com/album/3DSd1PFlurhYcpcjfFD3vB) | 2:30 | 2022-07-27 |  |
+| [Pájaros en Verano](https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaros en Verano](https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS) | 3:16 | 2022-08-04 |  |
 | [Rainbows and Dreams](https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Rainbows and Dreams](https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr) | 4:41 | 2022-07-27 |  |
 | [Relegate](https://open.spotify.com/track/19CbAutaoNdC6M7edFdzWO) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Relegate](https://open.spotify.com/album/78QYwzV4OUNMflpPlZG6vz) | 5:03 | 2022-06-08 | 2022-07-07 |
 | [Ribs](https://open.spotify.com/track/4A5MQmAAPbeK2gbAwnL6F2) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Ribs](https://open.spotify.com/album/3q2qLjeocWGO8OBhohGB2d) | 4:43 | 2022-06-08 | 2022-06-23 |

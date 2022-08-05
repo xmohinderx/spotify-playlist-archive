@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,192 likes - 48 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,306 likes - 48 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 17 | [Cuba Isla Bella \(feat\. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez\)](https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Buena Fe](https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [LARITZA BACALLAO](https://open.spotify.com/artist/61EgOa3zlnkzFNj2Xegxsu), [Waldo Mendoza](https://open.spotify.com/artist/0A3VPA9AS3HA5viKCKqRPu), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Cuba Isla Bella \(feat\. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez\)](https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc) | 4:44 |
 | 18 | [Pasaporte](https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:00 |
 | 19 | [Luna Negra](https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:44 |
-| 20 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
+| 20 | [La Entrevista \- Remasterizado](https://open.spotify.com/track/4wL59G4Nur3paBanDT6egw) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Charanga Light 2 \(Remasterizado\)](https://open.spotify.com/album/43l3qE1gOKj6mMuNsXJzej) | 4:52 |
 | 21 | [Tu Me Recordarás](https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 6:32 |
-| 22 | [La Entrevista \- Remasterizado](https://open.spotify.com/track/4wL59G4Nur3paBanDT6egw) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Charanga Light 2 \(Remasterizado\)](https://open.spotify.com/album/43l3qE1gOKj6mMuNsXJzej) | 4:52 |
+| 22 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
 | 23 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima \- Single](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 |
 | 24 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
 | 25 | [Fever](https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:45 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Qué Sorpresa](https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Qué Sorpresa](https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig) | 6:00 |
 | 48 | [Lo Malo Se Va Bailando](https://open.spotify.com/track/6Bsf8cM6kJVyjaeiiIxrBC) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [Lo Malo Se Va Bailando](https://open.spotify.com/album/3jNnSCfnuKoIkqSAorW7jj) | 4:15 |
 
-Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMGYxNzMwZTc5YjMwZGZhODJhODZhNjMyNWUyZWEyNjkx`
+Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMDRkNWU3MTExMDcxYTJiYTM1ZjYxYWZmZTAwNzU0M2Jl`

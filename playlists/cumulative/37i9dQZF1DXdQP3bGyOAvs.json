@@ -368,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Bonez",
+        "url": "https://open.spotify.com/album/40RcBRJGlIp9zlsWuGHGGj"
+      },
+      "artists": [
+        {
+          "name": "Dahtona",
+          "url": "https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196854,
+      "name": "Bonez",
+      "url": "https://open.spotify.com/track/2BBqygCwljo8N4XcWk6bCN"
+    },
+    {
+      "album": {
         "name": "bonny",
         "url": "https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0"
       },
@@ -797,6 +815,24 @@
       "duration_ms": 237913,
       "name": "Dream Repeat",
       "url": "https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw"
+    },
+    {
+      "album": {
+        "name": "Driving at Night",
+        "url": "https://open.spotify.com/album/6xY0fpbRimEKGssb4Js6dc"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225783,
+      "name": "Driving at Night",
+      "url": "https://open.spotify.com/track/4yahCXe4VtfBj7vVrWdMmT"
     },
     {
       "album": {
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 235826,
       "name": "Hard Rains",
       "url": "https://open.spotify.com/track/7ahltR1lAfvO7wAwzYgQSM"
@@ -1521,6 +1557,24 @@
       "duration_ms": 124620,
       "name": "In D\u00e9cadence",
       "url": "https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7FSDgHsFvuoSkLmJqWifn0"
+      },
+      "artists": [
+        {
+          "name": "Vee Jay",
+          "url": "https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143120,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/5v5pd290c4Gfdc8zFg7b31"
     },
     {
       "album": {
@@ -2111,7 +2165,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 193194,
       "name": "Nanimoshinai",
       "url": "https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA"
@@ -3185,7 +3239,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 216000,
       "name": "The Heavens",
       "url": "https://open.spotify.com/track/2BQPwEDYM8KLUaKncKQiZA"

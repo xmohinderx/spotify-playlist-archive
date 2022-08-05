@@ -4,7 +4,7 @@
 
 > La banda de sonido de tu día.
 
-211 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/6uKtZmuH4Vyq05i2Hozphj)
+212 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/6uKtZmuH4Vyq05i2Hozphj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Me Gusta](https://open.spotify.com/track/3pMo77B4r1NwwIK78lO4xf) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:49 | 2022-06-29 | 2022-07-29 |
 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 | 2022-07-19 |  |
 | [Mi Caramelo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:29 | 2022-07-01 | 2022-07-22 |
+| [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-08-03 |  |
 | [Mil Horas](https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 2:48 | 2022-07-19 |  |
 | [Mira](https://open.spotify.com/track/5JEJItvFwoKDLDc0Flf8ky) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Así](https://open.spotify.com/album/2UE88brWNLJTYpJpnxTN16) | 3:49 | 2022-07-15 | 2022-07-17 |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-06-29 | 2022-07-29 |
@@ -194,7 +195,7 @@
 | [Todo Cambia](https://open.spotify.com/track/53bAxP7G04UBs7aqGj0ffu) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Todo Cambia](https://open.spotify.com/album/71QDqQiuKYbBIOI4HJ83nZ) | 3:33 | 2022-07-01 | 2022-07-28 |
 | [Todo Puede Ser](https://open.spotify.com/track/4eRD6AhcROYqyFEiBXcoju) | [Zikiel Levinton](https://open.spotify.com/artist/6yhmyDBhxGDlbbioBDtBa7) | [Todo Puede Ser](https://open.spotify.com/album/50WBz5mO6Xjz01p6K3yhNJ) | 4:33 | 2022-08-03 |  |
 | [Tormenta](https://open.spotify.com/track/52Dq7xuXXP66zCJLTf94K8) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tormenta](https://open.spotify.com/album/0TukmDirFYnYRN5OehV4CO) | 3:57 | 2022-06-29 | 2022-07-28 |
-| [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 | 2022-07-19 |  |
+| [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 | 2022-07-19 | 2022-08-05 |
 | [Transito Lento](https://open.spotify.com/track/3tk754Rq836sIejR52qyUG) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Cargar La Suerte](https://open.spotify.com/album/65V3lqpW3LBZTmlFsX33fi) | 3:14 | 2022-06-29 | 2022-07-14 |
 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 | 2022-06-29 |  |
 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 | 2022-06-29 |  |

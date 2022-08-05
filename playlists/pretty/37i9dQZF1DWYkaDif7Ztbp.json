@@ -1,13 +1,65 @@
 {
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS?si=nDXlApxmRh6v8lVYCvMu_Q\"> Amaarae </a> ",
-  "num_followers": 1036126,
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=2qUpBdCxT-aZyGPVpQZ_PA\"> Fireboy DML </a> ",
+  "num_followers": 1037137,
   "original_name": "African Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMGY4MDEyZTM1MjU5MWZlY2E0YjAyZWI4Mzc0NDMxM2Zl",
+  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMDczZmNhMjA2N2JlODY5MWI5MTZiOWRhYTEzYWUyNjll",
   "tracks": [
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183349,
+      "name": "Ashawo",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
     {
       "added_at": "2022-06-20 06:34:27",
       "album": {
@@ -47,6 +99,50 @@
     {
       "added_at": "2022-05-12 23:00:00",
       "album": {
+        "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
+        "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 251286,
+      "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
+      "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Personal Baby",
+        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 173646,
+      "name": "Personal Baby",
+      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -59,26 +155,6 @@
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 169583,
-      "name": "A Body, A Coffin",
-      "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -119,90 +195,38 @@
     {
       "added_at": "2022-07-21 23:00:00",
       "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+        "name": "Call Me Every Day (feat. WizKid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. WizKid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
+      "added_at": "2021-10-22 00:00:00",
       "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
-    },
-    {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
-        "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 251286,
-      "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
-      "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Bad Girl (feat. Wande Coal and Victony)",
-        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 204232,
-      "name": "Bad Girl (feat. Wande Coal and Victony)",
-      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -223,6 +247,22 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -259,26 +299,6 @@
     {
       "added_at": "2022-07-21 23:00:00",
       "album": {
-        "name": "Call Me Every Day (feat. WizKid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. WizKid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
@@ -295,6 +315,26 @@
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 169583,
+      "name": "A Body, A Coffin",
+      "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -349,6 +389,30 @@
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Bad Girl (feat. Wande Coal and Victony)",
+        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 204232,
+      "name": "Bad Girl (feat. Wande Coal and Victony)",
+      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Love, Damini",
@@ -369,20 +433,120 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2021-10-22 00:00:00",
+      "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2021-10-22 00:00:00",
+      "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Tanzania",
+        "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        }
+      ],
+      "duration_ms": 376078,
+      "name": "Tanzania",
+      "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
+    },
+    {
+      "added_at": "2022-05-06 04:54:30",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/19WpswuyqY3PCBkdGDHvVD"
+    },
+    {
+      "added_at": "2021-12-09 23:02:00",
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "D O D O",
+      "url": "https://open.spotify.com/track/4DhGbk8afMpvkU1f9Cqwyf"
     },
     {
       "added_at": "2022-05-19 23:00:00",
@@ -455,22 +619,6 @@
       "duration_ms": 427732,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/05ol8gdiT7MUNvA9Bt2dcP"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -579,26 +727,6 @@
       "duration_ms": 288849,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -721,22 +849,6 @@
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Amagents",
@@ -767,22 +879,6 @@
       "duration_ms": 141599,
       "name": "Baddest Boy",
       "url": "https://open.spotify.com/track/3t7hYVVDzf1VDUz0pu5Zy1"
-    },
-    {
-      "added_at": "2022-04-14 23:00:00",
-      "album": {
-        "name": "Kwaku the Traveller",
-        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku the Traveller",
-      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
       "added_at": "2021-10-22 00:00:00",
@@ -841,50 +937,6 @@
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
-      "added_at": "2021-10-22 00:00:00",
-      "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Tanzania",
-        "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        },
-        {
-          "name": "BoiBizza",
-          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
-        }
-      ],
-      "duration_ms": 376078,
-      "name": "Tanzania",
-      "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
-    },
-    {
       "added_at": "2022-04-28 23:00:00",
       "album": {
         "name": "19 & Dangerous",
@@ -921,42 +973,6 @@
       "url": "https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O"
     },
     {
-      "added_at": "2022-05-06 04:54:30",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/19WpswuyqY3PCBkdGDHvVD"
-    },
-    {
-      "added_at": "2021-12-09 23:02:00",
-      "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "D O D O",
-      "url": "https://open.spotify.com/track/4DhGbk8afMpvkU1f9Cqwyf"
-    },
-    {
       "added_at": "2022-03-31 23:00:00",
       "album": {
         "name": "WITH YOU",
@@ -991,26 +1007,6 @@
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "First Of All",
-        "url": "https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Jaywillz",
-          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
-        }
-      ],
-      "duration_ms": 169848,
-      "name": "Melody (feat. Jaywillz)",
-      "url": "https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI"
     }
   ],
   "unique_name": "African Heat",

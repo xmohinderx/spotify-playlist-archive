@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,340 likes - 50 songs - 3 hr 17 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,343 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 48 | [Bad Things \- 11th Hour Remix](https://open.spotify.com/track/0aGLQnuOBPHqpHW61xbrya) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8), [11th Hour](https://open.spotify.com/artist/2KizYftxFxLHLqsudT07bf) | [Bad Things \(11th Hour Remix\)](https://open.spotify.com/album/6mXh0aonbjxgzm9oXWPSEa) | 4:14 |
 | 49 | [Vacant](https://open.spotify.com/track/7HDu8teid1cFGtiAQlLG0a) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/5q5FRgtpjlzDvD9gOTZdTS) | 5:03 |
 | 50 | [Purification](https://open.spotify.com/track/2Hfz4yZFhHYHcptngSZ3Bn) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [The Gaslamp Killer](https://open.spotify.com/artist/5dVua2HdrY1VlbPh6OM9KZ) | [Purification](https://open.spotify.com/album/7tsmmO3HZXjqO9bu5q66J6) | 3:54 |
+| 51 | [Afterlife](https://open.spotify.com/track/2uX9JzpZxul4FNnk87z1zQ) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Afterlife](https://open.spotify.com/album/5x2pZCBJeC8XPXdex5MSsu) | 4:44 |
 
-Snapshot ID: `MTg5MixmMTA0YTU3ODQ1NWFmY2FkYjgyYzRjYTZmN2FkNmU0YzVlYzc1YzI0`
+Snapshot ID: `MTg5MyxlNjlhYjFiNThkN2FiMDIzODA1N2NhZDY1OGY2ZjUyZWFlZjNiZTZh`

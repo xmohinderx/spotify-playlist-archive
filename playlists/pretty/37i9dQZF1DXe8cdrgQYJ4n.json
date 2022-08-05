@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 5417,
+  "num_followers": 5438,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3MDI0MywwMDAwMDAwMGY5OGRlNDI2NzU0MWRhNTRlY2NhZmJiZTVkMDdjMzAy",
+  "snapshot_id": "MTY1OTM3MDI0MywwMDAwMDAwMDFiYzNmMmQ1OTIyOTIzYzU5ZTE4NWVjMjljMWYxNDM0",
   "tracks": [
     {
       "added_at": "2022-08-01 16:10:43",
@@ -663,6 +663,30 @@
     {
       "added_at": "2022-08-01 16:10:43",
       "album": {
+        "name": "GOOD",
+        "url": "https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "duration_ms": 180006,
+      "name": "GOOD",
+      "url": "https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn"
+    },
+    {
+      "added_at": "2022-08-01 16:10:43",
+      "album": {
         "name": "Seoul Check-in OST Part 6",
         "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 176759,
       "name": "20MIN",
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
-    },
-    {
-      "added_at": "2022-08-01 16:10:43",
-      "album": {
-        "name": "GOOD",
-        "url": "https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
-        }
-      ],
-      "duration_ms": 180006,
-      "name": "GOOD",
-      "url": "https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn"
     },
     {
       "added_at": "2022-08-01 16:10:43",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! De dulce, verde, rojo, mole y hasta oaxaque\u00f1os. ",
-  "num_followers": 39133,
+  "num_followers": 39242,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc0MTE5NywwMDAwMDAwMDdkOTc4ZjlmOTBiOTFiMGM2NDJmZTQzM2ExODRiNDZl",
+  "snapshot_id": "MTY0Mzc0MTE5NywwMDAwMDAwMDMzNTVjNDQ0YTdhYjE2YzA1Yzc0MWEzNzhiMzY5ZGQw",
   "tracks": [
     {
       "added_at": "2021-11-30 20:14:28",
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Corazon de Acero",
         "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 225953,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -651,6 +651,26 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
+        "name": "Hijos del pueblo",
+        "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Aunque no sea conmigo",
+      "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
         "name": "La Combinacion Vallenata",
         "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 272533,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Hijos del pueblo",
-        "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Aunque no sea conmigo",
-      "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Mystic Love",
         "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 235200,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2021-11-30 20:14:28",

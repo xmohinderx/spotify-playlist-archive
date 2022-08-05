@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 
 > Un surtido rico de canciones con sabor a México\. ¿Lo va a querer rojo o blanco?
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,805 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,851 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 84 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |
 | 85 | [Mujeres Divinas](https://open.spotify.com/track/2PxGGRmj5yunYdNF2Ud2vm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Cuatrero](https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP) | 3:09 |
 | 86 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 |
-| 87 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
-| 88 | [Si Te Vuelves A Enamorar](https://open.spotify.com/track/1pIdEhQdhlZShpe6GoESfY) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bronco Amigo](https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6) | 3:11 |
+| 87 | [Si Te Vuelves A Enamorar](https://open.spotify.com/track/1pIdEhQdhlZShpe6GoESfY) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bronco Amigo](https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6) | 3:11 |
+| 88 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
 | 89 | [Una Julio 70](https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Julio 70](https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS) | 2:55 |
 | 90 | [Pero La Recuerdo \(Cumbia Santa María\)](https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 3:47 |
 | 91 | [Mil Horas](https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 99 | [La Gloria Eres Tu](https://open.spotify.com/track/0toNfHRTPmbsHi63G7Vgdz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:22 |
 | 100 | [Te He Prometido](https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Te He Prometido](https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR) | 3:06 |
 
-Snapshot ID: `MTY1MzMzMDgxNywwMDAwMDAwMDY1OWNkMGE0ODBkZWVkYWIzNDRhZGRiMDM5ZWNiNDE5`
+Snapshot ID: `MTY1MzMzMDgxNywwMDAwMDAwMGFjMTE1NTE5NmI4MmUzMTU1MTJkYzg4NmNkNjdkMzNh`

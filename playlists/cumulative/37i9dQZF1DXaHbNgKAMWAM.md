@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-185 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+186 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2022-05-11 |  |
 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 | 2022-07-08 |  |
 | [Tale 동화](https://open.spotify.com/track/1O6gfRnuWW3jRG77Tn8gHW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:47 | 2022-05-11 | 2022-07-29 |
-| [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 |  |
+| [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 | 2022-08-05 |
 | [The Best Present \(Prod\. by PSY\)](https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [The Best Present](https://open.spotify.com/album/5IhMtglLwKtJWeHCz4KcA4) | 3:59 | 2022-05-11 | 2022-07-21 |
 | [The Night](https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ) | 3:41 | 2022-07-08 |  |
 | [The Night](https://open.spotify.com/track/4J9rYQeCN7kNDlaAKLWmQ8) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4OPs1ewSg1KJOFzeMNKllB) | 3:41 | 2022-05-11 | 2022-07-29 |
@@ -192,6 +192,7 @@
 | [사랑이 피어난다](https://open.spotify.com/track/0Lp6horxxlv8hBBD41LUj8) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [사랑이 피어난다](https://open.spotify.com/album/2ejNHqQU9UieGLCByVA59Y) | 2:50 | 2022-06-13 | 2022-06-16 |
 | [선물](https://open.spotify.com/track/3SCQhlyxIji4Vc8ALcudLU) | [김대연](https://open.spotify.com/artist/4v4JtLI2eFhyunnMBtUo0y), [필](https://open.spotify.com/artist/1JXR9nuTiwl1JRMpf8wTrF) | [너의 이름을 그리워해 본다](https://open.spotify.com/album/5o4V0rixhZTpXxNCoE4AXp) | 3:54 | 2022-05-11 | 2022-06-11 |
 | [우리의 장면](https://open.spotify.com/track/4CvjZCd1zcV8JwiyjgL0Xt) | [마리슈](https://open.spotify.com/artist/3K4yL5c5UlQW5Tx2PDRvVi) | [우리의 장면](https://open.spotify.com/album/6jwiUoE3Ud6oQRb7Mpxazr) | 3:10 | 2022-06-20 | 2022-06-26 |
+| [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-08-01 |  |
 | [이름](https://open.spotify.com/track/2XMmJ6JAPkRualhBjpziCr) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 3:04 | 2022-05-11 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

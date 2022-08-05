@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1684147,
+  "num_followers": 1684366,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMTEzMCwwMDAwMDAwMGY4N2ZjZTYyMTk5MjU5OTBkYjlhYTZhOGFlMDE0ODkx",
+  "snapshot_id": "MTY1ODQyMTEzMCwwMDAwMDAwMDI5ODFlM2UyZmNkZDcyNzE5N2E3YWUxMzA2ZWQ1MGQ1",
   "tracks": [
     {
       "added_at": "2022-07-21 16:32:10",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
+      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 183362,
       "name": "Primer Avi\u00f3n",
       "url": "https://open.spotify.com/track/7uQ9KzntzNaenXNb7JCrwH"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
-      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Acu\u00e9rdate de M\u00ed",
+      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 194836,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 220155,
-      "name": "Yo No Merezco Volver",
-      "url": "https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 237173,
-      "name": "Acu\u00e9rdate de M\u00ed",
-      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
+      "duration_ms": 220155,
+      "name": "Yo No Merezco Volver",
+      "url": "https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 92539,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -875,34 +891,18 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
+        "name": "B\u00e9same Bonito",
+        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
         }
       ],
-      "duration_ms": 92539,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
+      "duration_ms": 180000,
+      "name": "B\u00e9same Bonito",
+      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "B\u00e9same Bonito",
-        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
       "artists": [
         {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 180000,
-      "name": "B\u00e9same Bonito",
-      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
+      "duration_ms": 208986,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Con Las Ganas",
-        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 224013,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
+        "name": "Con Las Ganas",
+        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Con Las Ganas",
+      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 158873,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
         "name": "Por Tu Bien",
         "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Apur\u00e9 Mi Caf\u00e9",
-        "url": "https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh"
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 191863,
-      "name": "Apur\u00e9 Mi Caf\u00e9",
-      "url": "https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O"
+      "duration_ms": 158873,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1327,6 +1311,22 @@
       "duration_ms": 208947,
       "name": "Amarte y Perderte",
       "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
+        "name": "Apur\u00e9 Mi Caf\u00e9",
+        "url": "https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Apur\u00e9 Mi Caf\u00e9",
+      "url": "https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
+        "name": "Devu\u00e9lveme El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "Devu\u00e9lveme El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
         "name": "Cuerno",
         "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Devu\u00e9lveme El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d"
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 244160,
-      "name": "Devu\u00e9lveme El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU"
+      "duration_ms": 198252,
+      "name": "Ya No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4gXkuUnAzsdBmhgUblNdtc"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 198252,
-      "name": "Ya No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4gXkuUnAzsdBmhgUblNdtc"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
         "name": "Tiempo Pa Olvidar",
         "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
-        "url": "https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF"
-      },
-      "artists": [
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 238458,
-      "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
-      "url": "https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
         "name": "Te Necesito (Live Acoustic)",
         "url": "https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 195929,
       "name": "Te Necesito (Live Acoustic)",
       "url": "https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
+        "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
+        "url": "https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "duration_ms": 238458,
+      "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
+      "url": "https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Atado Entre Tus Manos",
-        "url": "https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw"
+        "name": "Tomar Distancia",
+        "url": "https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT"
       },
       "artists": [
         {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 196626,
-      "name": "Atado Entre Tus Manos",
-      "url": "https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG"
+      "duration_ms": 150094,
+      "name": "Tomar Distancia",
+      "url": "https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Tomar Distancia",
-        "url": "https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT"
+        "name": "Atado Entre Tus Manos",
+        "url": "https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 150094,
-      "name": "Tomar Distancia",
-      "url": "https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD"
+      "duration_ms": 196626,
+      "name": "Atado Entre Tus Manos",
+      "url": "https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG"
     },
     {
       "added_at": "2022-07-21 16:32:10",

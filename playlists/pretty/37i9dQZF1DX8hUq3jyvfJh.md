@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mari Fernandez e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,692 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,793 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 29 | [Prometo \- Ao Vivo Em Sete Lagoas, Brazil / 2019](https://open.spotify.com/track/3MYojEGnFql7awVqGlLWOS) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Origens \(Ao Vivo Em Sete Lagoas, Brazil / 2019\)](https://open.spotify.com/album/6icX4tuY88Hxubfzma8zu5) | 3:18 |
 | 30 | [Namorando Bloqueia](https://open.spotify.com/track/0DPm7fR4Nf7VzuIc6pGWt6) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Namorando Bloqueia](https://open.spotify.com/album/4FAZbodqDr9nAAw4QXkGsK) | 2:11 |
 | 31 | [JBL](https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 2](https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY) | 3:13 |
-| 32 | [Descontar Não É Trair](https://open.spotify.com/track/7ynknBverBkoUg0XYzvw0Q) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/3l9ItXzowg5VRvrpCSbFgq) | 3:05 |
-| 33 | [Vem Cá](https://open.spotify.com/track/1fQen7vln4OFKCRshZvXoT) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Vem Cá](https://open.spotify.com/album/7nXQUOtTZjBw9o2sOScZVD) | 2:32 |
+| 32 | [Vem Cá](https://open.spotify.com/track/1fQen7vln4OFKCRshZvXoT) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Vem Cá](https://open.spotify.com/album/7nXQUOtTZjBw9o2sOScZVD) | 2:32 |
+| 33 | [Descontar Não É Trair](https://open.spotify.com/track/7ynknBverBkoUg0XYzvw0Q) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/3l9ItXzowg5VRvrpCSbFgq) | 3:05 |
 | 34 | [Ponto de Partida](https://open.spotify.com/track/6laXU8ebTKAt4jJ75IybV0) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Retrô Românticas, Pt\. 1](https://open.spotify.com/album/3rlIX4rSRS2Lk4EEuk3zRa) | 2:42 |
 | 35 | [Quero Que Você Se \- Ao vivo](https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Quero Que Você Se \(Ao vivo\)](https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH) | 2:54 |
 | 36 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
 | 50 | [Eu Não](https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:30 |
 
-Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGMyZjI3YTdmZDBjY2MxOGVlYjIzOWRkN2M4NDg1OGI1`
+Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGYyMjMyZDNjYjg1ZWI0NzMyMjc0ZDdlN2NmNTlkNDVj`

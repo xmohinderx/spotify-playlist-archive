@@ -4,12 +4,13 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Carin León en portada.
 
-221 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/16BvyH2RXxLXWNmCTqr5Js)
+222 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/16BvyH2RXxLXWNmCTqr5Js)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 | 2022-02-01 | 2022-02-26 |
 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 | 2022-03-11 | 2022-04-21 |
+| [6 en Mi Rollie](https://open.spotify.com/track/7AurrfdK4RKjueAKkZN2RF) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [6 en Mi Rollie](https://open.spotify.com/album/6wJfXfTluFA3XhFdshg8Cz) | 5:25 | 2022-07-29 |  |
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2022-01-13 | 2022-07-16 |
 | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo) | 3:26 | 2022-02-11 | 2022-02-14 |
 | [A Veces Bien Y A Veces Mal](https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [A Veces Bien Y A Veces Mal](https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci) | 2:25 | 2022-04-23 |  |
@@ -23,7 +24,7 @@
 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 | 2022-01-13 | 2022-03-26 |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-03-18 |  |
 | [APAGAITA](https://open.spotify.com/track/4P3PZFvMsKlNwTDHcN7w0J) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [APAGAITA](https://open.spotify.com/album/1R24ulrH6V31SpX9AzJp7z) | 2:35 | 2022-04-29 | 2022-05-26 |
-| [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 | 2022-06-17 |  |
+| [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 | 2022-06-17 | 2022-08-05 |
 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 | 2022-07-15 |  |
 | [Blue Dreams](https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Blue Dreams](https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe) | 4:08 | 2022-01-13 | 2022-07-29 |
 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 | 2022-04-08 | 2022-04-29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMDYwMjY5NmRjNmY3MGM1MTlhZGMxMmNmZjM3ODgwMTY0",
+  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMGUxNjU2MWY0ZmVhZmJiN2E4N2FkNGYwMGQxM2U1NjI0",
   "tracks": [
     {
       "added_at": "2022-05-02 18:16:39",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "First Offense",
-        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
-      },
-      "artists": [
-        {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Gordon",
         "url": "https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 266733,
       "name": "If I Had $1,000,000",
       "url": "https://open.spotify.com/track/0KeDuUqEX3P0cKzRD5pEom"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "First Offense",
+        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Maroon",
+        "url": "https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Pinch Me",
+      "url": "https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "Glee",
         "url": "https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 295357,
       "name": "Bobcaygeon",
       "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "Maroon",
-        "url": "https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Pinch Me",
-      "url": "https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Up To Here",
-        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "New Orleans Is Sinking",
-      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Cuts Like A Knife",
         "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 246026,
       "name": "Lay It on the Line",
       "url": "https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Up To Here",
+        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "New Orleans Is Sinking",
+      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "I'm Your Man",
-        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 334866,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 248200,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Trouble At The Henhouse",
-        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Ahead By A Century",
-      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 275693,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "How Far Shallow Takes You",
-        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
-      },
-      "artists": [
-        {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Nature Of The Beast",
         "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 235560,
       "name": "Just Between You And Me",
       "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "How Far Shallow Takes You",
+        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
+      },
+      "artists": [
+        {
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Yer Favourites",
-        "url": "https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG"
+        "name": "Sittin' Heavy",
+        "url": "https://open.spotify.com/album/1xPJIBohk5DtRCXwdmAZAd"
       },
       "artists": [
         {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
         }
       ],
-      "duration_ms": 259026,
-      "name": "Wheat Kings",
-      "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"
+      "duration_ms": 266093,
+      "name": "Don't Tell Me How to Live",
+      "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Sittin' Heavy",
-        "url": "https://open.spotify.com/album/1xPJIBohk5DtRCXwdmAZAd"
+        "name": "Yer Favourites",
+        "url": "https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG"
       },
       "artists": [
         {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
         }
       ],
-      "duration_ms": 266093,
-      "name": "Don't Tell Me How to Live",
-      "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
+      "duration_ms": 259026,
+      "name": "Wheat Kings",
+      "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"
     },
     {
       "added_at": "2022-05-02 18:16:39",

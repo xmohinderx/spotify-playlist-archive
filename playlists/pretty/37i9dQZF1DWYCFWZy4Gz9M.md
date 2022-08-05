@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,488 likes - 50 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,533 likes - 50 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 14 | [Mrahba](https://open.spotify.com/track/2zKuTLrINginlVwg75onMg) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Rachid Zeroual](https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw), [Khalid Kouhen](https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz), [Paolo Radoni](https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa), [Marc Lelangue](https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet) | [African Gnaoua Blues](https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase) | 6:02 |
 | 15 | [Toura toura \(arr\. N\. Eddine\)](https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq) | [Nour Eddine](https://open.spotify.com/artist/4fKUpodRphVtdVBf06FHgO), [Nour Eddine Fatty](https://open.spotify.com/artist/4p89G1QhmMO8sVCOE6ceFx) | [Morocco: Traditional Songs & Music](https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V) | 4:21 |
 | 16 | [Chalaban \- Live](https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f) | [Chalaban](https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG) | [Moroccan Spring \(Live\)](https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl) | 5:43 |
-| 17 | [Shaba Kouria](https://open.spotify.com/track/0eLQZtoejBfpa6H7iiWo6i) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Colours of the Night](https://open.spotify.com/album/4pCHBjS3nULoQ3NEy3WI0g) | 8:50 |
+| 17 | [Sandia](https://open.spotify.com/track/0ysNragBX6DPqvEYvlYnLA) | [Asmaa Hamzaoui](https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k), [Bnat Timbouktou](https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC) | [Oulad Lghaba](https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN) | 3:40 |
 | 18 | [Alwali Ya Moulay Ahmed](https://open.spotify.com/track/6IBs1Ihaw7bL2oghbcJRAK) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Soirées Gnawa Neurasys Remaster, Vol\. 5](https://open.spotify.com/album/1yADz9TsbPu4nrlIPOwL02) | 11:25 |
-| 19 | [Sandia](https://open.spotify.com/track/0ysNragBX6DPqvEYvlYnLA) | [Asmaa Hamzaoui](https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k), [Bnat Timbouktou](https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC) | [Oulad Lghaba](https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN) | 3:40 |
+| 19 | [Shaba Kouria](https://open.spotify.com/track/0eLQZtoejBfpa6H7iiWo6i) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Colours of the Night](https://open.spotify.com/album/4pCHBjS3nULoQ3NEy3WI0g) | 8:50 |
 | 20 | [Lalla Mira \- Jan Rase Remix](https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W) | [Gnawa Impulse](https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ) | [Jah Gnawi](https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u) | 4:05 |
 | 21 | [Boulila](https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG) | [Amida Boussou](https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 3:13 |
 | 22 | [Soudani](https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 5:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 49 | [Marhba / Gnawa Sidi Mimoun](https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98) | [Gnawa de Marrakech](https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj), [Maalem Mahjoub](https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp) | [Lila](https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq) | 9:10 |
 | 50 | [Bala Yourki](https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x) | [Asmaa Hamzaoui](https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k), [Bnat Timbouktou](https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC) | [Oulad Lghaba](https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN) | 5:37 |
 
-Snapshot ID: `MTY0Njg5NjIwMywwMDAwMDAwMDg5YjIxNmU3NzRmNzg3YzJiNzQxMDdiZTkxNTRjMDA1`
+Snapshot ID: `MTY0Njg5NjIwMywwMDAwMDAwMGQwZWEyZTJiZGUyMmY2NWQ3ZjUxMmRlODgwNGM1Zjcx`

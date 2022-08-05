@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,519 likes - 99 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,557 likes - 99 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 12 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
 | 13 | [Popurrí Juan Gabriel \- En Vivo](https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 8:04 |
 | 14 | [Diferentes](https://open.spotify.com/track/6tfPmubfNV4jjVwTT9X06A) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 3:21 |
-| 15 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
-| 16 | [Inocente Pobre Amiga](https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:57 |
+| 15 | [Inocente Pobre Amiga](https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:57 |
+| 16 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
 | 17 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
 | 18 | [Gracias A Dios](https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:02 |
 | 19 | [Costumbres](https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:38 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 56 | [No Discutamos](https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [No Discutamos](https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f) | 3:40 |
 | 57 | [Te Sigo Amando \- En Vivo](https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Vivo Desde El Río Nilo](https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt) | 2:43 |
 | 58 | [Noa Noa](https://open.spotify.com/track/74b6K0AZr4tNKeA3gab9UU) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:40 |
-| 59 | [Querida](https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Amar y Querer \(Homenaje a Las Grandes Canciones\)](https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU) | 4:21 |
-| 60 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/2KgbsDLZt3TllBRtFCwrx2) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [No Hay Mujeres Feas](https://open.spotify.com/album/16MRHu1XrPSBuoZ7f0wxeC) | 2:52 |
+| 59 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/2KgbsDLZt3TllBRtFCwrx2) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [No Hay Mujeres Feas](https://open.spotify.com/album/16MRHu1XrPSBuoZ7f0wxeC) | 2:52 |
+| 60 | [Querida](https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Amar y Querer \(Homenaje a Las Grandes Canciones\)](https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU) | 4:21 |
 | 61 | [Medley: Caray / Esta Noche Voy a Verla / Juntos](https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 7:11 |
 | 62 | [Viva Juan Gabriel / Popurrí](https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 7:57 |
 | 63 | [El Dia Que Me Acaricies Lloraré](https://open.spotify.com/track/6zcdLtTcaqCT4KAtESlNiY) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 3:51 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 98 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 | 99 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/6iU3Z1hIEXctO1xm3JQzfZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM) | 3:13 |
 
-Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMGYyODA2Njg2NTkzZjAxYzQwMGI5MmRmOWJlOTFiOWY2`
+Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMGU1MGNlOTkzNzdmNWYwMjRiZWJjODA3NWEwYjJlZTA2`

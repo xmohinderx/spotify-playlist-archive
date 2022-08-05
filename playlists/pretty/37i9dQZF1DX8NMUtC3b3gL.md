@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,512 likes - 139 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,581 likes - 144 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,8 +144,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 134 | [cold green tea](https://open.spotify.com/track/0w0UHCWlEoeCP9iXRuJwB9) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [cold green tea](https://open.spotify.com/album/31lyYka2W7Gy4N0CnH0KeK) | 2:33 |
 | 135 | [Sense](https://open.spotify.com/track/52oTmaLv8s70zJft348pjy) | [revmal](https://open.spotify.com/artist/0thsoOfTu2qJQQVg5wrG6S), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sense](https://open.spotify.com/album/3rfDVFn4DLafKcjh5tj4lr) | 1:48 |
 | 136 | [off the grid](https://open.spotify.com/track/67ZBo4TkiHsPGVuJDxsXkk) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [off the grid](https://open.spotify.com/album/1uVRWOGqmDWLwfWploSKba) | 2:48 |
-| 137 | [They Grew Around Her](https://open.spotify.com/track/0SIPvTIbcElBAiuM0E0c4w) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [They Grew Around Her](https://open.spotify.com/album/6TZ8us7ju80yQ56xN6nJ1q) | 2:36 |
-| 138 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
-| 139 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
+| 137 | [Serenity](https://open.spotify.com/track/4YAs0eBrhNzlrfHXyvs25T) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Serenity](https://open.spotify.com/album/0uMvJwmibtvq8qLUXqddV8) | 2:06 |
+| 138 | [First Blossoms](https://open.spotify.com/track/2ydYzoDJ6zJO8CAx5XVTPB) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [First Blossoms](https://open.spotify.com/album/6fy2dixEx1GmxhN0i2Zhj1) | 2:05 |
+| 139 | [Old Days](https://open.spotify.com/track/5yf2mbyU1UHPut39eAuOCX) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Old Days](https://open.spotify.com/album/4A4ypbUWFAceSJcPKXni70) | 2:18 |
+| 140 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 |
+| 141 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 |
+| 142 | [They Grew Around Her](https://open.spotify.com/track/0SIPvTIbcElBAiuM0E0c4w) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [They Grew Around Her](https://open.spotify.com/album/6TZ8us7ju80yQ56xN6nJ1q) | 2:36 |
+| 143 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
+| 144 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDJkYzI4Y2JiNzZmN2FhMGMwNDc1NGQ5ZTRkZTc5OGVl`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDJmZjU4MGJjNzZjY2Q5YmQ4ZDg1N2UwNjlhMWY2YWFl`

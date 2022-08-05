@@ -4,7 +4,7 @@
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-160 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5hf1hQSZw5PUaTleXUee3L)
+161 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5hf1hQSZw5PUaTleXUee3L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [EL Desorden](https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 3:53 | 2021-12-20 |  |
 | [El Gato Volador](https://open.spotify.com/track/560COmYKZ7Jt9fq9X2GRgi) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:53 | 2021-12-20 | 2022-07-29 |
 | [El Lloron](https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 3:55 | 2021-12-20 |  |
-| [El Marciano](https://open.spotify.com/track/0JAlJEXX3yYNQ5bNFH7yN0) | [Cocoman](https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 5:36 | 2021-12-20 |  |
+| [El Marciano](https://open.spotify.com/track/0JAlJEXX3yYNQ5bNFH7yN0) | [Cocoman](https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 5:36 | 2021-12-20 | 2022-08-05 |
 | [El Marciano \- Cocoman](https://open.spotify.com/track/2WMt2WhT943HFwH6Cy7wax) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Reggaeton BC](https://open.spotify.com/album/3GwevLTFFZYTh9Np2z5mYE) | 5:35 | 2021-12-20 | 2022-07-29 |
 | [El Meneaito \(Panama\)](https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06) | [Gaby](https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k) | [Ragga War II \- Retro](https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM) | 3:41 | 2021-12-20 |  |
 | [El Trenecito](https://open.spotify.com/track/4EQte5EllVzzyrWJ6NWipJ) | [Impacto Mc](https://open.spotify.com/artist/1KHgy3AlIpLFkeEyRwC6Qs) | [Golosa](https://open.spotify.com/album/6KpYljcafITsJXd3Lx4wPI) | 3:14 | 2021-12-20 | 2022-07-28 |
@@ -102,6 +102,7 @@
 | [Perros y Gatas](https://open.spotify.com/track/3wS1njCO85Eo9iQ6gs7740) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Exitos](https://open.spotify.com/album/2TfyOwS5WUBjviqlduUbzZ) | 3:45 | 2021-12-20 |  |
 | [Perros Y Gatas \- Radio Version](https://open.spotify.com/track/5Af8XcBX37q0XM4rnMMsOb) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Underground Reggaeton "The Best Of Radio Version", Vol\. 1](https://open.spotify.com/album/1yooyWAHLaP40Bda6lOSAj) | 3:42 | 2021-12-20 | 2022-07-29 |
 | [Persigueme](https://open.spotify.com/track/2IoVUXkcBf2Yn5yAFjzdiA) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero DJ Live](https://open.spotify.com/album/0qtFSFZ5TdkUESepdZJ3FD) | 2:41 | 2021-12-20 | 2022-07-27 |
+| [Persígueme](https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:41 | 2021-12-20 |  |
 | [Playero 38](https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh) | [Maicol y Manuel](https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ) | [Como en los Tiempos de Antes](https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa) | 3:17 | 2021-12-20 |  |
 | [Playero 38](https://open.spotify.com/track/1Nqn7YGaZcZxzZGDBtQWPf) | [Maicol y Manuel](https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ) | [Como en los Tiempos de Antes](https://open.spotify.com/album/27ttqFQMHy1cB8P6iZXrlB) | 3:17 | 2021-12-20 | 2022-07-26 |
 | [Playero Live \- Radio Version](https://open.spotify.com/track/4iPHjfOv7KYlZREbx3GLDo) | [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Mexicano](https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR), [Chesina & Pirin](https://open.spotify.com/artist/4Ub3ChPHcIncQwyILtRek2), [Kalil](https://open.spotify.com/artist/3giLiOpNJX75bzEP8QEzNn) | [Underground Reggaeton "The Best Of Radio Version", Vol\. 1](https://open.spotify.com/album/1yooyWAHLaP40Bda6lOSAj) | 4:39 | 2021-12-20 | 2022-07-29 |

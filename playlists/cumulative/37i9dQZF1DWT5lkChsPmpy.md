@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-307 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+308 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2021-11-10 |  |
 | [Free As Dogs](https://open.spotify.com/track/3AtSwMiONFjvK8pFDxNqUT) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Famous](https://open.spotify.com/album/56AG1YCUB35Mbe8rqJV2iH) | 3:12 | 2022-06-10 |  |
 | [Fruity Flavor](https://open.spotify.com/track/4a5zK2frFoJIH7MsJvC7Lp) | [Gaura](https://open.spotify.com/artist/4Zv99UKFFZKDVl2OsQS7Vp) | [ENGL](https://open.spotify.com/album/1TlcUSr83vfKHkQ2RCsnWI) | 1:52 | 2021-11-10 | 2022-07-08 |
+| [Furui ki](https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Furui ki](https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG) | 3:05 | 2022-08-05 |  |
 | [gather around](https://open.spotify.com/track/3FrRr3UM1bdurTy0bxdU3f) | [Starzero](https://open.spotify.com/artist/2WmS1I4SYqnO6zLSXMpIlj) | [gather around](https://open.spotify.com/album/3DmutGlmDC8W3Ie9PLQiZ4) | 2:35 | 2021-11-10 | 2022-05-11 |
 | [Get A Grip](https://open.spotify.com/track/3ij4NFa0nre7Y3XFZ9QQyM) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Get A Grip](https://open.spotify.com/album/0PJtdZKqdrQXJmhjZmrVk6) | 2:42 | 2022-06-10 |  |
 | [Get Down](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Get Down](https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj) | 2:55 | 2021-11-10 | 2022-05-11 |

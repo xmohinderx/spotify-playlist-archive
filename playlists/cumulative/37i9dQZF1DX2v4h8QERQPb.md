@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: MP El Juvenil.
 
-161 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+162 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Mírame](https://open.spotify.com/track/3Zf4ys9i4Nx5acc0tEVGwr) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [23](https://open.spotify.com/album/5UZ4idzeoePrLTZf5P2jlj) | 2:22 | 2021-11-26 | 2022-04-12 |
 | [Nada Es Para Siempre](https://open.spotify.com/track/2QMBPx3fIO2JYFzIRRSfhI) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Nada Es Para Siempre](https://open.spotify.com/album/289rCJ7vXlZJaKNIDtVBgf) | 3:06 | 2021-11-26 | 2022-07-29 |
 | [Nada Es para Siempre](https://open.spotify.com/track/4C4wrB3c84AZZXLttZnjqd) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:06 | 2022-06-10 |  |
-| [No Tiene Nombre](https://open.spotify.com/track/0cws4NHHYz3g1xGKEjkdJJ) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con la Bolsa al Hombro](https://open.spotify.com/album/2Z7KnlhpsX8JPzaFdnWBSV) | 3:55 | 2022-04-11 |  |
+| [No Tiene Nombre](https://open.spotify.com/track/0cws4NHHYz3g1xGKEjkdJJ) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con la Bolsa al Hombro](https://open.spotify.com/album/2Z7KnlhpsX8JPzaFdnWBSV) | 3:55 | 2022-04-11 | 2022-08-05 |
+| [No Tiene Nombre](https://open.spotify.com/track/3QtY890q1pVlPqMnXETBok) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con La Bolsa Al Hombro](https://open.spotify.com/album/1sUtG5iAA7L65zvM41bjGi) | 3:55 | 2022-07-29 |  |
 | [Og's](https://open.spotify.com/track/540CZIkFru9cSkIP2OddbM) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [Nucleo Aka Tintasucia](https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr), [CNO Kingteam](https://open.spotify.com/artist/7KGCGu8VphRwOg7I9b7Mqy) | [Og's](https://open.spotify.com/album/1hDgmwh08twCyCLCwdicM1) | 4:39 | 2021-11-26 |  |
 | [Olivia](https://open.spotify.com/track/1RYwya4oEKfNlrST9pCp9B) | [Frane](https://open.spotify.com/artist/6nS9ouoHJP473M7180H9tP), [Lucía Boffo](https://open.spotify.com/artist/4okRwzOTkHW7n6373ZvZOV) | [Olivia](https://open.spotify.com/album/3PIu16baoLJCSCrYBVF5CD) | 4:34 | 2021-11-26 | 2022-04-12 |
 | [Otro Color](https://open.spotify.com/track/4UG9b7rz7OhhfRVyvqavDi) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Otro Color](https://open.spotify.com/album/4a4xwIYPYTKAFwObd1dnG2) | 2:24 | 2022-04-11 |  |

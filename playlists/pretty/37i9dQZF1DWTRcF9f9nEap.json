@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 44715,
+  "num_followers": 44789,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk4ODMyOSwwMDAwMDAwMDFhODVlMDk5YWRkMDkwZjBiNGY3NzAxY2NjMWE4MTAz",
+  "snapshot_id": "MTY1Mjk4ODMyOSwwMDAwMDAwMGU4NDU5MjdkNTQ4MDcyNDEzMWE3ZWVlYTBiYWNjMGI4",
   "tracks": [
     {
       "added_at": "2022-05-19 19:25:29",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
+        "name": "Deuce (Remastered 2017)",
+        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 344492,
+      "name": "In Your Town",
+      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
         "name": "Fantastic Negrito Deluxe EP",
         "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Deuce (Remastered 2017)",
-        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
+        "name": "Prime Chops",
+        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
         }
       ],
-      "duration_ms": 344492,
-      "name": "In Your Town",
-      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
+      "duration_ms": 275066,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -667,22 +683,6 @@
       "duration_ms": 247906,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Prime Chops",
-        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
-      },
-      "artists": [
-        {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
     },
     {
       "added_at": "2022-05-19 19:25:29",

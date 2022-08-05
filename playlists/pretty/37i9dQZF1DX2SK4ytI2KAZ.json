@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 668453,
+  "num_followers": 668539,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTE3MiwwMDAwMDAwMDU5NjNhZWY3YjU0NjU3NjRlZmRkZTg1MDFhYjYxZTIz",
+  "snapshot_id": "MTY1OTA5OTE3MiwwMDAwMDAwMGZjZTZmMTFmOTk0M2UxZDUzYTg3Mjk0MDdlOTg5MWQw",
   "tracks": [
     {
       "added_at": "2022-07-29 12:52:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "When I Was Younger",
         "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 177773,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 209557,
+      "name": "Greek Tragedy",
+      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 189634,
       "name": "Moment In The Sun",
       "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 228711,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 246333,
       "name": "Dancing On Glass",
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 228711,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "LP3",
         "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 161120,
-      "name": "Van Horn",
-      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1295,6 +1279,22 @@
       "duration_ms": 197737,
       "name": "Head Right",
       "url": "https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Van Horn",
+      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Brighter Day",
+        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Blutooth / enough 4 u",
         "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 178480,
       "name": "Blutooth",
       "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "LOVETAP!",
+        "url": "https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Killer Whales",
+      "url": "https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
         "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 164774,
       "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
       "url": "https://open.spotify.com/track/1HX1XfDT5xL4uM3BKNrHPf"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "LOVETAP!",
-        "url": "https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Killer Whales",
-      "url": "https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Good Old Days",
-        "url": "https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs"
-      },
-      "artists": [
-        {
-          "name": "JR JR",
-          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
-        }
-      ],
-      "duration_ms": 204428,
-      "name": "Good Old Days",
-      "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Everything Will Be Ok Eventually",
         "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 294071,
       "name": "Better",
       "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs"
+      },
+      "artists": [
+        {
+          "name": "JR JR",
+          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        }
+      ],
+      "duration_ms": 204428,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1743,6 +1743,30 @@
       "duration_ms": 203651,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "duration_ms": 167556,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1819,6 +1843,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "The Heights",
+        "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
+      },
+      "artists": [
+        {
+          "name": "Knox Hamilton",
+          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Pretty Way to Fight",
+      "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/3CsDHb4gbXv6lzAMcozCdS"
       },
@@ -1847,22 +1887,6 @@
       "duration_ms": 204226,
       "name": "Gimme Twice",
       "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "The Heights",
-        "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
-      },
-      "artists": [
-        {
-          "name": "Knox Hamilton",
-          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Pretty Way to Fight",
-      "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1915,26 +1939,18 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T"
+        "name": "don't you wanna be glad?",
+        "url": "https://open.spotify.com/album/272SGdcepKg8hv0LlOBT3U"
       },
       "artists": [
         {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        },
-        {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "Rocky",
-          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+          "name": "Super Whatevr",
+          "url": "https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu"
         }
       ],
-      "duration_ms": 167556,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD"
+      "duration_ms": 188106,
+      "name": "melancholyism.",
+      "url": "https://open.spotify.com/track/60w2EqVhEnedIgZLtIONnU"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1951,22 +1967,6 @@
       "duration_ms": 211040,
       "name": "Sunshine Time",
       "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "don't you wanna be glad?",
-        "url": "https://open.spotify.com/album/272SGdcepKg8hv0LlOBT3U"
-      },
-      "artists": [
-        {
-          "name": "Super Whatevr",
-          "url": "https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "melancholyism.",
-      "url": "https://open.spotify.com/track/60w2EqVhEnedIgZLtIONnU"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 179356,
+      "name": "Lone Survivor",
+      "url": "https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Apple Crumble",
         "url": "https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 189423,
       "name": "Apple Crumble",
       "url": "https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 179356,
-      "name": "Lone Survivor",
-      "url": "https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Something Here",
-        "url": "https://open.spotify.com/album/1LOtxwfLkAvDmrl0YXISKw"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 245386,
-      "name": "Something Here",
-      "url": "https://open.spotify.com/track/7hVJdledWUXvvHlw8SzXxM"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Preacher Man",
         "url": "https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 219389,
       "name": "Preacher Man",
       "url": "https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Something Here",
+        "url": "https://open.spotify.com/album/1LOtxwfLkAvDmrl0YXISKw"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "Something Here",
+      "url": "https://open.spotify.com/track/7hVJdledWUXvvHlw8SzXxM"
     },
     {
       "added_at": "2022-07-29 12:52:52",

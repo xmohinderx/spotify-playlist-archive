@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-187 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+188 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 | 2022-04-15 |  |
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2022-04-15 | 2022-07-29 |
 | [another.wun](https://open.spotify.com/track/6auvpJaVDpfgtYnpNwqF2x) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [another.wun](https://open.spotify.com/album/2nsg6lRwaX0YxvpPlUOeX7) | 1:45 | 2022-04-15 |  |
+| [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 | 2022-04-15 |  |
 | [Autumn Chills](https://open.spotify.com/track/75reExYuxnJtFw5HYdR4ZW) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Jazzterfield](https://open.spotify.com/album/5CkqnEDMBl32m3lkZWRsxe) | 1:54 | 2022-04-15 | 2022-07-29 |
 | [Away with the Fairies](https://open.spotify.com/track/6Yp6bCLd4IWur1yL2Xirrk) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Away with the Fairies](https://open.spotify.com/album/1zfbxCBx19QGZoGsiivrcA) | 2:46 | 2022-04-15 | 2022-07-24 |
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2022-04-15 |  |
@@ -139,7 +140,7 @@
 | [Silience](https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy) | 3:16 | 2022-04-15 |  |
 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 | 2022-04-15 |  |
 | [Snow Profile](https://open.spotify.com/track/62zZi1Yk6I4DlUrN5PSpKW) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Snow Profile](https://open.spotify.com/album/2ovh6aY8qeOJNSq0QweDhM) | 3:21 | 2022-04-15 | 2022-07-29 |
-| [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 | 2022-04-15 |  |
+| [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 | 2022-04-15 | 2022-08-05 |
 | [Solitude](https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV) | [leaf beach](https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh) | [Solitude](https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x) | 1:50 | 2022-04-15 |  |
 | [Soul Surf](https://open.spotify.com/track/5BmFmLnVz4iHJUltXYoXpl) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb), [Abkountry](https://open.spotify.com/artist/5aqQNbKTyAIbtWysPRhF2S) | [Hello Mr.Goodvibe](https://open.spotify.com/album/6mq3p1dQeJYMUZHx7zFcGn) | 1:59 | 2022-04-15 | 2022-07-29 |
 | [Soulful](https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Playtime](https://open.spotify.com/album/6CzAUWwXyMbD437lg1E7jL) | 3:40 | 2022-04-15 |  |

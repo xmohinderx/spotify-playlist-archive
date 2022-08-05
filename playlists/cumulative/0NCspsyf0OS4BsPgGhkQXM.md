@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-396 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+397 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(Give It To Me Like I\) Want It](https://open.spotify.com/track/5z5sA9z9PqN0pciTUnmkki) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [\(Give It To Me Like I\) Want It](https://open.spotify.com/album/6MHlPJOdgHXcWBmvtqKYo3) | 3:36 | 2022-01-14 |  |
 | [3 Minutes 30 Seconds](https://open.spotify.com/track/5IM0GnjaMUoZWRRmFAIxRB) | [Bloom Line](https://open.spotify.com/artist/53HYxzneeSBFFUEjkfXleH), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [3 Minutes 30 Seconds](https://open.spotify.com/album/7lxJvyt9qyKKGypVGINRcC) | 3:30 | 2022-02-16 | 2022-04-08 |
 | [5 AM \(feat\. SayWeCanFly\)](https://open.spotify.com/track/1sSIrpavZvit6lPFro11yy) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [5 AM \(feat\. SayWeCanFly\)](https://open.spotify.com/album/2lyl0g0xjvlbkQjtaH7lzk) | 3:54 | 2022-01-14 |  |
+| [Addicted](https://open.spotify.com/track/5tOq0CP7E8025oB6l9eghz) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Addicted](https://open.spotify.com/album/0iaxJy9W6DrkrnvwKgdyjf) | 2:44 | 2022-08-04 |  |
 | [Adrenaline](https://open.spotify.com/track/3oWRC85b3vcl2xGfv9GwJv) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Hubstcy](https://open.spotify.com/artist/1GthlfmL1MOvV9R7sT8JlI), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Adrenaline](https://open.spotify.com/album/5vSXoikwA71eYYku7kcKA6) | 2:16 | 2022-03-22 | 2022-04-19 |
 | [Aethra](https://open.spotify.com/track/0UPstfIsC6MffdDBDpr7Yq) | [Animadrop](https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR) | [Aethra](https://open.spotify.com/album/1HLGtpl7bN2miDYx3jpQT9) | 6:53 | 2022-01-25 | 2022-03-05 |
 | [Afraid of What's Inside](https://open.spotify.com/track/7bCDBmQ2AZdsnMRSL40J7s) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Afraid of What's Inside](https://open.spotify.com/album/7hHe8MdufsyYDG1jLLDTZd) | 3:39 | 2022-04-15 | 2022-07-29 |

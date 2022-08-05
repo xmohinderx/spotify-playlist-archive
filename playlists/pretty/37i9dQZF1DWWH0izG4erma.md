@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,312 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,465 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 49 | [Whole World Gone Crazy](https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whole World Gone Crazy](https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur) | 3:04 |
 | 50 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
 | 51 | [Shoot From The Hip](https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi) | 3:33 |
-| 52 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
-| 53 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 |
+| 52 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 |
+| 53 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
 | 54 | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [The Gronkowski Brothers](https://open.spotify.com/artist/3P5Gy7HVsYRKZW5rQf08u3) | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC) | 2:49 |
 | 55 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 |
 | 56 | [Sundress](https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:30 |
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 73 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 |
 | 74 | [Whiskey Can't](https://open.spotify.com/track/583kGzEQ7eZRrQCeGNfiUk) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Whiskey Can't](https://open.spotify.com/album/4sERtXmIt0fusA9kmRcrNT) | 2:52 |
 | 75 | [Payback \(feat\. The Cadillac Three\)](https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:27 |
-| 76 | [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 |
-| 77 | [To Whom ...](https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [To Whom ...](https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs) | 3:38 |
+| 76 | [To Whom ...](https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [To Whom ...](https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs) | 3:38 |
+| 77 | [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 |
 | 78 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 |
-| 79 | [Truck In The Yard](https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Truck In The Yard](https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ) | 3:02 |
-| 80 | [Whiskey in a Wine Glass](https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Whiskey in a Wine Glass](https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ) | 3:07 |
+| 79 | [Whiskey in a Wine Glass](https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Whiskey in a Wine Glass](https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ) | 3:07 |
+| 80 | [Truck In The Yard](https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Truck In The Yard](https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ) | 3:02 |
 | 81 | [What Else Is New](https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions Unplugged](https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5) | 2:50 |
 | 82 | [Train](https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Train](https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ) | 2:57 |
 | 83 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 90 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 |
 | 91 | [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 |
 | 92 | [Welcome to the South](https://open.spotify.com/track/3fgVZPySJ6fbCIm4r2PitX) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Welcome to the South](https://open.spotify.com/album/5JFFYGoY1O0LjR5NDod3XA) | 3:08 |
-| 93 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
-| 94 | [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 |
+| 93 | [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 |
+| 94 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
 | 95 | [Old School’s In](https://open.spotify.com/track/50wplGw8gfqUx04sZQOzve) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Common Ground](https://open.spotify.com/album/1JWulolmgjMc4BQAQ9RyNJ) | 3:53 |
 | 96 | [Black Magic Lady](https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Black Magic Lady](https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc) | 4:47 |
 | 97 | [Amen](https://open.spotify.com/track/6jSebdcbIlp0GaBwpsYSRl) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Amen](https://open.spotify.com/album/7uWlZ5GhRBdSOzZuCrc37u) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [American Dream](https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Reno](https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM) | 3:26 |
 | 100 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 |
 
-Snapshot ID: `MTY1OTMyNjQwMCwwMDAwMDAwMDQyYWQzZDQ2NjdmM2JkYmU1MzRkMmZhMTNjYmMzNDQz`
+Snapshot ID: `MTY1OTMyNjQwMCwwMDAwMDAwMDlmNWEyMWNlNGZiOWM2MDM3OTVkYjY4ZGY0NjA3ZWI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Nanno, Budah, CALIFFA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,865 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,896 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 4 | [Dona do Lugar](https://open.spotify.com/track/1nFCagWKZY4W3wioLEZa2k) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy), [ANNA](https://open.spotify.com/artist/6ruC0Mq1w25uC7EHx9ZHzZ) | [Dona do Lugar](https://open.spotify.com/album/21e1QUDXnJOL3DkzdKVY25) | 3:57 |
 | 5 | [Castelo de Areia](https://open.spotify.com/track/7iRfR17ADxVi5VG2PXzTQF) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Castelo de Areia](https://open.spotify.com/album/4juSphb72zP3uD7TjkhtAl) | 2:49 |
 | 6 | [Vvs](https://open.spotify.com/track/2Hm5ySP0lDeilNG6iilwcS) | [Krebs](https://open.spotify.com/artist/1PPLWU6VBjIpTaujduPGzs) | [Vvs](https://open.spotify.com/album/0bePRqKURh0nEyuF8FLqDm) | 2:35 |
-| 7 | [Tá Acontecendo](https://open.spotify.com/track/6A8grsCpzFDoPsYIl7RvOa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [World, Vol\. 2](https://open.spotify.com/album/6B4MoJhi1qqJs1OyU9Fg2J) | 2:18 |
+| 7 | [Tá Acontecendo](https://open.spotify.com/track/6A8grsCpzFDoPsYIl7RvOa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Caio Paiva](https://open.spotify.com/artist/7BwaJ45yO5Fba5d9S65DfT) | [World, Vol\. 2](https://open.spotify.com/album/6B4MoJhi1qqJs1OyU9Fg2J) | 2:18 |
 | 8 | [Nessa Vida](https://open.spotify.com/track/2R3NXeOQ4uYExJyNiBs1J6) | [Rafinha No Beat](https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG), [NABRU](https://open.spotify.com/artist/6a4IWOVhX5VTq92mPQKoWh), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n), [Iago Sabbas](https://open.spotify.com/artist/60usbn1pgOTgUETHQCNYI2) | [Nessa Vida](https://open.spotify.com/album/5dBULKmUKVHt0zUnGEdmkj) | 2:44 |
 | 9 | [Diz pra Mim](https://open.spotify.com/track/7JdtaaysOYdChtMUFpYgeT) | [JonJon Oficial](https://open.spotify.com/artist/3cEphe4y6M68Rq73bOHdB9), [Psych](https://open.spotify.com/artist/56cqVCO3vabMghliZvW9S1) | [Diz pra Mim](https://open.spotify.com/album/6eE274SrPdGB49ZEREbZSj) | 3:18 |
 | 10 | [Quanta Riqueza](https://open.spotify.com/track/5ducepktoljPO994NZQDGJ) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Quanta Riqueza](https://open.spotify.com/album/5eiWGVE6tFQiv4HhusuxWM) | 3:12 |

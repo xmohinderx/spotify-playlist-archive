@@ -1,12 +1,12 @@
 {
   "description": "Dark and moody progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1375232,
+  "num_followers": 1375602,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGY0YTNkMjMxNjg2YzNkMzdlODRlYzI1NTBjYzRmZjA3",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDhmNzI5NDBkZDBmMjRhODAzZjM0MDgxYThiYjU3MmE3",
   "tracks": [
     {
       "added_at": "2022-07-01 11:37:35",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Gamma",
+        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 381254,
+      "name": "Gamma",
+      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Elements Of A New Life",
@@ -915,22 +931,6 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Gamma",
-        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 381254,
-      "name": "Gamma",
-      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 234098,
+      "name": "Time and Time Again - Single Edit",
+      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "All I Want (feat. Goatchy)",
         "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 224978,
       "name": "All I Want (feat. Goatchy)",
       "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 234098,
-      "name": "Time and Time Again - Single Edit",
-      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1155,18 +1155,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
         }
       ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
       },
       "artists": [
         {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Our Space",
-        "url": "https://open.spotify.com/album/5LDTX7O86bPNIQrEfiSiON"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Dino Lenny",
-          "url": "https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L"
-        }
-      ],
-      "duration_ms": 309677,
-      "name": "Our Space - Edit",
-      "url": "https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "This Time / Ray",
         "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
       },
@@ -1335,6 +1315,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Tantrum",
         "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
       },
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ"
+        "name": "Our Space",
+        "url": "https://open.spotify.com/album/5LDTX7O86bPNIQrEfiSiON"
       },
       "artists": [
         {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Dino Lenny",
+          "url": "https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L"
         }
       ],
-      "duration_ms": 222250,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T"
+      "duration_ms": 309677,
+      "name": "Our Space - Edit",
+      "url": "https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Kensh\u014d",
+        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
+      },
+      "artists": [
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        }
+      ],
+      "duration_ms": 220161,
+      "name": "Kensh\u014d",
+      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Follow You Anywhere",
         "url": "https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Kensh\u014d",
-        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
+        "name": "To The Ground",
+        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
       },
       "artists": [
         {
-          "name": "Fatum",
-          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
         }
       ],
-      "duration_ms": 220161,
-      "name": "Kensh\u014d",
-      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
+      "duration_ms": 233440,
+      "name": "To The Ground",
+      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1459,22 +1475,6 @@
       "duration_ms": 299232,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/17zdyEVw9oe9FBDevjOl5c"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "To The Ground",
-        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "To The Ground",
-      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1571,22 +1571,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Haunt Me V.2",
-        "url": "https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM"
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
         },
         {
-          "name": "The Moth & The Flame",
-          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
+          "name": "Jack Dawson",
+          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
         }
       ],
-      "duration_ms": 298829,
-      "name": "Haunt Me V.2",
-      "url": "https://open.spotify.com/track/2USVsdlxRntLqOROwO422o"
+      "duration_ms": 222580,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Steps",
-        "url": "https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 358095,
-      "name": "Steps",
-      "url": "https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Twin Souls",
         "url": "https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm"
       },
@@ -1643,38 +1627,38 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
+        "name": "Steps",
+        "url": "https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk"
       },
       "artists": [
         {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        },
-        {
-          "name": "Jack Dawson",
-          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
         }
       ],
-      "duration_ms": 222580,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
+      "duration_ms": 358095,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az"
     },
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0e3tF60tqO2Niimn9HZIde"
+        "name": "Haunt Me V.2",
+        "url": "https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM"
       },
       "artists": [
         {
           "name": "Kaskade",
           "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "The Moth & The Flame",
+          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
         }
       ],
-      "duration_ms": 280527,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4HGi3uJg4OTWHQs6TkYAFb"
+      "duration_ms": 298829,
+      "name": "Haunt Me V.2",
+      "url": "https://open.spotify.com/track/2USVsdlxRntLqOROwO422o"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1699,26 +1683,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/1jfZBmZUZeJsZZNluJL6zY"
-      },
-      "artists": [
-        {
-          "name": "Tritonal",
-          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 377142,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1735,6 +1699,26 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/1jfZBmZUZeJsZZNluJL6zY"
+      },
+      "artists": [
+        {
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 377142,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1831,22 +1815,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Rush (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0e3tF60tqO2Niimn9HZIde"
       },
       "artists": [
         {
-          "name": "Sied Van Riel",
-          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Rush - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+      "duration_ms": 280527,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4HGi3uJg4OTWHQs6TkYAFb"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1867,6 +1847,26 @@
       "duration_ms": 177597,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3SXRZuCEGbbxsPiHyqwWuG"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Rush (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+      },
+      "artists": [
+        {
+          "name": "Sied Van Riel",
+          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Rush - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Warehouse",
-        "url": "https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK"
-      },
-      "artists": [
-        {
-          "name": "Oliver Smith",
-          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
-        }
-      ],
-      "duration_ms": 246996,
-      "name": "Warehouse",
-      "url": "https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Spectacle",
         "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 193563,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Warehouse",
+        "url": "https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK"
+      },
+      "artists": [
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+        }
+      ],
+      "duration_ms": 246996,
+      "name": "Warehouse",
+      "url": "https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ"
     }
   ],
   "unique_name": "Night Rider",

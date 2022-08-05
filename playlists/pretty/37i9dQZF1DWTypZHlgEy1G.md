@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,443 likes - 59 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,542 likes - 59 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 43 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
 | 44 | [Vous permettez, monsieur ?](https://open.spotify.com/track/3xCE5pciNmiRNUk9J6pWeM) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Adamo \- studio 1](https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl) | 3:02 |
 | 45 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
-| 46 | [Le chasseur](https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [CD Story](https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH) | 3:04 |
+| 46 | [Le chasseur \(Les oies sauvages\)](https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [CD Story](https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH) | 3:04 |
 | 47 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
 | 48 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 |
 | 49 | [La mauvaise réputation](https://open.spotify.com/track/0EwayOD7FeIY07W30rncvf) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 2:10 |

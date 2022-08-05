@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,483 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,487 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 29 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 |
 | 30 | [happen](https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F) | [more](https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM) | [Island Island!](https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD) | 2:55 |
 | 31 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 |
-| 32 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 |
+| 32 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 |
 | 33 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 |
-| 34 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
-| 35 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 |
+| 34 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 |
+| 35 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 36 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
 | 37 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 |
 | 38 | [Alone](https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ) | 3:03 |
-| 39 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 |
+| 39 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 |
 | 40 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 41 | [TENNIS](https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy) | 4:34 |
-| 42 | [내일](https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj) | [태영](https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv) | [내일 \(KSTAGE X 태영 Of 블랙레벨\)](https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY) | 4:00 |
-| 43 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 |
-| 44 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
-| 45 | [FALLIN](https://open.spotify.com/track/15q20kLS04KZRAldpmRfHJ) | [ARCX](https://open.spotify.com/artist/7qXcUdvYuSPsnFj6iZO2jm), [Haki](https://open.spotify.com/artist/2Iqe9ySptj3e4bIEsJEC9b) | [FALLIN](https://open.spotify.com/album/6Nl7KoPii9YCqFGtsNRtUf) | 3:31 |
-| 46 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 |
+| 42 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
+| 43 | [내일](https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj) | [태영](https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv) | [내일 \(KSTAGE X 태영 Of 블랙레벨\)](https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY) | 4:00 |
+| 44 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 |
+| 45 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 |
+| 46 | [FALLIN](https://open.spotify.com/track/15q20kLS04KZRAldpmRfHJ) | [ARCX](https://open.spotify.com/artist/7qXcUdvYuSPsnFj6iZO2jm), [Haki](https://open.spotify.com/artist/2Iqe9ySptj3e4bIEsJEC9b) | [FALLIN](https://open.spotify.com/album/6Nl7KoPii9YCqFGtsNRtUf) | 3:31 |
 | 47 | [How About You?](https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [How About You?](https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87) | 3:18 |
 | 48 | [SHE IS MINE](https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:02 |
-| 49 | [아무것도하기싫어](https://open.spotify.com/track/1zcn4vFOiz7E0lkKJXJDn1) | [서영](https://open.spotify.com/artist/3qbgph1ZJa7HlDrXbTrpia) | [아무것도하기싫어](https://open.spotify.com/album/0sfg7Vi4jNI6j1jbc0FZKj) | 3:14 |
-| 50 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 |
+| 49 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 |
+| 50 | [아무것도하기싫어](https://open.spotify.com/track/1zcn4vFOiz7E0lkKJXJDn1) | [서영](https://open.spotify.com/artist/3qbgph1ZJa7HlDrXbTrpia) | [아무것도하기싫어](https://open.spotify.com/album/0sfg7Vi4jNI6j1jbc0FZKj) | 3:14 |
 
-Snapshot ID: `MTY1NzI2MTAxMCwwMDAwMDAwMGYwNjE3Yzg4ZmE1MzZiOTVjMjYxODJmZDYxNGM3YWE5`
+Snapshot ID: `MTY1NzI2MTAxMCwwMDAwMDAwMDQ0YWVkMjNjMWIxZDgxNDE5YmUwOWM1YzZhZDkxNTZk`

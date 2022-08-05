@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,372 likes - 112 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,864 likes - 112 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 63 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 2:20 |
 | 64 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 |
 | 65 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
-| 66 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
-| 67 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt) | [Eliseo Robles Y Los Barbaros Del Norte](https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq) | [20 Exitos Historia Musical](https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv) | 3:40 |
+| 66 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt) | [Eliseo Robles Y Los Barbaros Del Norte](https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq) | [20 Exitos Historia Musical](https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv) | 3:40 |
+| 67 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
 | 68 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
 | 69 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 |
 | 70 | [Corrido De La Muerta](https://open.spotify.com/track/2rr90xS2B05xvZdQ0WJykz) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [20 Aniversario \- Martes Trece](https://open.spotify.com/album/2opmRjJnk6eFKmz6lBMvnz) | 4:04 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 81 | [Colgado De Un Árbol](https://open.spotify.com/track/2j5X89pGdAoI2OoXffzeqt) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [Colgado De Un Árbol \(Remasterizado\)](https://open.spotify.com/album/4h1FfxVfSqI7HI8ZHaoZJH) | 3:39 |
 | 82 | [Ambicion](https://open.spotify.com/track/2ejgN52DP0gNCYXoGeEh6H) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 3:18 |
 | 83 | [Alta Y Delgadita](https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:05 |
-| 84 | [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 |
-| 85 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 |
+| 84 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 |
+| 85 | [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 |
 | 86 | [Traficante De Besos](https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:29 |
 | 87 | [Entrega Total](https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:38 |
 | 88 | [Chiquilla cariñosa](https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38) | [Los Rancheritos Del Topo Chico](https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv) | [20 Exitos](https://open.spotify.com/album/20Sd7w6ZX6SrPHi9XEpaNj) | 3:15 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 111 | [Solo Una Patada](https://open.spotify.com/track/60yeJAQhq9pWqnA61CbdoJ) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 3:11 |
 | 112 | [Rinconcito En El Cielo](https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 4:27 |
 
-Snapshot ID: `MTY0NzQ3ODE5NiwwMDAwMDAwMGYwYTk2ZTA1NzVlZDViYjgyY2ViNzdhMGFhOGNhZWI0`
+Snapshot ID: `MTY0NzQ3ODE5NiwwMDAwMDAwMDhjMjRmYzFjZTUzNjdjNjdkZjEzYmE3NWNkY2E0MzQ5`

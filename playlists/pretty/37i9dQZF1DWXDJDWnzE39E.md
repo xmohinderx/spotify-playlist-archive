@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: Scene Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,868 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,008 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 5 | [Noise](https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:40 |
 | 6 | [Yellowjacket \(feat\. Sam Carter\)](https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:18 |
 | 7 | [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 |
-| 8 | [Bottom of a Bottle](https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Bottom of a Bottle](https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3) | 3:19 |
+| 8 | [The In\-Between](https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:14 |
 | 9 | [Strong](https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:06 |
-| 10 | [The In\-Between](https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:14 |
+| 10 | [Bottom of a Bottle](https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Bottom of a Bottle](https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3) | 3:19 |
 | 11 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
 | 12 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 |
 | 13 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 43 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
 | 44 | [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 |
 | 45 | [Taxi](https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ) | 3:21 |
-| 46 | [Freedom \- The Wolves Within \-](https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:37 |
-| 47 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 |
+| 46 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 |
+| 47 | [Freedom \- The Wolves Within \-](https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:37 |
 | 48 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 49 | [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 |
 | 50 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 74 | [Cloaked](https://open.spotify.com/track/3irkZrFRdtIgc9xmbb95In) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/3821HxVYaIwRA9DLfo8GHa) | 3:54 |
 | 75 | [Radium Girls](https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [The Last Internationale](https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc), [Aimee Interrupter](https://open.spotify.com/artist/511ZM3AQ8CNe4VNMcYvdB0), [White Lung](https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M) | [Radium Girls](https://open.spotify.com/album/3vpk9zb559Jo7dsmZRBZo9) | 3:49 |
 | 76 | [Vertigo](https://open.spotify.com/track/0hQwt8gMWXHtQyJ1dqcUE2) | [Sumo Cyco](https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4) | [Initiation](https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M) | 3:09 |
-| 77 | [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 |
-| 78 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
-| 79 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
+| 77 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
+| 78 | [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 |
+| 79 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
 | 80 | [Take Me There](https://open.spotify.com/track/7AirDADqbXKplcwcpvVJZF) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Within Each Lies the Other](https://open.spotify.com/album/6isj0Hqo95H2vYzkEEoWvO) | 3:41 |
 
-Snapshot ID: `MTY0NzYwODU4NCwwMDAwMDAwMGM2NzQyYzQ2MGQ2Y2ZmMmI2ZWU1NGIzMTNkMTViMzMw`
+Snapshot ID: `MTY0NzYwODU4NCwwMDAwMDAwMGI2MzVlNDE0NjRhNDgxMTU4YmVjYjg4OGQ0MjU0MGZj`

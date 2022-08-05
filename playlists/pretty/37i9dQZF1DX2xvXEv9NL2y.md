@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xvXEv9NL2y.md) - [plain]
 
 > Reminisce the dancefloor with your little one.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,304 likes - 43 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,362 likes - 43 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

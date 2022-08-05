@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,370 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,612 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

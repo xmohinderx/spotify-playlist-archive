@@ -2,7 +2,7 @@
 
 ### [JumpOff](https://open.spotify.com/playlist/37i9dQZF1DX6tw5tib6ZrB)
 
-> Monster Hiphop anthems to unlock your day\. Tracks from Joey Bada$$, Tyler, The Creator, Kendrick Lamar and more
+> Monster Hiphop anthems to unlock your day\. Tracks from Central Cee, Joey Bada$$, Kendrick Lamar and more
 
 59 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/14bEBF0XIXvpomoPm6muAO)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 
 > The best of Detroit Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,499 likes - 36 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,506 likes - 36 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

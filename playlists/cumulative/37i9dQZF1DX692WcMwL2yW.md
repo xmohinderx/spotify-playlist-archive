@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-281 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+282 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Sensory](https://open.spotify.com/track/70foYW4a0fEYwy60SwEYUj) | [DARKCITY](https://open.spotify.com/artist/5E5kMELbzQ56qBssHVWlsy), [root](https://open.spotify.com/artist/1k27JeD1SDSojaZok0SoPO), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Sensory](https://open.spotify.com/album/5XGspEqpsGTTSnryJ9D1HB) | 4:19 | 2022-05-27 | 2022-07-15 |
 | [Seoul Flower Market](https://open.spotify.com/track/1gWfvRd62abG1qVCk4p49k) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:20 | 2022-06-10 |  |
 | [Shaolin](https://open.spotify.com/track/3oY8edFQA1IjGaHv5H1ol1) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Magnum](https://open.spotify.com/album/3vYlEDTxOfio3cgUDSQM7Y) | 2:00 | 2021-08-26 | 2022-05-14 |
+| [Sharks Approach](https://open.spotify.com/track/0qzjIYOyeLGFUQGz6rQ1mD) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Sharks Approach](https://open.spotify.com/album/1FjR7PYPk0PyW62dTAsqCB) | 2:46 | 2022-08-05 |  |
 | [Shoot for the Stars](https://open.spotify.com/track/2VtLynBPsKQ6IxmHQXk5x0) | [SG Beatz](https://open.spotify.com/artist/3AWkypHQ3p6a85QtDKjca5) | [Highlife](https://open.spotify.com/album/3CoGJulsTas8q7xN91ieAO) | 2:55 | 2022-07-29 |  |
 | [Shoot For The Stars](https://open.spotify.com/track/52kS9zM2JWsyTG1tTUlrwA) | [SG Beatz](https://open.spotify.com/artist/3AWkypHQ3p6a85QtDKjca5) | [Highlife EP](https://open.spotify.com/album/3IjNNbjnJM3PFGtBdszsqb) | 2:55 | 2022-06-17 | 2022-07-29 |
 | [Showtime](https://open.spotify.com/track/14pC7BwY6F1i2T9oA4TFjI) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:21 | 2021-06-04 | 2021-08-26 |

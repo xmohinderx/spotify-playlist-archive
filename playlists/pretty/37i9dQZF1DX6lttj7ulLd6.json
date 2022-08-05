@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 18480,
+  "num_followers": 18727,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxODk0OCwwMDAwMDAwMDUxNWIwMTJhYzAzODk4ZjdhYWQwZDVjNTgxNjQyNWU2",
+  "snapshot_id": "MTY1NjQxODk0OCwwMDAwMDAwMGQxMDJkZGRjNmE4NzY1Y2NkYzY1YzlhMjFiNzY1MDcz",
   "tracks": [
     {
       "added_at": "2022-06-28 12:22:28",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU"
+      },
+      "artists": [
+        {
+          "name": "Chieli Minucci",
+          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Cause We've Ended As Lovers",
+      "url": "https://open.spotify.com/track/51VBEDfm60C2PyCtwLGIDG"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU"
-      },
-      "artists": [
-        {
-          "name": "Chieli Minucci",
-          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Cause We've Ended As Lovers",
-      "url": "https://open.spotify.com/track/51VBEDfm60C2PyCtwLGIDG"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
         "name": "Sudden Burst Of Energy",
         "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
       },
@@ -363,22 +363,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Forever, For Always, For Luther",
-        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
+        "name": "Fuzzy Logic",
+        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
         }
       ],
-      "duration_ms": 316026,
-      "name": "If Only For One Night",
-      "url": "https://open.spotify.com/track/6O4i4aMjDM7JVexa5hA3sk"
+      "duration_ms": 291520,
+      "name": "You Read My Mind",
+      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -399,18 +395,22 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Fuzzy Logic",
-        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
+        "name": "Forever, For Always, For Luther",
+        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
       "artists": [
         {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 291520,
-      "name": "You Read My Mind",
-      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
+      "duration_ms": 316026,
+      "name": "If Only For One Night",
+      "url": "https://open.spotify.com/track/6O4i4aMjDM7JVexa5hA3sk"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
+        "name": "Dance Of The Soul",
+        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis",
+          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5YW9Vrst2OmdJih861foWB"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
         "name": "Just What You Need",
         "url": "https://open.spotify.com/album/7bUsoIHRz3zFdeJeBGhg1z"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 277437,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/621sF1DBkZAr5mtbtjE8El"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
-        "name": "Dance Of The Soul",
-        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis",
-          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5YW9Vrst2OmdJih861foWB"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
         "name": "Love and Paragraphs",
         "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 243560,
       "name": "Have Your Cake And Eat It",
       "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
         }
       ],
-      "duration_ms": 305306,
-      "name": "Together At Last",
-      "url": "https://open.spotify.com/track/2aEyRqY48LbMzHiNAvwoQK"
+      "duration_ms": 318266,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/29EWQFBFg70fC4rIbknyrI"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 318266,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/29EWQFBFg70fC4rIbknyrI"
+      "duration_ms": 305306,
+      "name": "Together At Last",
+      "url": "https://open.spotify.com/track/2aEyRqY48LbMzHiNAvwoQK"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Kickin' It Up",
-        "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
       },
       "artists": [
         {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
         }
       ],
-      "duration_ms": 265466,
-      "name": "To The Max",
-      "url": "https://open.spotify.com/track/5fZWvZlO3SddhtKE6p57b4"
+      "duration_ms": 261506,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/6XI1bDKgSfXWEyP297UaZS"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+        "name": "Kickin' It Up",
+        "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
       },
       "artists": [
         {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
         }
       ],
-      "duration_ms": 261506,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/6XI1bDKgSfXWEyP297UaZS"
+      "duration_ms": 265466,
+      "name": "To The Max",
+      "url": "https://open.spotify.com/track/5fZWvZlO3SddhtKE6p57b4"
     },
     {
       "added_at": "2022-06-28 12:22:28",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 362160,
-      "name": "Groovin' Up Hip Street",
-      "url": "https://open.spotify.com/track/1rEt3jLRkVWz1m9EEfTFeo"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 362160,
+      "name": "Groovin' Up Hip Street",
+      "url": "https://open.spotify.com/track/1rEt3jLRkVWz1m9EEfTFeo"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-06-28 12:22:28",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "A Short Walk From Home",
-      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
-    },
-    {
-      "added_at": "2022-06-28 12:22:28",
-      "album": {
         "name": "Island Life",
         "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 283960,
       "name": "Pulse Point",
       "url": "https://open.spotify.com/track/7wHRIgyHHYn8x18a2mDoAL"
+    },
+    {
+      "added_at": "2022-06-28 12:22:28",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "A Short Walk From Home",
+      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

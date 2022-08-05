@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-794 songs - 1 day 19 hr 22 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
+795 songs - 1 day 19 hr 24 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,7 +662,7 @@
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-05-23 |
 | [Sugar](https://open.spotify.com/track/4ajjeZhSAVz2Zp9rf9OTIL) | [Natalia Gordienko](https://open.spotify.com/artist/2Q94VIGMp0vhZetkOae27U) | [Sugar](https://open.spotify.com/album/3sRJWlMDplaZjzPzDhkNRA) | 2:58 | 2021-05-25 | 2021-05-27 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-22 | 2021-09-18 |
-| [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-30 |  |
+| [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-30 | 2022-08-05 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-03-27\* |  |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-06-27 | 2021-06-28 |
@@ -778,6 +778,7 @@
 | [Won't Let You Go](https://open.spotify.com/track/3ARugqK0Jsnh9gk29n1pDb) | [Lon'nie](https://open.spotify.com/artist/3nf8iZOcuY2nFerE1McqmY) | [Won't Let You Go](https://open.spotify.com/album/0Rg99Dscv88CJlQsdwGnH4) | 3:44 | 2021-04-14 | 2021-04-15 |
 | [won't u](https://open.spotify.com/track/4rWMJrWcutRmPu0b4jX3xD) | [Capri Everitt](https://open.spotify.com/artist/6EFNRnIRbAh7pHV1FgCQaB) | [won't u](https://open.spotify.com/album/1SnioNzpe3WxHAN2LDCKTb) | 2:39 | 2021-08-16 | 2021-08-17 |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-13 | 2021-12-29 |
+| [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-08-04 |  |
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-14 | 2022-05-21 |
 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 | 2021-06-27 | 2021-07-04 |
 | [Yebba’s Heartbreak](https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:13 | 2021-09-05 | 2021-09-06 |

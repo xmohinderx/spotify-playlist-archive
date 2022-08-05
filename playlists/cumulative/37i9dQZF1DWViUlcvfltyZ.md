@@ -2,14 +2,16 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Chitarre più o meno distorte \(e, in cover, Baobab!\)
+> Chitarre più o meno distorte \(e in cover i ROS!\)
 
-137 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+139 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [118 \(feat\. Claudio Santamaria\)](https://open.spotify.com/track/7bgmhnVEmCFrMB3Byr0r9R) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Claudio Santamaria](https://open.spotify.com/artist/1QeSGnT5N0XR1CEr1tEpaG) | [118 \(feat\. Claudio Santamaria\)](https://open.spotify.com/album/4BL7Czy98tfrcBZMA9HVT9) | 3:38 | 2022-05-09 | 2022-05-27 |
+| [1789](https://open.spotify.com/track/0gTbFATVuvMa5dDFTItGGf) | [sabd](https://open.spotify.com/artist/5U31znzcujcQqe1noxyODw) | [1789](https://open.spotify.com/album/7B4PPuiKQkGXTAU79uX4Y8) | 2:50 | 2022-08-04 |  |
 | [A casa dei miei](https://open.spotify.com/track/5CyM9AldfTQmuvs0Tmy3B8) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [A casa dei miei](https://open.spotify.com/album/4a9Lx3MS7H0LTwrlAiGjNu) | 3:02 | 2022-07-21 |  |
+| [Afterimage](https://open.spotify.com/track/4kS29RC8JZ7rxIFOs30ppc) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Afterimage](https://open.spotify.com/album/12zYtbjFPBR7LVv8yCy0uN) | 2:28 | 2022-08-04 |  |
 | [Agata](https://open.spotify.com/track/4C2Bpn24iZZHWUSfpQvLiv) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Agata](https://open.spotify.com/album/5OvRahjqujnEOetZFcPesY) | 3:44 | 2022-05-09 | 2022-06-03 |
 | [AIP](https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [AIP](https://open.spotify.com/album/0SLgtOJQyz2PiqMYGqPONw) | 2:57 | 2022-05-09 | 2022-06-03 |
 | [Always Before \(The Fire\)](https://open.spotify.com/track/1Zxk5vYIHVeHiFKRmEfx3y) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Always Before \(The Fire\)](https://open.spotify.com/album/4G1FKZqj3dzWVLKfnzDybm) | 4:10 | 2022-05-09 | 2022-06-24 |
@@ -55,7 +57,7 @@
 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 | 2022-05-09 | 2022-06-24 |
 | [Forever](https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Forever](https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0) | 2:43 | 2022-05-09 | 2022-06-10 |
 | [Gent](https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP), [Tana Combinaguai](https://open.spotify.com/artist/7u6nsTUogydvsNlVUcF2HY) | [Gent](https://open.spotify.com/album/485ZUajT3OBSsa0ndRBJvA) | 4:01 | 2022-06-09 | 2022-07-01 |
-| [Go Fuck Yourself](https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Go Fuck Yourself](https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT) | 2:21 | 2022-07-07 |  |
+| [Go Fuck Yourself](https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Go Fuck Yourself](https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT) | 2:21 | 2022-07-07 | 2022-08-05 |
 | [Graphiti :\)](https://open.spotify.com/track/5xx9ZowEw4pbbdvI9qnNNP) | [Monday Comes Twice](https://open.spotify.com/artist/1v7zsqw6ZnRbq8nVDUuDru) | [Graphiti :\)](https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR) | 3:16 | 2022-05-09 | 2022-05-13 |
 | [Grunge Morale](https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Superluna Rock Music](https://open.spotify.com/album/6OEAw58eyguAaHQafIE354) | 2:58 | 2022-06-16 | 2022-07-08 |
 | [Hail the Proper Karl](https://open.spotify.com/track/2KdBqtc2PFm0ptkGcEvbKk) | [Clever Square](https://open.spotify.com/artist/5Nx0K1JaqMJwJYAi2ZgKK2) | [Secret Alliance](https://open.spotify.com/album/6uFxFzfUjAWtesqxjz5dPd) | 2:24 | 2022-05-09 | 2022-06-03 |
@@ -80,7 +82,7 @@
 | [La vita fa schifo](https://open.spotify.com/track/38OPZDQmw8dhrl63CafT14) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [La vita fa schifo](https://open.spotify.com/album/0yzB3qbjWR5nybthxPp772) | 4:44 | 2022-07-21 |  |
 | [Libellula](https://open.spotify.com/track/0XbO1VbFRlFlycqvnaNuYn) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Libellula](https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev) | 3:06 | 2022-06-30 |  |
 | [Livido](https://open.spotify.com/track/1FUcl9PpuDjDR8wuWugG9v) | [LAMECCA](https://open.spotify.com/artist/7mURROuseWxgGqL7cIyhc8) | [Ragazzina](https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6) | 3:48 | 2022-05-09 | 2022-06-10 |
-| [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-09 |  |
+| [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-09 | 2022-08-05 |
 | [Love Will Take You from Behind](https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Love Will Take You from Behind](https://open.spotify.com/album/7ta4mTgSJ38tqR21MPHrWg) | 2:45 | 2022-07-07 |  |
 | [Matador](https://open.spotify.com/track/5g0aCS1VkUjInpKZJ5sqZw) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Matador](https://open.spotify.com/album/2HU1bNOzJU13btY8KjjNIC) | 3:20 | 2022-07-21 |  |
 | [Meravigliosa \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/3Ji5zXZw7hDUgIp5IkLFiy) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Cari Fottutissimi Amici](https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB) | 3:53 | 2022-05-26 | 2022-07-01 |
@@ -94,7 +96,7 @@
 | [ORBO](https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [ORBO](https://open.spotify.com/album/6UYDYZNV39L4V138niJ2Pf) | 3:55 | 2022-05-19 | 2022-07-01 |
 | [Papaveri](https://open.spotify.com/track/78ZTkpYWq7YdLSfkPlhdgW) | [Aida](https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp) | [Papaveri](https://open.spotify.com/album/4ZhvB9BXSTWoaCGrnzjeVx) | 2:46 | 2022-06-02 | 2022-07-01 |
 | [Papavero](https://open.spotify.com/track/3qML5gP73yuL9XVmMm3Ns5) | [LaPara](https://open.spotify.com/artist/4xJehLpB102iLT1vPxESJn) | [Papavero](https://open.spotify.com/album/0Z7qMBtRoaRhRIAshma0ox) | 4:17 | 2022-05-09 | 2022-07-01 |
-| [Parlami](https://open.spotify.com/track/6EgGe4PI3Y9EWPD5Wpv6iE) | [Asia Ghergo](https://open.spotify.com/artist/0TPUlnIZtGxkM27FIgl39N) | [Parlami](https://open.spotify.com/album/5yLLr1dLk439zVforZ4zZw) | 3:52 | 2022-06-30 |  |
+| [Parlami](https://open.spotify.com/track/6EgGe4PI3Y9EWPD5Wpv6iE) | [Asia Ghergo](https://open.spotify.com/artist/0TPUlnIZtGxkM27FIgl39N) | [Parlami](https://open.spotify.com/album/5yLLr1dLk439zVforZ4zZw) | 3:52 | 2022-06-30 | 2022-08-05 |
 | [Particles](https://open.spotify.com/track/3X6EsP4cCYwjtJjEGUrtiA) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Particles](https://open.spotify.com/album/6dXLAeNNrUzFC8GxZvLeih) | 3:14 | 2022-05-09 | 2022-05-13 |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-19 | 2022-07-01 |
 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 | 2022-05-12 |  |
@@ -133,7 +135,7 @@
 | [Un istante](https://open.spotify.com/track/1QEnFPeGqRVdXROMPEiIX5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Un istante](https://open.spotify.com/album/2T1psFrFRJaV1SStNt2aHy) | 3:24 | 2022-06-23 | 2022-07-29 |
 | [UN SANTO, UN RICCO, UN FASCIO](https://open.spotify.com/track/2RIpuPWfnNgXF7eQBaugdA) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UN SANTO, UN RICCO, UN FASCIO](https://open.spotify.com/album/2xEiFuPfW9NcYYn44f1fIP) | 2:54 | 2022-05-09 | 2022-05-13 |
 | [Una festa](https://open.spotify.com/track/25aCtC19xMjjLdejTxJ0z3) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [GOSSIP!](https://open.spotify.com/album/4oMB0omyxPz000ZHH4oesR) | 3:28 | 2022-05-09 | 2022-06-10 |
-| [UNO, DUE](https://open.spotify.com/track/75HUCYfX4wop5tV0qKrHbR) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UNO, DUE](https://open.spotify.com/album/3lpVkPyUEVk6Swojw19kzs) | 3:25 | 2022-06-30 |  |
+| [UNO, DUE](https://open.spotify.com/track/75HUCYfX4wop5tV0qKrHbR) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UNO, DUE](https://open.spotify.com/album/3lpVkPyUEVk6Swojw19kzs) | 3:25 | 2022-06-30 | 2022-08-05 |
 | [Valanga](https://open.spotify.com/track/6cqwc1pyl5i48tBCxGgEvS) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Valanga](https://open.spotify.com/album/0Uzr5FEyRVTN2WuilSQZ0Q) | 3:31 | 2022-06-09 |  |
 | [Vento](https://open.spotify.com/track/6ej9H7pOvE5zA0tm2EQCc6) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Risposte Sincere, Domande Sbagliate](https://open.spotify.com/album/3XNSHrHLDb3UaGFtKXbCRI) | 3:02 | 2022-07-14 |  |
 | [Vita Sperduta](https://open.spotify.com/track/4s2JGsbchZ8fNiqhIPjCZq) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Vita Sperduta](https://open.spotify.com/album/0eeFAco3jtZzRFDD6cUl6q) | 3:36 | 2022-05-09 |  |

@@ -2,7 +2,7 @@
 
 ### [Chill Vibes](https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj)
 
-> Just chill...
+> Just chill.
 
 297 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 

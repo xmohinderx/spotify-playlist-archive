@@ -265,7 +265,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 297413,
       "name": "Better",
       "url": "https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm"
@@ -1399,6 +1399,24 @@
       "duration_ms": 248253,
       "name": "I Can Only Imagine",
       "url": "https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3"
+      },
+      "artists": [
+        {
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        }
+      ],
+      "date_added": "2020-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222546,
+      "name": "I Need A Miracle",
+      "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
     },
     {
       "album": {

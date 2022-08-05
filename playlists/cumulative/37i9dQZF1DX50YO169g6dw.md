@@ -4,7 +4,7 @@
 
 > The best of Within Temptation, all in one playlist.
 
-62 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/4E0Qj5wQSFNjxWiSGuJSQN)
+63 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/4E0Qj5wQSFNjxWiSGuJSQN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Dangerous \(feat\. Howard Jones\)](https://open.spotify.com/track/0wI0JbIyF0ySxyVd1STxYy) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Howard Jones](https://open.spotify.com/artist/0arnk73bHPWcEA3YWkBD7M) | [Hydra](https://open.spotify.com/album/3bSKHI0yn1LzvlsoEel2vg) | 4:53 | 2021-02-05 | 2022-07-29 |
 | [Edge of the World](https://open.spotify.com/track/5578fHcYLNW0yIa9ohZC2a) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Special Edition\)](https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76) | 4:55 | 2021-02-05 |  |
 | [Edge Of The World](https://open.spotify.com/track/5QKliWHwm99G2d8xTPehNZ) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra](https://open.spotify.com/album/3bSKHI0yn1LzvlsoEel2vg) | 4:55 | 2021-02-05 | 2022-07-29 |
+| [Entertain You](https://open.spotify.com/track/2TggWcaQqzZr6Lv80g1c61) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Don't Pray For Me](https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf) | 3:31 | 2022-08-04 |  |
 | [Entertain You](https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Entertain You](https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB) | 3:31 | 2020-11-20 |  |
 | [Entertain You](https://open.spotify.com/track/70HVKogWbgiA4XaXa2GowH) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Entertain You](https://open.spotify.com/album/5fE1zz1xFy9wRLmruEo9A3) | 3:31 | 2020-11-20 | 2022-07-29 |
 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 | 2021-02-05 |  |

@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-167 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+168 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Dream Big](https://open.spotify.com/track/5AFPlDsgf5GGuET3M2myGC) | [DJ Agent M](https://open.spotify.com/artist/6ikhDr0gmj4e88Gu4tNBGo) | [Moving Forward](https://open.spotify.com/album/4wwgeuJ0bwZVVoZ9Bx1pYI) | 3:08 | 2021-11-11 |  |
 | [Drop '95](https://open.spotify.com/track/72CBVgrrKp7niHjssNHv61) | [Sadiva](https://open.spotify.com/artist/4N5uaLp0vHh7627UsS9GoG) | [Lethal Chops](https://open.spotify.com/album/28zeg49sLHPxrUNmmkuDs5) | 2:07 | 2021-11-11 | 2022-05-20 |
 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 | 2021-11-11 |  |
+| [Elysian Park](https://open.spotify.com/track/4xHkvSBotbywoO6s7jifIz) | [Blzzn](https://open.spotify.com/artist/6AhOUa1YcUtj6KjNx4LQ5E) | [City Walk](https://open.spotify.com/album/1xa6vCfUYkEKDzgZaCUGCH) | 2:26 | 2022-08-05 |  |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2021-11-11 |  |
 | [Fleeting Time](https://open.spotify.com/track/74CvjZd0jJsjBj6GdSNrTZ) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e), [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp) | [Fleeting Time](https://open.spotify.com/album/3rGd2MxgtRo1NfO5We8CLp) | 2:16 | 2022-07-01 |  |
 | [Flight](https://open.spotify.com/track/5qLPc5msHoWoKAVwNtpDl9) | [rdgbeat](https://open.spotify.com/artist/6ci4qB6s8r709bmmyc2thH) | [Flight](https://open.spotify.com/album/492qb2KrZR0E3Fqsg12aWV) | 1:47 | 2022-07-01 | 2022-07-08 |

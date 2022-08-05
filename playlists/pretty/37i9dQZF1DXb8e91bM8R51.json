@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 34232,
+  "num_followers": 34242,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2MzY4MiwwMDAwMDAwMDlmZTM5MzYwYmMzNGQ2NTYwOGNkZWRjYjVlYWE3YTg2",
+  "snapshot_id": "MTY1OTM2MzY4MiwwMDAwMDAwMGZkOTgwNTc2NDU0NzM3OGU3YzBjODQ5N2IyMjViMThm",
   "tracks": [
     {
       "added_at": "2022-08-01 14:21:22",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
-    },
-    {
-      "added_at": "2022-08-01 14:21:22",
-      "album": {
         "name": "late at night",
         "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 174682,
       "name": "late at night",
       "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
+    },
+    {
+      "added_at": "2022-08-01 14:21:22",
+      "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
-        "name": "Denial",
-        "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
-    },
-    {
-      "added_at": "2022-08-01 14:21:22",
-      "album": {
         "name": "From a Birds Eye View",
         "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
-        "name": "Ay Caramba",
-        "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
         }
       ],
-      "duration_ms": 164436,
-      "name": "Ay Caramba",
-      "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
+      "duration_ms": 180000,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -799,6 +783,22 @@
       "duration_ms": 224933,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
+    },
+    {
+      "added_at": "2022-08-01 14:21:22",
+      "album": {
+        "name": "Ay Caramba",
+        "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 164436,
+      "name": "Ay Caramba",
+      "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
-        "name": "Child of God",
-        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
+        "name": "Kool Aid and Frozen Pizza",
+        "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 255486,
-      "name": "Child of God",
-      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+      "duration_ms": 157737,
+      "name": "Kool Aid and Frozen Pizza",
+      "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
-        "name": "Kool Aid and Frozen Pizza",
-        "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
+        "name": "Child of God",
+        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 157737,
-      "name": "Kool Aid and Frozen Pizza",
-      "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
+      "duration_ms": 255486,
+      "name": "Child of God",
+      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -1619,6 +1619,26 @@
       "duration_ms": 135740,
       "name": "Expensive (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2Kv3JWOzRJsaen5vjmTVJL"
+    },
+    {
+      "added_at": "2022-08-01 14:21:22",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 239954,
+      "name": "Insomniak (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -1731,26 +1751,6 @@
       "duration_ms": 320000,
       "name": "Stressed (with Wallo267)",
       "url": "https://open.spotify.com/track/5M6ow9HqYJhIL3FOt8QlCb"
-    },
-    {
-      "added_at": "2022-08-01 14:21:22",
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 239954,
-      "name": "Insomniak (feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
-        "name": "COUNT ON ME",
-        "url": "https://open.spotify.com/album/2S60rvhdR33rjng6tLmErA"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "COUNT ON ME",
-      "url": "https://open.spotify.com/track/1kdixtbMh0JUWlvSDmfM9I"
-    },
-    {
-      "added_at": "2022-08-01 14:21:22",
-      "album": {
         "name": "Rice N Gravy - A COLORS SHOW",
         "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
-        "name": "DRILL MUSIC IN ZION",
-        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
+        "name": "COUNT ON ME",
+        "url": "https://open.spotify.com/album/2S60rvhdR33rjng6tLmErA"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
         }
       ],
-      "duration_ms": 271883,
-      "name": "DRILL MUSIC IN ZION",
-      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
+      "duration_ms": 155200,
+      "name": "COUNT ON ME",
+      "url": "https://open.spotify.com/track/1kdixtbMh0JUWlvSDmfM9I"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -2135,6 +2119,38 @@
       "duration_ms": 152478,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/1dKwfm7cjsj73CLjk3oReY"
+    },
+    {
+      "added_at": "2022-08-01 14:21:22",
+      "album": {
+        "name": "Bona",
+        "url": "https://open.spotify.com/album/7vBVtTDJriFe69dlvxl6MY"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Bona",
+      "url": "https://open.spotify.com/track/2kxIQnvSzTNOY2DqoCToPY"
+    },
+    {
+      "added_at": "2022-08-01 14:21:22",
+      "album": {
+        "name": "DRILL MUSIC IN ZION",
+        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 271883,
+      "name": "DRILL MUSIC IN ZION",
+      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
     },
     {
       "added_at": "2022-08-01 14:21:22",
@@ -2199,22 +2215,6 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
-        "name": "Bona",
-        "url": "https://open.spotify.com/album/7vBVtTDJriFe69dlvxl6MY"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Bona",
-      "url": "https://open.spotify.com/track/2kxIQnvSzTNOY2DqoCToPY"
-    },
-    {
-      "added_at": "2022-08-01 14:21:22",
-      "album": {
         "name": "Ain\u2019t No Fun",
         "url": "https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6"
       },
@@ -2263,6 +2263,30 @@
     {
       "added_at": "2022-08-01 14:21:22",
       "album": {
+        "name": "Lane",
+        "url": "https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        }
+      ],
+      "duration_ms": 162462,
+      "name": "Lane",
+      "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
+    },
+    {
+      "added_at": "2022-08-01 14:21:22",
+      "album": {
         "name": "No Limitations",
         "url": "https://open.spotify.com/album/2VWlODyFgzkTYG8m9igtgO"
       },
@@ -2303,30 +2327,6 @@
       "duration_ms": 191088,
       "name": "What's Life - From \"Liberated / Music For the Movement Vol. 3\"",
       "url": "https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3"
-    },
-    {
-      "added_at": "2022-08-01 14:21:22",
-      "album": {
-        "name": "Lane",
-        "url": "https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Powers Pleasant",
-          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
-        }
-      ],
-      "duration_ms": 162462,
-      "name": "Lane",
-      "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
     },
     {
       "added_at": "2022-08-01 14:21:22",

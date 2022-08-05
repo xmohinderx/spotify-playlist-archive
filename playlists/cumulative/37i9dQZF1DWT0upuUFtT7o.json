@@ -1082,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Ava",
+        "url": "https://open.spotify.com/album/2kHVasHvva7dlsArXSO1ic"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jack Finnecy",
+          "url": "https://open.spotify.com/artist/1WhVurXzCBmvdyXpmR2A22"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Ava",
+      "url": "https://open.spotify.com/track/2UFNep9nbVcfkleCG9icRd"
+    },
+    {
+      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS"
       },
@@ -14319,7 +14337,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 271952,
       "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
       "url": "https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox"

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-412 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+413 songs - 1 day 1 hr 34 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Let You Down](https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 3:30 | 2022-06-10 |  |
 | [Let You Down \- Chris Schweizer Remix](https://open.spotify.com/track/5uHEofIJPJaU01HuZ9R1Yw) | [Eco](https://open.spotify.com/artist/53B8p4TVFXCtarwosey71M), [Chris Schweizer](https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc) | [Let You Down](https://open.spotify.com/album/1ofE9M2CxwoQdff327H2J5) | 3:06 | 2021-12-17 | 2022-07-29 |
 | [Life's Unfair](https://open.spotify.com/track/1u6yM18TWzdsGpf9UsUrL6) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Life's Unfair](https://open.spotify.com/album/5dKXVw6fK5vhmycDsTje7Z) | 3:34 | 2022-02-25 | 2022-07-20 |
+| [Light & Shade](https://open.spotify.com/track/1YBg8ylGKiTrq4Sniw6UdB) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [re:boot](https://open.spotify.com/artist/1HBB7Pn85JrPzx4PwRWIWH), [Adrian Alexander](https://open.spotify.com/artist/5msCUDk1PeADCytZ4lw5D6), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT) | [Fatum's Anjunabeats Worldwide 10 Collaborations EP](https://open.spotify.com/album/32hWfoag5Fg80aC1oa6398) | 2:58 | 2022-07-29 |  |
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 |  |
 | [Lights](https://open.spotify.com/track/0xfU9beVFKw5wi9sIQS73P) | [AK](https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH), [Audrey Gallagher](https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ) | [Lights](https://open.spotify.com/album/1ZZmYRy7EjfYgFeltGVjYk) | 3:23 | 2022-03-11 | 2022-07-25 |
 | [Lights](https://open.spotify.com/track/60nHIZtCpSQyJbhQuEsaIi) | [Mike Zaloxx](https://open.spotify.com/artist/3ouOviMDzZMb55MJp08Tu4), [Rinaly](https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD) | [Lights](https://open.spotify.com/album/6XakwOBOnXBrHYmH158jEo) | 3:57 | 2022-03-18 | 2022-07-14 |
@@ -246,7 +247,7 @@
 | [My Enemy \- gardenstate Remix](https://open.spotify.com/track/73WnYDswTVHxJH4N9Th3vq) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Julie Thompson](https://open.spotify.com/artist/07rc8cAXzRZkFwA8ig6JGG), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Empire 10 \(Part 3\)](https://open.spotify.com/album/3Y7B7K9ZAjLwdlD7ZAcyTF) | 4:33 | 2021-12-17 | 2022-05-14 |
 | [My Favourite Mistake](https://open.spotify.com/track/1sPQ7UdfZSeyDWiLCNpzmP) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Susanne Teutenberg](https://open.spotify.com/artist/1Xx7LP7rI1PIQeCtr6mN7K) | [My Favourite Mistake](https://open.spotify.com/album/3wx7Cl43qUKymyCUcHij79) | 3:23 | 2021-12-17 | 2022-03-12 |
 | [My Guiding Light](https://open.spotify.com/track/6WQ0dxunGQuNXVNYmkDXfU) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [My Guiding Light](https://open.spotify.com/album/62I1qDECH4NTIbBFtMSaJz) | 3:45 | 2021-12-17 |  |
-| [Mystery Land](https://open.spotify.com/track/6rfu5u7FoVAjwWe5FMCXU0) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Mystery Land](https://open.spotify.com/album/4QskDsUUCcNFRUjORs6ii6) | 3:44 | 2022-02-04 |  |
+| [Mystery Land](https://open.spotify.com/track/6rfu5u7FoVAjwWe5FMCXU0) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Mystery Land](https://open.spotify.com/album/4QskDsUUCcNFRUjORs6ii6) | 3:44 | 2022-02-04 | 2022-08-05 |
 | [Namaqua](https://open.spotify.com/track/1xAGRuYdaCx6lGAuDNtfxp) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Namaqua](https://open.spotify.com/album/2qJ52WvCqgrBjN26i9dzV3) | 3:58 | 2021-12-17 |  |
 | [Never Alone](https://open.spotify.com/track/3BDs1MOQNYRX0G0kmpV8Iw) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Never Alone](https://open.spotify.com/album/0YdiKCM6bohQZxmQOHbDWt) | 3:37 | 2022-01-14 | 2022-07-29 |
 | [Never Be Alone](https://open.spotify.com/track/6FAK5GkhC4kanPdOGTlWhz) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Mirjam Tumaini](https://open.spotify.com/artist/0VIpOJKQgRWdlBhePFUOpd) | [Never Be Alone](https://open.spotify.com/album/52zvyjKhpOAr2tMmPj1Qbo) | 3:06 | 2022-06-17 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 
 > LGBTQQIA+ artists like you've never heard before\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,056 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,062 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

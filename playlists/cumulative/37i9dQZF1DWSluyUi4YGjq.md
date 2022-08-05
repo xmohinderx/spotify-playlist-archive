@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Trementina on cover!
 
-182 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+183 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 | 2021-10-19 |  |
 | [Destroy Us](https://open.spotify.com/track/2wSFjD7g5QQ3jiComKKDiA) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/07DZCEUCKN27wKjAHTMfST) | 4:17 | 2021-10-19 | 2022-08-02 |
 | [Destroy Us](https://open.spotify.com/track/5JTsQo9mTbBs8d68UIjNEl) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/7n95iySQSShHU7doQfeGP4) | 4:17 | 2021-10-19 | 2022-07-29 |
-| [Die Happily](https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ) | [FRITZ](https://open.spotify.com/artist/2TxetADYy1Fa0ydSfFLPge) | [Pastel](https://open.spotify.com/album/3xWCtrB5gtXzDWk8UOiglW) | 3:25 | 2021-10-19 |  |
+| [Die Happily](https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ) | [FRITZ](https://open.spotify.com/artist/2TxetADYy1Fa0ydSfFLPge) | [Pastel](https://open.spotify.com/album/3xWCtrB5gtXzDWk8UOiglW) | 3:25 | 2021-10-19 | 2022-08-05 |
 | [Dopamine](https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:55 | 2021-10-19 |  |
 | [Dopamine](https://open.spotify.com/track/53FCh1Yv1gdlnybyYWsyca) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:55 | 2021-10-19 | 2022-07-29 |
 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 | 2021-10-19 |  |
@@ -167,6 +167,7 @@
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2021-10-19 |  |
 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 | 2021-10-19 |  |
 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 | 2022-01-07 |  |
+| [sueños pasajeros](https://open.spotify.com/track/5qkh3OCdhzDFLLkLDyzQ3I) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [sueños pasajeros](https://open.spotify.com/album/5raH91QppDfJ87H19rHjcv) | 1:33 | 2022-08-04 |  |
 | [Suficiente](https://open.spotify.com/track/6Gzt3wNcTpZMV9wA97IvdB) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Suficiente](https://open.spotify.com/album/3A8kSYi3x2IZwKaxGGAFVZ) | 3:58 | 2022-05-04 | 2022-07-24 |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 |  |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 |  |

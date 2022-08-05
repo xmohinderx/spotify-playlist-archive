@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-462 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+467 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Building](https://open.spotify.com/track/6OZ3MPodudMKFDndMrvGiT) | [Aywee Tha Seed](https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62) | [Building](https://open.spotify.com/album/0qhJu9J9ui5YTqjahdXQ3s) | 1:21 | 2022-06-24 | 2022-07-08 |
 | [Bulls](https://open.spotify.com/track/3hzGguJ3xIzOWoSFZBOV4x) | [New Gate](https://open.spotify.com/artist/1zLR47Dgv8ab7NZyoPi2ay) | [Bulls](https://open.spotify.com/album/3koh0TI5LLhJ2bkD0smZ3f) | 2:34 | 2022-04-15 | 2022-04-22 |
 | [Busy Branches](https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Busy Branches](https://open.spotify.com/album/5hSpAo6OG8Z4GmkPwX1fw3) | 2:18 | 2022-04-15 |  |
+| [Butternut Cake](https://open.spotify.com/track/6jaeklBeX4iRE3YO1Nsk4U) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Butternut Cake](https://open.spotify.com/album/4pHMXFrovfUgJcbGmeHVYf) | 2:13 | 2022-08-05 |  |
 | [Buzzer Beater](https://open.spotify.com/track/2yuBW2Empy4JejMW4UCkdG) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Buzzer Beater](https://open.spotify.com/album/6jKTUyGaxaUMYp4nhtZlkB) | 2:26 | 2022-04-15 |  |
 | [Cali Sunshine](https://open.spotify.com/track/5YwI4vVk3SHkwIVVoSwp5n) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Cali Sunshine](https://open.spotify.com/album/6AyEYNLT0JWgsjhUUqbC2i) | 1:45 | 2022-04-22 |  |
 | [Cameo](https://open.spotify.com/track/30OXkzWR9otpCgUpAPrtPA) | [Jazzarama](https://open.spotify.com/artist/3yNVU8t50pOgeeaiEtGKMe) | [Vacation Plans](https://open.spotify.com/album/3ALLfEOHgPmkVrjehNyb9D) | 2:33 | 2022-04-15 | 2022-05-14 |
@@ -119,6 +120,7 @@
 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Papir Chaser](https://open.spotify.com/artist/64jtTdqJ8iLVkpbiQvBfy2) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 | 2022-04-15 |  |
 | [Extra Dip](https://open.spotify.com/track/5Cq4kRHvTc718cDAL2pYnC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Neon Clouds](https://open.spotify.com/album/4jyODUlcuHPFMewe3HpJmz) | 2:26 | 2022-05-13 |  |
 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 | 2022-04-15 |  |
+| [Falling For You](https://open.spotify.com/track/6roRnWYaBE8UCaE8UhIYPI) | [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [Falling For You](https://open.spotify.com/album/5opW1X1RotF6X3q7UHUdaG) | 2:50 | 2022-08-05 |  |
 | [Falling Leaves](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo) | [major7th](https://open.spotify.com/artist/2PM4QtueXi2pjPzJGMYAH8) | [Falling Leaves](https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey) | 2:30 | 2022-04-15 |  |
 | [Family](https://open.spotify.com/track/62FZ5BVFbxuUF58FKWrRTo) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Kyla Moscovich](https://open.spotify.com/artist/4eo125E0BMCS4qi3xB4pTd) | [Family](https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb) | 2:25 | 2022-04-15 |  |
 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 | 2022-04-15 |  |
@@ -200,7 +202,9 @@
 | [Last Mission](https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Last Mission](https://open.spotify.com/album/2yE00pVDJf10PO5Zop9Akg) | 3:07 | 2022-04-15 |  |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-15 |  |
 | [Latex](https://open.spotify.com/track/2IfYpqvhlKUQ7BcURXGWHo) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Latex](https://open.spotify.com/album/6yKF2qc08283e2ooJrdawF) | 2:37 | 2022-04-15 |  |
+| [Layovers](https://open.spotify.com/track/11fKCRvb1iBkuHK7Etq3bv) | [Shapes N Clouds](https://open.spotify.com/artist/1hzy68RXMgXkGADAtpTHBl), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Layovers](https://open.spotify.com/album/0IBctredI1PfDUiPFP3OkB) | 2:49 | 2022-08-05 |  |
 | [Lazy Days](https://open.spotify.com/track/7suskOPZ8onOtynAzhT0Qg) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Lazy Days](https://open.spotify.com/album/66aCELdbiAYIzRN55S0SyN) | 2:43 | 2022-04-15 | 2022-07-08 |
+| [Leaves in the Wind](https://open.spotify.com/track/5M9p88M16vOx2r4WzDWghD) | [Tristan Wolf](https://open.spotify.com/artist/5IAm7Y4cKtHu7UC0ctNi7f), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Leaves in the Wind](https://open.spotify.com/album/3cK3SJKB0XOsULFz01Sx2r) | 2:18 | 2022-08-05 |  |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-15 | 2022-07-29 |
 | [Lemon Ginger](https://open.spotify.com/track/5YWNeJW5s40JgHGFiNhFh2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lemon Ginger](https://open.spotify.com/album/6TtmdWWZP4o3gJgUb2Q83f) | 2:33 | 2022-04-15 | 2022-07-22 |
 | [Lesters Adventure](https://open.spotify.com/track/0WOGzTW5TEp1p1J3WCiSzM) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Paws For A Second](https://open.spotify.com/album/4GBIGs6taHticCXjvePE5U) | 2:05 | 2022-04-15 | 2022-07-08 |
@@ -214,6 +218,7 @@
 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 | 2022-04-15 |  |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-04-15 |  |
 | [Look After Yourself](https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Look After Yourself](https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL) | 3:07 | 2022-04-15 |  |
+| [love Downpitch](https://open.spotify.com/track/6QdtafpgMQ52rXcFh6zskk) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [love Downpitch](https://open.spotify.com/album/40WNLhEvWDTrMG4HSQvqJY) | 1:54 | 2022-08-05 |  |
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2022-04-15 | 2022-06-25 |
 | [Love Snip](https://open.spotify.com/track/5TfqA1PGQJRZyng0480Zre) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [Love Snip](https://open.spotify.com/album/1VL10DhdUCPKdNjbIkQwsY) | 1:32 | 2022-04-15 |  |
 | [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 | 2022-04-15 |  |

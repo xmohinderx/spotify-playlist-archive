@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-149 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+152 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Distorcido](https://open.spotify.com/track/1veEROQqh83r67W1gthulY) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 1:18 | 2021-11-11 |  |
 | [DO YOU HAVE THE DRUGS](https://open.spotify.com/track/2TrTDkj7cHjME50RaEZ3iZ) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [Grimmjøw](https://open.spotify.com/artist/7uzsn9U6OTLBagyn5sQSnL) | [DELUSIONS III](https://open.spotify.com/album/3f4QMkLNvMJ7mYloBZtJBD) | 3:50 | 2022-07-29 |  |
 | [Edén](https://open.spotify.com/track/5HPE8nk9CE58K5sRuw6GY6) | [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [Edén](https://open.spotify.com/album/3CoNv5qTB6GN0EzLbzweGK) | 3:35 | 2022-04-08 |  |
+| [Elephants](https://open.spotify.com/track/3DUsZyjKel86426JprmYVd) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Elephants](https://open.spotify.com/album/5DfvYDOOwkc6IjpSU1v1i0) | 2:26 | 2022-08-05 |  |
 | [Entropy](https://open.spotify.com/track/441YIkP32be2LQ2Ol6LMmT) | [BassEQ](https://open.spotify.com/artist/4w4B079eb5jukk7o2nvL49) | [BassEQ Beats](https://open.spotify.com/album/147Elkn8P9wvep6M4kqsf0) | 5:03 | 2021-11-11 |  |
 | [Erupción](https://open.spotify.com/track/4yP4xQ4xpLziT9uKMZSTSr) | [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5), [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T) | [Erupción](https://open.spotify.com/album/6lbFFtcNaBHaQZvSAizyZ8) | 2:33 | 2022-04-22 |  |
 | [Escape](https://open.spotify.com/track/7loBMJPuSrISlENdY3nuVR) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [Escape](https://open.spotify.com/album/32du4LBKI5WrU6VImj5kIB) | 3:42 | 2021-11-11 |  |
@@ -116,12 +117,14 @@
 | [Silver Lining](https://open.spotify.com/track/49hqLCrBX4CnAkEM0iclaO) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Silver Lining](https://open.spotify.com/album/1rCa089W6ZFhIcpVzw4tCJ) | 2:29 | 2021-11-11 |  |
 | [SMOKE BREAK](https://open.spotify.com/track/3CPtS5vGos6uIlYf0Nqc4L) | [NIGHTSHOW](https://open.spotify.com/artist/3eO8RkSNmOmPFIRXP6i1S8) | [SMOKE BREAK](https://open.spotify.com/album/1EjwtUUR8Ju58b9UUQiD4v) | 3:19 | 2021-11-11 |  |
 | [Snack Bar](https://open.spotify.com/track/3NaAiO0oBCWkRVFtSQ6j0F) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Don’t Be Afraid to Fly](https://open.spotify.com/album/1mEhFmt5gqiD1s0CLw0sKL) | 3:02 | 2021-11-11 | 2022-07-15 |
+| [Sodas](https://open.spotify.com/track/1OhqSZBciNoTwXjOXMwD6h) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Sodas](https://open.spotify.com/album/4LsFnQM1zJszKESjxEkLEN) | 1:53 | 2022-08-05 |  |
 | [Sorrow](https://open.spotify.com/track/7GJQGSD9r681721nvXGAAx) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Sorrow](https://open.spotify.com/album/3u9L5MdB8Q16LWDyABClMO) | 2:34 | 2021-11-11 |  |
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2021-11-11 |  |
 | [Step Back](https://open.spotify.com/track/5KimoSVW5m1tFROfAFlQHr) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Pressure Cooker](https://open.spotify.com/album/6rvGcpNWu5wZi3BkCt5Byq) | 2:30 | 2021-11-11 |  |
 | [Step Up](https://open.spotify.com/track/6lfBScufvQpMszD2FCHHb1) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Step Up](https://open.spotify.com/album/1gwHWOeTU43i1xkVS97HJE) | 2:48 | 2022-04-22 | 2022-07-15 |
 | [Stocked](https://open.spotify.com/track/4DomI8yMoXvIJCBfOPc7Fa) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Rocket Silence](https://open.spotify.com/album/3L7vFgb7Ihr1I7lbxJ6q0r) | 2:52 | 2021-11-11 |  |
 | [Straight Heat](https://open.spotify.com/track/2MzBF1zSL1ODy1hv74VJuv) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Straight Heat](https://open.spotify.com/album/6iZodCOpJ1HHSDq0WHs9A8) | 2:38 | 2022-04-08 |  |
+| [Sumwhere Else](https://open.spotify.com/track/3HUzxgjBZmDLoomxx64YnL) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Elephants](https://open.spotify.com/album/5DfvYDOOwkc6IjpSU1v1i0) | 2:29 | 2022-08-05 |  |
 | [Survivors](https://open.spotify.com/track/3m0Phpn6nOliV0SsxEEeB4) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Reverse Spell](https://open.spotify.com/album/0HQzJaw6UxOjgfRhUSCUdp) | 2:51 | 2022-07-01 |  |
 | [Suspens Trap Beat](https://open.spotify.com/track/4BYzQfbibYvzDegGR1JoEe) | [Origin Studio](https://open.spotify.com/artist/4rRMk8pMRjwTi8tKHvuQ0b) | [Suspens Trap Beat](https://open.spotify.com/album/1oLZiOM9BnvTBDQp8Zvzdk) | 2:56 | 2021-11-11 |  |
 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 | 2021-11-11 |  |

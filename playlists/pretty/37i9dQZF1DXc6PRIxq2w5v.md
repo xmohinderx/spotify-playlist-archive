@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Asaph, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,514 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,548 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 30 | [Jardim](https://open.spotify.com/track/00u4kGgE3Dn2PHoXwSF63O) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Jardim](https://open.spotify.com/album/4zESGmL812r4wAGRRqcs9V) | 2:33 |
 | 31 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 |
 | 32 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 |
-| 33 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 |
-| 34 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 |
+| 33 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 |
+| 34 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 |
 | 35 | [Semeadores](https://open.spotify.com/track/01j3BWe6rxzqIAMrfWdRuS) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Cela Éfeso](https://open.spotify.com/artist/7ueKl9kOlGIYEi6uVdlYVB), [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [Rap Menorah](https://open.spotify.com/artist/0o2LKT3AcCDjM47LyERec2), [Welby See](https://open.spotify.com/artist/6W2muqMzUdzcqdZGN2TTtD) | [Semeadores](https://open.spotify.com/album/3E57sTfK3lSVfKFGh7Kueu) | 5:20 |
 | 36 | [Ele É Deus Em Mim](https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Kivitz](https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:54 |
 | 37 | [Céu](https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Céu](https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi) | 2:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [LEVANTAR](https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7) | [Levantar](https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR) | 2:47 |
 | 65 | [Impostor](https://open.spotify.com/track/3G4WJPxXdI7EB4UR3H3OZV) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Impostor](https://open.spotify.com/album/5O81T9io3EMHKyUSt2pYTC) | 2:29 |
 
-Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMDYzY2JiYWIyN2NmMmIzNTI2ZTdjZTlkZWRiZTgwMDY1`
+Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMDM3YzI2NDZhZGVmM2U4NjhlNTRhOWY5YjZlNThmMmQ5`

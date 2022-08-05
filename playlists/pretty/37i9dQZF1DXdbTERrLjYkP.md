@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,308 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,401 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 17 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 |
 | 18 | [Isolate Myself](https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Isolate Myself](https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C) | 3:05 |
 | 19 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 |
-| 20 | [Sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [Sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 |
+| 20 | [sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 |
 | 21 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 | 22 | [Past Life](https://open.spotify.com/track/5Y5GCQcDkcndKKiKel6tK8) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Past Life](https://open.spotify.com/album/1dTTM2vQpUbvmEYaMAS0rm) | 3:38 |
 | 23 | [Carsick](https://open.spotify.com/track/53QIhVdWpIG3NmpkhoqFy6) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Carsick](https://open.spotify.com/album/2kvGRMPD2fjjzJS9Wwaqdz) | 3:07 |

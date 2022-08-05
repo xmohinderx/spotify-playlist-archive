@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:0pb0sehd5pPALyoCt8B4MV">Leanò</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,357 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,371 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

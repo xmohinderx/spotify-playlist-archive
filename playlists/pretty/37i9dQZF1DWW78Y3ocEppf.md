@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > The feelings you can't put into words...only songs\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,777 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,829 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 11 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
 | 12 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 |
 | 13 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 |
-| 14 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 |
+| 14 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
 | 15 | [Cartier](https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection Too](https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b) | 3:16 |
-| 16 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
+| 16 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 |
 | 17 | [ROLE MODEL](https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:14 |
 | 18 | [Closure \(feat\. H.E.R.\)](https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:03 |
 | 19 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 47 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:24 |
 | 48 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
 | 49 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 |
-| 50 | [Options](https://open.spotify.com/track/3AmO3A7KCZnshydPDku3PI) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [Options](https://open.spotify.com/album/2nRvGsayNgohmqy1pwMKiJ) | 4:08 |
+| 50 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 
-Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDhjNjkwNDc1OGY2ZTQ5NGUyOTM3YzBhZTJjNWM3MTQ1`
+Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDhhMzMzODk0OGVmNWJjMjQ4ZjhjMTdjNWZhODhlZTFl`

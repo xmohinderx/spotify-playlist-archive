@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Soundtrack your gaming with these atmospheric beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,542 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,561 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

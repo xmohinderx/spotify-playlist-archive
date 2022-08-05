@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230367,
+  "num_followers": 230375,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMDVkZGZmNzcwNjk4ZWQ1N2Q5NDc2ZGUyMWMxZmUxZjg3",
+  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMGVhODlkNmI0MTdiNGYwOTAyNTc5NWY0YWIyOWRiMWM1",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -303,22 +303,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Wicked Hearts",
-        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
+        "name": "The Ghost in Your Smile",
+        "url": "https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa"
       },
       "artists": [
         {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        },
-        {
-          "name": "Jamie Hartman",
-          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
+          "name": "Gnarly Gibbs",
+          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
         }
       ],
-      "duration_ms": 189136,
-      "name": "Wicked Hearts",
-      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
+      "duration_ms": 194242,
+      "name": "The Ghost in Your Smile",
+      "url": "https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -387,18 +383,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "The Ghost in Your Smile",
-        "url": "https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa"
+        "name": "Wicked Hearts",
+        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
       "artists": [
         {
-          "name": "Gnarly Gibbs",
-          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Jamie Hartman",
+          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
         }
       ],
-      "duration_ms": 194242,
-      "name": "The Ghost in Your Smile",
-      "url": "https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW"
+      "duration_ms": 189136,
+      "name": "Wicked Hearts",
+      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
     },
     {
       "added_at": "2021-08-05 09:09:59",

@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 232762,
+  "num_followers": 232764,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDk0NWI4YjljZmVlZWFhNzc2NjY5YzljMjk5ZWJiOTFm",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGMyOTYwMmM5MjYyYzNjMTgwYWRhZDU1MWFlYmE4YmE1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Matisyahu",
+        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Mama Please Don't Worry",
+      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "I Told You",
@@ -667,22 +683,6 @@
       "duration_ms": 207023,
       "name": "I Told You",
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Matisyahu",
-        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
-      },
-      "artists": [
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Mama Please Don't Worry",
-      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Don't Lose Sight",
-        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 406186,
-      "name": "Don't Lose Sight (Acoustic)",
-      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
@@ -887,6 +871,22 @@
       "duration_ms": 163149,
       "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Don't Lose Sight",
+        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 406186,
+      "name": "Don't Lose Sight (Acoustic)",
+      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Nothing To Do (Deja Vu)",
-        "url": "https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Nothing To Do (Deja Vu)",
-      "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
-    },
-    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "Follow The Light",
@@ -1137,20 +1121,20 @@
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "No ID",
-        "url": "https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd"
+        "name": "Nothing To Do (Deja Vu)",
+        "url": "https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9"
       },
       "artists": [
         {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
         }
       ],
-      "duration_ms": 191088,
-      "name": "No ID",
-      "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
+      "duration_ms": 205714,
+      "name": "Nothing To Do (Deja Vu)",
+      "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 204946,
       "name": "Get Down! (Before You Lose Control)",
       "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "No ID",
+        "url": "https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 191088,
+      "name": "No ID",
+      "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/0HPiUXMvEXzVXNZGVXbeO9"
-      },
-      "artists": [
-        {
-          "name": "Brother Zulu",
-          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
-        }
-      ],
-      "duration_ms": 257020,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
-    },
-    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Overthinking",
@@ -1359,6 +1343,22 @@
       "duration_ms": 241799,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/0HPiUXMvEXzVXNZGVXbeO9"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "duration_ms": 257020,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
     },
     {
       "added_at": "2022-05-13 04:02:00",

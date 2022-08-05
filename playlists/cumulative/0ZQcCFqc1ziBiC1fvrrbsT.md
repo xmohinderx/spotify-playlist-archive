@@ -4,7 +4,7 @@
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-41 songs - 2 hr 44 min - not published yet
+41 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/2PFwrusnZaqXNrk7F1X46x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

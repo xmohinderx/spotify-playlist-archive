@@ -4,7 +4,7 @@
 
 > Calm and soothing strings to help you get a good night's rest.
 
-96 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
+97 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 |  |
 | [Nine Times around the Heart](https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 2:57 | 2022-01-06 |  |
 | [Nueva Palmira](https://open.spotify.com/track/0tIAcKnDwJCR1Miow9mqPM) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 1:28 | 2022-01-06 |  |
+| [Oak Shade](https://open.spotify.com/track/2K17IbJaE2A5XsB642I5LZ) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Oak Shade](https://open.spotify.com/album/6IKJo0CNMr8boHjgHc89Gt) | 3:08 | 2022-08-05 |  |
 | [Overjoyed](https://open.spotify.com/track/5r0aQbUBx9ACRNRk9fJBoc) | [Lucas & Marvin](https://open.spotify.com/artist/2IotGdcet3KtZlvrBjPKjv) | [Overjoyed](https://open.spotify.com/album/2oQWIsz5DGBM7vcQpll814) | 2:57 | 2022-07-22 |  |
 | [Placid Minds](https://open.spotify.com/track/62NuL99XSrl7IC1lEAAtKi) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Minds](https://open.spotify.com/album/0SGfPPdJ7Azwx3rSDv6Z1f) | 2:42 | 2022-01-06 |  |
 | [Polaris](https://open.spotify.com/track/3lMXwIrrQv8E1ZF9mcnV0l) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 3:10 | 2022-06-10 |  |

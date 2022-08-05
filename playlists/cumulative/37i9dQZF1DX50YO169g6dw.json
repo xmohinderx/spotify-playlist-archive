@@ -240,6 +240,24 @@
     },
     {
       "album": {
+        "name": "Don't Pray For Me",
+        "url": "https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211045,
+      "name": "Entertain You",
+      "url": "https://open.spotify.com/track/2TggWcaQqzZr6Lv80g1c61"
+    },
+    {
+      "album": {
         "name": "Entertain You",
         "url": "https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB"
       },

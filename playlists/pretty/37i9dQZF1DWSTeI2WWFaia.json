@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Killer Mike",
-  "num_followers": 621292,
+  "num_followers": 621499,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDAxYjM5ZTdlMmVmYzY5NzIwM2RjMzk2MDZhOTk3MjFm",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGMyN2YwMzFiYzQ0NjUyZmRlNTE0ZmYyOThmYjg3ZDUw",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -831,8 +831,8 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
-        "url": "https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr"
+        "name": "Aquamarine (feat. Michael Kiwanuka)",
+        "url": "https://open.spotify.com/album/23vLIrzxssJTHCTlzTtDmu"
       },
       "artists": [
         {
@@ -844,21 +844,13 @@
           "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
         },
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Dylan Cartlidge",
-          "url": "https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 281360,
-      "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
-      "url": "https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV"
+      "duration_ms": 238440,
+      "name": "Aquamarine (feat. Michael Kiwanuka)",
+      "url": "https://open.spotify.com/track/0aqR5bgmid39zzjuJofio7"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -987,8 +979,8 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Aquamarine (feat. Michael Kiwanuka)",
-        "url": "https://open.spotify.com/album/23vLIrzxssJTHCTlzTtDmu"
+        "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
+        "url": "https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr"
       },
       "artists": [
         {
@@ -1000,13 +992,21 @@
           "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
         },
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Dylan Cartlidge",
+          "url": "https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 238440,
-      "name": "Aquamarine (feat. Michael Kiwanuka)",
-      "url": "https://open.spotify.com/track/0aqR5bgmid39zzjuJofio7"
+      "duration_ms": 281360,
+      "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
+      "url": "https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV"
     }
   ],
   "unique_name": "Spilled Ink",

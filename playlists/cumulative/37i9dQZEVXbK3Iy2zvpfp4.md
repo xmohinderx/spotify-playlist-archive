@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-209 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/5YNobSqpJ71QdqLAH2udAx)
+210 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/5YNobSqpJ71QdqLAH2udAx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Costa Rica](https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Costa Rica](https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf) | 2:21 | 2022-07-06 | 2022-08-04 |
 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 | 2022-06-21 |  |
 | [Dead Inside](https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Dead Inside](https://open.spotify.com/album/5HwVMu4cxjViVqtg1wSYIN) | 2:04 | 2022-07-29 | 2022-07-31 |
-| [Destination](https://open.spotify.com/track/4QQyXwqvTF9oByQlSmWhCc) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [TRVNSPORTER](https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq) | [Destination](https://open.spotify.com/album/4WjXuV20O7EcvpjA5hAdqk) | 2:24 | 2022-07-29 |  |
+| [Destination](https://open.spotify.com/track/4QQyXwqvTF9oByQlSmWhCc) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [TRVNSPORTER](https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq) | [Destination](https://open.spotify.com/album/4WjXuV20O7EcvpjA5hAdqk) | 2:24 | 2022-07-29 | 2022-08-05 |
 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-06-11 | 2022-06-28 |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-06-09 | 2022-06-13 |
 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-07-19 |  |
@@ -73,7 +73,7 @@
 | [FCKBOI](https://open.spotify.com/track/2OBKWbdBdMbq7g4v4hu3nc) | [Slaytiiina](https://open.spotify.com/artist/4qFGmEv8VYKCZGZzxnU4sy), [Daniella Stylist](https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp) | [FCKBOI](https://open.spotify.com/album/7n2Z1ZTkG3nSDGCOWL3tph) | 3:28 | 2022-08-02 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-06-09 |  |
 | [Fiatal és őrült](https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 2:46 | 2022-06-30 | 2022-07-02 |
-| [Fire](https://open.spotify.com/track/7oQlFWAB0J1r4ws9psehWz) | [Zoningo](https://open.spotify.com/artist/66nW1tzpuDswdvnkgZeujL) | [Fire](https://open.spotify.com/album/37dWNC5FQdV8FJ3DARyLUp) | 2:29 | 2022-08-01 |  |
+| [Fire](https://open.spotify.com/track/7oQlFWAB0J1r4ws9psehWz) | [Zoningo](https://open.spotify.com/artist/66nW1tzpuDswdvnkgZeujL) | [Fire](https://open.spotify.com/album/37dWNC5FQdV8FJ3DARyLUp) | 2:29 | 2022-08-01 | 2022-08-05 |
 | [Fire To The Rain \(Hardstyle\)](https://open.spotify.com/track/7G8mB7F3gfOdDkQa9HOzJ9) | [sh1ro](https://open.spotify.com/artist/14gSFnbQpHwZ2PwdZqYmeL) | [Fire To The Rain \(Hardstyle\)](https://open.spotify.com/album/2Bdfm4YrVFi8MiZPtTHpqK) | 2:29 | 2022-06-27 | 2022-07-01 |
 | [fire to the rain \- Hardstyle](https://open.spotify.com/track/6rodVUgxWQqEWEQtu0vnCQ) | [Sikari](https://open.spotify.com/artist/1h7RSBFfI6PwUH5tU3m5uP) | [fire to the rain \(Hardstyle\)](https://open.spotify.com/album/4c5eNddZ1k1AuCIPgohzxO) | 2:29 | 2022-07-14 | 2022-07-16 |
 | [Fire To The Rain \- Hardstyle Remix](https://open.spotify.com/track/1bMyWnPs3EYdMhjohiwhuI) | [ANDONIS](https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP) | [Fire To The Rain Hardstyle](https://open.spotify.com/album/1OfGFziB9KySDlRMEMSF71) | 2:29 | 2022-06-10 | 2022-07-08 |
@@ -119,6 +119,7 @@
 | [Magnet](https://open.spotify.com/track/2XBOY1Ju1h7nVnuT597DAk) | [Nela Pocisková](https://open.spotify.com/artist/7AgHNWVPK1t79mGOUanRes), [Yael](https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz) | [Magnet](https://open.spotify.com/album/3VsyypN7e3i8Mjt3HLv88m) | 3:53 | 2022-07-31 | 2022-08-04 |
 | [Makeup](https://open.spotify.com/track/0F0wMiv8PfATkxC0YO5XqB) | [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [Chýbaš mi](https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv) | 2:27 | 2022-07-19 | 2022-08-01 |
 | [Malo Tebya](https://open.spotify.com/track/6DG4UNYc86nHIMYlsrpRrz) | [sykoman](https://open.spotify.com/artist/342GicfLWQXXutLBFWwJaa) | [Malo Tebya](https://open.spotify.com/album/52gQXIKjCUqVWYL3hbRVL4) | 2:44 | 2022-06-09 | 2022-06-15 |
+| [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-04 |  |
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-06 | 2022-07-27 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-06-14 | 2022-06-18 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-07-13 |  |
@@ -182,7 +183,7 @@
 | [Sexuálna](https://open.spotify.com/track/5tDBMJcg9I8Qr7GRadaZpJ) | [Daniella Stylist](https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp) | [Sexuálna](https://open.spotify.com/album/45E6EZY5CXPDhGLfvwMcW3) | 1:30 | 2022-06-28 |  |
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-26 |  |
 | [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 | 2022-08-02 |  |
-| [Show Me Your Back](https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Show Me Your Back](https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR) | 3:14 | 2022-07-31 | 2022-08-04 |
+| [Show Me Your Back](https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Show Me Your Back](https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR) | 3:14 | 2022-07-31 |  |
 | [Shut Up and Listen](https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc) | 4:03 | 2022-07-19 |  |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-06-27 | 2022-07-31 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 |  |

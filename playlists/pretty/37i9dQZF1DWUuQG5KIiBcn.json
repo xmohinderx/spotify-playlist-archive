@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 346622,
+  "num_followers": 346821,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTYwMjEyMCwwMDAwMDAwMDY3NzZmZTIzNjMyZjBiYTA0NTk1NWFkZmNlMWEzZTU3",
+  "snapshot_id": "MTY1MTYwMjEyMCwwMDAwMDAwMGFlY2YyNzY2MTZlNmI0OWEwYzg5MGY4YzlmMjc3NDM0",
   "tracks": [
     {
       "added_at": "2022-05-03 18:22:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "Sim\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+    },
+    {
+      "added_at": "2022-01-28 04:38:41",
+      "album": {
         "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
         "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
       },
@@ -775,34 +791,18 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd"
+        "name": "El Ramalazo",
+        "url": "https://open.spotify.com/album/1kllifC08UwQ9d0ZoI3gh4"
       },
       "artists": [
         {
-          "name": "Los Viejones De Linares",
-          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
         }
       ],
-      "duration_ms": 238887,
-      "name": "Corrido de los P\u00e9rez",
-      "url": "https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK"
-    },
-    {
-      "added_at": "2022-01-28 04:38:41",
-      "album": {
-        "name": "El Cartel de Los Cielos",
-        "url": "https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7"
+      "duration_ms": 175000,
+      "name": "Catarino y Los Rurales",
+      "url": "https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK"
     },
     {
       "added_at": "2022-01-28 04:38:41",
@@ -823,34 +823,34 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "De Coraz\u00f3n Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+        "name": "El Cartel de Los Cielos",
+        "url": "https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b"
       },
       "artists": [
         {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 254706,
-      "name": "Sim\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+      "duration_ms": 238266,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7"
     },
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "El Ramalazo",
-        "url": "https://open.spotify.com/album/1kllifC08UwQ9d0ZoI3gh4"
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd"
       },
       "artists": [
         {
-          "name": "El As De La Sierra",
-          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
+          "name": "Los Viejones De Linares",
+          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Catarino y Los Rurales",
-      "url": "https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK"
+      "duration_ms": 238887,
+      "name": "Corrido de los P\u00e9rez",
+      "url": "https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK"
     },
     {
       "added_at": "2022-01-28 04:38:41",

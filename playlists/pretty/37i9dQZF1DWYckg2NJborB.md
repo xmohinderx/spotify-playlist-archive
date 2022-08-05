@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,798 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,802 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 26 | [Who Wrote Holden Caulfield?](https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:42 |
 | 27 | [Wrapped Up In Books](https://open.spotify.com/track/14TIka80BMTELhMHk1sIdH) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:34 |
 | 28 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
-| 29 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 |
-| 30 | [Haunted](https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS) | [Poe](https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD) | [Haunted](https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA) | 5:20 |
+| 29 | [Haunted](https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS) | [Poe](https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD) | [Haunted](https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA) | 5:20 |
+| 30 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 |
 | 31 | [Richard Cory](https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:55 |
 | 32 | [Open Book](https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:44 |
 | 33 | [Prince Caspian](https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Billy Breathes](https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 49 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
 | 50 | [The Underwood Typewriter](https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End of History](https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b) | 3:01 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDU5NmFlMDk4YWE2N2VjYTlhNDM1YTU1NTczYTc5MmFk`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGU3YjliNDM4NGVlYjYxZmE4YjJmMTkwODMxYmIyNWRj`

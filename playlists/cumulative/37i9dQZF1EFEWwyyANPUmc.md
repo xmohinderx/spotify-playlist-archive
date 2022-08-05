@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-50 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/04Px2zRqzuKCARA4eLARbp)
+51 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/04Px2zRqzuKCARA4eLARbp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Singshower \(feat\. Emy Perez\)](https://open.spotify.com/track/2w4YqVJNKAm2PpDLkxK0Zo) | [Promise Land](https://open.spotify.com/artist/0ktujbOLx1L1K8wj8o8dpJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Singshower \(feat\. Emy Perez\)](https://open.spotify.com/album/5w6nwff1JtZJZRMMf9W2NX) | 2:53 | 2022-06-04 |  |
 | [Slow Motion \(feat\. Emy Perez\)](https://open.spotify.com/track/7tHB3Fd9rEOjinXVtU7OBH) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Slow Motion \(feat\. Emy Perez\)](https://open.spotify.com/album/2NaOWLlq2QIQ8GFDDS8erp) | 3:46 | 2022-06-04 |  |
 | [Smoke Up \(feat\. Emy Perez\)](https://open.spotify.com/track/3HC344e1WcJIdIVKXsMsgV) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Smoke Up \(feat\. Emy Perez\)](https://open.spotify.com/album/4SW9pEnVgQBBEeAnUBW8kV) | 2:30 | 2022-06-04 |  |
+| [Solo](https://open.spotify.com/track/7BnARJhzGKD89USQRKGtbU) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Solo](https://open.spotify.com/album/45joQYljjWbtQHKYgoFoQz) | 3:33 | 2022-08-04 |  |
 | [Solo Tu](https://open.spotify.com/track/2etmwQR7SFXqZRteCNkxgQ) | [Rouge](https://open.spotify.com/artist/7oCPozHYsiILeiQlma8EEj) | [Les 5inq](https://open.spotify.com/album/1UliRcbHEglMIQmsRnlspu) | 3:05 | 2022-06-04 |  |
 | [Ta Gucci](https://open.spotify.com/track/4yGZdI0NOegjWw2etshYex) | [Golddiggers](https://open.spotify.com/artist/5XOZGfeMFqgizyqfaUt4t1), [Matsoe Matsoe](https://open.spotify.com/artist/6C8e75Sp96VE2cyEno7pKG), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Ta Gucci](https://open.spotify.com/album/4F1v8CEh2gq2HEWoT8ZMmB) | 2:26 | 2022-06-04 |  |
 | [That Saturday](https://open.spotify.com/track/0Teldg9fHAmWVIAAWkrnvd) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [That Saturday](https://open.spotify.com/album/25aseBclBRyfOuUfiazxUO) | 2:55 | 2022-06-04 |  |

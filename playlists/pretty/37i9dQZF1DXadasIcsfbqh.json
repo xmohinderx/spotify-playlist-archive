@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Ingrid Andress",
-  "num_followers": 96851,
+  "num_followers": 96983,
   "original_name": "PopCo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMyNjQwMCwwMDAwMDAwMDFlYjhiYTU0YTY2NDA5YjA4NTliMDlmYzk3ZTgwNGYz",
+  "snapshot_id": "MTY1OTMyNjQwMCwwMDAwMDAwMGJlMGRlYWNmNmM4MjE3YWNjYjM0Y2ExZDdhODY0OWJk",
   "tracks": [
     {
       "added_at": "2022-08-01 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-08-01 04:00:00",
       "album": {
-        "name": "Home Sweet",
-        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Home Sweet",
-      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
-    },
-    {
-      "added_at": "2022-08-01 04:00:00",
-      "album": {
         "name": "The Otherside",
         "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 195515,
       "name": "Till There's Nothing Left",
       "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
+    },
+    {
+      "added_at": "2022-08-01 04:00:00",
+      "album": {
+        "name": "Home Sweet",
+        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Home Sweet",
+      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
     },
     {
       "added_at": "2022-08-01 04:00:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2022-08-01 04:00:00",
       "album": {
+        "name": "these words are all for you too",
+        "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        },
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 266219,
+      "name": "london",
+      "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
+    },
+    {
+      "added_at": "2022-08-01 04:00:00",
+      "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 150909,
       "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
       "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
-    },
-    {
-      "added_at": "2022-08-01 04:00:00",
-      "album": {
-        "name": "these words are all for you too",
-        "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        },
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 266219,
-      "name": "london",
-      "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
     },
     {
       "added_at": "2022-08-01 04:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-08-01 04:00:00",
       "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh"
+    },
+    {
+      "added_at": "2022-08-01 04:00:00",
+      "album": {
         "name": "Elephant in the Room (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 163672,
       "name": "Elephant in the Room (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1"
-    },
-    {
-      "added_at": "2022-08-01 04:00:00",
-      "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh"
     },
     {
       "added_at": "2022-08-01 04:00:00",

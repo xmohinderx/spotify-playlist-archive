@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "De playlist voor magic, motion en summer vibes! Cover: Bokoesam",
+  "description": "De playlist voor magic, motion en summer vibes! Cover: Boef, Numidia, Cristian D en Diquenza",
   "name": "La Vida Loca",
   "published_playlist_ids": [
     "5EIhsbDAXsYMVcvdmXGuEa"
@@ -207,6 +207,24 @@
       "duration_ms": 201247,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O"
+    },
+    {
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/1vM0vdOXbAQ6oQYEBRY67X"
+      },
+      "artists": [
+        {
+          "name": "Figo Gang",
+          "url": "https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/6sztDtvxlfdXsf6Wjv18Na"
     },
     {
       "album": {
@@ -439,6 +457,40 @@
       "duration_ms": 124794,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/4NG1Iq0rtf3smj5DEtOzDs"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/1z0AKJhbx7jiVu0SlsyMhW"
+      },
+      "artists": [
+        {
+          "name": "Rotjoch",
+          "url": "https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209122,
+      "name": "Dancehall Sound",
+      "url": "https://open.spotify.com/track/4NTPkxpdD5UxMSZM8eTI7d"
     },
     {
       "album": {
@@ -1307,7 +1359,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 181084,
       "name": "LOS VAN",
       "url": "https://open.spotify.com/track/2XJevn22zKX4GVXkVK7mrX"
@@ -2443,6 +2495,28 @@
       "duration_ms": 179907,
       "name": "Zet Het",
       "url": "https://open.spotify.com/track/4pTZ8gF1xuGObYn96WXK1a"
+    },
+    {
+      "album": {
+        "name": "Zet Je Goed",
+        "url": "https://open.spotify.com/album/5j7eL60BT8KMN8TyAuRhBh"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Zet Je Goed",
+      "url": "https://open.spotify.com/track/2KEZIZyGqQPWGwy3Smg4ax"
     },
     {
       "album": {

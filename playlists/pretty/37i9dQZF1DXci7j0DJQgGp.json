@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1801499,
+  "num_followers": 1801539,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2NTgxMiwwMDAwMDAwMDFkMTc2YjNkMWZjM2QyZGM5NWNjYzdkMGRkN2MyODYz",
+  "snapshot_id": "MTY1OTM2NTgxMiwwMDAwMDAwMGJlMDYyODBiOTg3NzAxOWI5Njk5ZTU3N2FmYjYzNjE2",
   "tracks": [
     {
       "added_at": "2022-08-01 14:56:52",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 159600,
       "name": "Making All Things New",
       "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -427,22 +427,22 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Summer's Over",
-        "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
       "artists": [
         {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         },
         {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Summer's Over",
-      "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -459,6 +459,26 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Summer's Over",
+        "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Summer's Over",
+      "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -487,26 +507,6 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 157801,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "Pretty Pictures",
-      "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "Pretty Pictures",
+      "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "Santa Barbara",
         "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 194026,
       "name": "Santa Barbara",
       "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2022-08-01 14:56:52",

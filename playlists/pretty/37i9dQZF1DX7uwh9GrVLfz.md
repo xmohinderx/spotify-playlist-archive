@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: 板歯目\(Banshimoku\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,058 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,099 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 71 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
 | 72 | [Thanks](https://open.spotify.com/track/6AAJi0tGZxjbLKK2fIuZkU) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 2:48 |
 | 73 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 |
-| 74 | [PUSH YOUR SELF](https://open.spotify.com/track/0dOx1jLGYsUeozJzQKKgxP) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [PUSH YOUR SELF](https://open.spotify.com/album/5mUoEHZYJ5ttD2tjjqkG50) | 2:58 |
-| 75 | [大切なもの](https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 3:10 |
+| 74 | [大切なもの](https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 3:10 |
+| 75 | [PUSH YOUR SELF](https://open.spotify.com/track/0dOx1jLGYsUeozJzQKKgxP) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [PUSH YOUR SELF](https://open.spotify.com/album/5mUoEHZYJ5ttD2tjjqkG50) | 2:58 |
 | 76 | [アオ](https://open.spotify.com/track/2XcpaIgYulHpwEESRX8L70) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [アオ](https://open.spotify.com/album/12LkKpoe7EkrIZhiZqHNb1) | 3:44 |
 | 77 | [FAR EAST DISCO](https://open.spotify.com/track/7nzAb5aXJKYAIbLwpXIenx) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [BURST POP ISLAND](https://open.spotify.com/album/3iwkOy5OBbRrPllfeD0kYV) | 3:41 |
 | 78 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 |
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 83 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 | 84 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 |
 | 85 | [Montage](https://open.spotify.com/track/2hpSNLEJiIGSq225w85rqN) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Montage](https://open.spotify.com/album/0okyj8gFm6i5FQ8Dv8MCC0) | 3:10 |
-| 86 | [Farley](https://open.spotify.com/track/0dB07HuKQLWljnWFXkGAyM) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [The Awakening](https://open.spotify.com/album/48i9AxpSUaDGw2OJQTXmjR) | 2:58 |
-| 87 | [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 |
+| 86 | [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 |
+| 87 | [Farley](https://open.spotify.com/track/0dB07HuKQLWljnWFXkGAyM) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [The Awakening](https://open.spotify.com/album/48i9AxpSUaDGw2OJQTXmjR) | 2:58 |
 | 88 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 |
 | 89 | [心の旅](https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 3:27 |
-| 90 | [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 |
-| 91 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 |
-| 92 | [None Of Your Business](https://open.spotify.com/track/4DI9gLWCpVKhQkGTRzmYmu) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [SPECIES](https://open.spotify.com/album/7CQlJXuU0JXXbolokiPLVK) | 3:56 |
+| 90 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 |
+| 91 | [None Of Your Business](https://open.spotify.com/track/4DI9gLWCpVKhQkGTRzmYmu) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [SPECIES](https://open.spotify.com/album/7CQlJXuU0JXXbolokiPLVK) | 3:56 |
+| 92 | [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 |
 | 93 | [Whistle](https://open.spotify.com/track/5EJlRKWkHK2MrXQYiTcJl2) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAtegory](https://open.spotify.com/album/3hoGg8akRjWHeU1fpI3byQ) | 2:30 |
 | 94 | [極彩色の夜へ\(Remastered\)](https://open.spotify.com/track/5RXTd9C3TYxXSaFAA73slU) | [climbgrow](https://open.spotify.com/artist/1VbfBuY3YBwQ5431bDLBD7) | [EL\-RODAR\(Selected Edition\)](https://open.spotify.com/album/4q3Sp4FtxrZ8c2s3kBsxEV) | 5:15 |
 | 95 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [Monster](https://open.spotify.com/track/0QtJSgoQYAtBzwCMKVC5Ru) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [MONSTER STREET](https://open.spotify.com/album/0QGswv6J6zbymBzgkbMR8z) | 2:47 |
 | 100 | [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 |
 
-Snapshot ID: `MTY1OTQ1NTI0NywwMDAwMDAwMDIxMWQwNTFmYjc5ZjYxZjI2OTIwZmZlYzJiZGJhYmYy`
+Snapshot ID: `MTY1OTQ1NTI0NywwMDAwMDAwMGY2NDMzYTA1Zjk1MzZiMjA1YjI4NGI3ZWQ0YTk4YzI0`

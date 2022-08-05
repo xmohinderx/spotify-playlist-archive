@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 
 > Start your day with these beautiful scores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,543 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,553 likes - 73 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 72 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
 | 73 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGFhNTlkMjYzZDAwMzQ2ZGJiODczNmY4ZmZlYjk2YjYw`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDFjOTEyNGVjZDBhOGZmY2M1MzAyNjM1ZTA1YmFiM2U3`

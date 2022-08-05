@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,993 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,060 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 25 | [Tu Presencia](https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:41 |
 | 26 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
 | 27 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
-| 28 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
-| 29 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
+| 28 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
+| 29 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
 | 30 | [Sentimento Original](https://open.spotify.com/track/221XD85dLV8jiMyrEz1JBQ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 4:50 |
 | 31 | [Cuando Pienso en Ti](https://open.spotify.com/track/0ikGQ95Lg2PVIasuhnzqkb) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/2zU5UlskfUY62O4i38aU3b) | 5:19 |
 | 32 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [Distancia y Ficción](https://open.spotify.com/track/6YZFu1qIZA9o8ryEeoCVpl) | [Tarará](https://open.spotify.com/artist/3pOCFYJe0tWqFlX7XqF4cn) | [Distancia y Ficción](https://open.spotify.com/album/3dpycFGnz2H4v4CGOHs1kO) | 2:15 |
 | 60 | [Llegaste a Mí](https://open.spotify.com/track/6wiG6K6xHQd8Nj9CPblg2V) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/2qj7avJ1IwhmIXZQkj0Ro4) | 3:50 |
 
-Snapshot ID: `MTY0NTU1MDUyMywwMDAwMDAwMGY1YjM0YmUzYTM3MGJiM2JjZjE4ZTA0ZTQ1YmRiMmVi`
+Snapshot ID: `MTY0NTU1MDUyMywwMDAwMDAwMDM5Y2FhNzM1NjVjZGU1ZTNmNjQ4OTkwYTBjMTc5ZTA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,323 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,504 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 13 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 |
 | 14 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
 | 15 | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8) | 3:28 |
-| 16 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 |
-| 17 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
+| 16 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
+| 17 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 |
 | 18 | [SOS \(feat\. Aloe Blacc\)](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 2:37 |
 | 19 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 |
 | 20 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Split \(Only U\)](https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Split \(Only U\)](https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd) | 4:16 |
 | 50 | [Cali Dreams \(feat\. The Beach\)](https://open.spotify.com/track/4S5uBAB6Jl4IsMzwBpt2Rf) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Cali Dreams \(feat\. The Beach\)](https://open.spotify.com/album/3Naa1Xkn2NqzQ9ER1X6lTc) | 3:41 |
 
-Snapshot ID: `MTY1OTAyNTAzNywwMDAwMDAwMDAwZDIzNjM5ODBlNTA1ZTI5MDhmNjdiODI3ZDQ1ZTBm`
+Snapshot ID: `MTY1OTYzMDM5NSwwMDAwMDAwMDE2YmI5ODI5MGJmZTlkNzk1YmExNTkxYTBmNmQyYjkx`

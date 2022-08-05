@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,573 songs - 4 day 9 hr 44 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,574 songs - 4 day 9 hr 48 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,7 +1094,8 @@
 | [Oghneya](https://open.spotify.com/track/67DGkXsHii9VTV2NAQiX10) | [Ferkat Al Ard](https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW) | [Oghneya \(Habibi Funk 019\)](https://open.spotify.com/album/6QBVtB2OYklJWLNBkgcaXe) | 6:33 | 2022-07-12 |  |
 | [Oh My Baby Josephine](https://open.spotify.com/track/4F1hJsntQmjOHG0kEOkyBG) | [Bola Johnson](https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1) | [Man No Die](https://open.spotify.com/album/0oQKeXlY2O4QAP83DUn2n5) | 2:40 | 2022-06-09 |  |
 | [Oh Yeh Soweto](https://open.spotify.com/track/0RpKLsQrA9q54nrTT9d0uL) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [Mr Bongo Record Club Volume 2](https://open.spotify.com/album/0svTEhVMXKLKWc4I9OxPBP) | 4:09 | 2022-06-09 | 2022-08-02 |
-| [Oh Yeh Soweto](https://open.spotify.com/track/4QgyiSUwP6WRpW6BywcJWg) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [30 Years of Mr\. Bongo \(Compiled by Mr\. Bongo\)](https://open.spotify.com/album/2H8TkJujErvi0V4ZT8cWyg) | 4:09 | 2022-07-27 |  |
+| [Oh Yeh Soweto](https://open.spotify.com/track/4QgyiSUwP6WRpW6BywcJWg) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [30 Years of Mr\. Bongo \(Compiled by Mr\. Bongo\)](https://open.spotify.com/album/2H8TkJujErvi0V4ZT8cWyg) | 4:09 | 2022-07-27 | 2022-08-05 |
+| [Oh Yeh Soweto](https://open.spotify.com/track/62PQBJn14c9Um19YDFfU2j) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:09 | 2022-07-27 |  |
 | [Oio Gere](https://open.spotify.com/track/2CQp439h8vOavmbTuhYyf0) | [Watusi](https://open.spotify.com/artist/5Reml6b45O2ezLvz5sxBpB) | [Black Rio Vol\. 2 \- Original Samba Soul 1968\-1981](https://open.spotify.com/album/6t2aQgTIcih5i58miYYbjH) | 1:55 | 2022-06-09 | 2022-07-29 |
 | [Oio Gere](https://open.spotify.com/track/74b5k5flvaD7JZ7FI3J2sk) | [Watusi](https://open.spotify.com/artist/5Reml6b45O2ezLvz5sxBpB) | [Black Rio Vol\. 2 \- Original Samba Soul 1968\-1981](https://open.spotify.com/album/2W0iQime31zHGitupZJ5ii) | 1:55 | 2022-07-27 |  |
 | [Okwukwe Na Nchekwube](https://open.spotify.com/track/1XB77AcdVrAaNN2VQrmGy3) | [Celestine Ukwu & His Philosophers National](https://open.spotify.com/artist/4YYhVBJV1DG5yhNmX9rUFf) | [Okwukwe Na Nchekwube](https://open.spotify.com/album/4Ds5fMWVRmYI1gODRrFMdu) | 6:10 | 2022-07-12 |  |

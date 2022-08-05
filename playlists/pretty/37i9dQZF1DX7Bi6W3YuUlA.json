@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 1995,
+  "num_followers": 2006,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDNkYzI1MjhiMTExNDhkMzFkMDgwMjUxYmVmYTdmOWJk",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDEyOTBmZmIxMGM2MmYzYTEwYzkzMzU1N2U3OWI3ODFi",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "NO GOOD",
-        "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 177530,
-      "name": "NO GOOD",
-      "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "HOLY SMOKE!",
         "url": "https://open.spotify.com/album/6C05PIU1wMUQzudzjqjU5O"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 196250,
       "name": "HOLY SMOKE!",
       "url": "https://open.spotify.com/track/0nOFQTgf87Hf9TDFPJsm62"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "NO GOOD",
+        "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 177530,
+      "name": "NO GOOD",
+      "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "97",
-        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Not for Sale",
         "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 165789,
       "name": "MAKE IT MAKE SENSE",
       "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "97",
+        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Genes",
-        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 134399,
-      "name": "Genes",
-      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Hit the Refresh",
         "url": "https://open.spotify.com/album/0l5NTBFkeI8tizJsiD9nQW"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 275121,
       "name": "Hit the Refresh",
       "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Genes",
+        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 134399,
+      "name": "Genes",
+      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Dreamworld",
-        "url": "https://open.spotify.com/album/3l8TtWvoyuuOSSyk7QNNVo"
-      },
-      "artists": [
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        },
-        {
-          "name": "Matthew Parker",
-          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Dreamworld",
-      "url": "https://open.spotify.com/track/33zUvNgfOVKXAVoclCrKhq"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "A Beautiful Revolution (Pt 1)",
         "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 173226,
       "name": "Don\u2019t Forget Who You Are",
       "url": "https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Dreamworld",
+        "url": "https://open.spotify.com/album/3l8TtWvoyuuOSSyk7QNNVo"
+      },
+      "artists": [
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        },
+        {
+          "name": "Matthew Parker",
+          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Dreamworld",
+      "url": "https://open.spotify.com/track/33zUvNgfOVKXAVoclCrKhq"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1731,18 +1731,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Tru Talk Tony, Vol. 1",
-        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
+        "name": "Be Gone (feat. Mike Teezy)",
+        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
       },
       "artists": [
         {
           "name": "Mission",
           "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Can't Lose",
-      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
+      "duration_ms": 176076,
+      "name": "Be Gone (feat. Mike Teezy)",
+      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1847,22 +1851,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Be Gone (feat. Mike Teezy)",
-        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
+        "name": "Tru Talk Tony, Vol. 1",
+        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
       },
       "artists": [
         {
           "name": "Mission",
           "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 176076,
-      "name": "Be Gone (feat. Mike Teezy)",
-      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
+      "duration_ms": 192000,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
     },
     {
       "added_at": "2022-05-28 19:29:54",

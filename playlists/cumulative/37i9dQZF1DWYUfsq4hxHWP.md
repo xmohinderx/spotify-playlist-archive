@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Anna Vaus, Artwork: Fanélie Muselier
 
-737 songs - 1 day 16 hr 17 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+738 songs - 1 day 16 hr 20 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Don't Wanna Miss It](https://open.spotify.com/track/72vJ0DORJrow7scSUStlBL) | [Caleb Lovely](https://open.spotify.com/artist/588OniOrJFEKU5hWUDJ6V7) | [Don't Wanna Miss It](https://open.spotify.com/album/0CV2YHbbaMZ5xDedZDxnGF) | 2:39 | 2022-02-16 | 2022-03-17 |
 | [Dotted Line](https://open.spotify.com/track/3i3H5fh7Y4uYamL0UkbBmB) | [Will Overman](https://open.spotify.com/artist/1M5GFR2V1c6WL2CgbnW3FB) | [Dotted Line](https://open.spotify.com/album/5f7iCIUNwk28fh1CI6ZzWE) | 2:49 | 2022-06-08 | 2022-07-21 |
 | [Down](https://open.spotify.com/track/5QkWklPqK0z7iBpPlH6SAB) | [Adam McClelland](https://open.spotify.com/artist/73QCOdOkZpER5hEUk122yt) | [Down](https://open.spotify.com/album/13ckdYllfPiIzoHrboyqDx) | 2:54 | 2022-02-16 | 2022-03-31 |
+| [Down The Road](https://open.spotify.com/track/5b0ExuyvMdoPGkfJuIaTxr) | [Southerland](https://open.spotify.com/artist/5Fft88xB3YSwSWzdS42xyf) | [Down The Road](https://open.spotify.com/album/2ma4s3SmKNRxUQV4iZ24nz) | 3:25 | 2022-08-04 |  |
 | [Down Tonight](https://open.spotify.com/track/6zNiyqltUE1Zy08L4Ulkcj) | [Landon Magee](https://open.spotify.com/artist/7sFyLNeznJc2OnPNmYzO9i) | [Down Tonight](https://open.spotify.com/album/4DPMEpFnORgXEUQiXQEjoS) | 3:14 | 2022-01-12 | 2022-02-24 |
 | [Dream Along With Me](https://open.spotify.com/track/25ISHyOmDWidDamNOiJdKb) | [Aaron Lacombe](https://open.spotify.com/artist/09a0sQCHUV7gL1jqAdvfwA) | [Dream Along With Me](https://open.spotify.com/album/4FiGaAekRz2ku7YT7ThW5p) | 4:43 | 2022-07-20 |  |
 | [Dream Girl](https://open.spotify.com/track/2J1RaHhNhMGovUdGd13epH) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Dream Girl](https://open.spotify.com/album/1F77V5Vsbdxvsxp5GULC6K) | 3:28 | 2022-03-09 | 2022-04-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 57383,
+  "num_followers": 57405,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDBiZTk1YWQxNTEyMjQ5YWQzNzAzYmJhYThjNTFhMTVm",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGMxYWI1ODQ1NzA0ZmY5OGFhZWIyOGQ5ZDVlMWRiYmJm",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -771,8 +771,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Songs",
-        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
+        "name": "Verdi: Overtures, Vol. 1",
+        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
       },
       "artists": [
         {
@@ -780,49 +780,17 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Dennis O'Neill",
-          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
         },
         {
-          "name": "Ingrid Surgenor",
-          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
         }
       ],
-      "duration_ms": 174466,
-      "name": "6 Romanze (1838) (text by J. Vittorelli, T. Bianchi, and C. Angiolini): No. 2. More, Elisa, lo stanco poeta",
-      "url": "https://open.spotify.com/track/1UEyvEkOcg5g1Yre4gVqAY"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Pavarotti Sings Verdi",
-        "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Philharmonia Chorus",
-          "url": "https://open.spotify.com/artist/4bXvXL4mlRJP41vVBeVkrp"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 822706,
-      "name": "Hymn of the Nations (Inno delle nazione)",
-      "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
+      "duration_ms": 515426,
+      "name": "I vespri siciliani*: Sinfonia",
+      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -871,8 +839,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Overtures, Vol. 1",
-        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
+        "name": "Pavarotti Sings Verdi",
+        "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
       },
       "artists": [
         {
@@ -880,17 +848,49 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Hungarian State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
         },
         {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+          "name": "Philharmonia Chorus",
+          "url": "https://open.spotify.com/artist/4bXvXL4mlRJP41vVBeVkrp"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
         }
       ],
-      "duration_ms": 515426,
-      "name": "I vespri siciliani*: Sinfonia",
-      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
+      "duration_ms": 822706,
+      "name": "Hymn of the Nations (Inno delle nazione)",
+      "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Songs",
+        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dennis O'Neill",
+          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
+        },
+        {
+          "name": "Ingrid Surgenor",
+          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "6 Romanze (1838) (text by J. Vittorelli, T. Bianchi, and C. Angiolini): No. 2. More, Elisa, lo stanco poeta",
+      "url": "https://open.spotify.com/track/1UEyvEkOcg5g1Yre4gVqAY"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -963,6 +963,38 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Otello",
+        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Oviedo Filarmon\u00eda",
+          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
+        },
+        {
+          "name": "Orfeon Donostiarra",
+          "url": "https://open.spotify.com/artist/4WQkQFoq0dSZYZP0pl8xnu"
+        },
+        {
+          "name": "Los Peques del Le\u00f3n de Oro",
+          "url": "https://open.spotify.com/artist/2Ey84GB4Yndh0XtTKdjzFo"
+        },
+        {
+          "name": "Friedrich Haider",
+          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
+        }
+      ],
+      "duration_ms": 157680,
+      "name": "Otello, Act I: Act I: Fuoco di gioia! (Chorus)",
+      "url": "https://open.spotify.com/track/6njnyMvYPW22DslQGDxLh2"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -1007,8 +1039,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Otello",
-        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
       },
       "artists": [
         {
@@ -1016,25 +1048,21 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Oviedo Filarmon\u00eda",
-          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
+          "name": "Piero Cappuccilli",
+          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
         },
         {
-          "name": "Orfeon Donostiarra",
-          "url": "https://open.spotify.com/artist/4WQkQFoq0dSZYZP0pl8xnu"
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
         },
         {
-          "name": "Los Peques del Le\u00f3n de Oro",
-          "url": "https://open.spotify.com/artist/2Ey84GB4Yndh0XtTKdjzFo"
-        },
-        {
-          "name": "Friedrich Haider",
-          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
         }
       ],
-      "duration_ms": 157680,
-      "name": "Otello, Act I: Act I: Fuoco di gioia! (Chorus)",
-      "url": "https://open.spotify.com/track/6njnyMvYPW22DslQGDxLh2"
+      "duration_ms": 180400,
+      "name": "Nabucco / Act 4: Dio di Giuda!",
+      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1075,8 +1103,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
+        "name": "Kiri - A Portrait",
+        "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
       },
       "artists": [
         {
@@ -1084,21 +1112,25 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Piero Cappuccilli",
-          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
         },
         {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+          "name": "Alfredo Kraus",
+          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
         },
         {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Nabucco / Act 4: Dio di Giuda!",
-      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
+      "duration_ms": 277640,
+      "name": "La traviata / Act 1: \"Follie! Delirio vano \u00e8 questo!\" - \"Sempre libera\"",
+      "url": "https://open.spotify.com/track/1sHxx6JFlwNEZqQl55eOOI"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1163,38 +1195,6 @@
       "duration_ms": 146520,
       "name": "Il trovatore: Act I: Di tale amor che dirsi",
       "url": "https://open.spotify.com/track/7v5UuWX5bVomJtrKs7eHul"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Kiri - A Portrait",
-        "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Kiri Te Kanawa",
-          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
-        },
-        {
-          "name": "Alfredo Kraus",
-          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        },
-        {
-          "name": "Zubin Mehta",
-          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
-        }
-      ],
-      "duration_ms": 277640,
-      "name": "La traviata / Act 1: \"Follie! Delirio vano \u00e8 questo!\" - \"Sempre libera\"",
-      "url": "https://open.spotify.com/track/1sHxx6JFlwNEZqQl55eOOI"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1551,6 +1551,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Songs",
+        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dennis O'Neill",
+          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
+        },
+        {
+          "name": "Ingrid Surgenor",
+          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "La seduzione",
+      "url": "https://open.spotify.com/track/13auykVUzc7TQ8BQFTXL2h"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Falstaff",
         "url": "https://open.spotify.com/album/4K5lWjsxpWXDc4hJxKq99W"
       },
@@ -1615,30 +1639,6 @@
       "duration_ms": 378466,
       "name": "Falstaff: Act I: Falstaff! Ola!",
       "url": "https://open.spotify.com/track/7zqdo14MviMiezMKJI9fVW"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Songs",
-        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Dennis O'Neill",
-          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
-        },
-        {
-          "name": "Ingrid Surgenor",
-          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "La seduzione",
-      "url": "https://open.spotify.com/track/13auykVUzc7TQ8BQFTXL2h"
     },
     {
       "added_at": "2022-06-27 14:42:44",

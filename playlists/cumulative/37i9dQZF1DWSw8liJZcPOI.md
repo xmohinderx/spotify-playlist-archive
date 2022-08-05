@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-387 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
+388 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Enjoy the Light \- Piano and String Quintet](https://open.spotify.com/track/6ldwAO48sOkBHgYystAuaf) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Slow is \[Piano and String Quintet\]](https://open.spotify.com/album/3qBIeKp6lQ4ZeoFXqPpd4D) | 4:18 | 2021-01-25 | 2022-04-19 |
 | [Enough](https://open.spotify.com/track/0sY2m9IXMNzsSH4hygKX2S) | [Heavy Joy](https://open.spotify.com/artist/1wePsEhvYwt61C6B4OryZ7) | [Sketches](https://open.spotify.com/album/3dVKfv3fNcsBUnyhapuXBj) | 2:37 | 2020-10-21 | 2022-07-23 |
 | [Entering](https://open.spotify.com/track/5Gvgr1O5vJFM0pG9VMZF7N) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7), [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Entering](https://open.spotify.com/album/2CrnxM71QY8LE7tYdMAmjE) | 1:30 | 2020-10-20\* | 2022-07-26 |
-| [Epilogue](https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Nomadland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq) | 4:06 | 2021-02-19 |  |
+| [Epilogue](https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Nomadland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq) | 4:06 | 2021-02-19 | 2022-08-05 |
 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ) | 4:27 | 2022-07-22 | 2022-08-04 |
 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/6MpiBJNEoqRTLVapGwvgSc) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/69jp6YlrX8mxw26mbOuOpu) | 4:27 | 2020-10-21 | 2022-04-26 |
 | [Etude](https://open.spotify.com/track/26I8Se3pMUKf56A2NAL9va) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 4:35 | 2021-02-06 | 2021-02-12 |
@@ -222,6 +222,7 @@
 | [Molasses](https://open.spotify.com/track/3V4I8dG0X81BQVycsZsrBd) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [White Mountain](https://open.spotify.com/album/5wU8rScffTeWlTfpuqwzmt) | 4:02 | 2020-12-04 | 2020-12-11 |
 | [Movement III](https://open.spotify.com/track/5bhyfJwYqZwPln36On0xty) | [William Ryan Fritch](https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl) | [Movement III](https://open.spotify.com/album/6Nu0gyayKb1HjtQsEwmDWQ) | 3:29 | 2020-11-13 | 2021-01-15 |
 | [Movement Three](https://open.spotify.com/track/1KumVKho3oL0uRIKLvLtvu) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Slow Movements](https://open.spotify.com/album/1LNKPZxgIyoiFy92HgCR60) | 5:49 | 2022-05-27 | 2022-07-22 |
+| [Muku](https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Muku](https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv) | 3:14 | 2022-07-29 |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-10 |  |
 | [My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Tripping with Nils Frahm](https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh) | 6:08 | 2020-12-11 |  |
 | [Mysterium](https://open.spotify.com/track/1Amfem1pgzl4z4EaqfbEvy) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Mysterium](https://open.spotify.com/album/60ZDlhqRCpVmodBF528Qvr) | 7:11 | 2021-02-24 | 2022-04-19 |

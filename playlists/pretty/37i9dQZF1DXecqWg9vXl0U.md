@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Cuco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,204 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,218 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 41 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
 | 42 | [Colores cromáticos](https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Colores cromáticos](https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed) | 4:15 |
 | 43 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 |
-| 44 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 |
-| 45 | [Dulce Amargo](https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:27 |
-| 46 | [Locura Por Ti](https://open.spotify.com/track/4JfE73XGKx0IRpP56sEVzt) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Wild Idea](https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU) | 3:57 |
+| 44 | [Locura Por Ti](https://open.spotify.com/track/4JfE73XGKx0IRpP56sEVzt) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Wild Idea](https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU) | 3:57 |
+| 45 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 |
+| 46 | [Dulce Amargo](https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:27 |
 | 47 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
 | 48 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 |
 | 49 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
@@ -62,21 +62,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 52 | [Gardenia Dreams](https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:02 |
 | 53 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 |
 | 54 | [Amor Como Puñal](https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Amor Como Puñal](https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf) | 3:01 |
-| 55 | [Never Felt This Before](https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Never Felt This Before](https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX) | 1:50 |
-| 56 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 |
-| 57 | [Café](https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Café](https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g) | 3:13 |
+| 55 | [Café](https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Café](https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g) | 3:13 |
+| 56 | [Never Felt This Before](https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Never Felt This Before](https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX) | 1:50 |
+| 57 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 |
 | 58 | [Escondida](https://open.spotify.com/track/2GcRx1c4uCLhuFsjM7fBNY) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Escondida](https://open.spotify.com/album/1SojZjLoZRpRDHWO9Y9ZLJ) | 2:55 |
 | 59 | [Mirando](https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mirando](https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0) | 3:37 |
 | 60 | [Espacio Pequeño](https://open.spotify.com/track/0A0zDB4nPLy6HyfX4yix3J) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Espacio Pequeño](https://open.spotify.com/album/2heNAEQnKqh1K7ITQqcgbx) | 4:46 |
-| 61 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
-| 62 | [SIN DISFRAZ](https://open.spotify.com/track/4Mtqamm7J5n56aUdDDnI4X) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SIN DISFRAZ](https://open.spotify.com/album/5wSk9XLTcNDxAEgFFVaZbC) | 2:35 |
-| 63 | [Mr\. Baby](https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mr\. Baby](https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW) | 3:08 |
+| 61 | [Mr\. Baby](https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mr\. Baby](https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW) | 3:08 |
+| 62 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
+| 63 | [SIN DISFRAZ](https://open.spotify.com/track/4Mtqamm7J5n56aUdDDnI4X) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SIN DISFRAZ](https://open.spotify.com/album/5wSk9XLTcNDxAEgFFVaZbC) | 2:35 |
 | 64 | [Como Nadie](https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys) | [Jardín](https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP) | [Como Nadie](https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT) | 3:47 |
 | 65 | [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 |
 | 66 | [¿porque me tratas así? :\(](https://open.spotify.com/track/3eihjYrGNiB3svna10wYHs) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [¿porque me tratas así? :\(](https://open.spotify.com/album/2YLA0YhH8grJHJOVXh61gh) | 3:18 |
 | 67 | [Una Sola Vez](https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Una Sola Vez](https://open.spotify.com/album/4WsPV4Bh44VtunOPOeYbmT) | 4:16 |
-| 68 | [Ámbar](https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv), [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Lo Que Extrañas Ya No Existe](https://open.spotify.com/album/5Bp8NLfEfGAaXoTYjFvShH) | 3:28 |
-| 69 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 |
+| 68 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 |
+| 69 | [Ámbar](https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv), [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Lo Que Extrañas Ya No Existe](https://open.spotify.com/album/5Bp8NLfEfGAaXoTYjFvShH) | 3:28 |
 | 70 | [Bien](https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Okay!](https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW) | 4:02 |
 | 71 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 |
 | 72 | [mi amiga & yo](https://open.spotify.com/track/6ukxKZD87THmjrF2utaAGF) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [mi amiga & yo](https://open.spotify.com/album/6XAO4Ieu8TmJ1Fa3UBI5ms) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Bugambilias,](https://open.spotify.com/track/1zTt6hBP6e6SGJ1VZr4yvA) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Bugambilias](https://open.spotify.com/album/3jYF4JJTog7jo3ihIq4y1c) | 4:06 |
 | 75 | [Taba](https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Pilar Pascual](https://open.spotify.com/artist/2I9yXr9A6I4IMV6aywoQf7) | [Taba](https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO) | 3:13 |
 
-Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMGE3MWNhZWEyNWFkNWUzZDA0MDAzOTA0ODFjNWUyNjQz`
+Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMDJiOWRkNWNhZTRkYWIzNTY5NTYyZjVmODkwNzZhMzRl`

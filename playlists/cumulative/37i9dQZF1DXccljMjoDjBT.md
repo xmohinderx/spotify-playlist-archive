@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1980s.
 
-119 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/3kc3bqHwUD9C5VMlAQVigN)
+120 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/3kc3bqHwUD9C5VMlAQVigN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Stop Draggin' My Heart Around \(with Tom Petty and The Heartbreakers\) \- 2016 Remaster](https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 4:04 | 2021-10-12 |  |
 | [Straight From The Heart](https://open.spotify.com/track/7uBxi4jHZqgWAjqLEl1KcF) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/1hUiT5wFSraneBf4aNpbL3) | 3:31 | 2020-12-08 | 2022-07-29 |
 | [Straight From The Heart](https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 3:31 | 2020-12-08 |  |
-| [Sunset Grill](https://open.spotify.com/track/4I9AA9H57ySNSv1ZPinL4D) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 6:19 | 2020-12-08 |  |
+| [Sunset Grill](https://open.spotify.com/track/4I9AA9H57ySNSv1ZPinL4D) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 6:19 | 2020-12-08 | 2022-08-05 |
 | [Tea In The Sahara](https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:19 | 2020-12-08 |  |
 | [The Best Of Times](https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 4:17 | 2020-12-08 |  |
 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 | 2020-12-08 |  |
@@ -103,6 +103,7 @@
 | [The Heart Of The Matter](https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:22 | 2020-12-08 |  |
 | [The Heart Of The Matter](https://open.spotify.com/track/3VxQqAkUs36X3MhjZm0CT4) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/4Y1isZbaqleNpbGDtP45ux) | 5:24 | 2020-12-08 | 2022-07-29 |
 | [The Last Worthless Evening](https://open.spotify.com/track/5D6SN6oGADOqcLNxyrDJJM) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/4Y1isZbaqleNpbGDtP45ux) | 6:02 | 2020-12-08 | 2022-07-29 |
+| [The Last Worthless Evening](https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:02 | 2020-12-08 |  |
 | [The Living Years](https://open.spotify.com/track/7tJnjRY2js0yXtNUWE4fgF) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Living Years](https://open.spotify.com/album/0d8h3wYNXHFKVeIedrehrs) | 5:30 | 2022-03-28 |  |
 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 5:01 | 2020-12-08 |  |
 | [Throwing It All Away \- 2007 Remaster](https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:49 | 2020-12-08 |  |

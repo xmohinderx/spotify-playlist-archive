@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,634 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,628 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 40 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 |
 | 41 | [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 |
 | 42 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
-| 43 | [I'll Be Home for Christmas](https://open.spotify.com/track/5Dxh4Vuy9eBI8h99kqwGfn) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:11 |
+| 43 | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 |
 | 44 | [Let It Snow](https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Christmas Soul 2020](https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd) | 2:34 |
-| 45 | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 |
+| 45 | [I'll Be Home for Christmas](https://open.spotify.com/track/5Dxh4Vuy9eBI8h99kqwGfn) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:11 |
 | 46 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
 | 47 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 |
 | 48 | [What Child Is This?](https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Star Bright](https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df) | 3:52 |
 | 49 | [What Christmas Means](https://open.spotify.com/track/0TTlrhDuw5cqFXHdfB4p6b) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [What Christmas Means \(DELUXE\)](https://open.spotify.com/album/4elxUd930bjXCKwM4B69jL) | 5:47 |
 | 50 | [Favorite Time of Year](https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Christmas in Baltimore](https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r) | 3:36 |
 
-Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMGY2NzNhZGNmMDc2ZDZiYTMzZmZiOTJhZjAxZGMxMmNh`
+Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMDU0MDVhYjdiMzg5MDEwOTdiNzRhZjM2NDU1MDQwM2Uw`

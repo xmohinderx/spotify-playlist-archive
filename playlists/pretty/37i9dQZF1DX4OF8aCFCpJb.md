@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,014 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,028 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 36 | [12 Steps](https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2) | [USCB Allstars](https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ) | [Class Brutáls](https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB) | 4:02 |
 | 37 | [Reggaeprofil](https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:47 |
 | 38 | [Väntar på livet](https://open.spotify.com/track/0SfLDeRFILNjscUICZNV9y) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Väntar på livet](https://open.spotify.com/album/0tci3UMmULfwRyw7csx45k) | 3:36 |
-| 39 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
+| 39 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
 | 40 | [Vakna](https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Gör Det Ändå](https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8) | 3:32 |
-| 41 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
+| 41 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
 | 42 | [Jag Minns](https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:57 |
 | 43 | [Vakter Och Polis Med Jr Erik, Eye'n\`l & Kapten Röd](https://open.spotify.com/track/4UtcOmB3ZqgtZiABLYCBSI) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Underhållningsmaskinen](https://open.spotify.com/album/4NXk3Z5mg1PPos62yeJAQX) | 4:00 |
 | 44 | [Mediakåt feat\. Timbuktu](https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Marknadens soldat](https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 | 50 | [Mi Amor](https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Mi Amor](https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD) | 3:42 |
 
-Snapshot ID: `MTY1Nzg5NDYxMCwwMDAwMDAwMDU4MTUzNjYyZmFiYmU0NTk5ZDNlNzQ3ZTUxZDg1NTE2`
+Snapshot ID: `MTY1Nzg5NDYxMCwwMDAwMDAwMDA0MTVkMzYwMzg2YTQ4YTk4Y2E1MjczMTg1OTVlMWQy`

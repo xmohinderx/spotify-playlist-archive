@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 313291,
+  "num_followers": 313353,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NTE4MywwMDAwMDAwMDg2NGExMWIxOGNjODBiYmY1ZWMyZTVlODYzN2RiNDVj",
+  "snapshot_id": "MTY1OTQ1NTE4MywwMDAwMDAwMDc4Yzc2YzJjMTM1YjIxYmJlN2ZjZjQ0MmMxNmZjOTlj",
   "tracks": [
     {
       "added_at": "2022-07-28 13:29:24",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 110868,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
         "name": "Starry Sky",
         "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 110868,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Finding The Heavens",
         "url": "https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 167063,
       "name": "Finding The Heavens",
       "url": "https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Ave",
-        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
-      },
-      "artists": [
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 110466,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Ave",
+        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Balancing Act",
-        "url": "https://open.spotify.com/album/0xI3mEeUiJUXWZorJBVoJR"
-      },
-      "artists": [
-        {
-          "name": "Daniel Schrage",
-          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Balancing Act",
-      "url": "https://open.spotify.com/track/2XVpEFN7kMUBhZ719QvM9A"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 141750,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Balancing Act",
+        "url": "https://open.spotify.com/album/0xI3mEeUiJUXWZorJBVoJR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Balancing Act",
+      "url": "https://open.spotify.com/track/2XVpEFN7kMUBhZ719QvM9A"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Octaves",
-        "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
-      },
-      "artists": [
-        {
-          "name": "Ali Toygar",
-          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Octaves",
-      "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "The Shards",
         "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 138890,
       "name": "The Shards",
       "url": "https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Octaves",
+        "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
+      },
+      "artists": [
+        {
+          "name": "Ali Toygar",
+          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Octaves",
+      "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "River Path",
-        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 209102,
-      "name": "Silent Dusk",
-      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "An Evening Scene",
         "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 144625,
       "name": "An Evening Scene",
       "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "River Path",
+        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 209102,
+      "name": "Silent Dusk",
+      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Some Other Place",
-        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
-      },
-      "artists": [
-        {
-          "name": "Meredi",
-          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
-        }
-      ],
-      "duration_ms": 253169,
-      "name": "Some Other Place",
-      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Some Other Place",
+        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
+      },
+      "artists": [
+        {
+          "name": "Meredi",
+          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
+        }
+      ],
+      "duration_ms": 253169,
+      "name": "Some Other Place",
+      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
     },
     {
       "added_at": "2022-07-28 13:29:24",

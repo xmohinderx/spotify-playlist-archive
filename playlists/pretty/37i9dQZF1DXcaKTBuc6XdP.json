@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2129,
+  "num_followers": 2138,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDY4OGZiYmQ2MDU4MDhiM2ZiOWRkZmI5ZTNlYTAwNDUz",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDY1ZDdmMjhmNjUyM2QwYTg0OTA5OWVjOTA5YWNhZTE4",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -535,26 +535,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Great Big God",
-        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Vineyard Kids",
-          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Great Big God",
-      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Season One",
         "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 352026,
       "name": "Brokenness Aside",
       "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
     },
     {
       "added_at": "2021-06-29 13:36:02",

@@ -1,12 +1,12 @@
 {
   "description": "Sit back and unwind to the most selamba songs around.",
-  "num_followers": 39035,
+  "num_followers": 39041,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzQ3MTk2MiwwMDAwMDAwMDgxYmE1NGYyZDlmOTRiZjU4MWE0MjY3ZjI4NTI4Y2Yy",
+  "snapshot_id": "MTY1NzQ3MTk2MiwwMDAwMDAwMDk0ZTg0YzViYTQxYTAwNDliZGNhYTgxZmI1MDg1MTRi",
   "tracks": [
     {
       "added_at": "2022-07-10 16:52:42",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
+        "name": "AMAZING",
+        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
+      "added_at": "2022-07-10 16:52:42",
+      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "AMAZING",
-        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -343,22 +359,6 @@
       "duration_ms": 152910,
       "name": "Best Lover",
       "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
-    },
-    {
-      "added_at": "2022-07-10 16:52:42",
-      "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Fourth of July",
-        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223201,
-      "name": "Fourth of July - April Base Version",
-      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
-    },
-    {
-      "added_at": "2022-07-10 16:52:42",
-      "album": {
         "name": "Good For A Time (feat. Bea Lorenzo)",
         "url": "https://open.spotify.com/album/3KjBwYUsTtWGFVJ2IjV6qs"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 144250,
       "name": "Good For A Time (feat. Bea Lorenzo)",
       "url": "https://open.spotify.com/track/3uan6scrspVI9GQQWdtya2"
+    },
+    {
+      "added_at": "2022-07-10 16:52:42",
+      "album": {
+        "name": "Fourth of July",
+        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223201,
+      "name": "Fourth of July - April Base Version",
+      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
+        "name": "Shouldn't Have To Run",
+        "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Joie Tan",
+          "url": "https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd"
+        }
+      ],
+      "duration_ms": 165971,
+      "name": "Shouldn't Have To Run",
+      "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
+    },
+    {
+      "added_at": "2022-07-10 16:52:42",
+      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
-    },
-    {
-      "added_at": "2022-07-10 16:52:42",
-      "album": {
-        "name": "Shouldn't Have To Run",
-        "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "Joie Tan",
-          "url": "https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd"
-        }
-      ],
-      "duration_ms": 165971,
-      "name": "Shouldn't Have To Run",
-      "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "The Outsider EP",
-        "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
+        "name": "Go Higher",
+        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 166480,
-      "name": "Pager",
-      "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Go Higher",
-        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
+        "name": "The Outsider EP",
+        "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 208264,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
+      "duration_ms": 166480,
+      "name": "Pager",
+      "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
     },
     {
       "added_at": "2022-07-10 16:52:42",

@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-170 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+171 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 | 2022-07-22 |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-07-08 |
 | [Minor Moments](https://open.spotify.com/track/5GWcVFVzwT4nJ1Ji1Fpjpm) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [Minor Moments](https://open.spotify.com/album/5amFPb8CfOuotX2lUhrTiq) | 3:01 | 2022-05-13 |  |
+| [Morning to Do List](https://open.spotify.com/track/0wlkGWrxewjWnvbbCC8DP1) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Easy Escapes](https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn) | 2:53 | 2022-08-05 |  |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-05-13 |  |
 | [My Heart In Your Hands](https://open.spotify.com/track/5MxdTIHlQxvk9qMAcuLp7e) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [My Heart In Your Hands](https://open.spotify.com/album/0JNhtB6qvXWnYp1VpKOsLR) | 2:42 | 2022-05-13 |  |
 | [My Open Hand](https://open.spotify.com/track/6R002TAO3XRDQOJzG32TSz) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [My Open Hand](https://open.spotify.com/album/63kRYmNU9WK1ys1ZlozROi) | 3:11 | 2022-05-13 |  |

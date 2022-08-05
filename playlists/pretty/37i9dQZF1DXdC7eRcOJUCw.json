@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Lupita Infante en portada.",
-  "num_followers": 91876,
+  "num_followers": 91929,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcxMTA3MiwwMDAwMDAwMGQwMWQ0MDc2YjUzMmVlMTFkOWI4MDRlOTFjM2ZiODBi",
+  "snapshot_id": "MTY1NDcxMTA3MiwwMDAwMDAwMGY1MjA1NDZkNDAxNGEyYzFjMGYxNDZkMjM5Y2IyNzE2",
   "tracks": [
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "La Reina de la Canci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 178782,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Chelo Interpreta A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 145194,
       "name": "Por Si Me Olvidas",
       "url": "https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "La Reina de la Canci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 178782,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
     },
     {
       "added_at": "2022-06-08 17:57:52",

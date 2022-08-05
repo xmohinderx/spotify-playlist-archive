@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: クレイジーケンバンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,484 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,501 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 18 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
 | 19 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 |
 | 20 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 |
-| 21 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
+| 21 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 |
 | 22 | [M42](https://open.spotify.com/track/1dzaqFqckQFcRtGeGjDMJm) | [YUSUKE CHIBA \- SNAKE ON THE BEACH \-](https://open.spotify.com/artist/4kHNeHQ5nA9HDRVXXhR308) | [M42](https://open.spotify.com/album/6cnjTJEKJ59ENen1SueU4t) | 6:31 |
 | 23 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
 | 24 | [はんなりドライブ](https://open.spotify.com/track/2SH1HfEgtNfNjbGHV6AdHo) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0), [Gota Yashiki](https://open.spotify.com/artist/40QKSUPJxNQvJ9g6q17TvX) | [はんなりドライブ](https://open.spotify.com/album/6hh1W6nJ5o3CJoZpK14npo) | 3:12 |
-| 25 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 |
+| 25 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 26 | [Hands Up to the Sky](https://open.spotify.com/track/7kiWVIA95A2H7TMYSrA0b5) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [Avid / Hands Up to the Sky](https://open.spotify.com/album/4Uyvexhl7bPlTTrYX5YPAp) | 3:32 |
 | 27 | [Ms\. Phenomenal](https://open.spotify.com/track/7C9g7mGIpiMgeWauQ5ueBL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Original Soundtrack of "The Last Ten Years"](https://open.spotify.com/album/3FyR41ewiOZHop9rFnOZ1m) | 5:18 |
 | 28 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 33 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 34 | [なないろ](https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e) | 4:22 |
 | 35 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
-| 36 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
+| 36 | [UNITE](https://open.spotify.com/track/5WwwgrjwI7DLLfg0qCEL7t) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [UNITE](https://open.spotify.com/album/53xqFfS0lGK2jQVoZ0ls1W) | 4:44 |
 | 37 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
-| 38 | [UNITE](https://open.spotify.com/track/5WwwgrjwI7DLLfg0qCEL7t) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [UNITE](https://open.spotify.com/album/53xqFfS0lGK2jQVoZ0ls1W) | 4:44 |
+| 38 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
 | 39 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 |
 | 40 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 |
 | 41 | [Freaks](https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Freaks](https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 49 | [星路 \(みち\)](https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [星路 \(みち\)](https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx) | 3:36 |
 | 50 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 |
 
-Snapshot ID: `MTY1OTU3MzAxNSwwMDAwMDAwMDA5MzlmYTUwYWI1N2ViNGExMDFkNWUzNmMxYjg4MjY3`
+Snapshot ID: `MTY1OTU3MzAxNSwwMDAwMDAwMDM3ZDhmZWQ1NGZkMzRjNTMxYjI4YzkwYmM4MmM0YzYz`

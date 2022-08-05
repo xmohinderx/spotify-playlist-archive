@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Atlantic.Wav",
+        "url": "https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk"
+      },
+      "artists": [
+        {
+          "name": "upper class",
+          "url": "https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137764,
+      "name": "Atlantic.Wav",
+      "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
+    },
+    {
+      "album": {
         "name": "Jazzterfield",
         "url": "https://open.spotify.com/album/5CkqnEDMBl32m3lkZWRsxe"
       },
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 176500,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk"

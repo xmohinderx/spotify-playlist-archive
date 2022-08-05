@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: LATENIGHTJIGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,504 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,518 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 4 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 |
 | 5 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 6 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 |
-| 7 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
-| 8 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 |
+| 7 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 |
+| 8 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 9 | [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 |
 | 10 | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9) | 5:02 |
 | 11 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 50 | [Nosotras](https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Contragolpe](https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG) | 2:47 |
 | 51 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 |
 | 52 | [Paraíso](https://open.spotify.com/track/0Dfmwxl6g35vW10qcU5UN1) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Paraíso](https://open.spotify.com/album/60zwZ3rcvhQZepAwfcpuYI) | 3:32 |
-| 53 | [sin ti](https://open.spotify.com/track/4ot2OO7TQ67W8avmH1zL1f) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [sin ti](https://open.spotify.com/album/04jTnT3HRRda7v1L3qvAAw) | 2:52 |
-| 54 | [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 |
+| 53 | [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 |
+| 54 | [sin ti](https://open.spotify.com/track/4ot2OO7TQ67W8avmH1zL1f) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [sin ti](https://open.spotify.com/album/04jTnT3HRRda7v1L3qvAAw) | 2:52 |
 | 55 | [My Summer Time](https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summer Time](https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr) | 3:07 |
 | 56 | [Lento](https://open.spotify.com/track/6yqNBRl1bcAqjVjkVVIv58) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Lento](https://open.spotify.com/album/5XsAVBTFabbMC9lGGsIcKV) | 3:06 |
 | 57 | [Vicio](https://open.spotify.com/track/0gbxXSs8uAopxh4XczYmmi) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Bahía Margarita](https://open.spotify.com/album/57HpVjbxNxCsSGiotd1Fq1) | 4:10 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 59 | [NUEVE \(Intro\)](https://open.spotify.com/track/3wQmfMVbq6VM5QVt2470ch) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE \(Intro\)](https://open.spotify.com/album/3bkn35vgb3b4IR4WrDGaJn) | 4:04 |
 | 60 | [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 |
 | 61 | [EX\-CUCHAME](https://open.spotify.com/track/3PZqZblMEUrdNFfIpMnbEe) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [EX\-CUCHAME](https://open.spotify.com/album/4IBp5uFdjpBJoQyWCWvwed) | 2:36 |
-| 62 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
-| 63 | [Matando \(feat\. Vic Mirallas\)](https://open.spotify.com/track/2rEqcZX1epDxWwhOZN3UnS) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:20 |
+| 62 | [Matando \(feat\. Vic Mirallas\)](https://open.spotify.com/track/2rEqcZX1epDxWwhOZN3UnS) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:20 |
+| 63 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
 | 64 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
 | 65 | [Flow Lavoe](https://open.spotify.com/track/1QLpTmTwY3bD2RSJsNykDO) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Flow Lavoe](https://open.spotify.com/album/0y11D9VF8RzosySuQ2YgDD) | 3:39 |
 | 66 | [Baja confirmada](https://open.spotify.com/track/2IaZrh7RPuJy9QX9OTzxuC) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Mumbai Moon](https://open.spotify.com/artist/46n3zvHyU1ch6l6rFS9iQb) | [Baja confirmada](https://open.spotify.com/album/3OiAtL4xHgcvGloSkKrkY7) | 2:28 |
-| 67 | [Anillo al dedo](https://open.spotify.com/track/0uaJS9jWxVe3VAYDOCBS4g) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Anillo al dedo](https://open.spotify.com/album/1GDnI83EYCQAn7SCCKE2pB) | 2:21 |
-| 68 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 |
+| 67 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 |
+| 68 | [Anillo al dedo](https://open.spotify.com/track/0uaJS9jWxVe3VAYDOCBS4g) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Anillo al dedo](https://open.spotify.com/album/1GDnI83EYCQAn7SCCKE2pB) | 2:21 |
 | 69 | [Que Hago Si Se Cae Todo?](https://open.spotify.com/track/55CweWwujSeAIHh8WTl7XF) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 1:32 |
 | 70 | [Huellas](https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Huellas](https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd) | 2:58 |
 | 71 | [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 84 | [Bad Guy](https://open.spotify.com/track/673ubniw51MnNmQt6eX8ba) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Bad Guy](https://open.spotify.com/album/0peE24D1ZM89EqVswUhSFr) | 3:06 |
 | 85 | [Perderme](https://open.spotify.com/track/6lMW8lLquI5brwfYIVymn8) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [No Pueden Contra Mi](https://open.spotify.com/album/2X7Q5CvyfWbYdGygU1kVZ5) | 2:55 |
 
-Snapshot ID: `MTY1OTM3OTMzNiwwMDAwMDAwMGYzMDViNTIyMWYzYzljNjM1YTM3YzM0MzVkNzU2ZTFh`
+Snapshot ID: `MTY1OTM3OTMzNiwwMDAwMDAwMGUxZWFmZTU1MGRmYTMwOWQ1YmFlNzg4MTAxOTU5YjEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,947 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,946 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 6 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 7 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 8 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
-| 9 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 |
-| 10 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
+| 9 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
+| 10 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 |
 | 11 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 12 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 13 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 66 | [Electrica](https://open.spotify.com/track/37rWH6oWKMq8JTadyzmbNG) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [rosmailin wa](https://open.spotify.com/artist/3XlmlCduqAlfsTPNAR0zIK) | [Electrica](https://open.spotify.com/album/2lj326xftmGNvaG0sEwX0U) | 2:05 |
 | 67 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 |
 | 68 | [Vocales](https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vocales](https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ) | 2:38 |
-| 69 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
-| 70 | [El Momento](https://open.spotify.com/track/3YlFNZ4iquJHPX6scKROns) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Gran Esfera](https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh) | 4:30 |
-| 71 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 |
+| 69 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 |
+| 70 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
+| 71 | [El Momento](https://open.spotify.com/track/3YlFNZ4iquJHPX6scKROns) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Gran Esfera](https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh) | 4:30 |
 | 72 | [Puerto Rican Mami](https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Puerto Rican Mami](https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy) | 3:19 |
 | 73 | [Mequetrefe](https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:20 |
 | 74 | [Amar Así](https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:57 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 129 | [Cocaino](https://open.spotify.com/track/3IhSU4z3ddjQWqFaTivzbo) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Cocaino](https://open.spotify.com/album/6JBmwp8Kx38Pzj2YgABAoh) | 3:52 |
 | 130 | [Por un Beso](https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr) | [Por un Beso](https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX) | 2:59 |
 
-Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMGEzZGIwNTA3YWVjMDI4ZjdiZmUwZWU5YjNkZTI5MmQ0`
+Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMDJkN2IyZmIwY2U0MTA0MmQwY2NhNjViZjNjM2ZiZjkw`

@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-201 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+204 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dewdrop Lemonade](https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Dewdrop Lemonade](https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY) | 3:26 | 2022-05-20 |  |
 | [Down](https://open.spotify.com/track/0xVjY67TqBmcKbMAXvbXxj) | [Link Dazel](https://open.spotify.com/artist/4dXSgsuSetXmBSf36iMWPF) | [Princess Z](https://open.spotify.com/album/0GpxSYKMNJVI70VTUsrW1p) | 1:15 | 2022-05-20 |  |
 | [dreams come true.](https://open.spotify.com/track/4USjqfvjPVm54YaZs6g8uc) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [dreams come true.](https://open.spotify.com/album/62LXbn400PEKpHZwQWsUBf) | 2:13 | 2022-05-20 |  |
+| [early birds](https://open.spotify.com/track/0hAVPGHwhiaAfwEQaMVsbG) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [ghost & nature](https://open.spotify.com/album/4GYfLtvKi4R23EBOy2SsV8) | 2:22 | 2022-08-05 |  |
 | [Earth Travellers](https://open.spotify.com/track/34ooA9e9hIcyrgfEViDSro) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Earth Travellers](https://open.spotify.com/album/1RYeR5qubHWn1FTVgYJHKw) | 2:00 | 2022-05-20 |  |
 | [Ecliptic](https://open.spotify.com/track/2Dv9Ic59334LE8oX6NqFOQ) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Ecliptic](https://open.spotify.com/album/4k7zfssPs64CGaF3G0Su49) | 1:17 | 2022-05-27 |  |
 | [El Surf](https://open.spotify.com/track/081eB5su1F6rXFHoo6HQgU) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [El Surf](https://open.spotify.com/album/3FcOFOLtbIzmyimX0n9JJs) | 3:23 | 2022-05-20 |  |
@@ -134,6 +135,7 @@
 | [Pass It On](https://open.spotify.com/track/6W14nPKn5Xro5bg98uTM33) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Pass It On](https://open.spotify.com/album/50qapmoJ4j60haCzDTp9hX) | 2:15 | 2022-05-20 |  |
 | [pEach cObbler](https://open.spotify.com/track/7nLZjRukkxR0WHv95DrnZX) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [pEach cObbler](https://open.spotify.com/album/1jYX0kd0KX5wALVLaiur3i) | 1:50 | 2022-05-20 |  |
 | [perception](https://open.spotify.com/track/6fVMTxRuHpBL5TwL71HL6R) | [cloudi](https://open.spotify.com/artist/64LHvgl55hJTLXtgaO454g) | [perception](https://open.spotify.com/album/4pMhm2IQ8ojjdvOPpaZA91) | 1:25 | 2022-05-20 |  |
+| [pet spider](https://open.spotify.com/track/7lcLYruqGRzJ9Je6Cwmujo) | [Lif Lof](https://open.spotify.com/artist/59klqOnyVLPI3Tyb5uy0zJ) | [pet spider](https://open.spotify.com/album/2MANZUjdHH4BoykEu4sv46) | 2:27 | 2022-08-05 |  |
 | [Pillow Head](https://open.spotify.com/track/0ISbKdCQjZ3RYF30RBrCbY) | [Dreamy Vibes](https://open.spotify.com/artist/5md3j6tShlKtrcokmLIJJw) | [Pillow Head](https://open.spotify.com/album/30TMwmHW2rtrlqOFEapBSI) | 2:21 | 2022-05-20 |  |
 | [play it](https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU) | [B.O Mitz](https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9) | [play it](https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE) | 2:32 | 2022-07-01 |  |
 | [play me](https://open.spotify.com/track/20iCDmodyMCKSpNpoCus35) | [yumiyumi](https://open.spotify.com/artist/7Cp3qOemuJmuqdD7qnL780) | [play me](https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc) | 2:17 | 2022-05-20 |  |
@@ -144,6 +146,7 @@
 | [Rainy Day](https://open.spotify.com/track/6i0iAPYFh8Nbqvu3WqsH7h) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Birch](https://open.spotify.com/album/3wCXdWhd3NYXyfHYGprgTw) | 2:03 | 2022-05-20 |  |
 | [renaissance](https://open.spotify.com/track/6av4O17fU0ID8EjrnxrVqf) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [honey](https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj) | 1:50 | 2022-05-20 |  |
 | [Resistance](https://open.spotify.com/track/0EPGaVpdeFYEEWm77ynjwL) | [Le Giles](https://open.spotify.com/artist/10L8AituT5YOgxLrXwnWkn) | [Capacitance & Resistance](https://open.spotify.com/album/69wvNNzJFYHAUrJGwokZ3L) | 2:01 | 2022-05-20 |  |
+| [ride or die](https://open.spotify.com/track/54dNHq955nBzBtSdaB7f1Y) | [casternova](https://open.spotify.com/artist/3lD0xLpL1pkSo5YZJt3lVk) | [ride or die](https://open.spotify.com/album/7sBMgukRaeUbYPwhPdhEDD) | 2:40 | 2022-08-05 |  |
 | [right now, huh?](https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [right now, huh?](https://open.spotify.com/album/17b7BjWkdfP68m9WPOluWi) | 2:13 | 2022-05-20 |  |
 | [Ring Wear Saga](https://open.spotify.com/track/0yHJnXAQTNmFMjyFdppNBP) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Golden Crates](https://open.spotify.com/album/04Mhn8ivVvZStXmwoOMT9d) | 2:15 | 2022-05-20 | 2022-05-27 |
 | [Riverside](https://open.spotify.com/track/2sgjopd4amh7swhXSbjAxJ) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Riverside](https://open.spotify.com/album/3w8j6o0sPdCDgUrYpLWYeZ) | 1:18 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "just chill... respectfully ",
-  "num_followers": 780057,
+  "num_followers": 780422,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg4ODA1NCwwMDAwMDAwMGFlNGFmZWVmM2ZmZTI2MjM3NzBjYWUzYTM2NjRlNDc3",
+  "snapshot_id": "MTY1ODg4ODA1NCwwMDAwMDAwMGVkNTc3ZDlmZDhiZGVkNzMxZDY2YzVjM2VlZTRlYzQz",
   "tracks": [
     {
       "added_at": "2022-06-30 22:18:46",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/1N7U7alOZtbA2m3AyAPEXf"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 228347,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/2HpDcssMlgQXfmAUYhePIP"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Two Worlds Apart",
-      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Flight 99",
         "url": "https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 167142,
       "name": "Flight 99",
       "url": "https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Magic 8ball",
-        "url": "https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 263554,
-      "name": "Where U Goin' Tonight?",
-      "url": "https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 150496,
       "name": "From My Heart and My Soul (feat. Phoelix)",
       "url": "https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Magic 8ball",
+        "url": "https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 263554,
+      "name": "Where U Goin' Tonight?",
+      "url": "https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -699,6 +699,30 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Whoeva?",
+          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Lost In June - EP",
         "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 237049,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
-        },
-        {
-          "name": "Whoeva?",
-          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Love and Hate in a Different Time",
-        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 282177,
-      "name": "Love and Hate in a Different Time",
-      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 237699,
       "name": "Fair Chance",
       "url": "https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Love and Hate in a Different Time",
+        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 282177,
+      "name": "Love and Hate in a Different Time",
+      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/7w3ggwVB0OqAGFkboiozRS"
+        "name": "Valley Hopefuls",
+        "url": "https://open.spotify.com/album/1n6ULeNHEteS5eucGgsUSp"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 238122,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y"
+      "duration_ms": 133152,
+      "name": "Okok (Hibachi)",
+      "url": "https://open.spotify.com/track/44ashym52bERKclJsKt3Db"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Valley Hopefuls",
-        "url": "https://open.spotify.com/album/1n6ULeNHEteS5eucGgsUSp"
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/7w3ggwVB0OqAGFkboiozRS"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 133152,
-      "name": "Okok (Hibachi)",
-      "url": "https://open.spotify.com/track/44ashym52bERKclJsKt3Db"
+      "duration_ms": 238122,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 222115,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/3KdqW7vrStW0VIp1Pfk0cq"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "I'm a Rock",
-      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "KMS - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 146000,
       "name": "KMS - A COLORS SHOW",
       "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "I'm a Rock",
+      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "No Romance",
-        "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
-      },
-      "artists": [
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 237235,
-      "name": "No Romance",
-      "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Dying in the Subtlety",
         "url": "https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 235200,
       "name": "Caged Bird",
       "url": "https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "No Romance",
+        "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 237235,
+      "name": "No Romance",
+      "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "I Miss My Dawgs",
-        "url": "https://open.spotify.com/album/0sUDfuTYoVshMqFstFSrNz"
-      },
-      "artists": [
-        {
-          "name": "Simpson",
-          "url": "https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow"
-        }
-      ],
-      "duration_ms": 142471,
-      "name": "I Miss My Dawgs",
-      "url": "https://open.spotify.com/track/1nkWeF77qk4RkLpn4omPWL"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Demos",
         "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 237405,
       "name": "Drifty",
       "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "I Miss My Dawgs",
+        "url": "https://open.spotify.com/album/0sUDfuTYoVshMqFstFSrNz"
+      },
+      "artists": [
+        {
+          "name": "Simpson",
+          "url": "https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow"
+        }
+      ],
+      "duration_ms": 142471,
+      "name": "I Miss My Dawgs",
+      "url": "https://open.spotify.com/track/1nkWeF77qk4RkLpn4omPWL"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1711,26 +1711,6 @@
       "duration_ms": 262727,
       "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Studio Monk",
-        "url": "https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO"
-      },
-      "artists": [
-        {
-          "name": "Junia-T",
-          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
-        },
-        {
-          "name": "Elijah Dax",
-          "url": "https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD"
-        }
-      ],
-      "duration_ms": 253622,
-      "name": "Ooowee (feat. Elijah Dax)",
-      "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1759,18 +1739,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
+        "name": "Studio Monk",
+        "url": "https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO"
       },
       "artists": [
         {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+          "name": "Junia-T",
+          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
+        },
+        {
+          "name": "Elijah Dax",
+          "url": "https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD"
         }
       ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+      "duration_ms": 253622,
+      "name": "Ooowee (feat. Elijah Dax)",
+      "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1803,6 +1787,22 @@
       "duration_ms": 239744,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     }
   ],
   "unique_name": "Lowkey",

@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, fasma\)
 
-116 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+117 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [uno stupido ricordo](https://open.spotify.com/track/01SVqTQsiWXshVX4kYpVF6) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [uno stupido ricordo](https://open.spotify.com/album/03kIPpJJpT0XrX3NH4afOt) | 2:43 | 2022-04-21 |  |
 | [Venere](https://open.spotify.com/track/1iqwuiwOkU2Cq7G0lEA6Uk) | [Aiko Ak](https://open.spotify.com/artist/0qtxaLL8XAMIdSUHzITgPl) | [Venere](https://open.spotify.com/album/5CYCzNMdO02RYurzb7vNwJ) | 3:43 | 2022-04-21 |  |
 | [vivere solo](https://open.spotify.com/track/66k8poNSX1SutjV9of9gHm) | [Thom.](https://open.spotify.com/artist/4e5mUDLdGeosdE593StPBi), [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [vivere solo](https://open.spotify.com/album/1aAoHLxQpTSLNILQTqPqic) | 2:30 | 2022-04-21 |  |
+| [VIVERE X SEMPRE](https://open.spotify.com/track/3qceQin2x7gy7OipnI0B9Z) | [Mr\. Hugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H) | [VIVERE X SEMPRE](https://open.spotify.com/album/0VkiBrHatXlErli8RaPNg6) | 2:50 | 2022-08-04 |  |
 | [Volevo dirti](https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Volevo dirti](https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM) | 3:01 | 2022-04-21 |  |
 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 | 2022-04-21 |  |
 | [x dimenticarti](https://open.spotify.com/track/36yVUCU4BXMPTlZKXTLNAS) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [x dimenticarti](https://open.spotify.com/album/4Yqn5A7LPALVKi4rOcPXMu) | 2:16 | 2022-06-02 |  |

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW: Beyoncé \- CHURCH GIRL](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
+### [HOT NOW: Kenia OS \- Todo My Love](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
 > ¡No busques más! La música del momento está aquí.
 
-109 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
+110 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 | 2022-02-07 |  |
 | [Castigo](https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Castigo](https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ) | 2:58 | 2022-05-13 | 2022-07-30 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-03-03 |  |
-| [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-06 |  |
+| [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-06 | 2022-08-05 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-02-24 | 2022-03-24 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-29 |  |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-27 | 2022-04-07 |
@@ -105,6 +105,7 @@
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-04-22 |  |
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-02-03 | 2022-07-23 |
 | [Te Olvido](https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Te Olvido](https://open.spotify.com/album/670aQBkW0Vvjz8GFVOVRJT) | 3:31 | 2022-01-27 | 2022-03-04 |
+| [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 | 2022-08-05 |  |
 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 | 2022-06-10 |  |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2022-01-27 | 2022-03-04 |
 | [Un Chingazo](https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Un Chingazo](https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG) | 3:09 | 2022-06-23 |  |

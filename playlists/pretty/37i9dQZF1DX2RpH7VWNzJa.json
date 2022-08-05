@@ -1,12 +1,12 @@
 {
   "description": "No te preocupes, feel it all here. ",
-  "num_followers": 34763,
+  "num_followers": 34800,
   "original_name": "en mis feelings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTU2NDc3NSwwMDAwMDAwMDQyOGZkZmJkNDc4ODkyMjVkZGU3ZjAzYjJkN2U1ODYz",
+  "snapshot_id": "MTY0NTU2NDc3NSwwMDAwMDAwMDc1NzFlMGZjMWY5YjA1OGQ5MDQ1MTE1MDU4ZGEwNjJl",
   "tracks": [
     {
       "added_at": "2022-02-22 21:19:35",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-02-22 21:19:35",
       "album": {
-        "name": "Nunca Estoy",
-        "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Nunca Estoy",
-      "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
-    },
-    {
-      "added_at": "2022-02-22 21:19:35",
-      "album": {
         "name": "No Me Dejes As\u00ed",
         "url": "https://open.spotify.com/album/4n08POuFITwQukkmnc2fAO"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 184421,
       "name": "No Me Dejes As\u00ed",
       "url": "https://open.spotify.com/track/3uHofhho8p67xqPL8f2Pmt"
+    },
+    {
+      "added_at": "2022-02-22 21:19:35",
+      "album": {
+        "name": "Nunca Estoy",
+        "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Nunca Estoy",
+      "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
     },
     {
       "added_at": "2022-02-22 21:19:35",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-02-22 21:19:35",
       "album": {
-        "name": "Sad Girl",
-        "url": "https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW"
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 208032,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ"
+      "duration_ms": 207623,
+      "name": "Ella T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/5E91XW9FMz9Bh5UCBBBfyL"
     },
     {
       "added_at": "2022-02-22 21:19:35",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-02-22 21:19:35",
       "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
+        "name": "Sad Girl",
+        "url": "https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW"
       },
       "artists": [
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 207623,
-      "name": "Ella T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/5E91XW9FMz9Bh5UCBBBfyL"
+      "duration_ms": 208032,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ"
     },
     {
       "added_at": "2022-02-22 21:19:35",

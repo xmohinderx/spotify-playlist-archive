@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,709 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,718 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 46 | [Shinsekai](https://open.spotify.com/track/0uUyffcPYS5HGkQrOK9TpJ) | [Chikara Aoshima](https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx) | [SHINSEKAI Into the Depths Hidden Tracks](https://open.spotify.com/album/4J34Ttmtw29MOBVMdNgRM0) | 4:13 |
 | 47 | [Prologue](https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [Ghosts 'n Goblins Resurrection Original Soundtrack](https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu) | 1:42 |
 | 48 | [上田合戦](https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 1:49 |
-| 49 | [Total Result](https://open.spotify.com/track/4o62B2S9hKbrNPM1Q8mlMJ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 1:19 |
-| 50 | [The Time Has Come \(Nero's Combat\)](https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 3:51 |
+| 49 | [The Time Has Come \(Nero's Combat\)](https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 3:51 |
+| 50 | [Total Result](https://open.spotify.com/track/4o62B2S9hKbrNPM1Q8mlMJ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 1:19 |
 
-Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMGViMTM2ZDZiYjI4OTEwM2YzZTlkNDQ0NzRlYjEyMWZk`
+Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMDQyZjUwODJhNzNlMDcwOGQ2YTAxMjc0N2QzNTRjOGUy`

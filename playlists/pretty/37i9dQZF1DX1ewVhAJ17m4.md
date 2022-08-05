@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,573 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,630 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

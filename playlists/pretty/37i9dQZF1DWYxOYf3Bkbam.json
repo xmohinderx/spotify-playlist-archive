@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 27947,
+  "num_followers": 27967,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzMDI5NiwwMDAwMDAwMDJlZDYwM2VlOGJjYTgzMDM3YjE0ZTlkMWRlNWZkZGFh",
+  "snapshot_id": "MTY1NzAzMDI5NiwwMDAwMDAwMDM5Yjg1ZjhkNjA1YmMzNmUyZjZjNTc0OTk4MDUzOWY0",
   "tracks": [
     {
       "added_at": "2022-07-05 14:11:35",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Damasio Esquivel",
-          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
-        }
-      ],
-      "duration_ms": 111893,
-      "name": "Granja San Antonio",
-      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
         "name": "El Guachito",
         "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 180080,
       "name": "El Guachito",
       "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Damasio Esquivel",
+          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
+        }
+      ],
+      "duration_ms": 111893,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Ca\u00f1a Doble para Mi Padre",
+      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
         "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
         "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 196733,
       "name": "La Calandria",
       "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
-      },
-      "artists": [
-        {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Ca\u00f1a Doble para Mi Padre",
-      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "30 A\u00f1os Con el Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf"
-      },
-      "artists": [
-        {
-          "name": "Pastor Luna",
-          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
-        }
-      ],
-      "duration_ms": 131813,
-      "name": "Pastor Luna y Su Acorde\u00f3n",
-      "url": "https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
         "name": "Nuestras Mejores 30 Canciones",
         "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 146600,
       "name": "Mi \u00daltima Flor",
       "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "30 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf"
+      },
+      "artists": [
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "duration_ms": 131813,
+      "name": "Pastor Luna y Su Acorde\u00f3n",
+      "url": "https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
+        "name": "Coraz\u00f3n Chamamecero",
+        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo Y Los Cardocitos",
+          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "El Gaucho Gil",
+      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 140040,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
-        "name": "Coraz\u00f3n Chamamecero",
-        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo Y Los Cardocitos",
-          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "El Gaucho Gil",
-      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+      },
+      "artists": [
+        {
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
-      },
-      "artists": [
-        {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "Oraci\u00f3n del Remanso",
-        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 311531,
-      "name": "Oraci\u00f3n del Remanso",
-      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
         "name": "Las Nuevas Estrellas del Chamam\u00e9",
         "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 167592,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1436,29 +1436,13 @@
       },
       "artists": [
         {
-          "name": "Palomita y Teresita base",
-          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
       ],
-      "duration_ms": 110253,
-      "name": "Adios palomita ingrata",
-      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
-        "name": "Pajaro Chog\u00fci",
-        "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Dominguez Y Raul Barboza",
-          "url": "https://open.spotify.com/artist/7D3iUpUwF4lOsFPJIazFXS"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Pajaro Chog\u00fci",
-      "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1468,13 +1452,13 @@
       },
       "artists": [
         {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
         }
       ],
-      "duration_ms": 134240,
-      "name": "La dama misteriosa",
-      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1491,6 +1475,22 @@
       "duration_ms": 145280,
       "name": "Pasion oculta",
       "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "Pajaro Chog\u00fci",
+        "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Dominguez Y Raul Barboza",
+          "url": "https://open.spotify.com/artist/7D3iUpUwF4lOsFPJIazFXS"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Pajaro Chog\u00fci",
+      "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
     },
     {
       "added_at": "2022-07-05 14:11:35",

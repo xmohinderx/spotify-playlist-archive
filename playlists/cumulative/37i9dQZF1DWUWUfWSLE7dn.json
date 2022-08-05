@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Faith in You",
+        "url": "https://open.spotify.com/album/5IAp1A7XNBFRAmLbtHYVcW"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Faith in You",
+      "url": "https://open.spotify.com/track/0wOmd66tskQXrKtLg33b3U"
+    },
+    {
+      "album": {
         "name": "The Boy Who Flew Away",
         "url": "https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId"
       },
@@ -705,6 +723,24 @@
       "duration_ms": 140750,
       "name": "I Thought I'd Never Forget",
       "url": "https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/2KiX8D8GGwlXgjfwYb5z8M"
+      },
+      "artists": [
+        {
+          "name": "BlackDarkwin",
+          "url": "https://open.spotify.com/artist/66nc7AwBS925cs768stOQg"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173763,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/63UfuiDT4cb2fi4LPSNvlm"
     },
     {
       "album": {

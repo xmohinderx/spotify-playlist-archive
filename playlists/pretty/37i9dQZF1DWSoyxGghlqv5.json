@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 416595,
+  "num_followers": 416625,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMDc1MzExYjA5YzA5YjYxZTkxMmUwMmYwNTk1ZDBmMjQz",
+  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMDA1MjNhMjk3MWUyNDMzMGRmZGMxNzZkODkyMDlmZTk3",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 220290,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -991,22 +991,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Man of the Woods",
-        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 278893,
-      "name": "Say Something (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     }
   ],
   "unique_name": "Pop Study",

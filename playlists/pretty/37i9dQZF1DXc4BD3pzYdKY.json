@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: nobigdyl.",
-  "num_followers": 104747,
+  "num_followers": 104782,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODA0MTMwNywwMDAwMDAwMDdiMWU3ZGQxYWJjZDEyMThkMTg0YWNhZjkwMTgwODcz",
+  "snapshot_id": "MTY1ODA0MTMwNywwMDAwMDAwMDgxMWM5NzljMGVlOGFhNTMzMzk2ODE1YjM0Y2I3NzY3",
   "tracks": [
     {
       "added_at": "2022-07-17 07:01:47",
@@ -63,6 +63,26 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
+        "name": "Any Attack",
+        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 113051,
+      "name": "Any Attack",
+      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 189009,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -303,8 +303,8 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+        "name": "AOTY",
+        "url": "https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+      "duration_ms": 240952,
+      "name": "my year",
+      "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -479,8 +479,8 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "AOTY",
-        "url": "https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm"
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 240952,
-      "name": "my year",
-      "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
-      },
-      "artists": [
-        {
-          "name": "Gabby Callwood",
-          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
-        }
-      ],
-      "duration_ms": 152359,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 157675,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
+      },
+      "artists": [
+        {
+          "name": "Gabby Callwood",
+          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
+        }
+      ],
+      "duration_ms": 152359,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
         "name": "Accelerate",
         "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 127409,
       "name": "Accelerate",
       "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM"
-      },
-      "artists": [
-        {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Be A Legend",
-        "url": "https://open.spotify.com/album/7oA2MPtEJ9eznXrdAQUUTw"
-      },
-      "artists": [
-        {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
-        },
-        {
-          "name": "Kaleb Mitchell",
-          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
-        },
-        {
-          "name": "Ray Knowledge",
-          "url": "https://open.spotify.com/artist/6rC0wm1tZX8cq6vGsUNxad"
-        }
-      ],
-      "duration_ms": 158261,
-      "name": "Be A Legend",
-      "url": "https://open.spotify.com/track/75p5NhL7PoweYeCNK4UGFw"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
         "name": "My Bruddas",
         "url": "https://open.spotify.com/album/2ijkyNFFJUHG4g8eBaarQS"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 179696,
       "name": "My Bruddas",
       "url": "https://open.spotify.com/track/4VfPAgdUPrwnat0kOsbdRu"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
+        "name": "Be A Legend",
+        "url": "https://open.spotify.com/album/7oA2MPtEJ9eznXrdAQUUTw"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Kaleb Mitchell",
+          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
+        },
+        {
+          "name": "Ray Knowledge",
+          "url": "https://open.spotify.com/artist/6rC0wm1tZX8cq6vGsUNxad"
+        }
+      ],
+      "duration_ms": 158261,
+      "name": "Be A Legend",
+      "url": "https://open.spotify.com/track/75p5NhL7PoweYeCNK4UGFw"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
+        "name": "On Gang",
+        "url": "https://open.spotify.com/album/4jNzrBSvSd1Prz4zwb9Cih"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 147705,
+      "name": "On Gang",
+      "url": "https://open.spotify.com/track/7n1WvbVPyDlqHy5ts67S4W"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
         "name": "PERFECT TIMING",
         "url": "https://open.spotify.com/album/1knLF1fWNXWP0E0Ot9mz7q"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "On Gang",
-        "url": "https://open.spotify.com/album/4jNzrBSvSd1Prz4zwb9Cih"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 147705,
-      "name": "On Gang",
-      "url": "https://open.spotify.com/track/7n1WvbVPyDlqHy5ts67S4W"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
         "name": "bounce back.",
         "url": "https://open.spotify.com/album/748L8OCoABosEZF41AzgtM"
       },
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "shadows",
-        "url": "https://open.spotify.com/album/3kgOrJKObfGSJpNKhUimF2"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "LOGE",
-          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "shadows",
-      "url": "https://open.spotify.com/track/0gRbSSByq75AHyZKfyldZc"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
         "name": "Be Gone (feat. Mike Teezy)",
         "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 176076,
       "name": "Be Gone (feat. Mike Teezy)",
       "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
+        "name": "shadows",
+        "url": "https://open.spotify.com/album/3kgOrJKObfGSJpNKhUimF2"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "LOGE",
+          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "shadows",
+      "url": "https://open.spotify.com/track/0gRbSSByq75AHyZKfyldZc"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Mobbin'",
-        "url": "https://open.spotify.com/album/3QJPfHaj6f6KUJiGYNM09z"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 158522,
-      "name": "Mobbin'",
-      "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
         "name": "ON THA SEAT",
         "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 207068,
       "name": "ON THA SEAT",
       "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
+        "name": "Mobbin'",
+        "url": "https://open.spotify.com/album/3QJPfHaj6f6KUJiGYNM09z"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 158522,
+      "name": "Mobbin'",
+      "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1423,30 +1423,6 @@
       "duration_ms": 198600,
       "name": "Echo",
       "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
-        "name": "Relying",
-        "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        },
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 224030,
-      "name": "Relying",
-      "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1475,18 +1451,26 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Muzzle",
-        "url": "https://open.spotify.com/album/6F4nQqEvCzuejRPLPcslFD"
+        "name": "Relying",
+        "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
       "artists": [
         {
-          "name": "Zelijah Tishbite",
-          "url": "https://open.spotify.com/artist/1PyYLasAElH6ZMJ4n3DPh4"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        },
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 174811,
-      "name": "Muzzle",
-      "url": "https://open.spotify.com/track/205gltq1f8eo49aii55f81"
+      "duration_ms": 224030,
+      "name": "Relying",
+      "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1507,6 +1491,22 @@
       "duration_ms": 220000,
       "name": "In the Garden",
       "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
+        "name": "Muzzle",
+        "url": "https://open.spotify.com/album/6F4nQqEvCzuejRPLPcslFD"
+      },
+      "artists": [
+        {
+          "name": "Zelijah Tishbite",
+          "url": "https://open.spotify.com/artist/1PyYLasAElH6ZMJ4n3DPh4"
+        }
+      ],
+      "duration_ms": 174811,
+      "name": "Muzzle",
+      "url": "https://open.spotify.com/track/205gltq1f8eo49aii55f81"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Mirror Talk",
-        "url": "https://open.spotify.com/album/2oRFdjmAAE46TQTy4GWtGe"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "OBJ",
-      "url": "https://open.spotify.com/track/0hAnE1agFKDyJllMoxT3f1"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
         "name": "Father Forgive Us",
         "url": "https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/7dnIJ45luUssK7kNchHVGk"
+        "name": "Mirror Talk",
+        "url": "https://open.spotify.com/album/2oRFdjmAAE46TQTy4GWtGe"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
         }
       ],
-      "duration_ms": 116307,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/2FtFXgkmwp2WBg0QCOJoC8"
+      "duration_ms": 134893,
+      "name": "OBJ",
+      "url": "https://open.spotify.com/track/0hAnE1agFKDyJllMoxT3f1"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1623,6 +1607,22 @@
       "duration_ms": 179500,
       "name": "Siyahamba",
       "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/7dnIJ45luUssK7kNchHVGk"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/2FtFXgkmwp2WBg0QCOJoC8"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1663,42 +1663,6 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX"
-      },
-      "artists": [
-        {
-          "name": "Mystro Productions",
-          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
-        },
-        {
-          "name": "Kylie Odetta",
-          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
-        }
-      ],
-      "duration_ms": 267687,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m"
-      },
-      "artists": [
-        {
-          "name": "Sho Baraka",
-          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP"
       },
@@ -1719,6 +1683,26 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX"
+      },
+      "artists": [
+        {
+          "name": "Mystro Productions",
+          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
+        },
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "duration_ms": 267687,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
         "name": "On Purpose",
         "url": "https://open.spotify.com/album/1wmHkRGjEc028nM3DbGOq7"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 122000,
       "name": "On Purpose",
       "url": "https://open.spotify.com/track/1wwDJAyCAN3VpXDdYhPwxE"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m"
+      },
+      "artists": [
+        {
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Fight Of Your Life",
-        "url": "https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL"
-      },
-      "artists": [
-        {
-          "name": "Angie Rose",
-          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
-        }
-      ],
-      "duration_ms": 189664,
-      "name": "Fight Of Your Life",
-      "url": "https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
         "name": "Helga",
         "url": "https://open.spotify.com/album/4GpsaQPRX1Sjv628WlMFRC"
       },
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Voice",
-        "url": "https://open.spotify.com/album/5DpQd4GMkzUUQQsCe67j9V"
+        "name": "Fight Of Your Life",
+        "url": "https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL"
       },
       "artists": [
         {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
         }
       ],
-      "duration_ms": 132972,
-      "name": "Voice",
-      "url": "https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO"
+      "duration_ms": 189664,
+      "name": "Fight Of Your Life",
+      "url": "https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
+        "name": "Voice",
+        "url": "https://open.spotify.com/album/5DpQd4GMkzUUQQsCe67j9V"
+      },
+      "artists": [
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        }
+      ],
+      "duration_ms": 132972,
+      "name": "Voice",
+      "url": "https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
         "name": "Trophy Gvng",
         "url": "https://open.spotify.com/album/4XtdoRCSPmYXCGzfppSsM8"
       },
@@ -1831,6 +1831,22 @@
       "duration_ms": 155666,
       "name": "Trophy Gvng",
       "url": "https://open.spotify.com/track/1Sqk0qcuR6LjO3sEZ9u4cG"
+    },
+    {
+      "added_at": "2022-07-17 07:01:47",
+      "album": {
+        "name": "Joy!",
+        "url": "https://open.spotify.com/album/4YRHb5REEs6LifMC4BhoPF"
+      },
+      "artists": [
+        {
+          "name": "Caleb McCoy",
+          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Joy!",
+      "url": "https://open.spotify.com/track/0kv9dmXc1f2zdgbWtqekhd"
     },
     {
       "added_at": "2022-07-17 07:01:47",
@@ -1871,34 +1887,22 @@
     {
       "added_at": "2022-07-17 07:01:47",
       "album": {
-        "name": "Joy!",
-        "url": "https://open.spotify.com/album/4YRHb5REEs6LifMC4BhoPF"
+        "name": "look alike.",
+        "url": "https://open.spotify.com/album/4FaGtg2q9SPjORmvuEGLUn"
       },
       "artists": [
         {
-          "name": "Caleb McCoy",
-          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Joy!",
-      "url": "https://open.spotify.com/track/0kv9dmXc1f2zdgbWtqekhd"
-    },
-    {
-      "added_at": "2022-07-17 07:01:47",
-      "album": {
-        "name": "CELEBRATE",
-        "url": "https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3"
-      },
-      "artists": [
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        },
         {
-          "name": "Mystro Productions",
-          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
         }
       ],
-      "duration_ms": 224658,
-      "name": "CELEBRATE",
-      "url": "https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6"
+      "duration_ms": 169714,
+      "name": "look alike.",
+      "url": "https://open.spotify.com/track/7xqPUPpZFtZGhenQ5YGtAt"
     }
   ],
   "unique_name": "The Flow",

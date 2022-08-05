@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,512 likes - 81 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,511 likes - 81 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 46 | [Replace Me \(feat\. Big Sean & Don Toliver\)](https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:50 |
 | 47 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
 | 48 | [I Get A Kick Out Of You](https://open.spotify.com/track/6tANJIaIQAFhMxgnafAZd2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:33 |
-| 49 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
-| 50 | [El Flechazo y la Secuela](https://open.spotify.com/track/4dmqFKct1Bevg0rRgRJnVW) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Negro](https://open.spotify.com/album/3WaCKsMVezVSHZ5HIbQfg9) | 3:31 |
+| 49 | [El Flechazo y la Secuela](https://open.spotify.com/track/4dmqFKct1Bevg0rRgRJnVW) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Negro](https://open.spotify.com/album/3WaCKsMVezVSHZ5HIbQfg9) | 3:31 |
+| 50 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
 | 51 | [Nightlight](https://open.spotify.com/track/7ksAGloyLZyKThB86rErvT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:42 |
 | 52 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
 | 53 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 66 | [Born Again \(feat\. Robert Glasper\)](https://open.spotify.com/track/15EnrATZ5wMy8fqA5QF6KV) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:43 |
 | 67 | [Down And Out Downtown](https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:42 |
 | 68 | [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 |
-| 69 | [Find My Way \(feat\. Beck\)](https://open.spotify.com/track/31qXplFmLu7xuTfvBEgDij) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Find My Way \(feat\. Beck\)](https://open.spotify.com/album/2XxT1xJT1xrDUdHm9xC0dx) | 4:53 |
-| 70 | [My Weapon](https://open.spotify.com/track/35V80RFVUSddHYuln49G04) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [No Stranger](https://open.spotify.com/album/4wYslUVJNf2XSXBpbTVTMk) | 4:21 |
+| 69 | [My Weapon](https://open.spotify.com/track/35V80RFVUSddHYuln49G04) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [No Stranger](https://open.spotify.com/album/4wYslUVJNf2XSXBpbTVTMk) | 4:21 |
+| 70 | [Find My Way \(feat\. Beck\)](https://open.spotify.com/track/31qXplFmLu7xuTfvBEgDij) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Find My Way \(feat\. Beck\)](https://open.spotify.com/album/2XxT1xJT1xrDUdHm9xC0dx) | 4:53 |
 | 71 | [That's Life](https://open.spotify.com/track/2Wn4ZAlT5cSAdPW8xUoNwg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:39 |
 | 72 | [Native Son](https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 3:10 |
 | 73 | [Like You Love Me \(Live\)](https://open.spotify.com/track/62Qaykz4DaNtYp3Q2rgSrc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven \(Live\)](https://open.spotify.com/album/2CSitfTkVN7AkOXKYdF4Sc) | 3:47 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 80 | [We Swing \(The Cypher\)](https://open.spotify.com/track/4xtd1UED9e4b0bbikgWH5P) | [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Generations](https://open.spotify.com/album/16ap4qGPg3SNSxp2c6tthY) | 5:38 |
 | 81 | [Time Traveler](https://open.spotify.com/track/4Uf5U3hYFdeAebC2Bm8Wvj) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Time Traveler](https://open.spotify.com/album/6KEx3AAG8tKgtSyban6cgh) | 4:29 |
 
-Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDQwNWYxZGNlMDE1ZjRmOGM3NGFjZGQxMDJmOGY5MGU5`
+Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDg5M2MzZTMyZDJiYjA3NDVlODUyNzA1ODkzZjdiZjlh`

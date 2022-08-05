@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44979,
+  "num_followers": 44973,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMDU0MjMyNDU3YzJkNjUxMzhhNjNkODA2Y2I2MjI0YmI2",
+  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMDhlYzllNTJhZTA1YzE5NTg3NjdiOTMzZjU4MjMxNzg5",
   "tracks": [
     {
       "added_at": "2021-12-21 12:48:59",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 159544,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4EMFafiPV0WM7ogBpJbfzO"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Christmas With The Andrews Sisters",
         "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 180160,
       "name": "I'd Like To Hitch A Ride With Santa Claus",
       "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 159544,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4EMFafiPV0WM7ogBpJbfzO"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Let's Share Christmas",
-        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
-      },
-      "artists": [
-        {
-          "name": "Don Sebesky",
-          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters (Remastered)",
         "url": "https://open.spotify.com/album/0w8UpAutS4akZSqbvJH4fk"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 187906,
       "name": "The First Snowfall - Single Version",
       "url": "https://open.spotify.com/track/1OwGYy9S2R0lzhoGn7vv6S"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Let's Share Christmas",
+        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
+      },
+      "artists": [
+        {
+          "name": "Don Sebesky",
+          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "The Very Best Time Of Year",
         "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "'Tis The Season",
         "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 200180,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
+      },
+      "artists": [
+        {
+          "name": "Javon Jackson",
+          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -823,22 +839,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
-      },
-      "artists": [
-        {
-          "name": "Javon Jackson",
-          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Joe Stilgoe's Christmas Album",
         "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "A Song For Christmas",
-      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "It's Christmas Time",
         "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 159622,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "A Song For Christmas",
+      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
     },
     {
       "added_at": "2021-12-21 12:48:59",

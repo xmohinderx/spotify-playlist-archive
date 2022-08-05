@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,036 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,115 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 18 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
 | 19 | [Wild World](https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [John Gallen](https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH) | [Maxi](https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1) | 3:38 |
 | 20 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
-| 21 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 |
-| 22 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/7vCEPLGrLHqBHyRPPsweYY) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 3:15 |
+| 21 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/7vCEPLGrLHqBHyRPPsweYY) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 3:15 |
+| 22 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 |
 | 23 | [Is This Love](https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:50 |
 | 24 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 |
 | 25 | [Tomorrow People](https://open.spotify.com/track/07QZEz7d4OS6vmS1iiwJCc) | [Ziggy Marley & The Melody Makers](https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD) | [Conscious Party](https://open.spotify.com/album/31dATgHjk7MwSkzrtNUurs) | 3:38 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Return of Django](https://open.spotify.com/track/3X6b40Xr4zxbyLatxilx6T) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Return of Django \(Bonus Track Edition\)](https://open.spotify.com/album/7ySlkE3H2N0QRsfWGcqvCl) | 2:29 |
 | 40 | [Pressure \(feat\. Buju Banton\) \- Remix](https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Pressure \(feat\. Buju Banton\) \[Remix\]](https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2) | 3:58 |
 
-Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMDlkNGQ4OTk2MjcxNzUyMTY1MTRmY2YzMjU0MjYyZmQ4`
+Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMDdhMmIzMjU4YWI5YzdlMzQzYThhM2ZlODlkYTljZDVi`

@@ -1592,7 +1592,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HAIM](/playlists/pretty/5hINCaYWvVwzzLmhh4y11x.md)
 - [HATSUNE MIKU/ 初音ミク Project DIVA series](/playlists/pretty/37i9dQZF1DXd8cPo2t5Hqf.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
-- [HOT NOW: Beyoncé \- CHURCH GIRL](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW: Kenia OS \- Todo My Love](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)

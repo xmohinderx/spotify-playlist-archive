@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 504640,
+  "num_followers": 504682,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3NjEyNiwwMDAwMDAwMGNhZjdiMzcwOWVkMzIzODI5NThlZTIyNTI2YzZlNDkw",
+  "snapshot_id": "MTY1OTQ3NjEyNiwwMDAwMDAwMDE1N2ViMDQ2YzkyNTQ4OWQwNTc2NDQ1OGUxMWJhN2Rh",
   "tracks": [
     {
       "added_at": "2022-08-02 21:35:26",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-02 21:35:26",
       "album": {
-        "name": "Polkas Mexicanas",
-        "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
-      },
-      "artists": [
-        {
-          "name": "Mariachi M\u00e9xico de Pepe Villa",
-          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
-        }
-      ],
-      "duration_ms": 160760,
-      "name": "Jesusita En Chihuahua",
-      "url": "https://open.spotify.com/track/6uPPaJBSEn1kp9ZUQuDfEq"
-    },
-    {
-      "added_at": "2022-08-02 21:35:26",
-      "album": {
         "name": "Negra Linda",
         "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 154940,
       "name": "La Vaquilla (El Son De La Vaquilla)",
       "url": "https://open.spotify.com/track/6t3WZj3a8HC39fw57SqQEz"
+    },
+    {
+      "added_at": "2022-08-02 21:35:26",
+      "album": {
+        "name": "Polkas Mexicanas",
+        "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
+      },
+      "artists": [
+        {
+          "name": "Mariachi M\u00e9xico de Pepe Villa",
+          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
+        }
+      ],
+      "duration_ms": 160760,
+      "name": "Jesusita En Chihuahua",
+      "url": "https://open.spotify.com/track/6uPPaJBSEn1kp9ZUQuDfEq"
     },
     {
       "added_at": "2022-08-02 21:35:26",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-02 21:35:26",
       "album": {
-        "name": "Pedro Infante y Mariachi Silvestre Vargas",
-        "url": "https://open.spotify.com/album/5QzKzP81GQJbx6GUVk0JSa"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Silvestre Vargas",
-          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
-        }
-      ],
-      "duration_ms": 168751,
-      "name": "La Culebra",
-      "url": "https://open.spotify.com/track/5g3vaKhD92Chh6Wm5f1c3e"
-    },
-    {
-      "added_at": "2022-08-02 21:35:26",
-      "album": {
         "name": "Las 100 Clasicas Vol. 1",
         "url": "https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 215933,
       "name": "Virgencita de Zapopan",
       "url": "https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca"
+    },
+    {
+      "added_at": "2022-08-02 21:35:26",
+      "album": {
+        "name": "Pedro Infante y Mariachi Silvestre Vargas",
+        "url": "https://open.spotify.com/album/5QzKzP81GQJbx6GUVk0JSa"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Silvestre Vargas",
+          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
+        }
+      ],
+      "duration_ms": 168751,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/5g3vaKhD92Chh6Wm5f1c3e"
     },
     {
       "added_at": "2022-08-02 21:35:26",
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 117333,
-      "name": "La Adelita",
-      "url": "https://open.spotify.com/track/2GQUkQXwOgt3ZaQHLEuCfx"
+      "duration_ms": 168053,
+      "name": "El carrettero",
+      "url": "https://open.spotify.com/track/0XUNHaJR3KXWnD04OuAOtE"
     },
     {
       "added_at": "2022-08-02 21:35:26",
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 168053,
-      "name": "El carrettero",
-      "url": "https://open.spotify.com/track/0XUNHaJR3KXWnD04OuAOtE"
+      "duration_ms": 117333,
+      "name": "La Adelita",
+      "url": "https://open.spotify.com/track/2GQUkQXwOgt3ZaQHLEuCfx"
     },
     {
       "added_at": "2022-08-02 21:35:26",

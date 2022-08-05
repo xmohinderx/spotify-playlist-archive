@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-319 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+320 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dance With Me](https://open.spotify.com/track/4JK3GyeM5KmkakCb8DjQg4) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Outta Line](https://open.spotify.com/album/7mBvjkKnQZzHZ6yBYvobUZ) | 3:14 | 2022-02-04 | 2022-05-29 |
 | [Dangerous](https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Dangerous](https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL) | 2:32 | 2022-03-23 |  |
 | [DAY ONES](https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT) | [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w), [DJLC](https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ) | [DAY ONES](https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD) | 3:12 | 2022-07-17 | 2022-07-29 |
-| [Directions](https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:33 | 2022-07-17 |  |
+| [Directions](https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:33 | 2022-07-17 | 2022-08-05 |
 | [Directions](https://open.spotify.com/track/3YhXESohpSdlgZKyfSyhmu) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:33 | 2022-02-04 | 2022-07-16 |
 | [Do It Anyway \(feat\. Kadence\)](https://open.spotify.com/track/25L031n0unw4IKDjabQuwN) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8), [Kadence](https://open.spotify.com/artist/66hLPzjlDsYDpVWTZcfsiC) | [BDFFRNT](https://open.spotify.com/album/72UBvLUrnv8zywcyB7RrrH) | 3:51 | 2022-02-04 |  |
 | [Dominate](https://open.spotify.com/track/0W96zt43Fsb77uTeK22ngc) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Going Up](https://open.spotify.com/album/4bKy5Vgf8NassyUGIEc2We) | 3:17 | 2022-02-04 | 2022-06-25 |
@@ -243,6 +243,7 @@
 | [Respect My Team](https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Respect My Team](https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe) | 3:47 | 2022-07-17 |  |
 | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/track/0hD5WoXq5PfWYWPcZnIEXm) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD) | 4:00 | 2022-02-04 |  |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL) | 1:42 | 2022-07-17 | 2022-08-04 |
+| [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/4BImovSekry2KFLxwmy0Wd) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/5OfbkXXWC6iPFiubnb0NrY) | 1:42 | 2022-07-17 |  |
 | [Ruckus](https://open.spotify.com/track/4RWpsZUfHdfCVX1KgpQgWU) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Crispin](https://open.spotify.com/artist/0rMwQONuoIsaJir7AFSTTZ) | [Ruckus](https://open.spotify.com/album/389d4pSwwuFlDxsvOwsIXd) | 3:00 | 2022-03-23 | 2022-04-21 |
 | [Run It Up](https://open.spotify.com/track/1IfbrVnmsCJBYeSmULBC5c) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Run It Up](https://open.spotify.com/album/2EfvnFJwGxdmegKVWCmPAA) | 2:18 | 2022-02-04 |  |
 | [RUSH](https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61) | [Kaboose](https://open.spotify.com/artist/2zD5NNTrgXT3o2RVrRBvv1), [Joe Bills](https://open.spotify.com/artist/1W0jgt0r6ladSy83zw9Ik4) | [RUSH](https://open.spotify.com/album/065QDCv1XieAGlpweuCSEP) | 2:49 | 2022-04-30 | 2022-07-29 |

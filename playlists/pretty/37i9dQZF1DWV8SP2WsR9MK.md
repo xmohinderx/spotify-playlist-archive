@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,658 likes - 98 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,740 likes - 98 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 49 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 |
 | 50 | [Alone Together \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/3IVB1oNHzF3Eyhh6L5FbRA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Street \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q) | 7:12 |
 | 51 | [For Toddlers Only](https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Jazz Guitar](https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK) | 5:18 |
-| 52 | [Wholly Cats](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 |
+| 52 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
 | 53 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
-| 54 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
+| 54 | [Wholly Cats](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 |
 | 55 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
 | 56 | [You Go To My Head](https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:37 |
 | 57 | [I'll Be Seeing You](https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy), [Gary Versace](https://open.spotify.com/artist/3bklSQEy3caQzQT5GQ5Nhp), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k), [Mark Ferber](https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w) | [Night Songs](https://open.spotify.com/album/1sVOdEgJidStrGyDLrwqcx) | 7:23 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 97 | [D\-Natural Blues](https://open.spotify.com/track/1mpbChqlrnVyvlxJMiADkp) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 5:22 |
 | 98 | [Walkin' Up](https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho) | 3:19 |
 
-Snapshot ID: `MTY1MzM5ODg1MywwMDAwMDAwMDY0M2VlMjE1ODZmYjBhYTZhYjI5YzcwZGY0ZGJlZTVi`
+Snapshot ID: `MTY1MzM5ODg1MywwMDAwMDAwMGFjNTQ0ZDQ0MDhmMDg1MDA2MGM4ZjcxZWMyMTJhOTg5`

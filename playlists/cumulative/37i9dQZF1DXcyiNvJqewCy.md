@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-263 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/54I04EmnPnUUEk8lPEzRH1)
+264 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/54I04EmnPnUUEk8lPEzRH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 | 2022-06-24 |  |
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-07-29 |  |
 | [Addicted To The Sunshine](https://open.spotify.com/track/3Rb7HXCPIzxBbelwdL15O3) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 4:30 | 2022-04-05 | 2022-07-29 |
-| [Afternoon Delight](https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua) | [Starland Vocal Band](https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1) | [Starland Vocal Band](https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk) | 3:13 | 2022-07-29 |  |
+| [Afternoon Delight](https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua) | [Starland Vocal Band](https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1) | [Starland Vocal Band](https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk) | 3:13 | 2022-07-29 | 2022-08-05 |
 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 | 2022-04-05 | 2022-07-28 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-04-05 |  |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2022-04-05 | 2022-07-29 |
@@ -25,6 +25,7 @@
 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 | 2022-07-29 |  |
 | [Be My Baby](https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Presenting the Fabulous Ronettes Featuring Veronica](https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy) | 2:40 | 2022-07-29 |  |
 | [Be Slow](https://open.spotify.com/track/23GmSpYkMks0ulGGr9hYsF) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/21riF5CPBLenJBAfwXknrT) | 3:25 | 2022-04-05 | 2022-07-29 |
+| [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 | 2022-07-29 |  |
 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 | 2022-04-05 | 2022-07-29 |
 | [Better Unsaid](https://open.spotify.com/track/7LRWlefaWAmv7HebeTxWpt) | [Liyah Knight](https://open.spotify.com/artist/5We4m1ZNMQBteKJNc7CvhF) | [Better Unsaid](https://open.spotify.com/album/1dFDgPWd8n152I8xnwpKvx) | 3:24 | 2022-04-05 | 2022-07-17 |
 | [Between You & I](https://open.spotify.com/track/5bXNVJIJTnb1iaHKxTOKRh) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Between You & I](https://open.spotify.com/album/3XuQWYtFZQKxyQ0cDWHuve) | 4:13 | 2022-04-05 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 112477,
+  "num_followers": 112628,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU4NiwwMDAwMDAwMGVlOGExNGUxMGY0ODdhZmY2ZGFmNmM2NzNhZGFiNzc2",
+  "snapshot_id": "MTY1OTEwNTU4NiwwMDAwMDAwMDc4NDhlM2Y1MmEwOTljOGIxZjQ2YTk3M2IyNTkwMmVh",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:46",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-07-29 14:39:46",
       "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
-    },
-    {
-      "added_at": "2022-07-29 14:39:46",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 167000,
       "name": "Papa Ain't Salty",
       "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
+    },
+    {
+      "added_at": "2022-07-29 14:39:46",
+      "album": {
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
     },
     {
       "added_at": "2022-07-29 14:39:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-07-29 14:39:46",
       "album": {
-        "name": "His Best: The Electric B.B. King (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 309373,
-      "name": "Don't Answer The Door",
-      "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
-    },
-    {
-      "added_at": "2022-07-29 14:39:46",
-      "album": {
         "name": "Smoke From The Chimney",
         "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 266013,
       "name": "Bubba Jones",
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
+    },
+    {
+      "added_at": "2022-07-29 14:39:46",
+      "album": {
+        "name": "His Best: The Electric B.B. King (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 309373,
+      "name": "Don't Answer The Door",
+      "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
     },
     {
       "added_at": "2022-07-29 14:39:46",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-07-29 14:39:46",
       "album": {
-        "name": "One Scotch, One Bourbon, One Beer",
-        "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
+        "name": "Hoodoo (Commentary Version)",
+        "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
       },
       "artists": [
         {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
         }
       ],
-      "duration_ms": 192121,
-      "name": "One Scotch, One Bourbon, One Beer",
-      "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
+      "duration_ms": 268946,
+      "name": "Who You Gonna Hoodoo Now?",
+      "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
     }
   ],
   "unique_name": "Blues on the Rocks",

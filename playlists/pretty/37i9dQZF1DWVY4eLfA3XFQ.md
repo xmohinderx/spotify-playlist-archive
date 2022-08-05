@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Chris Lorenzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,001 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,114 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 24 | [Dance Or Die](https://open.spotify.com/track/0bf5Jsf2DzO8TXuV5eEDPE) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Dance Or Die](https://open.spotify.com/album/02dDeBJv14dvvF6p4kXVlR) | 6:16 |
 | 25 | [Real Nu Rave](https://open.spotify.com/track/78tfQxr0HGWVlHFkR5lBK8) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Real Nu Rave](https://open.spotify.com/album/25sT5VKHzmvLH7tkWG4dBY) | 3:31 |
 | 26 | [La Candela Viva](https://open.spotify.com/track/7nXUx5OiBbR4gmKMW91Jjo) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [La Candela Viva](https://open.spotify.com/album/1QKqaGnIWDOk4w5eX0rjjE) | 3:00 |
-| 27 | [Afraid To Feel \- CID Remix](https://open.spotify.com/track/1mvypEtmZxHz1GT6zaW67g) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Afraid To Feel \(CID Remix\)](https://open.spotify.com/album/1QxcMxNHAkFTSULS2RbRck) | 3:25 |
+| 27 | [Afraid To Feel \- CID Remix](https://open.spotify.com/track/6dvnv0i0XRht7krRl9Cxa1) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Afraid To Feel](https://open.spotify.com/album/7MyFYLIU17KlllsurPyosf) | 3:25 |
 | 28 | [Hella](https://open.spotify.com/track/45InXApu4gOT5EzXwBgkKH) | [Kyle Kinch](https://open.spotify.com/artist/75BXoaGWmzkzAHQVP69U9U), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Hella](https://open.spotify.com/album/4S6K91yvwR38JP4ssauwf9) | 2:52 |
 | 29 | [Sunshine](https://open.spotify.com/track/0qH77q5xCLdGaf19ZNNRxA) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [J Farrukh](https://open.spotify.com/artist/4JM9FW5tJQBkarX1rLTRT0) | [Sunshine](https://open.spotify.com/album/2c6jGCUhdCwGktUHo2DfQ8) | 3:10 |
 | 30 | [Every Day](https://open.spotify.com/track/01M7x4t9oymyXHxs3hxjF1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [CRCLE](https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS) | [Every Day](https://open.spotify.com/album/2ic8qpKW6f6VCcsYgUo6MN) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 99 | [Housemusic](https://open.spotify.com/track/6bBSlQDNFusI4R7yMdSBfB) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O), [Jess Kidd](https://open.spotify.com/artist/00PPjSt954K0mT5tDgfOan) | [Housemusic](https://open.spotify.com/album/4zx3amdm3TIskVdAzKKc4q) | 2:41 |
 | 100 | [Records U Play](https://open.spotify.com/track/5VkNcbo3JDsUw25CLP6FZh) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Records U Play](https://open.spotify.com/album/01KBC88qZIv2iIEVodMQe6) | 3:06 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDIyOGQxZmI4YTE5MDk4MDcyYjg2MzdkYzIyYTg1N2Q2`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGI1NGQyNDJhZDE1NWVhMWVkYTAyYWI3MGQ1ZDYyY2U0`

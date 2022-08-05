@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vuelve el Cosqu\u00edn Rock! 12 y 13 de Febrero, Aer\u00f3dromo Santa Mar\u00eda de Punilla, C\u00f3rdoba.",
-  "num_followers": 22666,
+  "num_followers": 22682,
   "original_name": "Cosqu\u00edn Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMDBmMWQ0N2I3YzJmMTFmYTMyNGY0YjQ5NWMxMTIzOWZi",
+  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMGZhMWFjM2I5MTNiMDU2ODQzZjA4MTQ3ZjMzNTk2OTgz",
   "tracks": [
     {
       "added_at": "2022-02-07 20:34:45",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Espejos",
+        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 277318,
+      "name": "Insisto",
+      "url": "https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
@@ -591,18 +607,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Espejos",
-        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 277318,
-      "name": "Insisto",
-      "url": "https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS"
+      "duration_ms": 170981,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -631,26 +651,6 @@
       "duration_ms": 174857,
       "name": "Eres Para M\u00ed",
       "url": "https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
-      },
-      "artists": [
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 170981,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "El Disco de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/1nZJhX71HCQuyaCIyojXNG"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 190153,
       "name": "Water",
       "url": "https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "El Disco de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/1nZJhX71HCQuyaCIyojXNG"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "El camino de la libertad",
+        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 221817,
+      "name": "Onliyu",
+      "url": "https://open.spotify.com/track/1wkYvavzFjQgVudTRnofuB"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "El Marginal",
         "url": "https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 247375,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "El camino de la libertad",
-        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 221817,
-      "name": "Onliyu",
-      "url": "https://open.spotify.com/track/1wkYvavzFjQgVudTRnofuB"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 285956,
-      "name": "Bar\u00f3n Rojo",
-      "url": "https://open.spotify.com/track/49einNPAfEj7geS2yzV0xu"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Una Caricia",
         "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 211493,
       "name": "Partenaire",
       "url": "https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 285956,
+      "name": "Bar\u00f3n Rojo",
+      "url": "https://open.spotify.com/track/49einNPAfEj7geS2yzV0xu"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1343,22 +1343,6 @@
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/0l6LVRTDNFSHVBsqQvMR62"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "Naranja Persa 2",
-        "url": "https://open.spotify.com/album/6T9Wi2Ffcuh1iM9pHmxAC9"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 241914,
-      "name": "Toaster (Give Me Back My)",
-      "url": "https://open.spotify.com/track/5drpThSxHXBRDiD7uJYT7C"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Naranja Persa 2",
+        "url": "https://open.spotify.com/album/6T9Wi2Ffcuh1iM9pHmxAC9"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 241914,
+      "name": "Toaster (Give Me Back My)",
+      "url": "https://open.spotify.com/track/5drpThSxHXBRDiD7uJYT7C"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "Ya no Queda m\u00e1s Lugar Bajo la Alfombra",
         "url": "https://open.spotify.com/album/5RnZm5xS1oZ3QEaz5qvPkF"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Picante",
-        "url": "https://open.spotify.com/album/2vM4XgkyBTi7kKpxFvrpdl"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 187159,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/5VB2lmH2J2tnJBjMURSN6r"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Serie Oro",
         "url": "https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 256360,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/20qY3fMWpcMN0lWIeMRvXz"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Picante",
+        "url": "https://open.spotify.com/album/2vM4XgkyBTi7kKpxFvrpdl"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 187159,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/5VB2lmH2J2tnJBjMURSN6r"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/5qu9yhvRNZKouzxyUa4luV"
+        "name": "Pacto de Sangre",
+        "url": "https://open.spotify.com/album/5hbILog4k1bsYkJTnnLDcT"
       },
       "artists": [
         {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+          "name": "Nagual",
+          "url": "https://open.spotify.com/artist/0EHTNOyiEIqOIkE5tlnV4u"
         }
       ],
-      "duration_ms": 199763,
-      "name": "Gente cool",
-      "url": "https://open.spotify.com/track/6JDFOZuHBoLd7cfIWAQODM"
+      "duration_ms": 243733,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/6maz5qNXcVL8PG8UP99QcK"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Pacto de Sangre",
-        "url": "https://open.spotify.com/album/5hbILog4k1bsYkJTnnLDcT"
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/5qu9yhvRNZKouzxyUa4luV"
       },
       "artists": [
         {
-          "name": "Nagual",
-          "url": "https://open.spotify.com/artist/0EHTNOyiEIqOIkE5tlnV4u"
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
         }
       ],
-      "duration_ms": 243733,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/6maz5qNXcVL8PG8UP99QcK"
+      "duration_ms": 199763,
+      "name": "Gente cool",
+      "url": "https://open.spotify.com/track/6JDFOZuHBoLd7cfIWAQODM"
     },
     {
       "added_at": "2022-02-07 20:34:45",

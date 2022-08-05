@@ -4,7 +4,7 @@
 
 > maggie :\)
 
-1,770 songs - 3 day 22 hr 40 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,771 songs - 3 day 22 hr 43 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1213,6 +1213,7 @@
 | [Pieces Of Me](https://open.spotify.com/track/7yXibbAYi4to5oQTeO738f) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Autobiography](https://open.spotify.com/album/0w11HUk0hE4WZ95Bvp6vNI) | 3:37 | 2021-03-06 | 2021-03-16 |
 | [PINCH ME](https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/7fh7NBMAAH6OJKfb3AsjGL) | 2:59 | 2021-03-09 | 2022-01-08 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2020-08-25 | 2020-09-10 |
+| [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:53 | 2022-08-04 |  |
 | [Pink Pony Club](https://open.spotify.com/track/6IFjVdrrtV3MngDnP89bHM) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/3PKq6CrZYLvkNvTLD5DO4x) | 4:18 | 2021-08-07 | 2022-01-08 |
 | [Pink Slips](https://open.spotify.com/track/3YmZVcLHWCjMlHfLaM7nTf) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Pink Slips](https://open.spotify.com/album/0HSukgQ6gAyNJmTfXJAeVW) | 3:12 | 2021-08-05 | 2021-11-13 |
 | [Pink Soldiers](https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 0:38 | 2021-10-06 | 2021-11-13 |
@@ -1652,7 +1653,7 @@
 | [Used To Love](https://open.spotify.com/track/6WC27GPEjsX24Vv12VX6mb) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Used To Love](https://open.spotify.com/album/2oGxWLARSLplTHJ4HhiwPD) | 3:35 | 2019-10-04 | 2020-01-10 |
 | [useless](https://open.spotify.com/track/7KQ8sdFIWCCDXIcQDEeuzC) | [RUFUS](https://open.spotify.com/artist/2s5bedliLW2wGQgXprYzsP) | [useless](https://open.spotify.com/album/3Y9SgjeoJPTRImcJaYqYKm) | 2:36 | 2019-08-02 | 2020-02-05 |
 | [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 | 2020-07-31 | 2020-11-20 |
-| [vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [vampire](https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P) | 2:40 | 2022-05-06 |  |
+| [vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [vampire](https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P) | 2:40 | 2022-05-06 | 2022-08-05 |
 | [Vanity](https://open.spotify.com/track/073ieHTpc9Lfug88ojL9DT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 4:53 | 2020-08-20 | 2020-09-04 |
 | [Vanity](https://open.spotify.com/track/3I7axpzCW6bt5PhoM8kfrA) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Vanity](https://open.spotify.com/album/6FUrjjRfCi4MA9iI1BoLls) | 4:53 | 2019-10-11 | 2020-04-09 |
 | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA) | 3:12 | 2021-12-01 | 2022-04-09 |

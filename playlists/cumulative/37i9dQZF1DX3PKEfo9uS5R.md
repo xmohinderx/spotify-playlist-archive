@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-126 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+128 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-11-11 | 2022-01-22 |
 | [Don't Stop My Heart](https://open.spotify.com/track/5P4EpJA9NgsBpzDoGO4A98) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Don't Stop My Heart](https://open.spotify.com/album/59vG5QyIX7REK3sxomex53) | 3:14 | 2022-04-15 |  |
 | [Don't Wanna Let Go](https://open.spotify.com/track/3GINyEMoUV13pzJxNMuvxW) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Don't Wanna Let Go](https://open.spotify.com/album/2RQ5mV8lNxAzLRi8xKTgie) | 2:28 | 2022-05-27 |  |
+| [Dreamscape](https://open.spotify.com/track/6YHhIKNyqtWN0jHqvsrf10) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Dreamscape](https://open.spotify.com/album/0zZCLYy5ZUvqgFUfp9LcVd) | 2:27 | 2022-08-05 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-11-11 | 2022-05-20 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
 | [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 | 2021-11-11 | 2022-07-01 |
@@ -47,8 +48,9 @@
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2021-11-11 | 2022-02-11 |
 | [Fluffy](https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh) | [NoCloudSky](https://open.spotify.com/artist/6ED30UOfoZVV94homQZYHl) | [Fluffy](https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj) | 2:14 | 2021-11-11 | 2022-04-06 |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-11 |  |
-| [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 |  |
+| [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-08-05 |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-05-20 | 2022-07-22 |
+| [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 | 2022-08-05 |  |
 | [Get In](https://open.spotify.com/track/4KL9cG7OFgyf8rQa4x8SVP) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get In](https://open.spotify.com/album/1vcvwWac3LX0MHgWipFKT5) | 2:45 | 2021-11-11 |  |
 | [Ghosts](https://open.spotify.com/track/7fITMSuDsZGqZ34Na7Xwkc) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Ghosts](https://open.spotify.com/album/57E40q7LcDqv4yKH0jbXuP) | 3:31 | 2021-11-11 |  |
 | [Going Up](https://open.spotify.com/track/1ddppe7df96sqbzEkw7Khk) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Going Up](https://open.spotify.com/album/2dAz5HgtxPy5I5NYWiKABC) | 3:01 | 2022-05-10 |  |

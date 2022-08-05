@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,949 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,977 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 38 | [Custard Puff](https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [The Poll Winners Ride Again!](https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT) | 4:49 |
 | 39 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
 | 40 | [News From Blueport](https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 5:03 |
-| 41 | [Gettin' Together \[Original Take\]](https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 6:56 |
-| 42 | [Beyond the Blue Horizon](https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K) | [Chico Hamilton](https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04) | [Gongs East!](https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q) | 3:05 |
+| 41 | [Beyond the Blue Horizon](https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K) | [Chico Hamilton](https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04) | [Gongs East!](https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q) | 3:05 |
+| 42 | [Gettin' Together \[Original Take\]](https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 6:56 |
 | 43 | [We'll Be Together Again](https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 8:43 |
 | 44 | [Elora \- Take 1](https://open.spotify.com/track/2zt99thBhPU53vIw6bwkI6) | [Jay Johnson's Boppers](https://open.spotify.com/artist/3cUTizP3cVCrJ0AxUX0B60) | [Sonny Stitt, Bud Powell, J.J\. Johnson](https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB) | 3:03 |
 | 45 | [Willie Nillie](https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS) | [Maynard Ferguson](https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw) | [Verve Jazz Masters 52: Maynard Ferguson](https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Moon Tan](https://open.spotify.com/track/3vJ8Cik37ahoPCs1WyJEfh) | [Bobby Scott](https://open.spotify.com/artist/43B662mnCJQuYtIRACBHKD) | [East Coast Jazz, Vol\. 1 \(Remastered 2013\)](https://open.spotify.com/album/3Y8mMZZSCCC5S41t0URMnZ) | 3:47 |
 | 50 | [Nap's Dream](https://open.spotify.com/track/6ddIBDGs9jEu6uwtX195fu) | [The Les Brown All Stars](https://open.spotify.com/artist/46cKrKgQd9gRgQFxsINd9v) | [The Les Brown All Stars](https://open.spotify.com/album/6h086LNJI0xdpx2M264eUu) | 5:11 |
 
-Snapshot ID: `MTY0Njk5MzMxMSwwMDAwMDAwMDBlOGI0OTA5ODVjNjlmYzIwMDMwZDA1MDdlZTBlM2M4`
+Snapshot ID: `MTY0Njk5MzMxMSwwMDAwMDAwMGExNTI4YzI2ZGYwOTI5MmJhNGNkMTFjN2QyNWVkZjlj`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover: <a href=\"https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=gewfR37ORauKspbe5byFCA\"> Sha Sha </a>  and <a href=\"https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE?si=DxxB0XwMTe2e3eXbzo1Fgw\"> Ami Faku </a> ",
-  "num_followers": 342451,
+  "num_followers": 342770,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA4MTA0NCwwMDAwMDAwMDcxMThmNGI5YmIzYjBlNTVmNTM2NTM3NmU1ODYwOWJi",
+  "snapshot_id": "MTY1OTA4MTA0NCwwMDAwMDAwMDcxZGFhODM4MmUxODI4NTY1MTUxYWUyNGE3MGI2YWFh",
   "tracks": [
     {
       "added_at": "2022-06-08 08:17:45",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -701,6 +701,46 @@
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Multitude",
+        "url": "https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Mon amour (with Camila Cabello)",
+      "url": "https://open.spotify.com/track/0DTEFwaPFY812t6uUH5i7P"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
       "added_at": "2022-06-08 08:17:45",
       "album": {
         "name": "D O D O (Adekunle Gold Version)",
@@ -723,22 +763,18 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -763,22 +799,6 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
         "name": "Lie",
         "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Multitude",
-        "url": "https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Mon amour (with Camila Cabello)",
-      "url": "https://open.spotify.com/track/0DTEFwaPFY812t6uUH5i7P"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -873,26 +873,6 @@
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
       "added_at": "2022-07-21 23:00:00",
       "album": {
         "name": "Kenkele",
@@ -911,6 +891,26 @@
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -1005,6 +1005,26 @@
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 169583,
+      "name": "A Body, A Coffin",
+      "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
+    },
+    {
       "added_at": "2022-06-08 08:17:45",
       "album": {
         "name": "Want You",
@@ -1071,26 +1091,6 @@
       "duration_ms": 273600,
       "name": "Summer YoMuthi",
       "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 169583,
-      "name": "A Body, A Coffin",
-      "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
     },
     {
       "added_at": "2022-06-08 08:17:45",

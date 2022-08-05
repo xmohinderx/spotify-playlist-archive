@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-97 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+98 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 |  |
 | [Applaud](https://open.spotify.com/track/04wE6fWx2qMQUoA6EFBG8l) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Applaud](https://open.spotify.com/album/0YgUgNFFGKN2fiivbh2wmn) | 6:05 | 2022-07-22 | 2022-07-29 |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
-| [BAD \(Böser Als Du\)](https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Secret Weapons Part 14 V/VI](https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR) | 7:07 | 2022-06-24 |  |
+| [BAD \(Böser Als Du\)](https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Secret Weapons Part 14 V/VI](https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR) | 7:07 | 2022-06-24 | 2022-08-05 |
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Bigger Than Prince](https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR) | 6:35 | 2022-06-03 |  |
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-10 |  |
 | [Blackbird](https://open.spotify.com/track/2JY3csEWcMt3JqboZGE5cd) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S), [Zoë Xenia](https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg) | [Blackbird](https://open.spotify.com/album/6QRoboEziqck9Zdkxl8qJ3) | 6:48 | 2022-07-15 |  |
@@ -34,6 +34,7 @@
 | [Fia](https://open.spotify.com/track/5TREoPShL4tfACMEbHxuzL) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Fia](https://open.spotify.com/album/7DgEWcG8Ra9VtejKVfxw7t) | 8:03 | 2022-06-03 | 2022-07-29 |
 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 | 2022-07-08 |  |
 | [Free](https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Free / Love Me](https://open.spotify.com/album/7tlGEEHcWktB2dgYH1CzEB) | 7:01 | 2022-06-03 | 2022-07-29 |
+| [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 | 2022-07-29 |  |
 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 | 2022-07-22 |  |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |
 | [God Complex](https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-15 | 2022-07-29 |

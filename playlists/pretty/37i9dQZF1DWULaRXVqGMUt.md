@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,269 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,336 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 11 | [Pauly's Birthday Boogie](https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:38 |
 | 12 | [Boogie Woogie Country Man](https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Boogie Woogie Country Man](https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB) | 3:44 |
 | 13 | [Junco Partner \#2](https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [The Lost Paramount Tapes](https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr) | 3:55 |
-| 14 | [Nasty Boogie](https://open.spotify.com/track/3rzNjo8hXkNlMRsyl6Vwif) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:10 |
-| 15 | [Spann's Stomp](https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Chicago/The Blues/Today!](https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T) | 2:21 |
+| 14 | [Spann's Stomp](https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Chicago/The Blues/Today!](https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T) | 2:21 |
+| 15 | [Nasty Boogie](https://open.spotify.com/track/3rzNjo8hXkNlMRsyl6Vwif) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:10 |
 | 16 | [Boogie\-Woogie Man](https://open.spotify.com/track/0C9052f6xUxR4EDOjAJclV) | [Piano Connection](https://open.spotify.com/artist/4Zi01wuCkRLBOOwg2cjQtp), [Marcs Boogie](https://open.spotify.com/artist/2WzEFvuOPW5vOXX1RaBEBm) | [Boogie Woogie & Blues](https://open.spotify.com/album/4YrU3QBn4Gcf5OkLbTM5jk) | 2:08 |
 | 17 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
 | 18 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 49 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
 | 50 | [Dollar Bill Boogie](https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA) | [Big Joe Duskin](https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB) | [Cincinnati Stomp](https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz) | 2:26 |
 
-Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMGQxNGZkYmQyOTc1YTRkYjIyNWU1YTZiMjg3ZDdhN2Zj`
+Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMDQ4MjhmNzkxYmY2YjM4NWMzZGZlMTU5YWU0OWJmYmRm`

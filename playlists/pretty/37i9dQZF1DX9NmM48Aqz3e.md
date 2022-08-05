@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,681 likes - 48 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,703 likes - 48 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 18 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 |
 | 19 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 |
 | 20 | [Make You a Believer](https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Racine](https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL) | 4:43 |
-| 21 | [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 |
-| 22 | [Could I Be Your Girl](https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:48 |
+| 21 | [Could I Be Your Girl](https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:48 |
+| 22 | [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 |
 | 23 | [Let It Rain](https://open.spotify.com/track/6B02MufyAO1pPsWYRespCr) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Amanda Marshall](https://open.spotify.com/album/0HEvHFESNJMTERnF6zpjnz) | 4:31 |
 | 24 | [Remote Control](https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs) | 3:39 |
 | 25 | [All That You Are \(x3\) \- 1997 Digital Remaster](https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9) | [Econoline Crush](https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE) | [The Devil You Know](https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh) | 3:41 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 29 | [Spaceman](https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV) | [Bif Naked](https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw) | [I Bificus](https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps) | 4:21 |
 | 30 | [Song Instead of a Kiss](https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Rockinghorse](https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO) | 5:03 |
 | 31 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
-| 32 | [Northern Touch \(feat\. Kardinal Offishall, Thrust, Choclair & Checkmate\)](https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Thrust](https://open.spotify.com/artist/38tN2aiWTtY8lhwXPKbIYk), [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT) | [Cash Crop + Bonus Track](https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM) | 4:07 |
-| 33 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 |
+| 32 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 |
+| 33 | [Northern Touch \(feat\. Kardinal Offishall, Thrust, Choclair & Checkmate\)](https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Thrust](https://open.spotify.com/artist/38tN2aiWTtY8lhwXPKbIYk), [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT) | [Cash Crop + Bonus Track](https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM) | 4:07 |
 | 34 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 |
 | 35 | [Any Day Now](https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or) | [The Watchmen](https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD) | [Silent Radar](https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ) | 4:41 |
 | 36 | [You're a Superstar \- Radio Edit](https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF) | [Love Inc.](https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx) | [00s Party Mixtape](https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0) | 3:30 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 47 | [Wayne](https://open.spotify.com/track/38h3FGMLUI3V3sn5uK0cke) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/45x3fW5IKv8k4tMEhv1Evy) | 4:45 |
 | 48 | [Hurts To Love You \- LP Version \(Album Version\)](https://open.spotify.com/track/7D4vdvgwrrbJjb3px4mMZ0) | [The Philosopher Kings](https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA) | [Four Hits: The Philosopher Kings](https://open.spotify.com/album/2hfmvbYfmXvNd4qf6TFQyb) | 5:21 |
 
-Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDdlZjRkMzA2MTdhMmE3Y2Q2MWI5NmVmMTEyNTdmMTQ3`
+Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMGQ1NTEwY2I5Nzk3MWQyOWFmYWRiZTlmZjAxMWIyMTU4`

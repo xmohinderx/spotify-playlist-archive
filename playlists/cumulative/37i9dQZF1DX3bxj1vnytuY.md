@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-117 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+118 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dodoma](https://open.spotify.com/track/4d7iVgX5u3NxBM1pa72xh3) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/7Djcq0KMBZlfMbva2PBla2) | 6:35 | 2022-04-13 | 2022-07-29 |
 | [DüN](https://open.spotify.com/track/2Q8eKyLWsmdmNBKrgdWVf6) | [KeuS](https://open.spotify.com/artist/1DWdkfnG0twxn7hIrGb4YC) | [DüN](https://open.spotify.com/album/0hQnHGP8TLX88RnLDTx9SB) | 6:55 | 2022-04-13 |  |
 | [Endless History](https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Facundo Losardo](https://open.spotify.com/artist/4saM6vfv68Mb1xB3EEb9IQ) | [Greatness of Blooming Twig](https://open.spotify.com/album/3jQnaplLlukpbKQlUh6SCM) | 5:04 | 2022-04-13 |  |
+| [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 | 2022-08-04 |  |
 | [Exile](https://open.spotify.com/track/4q3OgYOOdQ4Kad3Hj7IwsR) | [Stur und Dumm](https://open.spotify.com/artist/22my4hx9iy9VRvuFSLB08d) | [Exile](https://open.spotify.com/album/6f58FwWB5OonKwyXpEfUEt) | 4:56 | 2022-04-13 |  |
 | [Exoplanet \- Original Mix](https://open.spotify.com/track/69RAvgFqYzlDJIofYpnCxx) | [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G) | [Exoplanet](https://open.spotify.com/album/0docPqSZtIMdeG1OIVLETs) | 4:39 | 2022-04-13 |  |
 | [Faiyum \- Zuma Dionys Remix](https://open.spotify.com/track/59klIKyEUOS7DwHzGkiGuz) | [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF), [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Faiyum \(Incl\. Zuma Dionys Remix\)](https://open.spotify.com/album/2bAHNvhIuJjrgkZfE7dcI6) | 7:06 | 2022-04-13 |  |

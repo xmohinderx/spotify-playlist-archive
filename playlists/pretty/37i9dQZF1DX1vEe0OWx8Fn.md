@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,567 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,635 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 22 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 |
 | 23 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
 | 24 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 |
-| 25 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
-| 26 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 |
+| 25 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 |
+| 26 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 27 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 |
 | 28 | [Pieces of You](https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Pieces of You](https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84) | 3:02 |
 | 29 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 41 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 |
 | 42 | [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 |
 | 43 | [I Think I Hate Myself](https://open.spotify.com/track/6QKApSR7XgRR4EjuAoGBcv) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Think I Hate Myself](https://open.spotify.com/album/2A0YKQkITRxL6Mujv5bcWA) | 3:34 |
-| 44 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 |
-| 45 | [Teenage Heartbreak](https://open.spotify.com/track/0skv6CWu2KWa97zeAFaSTb) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:08 |
-| 46 | [hangar](https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:45 |
+| 44 | [Teenage Heartbreak](https://open.spotify.com/track/0skv6CWu2KWa97zeAFaSTb) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:08 |
+| 45 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 |
+| 46 | [Eyes Wide Shut](https://open.spotify.com/track/7fGyaY3X9InPnl9nqQXHgi) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 3:01 |
 | 47 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 |
-| 48 | [Eyes Wide Shut](https://open.spotify.com/track/7fGyaY3X9InPnl9nqQXHgi) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 3:01 |
+| 48 | [hangar](https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:45 |
 | 49 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
 | 50 | [Hate Me](https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Hate Me](https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c) | 2:48 |
 
-Snapshot ID: `MTY0NjQxNzE1MCwwMDAwMDAwMDk0YjM4YTlmZWQwMzhkYWViY2ZhM2JiYTkwODEzNzE1`
+Snapshot ID: `MTY0NjQxNzE1MCwwMDAwMDAwMGM0YjUyODFjYjU4ZjNkNWQ4Yjk2NWUwMTYwODY2Mjlm`

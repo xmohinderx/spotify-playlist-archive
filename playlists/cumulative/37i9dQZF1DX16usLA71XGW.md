@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anayefaa](https://open.spotify.com/track/6WJpstQ3jrreN8NPFGcj1a) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Anayefaa](https://open.spotify.com/album/4gZlkGvAaeJWyZbygBFoUi) | 3:19 | 2022-07-18 |  |
-| [Baby Yoo](https://open.spotify.com/track/0yRLwpZId3BTseg4sts3hR) | [Ruth Ngendo](https://open.spotify.com/artist/7BNAToPYtiC9nK6KXexLAc) | [Baby Yoo](https://open.spotify.com/album/5k5SMqOpxmpQUrQbXtZUJ8) | 3:04 | 2022-07-18 |  |
+| [Baby Yoo](https://open.spotify.com/track/0yRLwpZId3BTseg4sts3hR) | [Ruth Ngendo](https://open.spotify.com/artist/7BNAToPYtiC9nK6KXexLAc) | [Baby Yoo](https://open.spotify.com/album/5k5SMqOpxmpQUrQbXtZUJ8) | 3:04 | 2022-07-18 | 2022-08-05 |
 | [Back4th](https://open.spotify.com/track/3B1ULzAnh4OsrxSeSonN5d) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Back4th](https://open.spotify.com/album/1GfzwGWp0yd53AGZX98zrt) | 3:12 | 2022-07-18 |  |
 | [Bayi](https://open.spotify.com/track/1CkRUUq109CKIB96vSXFwR) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Choore](https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH) | 3:19 | 2022-07-18 |  |
 | [Bella Ciao](https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle) | [Izabell](https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al), [Kriminell Kunst](https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC) | [Bella Ciao](https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw) | 3:28 | 2022-07-18 |  |

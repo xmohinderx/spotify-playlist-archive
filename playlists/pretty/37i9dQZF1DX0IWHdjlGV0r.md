@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano più di altri\. Cover: Gemitaiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,680 likes - 62 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,774 likes - 62 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 17 | [Sei qui](https://open.spotify.com/track/2t0Bn0De4p0F9XCDv5ftVJ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:26 |
 | 18 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 |
 | 19 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 |
-| 20 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 |
+| 20 | [Password](https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 2:45 |
 | 21 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 |
 | 22 | [Diamanti \(feat\. Heartman & VillaBanks\) \- Remix](https://open.spotify.com/track/39dekO8ZmqocCrKeBaBFty) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Wave Deluxe](https://open.spotify.com/album/2l7qyKFV7mDoDfZ3xS5luZ) | 2:38 |
 | 23 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 61 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 |
 | 62 | [Un'Altra Notte \(feat\. Priestess\)](https://open.spotify.com/track/5IiE6zhjY9rsXRLhIOyX5h) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Scatola Nera](https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM) | 3:25 |
 
-Snapshot ID: `MTY1OTA0NTY2MCwwMDAwMDAwMGU4M2RjYzYxM2M3N2YzZTliNjNmYTljZjU1NzM0NGQ5`
+Snapshot ID: `MTY1OTA0NTY2MCwwMDAwMDAwMGI3M2YzNmJhOWY0ZDAyYjYyYWQxYmY4OGYxYThiMjE1`

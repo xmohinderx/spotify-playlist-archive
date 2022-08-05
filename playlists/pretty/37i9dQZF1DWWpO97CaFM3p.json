@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 226321,
+  "num_followers": 226664,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkyOTkxMCwwMDAwMDAwMDkyZTU2MGY1NDc3ZDNhOGJkMThjZTc4NDg3YzZjMDUz",
+  "snapshot_id": "MTY1NTkyOTkxMCwwMDAwMDAwMDBlMmRmNmJlMjg4Mzc0YTNiZmEzY2QxOTE0NGIyMDY5",
   "tracks": [
     {
       "added_at": "2022-05-30 13:24:46",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+        "name": "Dark in the City",
+        "url": "https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+      "duration_ms": 250547,
+      "name": "Love & War in Your Twenties",
+      "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -875,34 +875,18 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Dark in the City",
-        "url": "https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 250547,
-      "name": "Love & War in Your Twenties",
-      "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
-        "name": "Touch the Sky (Welcome Home) - EP",
-        "url": "https://open.spotify.com/album/6g442PMBkFk6xu5kOsFm36"
-      },
-      "artists": [
-        {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
-        }
-      ],
-      "duration_ms": 287393,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/1oofwLaSk4kDIWAYT5ZGK7"
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -919,6 +903,22 @@
       "duration_ms": 232618,
       "name": "Maine",
       "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Touch the Sky (Welcome Home) - EP",
+        "url": "https://open.spotify.com/album/6g442PMBkFk6xu5kOsFm36"
+      },
+      "artists": [
+        {
+          "name": "Radical Face",
+          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+        }
+      ],
+      "duration_ms": 287393,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/1oofwLaSk4kDIWAYT5ZGK7"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Breathe Again (Acoustic)",
-        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 198381,
-      "name": "Breathe Again - Acoustic",
-      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Cape Elizabeth",
         "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 312145,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5FwlCxV2Q4xjTywLsD3Kxe"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Breathe Again (Acoustic)",
+        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 198381,
+      "name": "Breathe Again - Acoustic",
+      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Lavender Girl",
-        "url": "https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Lavender Girl",
-      "url": "https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Lavender Girl",
+        "url": "https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Lavender Girl",
+      "url": "https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Apple Tree Blues",
-        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Apple Tree Blues",
-      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 137293,
       "name": "True North",
       "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Apple Tree Blues",
+        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Apple Tree Blues",
+      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Lightning Of July",
         "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 176666,
       "name": "Lightning Of July",
       "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Praying for July - Spotify Singles",
-        "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 186159,
-      "name": "Praying for July - Spotify Singles",
-      "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 203800,
       "name": "The Summer",
       "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Praying for July - Spotify Singles",
+        "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 186159,
+      "name": "Praying for July - Spotify Singles",
+      "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
     },
     {
       "added_at": "2022-05-25 14:24:00",

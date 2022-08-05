@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,269 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,282 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 38 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 |
 | 39 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
 | 40 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 |
-| 41 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 |
-| 42 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 |
-| 43 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 |
-| 44 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
+| 41 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 |
+| 42 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 |
+| 43 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
+| 44 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 |
 | 45 | [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 |
 | 46 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 |
 | 47 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
-| 48 | [Interview](https://open.spotify.com/track/2izPoWJ6xAuZUNJkdXO3YS) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:25 |
-| 49 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 |
-| 50 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
+| 48 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 |
+| 49 | [Interview](https://open.spotify.com/track/2izPoWJ6xAuZUNJkdXO3YS) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:25 |
+| 50 | [Superwoman](https://open.spotify.com/track/4MsFyMXOLuH1zGe3Efv1y1) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Garden](https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ) | 3:19 |
 
-Snapshot ID: `MTY1NzI2MDk1NiwwMDAwMDAwMDljMDQ2MWUwNzIzYmU2YjZjZWVjYmNhNjNmOWNhZDhk`
+Snapshot ID: `MTY1NzI2MDk1NiwwMDAwMDAwMGU5MWYzZjE3OGMxMjFjN2VkZDEyMTNhNWIxNmZhZGM1`

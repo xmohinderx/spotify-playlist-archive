@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 176126,
+  "num_followers": 176428,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTEwMjc3NCwwMDAwMDAwMDBmN2MyZDliZjcxZDBhMjY2MmY3Y2VmY2YxNjhjNTc0",
+  "snapshot_id": "MTY1NTEwMjc3NCwwMDAwMDAwMDQ1YzM4Yzg4YWI3NWQwNGVhOWExZDYzZDdhMTQ1ODlj",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -91,6 +91,38 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Chop Suey!",
+        "url": "https://open.spotify.com/album/0TkVuK1bb6hvlJOjZlV80i"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 218187,
+      "name": "Chop Suey!",
+      "url": "https://open.spotify.com/track/37SgiDGQSiUTQXZo2Ml888"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Blue on Black",
         "url": "https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc"
       },
@@ -115,38 +147,6 @@
       "duration_ms": 274615,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Chop Suey!",
-        "url": "https://open.spotify.com/album/0TkVuK1bb6hvlJOjZlV80i"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 218187,
-      "name": "Chop Suey!",
-      "url": "https://open.spotify.com/track/37SgiDGQSiUTQXZo2Ml888"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Drowning in the Sound",
         "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 395683,
       "name": "Creeping Death",
       "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
     },
     {
       "added_at": "2022-06-13 06:46:14",

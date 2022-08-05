@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The best of UK Rap & Drill.  Cover: K-Trap",
+  "description": "The best of UK Rap & Drill.  Cover: Headie One, Bandokay & Abra Cadabra",
   "name": "Rap UK",
   "published_playlist_ids": [
     "5FuQUpQ2GSOITS1tCcS7A2"
@@ -2471,7 +2471,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 204393,
       "name": "Balaclava",
       "url": "https://open.spotify.com/track/4udLzEOTiWfiiEWaycyaCe"
@@ -4554,6 +4554,32 @@
     },
     {
       "album": {
+        "name": "Can't Be Us",
+        "url": "https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201555,
+      "name": "Can't Be Us",
+      "url": "https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M"
+    },
+    {
+      "album": {
         "name": "Can't Sleep",
         "url": "https://open.spotify.com/album/0M3d3V9MMgDnUzcXZPhxNI"
       },
@@ -6493,7 +6519,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 142026,
       "name": "Different",
       "url": "https://open.spotify.com/track/3Eu0zCF7sb8nD3TYaC7Qde"
@@ -7987,7 +8013,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 146357,
       "name": "Entrepreneur",
       "url": "https://open.spotify.com/track/2wiJQhmWcClrB2LKnyvBNE"
@@ -9575,6 +9601,24 @@
       "duration_ms": 180869,
       "name": "Grown Flex",
       "url": "https://open.spotify.com/track/7CZHlTZRKTSntwEmsWS258"
+    },
+    {
+      "album": {
+        "name": "Gruesome",
+        "url": "https://open.spotify.com/album/0Cm0NkaqxztDO54sJvpkmg"
+      },
+      "artists": [
+        {
+          "name": "Buni",
+          "url": "https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136170,
+      "name": "Gruesome",
+      "url": "https://open.spotify.com/track/4V5er0Fzkjh4AZEFXoSTIr"
     },
     {
       "album": {
@@ -13249,7 +13293,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 214954,
       "name": "Me & My Conscience (ft. Potter Payper)",
       "url": "https://open.spotify.com/track/7fBvY5cMBU822ZusIgQE8g"
@@ -16920,6 +16964,32 @@
     },
     {
       "album": {
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+    },
+    {
+      "album": {
         "name": "Proud Family",
         "url": "https://open.spotify.com/album/4g5wupY5PXhBk0plh9RFqw"
       },
@@ -19073,7 +19143,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 151301,
       "name": "Simple",
       "url": "https://open.spotify.com/track/4LyEjExaWSezYsp1FVJuQa"

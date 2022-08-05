@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 
 > Hold up, run that back\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,608 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,654 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 | 43 | [PTSD](https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:52 |
 | 44 | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/track/1mAey8kEPmDM2icL56kS9d) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:36 |
 | 45 | [Nevada](https://open.spotify.com/track/2cEnKRR4dYBB2VA1mjlb1z) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd) | 2:35 |
-| 46 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 |
-| 47 | [Mr\. Right Now \(feat\. Drake\)](https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 |
+| 46 | [Mr\. Right Now \(feat\. Drake\)](https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 |
+| 47 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 |
 | 48 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
 | 49 | [Masterpiece](https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Masterpiece](https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby) | 3:01 |
 | 50 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 | 100 | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \- Remix](https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \[Remix\]](https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD) | 3:31 |
 | 101 | [OK Cool \(Bonus\)](https://open.spotify.com/track/39LnvWUhzakLqVG9T6zUsa) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Happy Halloween 3](https://open.spotify.com/album/46LePqtYMzI7vzy4J2rrSG) | 2:57 |
 
-Snapshot ID: `MTY1OTMyMDk0OCwwMDAwMDAwMDc5OGJlNzVlOTRiNzI4N2IzYjI3MmNiNWIxNzgyNWU1`
+Snapshot ID: `MTY1OTMyMDk0OCwwMDAwMDAwMDViYjRmMjE3OTI2YWMxZWI3ZDY3YWE4YzQ2Y2RjZGQz`

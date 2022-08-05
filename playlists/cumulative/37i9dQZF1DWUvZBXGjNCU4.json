@@ -1132,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "Easy Escapes",
+        "url": "https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Gulf Coast Priory",
+      "url": "https://open.spotify.com/track/00uqqC4iEhwjVSLOtewgk9"
+    },
+    {
+      "album": {
         "name": "Happy Faces",
         "url": "https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy"
       },

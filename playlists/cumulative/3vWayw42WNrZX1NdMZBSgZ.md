@@ -2,9 +2,9 @@
 
 ### [Top Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: CNCO &amp; Kenia Os
+> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Nicky Jam
 
-255 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+256 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Si Te Preguntan...](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan...](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 | 2022-06-24 |  |
 | [Si Tú La Ves \(feat\. Wisin\)](https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:41 | 2022-02-02 |  |
 | [Si Yo Fuera Tú](https://open.spotify.com/track/42yyFIOOMXnaMIq0uvE5qm) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Si Yo Fuera Tú](https://open.spotify.com/album/4ttJWxB8biE8Kv0tV5Yiqm) | 3:25 | 2022-07-08 |  |
+| [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-08-05 |  |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2022-02-02 |  |
 | [Solo](https://open.spotify.com/track/0shi1zFuDEXZS8FZcICyxd) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Solo](https://open.spotify.com/album/1ceDfxGH0jLRBQnpx6tlz3) | 2:56 | 2022-04-26 |  |
 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 | 2022-07-29 |  |

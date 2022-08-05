@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,969 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,701 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 6 | [Hell](https://open.spotify.com/track/6UCKAo1KXnjFHj8RMXlZe5) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [X Lovers](https://open.spotify.com/album/27kVxlpAqWst74ENn5oBKq) | 3:19 |
 | 7 | [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 |
 | 8 | [Star Shopping](https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/1dEpGPZONvmwYlE2jDOWOM) | 2:22 |
-| 9 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 10 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 |
+| 9 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
+| 10 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
 | 11 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 |
 | 12 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 |
-| 13 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 |
-| 14 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
+| 13 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 |
+| 14 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 |
 | 15 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 |
 | 16 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 |
 | 17 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 34 | [Dead and Cold](https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU) | 1:29 |
 | 35 | [I h8 ur mom/ i h8 myself](https://open.spotify.com/track/4EVJGoZ9SQdo7txULNdkOw) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I h8 ur mom/ i h8 myself](https://open.spotify.com/album/1AEd6FhHjlPjO9uM1KB7wh) | 2:52 |
 | 36 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 |
-| 37 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
-| 38 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
+| 37 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
+| 38 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 39 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 |
 | 40 | [porcupine](https://open.spotify.com/track/2ccIz3cyNeLnqD7bpt3fjZ) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [when you run away, do you close your eyes](https://open.spotify.com/album/2KBkwYcHVmeEN5PdGbBsFU) | 3:37 |
 | 41 | [Ruthless \(Nice Guys Always Finish Last\)](https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9) | [MarMar Oso](https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6) | [Oso Different](https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI) | 3:53 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 92 | [Sorry for Me](https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Sorry for Me](https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ) | 3:17 |
 | 93 | [Idea of Her](https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Man’s Best Friend](https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt) | 2:48 |
 | 94 | [Shoot](https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:37 |
-| 95 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 |
-| 96 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
+| 95 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
+| 96 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 |
 | 97 | [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 |
 | 98 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 99 | [argyle](https://open.spotify.com/track/5PlTDE2RLbcC9vBzbGAG4y) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [argyle](https://open.spotify.com/album/3urZZqZs16FNxBfyRZj2HU) | 2:45 |
 | 100 | [don't cry](https://open.spotify.com/track/2tB9EXMGGzvRdxxwyzIJCC) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [don't cry](https://open.spotify.com/album/1tVL6fR2ybpi6qt4vLx6Nq) | 2:18 |
 
-Snapshot ID: `MTY1OTU1NjAwNSwwMDAwMDAwMDhjZTFmODU5NThmN2U5ZWIzMDBlYmE2NTc0ODE1ZjRm`
+Snapshot ID: `MTY1OTU1NjAwNSwwMDAwMDAwMDI3NWY2MzJiYjg4MWQ5ZGRkOGMxMmQ5MTEwZGM0NmE1`

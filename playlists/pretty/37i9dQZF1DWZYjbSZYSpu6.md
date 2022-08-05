@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Loco, Hwa Sa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,614 likes - 53 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,771 likes - 53 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 31 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 |
 | 32 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
 | 33 | [Cave Me In](https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Cave Me In](https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL) | 3:34 |
-| 34 | [Ing..](https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC) | 4:00 |
-| 35 | [Feel this breeze \(with JoeSwan\)](https://open.spotify.com/track/0gKLv0j8udm3xIRDNrkLF8) | [Sunmin](https://open.spotify.com/artist/3tSqvuC6jIIo8rmiurd6ny), [Cho Hyung Woo](https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU), [JoeSwan](https://open.spotify.com/artist/6QjcEmJSVAOSR8cqfSaZFt) | [Feel this breeze \(with JoeSwan\)](https://open.spotify.com/album/29BiVBoVV6U8PuoOzFVPHA) | 2:50 |
+| 34 | [Feel this breeze \(with JoeSwan\)](https://open.spotify.com/track/0gKLv0j8udm3xIRDNrkLF8) | [Sunmin](https://open.spotify.com/artist/3tSqvuC6jIIo8rmiurd6ny), [Cho Hyung Woo](https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU), [JoeSwan](https://open.spotify.com/artist/6QjcEmJSVAOSR8cqfSaZFt) | [Feel this breeze \(with JoeSwan\)](https://open.spotify.com/album/29BiVBoVV6U8PuoOzFVPHA) | 2:50 |
+| 35 | [Ing..](https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC) | 4:00 |
 | 36 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
 | 37 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 | 38 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 52 | [1, 2](https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [최현석](https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:22 |
 | 53 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
 
-Snapshot ID: `MTY1ODc0MDEwNywwMDAwMDAwMGJmNTM0NjgzZmU3NmVhMDU1MmQzNjI1NGMzOTIxYmJi`
+Snapshot ID: `MTY1ODc0MDEwNywwMDAwMDAwMDVkMTBiODc0OGYyOTJlYjg5Njk0MTU1MzI2NDAzYThk`

@@ -1,13 +1,33 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78797,
+  "num_followers": 78796,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzUwNCxjYWZkYjc4NzhmMTk4ZDljOTg1MGEwNDAwZWQzYzE1YjdkYzhiOWI3",
+  "snapshot_id": "MzUwNSw3NDMyOGMwODBlODMyMDJhMTUzNjZjMjRhNDUwNGI1ODdlYWE3MTlm",
   "tracks": [
+    {
+      "added_at": "2022-08-04 14:40:30",
+      "album": {
+        "name": "P\u00e1jaros en Verano",
+        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "P\u00e1jaros en Verano",
+      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
+    },
     {
       "added_at": "2022-08-03 14:04:51",
       "album": {

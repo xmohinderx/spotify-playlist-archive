@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-252 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/4CkcBa2yg5PYM4HXnr0aPa)
+253 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/4CkcBa2yg5PYM4HXnr0aPa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 | 2022-07-05 |  |
 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 | 2022-07-05 | 2022-07-26 |
 | [Amores Como el Nuestro](https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [corazon de papel](https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4) | 3:16 | 2022-07-05 | 2022-07-29 |
+| [Amores como el nuestro](https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazón de Papel](https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq) | 3:18 | 2022-07-05 |  |
 | [Ayer te vi con el](https://open.spotify.com/track/6fsjUt0zs7FtLDvLzLqwQM) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/1xJWcP3LsQkDu0lh5jjhAM) | 3:34 | 2022-07-05 | 2022-07-21 |
 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 | 2022-07-05 |  |
 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 | 2022-07-05 | 2022-07-28 |
@@ -173,7 +174,7 @@
 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 | 2022-07-05 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 | 2022-07-05 | 2022-07-28 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 | 2022-07-05 |  |
-| [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 | 2022-07-05 |  |
+| [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 | 2022-07-05 | 2022-08-05 |
 | [Ojitos Mentirosos](https://open.spotify.com/track/1cOy0Jd1F4VO7ry3ZdixWI) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [21 Black Jack \(Nueva Edición Remasterizada\)](https://open.spotify.com/album/0rKlN9fAqM0pRc3h0P4txO) | 3:05 | 2022-07-05 | 2022-07-24 |
 | [Ojos Azules](https://open.spotify.com/track/0IFkjFf4Sy9WrJGGx0fPcx) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM), [Mariano Martinez](https://open.spotify.com/artist/1CL1NnuyndaL52YgyPVL73) | [Ojos Azules](https://open.spotify.com/album/2xEDKkkxTCOOxpMBJDdtKf) | 3:20 | 2022-07-05 | 2022-07-20 |
 | [Olvidala \- Acústico](https://open.spotify.com/track/5SZ0c97z9IMsOK7DNRb0wU) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Olvidala \(Acústico\)](https://open.spotify.com/album/5OPH0yu43rBlCeSMiSSXLz) | 4:53 | 2022-07-05 | 2022-07-28 |

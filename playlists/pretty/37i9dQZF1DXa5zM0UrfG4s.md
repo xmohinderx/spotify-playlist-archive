@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Den BB & Oskar Westerlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,571 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,629 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 31 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 |
 | 32 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
 | 33 | [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 |
-| 34 | [Kursiv](https://open.spotify.com/track/0YyED0H9S499O2c8U7ydtV) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR) | [Kursiv](https://open.spotify.com/album/1zWg0ttvnAe0KIoolgn7NX) | 2:12 |
-| 35 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
+| 34 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
+| 35 | [Kursiv](https://open.spotify.com/track/0YyED0H9S499O2c8U7ydtV) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR) | [Kursiv](https://open.spotify.com/album/1zWg0ttvnAe0KIoolgn7NX) | 2:12 |
 | 36 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 |
 | 37 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
 | 38 | [Granada](https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar med dobbelseng](https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y) | 3:10 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 65 | [Evig vandring](https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig vandring](https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE) | 2:50 |
 | 66 | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3) | 2:57 |
 | 67 | [Supa](https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Supa](https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG) | 2:52 |
-| 68 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 |
-| 69 | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb) | [PAT49](https://open.spotify.com/artist/6p3M0KTYqaOs3aOmQ6iVMs), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO) | 2:09 |
-| 70 | [Partyjoik](https://open.spotify.com/track/74mJCN9Yr4aTxRM7AbS4FI) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Partyjoik](https://open.spotify.com/album/0y18OXhsVZFe0xVABQO1g1) | 2:34 |
+| 68 | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb) | [PAT49](https://open.spotify.com/artist/6p3M0KTYqaOs3aOmQ6iVMs), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO) | 2:09 |
+| 69 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 |
+| 70 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
 
-Snapshot ID: `MTY1OTM0MTUxNiwwMDAwMDAwMDRjNjAxN2IzYTc2ZDY0ZTIzNmRmZWJjMGZjYmQ2MTI1`
+Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMDE4Yjc3MmRiYWQ3ZmEyZDJkZDI0MWJmYmJjODhmNGIx`

@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-202 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+203 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Classic](https://open.spotify.com/track/3xIK6Dpgfq9w7NnRZx1LZG) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [Classic](https://open.spotify.com/album/4gc66YzvCYUOVAHtCxqLqF) | 3:37 | 2020-12-01 | 2020-12-13 |
 | [Closer](https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT) | [Monoir](https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz), [Loredvn](https://open.spotify.com/artist/5RR9UQkT1jH2GjKxjC4czY), [Geanina](https://open.spotify.com/artist/6v2E7HSjXWVK89bz9Y5OcW) | [Closer](https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb) | 2:32 | 2022-05-19 |  |
 | [Conmigo](https://open.spotify.com/track/7vdihCV62kwUQq56ogHK1Q) | [Max Oazo](https://open.spotify.com/artist/5uNCgXcFgj0OyipmIk8ZUi), [Bonzana](https://open.spotify.com/artist/5q3YP2wg8w3Oydv2uOAWLS) | [Conmigo](https://open.spotify.com/album/4uw61lolt65J501aWdt4Fr) | 3:21 | 2021-10-10 |  |
-| [Count on You \- Anthony Keyrouz Remix \- Radio Edit](https://open.spotify.com/track/7hoFU5qbPe3oruw1Px7JA0) | [Deepforever](https://open.spotify.com/artist/1JiQCV3XfG5ri2sH07QTdx), [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Count on You \(Anthony Keyrouz Remix\)](https://open.spotify.com/album/5R64opDkn7VheuaIpSF4t2) | 3:21 | 2020-12-13 |  |
+| [Count on You \- Anthony Keyrouz Remix \- Radio Edit](https://open.spotify.com/track/7hoFU5qbPe3oruw1Px7JA0) | [Deepforever](https://open.spotify.com/artist/1JiQCV3XfG5ri2sH07QTdx), [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Count on You \(Anthony Keyrouz Remix\)](https://open.spotify.com/album/5R64opDkn7VheuaIpSF4t2) | 3:21 | 2020-12-13 | 2022-08-05 |
 | [Cry](https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd), [Kristian Gusho](https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL) | [Cry](https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2) | 3:20 | 2020-12-18 |  |
 | [Cry](https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p) | [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7) | [Cry](https://open.spotify.com/album/3fWzFPiEAXLSIlCgqNs1wS) | 2:39 | 2020-12-13 |  |
 | [Dahlia Girl](https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Dahlia Girl](https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv) | 3:17 | 2022-05-19 |  |
@@ -63,6 +63,7 @@
 | [El Hawa](https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr), [Hayam Mansour](https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6) | [El Hawa](https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T) | 5:47 | 2022-01-03 |  |
 | [Enta Omry Remix 2022](https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Enta Omry Remix 2022](https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG) | 4:38 | 2022-06-27 |  |
 | [Escuro](https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv) | [Cut Off](https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1) | [Escuro](https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx) | 4:45 | 2022-01-31 |  |
+| [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 | 2022-08-04 |  |
 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 | 2020-10-18\* |  |
 | [Fade Away \(feat\. Rhi'N'B\)](https://open.spotify.com/track/4aZ9uL2VqIyRHansZ87JaZ) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Rhi'N'B](https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn) | [Fade Away \(feat\. Rhi'N'B\)](https://open.spotify.com/album/7zxTlymJ9by0TvT4adXHrT) | 2:38 | 2021-07-10 |  |
 | [Feel](https://open.spotify.com/track/0UOwe8OQDJBcqUbHidE2ds) | [Beren Gündüz](https://open.spotify.com/artist/3wyIpwnIc75AkQ9o3bcRnH) | [Feel](https://open.spotify.com/album/7Kzeu2VdfDLVHK8X53oxYc) | 4:17 | 2021-01-01 | 2021-01-08 |

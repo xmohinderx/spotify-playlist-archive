@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: Brennan Savage
 
-706 songs - 1 day 8 hr 11 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+707 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Dishonest](https://open.spotify.com/track/3lKIg3YiHa7o8Wvtiqd3FX) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [PAINKILLER TWILIGHT](https://open.spotify.com/album/5WI1jTegDlbRFqrQAbuC2z) | 2:34 | 2021-08-28 | 2022-04-09 |
 | [Doesn't Matter](https://open.spotify.com/track/5UsE4qe2pZXO7tnuunalrU) | [Kill Red](https://open.spotify.com/artist/23DVe5LDb89r0z5wmSjNSc) | [Doesn't Matter](https://open.spotify.com/album/00PvhElonquwWCDEfMUj0X) | 2:02 | 2020-12-13\* | 2021-02-19 |
 | [don't fall](https://open.spotify.com/track/38pmIzTCDkqvZVh1NFmWik) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime..](https://open.spotify.com/album/0mjspKfckXa6CorWyq4jGD) | 3:25 | 2021-06-19 | 2022-04-23 |
+| [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 | 2022-07-29 |  |
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c) | 2:36 | 2021-08-07 | 2022-04-17 |
 | [Don't Love Me](https://open.spotify.com/track/1UExOrga2J58ouPYKfr92G) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [Don't Love Me](https://open.spotify.com/album/0Y00tnSA2wrpoVfnqLmKQX) | 3:01 | 2020-12-13\* | 2021-01-05 |
 | [Don't Talk](https://open.spotify.com/track/3mXjVkMtEqWZ2iMHYtincz) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Don't Talk](https://open.spotify.com/album/7eX7Ucv3YIEQLj1J8fRgEh) | 2:12 | 2021-07-17 | 2022-04-23 |
@@ -634,7 +635,7 @@
 | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/track/6s9qov2o5dUVUVut2jB45K) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/album/7rOfgB0eZeRCPOSu00cuzN) | 2:53 | 2022-04-22 | 2022-04-24 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-12 |  |
 | [They Distort My Reality](https://open.spotify.com/track/6rmlfJjZ2kmMIjKFtOQWjZ) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Eredaze](https://open.spotify.com/artist/3LQkEyryB8qsN20SutisqG) | [They Distort My Reality](https://open.spotify.com/album/4g2bmOTaiEN2DAA1YOOQxN) | 3:05 | 2020-12-13\* | 2022-04-20 |
-| [THEY DON'T KNOW](https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [THEY DON'T KNOW](https://open.spotify.com/album/2xAgOtruwnkJarTLexy2DS) | 1:43 | 2022-05-06 |  |
+| [THEY DON'T KNOW](https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [THEY DON'T KNOW](https://open.spotify.com/album/2xAgOtruwnkJarTLexy2DS) | 1:43 | 2022-05-06 | 2022-08-05 |
 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-01-21 |  |
 | [TIRED](https://open.spotify.com/track/4Inbxx2NC85JXTjcyyDlTa) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:41 | 2021-01-29 | 2021-05-29 |
 | [To The Moon](https://open.spotify.com/track/4WS8zqMLmhS4uvj0DtW1RL) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [To The Moon](https://open.spotify.com/album/23aVhAa9PzcSs0XakuOwg9) | 2:45 | 2021-04-10 | 2022-07-27 |

@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 21587,
+  "num_followers": 21642,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDU3N2Q4Y2NmMTViNTAxODQ5NDJiZTFiYWQxNGFmNTc0",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDVkY2M1Y2QyZWU1MWQxZTE1NTk1MmY3NDBmZWVhYzg0",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/4AotBgSoOhRJuJkMLwgyHZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 352758,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD"
-    },
-    {
       "added_at": "2021-09-01 00:59:23",
       "album": {
         "name": "Your Good Times Will Come",
@@ -803,6 +787,22 @@
       "duration_ms": 290753,
       "name": "Your Good Times Will Come",
       "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/4AotBgSoOhRJuJkMLwgyHZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 352758,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Let's Do It Again",
+        "url": "https://open.spotify.com/album/3eUxhAFsXxEQpNjJnb1icD"
+      },
+      "artists": [
+        {
+          "name": "Nightlife Unlimited",
+          "url": "https://open.spotify.com/artist/7d6TGYTJoO5XAaVnS5obx6"
+        }
+      ],
+      "duration_ms": 306906,
+      "name": "Peaches & Prunes",
+      "url": "https://open.spotify.com/track/3pn3x8rAgZlxmZf3bgsOc7"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "For the Beasts",
         "url": "https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 153231,
       "name": "Lurk",
       "url": "https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Let's Do It Again",
-        "url": "https://open.spotify.com/album/3eUxhAFsXxEQpNjJnb1icD"
-      },
-      "artists": [
-        {
-          "name": "Nightlife Unlimited",
-          "url": "https://open.spotify.com/artist/7d6TGYTJoO5XAaVnS5obx6"
-        }
-      ],
-      "duration_ms": 306906,
-      "name": "Peaches & Prunes",
-      "url": "https://open.spotify.com/track/3pn3x8rAgZlxmZf3bgsOc7"
     },
     {
       "added_at": "2021-09-01 00:59:23",

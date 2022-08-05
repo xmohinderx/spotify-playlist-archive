@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 312391,
       "name": "Eisbein",
       "url": "https://open.spotify.com/track/4dv4j1YkymrFPZEiEjyofL"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 268713,
       "name": "Emerging Submarines",
       "url": "https://open.spotify.com/track/0EYUcHeJoy86VDc7xKJifF"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 145511,
       "name": "EX-GIRLFRIEND",
       "url": "https://open.spotify.com/track/6z2gZVqlUUhl0ilSSDpFY8"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 213466,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 224266,
       "name": "Hounds Loose",
       "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 188228,
       "name": "I Feel Fine",
       "url": "https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 252375,
       "name": "ohmygosh - Acoustic",
       "url": "https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 240378,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/0DWkbxfSqGNmHaEuqlR3wU"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 162077,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 211653,
       "name": "Prodigal Son",
       "url": "https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf"
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 213497,
       "name": "She's My Prison",
       "url": "https://open.spotify.com/track/5RhOozvlBujH7KsRCTzxcy"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 185001,
       "name": "Somewhere Chill - Radio Edit",
       "url": "https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 163053,
       "name": "Tell the World",
       "url": "https://open.spotify.com/track/417MnGJAJS2Cg9WM9PUJlH"
@@ -1773,7 +1773,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 296277,
       "name": "The Veneer",
       "url": "https://open.spotify.com/track/1iWervHoQ9m2dlDcoOpFL8"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 140103,
       "name": "Thinking Too Hard",
       "url": "https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ"
@@ -2012,6 +2012,24 @@
     },
     {
       "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG"
+      },
+      "artists": [
+        {
+          "name": "Dream Demon",
+          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238586,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq"
+    },
+    {
+      "album": {
         "name": "Wasteland - The Purgatory EP",
         "url": "https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF"
       },
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 192116,
       "name": "Window",
       "url": "https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,010 likes - 70 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,147 likes - 70 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 4 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
 | 5 | [Closer](https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Closer](https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn) | 3:28 |
 | 6 | [Sunrays](https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr) | 3:51 |
-| 7 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
-| 8 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 |
+| 7 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 |
+| 8 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 9 | [Beyond Beliefs](https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Beyond Beliefs](https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru) | 5:13 |
 | 10 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 |
 | 11 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 23 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 |
 | 24 | [Ordel](https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:18 |
 | 25 | [King Curtis \- Edit](https://open.spotify.com/track/15lzXkV36tS2YA5RIUK6JX) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [King Curtis](https://open.spotify.com/album/03z3QSsBenvY1ngWwkcxVG) | 3:46 |
-| 26 | [Tacken](https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/595ckypY5Dho4okbAw24bz) | 3:20 |
-| 27 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 |
+| 26 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 |
+| 27 | [Tacken](https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/595ckypY5Dho4okbAw24bz) | 3:20 |
 | 28 | [5 Seconds Before Sunrise](https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL) | [VER:WEST](https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [5 Seconds Before Sunrise](https://open.spotify.com/album/1K2ATTJF7dA45WWBAHs4md) | 4:35 |
 | 29 | [Agua Aí](https://open.spotify.com/track/3r5DaDExfV6cgC0yZuCNNs) | [Ito Cekaj](https://open.spotify.com/artist/5DEN3iQQmhuBVsZ2va0oxU), [Rasange](https://open.spotify.com/artist/4eSxet2grrJIB69nnoon0h) | [Poseidon's Serenade](https://open.spotify.com/album/5aw8wyaElzO2NFtGs8PDE3) | 6:08 |
 | 30 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 70 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 |
 
-Snapshot ID: `MTY1NTQ3OTgwMSwwMDAwMDAwMDc5ZjUwZmU2MGYxOWY1OWZkNDM2NGZhMjRmNDAyZDcx`
+Snapshot ID: `MTY1NTQ3OTgwMSwwMDAwMDAwMGZmZjQ0MTg0ODU4NzUwYjlhNjQzZmFiYTE1YTJkZjIy`

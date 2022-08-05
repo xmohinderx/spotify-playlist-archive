@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best new electronic music from Electronica to Techno. Cover: Stella Bossi",
+  "description": "The best new electronic music from Electronica to Techno. Cover: biskuwi",
   "name": "Electronic Rising",
   "published_playlist_ids": [
     "1PJKlmQboCNGXvNYEgYkxk"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 265089,
       "name": "1979",
       "url": "https://open.spotify.com/track/7fCEiz0CfqJ6LooSfNKoaV"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 318967,
       "name": "1OF1",
       "url": "https://open.spotify.com/track/4NXo1tgSkjXVtATNFLBtQ8"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 462470,
       "name": "Alpe Lusia - Robag Wruhmes Troi Sdett",
       "url": "https://open.spotify.com/track/3b9JuM2sNs0Fq1DIbyfCd9"
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 530496,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/3oJaIce9FdZyKlpQ22jxp5"
@@ -3274,6 +3274,24 @@
     },
     {
       "album": {
+        "name": "Everything Is Gonna Be Alright",
+        "url": "https://open.spotify.com/album/4ajpsbkQhaZVfnnmJez6LE"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353186,
+      "name": "Everything Is Gonna Be Alright",
+      "url": "https://open.spotify.com/track/36pZvURCrdUt9Nvip1Qj7o"
+    },
+    {
+      "album": {
         "name": "EYES",
         "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
       },
@@ -3903,7 +3921,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 376585,
       "name": "Gargamel",
       "url": "https://open.spotify.com/track/1rCvDRlcOjhqBI8T7s1mpY"
@@ -4725,10 +4743,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 223007,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/39pclaQXwUGiwcA47Hk3QF"
+    },
+    {
+      "album": {
+        "name": "I Dream",
+        "url": "https://open.spotify.com/album/7IYT4bhpWWsBMNaFPf72fc"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259532,
+      "name": "I Dream",
+      "url": "https://open.spotify.com/track/11sYiWOe56kOdOxD8qfEgG"
     },
     {
       "album": {
@@ -4769,7 +4805,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 194608,
       "name": "I Found A Place",
       "url": "https://open.spotify.com/track/5itQYiM4gP52gHBjAjyZ2r"
@@ -4809,7 +4845,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 320200,
       "name": "I WANT TO BELIEVE",
       "url": "https://open.spotify.com/track/5FnDOZasaYRMDDuZQcds89"
@@ -4827,7 +4863,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 217013,
       "name": "I'll Be Fine",
       "url": "https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f"
@@ -4915,7 +4951,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 388551,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/5UAtcDuXrfjU2jUtnEtYMZ"
@@ -5163,7 +5199,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 434285,
       "name": "Jetzt neu: alles wie fr\u00fcher - DJ Hell X Gregor Tresher Remix",
       "url": "https://open.spotify.com/track/2Yynt0XrPryvK9Cr9MaMTy"
@@ -5555,7 +5591,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 401506,
       "name": "Lost Skin",
       "url": "https://open.spotify.com/track/1nvi80U7n3NDBCMuKGzVRt"
@@ -5617,7 +5653,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 314409,
       "name": "Love Affair",
       "url": "https://open.spotify.com/track/4qZkz5m0C2V0TgmLnE9UZ5"
@@ -5981,7 +6017,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 426666,
       "name": "Merine - Da Fresh Remix",
       "url": "https://open.spotify.com/track/5fswBXdcfDgMfyV2RvI7Ra"
@@ -6345,7 +6381,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 417600,
       "name": "Music Train",
       "url": "https://open.spotify.com/track/4RwdePDUvtAOP7ak0UcE3M"
@@ -6399,7 +6435,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 351624,
       "name": "Muzik",
       "url": "https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo"
@@ -6799,7 +6835,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 154560,
       "name": "Older",
       "url": "https://open.spotify.com/track/700PRtpvrJQ4M8QRFW5MSi"
@@ -6909,7 +6945,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 316000,
       "name": "One - Pangaea Remix",
       "url": "https://open.spotify.com/track/7u4FVYnk5JiHEGWPudlHdc"
@@ -6927,7 +6963,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 454634,
       "name": "Only",
       "url": "https://open.spotify.com/track/79nJCukLolYKeltbUDlLS8"
@@ -7037,7 +7073,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 298546,
       "name": "Pacifico",
       "url": "https://open.spotify.com/track/3v6btNRqNQaEzET6nkMhyT"
@@ -7219,7 +7255,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 354545,
       "name": "Point of No Return",
       "url": "https://open.spotify.com/track/4AVjVPLrElTPP4JIDY8QPv"
@@ -7317,6 +7353,28 @@
       "duration_ms": 261750,
       "name": "Pure Puma",
       "url": "https://open.spotify.com/track/6rKWRfzVmSkW4EyuuwjQsy"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaros en Verano",
+        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "P\u00e1jaros en Verano",
+      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
     },
     {
       "album": {
@@ -7929,7 +7987,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 376040,
       "name": "Siolim",
       "url": "https://open.spotify.com/track/5dsIRFGn25THUYPpXf2jW2"
@@ -8533,7 +8591,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 283973,
       "name": "Sudden Disclosure",
       "url": "https://open.spotify.com/track/2KogR1jPns8SuBmC8KUgl5"
@@ -8609,7 +8667,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 469007,
       "name": "Take A Trip",
       "url": "https://open.spotify.com/track/5YzlNzOSCWjc3FSX6Go72J"
@@ -8761,7 +8819,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 192000,
       "name": "The Captain",
       "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
@@ -9035,7 +9093,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 384115,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE"
@@ -9312,6 +9370,32 @@
     },
     {
       "album": {
+        "name": "Touch (Solomun Remix)",
+        "url": "https://open.spotify.com/album/3OzCCg2DJ8wpKZQzoXm5Kq"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "Touch - Solomun Remix",
+      "url": "https://open.spotify.com/track/6JjWBvHpTLT9ngwr75i5pt"
+    },
+    {
+      "album": {
         "name": "Toxic People",
         "url": "https://open.spotify.com/album/3RaHkhI4pg1nM0q7AmMqL7"
       },
@@ -9525,7 +9609,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 470029,
       "name": "Umfang",
       "url": "https://open.spotify.com/track/1xKhC1xzZC2cL16zK2gr1a"
@@ -9801,7 +9885,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 268157,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/2ayJnyzml6TAtXRBIYwG2B"
@@ -9947,7 +10031,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 391961,
       "name": "Wait",
       "url": "https://open.spotify.com/track/0xRflBVc8IbRXvuCMtAOpX"
@@ -10271,7 +10355,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 193548,
       "name": "Wrong Or Right",
       "url": "https://open.spotify.com/track/4UBbXBtu5a3rsmucK5jFeW"

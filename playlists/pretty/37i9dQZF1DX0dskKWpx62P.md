@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,009 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,029 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 10 | [Tu Me Pides Que Te Olvide](https://open.spotify.com/track/2H19r12AYTfmJ4TBlXXWRE) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr) | [Max Castro y la Gran Banda](https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv) | 5:30 |
 | 11 | [Olvidame](https://open.spotify.com/track/0vEBYwEwOYVq1tPqB2Qohf) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvidame](https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ) | 4:30 |
 | 12 | [La Orquesta](https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV) | [Raíces D'Jauja](https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D) | [Un Sentimiento de Amor](https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ) | 4:23 |
-| 13 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
-| 14 | [Llanto por Llanto](https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ) | [Los Errantes](https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr) | [Los Errantes](https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3) | 2:41 |
+| 13 | [Llanto por Llanto](https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ) | [Los Errantes](https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr) | [Los Errantes](https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3) | 2:41 |
+| 14 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
 | 15 | [Amor, amor](https://open.spotify.com/track/59t1ift5NKs25qhh9nycJk) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 4:31 |
 | 16 | [Mentiras](https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv) | [Yarita Lizeth Yanarico](https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y) | [La Chinita del Amor](https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5) | 5:53 |
 | 17 | [Vaso de Cristal](https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf) | [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51) | [Amanda Portales la Novia del Perú](https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn) | 3:37 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 26 | [Flor de Retana](https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE) | [Duo Retama](https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf) | [Wistu Vida](https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k) | 6:28 |
 | 27 | [Vas a Llorar](https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W) | [Flor Sinqueña](https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 |
 | 28 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 |
-| 29 | [Cerveza, Cerveza](https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1) | 4:34 |
+| 29 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 | 30 | [Como me duele saber](https://open.spotify.com/track/4m93vYRlOax2Vbbl2fXJnW) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 4:20 |
-| 31 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
+| 31 | [Cerveza, Cerveza](https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1) | 4:34 |
 | 32 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe) | [Trio Ayacucho](https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8) | [Como Siempre Con El Mayor Cariño](https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn) | 3:44 |
 | 33 | [Chapitas](https://open.spotify.com/track/2eCNkP5Q0WgKUpmLrw6qMO) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Tusuyninchiq](https://open.spotify.com/album/7lWFvZlzTUYAjpwGdnPnQY) | 4:20 |
 | 34 | [Río Mantaro](https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:57 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 52 | [Dejame Asi](https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z) | [Luis Mendoza](https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2) | [Calaveras Serranas](https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2) | 2:51 |
 | 53 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 54 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 |
-| 55 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
-| 56 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
+| 55 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
+| 56 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
 | 57 | [Amor Verdadero](https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV) | [Damaris](https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod), [Raices de Jauja](https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9) | [Tú Puedes Volar](https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw) | 4:10 |
 | 58 | [Chall Huaschallay](https://open.spotify.com/track/756FMK950mmLA7hFN05QT2) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Huayno, Vol\. 1](https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P) | 2:39 |
 | 59 | [Quisiera Olvidarte](https://open.spotify.com/track/6fjbD1QYBlkSTQrwbIMvFE) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Huayno Music of Peru, Vol\. 1](https://open.spotify.com/album/6BmF9UOYhJPnn4QqWscWfs) | 2:33 |
 | 60 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 |
 
-Snapshot ID: `MTY0Mzk4NTk1NywwMDAwMDAwMGIxZWU2MmM1YjlmMmQ4MDkxOThmNjJhMTE1OTdlMzM3`
+Snapshot ID: `MTY0Mzk4NTk1NywwMDAwMDAwMGY1NDdiOWZkMWFkYzYxYjM0ZTA3ZDI5MDEwYmQ3NzAx`

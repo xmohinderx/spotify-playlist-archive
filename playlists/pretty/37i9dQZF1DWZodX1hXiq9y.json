@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in jazz. Cover: Charlie Parker",
-  "num_followers": 37403,
+  "num_followers": 37497,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzNTAxMSwwMDAwMDAwMGRmNDFlMzY4OTQ5Zjg1NDdjNmE5ZDQ5YTAwNmUzNjJm",
+  "snapshot_id": "MTY1MjQzNTAxMSwwMDAwMDAwMDFmMzRmNjFkNWFmNzM2ZjJjNTBiZjhiYzViNjIzZTU2",
   "tracks": [
     {
       "added_at": "2022-05-13 09:43:31",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Warm Valley",
-      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Giant Steps (Mono)",
         "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
+      },
+      "artists": [
+        {
+          "name": "Cliff Jordan",
+          "url": "https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij"
+        }
+      ],
+      "duration_ms": 406066,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
       "artists": [
         {
-          "name": "Cliff Jordan",
-          "url": "https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij"
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
         }
       ],
-      "duration_ms": 406066,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ"
+      "duration_ms": 200626,
+      "name": "Warm Valley",
+      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Out To Lunch (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 504866,
       "name": "Hat And Beard",
       "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 310866,
-      "name": "Poor Butterfly",
-      "url": "https://open.spotify.com/track/2GOnuiV0bi8oOy3eNgByYw"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Giant Steps (2020 Remaster)",
         "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 287843,
       "name": "Giant Steps - 2020 Remaster",
       "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "duration_ms": 310866,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/2GOnuiV0bi8oOy3eNgByYw"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Third Season",
-        "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 414360,
-      "name": "Don't Cry, Just Sigh",
-      "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 340173,
       "name": "You've Come Home",
       "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Third Season",
+        "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 414360,
+      "name": "Don't Cry, Just Sigh",
+      "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
+        "name": "Swingin' Till The Girls Come Home",
+        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "Bye bye blackbird",
+      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
         "name": "Jazz Alive! A Night At The Half Note (Live)",
         "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
-        "name": "Swingin' Till The Girls Come Home",
-        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
-        }
-      ],
-      "duration_ms": 220933,
-      "name": "Bye bye blackbird",
-      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "A Stranger In Town",
-        "url": "https://open.spotify.com/album/7bzD7vIdt5nxTEJe8F6Y2k"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 582133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/630ljtZzbwOEQbk4BTw3Lq"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 396106,
       "name": "All For You",
       "url": "https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "A Stranger In Town",
+        "url": "https://open.spotify.com/album/7bzD7vIdt5nxTEJe8F6Y2k"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 582133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 416653,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/5utnd69OazUzLkC6lQnKN2"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 242560,
       "name": "Caroline, No",
       "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 416653,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/5utnd69OazUzLkC6lQnKN2"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -2019,6 +2019,38 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
+        "name": "Spiritual Unity 50th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/0X7WwByQT7NxJNhb8iHJ3K"
+      },
+      "artists": [
+        {
+          "name": "Albert Ayler",
+          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
+        }
+      ],
+      "duration_ms": 442826,
+      "name": "The Wizard",
+      "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2022-05-13 09:43:31",
+      "album": {
         "name": "The Unissued Copenhagen Studio Session",
         "url": "https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc"
       },
@@ -2047,34 +2079,18 @@
     {
       "added_at": "2022-05-13 09:43:31",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+        "name": "Analog Man",
+        "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Ernie Watts",
+          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
         }
       ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
-        "name": "Spiritual Unity 50th Anniversary Expanded Edition",
-        "url": "https://open.spotify.com/album/0X7WwByQT7NxJNhb8iHJ3K"
-      },
-      "artists": [
-        {
-          "name": "Albert Ayler",
-          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
-        }
-      ],
-      "duration_ms": 442826,
-      "name": "The Wizard",
-      "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
+      "duration_ms": 605013,
+      "name": "Joshua",
+      "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
     },
     {
       "added_at": "2022-05-13 09:43:31",
@@ -2091,22 +2107,6 @@
       "duration_ms": 485920,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
-    },
-    {
-      "added_at": "2022-05-13 09:43:31",
-      "album": {
-        "name": "Analog Man",
-        "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
-      },
-      "artists": [
-        {
-          "name": "Ernie Watts",
-          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
-        }
-      ],
-      "duration_ms": 605013,
-      "name": "Joshua",
-      "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
     },
     {
       "added_at": "2022-05-13 09:43:31",

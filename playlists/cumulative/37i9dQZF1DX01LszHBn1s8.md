@@ -4,7 +4,7 @@
 
 > got that summertime sadness..\. 😔☀️🍉
 
-588 songs - 1 day 7 hr 23 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+591 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Pacify Her](https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:40 | 2022-05-19 |  |
 | [Palpitations](https://open.spotify.com/track/4jS4EhXJT0Rj2SzjsgYIo5) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Palpitations](https://open.spotify.com/album/6J5xwFqJZkOdv9xKx8jHTQ) | 2:33 | 2022-05-19 |  |
 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 | 2022-05-19 |  |
+| [Paro \- Speed Up](https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro \(Speed Up\)](https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL) | 2:33 | 2022-08-04 |  |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-06-12 |  |
 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 | 2022-06-23 |  |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2022-05-19 |  |
@@ -459,6 +460,7 @@
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-19 |  |
 | [self sabotage](https://open.spotify.com/track/1B7WWtKiz2LU85t9tL8x5v) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:40 | 2022-05-19 |  |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-05-19 | 2022-07-29 |
+| [Selfish](https://open.spotify.com/track/7dy7fScRwbbmqateWfx5nN) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Selfish](https://open.spotify.com/album/59Bste0VOvfrBl5SlKuqo5) | 2:42 | 2022-08-04 |  |
 | [Seventeen Going Under](https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 5:02 | 2022-05-19 |  |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-28 |  |
 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:56 | 2022-05-19 |  |
@@ -591,6 +593,7 @@
 | [Yonkers](https://open.spotify.com/track/3WQlJpaUUbGtUqAskvGA7c) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/3CxknRPQLbOJRwQrNekNyU) | 4:09 | 2022-05-19 | 2022-07-29 |
 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-05-19 |  |
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-16 |  |
+| [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2022-08-04 |  |
 | [You're a Jerk](https://open.spotify.com/track/30QbrkRLEimw7HWXb7ntrU) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [Skinny Jeanz and a Mic](https://open.spotify.com/album/69Nu2ijQ5dCtI6uFeSy64x) | 3:09 | 2022-05-19 |  |
 | [You're a Jerk](https://open.spotify.com/track/7hZPBVT3M6UQv1eBkkTXfh) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [Skinny Jeanz and a Mic](https://open.spotify.com/album/7tJeqFSzeIPToU3oZ4fkiB) | 3:09 | 2022-05-19 | 2022-07-29 |
 | [You're Not Harry Styles](https://open.spotify.com/track/1yCrrZwlYPS3AqQHsJvFlu) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [You're Not Harry Styles](https://open.spotify.com/album/2syexb536heyUjkWkx7Kab) | 2:56 | 2022-05-19 | 2022-07-29 |

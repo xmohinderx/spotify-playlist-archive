@@ -4,7 +4,7 @@
 
 > Al cien con los corridos ¡Para un buen ejercicio!
 
-335 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/1DOweYuVVKrE9ujdDdWPfp)
+336 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/1DOweYuVVKrE9ujdDdWPfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,11 +337,12 @@
 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 | 2022-02-14 | 2022-07-29 |
 | [Verdes Verdes](https://open.spotify.com/track/5UoFolYVqme3NABM96m0cD) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 2:38 | 2022-05-27 | 2022-07-28 |
 | [Vida Movida](https://open.spotify.com/track/7cr1tli23NGeGpFRphz0rQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Vida Movida](https://open.spotify.com/album/6ZlSUDMImb7JjnxVWrASIi) | 3:14 | 2022-05-27 | 2022-07-27 |
+| [Vida Peligrosa](https://open.spotify.com/track/5ssRh5ChJO21f1EhSXyiCl) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 3:04 | 2022-06-10 |  |
 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 | 2022-02-14 |  |
 | [Voy En Camino](https://open.spotify.com/track/0zmJ7DDzxnTBKDbGIt1SiC) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Voy En Camino](https://open.spotify.com/album/4FUBzkaYAT4fBDxLvbNSLo) | 2:54 | 2022-06-10 | 2022-07-22 |
 | [Yo Fui El Elegante](https://open.spotify.com/track/6dJJT9h7FzjenIaa31bw8p) | [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Yo Fui El Elegante](https://open.spotify.com/album/17omlxcfJTA2Ep7gadbOZX) | 2:26 | 2022-02-14 |  |
 | [Yo Soy Rico](https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 2:35 | 2022-02-14 |  |
 | [Yo, Billetes y Damas](https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Yo, Billetes y Damas \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG) | 3:29 | 2022-06-10 | 2022-07-20 |
-| [Zumbando Terrenos](https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:23 | 2022-02-14 |  |
+| [Zumbando Terrenos](https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:23 | 2022-02-14 | 2022-08-05 |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

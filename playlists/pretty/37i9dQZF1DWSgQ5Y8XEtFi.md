@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,784 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,217 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 36 | [Heart Attack](https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Chaxsthexry](https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ) | 3:13 |
 | 37 | [BACKROOM](https://open.spotify.com/track/6pEk4bPOrJb77cH8noJLaR) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:35 |
 | 38 | [Dr\. Suess](https://open.spotify.com/track/4nFAUqFou9ZbWNho3jeY1h) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Sin City The Mixtape](https://open.spotify.com/album/60Od32zDXklGhsYo6ADaPG) | 2:33 |
-| 39 | [1539 N\. Calvert](https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Veteran](https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco) | 2:37 |
-| 40 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
+| 39 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
+| 40 | [1539 N\. Calvert](https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Veteran](https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco) | 2:37 |
 | 41 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 42 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 |
 | 43 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [DRAINO \(feat\. Denzel Curry\)](https://open.spotify.com/track/5hOnCHMwQdXOd4qfAWEhKP) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [CITY MORGUE VOL 2: AS GOOD AS DEAD](https://open.spotify.com/album/6o5cXlhhYbFvewfsYpuyEM) | 3:22 |
 | 50 | [Mase in '97](https://open.spotify.com/track/7j6OJzMIJL5JcFHyeSJZGV) | [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Mase in '97](https://open.spotify.com/album/7hp3MpqhzFB5S608ZevGQs) | 1:40 |
 
-Snapshot ID: `MTY1OTU2NDc5MCwwMDAwMDAwMDA2ZmViYjJkYTE3ZDg5ZDZmMDRiYmU0NDgzNTM5ZDlj`
+Snapshot ID: `MTY1OTU2NDc5MCwwMDAwMDAwMDU3NTI5MGJlOWM3NmY5ZTFkNTI0OTk5NGIxNDBkODkw`

@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 麗英@小薯茄
+> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 盧華
 
-42 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
+43 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-26 |  |
 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 |  |
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 |  |
+| [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 | 2022-08-04 |  |
 | [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 | 2022-07-28 |  |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2022-05-26 | 2022-07-29 |
 | [列車](https://open.spotify.com/track/16VxP8nA8hfedGcO6qQufW) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/2pYtIJDaTsExRe9XPIIOpK) | 4:40 | 2022-05-26 |  |

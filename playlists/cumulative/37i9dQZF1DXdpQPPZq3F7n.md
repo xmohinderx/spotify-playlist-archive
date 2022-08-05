@@ -4,7 +4,7 @@
 
 > Best Bollywood love songs from last 10 years\. Cover\- Shamshera
 
-97 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
+98 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr) | 3:44 | 2022-05-19 |  |
 | [Sukoon Mila](https://open.spotify.com/track/4nydCE0L7G13XLKPzvLlNs) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Mary Kom](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 3:20 | 2022-05-19 |  |
 | [Tera Ban Jaunga](https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:56 | 2022-05-19 |  |
+| [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3) | 5:46 | 2022-08-04 |  |
 | [Thodi Jagah \(From "Marjaavaan"\)](https://open.spotify.com/track/3f0wz6zcA7XkQiGm0qNF5r) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Thodi Jagah \(From "Marjaavaan"\)](https://open.spotify.com/album/4DZ2mXEtUDsltgPqGwnRDd) | 3:38 | 2022-05-19 |  |
 | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM) | 3:20 | 2022-05-19 |  |
 | [Tujhe Kitna Chahne Lage](https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:44 | 2022-05-19 |  |

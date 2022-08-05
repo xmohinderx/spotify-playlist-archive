@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1106669,
+  "num_followers": 1107020,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY0MDUxNSwwMDAwMDAwMDU1YWZhMDYxZjg2ZDA3ZmVmNzgwNTNhMzBkMDIyN2U1",
+  "snapshot_id": "MTY1NDY0MDUxNSwwMDAwMDAwMDMxNzNkZDZlM2FkYzcyNGJhNjM4NWVhYTQ4ZjAxZDc2",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "20 Exitos Originales 20",
-        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Que Nota",
-          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
-        }
-      ],
-      "duration_ms": 277028,
-      "name": "El Amor de la Nena",
-      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "El Angel Del Amor",
         "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 268460,
       "name": "La Mu\u00f1equita Fea",
       "url": "https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "20 Exitos Originales 20",
+        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Que Nota",
+          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
+        }
+      ],
+      "duration_ms": 277028,
+      "name": "El Amor de la Nena",
+      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+        "name": "Cumbiando Este 5 De Mayo",
+        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
       },
       "artists": [
         {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 236518,
-      "name": "El Angel Del Amor",
-      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
+      "duration_ms": 324280,
+      "name": "Cumbia En La Playa",
+      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 236518,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Dejame Pensar",
         "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 277455,
       "name": "Dejame Pensar",
       "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Cumbiando Este 5 De Mayo",
-        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Cumbia En La Playa",
-      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "De Reventon",
+        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maravilla",
+          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "El Sabor de la Cumbia Mexicana",
         "url": "https://open.spotify.com/album/2MivNgaOLUJ6AiscB6WpvM"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 300906,
       "name": "Soy Maraquero",
       "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "De Reventon",
-        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maravilla",
-          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
     },
     {
       "added_at": "2022-06-07 22:21:55",

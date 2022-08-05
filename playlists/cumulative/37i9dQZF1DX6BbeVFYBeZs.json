@@ -1914,6 +1914,24 @@
     },
     {
       "album": {
+        "name": "Solitaria",
+        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136624,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
+    },
+    {
+      "album": {
         "name": "Sombra",
         "url": "https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0"
       },

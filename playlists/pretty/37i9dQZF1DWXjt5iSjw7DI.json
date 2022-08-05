@@ -1,12 +1,12 @@
 {
   "description": "Country Music legends recorded live.   Just like being there.",
-  "num_followers": 51001,
+  "num_followers": 51059,
   "original_name": "Legendary Country Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDAwMGI3N2M3NWMwYjczNjI2ZDc5NDJhZWZkYzBjNTQzMGUy",
+  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDAwMDkyZGY5N2U5ZmZkOWEyNjVhMTRjYzhkNGU0MTUzY2E4",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
-        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 335173,
-      "name": "Margaritaville (Lost Verse) - Live",
-      "url": "https://open.spotify.com/track/1gpZ5KzrCJlClmFhzA3KH6"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Eagles Live",
         "url": "https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 309466,
       "name": "Life in the Fast Lane - Live; 1999 Remaster",
       "url": "https://open.spotify.com/track/7aMJo6bv0PFq2bX969Wgos"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
+        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 335173,
+      "name": "Margaritaville (Lost Verse) - Live",
+      "url": "https://open.spotify.com/track/1gpZ5KzrCJlClmFhzA3KH6"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -687,22 +687,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Long Haired Country Boy (Live)",
-        "url": "https://open.spotify.com/album/1HbMk042HFqWzMA4elVqk8"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        },
-        {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 245665,
-      "name": "Long Haired Country Boy - Live",
-      "url": "https://open.spotify.com/track/7v2MR8c8HscrzGWSrdc9hG"
+      "duration_ms": 270186,
+      "name": "Any Man Of Mine - Live",
+      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -755,18 +751,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+        "name": "Long Haired Country Boy (Live)",
+        "url": "https://open.spotify.com/album/1HbMk042HFqWzMA4elVqk8"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        },
+        {
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
         }
       ],
-      "duration_ms": 237706,
-      "name": "The Cowboy Rides Away - Live",
-      "url": "https://open.spotify.com/track/5gZqP05YLcDTpLMnDHZMrA"
+      "duration_ms": 245665,
+      "name": "Long Haired Country Boy - Live",
+      "url": "https://open.spotify.com/track/7v2MR8c8HscrzGWSrdc9hG"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -783,6 +783,22 @@
       "duration_ms": 227586,
       "name": "I'm Gonna Miss Her (Live)",
       "url": "https://open.spotify.com/track/4uVcSmPriCKI6L7Ah4GkFT"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "The Cowboy Rides Away - Live",
+      "url": "https://open.spotify.com/track/5gZqP05YLcDTpLMnDHZMrA"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -835,22 +851,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Any Man Of Mine - Live",
-      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Haywire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
       },
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Don't Be Stupid (You Know I Love You) - Live",
+      "url": "https://open.spotify.com/track/3emMetF2rZ9r37qulZfa1c"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 199533,
       "name": "Bob Wills Is Still The King - Live in Texas - September 1974",
       "url": "https://open.spotify.com/track/0BtXBcqTKxou65mJivA3pA"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Kenny Chesney Live",
-        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 362546,
-      "name": "She Thinks My Tractor's Sexy - Live",
-      "url": "https://open.spotify.com/track/2NePleuMNN4kNLihiFxaSn"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "Kenny Chesney Live",
+        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Don't Be Stupid (You Know I Love You) - Live",
-      "url": "https://open.spotify.com/track/3emMetF2rZ9r37qulZfa1c"
+      "duration_ms": 362546,
+      "name": "She Thinks My Tractor's Sexy - Live",
+      "url": "https://open.spotify.com/track/2NePleuMNN4kNLihiFxaSn"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Kenny Chesney Live",
-        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 291653,
-      "name": "I Go Back - Live",
-      "url": "https://open.spotify.com/track/13D7XTvRIV8s5mebCppPQx"
+      "duration_ms": 286200,
+      "name": "Whose Bed Have Your Boots Been Under? - Live",
+      "url": "https://open.spotify.com/track/3CAjCIp6vqAYutYtyLtaSe"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "Kenny Chesney Live",
+        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 286200,
-      "name": "Whose Bed Have Your Boots Been Under? - Live",
-      "url": "https://open.spotify.com/track/3CAjCIp6vqAYutYtyLtaSe"
+      "duration_ms": 291653,
+      "name": "I Go Back - Live",
+      "url": "https://open.spotify.com/track/13D7XTvRIV8s5mebCppPQx"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "A Man and His Guitar (Live from the Franklin Theatre)",
+        "url": "https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 265898,
+      "name": "I'm Gonna Be Somebody - Live",
+      "url": "https://open.spotify.com/track/7MrG4eeHwaxOVu6l2UW0f1"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Live at RCA Studios 1972",
         "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 190293,
       "name": "Rockin' With The Rhythm Of The Rain - Live",
       "url": "https://open.spotify.com/track/74X536u3RCM3fK5DFKuq86"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "A Man and His Guitar (Live from the Franklin Theatre)",
-        "url": "https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 265898,
-      "name": "I'm Gonna Be Somebody - Live",
-      "url": "https://open.spotify.com/track/7MrG4eeHwaxOVu6l2UW0f1"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Live From Dixie's Bar & Bus Stop",
+        "url": "https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jeff Walker",
+          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+        }
+      ],
+      "duration_ms": 304480,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/3NwvaXTxi27IPkFNWveDZP"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 307133,
       "name": "Fins - Live",
       "url": "https://open.spotify.com/track/6OTJ1osgoSNY6U1UIK3Hf5"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Live From Dixie's Bar & Bus Stop",
-        "url": "https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S"
-      },
-      "artists": [
-        {
-          "name": "Jerry Jeff Walker",
-          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
-        }
-      ],
-      "duration_ms": 304480,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/3NwvaXTxi27IPkFNWveDZP"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/0mLOijBn9kqGwJeMlo5XxO"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "Crystal Chandeliers",
-      "url": "https://open.spotify.com/track/0psNht7pyAcPZRRu7noxYn"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Live At The Ryman",
         "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 164026,
       "name": "The Whiskey Ain't Working Anymore",
       "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/0mLOijBn9kqGwJeMlo5XxO"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Crystal Chandeliers",
+      "url": "https://open.spotify.com/track/0psNht7pyAcPZRRu7noxYn"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Haywire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 331746,
+      "name": "Long Black Train - Live In Ohio/2009",
+      "url": "https://open.spotify.com/track/0ru7K5zBrQkXZ9SwCjLkfR"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Live From Austin, TX",
         "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 246247,
       "name": "Cherokee Fiddle",
       "url": "https://open.spotify.com/track/0StVxDLK1hbA6VRc27dp6e"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Haywire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 331746,
-      "name": "Long Black Train - Live In Ohio/2009",
-      "url": "https://open.spotify.com/track/0ru7K5zBrQkXZ9SwCjLkfR"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2335,18 +2335,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+        "name": "Tanya Tucker (Live)",
+        "url": "https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa"
       },
       "artists": [
         {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Hillbilly Rock",
-      "url": "https://open.spotify.com/track/6CCW2iEsdeMuZdPG6lQkhX"
+      "duration_ms": 171280,
+      "name": "One Love at a Time - Live",
+      "url": "https://open.spotify.com/track/0wsW51hyoSL0oklKtEf8BT"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2367,34 +2367,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Tanya Tucker (Live)",
-        "url": "https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa"
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
       },
       "artists": [
         {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 171280,
-      "name": "One Love at a Time - Live",
-      "url": "https://open.spotify.com/track/0wsW51hyoSL0oklKtEf8BT"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Setlist: The Very Best of George Jones LIVE",
-        "url": "https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Who's Gonna Fill Their Shoes - Live",
-      "url": "https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf"
+      "duration_ms": 200800,
+      "name": "Hillbilly Rock",
+      "url": "https://open.spotify.com/track/6CCW2iEsdeMuZdPG6lQkhX"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2415,6 +2399,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Setlist: The Very Best of George Jones LIVE",
+        "url": "https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Who's Gonna Fill Their Shoes - Live",
+      "url": "https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -2427,6 +2427,22 @@
       "duration_ms": 298133,
       "name": "A Country Boy Can Survive - Live",
       "url": "https://open.spotify.com/track/6jydKCQNiKoxTtVnLb21A6"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Tanya Tucker (Live)",
+        "url": "https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "If Your Heart Ain't Busy - Live",
+      "url": "https://open.spotify.com/track/50Y2DDtQgOKLgtI3ApcLZw"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2463,22 +2479,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "The Greatest Live Show On Earth (Live At The Municipal Auditorium, Birmingham, Alabama/1964)",
-        "url": "https://open.spotify.com/album/7pHGti1C51afG7dnl9goap"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 307040,
-      "name": "Whole Lotta Shakin' Goin' On - Live At The Municipal Auditorium, Birmingham, Alabama/1964",
-      "url": "https://open.spotify.com/track/2L8QMbzt6ivEdQ3aQIJ8cK"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3"
       },
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Tanya Tucker (Live)",
-        "url": "https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "If Your Heart Ain't Busy - Live",
-      "url": "https://open.spotify.com/track/50Y2DDtQgOKLgtI3ApcLZw"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Setlist: The Very Best of George Jones LIVE",
         "url": "https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 198386,
       "name": "The One I Loved Back Then (The Corvette Song) - Live",
       "url": "https://open.spotify.com/track/1iO3uRjq988Q9y2KmB9r7i"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "The Greatest Live Show On Earth (Live At The Municipal Auditorium, Birmingham, Alabama/1964)",
+        "url": "https://open.spotify.com/album/7pHGti1C51afG7dnl9goap"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 307040,
+      "name": "Whole Lotta Shakin' Goin' On - Live At The Municipal Auditorium, Birmingham, Alabama/1964",
+      "url": "https://open.spotify.com/track/2L8QMbzt6ivEdQ3aQIJ8cK"
     }
   ],
   "unique_name": "Legendary Country Live",

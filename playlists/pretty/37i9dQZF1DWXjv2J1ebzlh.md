@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,149 likes - 1,132 songs - 3 day 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,221 likes - 1,132 songs - 3 day 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -548,7 +548,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 538 | [To Minore Tis Avgis](https://open.spotify.com/track/7DrGc72zMMvu3VOLRVRsgm) | [Markos Vamvakaris](https://open.spotify.com/artist/2MOeRxQqwrvur6it4B3G3R), [Apostolos Hatzichristos](https://open.spotify.com/artist/5XFtjPHUPYfb0ea4iUCfmq) | [Complete Guide to Markos Vamvakaris](https://open.spotify.com/album/2LfXDPKz7EANTKaLweYyRJ) | 3:19 |
 | 539 | [Still Got a Way to Fall](https://open.spotify.com/track/06xHsdwvGuvdBivuCyGps5) | [Nicole Willis](https://open.spotify.com/artist/0eNjd1MGYdXbMLHoMNu1NI), [UMO Jazz Orchestra](https://open.spotify.com/artist/1tF1OoWEyzysLCCBRwzDc1) | [My Name Is Nicole Willis](https://open.spotify.com/album/0e7kN4e5eTuvhpqBXSVq4V) | 3:47 |
 | 540 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/1XAOOkVxdWLra00faqOiyU) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 6:44 |
-| 541 | [Oh Yeh Soweto](https://open.spotify.com/track/4QgyiSUwP6WRpW6BywcJWg) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [30 Years of Mr\. Bongo \(Compiled by Mr\. Bongo\)](https://open.spotify.com/album/2H8TkJujErvi0V4ZT8cWyg) | 4:09 |
+| 541 | [Oh Yeh Soweto](https://open.spotify.com/track/62PQBJn14c9Um19YDFfU2j) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:09 |
 | 542 | [Quando O Carnaval Chegar](https://open.spotify.com/track/5Iuqp8HuZwjV3Uo5g5naHw) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Quarteto Em Cy](https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI) | 2:52 |
 | 543 | [Les voyages](https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Jeanne Chante Jeanne](https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7) | 3:01 |
 | 544 | [O Calhambeque \(Road Hog\) \- Versão remasterizada](https://open.spotify.com/track/5fI3VyojzKwYROh9b7cgRQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [É Proibido Fumar \(Remasterizado\)](https://open.spotify.com/album/0T4Oun2SB4oIuy9w9Qgw6v) | 2:21 |
@@ -1141,4 +1141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1131 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1132 | [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 |
 
-Snapshot ID: `MTY1ODkxNzgwMCwwMDAwMDAwMGU4NzgwZTAxNGU1Yjg5NzE1NWU4Y2JiMjIxZjRlZjgx`
+Snapshot ID: `MTY1ODkxNzgwMCwwMDAwMDAwMDg5YWQ3MTBhZWU1MTkxOTA2ZDQxMzU4OTc4MzFjODcw`

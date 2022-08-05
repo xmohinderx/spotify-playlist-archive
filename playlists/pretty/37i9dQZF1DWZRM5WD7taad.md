@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,006 likes - 89 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,068 likes - 89 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 52 | [ILY](https://open.spotify.com/track/7qCfzzn1iPRpCnMCEFi7Lv) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [ILY](https://open.spotify.com/album/6WQonABzkyv6R7VsNhRjo9) | 2:35 |
 | 53 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 |
 | 54 | [Experiencia](https://open.spotify.com/track/2hJtIUSPDlqqCKDt5dSyYO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/0R9wzfqAVBxRvfuRGFQIDs) | 2:13 |
-| 55 | [Te Regalo](https://open.spotify.com/track/2s0NclshpZt1Q2aVsBZXVd) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/0dE76rMV7OHOgmLZBBp8Dx) | 4:26 |
+| 55 | [Te Regalo](https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz) | 4:26 |
 | 56 | [A Veces](https://open.spotify.com/track/5Cn1NLa4WThiegxtoaaxFp) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q) | [23](https://open.spotify.com/album/5UZ4idzeoePrLTZf5P2jlj) | 2:08 |
 | 57 | [90's](https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1) | 2:18 |
 | 58 | [Bounce](https://open.spotify.com/track/6KUmpDrv5YOGR4Re7KJJze) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/6Becef5FVLJfocz5dk1DNF) | 2:38 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 83 | [Lick](https://open.spotify.com/track/1l9gwjr7SRHepNFio6MxLb) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo) | [Lick](https://open.spotify.com/album/3zb6F6ieaqd0qqCbiJVUnH) | 2:16 |
 | 84 | [FREAKY](https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [FREAKY](https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH) | 2:30 |
 | 85 | [Kintsugi](https://open.spotify.com/track/5M5DaipN38XHlGQC4Tfa06) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W) | [Kintsugi](https://open.spotify.com/album/0LzlreqpMJPGWsseWggW3k) | 3:44 |
-| 86 | [En el Aire](https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea) | 3:01 |
+| 86 | [En el Aire](https://open.spotify.com/track/2XDj1sDCtz9eN9lotxlhQ8) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/69TwSYaQOEdYI2Qq9FBgAT) | 3:01 |
 | 87 | [Pueblo Chico](https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC) | [Pueblo Chico](https://open.spotify.com/album/3u0Lrsim4vXAW8kkW4nX90) | 3:02 |
 | 88 | [No Estoy](https://open.spotify.com/track/2WkJqdOBHuGi44d8dnSHuK) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Estoy](https://open.spotify.com/album/0LiFjBoSemLpzSCOsGXTOF) | 3:58 |
 | 89 | [Me Voy](https://open.spotify.com/track/5vx06yKyMpmgLfTeq7vv9K) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Jess Puente](https://open.spotify.com/artist/7A5Nk3dHjJheI5Zga7fSE6), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Me Voy](https://open.spotify.com/album/6JeUFhsLRJtKOLG5qQEHbJ) | 3:25 |
 
-Snapshot ID: `MTY1OTU0Mjg5MywwMDAwMDAwMDlmOGViZmU5N2UxNjMxMWNjZWQ3NWRkOWJkZWY4MmQy`
+Snapshot ID: `MTY1OTU0Mjg5MywwMDAwMDAwMDM4ZmM0MTNlNDNmZTRhMTU5MjRlYTUzZmM3NDY5NDhm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: BOIZ, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,768 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,774 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 25 | [convenient](https://open.spotify.com/track/4Ik2gXDNY5Mzn01VfY7cUr) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z) | [convenient](https://open.spotify.com/album/0EEo7EHLa5MNpExOBwjht1) | 3:21 |
 | 26 | [Kapit Lang](https://open.spotify.com/track/7lIx7qCoYbVL5vL7DrlSlL) | [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [JRoa](https://open.spotify.com/artist/0eaeZqmrZHe4qGgx4woFnG) | [Kapit Lang](https://open.spotify.com/album/1gTCUADkkyltU6ZFUBN4Cu) | 3:53 |
 | 27 | [Attracted](https://open.spotify.com/track/3hnlOF2IchhxpcUm3Ctv5Q) | [Fritz Miranda](https://open.spotify.com/artist/2XU4WiVXIJRKj0U8Jp9XE4) | [Attracted](https://open.spotify.com/album/7vz3rSMHantDRYqjfWRB0K) | 3:50 |
-| 28 | [VROOM!](https://open.spotify.com/track/5MKYIPoo5IZLjSnMpBoteM) | [Black Box Collective](https://open.spotify.com/artist/0wKpCwB9oqKN7Lq6XRnUym), [skeptic tongues](https://open.spotify.com/artist/2Sm6o4H6oQtpfRZYim54jT) | [VROOM!](https://open.spotify.com/album/1NeGFyxltJVySRfj1tWK6z) | 3:21 |
+| 28 | [VROOM!](https://open.spotify.com/track/5MKYIPoo5IZLjSnMpBoteM) | [Black Box Collective](https://open.spotify.com/artist/0wKpCwB9oqKN7Lq6XRnUym), [Skeptik Tongues](https://open.spotify.com/artist/0M1BTuzj5SfmeCLdRdqbbQ) | [VROOM!](https://open.spotify.com/album/1NeGFyxltJVySRfj1tWK6z) | 3:21 |
 | 29 | [All Love, No Hate](https://open.spotify.com/track/7B40Wyl3xMf9FpU6jUkDWT) | [Jiya Noina](https://open.spotify.com/artist/5rmYAIq4ong7rSgH6XKtQs) | [All Love, No Hate](https://open.spotify.com/album/1zdVTiNSTT1tsyDvaqXFxX) | 3:00 |
 | 30 | [Espasyo](https://open.spotify.com/track/05Pp0XbaYGp7WR3skgtAyJ) | [Discent](https://open.spotify.com/artist/5P0OfGvR99ekgKVZendHZD) | [Espasyo](https://open.spotify.com/album/3XAqhs29RKa8dbVPC177gh) | 5:15 |
 | 31 | [If I Danced a Little Longer](https://open.spotify.com/track/6pYfAQVN2hmF8GxBTuyZE2) | [Cami](https://open.spotify.com/artist/2qu2J8C5rJmKK5EprQ1S9P) | [If I Danced a Little Longer](https://open.spotify.com/album/0TiQSXj1Jviq7lYeANDXgl) | 3:10 |

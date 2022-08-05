@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: 星野源
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,238 likes - 49 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,468 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 23 | [栄光の扉](https://open.spotify.com/track/67O5aJpFGwY3fWTZR7dYF4) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [栄光の扉](https://open.spotify.com/album/5B4g8QeADJxr4Vbv3lBwbX) | 3:27 |
 | 24 | [たましいの居場所](https://open.spotify.com/track/5D16E22MJJyKesh9PrJf2L) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [たましいの居場所](https://open.spotify.com/album/7Gy6jvTXkSgx5oEbaWBt1l) | 3:21 |
 | 25 | [Yasashisa Ni Afureta Sekaide](https://open.spotify.com/track/3PGlB1DpDki7Bb5sIG6Nd9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Sunny Bottle](https://open.spotify.com/album/1lgYCVITev3MpgbsAkP2Or) | 4:18 |
-| 26 | [Gentle Hands](https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [Gentle Hands](https://open.spotify.com/album/1mq2LQh4ZcG8USY6v8ujpL) | 4:12 |
+| 26 | [Gentle Hands](https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm), [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Gentle Hands](https://open.spotify.com/album/1mq2LQh4ZcG8USY6v8ujpL) | 4:12 |
 | 27 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 |
 | 28 | [ピアス](https://open.spotify.com/track/4q64nWPqTWIVHGHidRaSUm) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [ピアス](https://open.spotify.com/album/29VASKJxI1IvAieKz3hqrU) | 3:56 |
 | 29 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 |

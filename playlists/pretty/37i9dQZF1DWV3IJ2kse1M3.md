@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>怎麼先熾熱的卻先變冷了，慢熱的卻停不了還在沸騰著。
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,263 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,289 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 41 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
 | 42 | [匿名的好友](https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
 | 43 | [地球上最浪漫的一首歌](https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO) | [Alien Huang](https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ) | [愛&英雄 LOVE HERO](https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U) | 4:41 |
-| 44 | [心動](https://open.spotify.com/track/2pKWbHvOcbqb14oNw3bZFd) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [重譯 陳潔儀·重奏](https://open.spotify.com/album/0EikZOl3JP9FECqaFyk6ah) | 3:51 |
-| 45 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 |
+| 44 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 |
+| 45 | [心動](https://open.spotify.com/track/2pKWbHvOcbqb14oNw3bZFd) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [重譯 陳潔儀·重奏](https://open.spotify.com/album/0EikZOl3JP9FECqaFyk6ah) | 3:51 |
 | 46 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
 | 47 | [你还要我怎样](https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [意外](https://open.spotify.com/album/6fdVEfGvTcT7TgipOorHD5) | 5:10 |
 | 48 | [Love U U](https://open.spotify.com/track/16o2AmA4xxtE3vMGl3zi0W) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [學不會](https://open.spotify.com/album/1hTBgTLTxoaK9TJ8YmnYU5) | 3:39 |
 | 49 | [如果沒有你](https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [如果沒有你](https://open.spotify.com/album/67rYAc50qw4Da0Rp2PavMK) | 4:47 |
 | 50 | [趁早](https://open.spotify.com/track/5HWiTu6zgcALuSgdqTZRJm) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [不顧一切](https://open.spotify.com/album/3MokYdeopJkDZKCY4sOW8Y) | 5:24 |
 
-Snapshot ID: `MTY1NDA0Nzg4OSwwMDAwMDAwMDhjZTU2ZjY1ODQ2YTJjNmIyNWU1MGUxYWQ2Y2VmZWNk`
+Snapshot ID: `MTY1NDA0Nzg4OSwwMDAwMDAwMGI3YzFlMmY1N2IzZWUwMDA2MzM0MzlhMDllZWJlYmM0`

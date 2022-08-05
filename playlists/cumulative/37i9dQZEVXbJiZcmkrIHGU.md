@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,174 songs - 2 day 10 hr 34 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,175 songs - 2 day 10 hr 39 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-23 |
 | [Bramfeld Storys](https://open.spotify.com/track/2gPl0OSKeA4HrFnI07Ehmz) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 8:55 | 2021-11-21 | 2021-11-26 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-07-01 |
+| [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-04 |  |
 | [Brooklyn](https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Brooklyn](https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B) | 3:02 | 2021-12-30 | 2022-04-12 |
 | [Bubblegum](https://open.spotify.com/track/7nyIhPrP5qinbs4YXyviiI) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Spirit of Ecstasy](https://open.spotify.com/album/76gWqnRVyizDFTvuxBqIzq) | 2:22 | 2022-05-07 | 2022-05-08 |
 | [Burn](https://open.spotify.com/track/0QwKxajohg1rAMMmv1AWe1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:37 | 2021-12-12 | 2021-12-13 |
@@ -877,7 +878,7 @@
 | [Redlight](https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Redlight](https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e) | 2:57 | 2021-06-11 | 2021-08-22 |
 | [Regen](https://open.spotify.com/track/1gO12cFlEWwuLQMf94wzOB) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:57 | 2021-07-18 | 2021-07-19 |
 | [Remedy](https://open.spotify.com/track/2xSIcmvFQHs2CeS34Mgp62) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/2HpKiYKlnaDg6ou4CoFYzk) | 2:27 | 2022-02-24 | 2022-07-13 |
-| [Remedy](https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/5DkP7hUfhlC2lvvJ0d1jtz) | 2:27 | 2022-07-12 |  |
+| [Remedy](https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/5DkP7hUfhlC2lvvJ0d1jtz) | 2:27 | 2022-07-12 | 2022-08-05 |
 | [RENN RENN](https://open.spotify.com/track/5dYA3DGibUvGlEmTmariSy) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [RENN RENN](https://open.spotify.com/album/3CYIlp65qThM8xkS97nbZR) | 3:19 | 2022-06-25 | 2022-07-03 |
 | [Riba](https://open.spotify.com/track/4qQCmTYrmTKLtIMTC4uSUI) | [KASIMIR1441](https://open.spotify.com/artist/7ADRm1oT7VmhRRZrZqycV6), [DILOMAN](https://open.spotify.com/artist/2innBaSmptmpGvov5kUIqW), [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq) | [Riba](https://open.spotify.com/album/6V80YarHDHc4FRYEuis31m) | 2:30 | 2021-06-27 | 2021-06-28 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-16 |

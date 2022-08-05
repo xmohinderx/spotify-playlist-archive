@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5x2pZCBJeC8XPXdex5MSsu"
+      },
+      "artists": [
+        {
+          "name": "Truth",
+          "url": "https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284703,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2uX9JzpZxul4FNnk87z1zQ"
+    },
+    {
+      "album": {
         "name": "AI Beat Tape",
         "url": "https://open.spotify.com/album/2PgvIOKViA6u74we5C9kEp"
       },

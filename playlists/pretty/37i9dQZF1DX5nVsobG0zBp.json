@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 28486,
+  "num_followers": 28542,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMGViZTdkMWYyN2RiZWVhN2RjNDc2OTlhYTQ3ZmJlMTM5",
+  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMGJkYjVhNTJmMjdkZjI2MjU5YmU4NWQxZGI3OWU0ZmM2",
   "tracks": [
     {
       "added_at": "2022-07-05 08:35:29",
@@ -875,6 +875,38 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
+    },
+    {
+      "added_at": "2022-07-05 08:35:29",
+      "album": {
+        "name": "1100 Cegonhas",
+        "url": "https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "1100 Cegonhas",
+      "url": "https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE"
+    },
+    {
+      "added_at": "2022-07-05 08:35:29",
+      "album": {
         "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
         "url": "https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 209882,
       "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
       "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
-    },
-    {
-      "added_at": "2022-07-05 08:35:29",
-      "album": {
-        "name": "1100 Cegonhas",
-        "url": "https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "1100 Cegonhas",
-      "url": "https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE"
-    },
-    {
-      "added_at": "2022-07-05 08:35:29",
-      "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 147820,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
     },
     {
       "added_at": "2022-07-05 08:35:29",

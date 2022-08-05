@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-220 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+221 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Danger Zone](https://open.spotify.com/track/48gfj7REhcvZjASWAPEo68) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Danger Zone](https://open.spotify.com/album/2AFI0lCU0ILKZW9Plkno6n) | 2:52 | 2019-10-04 | 2022-02-12 |
 | [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 |  |
 | [departure](https://open.spotify.com/track/3VtNgwrW7ZpnPjXfnkXBTh) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [departure](https://open.spotify.com/album/5rwZIBeQdCg8X7NabbmJbF) | 2:04 | 2021-10-12 | 2022-02-12 |
+| [DJ, What track is this](https://open.spotify.com/track/6Gwz1WJ63LSsRx4jW1INBK) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [DJ, What track is this](https://open.spotify.com/album/6JhYQgZobFNhxPQsDihi9F) | 2:45 | 2022-08-05 |  |
 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 | 2022-02-11 |  |
 | [Dream Canyon](https://open.spotify.com/track/7wwW2weaG0o43SN581vH7c) | [Backdoor Jesus](https://open.spotify.com/artist/5aokebFIGIK1DHblB80rdw) | [Dream Canyon](https://open.spotify.com/album/2FDdq2nTAxV0aHuOM051Z4) | 2:33 | 2021-10-12 | 2022-02-12 |
 | [Dreams](https://open.spotify.com/track/3WnsrngoR8opauzEOnYXVJ) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Dreams](https://open.spotify.com/album/2b2uUCQBke5wtPskEnyzYP) | 3:42 | 2022-02-11 | 2022-07-29 |
@@ -71,7 +72,7 @@
 | [foggy afternoons](https://open.spotify.com/track/29aEQCuc0s6E0kcFreV46L) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:02 | 2021-10-12 | 2022-02-12 |
 | [Follow the Sun \- JordanXL Remix](https://open.spotify.com/track/0Yw2oKRVSUtQfQbZGtarJU) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po), [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Follow the Sun \(Remixes\) \- Single](https://open.spotify.com/album/67nMpCUL8SDP6CC6DPzVaz) | 3:29 | 2019-10-04 | 2022-02-12 |
 | [Fool 4 You](https://open.spotify.com/track/49dTuuSZfC6676ARFbkjQQ) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Fool 4 You](https://open.spotify.com/album/4wRiP3qKS7MPIctQJrnFgv) | 4:14 | 2019-10-04 | 2022-02-12 |
-| [Fool for You](https://open.spotify.com/track/4JbIkmFKu9Ed1bj9DyIEDw) | [mitty](https://open.spotify.com/artist/2vENpm7iHtOlvqe5kTPMYs) | [Fool for You](https://open.spotify.com/album/2QXQmLaOyMnWKWjCBwD8Br) | 1:45 | 2022-02-12 |  |
+| [Fool for You](https://open.spotify.com/track/4JbIkmFKu9Ed1bj9DyIEDw) | [mitty](https://open.spotify.com/artist/2vENpm7iHtOlvqe5kTPMYs) | [Fool for You](https://open.spotify.com/album/2QXQmLaOyMnWKWjCBwD8Br) | 1:45 | 2022-02-12 | 2022-08-05 |
 | [Forest](https://open.spotify.com/track/6KeIMvw8uhRYLnacrkw1Ud) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Forest](https://open.spotify.com/album/22UFmpYk6dIxWHhWQX1zn2) | 3:01 | 2022-07-08 |  |
 | [Forever](https://open.spotify.com/track/7IeVeLOeFHtkHcFZ5Nz3L6) | [Zone+](https://open.spotify.com/artist/5TyGDxSguO86fVeA8LWQj1) | [Forever](https://open.spotify.com/album/3vFJp1M7f0AY8SLIXCXjyR) | 8:16 | 2022-07-08 |  |
 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 | 2022-02-11 |  |

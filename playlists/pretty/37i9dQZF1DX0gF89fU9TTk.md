@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,638 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,671 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 15 | [NEVER WALK AWAY](https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [NEVER WALK AWAY](https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v) | 3:20 |
 | 16 | [Love Me Like You](https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Love Me Like You](https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he) | 3:03 |
 | 17 | [Kingdom Come](https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO) | 3:58 |
-| 18 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
-| 19 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 |
+| 18 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 |
+| 19 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
 | 20 | [There For You](https://open.spotify.com/track/6pW1zSKjttBlcZ8mcogTZk) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [There For You](https://open.spotify.com/album/67cB4bGLUNvrhwUeRWlr7S) | 4:09 |
 | 21 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
 | 22 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
 | 23 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
-| 24 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
+| 24 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
 | 25 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 |
-| 26 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
+| 26 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
 | 27 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 |
 | 28 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 |
 | 29 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 66 | [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 |
 | 67 | [You Loved Me First](https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Creíste en Mí / You Loved Me First](https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl) | 3:29 |
 | 68 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
-| 69 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
-| 70 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
+| 69 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
+| 70 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
 | 71 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 |
 | 72 | [Friends](https://open.spotify.com/track/0AqwIFVSJjp7bqHQqj2uVz) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:36 |
 | 73 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
 | 74 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
-| 75 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
+| 75 | [All I Want](https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2021](https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ) | 3:28 |
 
-Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMDM4ZGVhNGU5ZTBiOTI2YTMwOTBlOWQyZWZkZTYzZTNi`
+Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMDc0NjEyZGY3YzYzMjI5NWRiNTIwMDAyMmFhY2YxNDU0`

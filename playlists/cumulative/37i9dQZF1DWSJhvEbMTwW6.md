@@ -4,7 +4,7 @@
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-162 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/6EideOA6wKb3APriXwASYn)
+163 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/6EideOA6wKb3APriXwASYn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 | 2021-12-27 | 2022-07-29 |
 | [Al Despertar](https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Qué Cante El Amor](https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo) | 3:22 | 2021-12-27 |  |
 | [Alma De Acero](https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:44 | 2021-12-27 | 2022-07-29 |
-| [Alma De Acero](https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:55 | 2022-06-07 |  |
+| [Alma De Acero](https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:55 | 2022-06-07 | 2022-08-05 |
 | [Amigos Nada Más](https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:30 | 2021-12-27 | 2022-07-29 |
 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 | 2021-12-27 |  |
 | [Amor a Primera Vista](https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Amor a Primera Vista](https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY) | 3:40 | 2021-12-27 | 2022-07-29 |
@@ -134,6 +134,7 @@
 | [Palabras No](https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Palabras No](https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av) | 4:09 | 2021-12-27 |  |
 | [Paloma Ajena](https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l) | [Claudio Moran](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO), [Los Universales](https://open.spotify.com/artist/2i5GSJG12PicnskMwuoQ99) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 4:03 | 2021-12-27 |  |
 | [Pero Tu Mirada](https://open.spotify.com/track/1Tp4YUZ1eYy0YzOtrwqA1Y) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:45 | 2021-12-27 | 2022-07-29 |
+| [Pero Tu Mirada](https://open.spotify.com/track/5vePtAKApe4o16JIXCcHeS) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:46 | 2022-06-07 |  |
 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 | 2021-12-27 | 2022-07-28 |
 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 | 2021-12-27 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Música Tropical de Colombia \(Vol\. 11\)](https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh) | 4:04 | 2021-12-27 | 2022-07-28 |

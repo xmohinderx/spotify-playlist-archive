@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-232 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/4bsxWx6vxgvD3SfZNEt9WD)
+233 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/4bsxWx6vxgvD3SfZNEt9WD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Drown](https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Drown](https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ) | 3:20 | 2021-10-31 |  |
 | [DYSFUNCTIONAL](https://open.spotify.com/track/1Ul8uZz3foXwCasaCPgVZb) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [DYSFUNCTIONAL](https://open.spotify.com/album/57tpaCIg1x0CR9VBVsCyjU) | 2:25 | 2021-10-31 | 2022-07-29 |
 | [E6](https://open.spotify.com/track/1XIiMzDetOej0Fq9v8hj65) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [This Is Evvie McKinney](https://open.spotify.com/album/27FOigKMfea4FVW2Kzluza) | 3:30 | 2021-10-31 | 2022-07-28 |
+| [Energía \- Remix](https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Energía \(Remix\)](https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx) | 4:26 | 2021-10-31 |  |
 | [Es por tu amor \(feat\. Chris Quilala\)](https://open.spotify.com/track/0NJ8uAVwAp9zKsBZmhz2fh) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Es por tu amor \(feat\. Chris Quilala\)](https://open.spotify.com/album/1uo5uVARcHyWDQrtga4aAq) | 4:04 | 2021-10-31 | 2022-07-09 |
 | [Even in the Valley](https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08) | [Kingly](https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ), [John Strandell](https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd) | [Even in the Valley](https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg) | 3:23 | 2021-10-31 | 2022-07-21 |
 | [EVERY LITTLE THING](https://open.spotify.com/track/4Yj3DWigyBkTbd3XW0dPMr) | [Brandyn Kalani](https://open.spotify.com/artist/6ev8LXeWUuAT6N78OVjPvA) | [EVERY LITTLE THING](https://open.spotify.com/album/2MnnGRRWDUjSyvLq0bQLef) | 2:49 | 2021-10-31 | 2022-07-22 |
@@ -185,7 +186,7 @@
 | [Shout to the Lord](https://open.spotify.com/track/5QbdIj9omsOxwpkZXGWDTU) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Shout to the Lord](https://open.spotify.com/album/48USOS8BlA33ib4hR7HhLn) | 2:38 | 2021-10-31 | 2022-07-28 |
 | [Simple](https://open.spotify.com/track/23dLLEKDVrTgl4tskBDAFG) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Simple](https://open.spotify.com/album/7e73FXisj7dWJgfAJ7M51J) | 3:15 | 2021-10-31 | 2022-07-23 |
 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 | 2021-10-31 |  |
-| [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 | 2021-10-31 |  |
+| [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 | 2021-10-31 | 2022-08-05 |
 | [Soldier On](https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:02 | 2021-10-31 |  |
 | [Something Like Love](https://open.spotify.com/track/77TAjJOkVGmgG3XD4oDgJx) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Something Like Love](https://open.spotify.com/album/3T6mnvfBIXgV8xsNpOQBjc) | 3:22 | 2021-10-31 | 2022-07-27 |
 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 | 2021-10-31 | 2022-07-29 |

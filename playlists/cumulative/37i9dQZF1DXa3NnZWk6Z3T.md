@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-274 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+275 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bachata Rosa](https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Bachata Rosa](https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV) | 4:15 | 2021-12-09 |  |
 | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/track/67507AwT1mSegl0VA5qSCE) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/album/7g0hzIsFEDIcTBLpcnZk1Q) | 4:24 | 2022-04-07 | 2022-04-21 |
 | [Batida do Amor](https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc) | [Francisca La Braza](https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Francisca La Braza](https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS) | 3:54 | 2022-04-07 |  |
+| [Bebesina \(Nada Más Que Estar Contigo\)](https://open.spotify.com/track/2TFURBkXGWzxdf2OLMLtDq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 3:54 | 2022-05-14 |  |
 | [Bebesina \(Nada Más Que Estar Contigo\)](https://open.spotify.com/track/6dXugaGsuwNuJzIxUOPrtn) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Bebesina \(Nada Más Que Estar Contigo\)](https://open.spotify.com/album/0CM5LYGsZzKaqf1FqtZA4L) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 | 2021-12-09 |  |
 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 | 2021-12-09 |  |
@@ -149,7 +150,7 @@
 | [Mamita \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:27 | 2022-05-14 |  |
 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 | 2021-12-09 |  |
 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 | 2021-12-09 |  |
-| [Me Llaman Nella](https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [Santiago Periné](https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj) | [Me Llaman Nella](https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb) | 3:18 | 2021-12-09 |  |
+| [Me Llaman Nella](https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [Santiago Periné](https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj) | [Me Llaman Nella](https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb) | 3:18 | 2021-12-09 | 2022-08-05 |
 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 | 2021-12-09 |  |
 | [Me Voy a Pinar del Río](https://open.spotify.com/track/0y3iYQTQiMmLxYUVgNM7Th) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:56 | 2021-12-09 | 2022-07-29 |
 | [Mi Condena](https://open.spotify.com/track/0UGxC1uqeDHBmAU4Pvd8xi) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Mi Condena](https://open.spotify.com/album/34qk2J2dzqK6tgTxBZktuR) | 2:52 | 2022-05-14 |  |

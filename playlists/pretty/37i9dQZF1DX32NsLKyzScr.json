@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2173600,
+  "num_followers": 2174346,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDNmN2UzYmZlMzMyYjQwOWUzM2RkOTc1YzNmZThhMjRm",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDU2NjFhZDk1MDEzNjc0ZGM0NjEzZTJlODhkMDE2MjU2",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -23,6 +23,26 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -47,26 +67,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Move It",
         "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        }
+      ],
+      "duration_ms": 159406,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Love We Lost (with R3HAB)",
         "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        }
-      ],
-      "duration_ms": 159406,
-      "name": "Killing Me Softly",
-      "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Who Do You Love",
+        "url": "https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 204250,
       "name": "Superman",
       "url": "https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Who Do You Love",
-        "url": "https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/01V4ONsXyDVNeiCT2k0PIM"
       },
@@ -1895,38 +1915,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "PACMAN",
-        "url": "https://open.spotify.com/album/78smiyLXB1YjwnTSZ2U6jB"
+        "name": "Won't Forget You (Remixes)",
+        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "PACMAN",
-      "url": "https://open.spotify.com/track/0V0FJBR8xhhMuirhRY15we"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         },
         {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
+      "duration_ms": 184888,
+      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
+      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1951,22 +1955,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Won't Forget You (Remixes)",
-        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
+        "name": "PACMAN",
+        "url": "https://open.spotify.com/album/78smiyLXB1YjwnTSZ2U6jB"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         }
       ],
-      "duration_ms": 184888,
-      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
-      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
+      "duration_ms": 232500,
+      "name": "PACMAN",
+      "url": "https://open.spotify.com/track/0V0FJBR8xhhMuirhRY15we"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 210476,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "In My Zone",
         "url": "https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 161035,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 210476,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV"
     }
   ],
   "unique_name": "Power Hour",

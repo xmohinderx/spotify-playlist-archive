@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Indie takes on songs others make\. Cover: mxmtoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,605 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,645 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,19 +52,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 42 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
 | 43 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 |
 | 44 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
-| 45 | [Back on the Chain Gang](https://open.spotify.com/track/1QMS4FA3cbOdyff60sDBJy) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Low in High School \(Deluxe Edition\)](https://open.spotify.com/album/6NqxNgmWYbWW8xkASo13UZ) | 3:51 |
-| 46 | [The End of the World](https://open.spotify.com/track/0Sg9bWEaPtDO2JE7qwcMvy) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [The End of the World](https://open.spotify.com/album/1mucviYBsV3qhlMmO0wSgz) | 2:58 |
-| 47 | [creep](https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:30 |
-| 48 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 |
+| 45 | [The End of the World](https://open.spotify.com/track/0Sg9bWEaPtDO2JE7qwcMvy) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [The End of the World](https://open.spotify.com/album/1mucviYBsV3qhlMmO0wSgz) | 2:58 |
+| 46 | [Back on the Chain Gang](https://open.spotify.com/track/1QMS4FA3cbOdyff60sDBJy) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Low in High School \(Deluxe Edition\)](https://open.spotify.com/album/6NqxNgmWYbWW8xkASo13UZ) | 3:51 |
+| 47 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 |
+| 48 | [creep](https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:30 |
 | 49 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
 | 50 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 |
 | 51 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
 | 52 | [Build Me Up Buttercup](https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ) | [Lara Anderson](https://open.spotify.com/artist/0ijXDXPqvo3fzBrGpVjpV4) | [Build Me Up Buttercup](https://open.spotify.com/album/75pu09lJh763j3ymMi9Fn5) | 2:55 |
 | 53 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 |
 | 54 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 |
-| 55 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
+| 55 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 |
 | 56 | [By Your Side](https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [By Your Side](https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY) | 4:55 |
-| 57 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 |
+| 57 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 58 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 |
 | 59 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
 | 60 | [Someday \- triple j Like A Version](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
 | 75 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
 
-Snapshot ID: `MTY1MzA2NDAwMSwwMDAwMDAwMDdjYmMxODAzMDIwZWIwOGVkMzJmOTAxMmM3ZmRkMTA5`
+Snapshot ID: `MTY1MzA2NDAwMSwwMDAwMDAwMGM3M2JlYmI0MGM4NzJkM2EwNWI4ZjhkYjE4MTg2OWVl`

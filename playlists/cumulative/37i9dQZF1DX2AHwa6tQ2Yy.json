@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "6 AM",
+        "url": "https://open.spotify.com/album/6f0QgMv0n3IBDpcYW0QPQL"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230826,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/3UJbJOsLhyuGXOOofKr52i"
+    },
+    {
+      "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/7rw7bnbtHuPrjXRb2iuZ6h"
       },

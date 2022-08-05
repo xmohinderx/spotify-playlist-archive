@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,435 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,447 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 28 | [Just](https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Young](https://open.spotify.com/album/0fT1WF1nu9VnqaZxkowFpl) | 3:12 |
 | 29 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 |
 | 30 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
-| 31 | [그런일은](https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Across The Romantic Bridge](https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267) | 4:24 |
+| 31 | [해줄 수 없는 일](https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN) | 4:21 |
 | 32 | [Only Look At Me \(나만 바라봐\)](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:00 |
 | 33 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
 | 34 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
-| 35 | [해줄 수 없는 일](https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN) | 4:21 |
+| 35 | [그런일은](https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Across The Romantic Bridge](https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267) | 4:24 |
 | 36 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 37 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
 | 38 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J](https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [언젠가는](https://open.spotify.com/track/3EpqTpSWhkQDv5gTZddp1W) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 3:59 |
 | 50 | [Night and Day](https://open.spotify.com/track/2BP5YgjHi1C1njPPRK8wvq) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [It' Soul Right](https://open.spotify.com/album/2ol4JeQEAQQFbL8fdP2qUs) | 4:30 |
 
-Snapshot ID: `MTYxNTQ4MDYxMCwwMDAwMDAwMGFjNDI2ZjM5Y2JlOTI3ZDU5N2U1M2RmYmViOTg1NDYx`
+Snapshot ID: `MTYxNTQ4MDYxMCwwMDAwMDAwMDMzNzhlYzUzNDgyMGU0MTY1NGYzOTc0YzJkZDhiOThi`

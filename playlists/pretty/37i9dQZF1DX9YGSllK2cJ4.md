@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 159 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229 likes - 159 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

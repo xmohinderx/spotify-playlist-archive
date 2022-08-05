@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEyODQ1Mjk2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEyOTI5NzI3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Deaf 2 Society",
         "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "W.I.T.C.H.",
         "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Victoria\u2019s Secret",
         "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Chrissy, Wake Up",
-        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
-      },
-      "artists": [
-        {
-          "name": "The Gregory Brothers",
-          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
-        }
-      ],
-      "duration_ms": 65454,
-      "name": "Chrissy, Wake Up",
-      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -121,7 +89,39 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Chrissy, Wake Up",
+        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
+      },
+      "artists": [
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        }
+      ],
+      "duration_ms": 65454,
+      "name": "Chrissy, Wake Up",
+      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Un jour, je",
         "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
@@ -189,7 +189,23 @@
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "#miles",
         "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Hometown Heartbreak",
         "url": "https://open.spotify.com/album/3RCSp0KlOpBk2K0ZN9DHKR"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/4gZQPeoBzKNWKhIJuZYbwA"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -241,23 +257,7 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "IMMACULATE",
         "url": "https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt"
@@ -273,39 +273,7 @@
       "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Betty (Get Money)",
-        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "Betty (Get Money)",
-      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Rock and A Hard Place",
-        "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -321,7 +289,55 @@
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Rock and A Hard Place",
+        "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Betty (Get Money)",
+        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1"
+      },
+      "artists": [
+        {
+          "name": "Lawsy",
+          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Flowers Need Rain",
         "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
@@ -341,23 +357,7 @@
       "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1"
-      },
-      "artists": [
-        {
-          "name": "Lawsy",
-          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
-        }
-      ],
-      "duration_ms": 155350,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "touch tank",
         "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
@@ -373,23 +373,7 @@
       "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/2xOUnwncSmfhcZIdrOMe3p"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 200337,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6XsHCb84EyPvLvWFpVqZay"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
@@ -405,7 +389,7 @@
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
@@ -425,7 +409,7 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Camping",
         "url": "https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ"
@@ -441,7 +425,23 @@
       "url": "https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/2xOUnwncSmfhcZIdrOMe3p"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 200337,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6XsHCb84EyPvLvWFpVqZay"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Shootout",
         "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -493,7 +493,23 @@
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Me On You",
         "url": "https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm"
@@ -509,7 +525,23 @@
       "url": "https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Chalie",
         "url": "https://open.spotify.com/album/3fUrpwGRd2dTAag8hsdXyj"
@@ -553,55 +585,7 @@
       "url": "https://open.spotify.com/track/1vuZEWtyQYMivPMKk4ySdX"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2"
@@ -625,55 +609,23 @@
       "url": "https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 135902,
-      "name": "SNAP - High and Fast",
-      "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "die first",
-        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177108,
-      "name": "die first",
-      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "FADE UP",
         "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
@@ -697,23 +649,87 @@
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 135902,
+      "name": "SNAP - High and Fast",
+      "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "die first",
+        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
@@ -733,7 +749,39 @@
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
+    },
+    {
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
@@ -749,39 +797,7 @@
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "\"God, Forgive These Bastards\" Songs From The Forgotten Life of Henry Turner",
-        "url": "https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm"
-      },
-      "artists": [
-        {
-          "name": "The Taxpayers",
-          "url": "https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "I Love You Like An Alcoholic",
-      "url": "https://open.spotify.com/track/7u63zva845rv8tRFi9FG8a"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/5DCRR6UHRl5R3ZE4lcTwbD"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/79X3dUeEnrYoJMQM3I8ZTG"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "Sos (Chapitre 1)",
         "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
@@ -813,23 +829,7 @@
       "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
         "name": "B.I.B.L.E.",
         "url": "https://open.spotify.com/album/46DRsAo3y1uAjYnYFFobCb"
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/39d9CQbAB6AMLCxcJtSc0U"
     },
     {
-      "added_at": "2022-08-03 12:34:56",
+      "added_at": "2022-08-04 12:02:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+        "name": "\"God, Forgive These Bastards\" Songs From The Forgotten Life of Henry Turner",
+        "url": "https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm"
       },
       "artists": [
         {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+          "name": "The Taxpayers",
+          "url": "https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy"
         }
       ],
-      "duration_ms": 243053,
-      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
+      "duration_ms": 215933,
+      "name": "I Love You Like An Alcoholic",
+      "url": "https://open.spotify.com/track/7u63zva845rv8tRFi9FG8a"
     }
   ],
   "unique_name": "Viral 50 - Canada",

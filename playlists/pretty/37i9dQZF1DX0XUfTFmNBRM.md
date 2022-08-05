@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover\- Ranbir & Alia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,899 likes - 54 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,784 likes - 54 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

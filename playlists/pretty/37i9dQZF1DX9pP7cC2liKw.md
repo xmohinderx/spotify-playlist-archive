@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,015 likes - 70 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,386 likes - 70 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 25 | [El niño](https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Aimez ces airs](https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf) | 4:01 |
 | 26 | [Mirando El Fuego](https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Camino de Flores](https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo) | 5:41 |
 | 27 | [Spies Are Watching Me](https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Sir Jean](https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 7:12 |
-| 28 | [Laughter of the Sea](https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Laughter of the Sea](https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH) | 5:59 |
-| 29 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 |
+| 28 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 |
+| 29 | [Laughter of the Sea](https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Laughter of the Sea](https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH) | 5:59 |
 | 30 | [El Abuelo](https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [El Abuelo](https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU) | 5:31 |
 | 31 | [Pool Party](https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP) | 3:58 |
 | 32 | [Manana Tepotzlan](https://open.spotify.com/track/73myc2rii2DVG3HpTkGOnl) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/7yxXs09QqG9iq1Mk6dsK5O) | 4:00 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 64 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 65 | [Chapinero](https://open.spotify.com/track/0yENDAPqNW1hksxq9KUt8n) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH) | 3:42 |
 | 66 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
-| 67 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |
-| 68 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37) | 3:34 |
+| 67 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37) | 3:34 |
+| 68 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |
 | 69 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
 | 70 | [Urban Birds](https://open.spotify.com/track/1gwZfgadcwtAyeI45vHsyu) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 6:32 |
 
-Snapshot ID: `MTY1OTQ5NzcxNywwMDAwMDAwMDIzM2RkMTFjM2MxNjM0MDAwN2Q4YTMxMDg4YzcwZWRl`
+Snapshot ID: `MTY1OTQ5NzcxNywwMDAwMDAwMDUwMTdmOWI0MjBkZGM1NjI1MjI4MDY2MmEwNmRjYmM4`

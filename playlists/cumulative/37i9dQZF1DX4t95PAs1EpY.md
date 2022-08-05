@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-221 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+226 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-04-15 |  |
 | [Ender](https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu) | [Goblin](https://open.spotify.com/album/5HuYg16CS7wK0qDa6Y1K7V) | 2:44 | 2021-12-07 | 2022-05-20 |
 | [equator](https://open.spotify.com/track/4132t2oYuNlgzSmsp1E9Tm) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [equator](https://open.spotify.com/album/5UAdjfXZRTmtuEQdOtHUyc) | 1:16 | 2022-04-15 |  |
+| [Evenings](https://open.spotify.com/track/3FOhZvYB8itMm8QsmpqH8N) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [dr\. niar](https://open.spotify.com/artist/2L4otMycTiZnRAHL52RXYU) | [Evenings](https://open.spotify.com/album/2bb61CPegak8pasqni0pMF) | 2:29 | 2022-08-05 |  |
 | [Evergreen Forest](https://open.spotify.com/track/2qrTpPdOoAVbqONnV0p6mN) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Evergreen Forest](https://open.spotify.com/album/1SaDSYQdoE17uanBI6qxes) | 2:10 | 2021-12-07 |  |
 | [Everything Once Again](https://open.spotify.com/track/6VIVyMdXYvA18tqfY9LNss) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [Everything Once Again](https://open.spotify.com/album/5UWIOdwytfQBtbrJzq2exd) | 2:30 | 2021-12-07 |  |
 | [Exhibit A](https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN) | [Divine Stacks](https://open.spotify.com/artist/3gxhMzrCpxtLnUvLo1bEQC) | [Pellegrino](https://open.spotify.com/album/0UHLq4m23c1rspMr8rsqHe) | 2:09 | 2021-12-07 |  |
@@ -75,6 +76,7 @@
 | [forgotten technology](https://open.spotify.com/track/7aTgiXCztG1kPqqO5SgHAy) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [forgotten technology](https://open.spotify.com/album/7KZ25sdhH1LvzCU9gxuZ0I) | 2:01 | 2021-12-07 |  |
 | [FORWARD](https://open.spotify.com/track/56IW9O3dVCJ9hdA4TJINVs) | [WASTELAND](https://open.spotify.com/artist/1Nxw0yfsMqk14UsOqMKOXP) | [FORWARD](https://open.spotify.com/album/75OwXvuvF4eU9icYhebnWJ) | 2:39 | 2021-12-07 |  |
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2021-12-07 |  |
+| [Free](https://open.spotify.com/track/7L0oaIyBSqOT86qby2MmOi) | [nitsche](https://open.spotify.com/artist/2DfvZBcBFe2kL0P2U2Ob6A), [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8) | [Free](https://open.spotify.com/album/1gsohCQJjnhKU9pwDd6Ub6) | 2:14 | 2022-08-05 |  |
 | [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 |  |
 | [Free as a Bird](https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH) | 2:16 | 2021-12-07 | 2022-07-29 |
 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 | 2021-12-07 |  |
@@ -159,6 +161,7 @@
 | [park stroll](https://open.spotify.com/track/1lm9DJDac6sVS6PyhDMMTv) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [park stroll & pathways](https://open.spotify.com/album/7azzpnzNfYqZQR3bCmuqYn) | 2:50 | 2021-12-07 |  |
 | [Peace](https://open.spotify.com/track/0qt32QPTlsD4qL8l2B4Hj3) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Peace](https://open.spotify.com/album/49upUTh206ilyzBPbsJt3H) | 2:00 | 2022-05-13 | 2022-07-29 |
 | [Perfect Dark](https://open.spotify.com/track/6rMfRzs0lpnKY8gVk8dh6W) | [Orangelo](https://open.spotify.com/artist/6rGGEz9rM3t9SeOvwLJNIT) | [Midnight Sun](https://open.spotify.com/album/61ggX6ltMrTBy7fv96Bbip) | 2:14 | 2021-12-07 |  |
+| [picnic blanket](https://open.spotify.com/track/3gcHdJFeWqf8xXjlwxbatl) | [feathered friend](https://open.spotify.com/artist/2UKCPn2w6i8etI4ZyIcAwu) | [picnic blanket](https://open.spotify.com/album/5Lt3o5YQ5PfF6bqtwSV0Pw) | 2:30 | 2022-08-05 |  |
 | [Pink Aesthetics](https://open.spotify.com/track/6oNoF20vd0ySvNR9S7QwFJ) | [Chill Beats Music](https://open.spotify.com/artist/46d1ndWtnYj9kxd3IlQykV), [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Lofi Exposure 1](https://open.spotify.com/album/113el5njSu4Ss6CzuolyM3) | 2:22 | 2021-12-07 | 2022-05-27 |
 | [Pizogi](https://open.spotify.com/track/13VfNj6MtlTyqEOsm3LWBq) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:42 | 2021-12-07 |  |
 | [Plucktonal](https://open.spotify.com/track/1ganpYVHbwzHFsmramAXgA) | [zeth starsky](https://open.spotify.com/artist/1dKLhRDX7RcPpscL6ePfSk) | [Transcriptions](https://open.spotify.com/album/2c5jLmjvuFFwOtKtJO2xFm) | 1:36 | 2021-12-07 | 2022-05-20 |
@@ -207,7 +210,9 @@
 | [Sydney, 11PM](https://open.spotify.com/track/2w3PdEwgYWFEU1YOCYyw4x) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Sydney, 11PM](https://open.spotify.com/album/6QCxyD7U3Ehybt1iuAhgmL) | 1:41 | 2021-12-07 | 2022-05-20 |
 | [The Hotel at the End of the World](https://open.spotify.com/track/1by1Ft419vJMoWynFCLwMX) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [The Hotel at the End of the World](https://open.spotify.com/album/5OQcRQ3T3dVxq3Ga898XXp) | 1:31 | 2022-05-27 |  |
 | [Tomorrow Will Be Better](https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/2SAg5ASeGWGt7YDXqiOEs7) | 2:34 | 2021-12-07 |  |
+| [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 | 2022-08-05 |  |
 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 | 2021-12-07 | 2022-05-27 |
+| [Tropical](https://open.spotify.com/track/3flKXxgUUF950gQHuDGBoy) | [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF) | [Tropical](https://open.spotify.com/album/3VyOz3HYyFIg9lXDjUfkOb) | 1:06 | 2022-08-05 |  |
 | [True Colors](https://open.spotify.com/track/3Xrw2bkSR6TmHs5xE57fRE) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 2:28 | 2021-12-07 |  |
 | [Tunnel](https://open.spotify.com/track/4yyYltMHYoVhOQAkBAc8bq) | [Dominic Mena](https://open.spotify.com/artist/6BL0Z3L7QxNmhbZAcYGH6q) | [Tunnel](https://open.spotify.com/album/0ROTvBg3yGoTf0FFcFxryc) | 2:07 | 2021-12-07 |  |
 | [Two worlds](https://open.spotify.com/track/2kUDtQi9zHrL9eOBaQ2Fqr) | [Pthalo](https://open.spotify.com/artist/1S5hT3KzW3A1BTCYH36btB), [Ntz Prod.](https://open.spotify.com/artist/1ccA0mpefambHcCa8DjZM9), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Two worlds](https://open.spotify.com/album/1gpac0V7dfztN4gZN3tTsF) | 2:12 | 2022-07-15 |  |

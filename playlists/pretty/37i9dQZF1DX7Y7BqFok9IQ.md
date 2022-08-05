@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,763 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,825 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 41 | [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 |
 | 42 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 |
 | 43 | [Be Your Own Invention](https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s) | [Henry's Funeral Shoe](https://open.spotify.com/artist/3KTPs5Fok7A2VrDWNBlr4f) | [Donkey Jacket](https://open.spotify.com/album/4GaibnEGmTlmMKutYQ80iI) | 5:18 |
-| 44 | [Keep Up](https://open.spotify.com/track/6eUXiwxjHI3RblcwckJ7Qq) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Keep Up](https://open.spotify.com/album/5kNJLJiLAEMMq8b909JBsY) | 3:32 |
+| 44 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 |
 | 45 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 |
-| 46 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 |
-| 47 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 |
+| 46 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 |
+| 47 | [No Blood From A Stone](https://open.spotify.com/track/5wnuJCeGo4AWr1iFYYxksC) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [A Place In The Unknown](https://open.spotify.com/album/5m8eSQ62CafLZhBjKEEYw6) | 3:39 |
 | 48 | [Roll Bones](https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [All Of This Life](https://open.spotify.com/album/0Xe0NMbJ7t8dTv0wiTH3wi) | 3:41 |
-| 49 | [No Blood From A Stone](https://open.spotify.com/track/5wnuJCeGo4AWr1iFYYxksC) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [A Place In The Unknown](https://open.spotify.com/album/5m8eSQ62CafLZhBjKEEYw6) | 3:39 |
-| 50 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 |
+| 49 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 |
+| 50 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGU0OWMxZjM2ZGE4NmY5N2M0YmRmNWM4ZjM5ODRiZjdi`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGNhNzZlYjg0NDljZDJkODBkNjdkN2JmZGIzNDM2Yjhl`

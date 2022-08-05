@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 192907,
+  "num_followers": 192903,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDdhNzY4ODdhY2Y2NzJiZWEzNDYyODRjODk5MDE0ODAz",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGFkZjAzMzExMzNkZmMwNTU0NjgwYzZjNjcwMDRkNGE0",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Bigger Story",
         "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 195506,
       "name": "Every Step of the Way",
       "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "January Flower (Deluxe)",
-        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 203874,
-      "name": "Save Me - Bonus Track",
-      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "All Of My Best Friends (Acoustic)",
         "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 293160,
       "name": "Lord Send Revival - Acoustic",
       "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "January Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Save Me - Bonus Track",
+      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1195,18 +1195,26 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "So Alive",
-        "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
+        "name": "Energ\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 178619,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
+      "duration_ms": 266181,
+      "name": "Energ\u00eda - Remix",
+      "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
     }
   ],
   "unique_name": "Pop for Life",

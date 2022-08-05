@@ -1452,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "DGT",
+        "url": "https://open.spotify.com/album/5NXvP0XMCC1zkxYOYVhh9R"
+      },
+      "artists": [
+        {
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154155,
+      "name": "DGT",
+      "url": "https://open.spotify.com/track/15qQs3cBr7SeqOssfB0imS"
+    },
+    {
+      "album": {
         "name": "Die (cover)",
         "url": "https://open.spotify.com/album/4jG0lek2rIC5pbgibDJkpq"
       },

@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-285 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+288 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 | 2022-05-20 |  |
 | [messy](https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [messy](https://open.spotify.com/album/3630vAsANBxtui6vKFSigL) | 1:36 | 2022-05-20 |  |
 | [METAVERSE](https://open.spotify.com/track/1w2zpyoSEfy2AyY4DevJRM) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [METAVERSE](https://open.spotify.com/album/2NluYXYPbWKF3RsZ8Kn5XB) | 1:42 | 2022-05-20 |  |
+| [Midnight Moonlight](https://open.spotify.com/track/59uMk0XV0H5ZGbao7TkwKf) | [Rakuyou](https://open.spotify.com/artist/7tQNGIV5AjrU5htrzL0JSe) | [Midnight Moonlight](https://open.spotify.com/album/4bDOHHsPgh8VE8koFxKHuV) | 2:41 | 2022-08-05 |  |
 | [Midnight Oil](https://open.spotify.com/track/7MGZ6G0or7ihnQ0zY9MQ5z) | [Mad Seedling](https://open.spotify.com/artist/7BZ7k3A6VWTeuE8i0y5hbu), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Midnight Oil](https://open.spotify.com/album/0olsBDcHn95BV3dwI5KJ6w) | 3:01 | 2022-05-20 | 2022-07-28 |
 | [miletones](https://open.spotify.com/track/4vqrhPRaeoJ8pHL6dKTlfW) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [miletones](https://open.spotify.com/album/1JK0ujihjq1lSOBXrS38Mg) | 2:27 | 2022-05-20 |  |
 | [Miraj](https://open.spotify.com/track/4arOeSBQwrFgbVjxht5ygt) | [Goodness Gracious Me](https://open.spotify.com/artist/0cwO6xBM8xlfwkbrbhP748) | [Los Pollos](https://open.spotify.com/album/0qEVlOESJNDWA6nrxR7Vp7) | 3:14 | 2022-05-20 |  |
@@ -195,6 +196,7 @@
 | [Once There](https://open.spotify.com/track/69PdAAgrIKX9wY7k35D23o) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Once There](https://open.spotify.com/album/6hYaa2cFCMKvv9pfeKNodV) | 2:18 | 2022-06-03 |  |
 | [Ophelia](https://open.spotify.com/track/3tZ9zFWeupwDORFgI0krgD) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Ophelia](https://open.spotify.com/album/7F5LJTqpYbuaxgmbORaJmc) | 2:40 | 2022-05-20 |  |
 | [Orpheus](https://open.spotify.com/track/1T4FNr8eF3p4iVaHrjBGho) | [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Orpheus](https://open.spotify.com/album/5xW5OxzMG4n9efdkKgoxrT) | 2:48 | 2022-05-20 | 2022-07-28 |
+| [otherside](https://open.spotify.com/track/1W1Qi95eKfFNjlQvJlW3BG) | [Wave Five](https://open.spotify.com/artist/0FwSV23g1cCNlPFm9jr0I8) | [otherside](https://open.spotify.com/album/2bIyf2BXAerJdMnS7e2MZd) | 2:29 | 2022-08-05 |  |
 | [Out In Space](https://open.spotify.com/track/43zpjvbcrFKFxqm4qpt32E) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Out In Space](https://open.spotify.com/album/7t4dWtgsbTC2LxXactChPS) | 2:07 | 2022-05-20 |  |
 | [Outskirts](https://open.spotify.com/track/3F5W1FTIeXerLXP1meorP5) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Wastelands](https://open.spotify.com/album/6xaljlJUGp13Qd06F3tFxa) | 2:34 | 2022-05-20 | 2022-05-27 |
 | [Over You](https://open.spotify.com/track/1CD4sl6Mb1x5ocbZMHPCVd) | [Grey Stylez](https://open.spotify.com/artist/3tap6ymRzGK3yyYRn9DZUO) | [Over You](https://open.spotify.com/album/07CQ8jv9Qsj0jfardA4IPi) | 1:58 | 2022-05-20 | 2022-06-10 |
@@ -218,6 +220,7 @@
 | [Rainy Day](https://open.spotify.com/track/1yqAghmGXkcct0tQQCdS4w) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/1Nf5o3mcLP0TBOn53FYqY5) | 3:01 | 2022-05-20 |  |
 | [Recharged](https://open.spotify.com/track/2g6jTX11fvtm2i41UBIJ8B) | [Steve Blino](https://open.spotify.com/artist/24usk464uzsxYNFHCgagLj) | [Recharged](https://open.spotify.com/album/3T3QnyIKArgnarUJVbV7bR) | 2:22 | 2022-05-20 |  |
 | [Retina](https://open.spotify.com/track/5rAYpwq15rHsSMIjz7xAxj) | [Aykroyd](https://open.spotify.com/artist/6ptJ0me90iIz3OSsho69cm), [Venkman](https://open.spotify.com/artist/6fOoEqg9dvDnE18gnbHqTk) | [Retina](https://open.spotify.com/album/1vMBzjhmBN26ZNqWA8oVyD) | 2:27 | 2022-06-10 |  |
+| [Reverdece](https://open.spotify.com/track/22ug3UPE6h27U3mZuQtoo0) | [Muerto A Puntapiés](https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV) | [Reverdece](https://open.spotify.com/album/4ABx4kUdhWYPLKhmDC0czQ) | 2:04 | 2022-08-05 |  |
 | [Reversi](https://open.spotify.com/track/3BO22pvjSJHDRzyohE8Asy) | [Stanton](https://open.spotify.com/artist/2bFESEkcjm4jaMnLd3ROM5) | [Reversi](https://open.spotify.com/album/375ljittNTNk4JF4OF2ZV2) | 2:40 | 2022-05-20 |  |
 | [right now, huh?](https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [right now, huh?](https://open.spotify.com/album/17b7BjWkdfP68m9WPOluWi) | 2:13 | 2022-05-20 |  |
 | [Rio's Theme](https://open.spotify.com/track/7sU5wuYdP5ON4fcSAWHiJE) | [Salvador Bem](https://open.spotify.com/artist/34gjCGKqjGDiQqkaOfUk3P) | [Rio's Theme](https://open.spotify.com/album/2Q4i9dIFD7R7yTn0WfxrYm) | 2:20 | 2022-05-20 |  |

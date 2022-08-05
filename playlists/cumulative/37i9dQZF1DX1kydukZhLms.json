@@ -1744,6 +1744,24 @@
     },
     {
       "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366106,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT"
+    },
+    {
+      "album": {
         "name": "Rage For Order (Remastered) [Expanded Edition]",
         "url": "https://open.spotify.com/album/4bcTrCj8wfKsFMv8O0NwDe"
       },
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 397773,
       "name": "Screaming in the Night",
       "url": "https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH"

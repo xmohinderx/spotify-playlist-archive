@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Florist",
-  "num_followers": 760659,
+  "num_followers": 760703,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDJhZWE4YmI1M2FhNmFhYzIyMmYxNjcyOWM0YzVlOWUw",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDg3N2QzY2ZiZGZkNjI5OWY0YTBlNDQyMWU1MzRmZmZi",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -367,30 +367,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Bonny Light Horseman",
-        "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
       "artists": [
         {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         },
         {
-          "name": "Eric D. Johnson",
-          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
-        },
-        {
-          "name": "Josh Kaufman",
-          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 309072,
-      "name": "Deep In Love",
-      "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -459,22 +451,30 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+        "name": "Bonny Light Horseman",
+        "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
         },
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
         }
       ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+      "duration_ms": 309072,
+      "name": "Deep In Love",
+      "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Motivational Speaking",
         "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 192453,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "1000 Years",
         "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 216052,
       "name": "Sons and Daughters",
       "url": "https://open.spotify.com/track/0Kt5AHOpQAkEsHAuPeB0le"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Projections",
         "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Ocean Bed",
-        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Ocean Bed",
-      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Pompeii",
         "url": "https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 244576,
       "name": "Moderation",
       "url": "https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Ocean Bed",
+        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Ocean Bed",
+      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Man Made by Delusion",
-        "url": "https://open.spotify.com/album/25g7XoaBj4kvbG6lDAnEmw"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 204854,
-      "name": "Man Made by Delusion",
-      "url": "https://open.spotify.com/track/72viqbBEmuLMYwtgWfKHhB"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "A Mermaid in Lisbon",
         "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 208649,
       "name": "A Mermaid in Lisbon",
       "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Man Made by Delusion",
+        "url": "https://open.spotify.com/album/25g7XoaBj4kvbG6lDAnEmw"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 204854,
+      "name": "Man Made by Delusion",
+      "url": "https://open.spotify.com/track/72viqbBEmuLMYwtgWfKHhB"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+        "name": "King of Fools",
+        "url": "https://open.spotify.com/album/02hIWtC0Llm6vsVgrY1gpj"
       },
       "artists": [
         {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
         }
       ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+      "duration_ms": 201656,
+      "name": "King of Fools",
+      "url": "https://open.spotify.com/track/1beFyH38tUxVj7wG6bFxS3"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Where The Rocks Are",
         "url": "https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 233773,
       "name": "Where The Rocks Are",
       "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "King of Fools",
-        "url": "https://open.spotify.com/album/02hIWtC0Llm6vsVgrY1gpj"
-      },
-      "artists": [
-        {
-          "name": "Twain",
-          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
-        }
-      ],
-      "duration_ms": 201656,
-      "name": "King of Fools",
-      "url": "https://open.spotify.com/track/1beFyH38tUxVj7wG6bFxS3"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 250850,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Comfortably High",
         "url": "https://open.spotify.com/album/63T4B7eiV6fz3BfeFo1mXL"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 208854,
       "name": "Market and Black (feat. Tennis)",
       "url": "https://open.spotify.com/track/3c7e3fqRHJAjEPStCOfDDF"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 250850,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
-        "url": "https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6"
-      },
-      "artists": [
-        {
-          "name": "Ryley Walker",
-          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "The Roundabout",
-      "url": "https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "When I Say That I Love You",
         "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
+        "url": "https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6"
+      },
+      "artists": [
+        {
+          "name": "Ryley Walker",
+          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "The Roundabout",
+      "url": "https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+      },
+      "artists": [
+        {
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+        }
+      ],
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 328120,
-      "name": "Everything Looks Better (In Hindsight)",
-      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -2203,34 +2203,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
       },
       "artists": [
         {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
         }
       ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Listen to Formation, Look for the Signs",
-        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
-      },
-      "artists": [
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 212816,
-      "name": "Call the Days",
-      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
+      "duration_ms": 328120,
+      "name": "Everything Looks Better (In Hindsight)",
+      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -2251,18 +2235,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -2283,18 +2267,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+      "duration_ms": 209826,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -2311,6 +2295,22 @@
       "duration_ms": 191933,
       "name": "Birds and Stars",
       "url": "https://open.spotify.com/track/4CLKEJJfs8qwUAC3FF36Oc"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "New Mythology",
-        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 291762,
-      "name": "Mecca",
-      "url": "https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Cautionary Tale",
         "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 277000,
       "name": "Easy Way Out",
       "url": "https://open.spotify.com/track/7LxDRQTixbz1RpJNQubcFe"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "New Mythology",
+        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 291762,
+      "name": "Mecca",
+      "url": "https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Odessa",
-        "url": "https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Hummed Low",
-      "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Surprise, Surprise",
         "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 236276,
       "name": "Surprise, Surprise",
       "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Odessa",
+        "url": "https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Hummed Low",
+      "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
     },
     {
       "added_at": "2022-07-29 04:00:00",

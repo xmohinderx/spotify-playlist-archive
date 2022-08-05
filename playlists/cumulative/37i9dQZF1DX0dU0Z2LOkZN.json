@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "City Walk",
+        "url": "https://open.spotify.com/album/1xa6vCfUYkEKDzgZaCUGCH"
+      },
+      "artists": [
+        {
+          "name": "Blzzn",
+          "url": "https://open.spotify.com/artist/6AhOUa1YcUtj6KjNx4LQ5E"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "Elysian Park",
+      "url": "https://open.spotify.com/track/4xHkvSBotbywoO6s7jifIz"
+    },
+    {
+      "album": {
         "name": "Fixed Emotions",
         "url": "https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu"
       },

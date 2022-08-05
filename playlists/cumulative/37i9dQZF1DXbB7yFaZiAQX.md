@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-391 songs - 1 day 3 hr 39 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+392 songs - 1 day 3 hr 43 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [The Magnificent Seven \- Remastered](https://open.spotify.com/track/1W8Jl9KaSSt23ihF1Mej17) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 5:32 | 2019-08-01 | 2022-07-29 |
 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 | 2018-12-12 |  |
 | [The More You Live, The More You Love](https://open.spotify.com/track/1BhXNODTubCtpeZQ1Dj5xh) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Radio 10 Gold Top 4000 \- box](https://open.spotify.com/album/4SspVa2UBJp5F4niRSRGuw) | 4:05 | 2019-08-02 | 2022-07-21 |
+| [The More You Live, The More You Love](https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [We Are The '80s](https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV) | 4:09 | 2019-08-02 |  |
 | [The One I Love \- Remastered 2012](https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 3:17 | 2019-08-02 |  |
 | [The Pan Within \- 2004 Remaster](https://open.spotify.com/track/0WbrOgZJb6yHPumYXEbs5U) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [This Is the Sea \(Deluxe Version\)](https://open.spotify.com/album/7n5u9Q5G1j1LMHEzW4aZbg) | 6:12 | 2019-08-02 | 2022-07-14 |
 | [The Right Side Won](https://open.spotify.com/track/11kQekR2aajih2wNmE6mI9) | [What Fun!](https://open.spotify.com/artist/1ErsjAAijzAXVpO4W8YTh7) | [Having Fun? \(The Expanded Edition\)](https://open.spotify.com/album/5AfqRMKpHj7MLGUMnstaWd) | 3:47 | 2019-08-02 | 2022-04-21 |
@@ -380,7 +381,7 @@
 | [When Love Breaks Down \- 2007 Remastered Version](https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf), [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Steve McQueen](https://open.spotify.com/album/07CZepJZT17AllXPFRvogL) | 4:05 | 2018-12-12 |  |
 | [Whip It](https://open.spotify.com/track/6QG0wcgoCsa9pqFyTg0rRO) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Oh No It's Devo / Freedom Of Choice](https://open.spotify.com/album/7xlatGl8WN5yAth6PJu3E1) | 2:38 | 2018-12-12 | 2022-07-24 |
 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 | 2018-12-12 |  |
-| [Whisper to a Scream \(Birds Fly\) \- Single Version](https://open.spotify.com/track/1uiktZkzFSVDhp7i73faz2) | [The Icicle Works](https://open.spotify.com/artist/39afGThIZjTTMH5enuLXYI) | [Dance Vault Mixes \- Whisper To A Scream \(Birds Fly\)](https://open.spotify.com/album/0zWgSTLgDWUgkbKjiRop8w) | 3:48 | 2019-08-01 |  |
+| [Whisper to a Scream \(Birds Fly\) \- Single Version](https://open.spotify.com/track/1uiktZkzFSVDhp7i73faz2) | [The Icicle Works](https://open.spotify.com/artist/39afGThIZjTTMH5enuLXYI) | [Dance Vault Mixes \- Whisper To A Scream \(Birds Fly\)](https://open.spotify.com/album/0zWgSTLgDWUgkbKjiRop8w) | 3:48 | 2019-08-01 | 2022-08-05 |
 | [White Horse](https://open.spotify.com/track/3FeQweSLSbVkLcPDZuTiGX) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 3:57 | 2021-11-19 | 2022-04-20 |
 | [White Wedding \- Part 1 \- 2001\- Remaster](https://open.spotify.com/track/4zmx3vEPgRPjRT2CszUsZo) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy) | 4:10 | 2019-08-01 | 2022-07-29 |
 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 | 2019-08-01 |  |

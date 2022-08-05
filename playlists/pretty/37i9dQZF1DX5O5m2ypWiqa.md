@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,454,655 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,318 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 11 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
 | 12 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
 | 13 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 |
-| 14 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
+| 14 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 |
 | 15 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 |
 | 16 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 |
 | 17 | [Cerrando Ciclos](https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:15 |
 | 18 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 |
-| 19 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 |
+| 19 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
 | 20 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 |
 | 21 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
 | 22 | [Una Noche Mas Contigo](https://open.spotify.com/track/0kOTspv4AkZbfUDcsPI6I9) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Gold Collection, Vol\. 1](https://open.spotify.com/album/0p87z3HeUKj0A9W0bVNf9C) | 4:10 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 87 | [Muchas Gracias](https://open.spotify.com/track/0hMrhXemQsyYON48v8k21H) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Las Más Perronas de Banda](https://open.spotify.com/album/5YaunEHdo66ZySyG3kGhNu) | 3:03 |
 | 88 | [Y Llegaste Tú](https://open.spotify.com/track/2i61WI2fawXqjs1NuMPW3A) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:16 |
 | 89 | [Me Interesas](https://open.spotify.com/track/5LsTMta9l87n8Z4zpBV2xL) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [La Balanza](https://open.spotify.com/album/27zodohsIeaDJaZ7lpSHab) | 2:56 |
-| 90 | [Mi Amante](https://open.spotify.com/track/5bX4DfCjAI8ORKWLX2iiOJ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Y Se Parece A Tí](https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo) | 3:31 |
-| 91 | [¿Que Nos Separa?](https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:13 |
+| 90 | [¿Que Nos Separa?](https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:13 |
+| 91 | [Mi Amante](https://open.spotify.com/track/5bX4DfCjAI8ORKWLX2iiOJ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Y Se Parece A Tí](https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo) | 3:31 |
 | 92 | [Hombre Libre](https://open.spotify.com/track/6K9EwMrbfVGN6p7LrQW42e) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:17 |
 | 93 | [Hola, ¿Que Tal?](https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK) | [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Cuando Quieras Quiero](https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm) | 3:03 |
 | 94 | [Compárame](https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 99 | [Para Impresionarte](https://open.spotify.com/track/3zhLYl0tIzHUx6UxD1KP0C) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Idolos De Mexico Para El Mundo](https://open.spotify.com/album/03QeaYk3AUCbRQFBQdXOZG) | 3:39 |
 | 100 | [Las Edades](https://open.spotify.com/track/7rCcgP1xr0XOWWOiO0AjPW) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Los Amigos Del M](https://open.spotify.com/album/3XhpxlWiisEfUCRT5vtmFu) | 2:49 |
 
-Snapshot ID: `MTY1ODE4NTAwOCwwMDAwMDAwMGQzMmM0N2Q2ZTg2MGI4ODUxMWU2ZTQ2MWU3MDIwNDgw`
+Snapshot ID: `MTY1ODE4NTAwOCwwMDAwMDAwMGZjZmRmYjUyMmM0ZDg5NDNlZTFiYWU5ODc0ZGE2MDk4`

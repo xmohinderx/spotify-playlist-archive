@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Claudia Allmang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,997 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,006 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

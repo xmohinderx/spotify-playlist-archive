@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > When emo and hardcore fell hard for each other.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,706 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,022 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 56 | [This Could Be Anywhere In The World](https://open.spotify.com/track/6hKnIY2Ssrmqw2TYXW0K5e) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw) | 4:03 |
 | 57 | [Niki Fm](https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:59 |
 | 58 | [Waking the Demon](https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p) | 4:07 |
-| 59 | [Deadbolt](https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Illusion of Safety](https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc) | 3:00 |
-| 60 | [Buried a Lie](https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:59 |
+| 59 | [Buried a Lie](https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:59 |
+| 60 | [Deadbolt](https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Illusion of Safety](https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc) | 3:00 |
 | 61 | [The Difference Between Medicine And Poison Is In The Dose](https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [On Letting Go](https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz) | 4:17 |
 | 62 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
 | 63 | [And I Told Them I Invented Times New Roman](https://open.spotify.com/track/7CR0CfMEC6BZBuYLaKSbu9) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Downtown Battle Mountain](https://open.spotify.com/album/1VBfG7a6qZVJ1KWPIJpyLz) | 4:48 |
@@ -91,14 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 81 | [Andria](https://open.spotify.com/track/42QlbO4IkGD6OSp6OXjFwN) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan) | 4:20 |
 | 82 | [Tree Village](https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL) | 3:21 |
 | 83 | [Studying Politics](https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Question](https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet) | 3:30 |
-| 84 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
-| 85 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
+| 84 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
+| 85 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
 | 86 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
 | 87 | [Apology](https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [Try This With Your Eyes Closed](https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD) | 4:09 |
 | 88 | [A Toast to the future kids!](https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Emarosa](https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5) | 3:48 |
 | 89 | [Standing On The Edge Of Summer](https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:42 |
-| 90 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
-| 91 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
+| 90 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
+| 91 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
 | 92 | [Smashed Into Pieces](https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [When Broken Is Easily Fixed](https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc) | 3:42 |
 | 93 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
 | 94 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 99 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
 | 100 | [The After Dinner Payback](https://open.spotify.com/track/3gBo8grQ7vtZGARZO43MeU) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [The Fiction We Live](https://open.spotify.com/album/4nGaOcWtMYbPfclwah1kHw) | 2:51 |
 
-Snapshot ID: `MTY1MDkxNjUzMSwwMDAwMDAwMGM0MTM5YmUxYzAzYWEyNzc1NjI0ZjI1ZWIzYWZiMzNh`
+Snapshot ID: `MTY1MDkxNjUzMSwwMDAwMDAwMDhiNzRiYTU2NmM4NmRmMGQxZDBhYWU3NTgyMDFlMGE4`

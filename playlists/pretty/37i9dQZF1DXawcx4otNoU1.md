@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,752 likes - 150 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,019 likes - 150 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,21 +130,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 120 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 |
 | 121 | [Eyes on You](https://open.spotify.com/track/3Q6ppHSPI9Kpuc5ipKb7bP) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/6jsMdQu4HDvujVp2IQmweI) | 2:48 |
 | 122 | [Kaleidoscope Evening](https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX) | [Reuben Fleetwood](https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH) | [Kaleidoscope Evening](https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG) | 2:43 |
-| 123 | [World Without You](https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Accidentally On Purpose](https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti) | 3:17 |
+| 123 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 | 124 | [Rebekah](https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Rebekah \- EP](https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH) | 3:20 |
-| 125 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
+| 125 | [World Without You](https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Accidentally On Purpose](https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti) | 3:17 |
 | 126 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
 | 127 | [Shelter](https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc) | [David Ryan Harris](https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo) | [Lightyears](https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9) | 4:10 |
-| 128 | [High Tide](https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4) | [Nick Yoon](https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2) | [High Tide](https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx) | 3:35 |
-| 129 | [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 |
+| 128 | [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 |
+| 129 | [High Tide](https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4) | [Nick Yoon](https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2) | [High Tide](https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx) | 3:35 |
 | 130 | [Heights](https://open.spotify.com/track/4HhiuiQftydGvLIIzM8tn5) | [Only Girl](https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt) | [Heights](https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf) | 3:46 |
 | 131 | [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 |
 | 132 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 |
 | 133 | [Þerney \(One Thing\)](https://open.spotify.com/track/4hq3eYHlkHhcD70jwgZQhE) | [Pascal Pinon](https://open.spotify.com/artist/6vuHXpySAbiBH0BlWpznYZ) | [Twosomeness](https://open.spotify.com/album/44pxsSkBHvNDm2H5LiamIU) | 3:37 |
 | 134 | [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 |
 | 135 | [Hope](https://open.spotify.com/track/6NqWkjJYrl0btI44T9dTjg) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:08 |
-| 136 | [Say Less](https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Say Less](https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS) | 4:03 |
-| 137 | [Fantasy](https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Fantasy](https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL) | 3:41 |
+| 136 | [Fantasy](https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Fantasy](https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL) | 3:41 |
+| 137 | [Say Less](https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Say Less](https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS) | 4:03 |
 | 138 | [Sex + Hennessy](https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor) | [Eimizah](https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM) | [Sex + Hennessy](https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK) | 2:35 |
 | 139 | [Darlin'](https://open.spotify.com/track/2gy3giTHyomIx4jps8VHjl) | [Susie Mills](https://open.spotify.com/artist/2QmjpcdPJqL67ovh59ZAUZ), [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Darlin'](https://open.spotify.com/album/3zEx0nbpsh47AsKDlw8ofp) | 3:07 |
 | 140 | [Meteor Showers](https://open.spotify.com/track/1YJtGzArwMvryrDMN0sNRB) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Meteor Showers](https://open.spotify.com/album/6WiiRowuPqRSFWizLUHKel) | 3:40 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 145 | [no ill](https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ) | [deadmen](https://open.spotify.com/artist/1kH6sqipWrJUF1AAeSskjl), [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [No Ill](https://open.spotify.com/album/0t2ZDNsrg9DbGT0TfhtPEK) | 2:59 |
 | 146 | [Good Girl](https://open.spotify.com/track/56iXZRQbMCTypiDsZXM6I0) | [Celine Love](https://open.spotify.com/artist/3n7Zpn5umVXKuLjG8kgGFl), [TR33](https://open.spotify.com/artist/33ywZDcgjSBosGP0O2nEtg) | [Good Girl](https://open.spotify.com/album/62ayDuTyQGhZY8pVLQi31M) | 2:27 |
 | 147 | [Part Time Lover \- Radio Edit](https://open.spotify.com/track/3RT0FdCEeCTTPbFY5Qk5pk) | [ELIAS](https://open.spotify.com/artist/5w3XaqHR4hMMy1MWyO26TY) | [Part Time Lover \(Radio Edit\)](https://open.spotify.com/album/0FXr7SgdUgSXzEBE0JxLWf) | 2:48 |
-| 148 | [Mine](https://open.spotify.com/track/4xhDwG2mnp3YqgfV0JKYcD) | [Ivey Amour](https://open.spotify.com/artist/0i7kCKpYy3ewWFJ6yGh8aW) | [Mine](https://open.spotify.com/album/70MjaaGDN0HkvtxK1aHHGn) | 2:51 |
-| 149 | [Cursed](https://open.spotify.com/track/0jIX9mXUh1z3yK5SvIcrqf) | [Chachi](https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S) | [Cursed](https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri) | 3:34 |
-| 150 | [Don't Judge Me](https://open.spotify.com/track/4CdrEw76dPI0QyurNUjklR) | [Kish](https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L) | [Don't Judge Me](https://open.spotify.com/album/6Ny9NQi1tvteQHFcXkJX9T) | 3:20 |
+| 148 | [Motion](https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7) | [Amari' SZN 1](https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4) | 3:02 |
+| 149 | [Mine](https://open.spotify.com/track/4xhDwG2mnp3YqgfV0JKYcD) | [Ivey Amour](https://open.spotify.com/artist/0i7kCKpYy3ewWFJ6yGh8aW) | [Mine](https://open.spotify.com/album/70MjaaGDN0HkvtxK1aHHGn) | 2:51 |
+| 150 | [Cursed](https://open.spotify.com/track/0jIX9mXUh1z3yK5SvIcrqf) | [Chachi](https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S) | [Cursed](https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri) | 3:34 |
 
-Snapshot ID: `MTY1NzI3NDQwMCwwMDAwMDAwMDY3MjI5OGI1Y2UyZmM1YWVhYTRjZTJjNDdjZGY5NzRk`
+Snapshot ID: `MTY1NzI3NDQwMCwwMDAwMDAwMDAyNzdhZjA5NWEyNjU2NmZjOGU0N2Q4ODMyYjFkYTY0`

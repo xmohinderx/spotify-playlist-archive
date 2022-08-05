@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Annahstasia
 
-576 songs - 1 day 6 hr 29 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+577 songs - 1 day 6 hr 33 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Don't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/7lTp8ScQlND1bNaO0ejh3r) | [Autumn Marini](https://open.spotify.com/artist/0Afau9cQ62igjVSDkkkG19), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Don't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/2D8PhtJcBp4rJx6l5BTRjZ) | 3:02 | 2022-07-27 |  |
 | [Dont Know](https://open.spotify.com/track/7imwOacEwo1uCGacu8lw2A) | [Elijah Seabrook](https://open.spotify.com/artist/4xtLpQ6VUR3djxL9FjcKT7) | [Pressure Rising](https://open.spotify.com/album/5mbrEXGcSjZYaUbTmMWYyi) | 2:53 | 2022-02-16 | 2022-03-24 |
 | [Dopamine](https://open.spotify.com/track/2Lpx8UUlTRWjeEEBmXA887) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Dopamine](https://open.spotify.com/album/1uxAsIDfTdZNDNL8SadH37) | 3:12 | 2022-03-02 | 2022-03-12 |
+| [DOWN](https://open.spotify.com/track/7IXo0p7e8dQY2cqpTYzBmu) | [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz) | [DOWN](https://open.spotify.com/album/6PtM1fUUxBisX3p9mNvrN8) | 3:19 | 2022-08-03 |  |
 | [Draft 7 "fruitless love"](https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Draft 7 "fruitless love"](https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI) | 2:46 | 2022-03-11 | 2022-04-28 |
 | [Dream On](https://open.spotify.com/track/5Z9Msjt9oqnGDZFFbSOCms) | [Cellz](https://open.spotify.com/artist/5BFEr8AvjXPRGzf1hZyel3), [Blue Glass](https://open.spotify.com/artist/1FOJ4LWMsMHcCBL3KBjF3Q) | [Dream On](https://open.spotify.com/album/0DnfhKZpuYWlh96KBxUT8n) | 3:00 | 2022-01-26 | 2022-03-03 |
 | [Drifting](https://open.spotify.com/track/7036ZWYdPMbv8CCjxzm05H) | [Danyellé](https://open.spotify.com/artist/522uG9gSkR0QAYNKOX8bOx) | [Drifting](https://open.spotify.com/album/5DFKGdfg2wcfytWU0D92Mp) | 3:30 | 2022-02-02 | 2022-03-18 |
@@ -221,7 +222,7 @@
 | [Good Girl](https://open.spotify.com/track/56iXZRQbMCTypiDsZXM6I0) | [Celine Love](https://open.spotify.com/artist/3n7Zpn5umVXKuLjG8kgGFl), [TR33](https://open.spotify.com/artist/33ywZDcgjSBosGP0O2nEtg) | [Good Girl](https://open.spotify.com/album/62ayDuTyQGhZY8pVLQi31M) | 2:27 | 2022-02-09 | 2022-03-31 |
 | [Good Good](https://open.spotify.com/track/02adJbZO7bHXJjboTwph45) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Good Good](https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI) | 3:45 | 2021-12-01 | 2022-01-13 |
 | [good grief](https://open.spotify.com/track/789MBIRK7wY1fV4M1tXUQ7) | [sky](https://open.spotify.com/artist/2CfhN5oSdaZIGfe2KTq2yB) | [good grief](https://open.spotify.com/album/57wwNqriAqsvPM6mBxpQTu) | 4:27 | 2021-12-01 | 2022-01-13 |
-| [Goodmorning](https://open.spotify.com/track/1rzkzVVzCcFBNMoeVVmAdq) | [Silentjay](https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh), [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV) | [Goodmorning](https://open.spotify.com/album/2QvfgdZiEJzWGmXq0M98oV) | 3:01 | 2022-08-03 |  |
+| [Goodmorning](https://open.spotify.com/track/1rzkzVVzCcFBNMoeVVmAdq) | [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV), [Silentjay](https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh) | [Goodmorning](https://open.spotify.com/album/2QvfgdZiEJzWGmXq0M98oV) | 3:01 | 2022-08-03 |  |
 | [Got Me \(Feelin' Like\)](https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Got Me \(Feelin' Like\)](https://open.spotify.com/album/19WNAHNH5e9e55hMbKcJ5q) | 3:24 | 2021-12-01 | 2022-01-13 |
 | [Grateful For You](https://open.spotify.com/track/0nNKoqs5tNMJsPZxBeA0O1) | [Carley Nunn](https://open.spotify.com/artist/7u2Xv5GBBVbgCbMYXAEZoL) | [Grateful For You](https://open.spotify.com/album/5YJbcXwS4V0cXCbh4MBF5Y) | 2:32 | 2022-03-30 | 2022-05-12 |
 | [Greatness](https://open.spotify.com/track/5PDf1HEyDhh532osXoTc5y) | [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [Caleigh Barker](https://open.spotify.com/artist/7tbChpNipF0w4LR1uzbrCR) | [Greatness](https://open.spotify.com/album/6encEPM8nA7udoEjsaJp7o) | 2:49 | 2022-04-06 | 2022-05-21 |

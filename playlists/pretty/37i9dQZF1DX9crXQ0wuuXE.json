@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 570577,
+  "num_followers": 570705,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzA0MjE5MCwwMDAwMDAwMDZjNjU5OTc5ZTA3NTc3ZmMxNmU3MmQyZTI5NDYxZTUx",
+  "snapshot_id": "MTY0NzA0MjE5MCwwMDAwMDAwMDYzNzI5MDQyYmYzODA0YTAyMDdhZjliZmQyZmYzMDU0",
   "tracks": [
     {
       "added_at": "2022-03-11 23:43:10",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 247613,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 235746,
-      "name": "And It's Still Alright",
-      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+      "duration_ms": 247613,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 247493,
-      "name": "Sisyphus",
-      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
+      "duration_ms": 141200,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1147,6 +1131,22 @@
       "duration_ms": 142200,
       "name": "Without a Light",
       "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sisyphus",
+      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Ongiara",
         "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 216453,
       "name": "Your Rocky Spine",
       "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Wait so Long",
-      "url": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Wait so Long",
+      "url": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 285786,
-      "name": "Golden Embers",
-      "url": "https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 285786,
+      "name": "Golden Embers",
+      "url": "https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S"
     },
     {
       "added_at": "2022-03-11 23:43:10",

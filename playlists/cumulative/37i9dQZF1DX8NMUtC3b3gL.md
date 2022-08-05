@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-176 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+181 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [fall](https://open.spotify.com/track/0ndmNCKuAluAi4bjfJCiE4) | [majic](https://open.spotify.com/artist/5sNthmyXtGakNigg1xxlMS) | [fall](https://open.spotify.com/album/5gsGyzaNxTJA5zqg4qmQkB) | 1:21 | 2022-07-08 |  |
 | [Family](https://open.spotify.com/track/62FZ5BVFbxuUF58FKWrRTo) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Kyla Moscovich](https://open.spotify.com/artist/4eo125E0BMCS4qi3xB4pTd) | [Family](https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb) | 2:25 | 2022-05-27 |  |
 | [Feels Like Tomorrow](https://open.spotify.com/track/63dG83UMhVKzOOGaxeivf7) | [Ten Tin Trumpets](https://open.spotify.com/artist/1uPhaXGb4PrQKmNnKXm0GI) | [Feels Like Tomorrow](https://open.spotify.com/album/4GUG96DUeqyWLiVd7o7pxb) | 3:15 | 2022-05-27 |  |
+| [First Blossoms](https://open.spotify.com/track/2ydYzoDJ6zJO8CAx5XVTPB) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [First Blossoms](https://open.spotify.com/album/6fy2dixEx1GmxhN0i2Zhj1) | 2:05 | 2022-08-05 |  |
 | [Florida Groove](https://open.spotify.com/track/3gYj3e09w9jinTujZojpxt) | [Erik Jackson](https://open.spotify.com/artist/6D9uBqsbDJXQffbjdNL5MW), [The Pad Pushers](https://open.spotify.com/artist/3OOa3quWVt193l1Xyk34Xa) | [Florida Groove](https://open.spotify.com/album/63mNtNaxyIbO8NXaruC5y4) | 2:41 | 2022-06-24 | 2022-07-08 |
 | [forever more](https://open.spotify.com/track/0PMx2PH8D3kf44CX7T0kOg) | [bladecut](https://open.spotify.com/artist/1PkmXjtHF5wQCvN96FukFZ) | [school daze](https://open.spotify.com/album/13wjmdMsBPJSHNu2a7g8Km) | 1:55 | 2022-05-27 |  |
 | [Frankie](https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [SoBe](https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M) | [Verdant](https://open.spotify.com/album/6fIz7iouU5xhVUPB4cTfy0) | 1:52 | 2022-05-27 |  |
@@ -87,6 +88,7 @@
 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 | 2022-05-27 |  |
 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 | 2022-05-27 |  |
 | [Long Way Home](https://open.spotify.com/track/4B0rDSA8jga7wjmKaSIHYj) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2) | [A Walk in Summer](https://open.spotify.com/album/0DxdMoaCtNOXENBnyf4nl1) | 2:56 | 2022-06-24 |  |
+| [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 | 2022-08-05 |  |
 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 | 2022-05-27 |  |
 | [Manito](https://open.spotify.com/track/3czR3Xu0Ld5moQlOntRH4E) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [Manito](https://open.spotify.com/album/755BUKp9HmjQUi1t1E8G5H) | 2:03 | 2022-06-24 | 2022-07-08 |
 | [Melrose](https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Melrose](https://open.spotify.com/album/3tFXWxrKuIJFYu9iTTywXa) | 1:42 | 2022-06-03 | 2022-06-24 |
@@ -105,6 +107,7 @@
 | [obsidian](https://open.spotify.com/track/2WqGpdRUeNhg7YT0xfZbG6) | [future seer](https://open.spotify.com/artist/1UUcVGsQzTvVzZxQJ9LCPx) | [obsidian](https://open.spotify.com/album/3jmhvLz1rfDfhh5gkwGXlj) | 2:14 | 2022-05-27 | 2022-07-15 |
 | [ocean blue](https://open.spotify.com/track/4F10zgqF71gLdv9ZIHQeXX) | [brknhrt.Wav](https://open.spotify.com/artist/7CSAczsskEtnMBzZ25tOma) | [ocean blue](https://open.spotify.com/album/7bcfdyabuld1dgPrq2P6YJ) | 1:44 | 2022-07-08 | 2022-07-15 |
 | [off the grid](https://open.spotify.com/track/67ZBo4TkiHsPGVuJDxsXkk) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [off the grid](https://open.spotify.com/album/1uVRWOGqmDWLwfWploSKba) | 2:48 | 2022-07-29 |  |
+| [Old Days](https://open.spotify.com/track/5yf2mbyU1UHPut39eAuOCX) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Old Days](https://open.spotify.com/album/4A4ypbUWFAceSJcPKXni70) | 2:18 | 2022-08-05 |  |
 | [On My Way](https://open.spotify.com/track/5xmkS1lv38JiohsD7omi8a) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [On My Way](https://open.spotify.com/album/652xJbu0kTPJcfXeKeYil2) | 2:16 | 2022-07-15 |  |
 | [Other Way Around](https://open.spotify.com/track/1Ncz3CgIIhlvoqChef6QLm) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Other Way Around](https://open.spotify.com/album/4aK8t4rKtHjdsMaV4hg34t) | 1:52 | 2022-07-08 |  |
 | [our future](https://open.spotify.com/track/4WBdS3TlzAFYVKhpNqyDSy) | [saamson](https://open.spotify.com/artist/3h4ZdFuMxG9E3stRytpGT6) | [our future](https://open.spotify.com/album/54O5b1b2VKMu4fD0d72wp3) | 1:47 | 2022-06-24 |  |
@@ -139,6 +142,7 @@
 | [Seasons Change](https://open.spotify.com/track/3Vdunna1LcFXyvLE50j5oK) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seasons Change](https://open.spotify.com/album/0FGJhpYTovyNwXoxUnvf3G) | 1:58 | 2022-07-29 |  |
 | [Sense](https://open.spotify.com/track/52oTmaLv8s70zJft348pjy) | [revmal](https://open.spotify.com/artist/0thsoOfTu2qJQQVg5wrG6S), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sense](https://open.spotify.com/album/3rfDVFn4DLafKcjh5tj4lr) | 1:48 | 2022-07-29 |  |
 | [Serendipity](https://open.spotify.com/track/570mOFP7nwkJHEKuKoK0Gr) | [Ana's Dreams](https://open.spotify.com/artist/1GlVKWlsgnWjGGoSIzZhYe), [Amelia Clouds](https://open.spotify.com/artist/5nAP2r3JeLvqP3Fp5xNcw0) | [Indieana, Vol\. 3](https://open.spotify.com/album/2DwxZgvGGvdOzh1ywCxZcA) | 0:58 | 2022-06-10 | 2022-07-01 |
+| [Serenity](https://open.spotify.com/track/4YAs0eBrhNzlrfHXyvs25T) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Serenity](https://open.spotify.com/album/0uMvJwmibtvq8qLUXqddV8) | 2:06 | 2022-08-05 |  |
 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 | 2022-05-27 |  |
 | [Side Streets](https://open.spotify.com/track/5Tionopm4U5KuVAa34YvE3) | [Tanglebird](https://open.spotify.com/artist/1CyyavZPAhLtqqXouBWlkt) | [Several Boxes](https://open.spotify.com/album/5NjGnt2WLAPz9cUhMSsAZI) | 2:38 | 2022-06-24 |  |
 | [signs](https://open.spotify.com/track/3Jb8cKwm5JfsicVfaj9jtE) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [signs](https://open.spotify.com/album/2s2tgZmyzjedmp4UmyBj13) | 2:39 | 2022-05-27 | 2022-07-15 |
@@ -171,6 +175,7 @@
 | [tomorrow, 2 am](https://open.spotify.com/track/1AjIq7D644IjbeekXoe64u) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [tomorrow, 2 am](https://open.spotify.com/album/3XfmT2opeZqXNMEq1dLbgE) | 2:12 | 2022-05-27 | 2022-06-03 |
 | [Toyz](https://open.spotify.com/track/4Tx3rNMbcQABQzEnfc4lpF) | [PeeWee Cash](https://open.spotify.com/artist/0w7aB02RXntGs6Gng4IfIn) | [Toyz](https://open.spotify.com/album/0dlp73C5zJvWig7sYMMnV0) | 2:39 | 2022-05-27 | 2022-07-01 |
 | [Tram](https://open.spotify.com/track/2qrguu9bcFrNC40tpTu8ys) | [Mbrs Gear](https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30) | [Tram](https://open.spotify.com/album/4XQcFzMnkk5YKugdY9MkHM) | 2:10 | 2022-05-27 |  |
+| [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 | 2022-08-05 |  |
 | [Vacation Days](https://open.spotify.com/track/3uywJ17iYcUK0niX2wE95F) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/5mxnF5fVvpvWlK4TYW8Dh9) | 2:18 | 2022-05-27 |  |
 | [Vivid Awake](https://open.spotify.com/track/1b1hS6FnAx5rJE0i17S187) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Vivid Awake](https://open.spotify.com/album/5HFaR1pvKXlUsgJP6V9xTn) | 2:17 | 2022-05-27 |  |
 | [wait](https://open.spotify.com/track/4GheVHPcbhnedzU7jXUC17) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [wait](https://open.spotify.com/album/6wgmnVSl2pdMwgljbyvBty) | 2:03 | 2022-07-01 |  |

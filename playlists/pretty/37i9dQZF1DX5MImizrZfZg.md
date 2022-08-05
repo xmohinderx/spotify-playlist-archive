@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,110 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,130 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kisses in the Rain](https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:32 |
 | 2 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 |
-| 3 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
-| 4 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
+| 3 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
+| 4 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
 | 5 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
 | 6 | [Tequila Moon](https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5) | 4:36 |
 | 7 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
 | 8 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 |
 | 9 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
-| 10 | [Do You Wanna Dance](https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 3:38 |
-| 11 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
+| 10 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
+| 11 | [Do You Wanna Dance](https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 3:38 |
 | 12 | [Who's That Lady](https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Glow](https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif) | 4:30 |
 | 13 | [Nightfall](https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:32 |
 | 14 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 29 | [Stone Groove](https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Pure](https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh) | 4:45 |
 | 30 | [Feeling Good](https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Radiant](https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ) | 4:59 |
 | 31 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
-| 32 | [Mildred's Attraction](https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:45 |
-| 33 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
+| 32 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
+| 33 | [Mildred's Attraction](https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:45 |
 | 34 | [Just Like The First Time](https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU) | 4:39 |
 | 35 | [Say Something](https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [HeadBoppin \(with bonus track\)](https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE) | 4:08 |
 | 36 | [In the Moment](https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [In the Moment](https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Eye 2 Eye](https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 4:43 |
 | 50 | [For A Smile](https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Hi\-Lo Split](https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp) | 4:13 |
 
-Snapshot ID: `MTYzODg5NTgyOCwwMDAwMDAwMDZiYzFlZGEzNGFhYzc5MjRlYjlhNDllNmMyZjE4ZTU4`
+Snapshot ID: `MTYzODg5NTgyOCwwMDAwMDAwMDUwYmQxY2I0ZDlhZjU4NDE1NzA2Y2RmOTNkNWJhNWQz`

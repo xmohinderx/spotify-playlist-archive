@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,204 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,506 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 41 | [No Eyes \- Radio Edit](https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [JAW](https://open.spotify.com/artist/05BpORreAobgNUA5feAsui) | [No Eyes](https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS) | 3:24 |
 | 42 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 |
 | 43 | [Runaways \(feat\. Teemu\)](https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Runaways \(feat\. Teemu\)](https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj) | 3:02 |
-| 44 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 |
-| 45 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
-| 46 | [Line Of Sight \(feat\. WYNNE & Mansionair\)](https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:57 |
+| 44 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
+| 45 | [Line Of Sight \(feat\. WYNNE & Mansionair\)](https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:57 |
+| 46 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 |
 | 47 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:29 |
 | 48 | [Crazy](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Crazy](https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx) | 2:33 |
 | 49 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Raging \(feat\. Kodaline\)](https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:44 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDI5OWYwOTRjM2IxYTM5YWNhOWZkOGVlNzMwMWVmYmVk`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGRjYzU1ODYwOTI0M2FkOTM1ZmQ1NDdkNjI0NTg3OWUw`

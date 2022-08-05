@@ -1,12 +1,12 @@
 {
   "description": "Just try not to move to this mix of recent hits. Cover: Kaytranada",
-  "num_followers": 67001,
+  "num_followers": 67019,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDcxZTRhNTJlMTVlYTlhNzNmYjM4N2ZmZmU5ZjY2OTc4",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDA4Yzc5Y2RjMGQ4YzJmMjNlODc5MjFkYmRkYTY1ZGVj",
   "tracks": [
     {
       "added_at": "2022-05-27 06:06:42",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
       "added_at": "2022-05-27 06:06:42",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
@@ -71,26 +91,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2022-05-27 06:06:42",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-05-27 06:06:42",
       "album": {
-        "name": "CTRL + ALT + DEL",
-        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 153166,
-      "name": "CTRL + ALT + DEL",
-      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
-    },
-    {
-      "added_at": "2022-05-27 06:06:42",
-      "album": {
         "name": "Hear Me Say",
         "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 190772,
       "name": "Hear Me Say",
       "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+    },
+    {
+      "added_at": "2022-05-27 06:06:42",
+      "album": {
+        "name": "CTRL + ALT + DEL",
+        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 153166,
+      "name": "CTRL + ALT + DEL",
+      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
     },
     {
       "added_at": "2022-05-27 06:06:42",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-05-27 06:06:42",
       "album": {
-        "name": "Just for me",
-        "url": "https://open.spotify.com/album/00fcDjvEq4elj756TESO0c"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 115800,
-      "name": "Just for me",
-      "url": "https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA"
-    },
-    {
-      "added_at": "2022-05-27 06:06:42",
-      "album": {
         "name": "My Humps",
         "url": "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 186124,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
+    },
+    {
+      "added_at": "2022-05-27 06:06:42",
+      "album": {
+        "name": "Just for me",
+        "url": "https://open.spotify.com/album/00fcDjvEq4elj756TESO0c"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 115800,
+      "name": "Just for me",
+      "url": "https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA"
     },
     {
       "added_at": "2022-05-27 06:06:42",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-05-27 06:06:42",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 195952,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe"
-    },
-    {
-      "added_at": "2022-05-27 06:06:42",
-      "album": {
         "name": "Sweet Talker",
         "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 176930,
       "name": "Sweet Talker",
       "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
+    },
+    {
+      "added_at": "2022-05-27 06:06:42",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe"
     },
     {
       "added_at": "2022-05-27 06:06:42",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2022-05-27 06:06:42",
       "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
+    },
+    {
+      "added_at": "2022-05-27 06:06:42",
+      "album": {
         "name": "Not So Bad (feat. Emie)",
         "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
-    },
-    {
-      "added_at": "2022-05-27 06:06:42",
-      "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
     },
     {
       "added_at": "2022-05-27 06:06:42",

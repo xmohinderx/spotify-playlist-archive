@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Account](https://open.spotify.com/track/5uneKCIU2LgjMDCtAPs67x) | [Dada Hood](https://open.spotify.com/artist/5n2cPyTGgIYUQmp76PrdA0), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The Orange](https://open.spotify.com/album/1vRhSfvblDi9p1Nd3xndse) | 2:48 | 2022-03-31 |  |
+| [Account](https://open.spotify.com/track/5uneKCIU2LgjMDCtAPs67x) | [Dada Hood](https://open.spotify.com/artist/5n2cPyTGgIYUQmp76PrdA0), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The Orange](https://open.spotify.com/album/1vRhSfvblDi9p1Nd3xndse) | 2:48 | 2022-03-31 | 2022-08-05 |
 | [Addiction \(feat\. Harmonize\)](https://open.spotify.com/track/1Be17HOs0GnuguW8pBaYAr) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk) | [Addiction \(feat\. Harmonize\)](https://open.spotify.com/album/0k7jBbWkGebFNwiNY6l2RC) | 3:34 | 2021-11-25 | 2022-06-28 |
 | [As Long As You Know](https://open.spotify.com/track/7r5Qp6eZKc4xzLQAgVF9C2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [As Long As You Know](https://open.spotify.com/album/3BpM5KGAB2WAbMMVOvQYnk) | 3:17 | 2022-01-27 |  |
 | [Atakuoa Nani](https://open.spotify.com/track/3QvqMNOkzolUbbhFx8aFro) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Atakuoa Nani](https://open.spotify.com/album/0lXqNUGMmDkVrttr2HPbUk) | 3:11 | 2022-06-09 |  |

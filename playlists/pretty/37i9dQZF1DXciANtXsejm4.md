@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,048 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,214 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 27 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 |
 | 28 | [Después De Ti](https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:19 |
 | 29 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
-| 30 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
+| 30 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
 | 31 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 |
-| 32 | [Donde Estará Mi Primavera](https://open.spotify.com/track/1h2SiT6nwYHtXqps0hrot7) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:21 |
+| 32 | [Ahora Lloras](https://open.spotify.com/track/7wYlYp0oTUseK5yxRS56Np) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 4:22 |
 | 33 | [Tan Solo Amantes](https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v) | 3:55 |
-| 34 | [Ahora Lloras](https://open.spotify.com/track/7wYlYp0oTUseK5yxRS56Np) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 4:22 |
+| 34 | [Donde Estará Mi Primavera](https://open.spotify.com/track/1h2SiT6nwYHtXqps0hrot7) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:21 |
 | 35 | [Nada](https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [Nada](https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA) | 3:06 |
 | 36 | [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 |
-| 37 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
-| 38 | [A Decirme Qué](https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:02 |
-| 39 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
-| 40 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
+| 37 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
+| 38 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
+| 39 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
+| 40 | [A Decirme Qué](https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:02 |
 | 41 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 |
 | 42 | [Si Me Ves Llorar por Ti](https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Después de Tí, Que](https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX) | 3:55 |
 | 43 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 79 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 |
 | 80 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 |
 
-Snapshot ID: `MTY1Nzg1NDAwMCwwMDAwMDAwMDc3ZDdhMzc2NjBkNzg5NWZiZDdlZmFjZWIzMzUyOGUy`
+Snapshot ID: `MTY1Nzg1NDAwMCwwMDAwMDAwMGYzMWE2ZTM1NmNmOWEyMGU3NzdiMTliYjFhNDdmMjk4`

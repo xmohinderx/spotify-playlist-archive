@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,359 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,541 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 48 | [Give Me Your Forever \(ft\. Billkin\)](https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Give Me Your Forever](https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv) | 4:04 |
 | 49 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
 | 50 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 |
-| 51 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
-| 52 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
+| 51 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
+| 52 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
 | 53 | [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 |
 | 54 | [Wishful Thinking](https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie) | 3:06 |
 | 55 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 82 | [Forever](https://open.spotify.com/track/4LTeNJlLwIgMTPPyR0KaDP) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Forever](https://open.spotify.com/album/2a1RK5BeRfUBGqMJLQFYnF) | 2:54 |
 | 83 | [Comme des Garçons](https://open.spotify.com/track/0i2mhiiHucVjXuywKdLniL) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Maison](https://open.spotify.com/album/7hUJWPUKJHdYF59nRjeEEy) | 4:58 |
 | 84 | [Sociopath](https://open.spotify.com/track/4DAcGCqgdTk02tDMx92sfx) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:15 |
-| 85 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
-| 86 | [You Are](https://open.spotify.com/track/2Lz3NCfyc26mkA9N8TKi82) | [Pixie Labrador](https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud), [Erin Lee](https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W) | [You Are](https://open.spotify.com/album/1XwPFljflqKznsSYi6Rz32) | 5:17 |
+| 85 | [You Are](https://open.spotify.com/track/2Lz3NCfyc26mkA9N8TKi82) | [Pixie Labrador](https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud), [Erin Lee](https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W) | [You Are](https://open.spotify.com/album/1XwPFljflqKznsSYi6Rz32) | 5:17 |
+| 86 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
 | 87 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
 | 88 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 |
 | 89 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 94 | [For Days](https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt) | 3:43 |
 | 95 | [fuck u, goodluck.](https://open.spotify.com/track/62JPi629msUv8wotWAChOY) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [cheer up!](https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8) | 3:20 |
 | 96 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 |
-| 97 | [Girl Like You](https://open.spotify.com/track/1AttIxgSuCJHB5ctgfsg6T) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Boo Boo](https://open.spotify.com/album/7oXDoQxFfRETeqsyvSHtzn) | 3:43 |
-| 98 | [Blossom](https://open.spotify.com/track/0nPpDVxWDSWdSIrd26Taja) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:46 |
+| 97 | [Blossom](https://open.spotify.com/track/0nPpDVxWDSWdSIrd26Taja) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:46 |
+| 98 | [Girl Like You](https://open.spotify.com/track/1AttIxgSuCJHB5ctgfsg6T) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Boo Boo](https://open.spotify.com/album/7oXDoQxFfRETeqsyvSHtzn) | 3:43 |
 | 99 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
 | 100 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMDdiYzhkYTc3ZmVjOWZmNDAzMmUzYTIwOTBjNTJiYjJl`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMGVlOWQ1YjBkMjA1MTE3MDAxMGM2OTExZjI0ZTJiYmNm`

@@ -2,13 +2,14 @@
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> La nuova generazione del rap italiano\. Cover: Kuremino
+> La nuova generazione del rap italiano\. Cover: Zefe
 
-173 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+176 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#WEOWE2](https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [\#WEOWE2](https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X) | 2:08 | 2022-05-12 | 2022-07-15 |
+| [17ANNI](https://open.spotify.com/track/2EjjzbpzMZqhpHuyft3LRc) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ), [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [17ANNI](https://open.spotify.com/album/0sORJIrRbMnPOzPnwdtuiJ) | 2:30 | 2022-08-04 |  |
 | [1of1](https://open.spotify.com/track/5Kd075ZC3yyNHWfp2TNDpj) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Frostee](https://open.spotify.com/artist/6xZVjHaQyPmX5XIXqAWfae) | [1of1](https://open.spotify.com/album/0TUt2kA1AgQiPShIioXluo) | 3:05 | 2022-05-26 | 2022-06-23 |
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-14 |  |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-10 | 2022-07-20 |
@@ -163,7 +164,9 @@
 | [SIDE HOE](https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [SIDE HOE](https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr) | 2:09 | 2022-05-12 | 2022-05-25 |
 | [Sig Sauer](https://open.spotify.com/track/5osZJMzHRegoA9y5rUOua4) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [Sig Sauer](https://open.spotify.com/album/5Xb2J3wUNG6B7KZD1397bi) | 2:09 | 2022-05-10 | 2022-05-20 |
 | [Silenzioso](https://open.spotify.com/track/6LwupnM2Cd5bvKcegSXBWF) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Silenzioso](https://open.spotify.com/album/0wmn2eLaiFYf2qN57RcWgH) | 2:05 | 2022-05-26 | 2022-06-24 |
+| [SKI](https://open.spotify.com/track/2gAJM0gtcA24UXzKmJJDrn) | [G.Issa](https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI) | [SKI](https://open.spotify.com/album/4fCiOCAlxIZnw8s01FAEul) | 2:17 | 2022-08-04 |  |
 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 | 2022-07-14 |  |
+| [Street Fama](https://open.spotify.com/track/6CTYj58wisw6s6AJTbGdrE) | [Korbe](https://open.spotify.com/artist/4UpISNZSBbdGOIXWBwhfL7) | [Street Fama](https://open.spotify.com/album/7nRdzbjeBrcvh1PgxcikXA) | 1:31 | 2022-08-04 |  |
 | [Street Fight](https://open.spotify.com/track/0RfsPdWv4vmccAVm17aYvS) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Street Fight](https://open.spotify.com/album/7LyS71YF8VLbGIcFZsmGOf) | 3:07 | 2022-07-05 |  |
 | [SWAG! \(Drip Margiela\)](https://open.spotify.com/track/4iaC4nwpOz6WXOKcuGzhWr) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [SWAG! \(Drip Margiela\)](https://open.spotify.com/album/0GFSvxiK8TUQCkiFHmHFo6) | 2:37 | 2022-06-09 | 2022-07-02 |
 | [Tigresse](https://open.spotify.com/track/6FtWOgaI3icr8D7TNabM5H) | [Keione](https://open.spotify.com/artist/03hK7y0FwbAU0GbP8eXmbu) | [Tigresse](https://open.spotify.com/album/4oCfom11e5Uy8ducm4KVkf) | 2:37 | 2022-07-14 | 2022-07-29 |

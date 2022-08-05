@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-341 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+346 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Blessed](https://open.spotify.com/track/3bCFay2zoRA5h5pcTw5Yny) | [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Blessed](https://open.spotify.com/album/16aItbrf8B0ghigWIagZKo) | 2:55 | 2022-06-03 |  |
 | [Bloke](https://open.spotify.com/track/10hUkqbTHRVqoNiPHq8pdi) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Butterfly Effect](https://open.spotify.com/album/7lneB2Lrh6GkVOUsvDGwtM) | 1:46 | 2022-05-20 | 2022-05-27 |
 | [Boom Bap a Lula](https://open.spotify.com/track/1bqbXMB4sjKR5QEkZRAm2h) | [Better Call Soul](https://open.spotify.com/artist/1JXhp3JDs7zoyf1YsGfjHG) | [Boom Bap a Lula](https://open.spotify.com/album/2k5gyXnBomBRmlKqj0F5gt) | 2:44 | 2022-05-20 |  |
+| [Bossa](https://open.spotify.com/track/6YgYLWehHMYQ0EYScrgcK3) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Bossa](https://open.spotify.com/album/00CLeUxaQOTjLBClGc7pqd) | 4:36 | 2022-08-05 |  |
 | [Bossy Bossa](https://open.spotify.com/track/3IvMz6gCLLdUHmTF9vUHU0) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:27 | 2022-05-20 |  |
 | [Boston City Hall](https://open.spotify.com/track/7AL8MZHzgxmnYsuiM2MsUZ) | [Ewert](https://open.spotify.com/artist/1ZUxK62OchtduzQOHN86Di) | [Boston City Hall](https://open.spotify.com/album/5jpjoBZVcUkQ555AmQ5KuA) | 2:51 | 2022-05-20 |  |
 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 | 2022-05-20 |  |
@@ -178,6 +179,7 @@
 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 | 2022-05-20 |  |
 | [Lucy Goosey](https://open.spotify.com/track/5Qnot7dFk2OguRXGOzG3rN) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Pink Lemonade](https://open.spotify.com/album/2Hl7QyBwj65cFqpWBhgcSm) | 1:30 | 2022-05-20 |  |
 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 | 2022-05-20 |  |
+| [Lush Lush Lake](https://open.spotify.com/track/0Dl6gERwFQMIEl2br6Dmcn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Lush Lush Lake](https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB) | 2:27 | 2022-08-05 |  |
 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 | 2022-05-20 |  |
 | [Magic moment](https://open.spotify.com/track/6AisWOrqsQFJF5XQuoZQCX) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Magic moment](https://open.spotify.com/album/27nfe3wU9Zvf9kj4PErVYt) | 2:00 | 2022-06-17 | 2022-07-01 |
 | [Matalí](https://open.spotify.com/track/0k1wqWrjOvG1xt9kMVQcKp) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Matalí](https://open.spotify.com/album/0AYDa7YRH3Zh4jSzKgClEV) | 2:26 | 2022-07-29 |  |
@@ -225,12 +227,15 @@
 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 | 2022-05-20 |  |
 | [Parallels](https://open.spotify.com/track/6Puzyr6rxBYIjlKG5GTifj) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Parallels](https://open.spotify.com/album/4AtoJKSW4QAAJYRQTuZVwQ) | 2:38 | 2022-05-27 |  |
 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 | 2022-05-20 |  |
+| [Picnic With A Tape Recorder](https://open.spotify.com/track/3Ls2JfT2cWABG0uTCJKoqJ) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [Gera Dzhio](https://open.spotify.com/artist/5nAEC4dYPM5hpAbikljUel) | [Picnic With A Tape Recorder](https://open.spotify.com/album/6znRumGtrgq8rMAHTZF9sE) | 2:36 | 2022-08-05 |  |
 | [pinecone](https://open.spotify.com/track/4MDKMZCcCzBzR7oB3zfHAt) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/12QtvCPGdXpxJZmqTi1h6y) | 1:55 | 2022-05-20 |  |
 | [Plastic Boys](https://open.spotify.com/track/0VVkD4K9rMQtQYFdzKXMIv) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 |  |
 | [Poetic Wax](https://open.spotify.com/track/6ueWeJJyq1rMkdNitaL7a6) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:23 | 2022-05-20 |  |
 | [Poetico](https://open.spotify.com/track/3WOVGisKBJAaab268pcVSw) | [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Birdcage](https://open.spotify.com/album/1rt06RiwxbqpW7lANXybwj) | 2:36 | 2022-05-20 |  |
+| [Poolside](https://open.spotify.com/track/55vugGlZDrEgZVdg8MThGI) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Poolside](https://open.spotify.com/album/1wtBgI7oOapGGHW8BgUDnj) | 2:30 | 2022-08-05 |  |
 | [Postcards](https://open.spotify.com/track/6CCXRC8JslvUainLY7In0P) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:15 | 2022-05-20 | 2022-05-27 |
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 |  |
+| [Puerto Rico](https://open.spotify.com/track/6aqMX6fuByY91a282vtaCC) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Puerto Rico](https://open.spotify.com/album/2E6Qwucc6QPeGohiym9YG3) | 3:32 | 2022-08-05 |  |
 | [Purrfect](https://open.spotify.com/track/06FHrzf7psD6ow7W4SH5Ks) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 2:18 | 2022-06-10 |  |
 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 | 2022-05-20 |  |
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2022-05-20 |  |

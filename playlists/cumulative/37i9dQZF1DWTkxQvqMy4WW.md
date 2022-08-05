@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-338 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/2tqcUzcMdvjapZUweh0oOM)
+339 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/2tqcUzcMdvjapZUweh0oOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Somethin' I'm Good At](https://open.spotify.com/track/6DRsEO5yuEGBF87qpyMB4d) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:37 | 2021-10-12 | 2022-04-19 |
 | [Something 'Bout You](https://open.spotify.com/track/2VdKelTyQHxQKyeTbimoHS) | [Sir Rosevelt](https://open.spotify.com/artist/36jGtr6jwJ2D7RVJBTRpsc) | [Sir Rosevelt](https://open.spotify.com/album/04qg9UzQONJod7bGdOIPOj) | 2:40 | 2019-05-25\* | 2022-04-21 |
 | [Somewhere In My Car](https://open.spotify.com/track/3MFV4DgrAOXz6KURPQxRj9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Somewhere In My Car](https://open.spotify.com/album/2WrjahkTYLrJe93TxCGIuM) | 3:15 | 2019-06-25 | 2019-06-28 |
-| [Somewhere On A Beach](https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:17 | 2019-10-26 |  |
+| [Somewhere On A Beach](https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:17 | 2019-10-26 | 2022-08-05 |
 | [Speakers, Bleachers And Preachers](https://open.spotify.com/track/0Is6MRHWKe7y2xIxDkvO6l) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Speakers](https://open.spotify.com/album/0QDfritqtxddXgpiophqyE) | 3:12 | 2019-05-29 | 2022-04-21 |
 | [Springsteen](https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 4:23 | 2019-06-26 |  |
 | [Star Of The Show](https://open.spotify.com/track/0CexLaYHQrvcTZZb8Ra54e) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Star Of The Show](https://open.spotify.com/album/5ifltC1ox8bhaubJF9qTZ1) | 3:01 | 2019-06-22 | 2021-01-15 |
@@ -294,6 +294,7 @@
 | [They Don't Know](https://open.spotify.com/track/3bzE57iNavJJxXL9GgBiOK) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6) | 3:15 | 2022-03-25 | 2022-04-13 |
 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2021-08-22 |  |
 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 | 2021-10-12 | 2022-06-18 |
+| [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 | 2022-05-13 |  |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-08-22 | 2022-07-29 |
 | [This Girl](https://open.spotify.com/track/3o37M5aX3HVbbVBkacJlXj) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [This Girl](https://open.spotify.com/album/3ouNF0yup4Bidqh3gRUngj) | 3:00 | 2019-05-25\* | 2022-04-11 |
 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 | 2020-06-12 |  |

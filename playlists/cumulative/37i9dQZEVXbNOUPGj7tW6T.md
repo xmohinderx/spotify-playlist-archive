@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-276 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
+277 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,8 +74,9 @@
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-08 | 2021-08-09 |
 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 | 2021-08-22 | 2021-09-07 |
 | [Desapego](https://open.spotify.com/track/7ByPSNnUNiphi4BD9ZkrHO) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Desapego](https://open.spotify.com/album/2NuOfxucLkgP5MsLRkU6Ej) | 3:38 | 2021-06-03 | 2021-07-11 |
-| [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-06-21 |  |
+| [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-06-21 | 2022-08-05 |
 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 | 2022-01-08 |  |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-04 |  |
 | [Despeinada](https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:44 | 2021-03-27\* | 2021-04-08 |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 |  |
 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 | 2022-05-07 |  |

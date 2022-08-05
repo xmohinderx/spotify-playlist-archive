@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,260 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,461 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 45 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
 | 46 | [Tú Me Llevas](https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG) | 4:23 |
 | 47 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
-| 48 | [Presagio](https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW) | 4:33 |
-| 49 | [Levanta Muertos](https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 5:00 |
+| 48 | [Levanta Muertos](https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 5:00 |
+| 49 | [Presagio](https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW) | 4:33 |
 | 50 | [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 |
 | 51 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 52 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 56 | [The Corsican](https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8) | [SUPERSAN](https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7) | [Enter the San](https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY) | 3:19 |
 | 57 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 58 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
-| 59 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
-| 60 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 |
+| 59 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 |
+| 60 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
 
-Snapshot ID: `MTY0OTk5ODU2OSwwMDAwMDAwMDZlYTU1YjAxOWFlMzU5MWVhOWQxNGEwZWVkZmMyYmE2`
+Snapshot ID: `MTY0OTk5ODU2OSwwMDAwMDAwMGQxNzBkNDk2ZjBjZjY1ZWMzNDkwNjdiOGIwOGMyYTEy`

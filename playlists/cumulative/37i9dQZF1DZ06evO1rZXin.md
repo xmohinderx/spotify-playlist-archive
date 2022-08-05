@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/2jDVG4jC8ZtuQapoLqA6dk)
+53 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/2jDVG4jC8ZtuQapoLqA6dk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [El Huerfnito](https://open.spotify.com/track/4pOFtfV3QirO4aSdnrmtXh) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 2:44 | 2022-06-01 |  |
 | [El Jaripeo](https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:53 | 2022-06-01 |  |
 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 | 2022-06-01 |  |
+| [El Noah, Noah](https://open.spotify.com/track/4yRDlfMcaAnS10mvjGoxek) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:55 | 2022-08-04 |  |
 | [El Pobre Caminante](https://open.spotify.com/track/7jYexhqsm6ZpasdPFVn4rO) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:39 | 2022-06-02 | 2022-06-04 |
 | [El Tirador](https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:11 | 2022-06-01 |  |
 | [El Toro Moro](https://open.spotify.com/track/3dK0G4fedpTO1yJ7z4WiZk) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 | 2022-06-01 |  |
@@ -44,7 +45,7 @@
 | [Maria Isabel](https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 | 2022-06-01 |  |
 | [Me Esta Esperando María](https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:48 | 2022-06-01 |  |
 | [Muévelo](https://open.spotify.com/track/3N4fXn95JzMo9slLuZWArp) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:14 | 2022-06-01 |  |
-| [No Tengo Dinero](https://open.spotify.com/track/4hgqP8VpweSME8P2m90XkM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:02 | 2022-06-01 |  |
+| [No Tengo Dinero](https://open.spotify.com/track/4hgqP8VpweSME8P2m90XkM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:02 | 2022-06-01 | 2022-08-05 |
 | [Oh, Solitario](https://open.spotify.com/track/2Xq6Sp3rBPCh4xlNflkzsF) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:01 | 2022-06-01 |  |
 | [Pa'Yo](https://open.spotify.com/track/3qgQfKKwAWbW6SMg82jsZt) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:50 | 2022-06-01 |  |
 | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ) | 2:51 | 2022-06-01 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-144 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+145 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2021-12-23 |  |
 | [East Wind](https://open.spotify.com/track/1GVjLE6wFF2JRb1SIGPcFA) | [Hannu Esaer](https://open.spotify.com/artist/3Tx1yuGiOQJfHqGPa5lZeF) | [East Wind](https://open.spotify.com/album/79nh2fw5rv7xbbnuNiC3CG) | 2:32 | 2021-12-23 |  |
 | [El Vals de Belén](https://open.spotify.com/track/5RvzdnTKs5LhzMcQN9ek2y) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Camino libre](https://open.spotify.com/album/0t7RgkOykW97lk67BzbcYo) | 1:48 | 2021-12-23 | 2022-07-22 |
+| [Eminence](https://open.spotify.com/track/1vTdIN54rYOds3Cf1ymCE5) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Eminence](https://open.spotify.com/album/2sm7AYwabkhNkYxx3BkaUV) | 2:45 | 2022-08-05 |  |
 | [Eranthis](https://open.spotify.com/track/5U1L9QJucR95sSZZUqKOoi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Eranthis](https://open.spotify.com/album/1AN5NyjT7pUu6rj5yEIWmD) | 2:53 | 2021-12-23 |  |
 | [Esperanza](https://open.spotify.com/track/5lOKbdXWK4QLLsQLX3CPg9) | [Hugo Irue](https://open.spotify.com/artist/1J4lsfpuRmmSY8d3sKqQEe) | [Esperanza](https://open.spotify.com/album/41VO2HKeMUpLtbuLD2sSBg) | 1:59 | 2021-12-23 |  |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2021-12-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JLmmala1kX.md) - [plain]
 
 > Congrats to all the winners this year at the AMAs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,980 likes - 15 songs - 57 min 42 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,979 likes - 15 songs - 57 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

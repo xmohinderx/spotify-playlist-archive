@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,414 likes - 36 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,458 likes - 36 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 9 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 |
 | 10 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 |
 | 11 | [Haramt Ahebak](https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Haramt Ahebak](https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo) | 7:56 |
-| 12 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
-| 13 | [El Hop Elly Kan](https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [El Layale](https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6) | 19:45 |
+| 12 | [El Hop Elly Kan](https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [El Layale](https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6) | 19:45 |
+| 13 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
 | 14 | [Hal El Garih](https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi) | 3:21 |
 | 15 | [Allaylou ya Layla](https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo) | [Wadie Essafi](https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH) | [Top Wadie Essafi \(The Voice of Lebanon\)](https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo) | 6:01 |
 | 16 | [Ala Babee Waqef Qamaren](https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Badak Maleoun Seneh](https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va) | 15:54 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 35 | [Mali \(Live\)](https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 3:54 |
 | 36 | [Khamratal Houbbi](https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 5:21 |
 
-Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDg0OGNmZTIwMjVlOTczMDNkZjFmNDZhN2NlODlkMWEz`
+Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDAxOTEzNDU1MzE2NDYxOWI3YjhlYWU0NWM3MTUxYjQy`

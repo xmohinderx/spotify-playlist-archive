@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby:)",
-  "num_followers": 446847,
+  "num_followers": 446862,
   "original_name": "Radiante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMwMTE1NywwMDAwMDAwMDA1ODJhZjI4YmFmOGFkZTViZjM5ODQzODQ2Y2U2MmM3",
+  "snapshot_id": "MTY1NTMwMTE1NywwMDAwMDAwMDlhMjU4ZWRiZmRiYTQ2MzNiYjlkYTY1YzJjMjZjMTM4",
   "tracks": [
     {
       "added_at": "2022-06-15 13:52:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/4X61CX0485026hU97ZPc57"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9"
-    },
-    {
-      "added_at": "2022-06-15 13:52:37",
-      "album": {
         "name": "muero x ti",
         "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 237564,
       "name": "muero x ti",
       "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
+    },
+    {
+      "added_at": "2022-06-15 13:52:37",
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/4X61CX0485026hU97ZPc57"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9"
     },
     {
       "added_at": "2022-06-15 13:52:37",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
-    },
-    {
-      "added_at": "2022-06-15 13:52:37",
-      "album": {
         "name": "Hasta Que T\u00fa Me Quieras",
         "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 235013,
       "name": "Hasta Que T\u00fa Me Quieras",
       "url": "https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti"
+    },
+    {
+      "added_at": "2022-06-15 13:52:37",
+      "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2022-06-15 13:52:37",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
+        "name": "\u00bfPa Qu\u00e9?",
+        "url": "https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Ch\u00f8by",
+          "url": "https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "\u00bfPa Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO"
+    },
+    {
+      "added_at": "2022-06-15 13:52:37",
+      "album": {
         "name": "Colour",
         "url": "https://open.spotify.com/album/3j6l2AzsdJYRtNJqNx5JCo"
       },
@@ -1635,22 +1655,6 @@
       "duration_ms": 194976,
       "name": "Park Ave",
       "url": "https://open.spotify.com/track/3U6dS9TILCdKqIhqURcmzU"
-    },
-    {
-      "added_at": "2022-06-15 13:52:37",
-      "album": {
-        "name": "veinte",
-        "url": "https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5"
-      },
-      "artists": [
-        {
-          "name": "dani",
-          "url": "https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y"
-        }
-      ],
-      "duration_ms": 204383,
-      "name": "D\u00f3nde est\u00e1s",
-      "url": "https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21"
     },
     {
       "added_at": "2022-06-15 13:52:37",
@@ -1671,22 +1675,18 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
-        "name": "\u00bfPa Qu\u00e9?",
-        "url": "https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq"
+        "name": "veinte",
+        "url": "https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5"
       },
       "artists": [
         {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        },
-        {
-          "name": "Ch\u00f8by",
-          "url": "https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd"
+          "name": "dani",
+          "url": "https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y"
         }
       ],
-      "duration_ms": 202500,
-      "name": "\u00bfPa Qu\u00e9?",
-      "url": "https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO"
+      "duration_ms": 204383,
+      "name": "D\u00f3nde est\u00e1s",
+      "url": "https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21"
     }
   ],
   "unique_name": "Radiante",

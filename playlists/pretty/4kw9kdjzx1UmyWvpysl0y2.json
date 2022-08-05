@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128523,
+  "num_followers": 128522,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU1NCw4N2Y3YWZmYzg4ZWIwOTk0ZTM1NTY2Y2EyYmZiYWVkNDA3NDIyYjhk",
+  "snapshot_id": "MzU1NixjZDAzNTA1NmVjZGI3ZDQ1MzYwYWYyMjhhNWJlZTZiOTAwNWZmOWE4",
   "tracks": [
+    {
+      "added_at": "2022-08-04 16:23:44",
+      "album": {
+        "name": "Higher Ground (Part 1)",
+        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Industrial Strain",
+      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
+    },
     {
       "added_at": "2022-08-03 16:23:05",
       "album": {
@@ -1115,22 +1131,6 @@
       "duration_ms": 202500,
       "name": "Right Through",
       "url": "https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ"
-    },
-    {
-      "added_at": "2022-05-25 16:40:08",
-      "album": {
-        "name": "Rays",
-        "url": "https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh"
-      },
-      "artists": [
-        {
-          "name": "Liam Thomas",
-          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
-        }
-      ],
-      "duration_ms": 150742,
-      "name": "Rays",
-      "url": "https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

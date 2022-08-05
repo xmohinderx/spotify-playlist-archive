@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-128 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
+129 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Full Current \(That's My Baby\)](https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Full Current \(That's My baby\)](https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP) | 3:28 | 2022-07-28 |  |
 | [Fvck Off](https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fvck Off](https://open.spotify.com/album/0xlCeLVQm5xoe9JsCHyJ48) | 2:37 | 2022-05-19 |  |
 | [Gbee Body \(feat\. Edem\)](https://open.spotify.com/track/4UkCWodJ0mU4BQ1M5Aifdb) | [Ak Songstress](https://open.spotify.com/artist/52lFu2pWl3LZrSer7G5K3a), [Edem](https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl) | [Gbee Body \(feat\. Edem\)](https://open.spotify.com/album/1kKY6PVggt76lqta770b9y) | 3:23 | 2022-03-24 | 2022-07-25 |
+| [Gettin' Hot](https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Gettin' Hot](https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0) | 3:44 | 2022-07-28 |  |
 | [GIMME DAT](https://open.spotify.com/track/0kQ6Tfr6cusaFTrFRM2sGU) | [Slizzy E](https://open.spotify.com/artist/1IGMSxmw8cDdp1tTOmABLA), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [GIMME DAT](https://open.spotify.com/album/6pp3as7e8WOdjYCxLPgIyd) | 2:50 | 2022-07-22 | 2022-07-26 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 |  |
 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 |  |
@@ -74,7 +75,7 @@
 | [Kiss & Tell](https://open.spotify.com/track/2caUqogrPS7fyT96tF9fOi) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Kiss & Tell](https://open.spotify.com/album/1Xm6lGVrbZUsLsIhf9REtp) | 2:59 | 2022-06-16 | 2022-07-28 |
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-04-28 |  |
 | [Kpanla](https://open.spotify.com/track/7vyPsq17QO1sN982fxtL3z) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kpanla](https://open.spotify.com/album/6Be7V1VsrltIu9AQoKkJ6k) | 2:46 | 2022-05-05 | 2022-07-29 |
-| [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 |  |
+| [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 | 2022-08-05 |
 | [Lakiriboto](https://open.spotify.com/track/5D3fIoS0kHh6Yzzz3RP9eW) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Alari](https://open.spotify.com/album/0hjZTmymeFzADTD4Wevzkg) | 2:48 | 2021-08-20 | 2022-07-29 |
 | [Life](https://open.spotify.com/track/3DRyA8NAr5Zc8DlVIfosNx) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw) | [Life](https://open.spotify.com/album/6FL0VzDEc7b4EXy4qgidAb) | 2:31 | 2022-04-28 | 2022-07-27 |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-25 |  |

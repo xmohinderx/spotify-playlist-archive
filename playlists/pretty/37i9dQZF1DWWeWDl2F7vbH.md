@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,458 likes - 45 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,519 likes - 45 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 21 | [Funk U Up \- Original 12" Vocal](https://open.spotify.com/track/4np1ZSefZyjnML0fEfElBo) | [Jesse Saunders](https://open.spotify.com/artist/6ZYa9hYoOGVzvQa2vmiVhi) | [Funk U Up \(Those Pretty Girls\)](https://open.spotify.com/album/3zef0TNhCEtdSlJXH61LX3) | 5:30 |
 | 22 | [No Way Back](https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK) | [Adonis](https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz) | [No Way Back](https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX) | 4:55 |
 | 23 | [Can You Party \(Club Mix\)](https://open.spotify.com/track/6TeKFnwaPsXI35gaQEoR8z) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [Can You Party](https://open.spotify.com/album/6XDDcGr98kPfkv1FZ5fYoI) | 6:04 |
-| 24 | [Can U Dance](https://open.spotify.com/track/3poyzqZ7oCNWEQQbNDdxJG) | [Kenny Jason](https://open.spotify.com/artist/49BbzHPrQAPcJKg79Ef2aB), [Dj Fast Eddie](https://open.spotify.com/artist/5lXVbldEpBEB9PWoNKokut) | [Colours of House Music, Vol\. 1 \(Essential Collection of House Music, Oldskool and Future Classixx\)](https://open.spotify.com/album/2zK1ok08vM1oGFXJt4mcw1) | 6:52 |
+| 24 | [Can U Dance \- Original](https://open.spotify.com/track/3fwERi4c7YGnHFEVnwGTQm) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Can U Dance](https://open.spotify.com/album/4e14JHptqsfgqVlX0Z0NoI) | 6:52 |
 | 25 | [Housenation](https://open.spotify.com/track/3TOXCM47jxS22kqCJrQvB2) | [The Housemaster Boyz](https://open.spotify.com/artist/2w5pLnLRqI8mQwiktn7CMd) | [Housenation](https://open.spotify.com/album/3scK2qMH6f9rGXXBTqyIvR) | 8:10 |
 | 26 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
 | 27 | [You Rock Me \- Long Version](https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz), [Mr White](https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp) | [E.P.](https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm) | 6:12 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 44 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 45 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 |
 
-Snapshot ID: `MTYyMjUzMjY3MiwwMDAwMDAwMDE5ZmRiMjVhMjhlNThjN2UxNGJkYzRmNzUzNWE2MTNh`
+Snapshot ID: `MTYyMjUzMjY3MiwwMDAwMDAwMGE5NDg5NThmNTE0MTkyMWU3OTBmYmI0MGUyODczY2M3`

@@ -1,12 +1,12 @@
 {
   "description": "presa bene \u2728",
-  "num_followers": 6095,
+  "num_followers": 6130,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA4ODY0MywwMDAwMDAwMDNiMWJhYTYyMzhkYTk0Y2JiZmMwNTk3NGI1NzQ5OWJk",
+  "snapshot_id": "MTY1OTA4ODY0MywwMDAwMDAwMGZlZWNiZjY2ZmRlNTM3ODI3OWQ5OWM0NGQzOTg1OGQ3",
   "tracks": [
     {
       "added_at": "2022-07-29 09:57:23",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-07-29 09:57:23",
       "album": {
-        "name": "I Love You So",
-        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160239,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
-    },
-    {
-      "added_at": "2022-07-29 09:57:23",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "added_at": "2022-07-29 09:57:23",
+      "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
       "added_at": "2022-07-29 09:57:23",
@@ -435,8 +435,8 @@
     {
       "added_at": "2022-07-29 09:57:23",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
@@ -444,9 +444,25 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 243507,
-      "name": "Cinema",
-      "url": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v"
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+    },
+    {
+      "added_at": "2022-07-29 09:57:23",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2022-07-29 09:57:23",
@@ -467,22 +483,6 @@
       "duration_ms": 97208,
       "name": "Jiggle Jiggle",
       "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
-    },
-    {
-      "added_at": "2022-07-29 09:57:23",
-      "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2022-07-29 09:57:23",
@@ -535,8 +535,8 @@
     {
       "added_at": "2022-07-29 09:57:23",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+      "duration_ms": 243507,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v"
     },
     {
       "added_at": "2022-07-29 09:57:23",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-07-29 09:57:23",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2022-07-29 09:57:23",
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 213520,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "added_at": "2022-07-29 09:57:23",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2022-07-29 09:57:23",
@@ -703,6 +703,26 @@
     {
       "added_at": "2022-07-29 09:57:23",
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "added_at": "2022-07-29 09:57:23",
+      "album": {
         "name": "Cheese",
         "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2022-07-29 09:57:23",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
     },
     {
       "added_at": "2022-07-29 09:57:23",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-07-29 09:57:23",
       "album": {
-        "name": "Future Friends",
-        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
-      },
-      "artists": [
-        {
-          "name": "Superfruit",
-          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "GUY.exe",
-      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
-    },
-    {
-      "added_at": "2022-07-29 09:57:23",
-      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 232813,
       "name": "I AM WOMAN",
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
+    },
+    {
+      "added_at": "2022-07-29 09:57:23",
+      "album": {
+        "name": "Future Friends",
+        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
+      },
+      "artists": [
+        {
+          "name": "Superfruit",
+          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "GUY.exe",
+      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
     },
     {
       "added_at": "2022-07-29 09:57:23",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-07-29 09:57:23",
       "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-07-29 09:57:23",
-      "album": {
         "name": "striptease",
         "url": "https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 160659,
       "name": "striptease",
       "url": "https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co"
+    },
+    {
+      "added_at": "2022-07-29 09:57:23",
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     }
   ],
   "unique_name": "una playlist felice",

@@ -1910,6 +1910,24 @@
     },
     {
       "album": {
+        "name": "Furui ki",
+        "url": "https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG"
+      },
+      "artists": [
+        {
+          "name": "Yasumaru",
+          "url": "https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185705,
+      "name": "Furui ki",
+      "url": "https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8"
+    },
+    {
+      "album": {
         "name": "gather around",
         "url": "https://open.spotify.com/album/3DmutGlmDC8W3Ie9PLQiZ4"
       },

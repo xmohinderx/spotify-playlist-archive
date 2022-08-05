@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-111 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+113 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Desértico](https://open.spotify.com/track/6p8qaRzcAGpkaeJ0S2dawv) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/6MECZ5zdS2PN0qEjS7uR6a) | 3:41 | 2021-12-13 | 2022-07-29 |
 | [Don't Stop](https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Don't Stop](https://open.spotify.com/album/1zuzyKT3Z063oxlvNcQgLq) | 3:33 | 2021-12-13 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/5qJ2xUNWrQiNETr0gS20IU) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y) | [Florecer](https://open.spotify.com/album/4No47iGe2xTVqiLQgRG5GJ) | 4:03 | 2022-04-18 |  |
-| [En el Aire](https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea) | 3:01 | 2021-12-13 |  |
+| [En el Aire](https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea) | 3:01 | 2021-12-13 | 2022-08-05 |
+| [En el Aire](https://open.spotify.com/track/2XDj1sDCtz9eN9lotxlhQ8) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/69TwSYaQOEdYI2Qq9FBgAT) | 3:01 | 2022-08-03 |  |
 | [En la Boca del Lobo](https://open.spotify.com/track/5OkeYRvjJXLTlQwDIC12e9) | [IRA](https://open.spotify.com/artist/4SFufo8OG7wyneSSj2F5UY) | [Arte y Terrorismo](https://open.spotify.com/album/7pK4Gd3Rti0OWr82uRJ4IB) | 3:25 | 2021-12-13 |  |
 | [En Lo Mío](https://open.spotify.com/track/2Zv5rpkUPPZgvuss69YWbG) | [Luisa Rincón](https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0) | [En Lo Mío](https://open.spotify.com/album/579Fn8CWkTHrZWZ9YTEwSG) | 3:27 | 2022-06-27 |  |
 | [En Lo Mío](https://open.spotify.com/track/3ayUFSz3DEJQIkUUQMckA5) | [Luisa Rincón](https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0) | [En Lo Mío](https://open.spotify.com/album/6aBkNh2qDEzgnJ5FlGgaBi) | 3:27 | 2021-12-13 | 2022-07-29 |
@@ -106,7 +107,8 @@
 | [Tarde](https://open.spotify.com/track/2oqHZ2KQSOUVsEBElyko02) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS) | [Tarde](https://open.spotify.com/album/6aVOSQineNiFqhdQE1JBP4) | 2:36 | 2022-06-27 |  |
 | [Tarde](https://open.spotify.com/track/4SMpjU8xhICOuWhZjZkhx2) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS) | [Tarde](https://open.spotify.com/album/6YbrASqwuUe7tUR7qM6EqR) | 2:36 | 2021-12-13 | 2022-07-29 |
 | [Taxi Driver](https://open.spotify.com/track/4Ux9RV3vI4SAXaOIzVBJXc) | [Norykko](https://open.spotify.com/artist/5xX9fBFLbqn0pYSFZ7qVcA) | [Taxi Driver](https://open.spotify.com/album/2IL0SiGi3zOYsEYFZ9R2A4) | 4:15 | 2021-12-13 |  |
-| [Te Regalo](https://open.spotify.com/track/2s0NclshpZt1Q2aVsBZXVd) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/0dE76rMV7OHOgmLZBBp8Dx) | 4:26 | 2021-12-13 |  |
+| [Te Regalo](https://open.spotify.com/track/2s0NclshpZt1Q2aVsBZXVd) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/0dE76rMV7OHOgmLZBBp8Dx) | 4:26 | 2021-12-13 | 2022-08-05 |
+| [Te Regalo](https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz) | 4:26 | 2022-08-03 |  |
 | [Tengo Un Trato](https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Mala Rodríguez / Lujo Ibérico](https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx) | 2:47 | 2021-12-13 |  |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-13 |  |
 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 | 2021-12-13 | 2022-01-22 |

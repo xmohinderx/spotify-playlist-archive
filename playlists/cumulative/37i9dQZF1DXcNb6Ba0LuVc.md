@@ -4,13 +4,14 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-299 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+303 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Sunshine!](https://open.spotify.com/track/5v4j4LiqW49SnYAwnJugw5) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Seven Hours](https://open.spotify.com/album/35tjstca6Mawcst5DoeXMN) | 3:03 | 2021-11-11 |  |
 | [5 Years, 8 Months, 3 Days](https://open.spotify.com/track/1VcTBO0lHjCI2tiq0Juq3Q) | [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [5 Years, 8 Months, 3 Days](https://open.spotify.com/album/6F5IYuBjkR9eiZISmuW5RD) | 2:01 | 2022-07-22 |  |
 | [A Costa](https://open.spotify.com/track/009s8MccQSXM4pAQwsP59s) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [A Costa](https://open.spotify.com/album/0w5RQ9HUb2vv1WqSzm9lME) | 2:12 | 2021-11-11 |  |
+| [A New Life](https://open.spotify.com/track/6rZuVZc47SHsS6uIbTtgN8) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/0XTVIiOyi1QvuCjfZasJec) | 2:54 | 2022-08-05 |  |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2021-11-11 |  |
 | [Aloha Vera](https://open.spotify.com/track/2qpkNIVyjNbh9MYUkSz7Yh) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Myrthe van de Weetering](https://open.spotify.com/artist/7qUsU9xkEpbdImTvJGfB99) | [Aloha Vera](https://open.spotify.com/album/21pDqAXBNOPv1s3oJSFk3r) | 2:53 | 2022-05-13 |  |
 | [alpha centauri jam](https://open.spotify.com/track/4l8wjOPB3ccThnxSacAkME) | [one life extra](https://open.spotify.com/artist/4TCGJnVlQrUiXtlovH97jP) | [intergalactic soundscapes](https://open.spotify.com/album/3jXQD9hyRGTCi6sTx3142y) | 1:30 | 2021-11-11 | 2022-06-10 |
@@ -31,6 +32,7 @@
 | [Birch](https://open.spotify.com/track/3dOoEWVJqCZruubyO0W0Dt) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Birch](https://open.spotify.com/album/3QRUkSveMnmFIotjK9hivL) | 1:52 | 2021-11-11 | 2022-05-20 |
 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 | 2021-11-11 |  |
 | [Bloke](https://open.spotify.com/track/10hUkqbTHRVqoNiPHq8pdi) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Butterfly Effect](https://open.spotify.com/album/7lneB2Lrh6GkVOUsvDGwtM) | 1:46 | 2021-11-11 | 2022-07-01 |
+| [Blue Paradise](https://open.spotify.com/track/65mR4MLv5dmCDc4addPpSV) | [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl), [Maxgonz](https://open.spotify.com/artist/5tqEVMpVVTtvK0AryNVoZY) | [Blue Paradise](https://open.spotify.com/album/4eaKY0gsrBcV8zbL2WOxKk) | 4:12 | 2022-08-05 |  |
 | [Bongo](https://open.spotify.com/track/1GAfF3ySbJ75jmgtHIxg2o) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Bongo](https://open.spotify.com/album/6LXfeDzhuHOlZi4yKZxCPy) | 2:26 | 2022-06-24 |  |
 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 | 2021-11-11 |  |
 | [bread & wine](https://open.spotify.com/track/53ycakt4shH4wnZveJnagh) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [bread & wine](https://open.spotify.com/album/5aA70VXMAqXyuMUhZO65vZ) | 1:56 | 2021-11-11 |  |
@@ -156,6 +158,7 @@
 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 | 2022-07-15 |  |
 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 | 2021-11-11 | 2022-06-10 |
 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 | 2021-11-11 |  |
+| [Lush Lush Lake](https://open.spotify.com/track/0Dl6gERwFQMIEl2br6Dmcn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Lush Lush Lake](https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB) | 2:27 | 2022-08-05 |  |
 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 | 2021-11-11 |  |
 | [Matalí](https://open.spotify.com/track/0k1wqWrjOvG1xt9kMVQcKp) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Matalí](https://open.spotify.com/album/0AYDa7YRH3Zh4jSzKgClEV) | 2:26 | 2022-07-29 |  |
 | [Matalí](https://open.spotify.com/track/26trHnnPcMZIFpG9BJdsbw) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Matalí](https://open.spotify.com/album/3yAqPvzt8wYKMCCS2qvmic) | 2:26 | 2021-11-11 | 2022-07-29 |
@@ -257,6 +260,7 @@
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2021-11-11 | 2022-07-22 |
 | [That Strange Reminder](https://open.spotify.com/track/6a5zV8gf5eSgLaajCTP4cN) | [Emilioats](https://open.spotify.com/artist/0eQrkyv90qExbZcrazhnH4) | [That Strange Reminder](https://open.spotify.com/album/2N3NpgI7nvY4mq92opKPoj) | 2:32 | 2022-04-22 |  |
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2021-11-11 |  |
+| [The Love Pool](https://open.spotify.com/track/0S4I0Y3T6DiQFbF7Mh9TZl) | [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl), [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7) | [The Love Pool](https://open.spotify.com/album/4Y8QUPvEtBLx6nJ2R0aU7z) | 3:12 | 2022-08-05 |  |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2021-11-11 | 2022-05-27 |
 | [The Package Deal](https://open.spotify.com/track/4pNLT2LaDsj5jnW4DuPHlf) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Humidity](https://open.spotify.com/album/1VYKpdugWpXoVVMoGRMW83) | 2:42 | 2021-11-11 | 2022-05-20 |
 | [The Pappas](https://open.spotify.com/track/0n7UVP6hEStbS96Uugnyzs) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Abracadabra](https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I) | 3:44 | 2021-11-11 |  |

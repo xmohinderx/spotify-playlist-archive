@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a Kevin Kaarl, nuestro artista Radar!",
-  "num_followers": 58736,
+  "num_followers": 58748,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMzMDAwMCwwMDAwMDAwMGU1MDRkNmJiNjhlZWQ2ZWIzMTM4NGYwMDdiNTRiYzAz",
+  "snapshot_id": "MTY1OTMzMDAwMCwwMDAwMDAwMGY1ZDA4YzhiMjNiYWVmYzgxZGMyZTBhMDgzZmViYWIz",
   "tracks": [
     {
       "added_at": "2022-08-01 05:00:00",
@@ -499,26 +499,18 @@
     {
       "added_at": "2022-06-07 05:00:00",
       "album": {
-        "name": "Mala Man\u00eda",
-        "url": "https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs"
+        "name": "Y Te Lo Digo Yo",
+        "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
       },
       "artists": [
         {
           "name": "Nicole Favre",
           "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        },
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 203893,
-      "name": "Mala Man\u00eda",
-      "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
+      "duration_ms": 137400,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
     },
     {
       "added_at": "2022-06-03 15:10:16",
@@ -583,22 +575,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
       },
@@ -619,6 +595,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Que Si Fumo Tanto",
         "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
       },
@@ -635,18 +627,26 @@
     {
       "added_at": "2022-06-07 05:00:00",
       "album": {
-        "name": "Y Te Lo Digo Yo",
-        "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
+        "name": "Mala Man\u00eda",
+        "url": "https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs"
       },
       "artists": [
         {
           "name": "Nicole Favre",
           "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
+      "duration_ms": 203893,
+      "name": "Mala Man\u00eda",
+      "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/4Hsp0FRXibfhCQwKkSGTdV"
     },
     {
+      "added_at": "2022-06-03 15:10:16",
+      "album": {
+        "name": "Hoy Todo Bien",
+        "url": "https://open.spotify.com/album/53n3wiMWTdEr2Hb11o6xq9"
+      },
+      "artists": [
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Hoy Todo Bien",
+      "url": "https://open.spotify.com/track/52YLbg0k9SzmW8R6EYWyyd"
+    },
+    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Caf\u00e9 Conmigo",
@@ -747,6 +763,22 @@
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Tumbando Avi\u00f3n",
+        "url": "https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tumbando Avi\u00f3n",
+      "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -767,38 +799,6 @@
       "duration_ms": 183997,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Tumbando Avi\u00f3n",
-        "url": "https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tumbando Avi\u00f3n",
-      "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
-    },
-    {
-      "added_at": "2022-06-03 15:10:16",
-      "album": {
-        "name": "Hoy Todo Bien",
-        "url": "https://open.spotify.com/album/53n3wiMWTdEr2Hb11o6xq9"
-      },
-      "artists": [
-        {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Hoy Todo Bien",
-      "url": "https://open.spotify.com/track/52YLbg0k9SzmW8R6EYWyyd"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "SESENTAYNUEVE",
         "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
       },
@@ -891,18 +875,34 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 150441,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Entes",
+        "url": "https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA"
+      },
+      "artists": [
+        {
+          "name": "Elie Tigre",
+          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Entes",
+      "url": "https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: KIM JAE HWAN\(김재환\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
+> Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: Kim MinSeok\(김민석\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-315 songs - 20 hr 42 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
+316 songs - 20 hr 47 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2021-12-20 | 2022-04-18 |
 | [Dear](https://open.spotify.com/track/5xUDsNJKebll4g40mGcnPl) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Dear](https://open.spotify.com/album/20YuFf31mUzKLlcKTAGEV5) | 5:19 | 2021-12-20 | 2022-07-28 |
 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 | 2022-04-21 |  |
-| [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 |  |
+| [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 | 2022-08-05 |
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-03 | 2022-05-12 |
 | [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 | 2021-12-20 | 2022-07-27 |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-29 | 2022-04-21 |
@@ -100,6 +100,7 @@
 | [Go Back](https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Go Back](https://open.spotify.com/album/5LZW8K0fStxs9cq1n22dfc) | 4:48 | 2021-12-20 | 2022-07-23 |
 | [Good Night](https://open.spotify.com/track/18kTKLRPL9dDPIWl1DZfOw) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Good Night](https://open.spotify.com/album/5lfQVkbfDVpa03b6QQj8Ae) | 3:33 | 2022-03-29 | 2022-04-20 |
 | [GOOD NIGHT](https://open.spotify.com/track/32hbPCkIeNNB0b6Oo01lSe) | [Oh Yeon Joon](https://open.spotify.com/artist/2OMtU3jMBn85TzviTIYU3l) | [GOOD NIGHT](https://open.spotify.com/album/3CAZwLl76ub8rpGURvPdiI) | 3:40 | 2021-12-20 | 2022-06-10 |
+| [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2022-08-04 |  |
 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 | 2021-12-20 |  |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 |  |
 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-07-07 | 2022-07-13 |

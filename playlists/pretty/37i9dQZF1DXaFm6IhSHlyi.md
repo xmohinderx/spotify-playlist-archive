@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,717 likes - 150 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,749 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,9 +118,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 108 | [Benar Cinta](https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Aldy Maldini](https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh) | [Benar Cinta](https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv) | 3:59 |
 | 109 | [未開封の恋](https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Crying memories](https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt) | 3:39 |
 | 110 | [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 |
-| 111 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
-| 112 | [Te quiero \- Versión 2019](https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Te quiero \(Versión 2019\)](https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ) | 3:50 |
-| 113 | [Right There](https://open.spotify.com/track/6pVbMjJCMwjSR2xRrqBdkJ) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/0y5z24xqxgZtoUuTwDchVB) | 3:59 |
+| 111 | [Right There](https://open.spotify.com/track/6pVbMjJCMwjSR2xRrqBdkJ) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/0y5z24xqxgZtoUuTwDchVB) | 3:59 |
+| 112 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
+| 113 | [Te quiero \- Versión 2019](https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Te quiero \(Versión 2019\)](https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ) | 3:50 |
 | 114 | [Ohebbou Yadayka](https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ohebbou Yadayka](https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly) | 3:46 |
 | 115 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
 | 116 | [Sorry \- Live](https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD) | 3:24 |
@@ -145,12 +145,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 135 | [Lovely Sweet Heart](https://open.spotify.com/track/3Ru7GYzdKtG9JOl9fVIj1C) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Sugar Man 3, EPISODE.11](https://open.spotify.com/album/6E3zHGgsITcUSZqgcYL48J) | 5:07 |
 | 136 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 137 | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN) | 4:32 |
-| 138 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 |
-| 139 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
-| 140 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
+| 138 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
+| 139 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 |
+| 140 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
 | 141 | [I Miss You](https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [I Miss You](https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P) | 4:11 |
-| 142 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
-| 143 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
+| 142 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
+| 143 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
 | 144 | [The Everyday Bit](https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Burnout](https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ) | 3:07 |
 | 145 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 | 146 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [Forever And Ever](https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Forever And Ever](https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o) | 3:11 |
 | 150 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
 
-Snapshot ID: `MTY1ODM5MDA0MywwMDAwMDAwMGI2NDA1MzQyZDVmOTdmNjQyYjEyOTM4N2QwODYzY2U0`
+Snapshot ID: `MTY1ODM5MDA0MywwMDAwMDAwMDMyZTRiMDBkZmE2NTEyMzNiZmUyNzhmOGZjY2VjNWY3`

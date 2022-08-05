@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\.  Cover: Brett Eldredge
 
-179 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/4Obyr7GsNC8q59bOekRAcO)
+180 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/4Obyr7GsNC8q59bOekRAcO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 | 2021-12-16 |  |
 | [There's A New Kid In Town \- From The Vault](https://open.spotify.com/track/0wDsBScGjc2Z2pa4Y9uxoE) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [There's A New Kid In Town \(From The Vault\)](https://open.spotify.com/album/1iuVjK5OytFDzP6HqluQQv) | 3:45 | 2021-12-16 |  |
 | [This Christmas](https://open.spotify.com/track/6u0tR14iJ6OS3NyeRhcG2M) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 3:32 | 2021-12-16 |  |
-| [This Christmas](https://open.spotify.com/track/2JYmQXH4uKDonYvITIGjvl) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [This Christmas](https://open.spotify.com/album/7L9zj3IrPXIIj5OZA77TZx) | 3:26 | 2021-12-16 |  |
+| [This Christmas](https://open.spotify.com/track/2JYmQXH4uKDonYvITIGjvl) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [This Christmas](https://open.spotify.com/album/7L9zj3IrPXIIj5OZA77TZx) | 3:26 | 2021-12-16 | 2022-08-05 |
+| [This Christmas](https://open.spotify.com/track/641ODRLX1Mq1cOB9P0cBcz) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [This Christmas](https://open.spotify.com/album/6LwBtWz865RO1FsEt7ZJhV) | 3:26 | 2021-12-16 |  |
 | [Under The Mistletoe](https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Under The Mistletoe](https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U) | 3:45 | 2021-12-16 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/2WBfmxOXnDxcm7sZOE5dSE) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [What Christmas Means to Me](https://open.spotify.com/album/1wqKDHvJ8JkfRcCETLPw4c) | 2:36 | 2021-12-16 |  |
 | [What Does Christmas Mean \(feat\. The Shindellas\)](https://open.spotify.com/track/5zbEjhZhGcxXXUPePYdwXQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [The Shindellas](https://open.spotify.com/artist/2ymLCgoeNHbhPDwMb3N3iQ) | [What Does Christmas Mean \(feat\. The Shindellas\)](https://open.spotify.com/album/3PIwQpIPs4FziyUcmsT9ZW) | 3:58 | 2021-12-16 |  |

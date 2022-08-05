@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,592 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,607 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 62 | [All You Need Is Love](https://open.spotify.com/track/5zqJlEJcn0EfnvAScH8swK) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 3:46 |
 | 63 | [I Heard It Through The Grapevine](https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 3:16 |
 | 64 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
-| 65 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
-| 66 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
+| 65 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
+| 66 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
 | 67 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
 | 68 | [Os Alquimistas Estão Chegando Os Alquimistas](https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:15 |
 | 69 | [João E Maria](https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico 50 Anos \- O Trovador](https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV) | 2:21 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 87 | [Azul](https://open.spotify.com/track/6G9ZBD209DRFToSC8AEW1d) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:43 |
 | 88 | [A Grande Família](https://open.spotify.com/track/1JtxEMmDhKzA7QRZE1ISNP) | [Dudu Nobre](https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD) | [Moleque Dudu](https://open.spotify.com/album/7qbifdalLtBeQvvuMupelk) | 2:48 |
 | 89 | [Divino Maravilhoso](https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 4:20 |
-| 90 | [Sá Marina](https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Retratos](https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA) | 3:21 |
-| 91 | [Quando Você Passa \(Turu Turu\) \- Ao Vivo](https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 3:42 |
+| 90 | [Quando Você Passa \(Turu Turu\) \- Ao Vivo](https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 3:42 |
+| 91 | [Sá Marina](https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Retratos](https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA) | 3:21 |
 | 92 | [O Mar Serenou](https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 2:59 |
 | 93 | [Vapor Barato](https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM) | [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg) | [O Que Faço É Musica](https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA) | 5:04 |
 | 94 | [Nao Identificado](https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:18 |
 | 95 | [Quem Sabe Isso Quer Dizer Amor](https://open.spotify.com/track/05Cm3WMV0Bald8zi0oSptv) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Quem Sabe Isso Quer Dizer Amor](https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU) | 3:36 |
 | 96 | [Odara \- Remix](https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Bicho](https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV) | 7:16 |
 | 97 | [Tiro Ao Álvaro](https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Elis Regina](https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC) | 2:42 |
-| 98 | [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 |
-| 99 | [Era Uma Vez \- Ao Vivo](https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 1:28 |
+| 98 | [Era Uma Vez \- Ao Vivo](https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 1:28 |
+| 99 | [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 |
 | 100 | [Negro Gato](https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo), [Renato e Seus Blue Caps](https://open.spotify.com/artist/27hFv7JqcDVyqgaCvLHpy7), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Leno](https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G), [Golden Boys](https://open.spotify.com/artist/6e90eYChXG3b8PbkAPcPcn), [Jerry Adriani](https://open.spotify.com/artist/5OBXrPtAgpRVJgua6rgbs6), [Almir](https://open.spotify.com/artist/73Op2gKQknruMmIuzlJoc3) | [Jovem Guarda \- O Pulo Do Negro Gato](https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF) | 4:11 |
 
-Snapshot ID: `MTY1NDYxMzEyOCwwMDAwMDAwMGY2MmM1MTM4MTgzOTI2ZGEyZjkxOTJhM2Q2MDA4ZWJj`
+Snapshot ID: `MTY1NDYxMzEyOCwwMDAwMDAwMDYyZWZjZjRhODA4MGE2NzBjZDAxMTdkNWU0NTIxNDY3`

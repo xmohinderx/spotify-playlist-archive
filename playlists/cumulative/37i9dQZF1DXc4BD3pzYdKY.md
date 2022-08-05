@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: nobigdyl.
 
-586 songs - 1 day 5 hr 39 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+587 songs - 1 day 5 hr 42 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [CATFISH](https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CATFISH](https://open.spotify.com/album/2a9DwZ7PIgBX9sV956vyID) | 2:48 | 2022-04-29 |  |
 | [Caught Up](https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Caught Up](https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl) | 2:20 | 2022-04-29 | 2022-07-26 |
 | [CECE](https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [CECE](https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH) | 2:22 | 2022-05-28 |  |
-| [CELEBRATE](https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ) | [CELEBRATE](https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3) | 3:44 | 2022-05-28 |  |
+| [CELEBRATE](https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ) | [CELEBRATE](https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3) | 3:44 | 2022-05-28 | 2022-08-05 |
 | [CEMENT](https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [CEMENT](https://open.spotify.com/album/53vr8FfzSeDiHXkQSiPRy0) | 2:33 | 2022-05-28 |  |
 | [Change The Channel](https://open.spotify.com/track/5CSmjkOlfKgu2TfTkAKm0D) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Change the Channel](https://open.spotify.com/album/7BsU7piQMlUAv8MZ6IvaiW) | 4:30 | 2021-12-11 | 2022-04-28 |
 | [Changes](https://open.spotify.com/track/243S95CgXiKLn56mfqiiSD) | [Nat Lauren](https://open.spotify.com/artist/2snS4684SFSBRAB9LIvSDL), [Jay Steezy](https://open.spotify.com/artist/3dErHgSjyhYjxSp97JwAy5) | [Changes](https://open.spotify.com/album/0mdCtJs1zE9c5ejQSjCwza) | 3:06 | 2022-06-25 | 2022-07-29 |
@@ -305,6 +305,7 @@
 | [Litany Freestyle](https://open.spotify.com/track/3mLDcbNo1eVoFqqnEJ134w) | [Leon Anderson](https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV) | [Text Me For The Album](https://open.spotify.com/album/75OcgedBeynTR1ZuPCrCkd) | 2:26 | 2022-04-29 | 2022-07-28 |
 | [Litty Committee](https://open.spotify.com/track/3iPsCUOqWooKPylWgKRYLL) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Litty Committee](https://open.spotify.com/album/2XYPxbzeWx7rxBImf6qniu) | 3:00 | 2021-12-11 | 2022-02-05 |
 | [Liu Kang](https://open.spotify.com/track/7s0QYpPQzvxGm3rmPS9xb7) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Liu Kang](https://open.spotify.com/album/6Kzebxl4WfKvdWS0zZ5g9H) | 2:14 | 2022-02-04 | 2022-04-28 |
+| [look alike.](https://open.spotify.com/track/7xqPUPpZFtZGhenQ5YGtAt) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [look alike.](https://open.spotify.com/album/4FaGtg2q9SPjORmvuEGLUn) | 2:49 | 2022-07-17 |  |
 | [Look at Me Now](https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Look at Me Now](https://open.spotify.com/album/430Kd4ZOu31gytgHSIk4Jh) | 3:58 | 2022-05-28 | 2022-07-22 |
 | [Louder](https://open.spotify.com/track/0i6WcQKTVo4T8FfZMeDWRM) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Ivon](https://open.spotify.com/artist/4wUPMVFQtDYO2MvyC6ctbd), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Louder](https://open.spotify.com/album/34kOpLYCotyPufT27VRuJ0) | 2:06 | 2021-12-11 | 2022-01-13 |
 | [Love God, Love People](https://open.spotify.com/track/6ENpIrGwrmBnVIvXyLTiT3) | [JusJames](https://open.spotify.com/artist/7AGILPHsAft2UTAGpvAyDW), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [JusRzd](https://open.spotify.com/artist/1bynCWd6P3xUegmzXHDkzh) | [Love God, Love People](https://open.spotify.com/album/27uUH6mxdQYdLNkfvRN2hZ) | 3:15 | 2022-02-04 | 2022-04-28 |

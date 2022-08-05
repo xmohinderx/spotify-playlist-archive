@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 233958,
       "name": "boy",
       "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
@@ -965,6 +965,24 @@
       "duration_ms": 186000,
       "name": "First time",
       "url": "https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS"
+    },
+    {
+      "album": {
+        "name": "Marigold Tapes",
+        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209685,
+      "name": "flight",
+      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
     },
     {
       "album": {
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 223141,
       "name": "Moon, 12:04am",
       "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
@@ -2523,7 +2541,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 124913,
       "name": "the day we first met",
       "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"

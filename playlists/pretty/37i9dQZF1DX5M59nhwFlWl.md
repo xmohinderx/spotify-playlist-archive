@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 
 > That unbridled, unholy, loud and dirty 90s rock goodness you know you love
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,929 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,992 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 44 | [Cut You In](https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Boggy Depot](https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5) | 3:23 |
 | 45 | [Somebody to Shove](https://open.spotify.com/track/41TVMXb9THdtTlo2KojUDe) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 3:14 |
 | 46 | [Sheep Go To Heaven](https://open.spotify.com/track/4G8Eu3EDQZYhHPfJMFCv8V) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Prolonging the Magic](https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j) | 3:48 |
-| 47 | [Teen Angst \(What The World Needs Now\)](https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Cracker](https://open.spotify.com/album/2r1yuRwAB0kmidzNuuNmdp) | 4:14 |
-| 48 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
+| 47 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
+| 48 | [Teen Angst \(What The World Needs Now\)](https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Cracker](https://open.spotify.com/album/2r1yuRwAB0kmidzNuuNmdp) | 4:14 |
 | 49 | [I Got A Girl](https://open.spotify.com/track/5fxfwjQ1OmbnkOlg39HsSO) | [Tripping Daisy](https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk) | [I Am An Elastic Firecracker](https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5) | 4:05 |
 | 50 | [Super Bon Bon](https://open.spotify.com/track/1njobA8NxcOtPIbLdrip0T) | [Soul Coughing](https://open.spotify.com/artist/5TOosZsVbwb5O1BOFdcLmw) | [Irresistible Bliss](https://open.spotify.com/album/5nMVmu0FpBX3PpVFR0n5Dj) | 3:31 |
 
-Snapshot ID: `MTY1NjUyNzY4MCwwMDAwMDAwMDJiNzAzMDZkOTgxNGU4MmU0NWQ3YThjZDJiN2UyYzNm`
+Snapshot ID: `MTY1NjUyNzY4MCwwMDAwMDAwMGU4MDFkZGJkYjYyM2IzY2U3YzlmNzA3YWVmN2U0MDk5`

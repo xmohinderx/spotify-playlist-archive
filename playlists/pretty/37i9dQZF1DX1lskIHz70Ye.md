@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,063 likes - 79 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,091 likes - 79 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 78 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 |
 | 79 | [Karleken \(arr\. for guitar and double bass\): Kärleken](https://open.spotify.com/track/7076W3oIAwyydfx4WMU5sJ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/69YsaSWpIzKGe85DuTtKw2) | 4:16 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDg0Yjk5ZjU0NGYwMzQ4MTljZjdjZjU5MjUzZjNhMzBi`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMGMxYTM0MmM4NjVhMjkzNTZiY2I5ODc4MzY3MTlmYjVj`

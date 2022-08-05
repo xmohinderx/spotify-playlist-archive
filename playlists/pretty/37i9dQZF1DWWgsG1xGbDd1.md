@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,915 likes - 24 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,019 likes - 24 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 6 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
 | 7 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 8 | [Never Give Your Heart Away](https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi) | 3:05 |
-| 9 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
+| 9 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
 | 10 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
-| 11 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
+| 11 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
 | 12 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S) | 4:10 |
 | 13 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
 | 14 | [Jah Jah Go Before Us](https://open.spotify.com/track/1R0XkmUBzSOqiWV8XSZ1if) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Presenting The Gladiators](https://open.spotify.com/album/6inbtfHKcxOyAAOqkzw7di) | 2:41 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 23 | [So Much Things To Say](https://open.spotify.com/track/2RiOvJpzM1IsxZNLlCBqIM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:08 |
 | 24 | [Kinky Reggae \- Original Album Version](https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDhkODRkMjlhZjczNTY1ZDQ1Njg3OGQ5OTdiMjI5N2I1`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMGMyMTcyZmZlN2Y0YjBlMWY1YjI3NzQ3ZTdjYmU4MmMx`

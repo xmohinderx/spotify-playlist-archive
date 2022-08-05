@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen\. En portada: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,013 likes - 48 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,015 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 4 | [FBI](https://open.spotify.com/track/7Cb7KptiBrbDHaKKFN6iAn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:24 |
 | 5 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 |
 | 6 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 |
-| 7 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
+| 7 | [Brand New City](https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:12 |
 | 8 | [Dualidad](https://open.spotify.com/track/73fEAatuIG7pWfTUHC8Ood) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Dualidad](https://open.spotify.com/album/7B2B1gWf8uxlM75gnxCXtO) | 3:29 |
-| 9 | [I Disagree](https://open.spotify.com/track/5E09pgezFesGrk4ZL9T2cc) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:13 |
-| 10 | [Brand New City](https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:12 |
+| 9 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
+| 10 | [I Disagree](https://open.spotify.com/track/5E09pgezFesGrk4ZL9T2cc) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:13 |
 | 11 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 |
 | 12 | [MONEY](https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:14 |
 | 13 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 38 | [C'est Pas Moi](https://open.spotify.com/track/3ACO1KEw9UqlHQOvJ2DeHs) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/1lVmQ8Kz0ORsjDIqOilw9O) | 3:26 |
 | 39 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 | 40 | [Casa de Naipes](https://open.spotify.com/track/0r75WOh3GTWVF1ZEUcqezo) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Casa de Naipes](https://open.spotify.com/album/4Y7A6pBHZmMPgXP5stE4Th) | 3:17 |
-| 41 | [Boni Naitó](https://open.spotify.com/track/0RJCShociFRKy8aP9szGKz) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 4:43 |
+| 41 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 42 | [Gardenia Dreams](https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:02 |
-| 43 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 |
-| 44 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
+| 43 | [Boni Naitó](https://open.spotify.com/track/0RJCShociFRKy8aP9szGKz) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 4:43 |
+| 44 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 |
 | 45 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
-| 46 | [¿Dónde Está el Verano?](https://open.spotify.com/track/07aNQbzFLsuYfe7ABT5A9D) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 3:11 |
-| 47 | [Odio la Prepa](https://open.spotify.com/track/23MIUBh3IYTeWk76uL2XEh) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Odio la Prepa](https://open.spotify.com/album/0rgkiz47JbMVPhYyjPyG9s) | 1:12 |
-| 48 | [Golden Child](https://open.spotify.com/track/7FTbo2T1yZrn6EoSgy0eWT) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Immortelle](https://open.spotify.com/album/1J8qyiuSQ0LvDELnkvbEje) | 4:41 |
+| 46 | [Odio la Prepa](https://open.spotify.com/track/23MIUBh3IYTeWk76uL2XEh) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Odio la Prepa](https://open.spotify.com/album/0rgkiz47JbMVPhYyjPyG9s) | 1:12 |
+| 47 | [Golden Child](https://open.spotify.com/track/7FTbo2T1yZrn6EoSgy0eWT) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Immortelle](https://open.spotify.com/album/1J8qyiuSQ0LvDELnkvbEje) | 4:41 |
+| 48 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 |
 
-Snapshot ID: `MTY1OTUwMDI4OCwwMDAwMDAwMDc0NDIwNTZiYzBmMTFiZGNmMDVkZWE5MTFiNTc4ZjZi`
+Snapshot ID: `MTY1OTUwMDI4OCwwMDAwMDAwMGU3OTg3OGQxMTM3MzJiNWVkNzY0NzQ4NTc2ZWRhNjU4`

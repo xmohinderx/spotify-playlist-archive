@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,079 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,118 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 21 | [Azara Alhai](https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Sudaniyat](https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5) | 6:27 |
 | 22 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
 | 23 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
-| 24 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
+| 24 | [أبوي الشيخ](https://open.spotify.com/track/2MWqdeZ3ZOtGJfyk2l2zhw) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أبوي الشيخ](https://open.spotify.com/album/0XpBJBDh0CE3lWPhFeO5kJ) | 3:02 |
 | 25 | [MaMuhim](https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [MaMuhim](https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1) | 3:43 |
-| 26 | [أبوي الشيخ](https://open.spotify.com/track/2MWqdeZ3ZOtGJfyk2l2zhw) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أبوي الشيخ](https://open.spotify.com/album/0XpBJBDh0CE3lWPhFeO5kJ) | 3:02 |
+| 26 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
 | 27 | [Asly](https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd), [Eaz Da Bully](https://open.spotify.com/artist/2lGPSSDGEuGfpakifE8kbp) | [Asly](https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx) | 3:24 |
 | 28 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 |
 | 29 | [Taban Ahwak](https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 6:31 |
-| 30 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 |
-| 31 | [النار ولعت](https://open.spotify.com/track/2mvK1TlgqapzTkPoYnv7Px) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت](https://open.spotify.com/album/46sQoHYjvUTY36S6zb2Iy0) | 1:19 |
+| 30 | [النار ولعت](https://open.spotify.com/track/2mvK1TlgqapzTkPoYnv7Px) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت](https://open.spotify.com/album/46sQoHYjvUTY36S6zb2Iy0) | 1:19 |
+| 31 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 |
 | 32 | [Argos Farfish](https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:38 |
 | 33 | [Blue \- COLORS Sudan](https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1) | 2:46 |
 | 34 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 49 | [Waraga](https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [O'd the EP](https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I) | 5:13 |
 | 50 | [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 |
 
-Snapshot ID: `MTY1OTExMDAwMiwwMDAwMDAwMGE4MTM4YWU3NTVkYWYwZjU2MmY2NjJiYzAwZWFkNTU1`
+Snapshot ID: `MTY1OTY0NzU1NiwwMDAwMDAwMDU2YTQyNWExNmEwMDJlY2I5ZWFlODY4NmY3NjI2N2Q0`

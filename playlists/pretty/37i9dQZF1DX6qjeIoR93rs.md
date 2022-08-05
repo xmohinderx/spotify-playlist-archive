@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,836 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,863 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 34 | [Don't Care Where You From](https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 4:23 |
 | 35 | [بعده فيي روح](https://open.spotify.com/track/50nQfig1MXSz66GHJflQMq) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [بعده فيي روح](https://open.spotify.com/album/6fe5pvtNjQfAKLqpy2fcqi) | 3:08 |
 | 36 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
-| 37 | [Take me to Palestine](https://open.spotify.com/track/5uVfYfPcRNWeEDoTQytLWi) | [El\-Funoun Palestinian Popular Dance Troupe](https://open.spotify.com/artist/6VH1HRNwtjHE2txVKksXtm) | [Zajel](https://open.spotify.com/album/7n96wcZ7T4BfLEq3IK7ONq) | 4:10 |
+| 37 | [Long Live Palestine 3](https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r) | [Lowkey](https://open.spotify.com/artist/7lNJ1ZVAHcx6V4HqC68xRY), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Frankie Boyle](https://open.spotify.com/artist/7okniEZkjEUIZXNpsVKjI1), [Ken Loach](https://open.spotify.com/artist/6W66JbzBvKpYs75Ul4pw5L), [Chakabars](https://open.spotify.com/artist/6e2pNGkBvvdl107bXjnrZ9), [Khāled Siddīq](https://open.spotify.com/artist/2XYgHUbsmab6VT4a3FF9mX), [Mai Khalil](https://open.spotify.com/artist/5IjaZgpaSsPqSk9xVhyAk3) | [Soundtrack to the Struggle 2](https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu) | 5:17 |
 | 38 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
-| 39 | [Long Live Palestine 3](https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r) | [Lowkey](https://open.spotify.com/artist/7lNJ1ZVAHcx6V4HqC68xRY), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Frankie Boyle](https://open.spotify.com/artist/7okniEZkjEUIZXNpsVKjI1), [Ken Loach](https://open.spotify.com/artist/6W66JbzBvKpYs75Ul4pw5L), [Chakabars](https://open.spotify.com/artist/6e2pNGkBvvdl107bXjnrZ9), [Khāled Siddīq](https://open.spotify.com/artist/2XYgHUbsmab6VT4a3FF9mX), [Mai Khalil](https://open.spotify.com/artist/5IjaZgpaSsPqSk9xVhyAk3) | [Soundtrack to the Struggle 2](https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu) | 5:17 |
-| 40 | [Maskhara](https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Maskhara](https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd) | 3:06 |
+| 39 | [Maskhara](https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Maskhara](https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd) | 3:06 |
+| 40 | [Take me to Palestine](https://open.spotify.com/track/5uVfYfPcRNWeEDoTQytLWi) | [El\-Funoun Palestinian Popular Dance Troupe](https://open.spotify.com/artist/6VH1HRNwtjHE2txVKksXtm) | [Zajel](https://open.spotify.com/album/7n96wcZ7T4BfLEq3IK7ONq) | 4:10 |
 | 41 | [ميدلي فلسطيني](https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt) | [فرقة زمن](https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn) | [بطلتي الي](https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b) | 3:48 |
 | 42 | [عكا على راسي](https://open.spotify.com/track/5RJFhCCbiHx7GdaCiHIIYf) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 3:46 |
 | 43 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 62 | [Palestine](https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW) | [Ministry Of Dubkey](https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU) | [Palestine](https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl) | 1:21 |
 | 63 | [يا منجنيق](https://open.spotify.com/track/3OcsroxTDUzBDTo3xOQQqp) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/5W6qkrXenVMs0caeUqL8Z2) | 3:05 |
 | 64 | [NAS](https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [NAS](https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz) | 5:26 |
-| 65 | [فلسطين](https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI) | [ناس الغيوان](https://open.spotify.com/artist/6Wl0ccueyChXBHOjvcbL2k) | [Le meilleur, vol.1](https://open.spotify.com/album/7s3nuAyok865QigeowkopM) | 6:23 |
-| 66 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
+| 65 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
+| 66 | [فلسطين](https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI) | [ناس الغيوان](https://open.spotify.com/artist/6Wl0ccueyChXBHOjvcbL2k) | [Le meilleur, vol.1](https://open.spotify.com/album/7s3nuAyok865QigeowkopM) | 6:23 |
 | 67 | [Sobo El Gahwa](https://open.spotify.com/track/2uegTlle9p16rqdeYroYET) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X), [Faten Shafeq Kabaha](https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK) | [Sobo El Gahwa](https://open.spotify.com/album/5vK57QEuynqaQYHuiGuNoM) | 4:20 |
 | 68 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
 | 69 | [BEL7AFLI](https://open.spotify.com/track/0YI7Z8BjqsYsySjD3qpOkK) | [EL X الإكس](https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP), [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz) | [BEL7AFLI](https://open.spotify.com/album/1e2VKrq3Pt8TLflBCJLeEs) | 2:46 |
 | 70 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
 
-Snapshot ID: `MTY1ODI0NzEwOCwwMDAwMDAwMGQyMTllZDcyYjAxMWJjYWJiYzdkZWRiODY0YjkzZTVk`
+Snapshot ID: `MTY1ODI0NzEwOCwwMDAwMDAwMGIzNDRjMTczYTY3YWM3ZGY1ZjJlYzFjNzExNTE5ZGZj`

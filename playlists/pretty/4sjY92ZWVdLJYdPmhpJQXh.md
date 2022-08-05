@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,793 likes - 179 songs - 9 hr 26 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,791 likes - 179 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 150 | [Step Mom](https://open.spotify.com/track/33yL9mCGvvVCjLKCZsnm1w) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Step Mom](https://open.spotify.com/album/6KTdmgQ3PwBVgZfc6j2R8I) | 3:34 |
 | 151 | [Keep Doing You](https://open.spotify.com/track/600c9fa5VOpRrtCFMLeEur) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV) | [Out the District](https://open.spotify.com/album/0pW40GOuTipd4rAmPhfqi8) | 3:01 |
 | 152 | [supposed to be](https://open.spotify.com/track/0i51PqCVTzIUmCzpbs9vwk) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:11 |
-| 153 | [Sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [Sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 |
+| 153 | [sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 |
 | 154 | [Don’t Be A Hero](https://open.spotify.com/track/1z4Drt5NPoDom7DrtulyZ6) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Don’t Be A Hero](https://open.spotify.com/album/5yOQsrhMwlGln8nOCGLXgS) | 3:02 |
 | 155 | [A Memory Away](https://open.spotify.com/track/38Oho2Ycl7SCjEBr83qzyV) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [A Memory Away](https://open.spotify.com/album/5GfFGaxHa3h2YMjorHYNG8) | 3:52 |
 | 156 | [Placeholder](https://open.spotify.com/track/2mZhWoguUqZTivAnSmlBUE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Placeholder](https://open.spotify.com/album/0fjn5aDzYjBnWctsHplKAG) | 2:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > those songs that make you feel like you're levitating\. Cover: Webb’s First Deep Field, galaxy cluster SMACS 0723\. Credit: NASA, ESA, CSA, STScI
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,880 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,368 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

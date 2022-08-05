@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,449 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,453 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,211 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,229 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 20 | [Stimela Sasezola](https://open.spotify.com/track/26UCZAfUYfAsE25ls7gS1m) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/3uuvZpYJEHZIiAgE3E51AI) | 5:10 |
 | 21 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 |
 | 22 | [She Always Gets What She Wants](https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [All or Nothing](https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA) | 3:44 |
-| 23 | [Ngeke Ndiphinde](https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [The Beginning](https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er) | 4:00 |
-| 24 | [Nomvula](https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A) | 4:37 |
+| 23 | [Nomvula](https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A) | 4:37 |
+| 24 | [Ngeke Ndiphinde](https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [The Beginning](https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er) | 4:00 |
 | 25 | [Live My Life](https://open.spotify.com/track/0Gns4jfIHrtpxTn9RGK0mM) | [Winnie Khumalo](https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o) | [Just Wanna Live My Life](https://open.spotify.com/album/5oiXqZA8I7QEztd0lgfcXd) | 5:17 |
 | 26 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
 | 27 | [Township Funk](https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi) | 5:49 |
@@ -40,21 +40,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 30 | [Loliwe](https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Loliwe](https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0) | 4:32 |
 | 31 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
 | 32 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
-| 33 | [Kortes \(Kasi Luv\)](https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g) | 5:01 |
-| 34 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
+| 33 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
+| 34 | [Kortes \(Kasi Luv\)](https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g) | 5:01 |
 | 35 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
-| 36 | [How Do You Feel](https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 5:06 |
+| 36 | [Ingoma](https://open.spotify.com/track/6AohFdqxAVO7xCpLTuHVvd) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/1lLexWslJpsjdF75f9IviG) | 6:12 |
 | 37 | [Heavenly Sent](https://open.spotify.com/track/0fciLuddpz37OtcxZZ8ixg) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/1IRqLL1Bsaz158w1DkqpwJ) | 6:27 |
-| 38 | [Ingoma](https://open.spotify.com/track/6AohFdqxAVO7xCpLTuHVvd) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/1lLexWslJpsjdF75f9IviG) | 6:12 |
+| 38 | [How Do You Feel](https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 5:06 |
 | 39 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 |
 | 40 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
 | 41 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
 | 42 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
-| 43 | [Where I Wanna Be](https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj) | [Mina Nawe](https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0) | [Njalo](https://open.spotify.com/album/2c0QIpMZq8E0lupodMSBJT) | 4:23 |
-| 44 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
+| 43 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
+| 44 | [Where I Wanna Be](https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj) | [Mina Nawe](https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0) | [Njalo](https://open.spotify.com/album/2c0QIpMZq8E0lupodMSBJT) | 4:23 |
 | 45 | [Bengim'ngaka](https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:15 |
-| 46 | [The Way Kungakhona](https://open.spotify.com/track/05Q9XpYvVBvOMjebS7POqm) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Bongolution](https://open.spotify.com/album/4da1pBU7ZAd1INKbWOxkii) | 6:24 |
-| 47 | [Impi](https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc) | [Johnny Clegg & Juluka](https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q), [Sipho Mchunu](https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc) | [African Litany](https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t) | 4:45 |
+| 46 | [Impi](https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc) | [Johnny Clegg & Juluka](https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q), [Sipho Mchunu](https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc) | [African Litany](https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t) | 4:45 |
+| 47 | [The Way Kungakhona](https://open.spotify.com/track/05Q9XpYvVBvOMjebS7POqm) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Bongolution](https://open.spotify.com/album/4da1pBU7ZAd1INKbWOxkii) | 6:24 |
 | 48 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 49 | [Burn Out](https://open.spotify.com/track/1wzXBdFFWIOEKzVG9JmbEm) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/19uCaDMs2fpsvwG5eMqaFG) | 4:54 |
 | 50 | [Y\-Tjukuja](https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb) | [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [DJ Bucks](https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J) | [Our Father](https://open.spotify.com/album/0OoSrujq3IhCnsd8Et9ktL) | 5:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 60 | [Thula Mama](https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM) | [Sibongile Khumalo](https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI) | [Ancient Evening](https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT) | 4:06 |
 
-Snapshot ID: `MTYyNDc2ODE3MCwwMDAwMDAwMGE1NjA3MjBlODkxY2VhNDQ0NzE5ZmE5NGQwMDFmYmYx`
+Snapshot ID: `MTYyNDc2ODE3MCwwMDAwMDAwMDlmZTc4NjFkZDcxMjc4ZTYwYWI2OWI0Mzg5ZjE3ZjE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,558 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,624 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 18 | [Full Extreme](https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e) | [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Full Extreme](https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj) | 3:52 |
 | 19 | [Ragga Ragga](https://open.spotify.com/track/2CZLoo5bi0W2GdMsyP79Ei) | [Red Plastic Bag](https://open.spotify.com/artist/4NkT7aguznCxEThCoGDX1L), [Mac Fingall](https://open.spotify.com/artist/2lpMOrBgegh76K8t1QjiLu) | [Happiness](https://open.spotify.com/album/70bEQRQLzoid7LAE4iWwfz) | 5:37 |
 | 20 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
-| 21 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
-| 22 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 21 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 22 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
 | 23 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 24 | [Body Water](https://open.spotify.com/track/3LKnTJqisnDLNzaMBIxwCg) | [Mini Priest](https://open.spotify.com/artist/7q3vqJF9tkRDwlgUiU9apb) | [Soca Gold 2005](https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf) | 3:39 |
 | 25 | [Ministry of Road \(M.O.R.\)](https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:59 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 58 | [This Is How](https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 6:04 |
 | 59 | [GLOW](https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S) | [Alison Hinds & David Rudder](https://open.spotify.com/artist/73YH3fBByh0xEhpNYLzHQO) | [D'soca Zone \- The 2ND Wine](https://open.spotify.com/album/4AxjAtUc57rivT8Z1RxApy) | 4:26 |
 | 60 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
-| 61 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
-| 62 | [Stranger](https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just for You](https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs) | 5:38 |
+| 61 | [Stranger](https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just for You](https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs) | 5:38 |
+| 62 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
 | 63 | [Wining Season \(Remix\) \(feat\. Shaggy\)](https://open.spotify.com/track/2XarXxbztfFGrFaEhdQRyy) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Wining Season](https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW) | 4:01 |
 | 64 | [Thelma](https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:15 |
 | 65 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 71 | [Ethel](https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 5:48 |
 | 72 | [Rev the Engine](https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q) | [General Grant](https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 3:54 |
 | 73 | [Doh Wine](https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 7:18 |
-| 74 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |
-| 75 | [Bitin Incex](https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Calypsoca 2002](https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs) | 4:31 |
+| 74 | [Bitin Incex](https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Calypsoca 2002](https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs) | 4:31 |
+| 75 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |
 | 76 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
 | 77 | [How You Jamming So](https://open.spotify.com/track/19Zny2UeXxXOzCGG2H1qDE) | [Mighty Sparrow](https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w) | [Soca Anthology: Dr\. Bird \- The Mighty Sparrow](https://open.spotify.com/album/43EmMT9YD02mWcOYc01bOX) | 4:41 |
 | 78 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
-| 79 | [Chances](https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP) | [Blue Ventures Feat\. Sanell Dampster](https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:51 |
-| 80 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
+| 79 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
+| 80 | [Chances](https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP) | [Blue Ventures Feat\. Sanell Dampster](https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:51 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDk4ODA1M2QwZjM0OGJlOWVjM2EzNTg3NDA2NDkwYzM4`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMGVkYzBkMDAzNGExNjY4OTFhOTJkOGEyMGY2M2M0MzZk`

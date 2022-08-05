@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul. ",
-  "num_followers": 26065,
+  "num_followers": 26141,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTUyNSwwMDAwMDAwMDFkYzEwNGRmMGYyYjFlMjMzY2ZhMTE3MTM3MzUyMDk3",
+  "snapshot_id": "MTY1OTEwNTUyNSwwMDAwMDAwMDMxODM0OGRlMDI1YTYxYjA1NThmMDc5Y2VkZGI1ZWQ4",
   "tracks": [
     {
       "added_at": "2022-07-29 14:38:45",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-07-29 14:38:45",
       "album": {
+        "name": "Chicago Blues Session Volume 3",
+        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim & The Teardrops",
+          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
+        }
+      ],
+      "duration_ms": 442346,
+      "name": "So Easy To Love You",
+      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
+    },
+    {
+      "added_at": "2022-07-29 14:38:45",
+      "album": {
         "name": "Georgia Blue",
         "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 271199,
       "name": "It's a Man's, Man\u2019s, Man\u2019s World",
       "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
-    },
-    {
-      "added_at": "2022-07-29 14:38:45",
-      "album": {
-        "name": "Chicago Blues Session Volume 3",
-        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim & The Teardrops",
-          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
-        }
-      ],
-      "duration_ms": 442346,
-      "name": "So Easy To Love You",
-      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
     },
     {
       "added_at": "2022-07-29 14:38:45",

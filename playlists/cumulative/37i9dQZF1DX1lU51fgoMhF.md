@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-271 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
+272 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-11-17 |  |
 | [Chi Mat Ba Ram+Rollin’ \- Remix](https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:47 | 2022-06-24 | 2022-07-26 |
 | [Chica](https://open.spotify.com/track/6wV0zmb3delVInoCiWdEdZ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:12 | 2021-11-17 | 2022-07-28 |
+| [Chica](https://open.spotify.com/track/7Bt5HMVKtBOC5OaE7s3tym) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:12 | 2022-08-03 |  |
 | [Colors](https://open.spotify.com/track/43THyrphAhAoeR5HEarSVn) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [SleeQ](https://open.spotify.com/artist/3CPhfKE2ZsElag2AEL2rXj) | [GOOD GIRL \(Episode 1\)](https://open.spotify.com/album/14WVrE9RjlJABxXwFCmkiw) | 3:26 | 2021-11-17 | 2022-07-24 |
 | [COME TO ME](https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:24 | 2022-07-27 |  |
 | [COME TO ME](https://open.spotify.com/track/7wHS9bv0aNojNcFkOPeVsb) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:24 | 2021-11-17 | 2022-07-17 |
@@ -141,7 +142,7 @@
 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 | 2021-11-17 |  |
 | [Lonely Night](https://open.spotify.com/track/4XU6e2GZEivyaBWMR2zePc) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [With](https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7) | 3:52 | 2021-11-17 | 2022-07-29 |
 | [Lost In Paradise](https://open.spotify.com/track/14bgyEWJENob8xPy740fLa) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Love Synonym \#1: Right for Me](https://open.spotify.com/album/4RJIJFoKSzNmYKAJWJ23R6) | 3:45 | 2022-01-09 | 2022-07-06 |
-| [Louder](https://open.spotify.com/track/4cZvTWcgPyHx2eZb0ruyX3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:59 | 2022-07-11 |  |
+| [Louder](https://open.spotify.com/track/4cZvTWcgPyHx2eZb0ruyX3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:59 | 2022-07-11 | 2022-08-05 |
 | [Love & hate \(Feat\. BIBI\)](https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:16 | 2021-11-17 | 2022-07-29 |
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-04 | 2022-07-29 |
 | [Love Is The Answer](https://open.spotify.com/track/1UkM6U6lbhA8rMJjwqpXfU) | [Hailey](https://open.spotify.com/artist/20PanKbJuxWBaa547o9Qi7) | [Love Is The Answer](https://open.spotify.com/album/47KfofKRLYHhqtFnCvmECp) | 3:14 | 2021-11-17 | 2022-07-19 |

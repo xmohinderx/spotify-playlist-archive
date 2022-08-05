@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-450 songs - 1 day 3 hr 46 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+451 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [So Bad](https://open.spotify.com/track/0q1FMCm6hZhyPomad3LQES) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [So Bad](https://open.spotify.com/album/3bmtJ18oSexsFQpbv2pvby) | 2:52 | 2021-03-27\* | 2021-04-09 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-20 |
 | [Some Nights](https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:27 | 2022-02-16 | 2022-02-18 |
+| [Somebody Else](https://open.spotify.com/track/2DwsuwDtMtZykInr8cFo1j) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Somebody Else](https://open.spotify.com/album/2ea2BnHMjIMAEupSlrYoLq) | 2:49 | 2022-08-04 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* | 2021-04-20 |
 | [Something I Don't Need](https://open.spotify.com/track/3yWMv4KSXoh1l61cAqykl1) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Outta Body靈魂出竅](https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY) | 2:54 | 2021-03-27\* | 2021-04-10 |
 | [Soufflé](https://open.spotify.com/track/4gRcYif6ToEAjERR9ogZiQ) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [Soufflé](https://open.spotify.com/album/5ymJ3Hd4Okgz5WuLQGh8jI) | 3:10 | 2021-11-13 | 2021-11-14 |
@@ -442,7 +443,7 @@
 | [遺失的靈魂 \- 《HIStory4\-近距離愛上你》LINE TV插曲](https://open.spotify.com/track/7001YxLOvP8xoXYUTnM0HB) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [遺失的靈魂 \(《HIStory4\-近距離愛上你》LINE TV插曲\)](https://open.spotify.com/album/42zsvyhU5qE8qmuiTnxQy5) | 4:01 | 2021-04-29 | 2021-05-06 |
 | [還在流浪](https://open.spotify.com/track/35xilew5nalcetOeytaDFj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-15 |  |
 | [錦囊羞澀](https://open.spotify.com/track/0WzNolKYPrN29SSe724t49) | [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq), [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6), [阿夫 Suhf](https://open.spotify.com/artist/1lIHC3tPoXBlSYQwSMoIYY), [踢萬8IG8A8Y](https://open.spotify.com/artist/1B3iAH9YqXMuW8CgnLEq8R), [緋村宗祐](https://open.spotify.com/artist/4EZWkuxEGmujVRnCjVX1bf) | [大嘻哈時代, Vol\. 2, Ep\. 4](https://open.spotify.com/album/1M0mZXKkOOddPaP6mUwpHc) | 4:58 | 2021-07-15 | 2021-08-05 |
-| [錯過的煙火](https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-15 |  |
+| [錯過的煙火](https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-15 | 2022-08-05 |
 | [错位时空 \- 治愈版](https://open.spotify.com/track/65pvMJX8rkUCyeByCHKFhj) | [小玄子](https://open.spotify.com/artist/5dneY5jm0VI7GBg0pqXTrL) | [错位时空 \(治愈版\)](https://open.spotify.com/album/4fZbtkif14aDimARvreeNT) | 3:31 | 2021-07-20 | 2021-08-24 |
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2021-12-16 | 2021-12-30 |
 | [閣愛妳一擺](https://open.spotify.com/track/07plVccQ0N6FTTTonk3c2M) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/3qpPxu0v6G5fNYe8OfslFt) | 4:38 | 2021-12-12 |  |

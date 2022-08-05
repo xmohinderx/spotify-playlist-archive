@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,065 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,141 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 41 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
 | 42 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 |
 | 43 | [Blue Jean Blues](https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rancho Texicano: The Very Best of ZZ Top](https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k) | 4:39 |
-| 44 | [It's a Man's, Man’s, Man’s World](https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Georgia Blue](https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV) | 4:31 |
-| 45 | [So Easy To Love You](https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15) | [Magic Slim & The Teardrops](https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat) | [Chicago Blues Session Volume 3](https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8) | 7:22 |
+| 44 | [So Easy To Love You](https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15) | [Magic Slim & The Teardrops](https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat) | [Chicago Blues Session Volume 3](https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8) | 7:22 |
+| 45 | [It's a Man's, Man’s, Man’s World](https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Georgia Blue](https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV) | 4:31 |
 | 46 | [The Little Red Rooster](https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 3:36 |
 | 47 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:50 |
 | 48 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 59 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
 | 60 | [I Don't Know What You've Got](https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:49 |
 
-Snapshot ID: `MTY1OTEwNTUyNSwwMDAwMDAwMDFkYzEwNGRmMGYyYjFlMjMzY2ZhMTE3MTM3MzUyMDk3`
+Snapshot ID: `MTY1OTEwNTUyNSwwMDAwMDAwMDMxODM0OGRlMDI1YTYxYjA1NThmMDc5Y2VkZGI1ZWQ4`

@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 247373,
       "name": "\u30ab\u30cc\u30ec",
       "url": "https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 220200,
       "name": "\u30d2\u30ed\u30a4\u30f3\u80b2\u6210\u8a08\u753b",
       "url": "https://open.spotify.com/track/4ull1xmD0JWXKdlgYSfpOj"
@@ -687,6 +687,24 @@
       "duration_ms": 226320,
       "name": "\u30ed\u30c7\u30aa",
       "url": "https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306bi\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262013,
+      "name": "\u30ef\u30bf\u30b7\u30ce\u30c6\u30f3\u30b7",
+      "url": "https://open.spotify.com/track/0oJkuurPe6RqlCYnsawcIm"
     },
     {
       "album": {
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 267173,
       "name": "\u79c1\u3001\u30a2\u30a4\u30c9\u30eb\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 295653,
       "name": "\u80f8\u30ad\u30e5\u30f3\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD"

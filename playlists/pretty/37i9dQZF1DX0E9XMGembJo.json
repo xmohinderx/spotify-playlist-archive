@@ -1,12 +1,12 @@
 {
   "description": "play something that's very very vibe-worthy",
-  "num_followers": 762212,
+  "num_followers": 763130,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUzNjY2MiwwMDAwMDAwMGZjMmEzOTA3MzdhMWY5MDdkNTgyM2E3OTQwYzYzMGRm",
+  "snapshot_id": "MTY1OTUzNjY2MiwwMDAwMDAwMGVkNmYwMzZjMjA5ZjA5NDJjNGRjMjljNThmYjZkYjU5",
   "tracks": [
     {
       "added_at": "2022-08-03 14:24:22",
@@ -251,26 +251,22 @@
     {
       "added_at": "2022-08-03 14:24:22",
       "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
       "added_at": "2022-08-03 14:24:22",
@@ -295,22 +291,26 @@
     {
       "added_at": "2022-08-03 14:24:22",
       "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "added_at": "2022-08-03 14:24:22",
@@ -723,6 +723,38 @@
     {
       "added_at": "2022-08-03 14:24:22",
       "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "THE SHADE",
+      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
+    },
+    {
+      "added_at": "2022-08-03 14:24:22",
+      "album": {
+        "name": "Pop Negro",
+        "url": "https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC"
+      },
+      "artists": [
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Bombay",
+      "url": "https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp"
+    },
+    {
+      "added_at": "2022-08-03 14:24:22",
+      "album": {
         "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -747,18 +779,18 @@
     {
       "added_at": "2022-08-03 14:24:22",
       "album": {
-        "name": "Pop Negro",
-        "url": "https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC"
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
       },
       "artists": [
         {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
         }
       ],
-      "duration_ms": 219280,
-      "name": "Bombay",
-      "url": "https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp"
+      "duration_ms": 168253,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
     },
     {
       "added_at": "2022-08-03 14:24:22",
@@ -783,38 +815,6 @@
     {
       "added_at": "2022-08-03 14:24:22",
       "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
-    },
-    {
-      "added_at": "2022-08-03 14:24:22",
-      "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 298940,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
-    },
-    {
-      "added_at": "2022-08-03 14:24:22",
-      "album": {
         "name": "Then It All Goes Away",
         "url": "https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-08-03 14:24:22",
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 181506,
-      "name": "THE SHADE",
-      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": "2022-08-03 14:24:22",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-08-03 14:24:22",
       "album": {
-        "name": "Emiliana",
-        "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164848,
-      "name": "Emiliana",
-      "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
-    },
-    {
-      "added_at": "2022-08-03 14:24:22",
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
+    },
+    {
+      "added_at": "2022-08-03 14:24:22",
+      "album": {
+        "name": "Emiliana",
+        "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "Emiliana",
+      "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
     },
     {
       "added_at": "2022-08-03 14:24:22",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-08-03 14:24:22",
       "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
-    },
-    {
-      "added_at": "2022-08-03 14:24:22",
-      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+    },
+    {
+      "added_at": "2022-08-03 14:24:22",
+      "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2022-08-03 14:24:22",

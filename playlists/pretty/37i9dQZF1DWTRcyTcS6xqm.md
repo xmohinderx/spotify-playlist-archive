@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,792 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,803 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 5 | [Uptown to Harlem](https://open.spotify.com/track/7x4lvXYpRlmqpS5pWc2SJh) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Jellybean Johnson](https://open.spotify.com/artist/6nSWotZBWhRE2qQhbMzWTr) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 4:23 |
 | 6 | [Bad Woman Blues](https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [War In My Mind](https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena) | 3:35 |
 | 7 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
-| 8 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
-| 9 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
+| 8 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
+| 9 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 10 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
 | 11 | [Soundman](https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 3:43 |
 | 12 | [If You Love Me](https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Whoop And Holler](https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Stronger For It](https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA) | 2:36 |
 | 50 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDc2YmY4ZDQyY2RhNTUxZjE5YTU5NDgwMGM5ZTNmMzZk`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMGIxZjJhZGVlZDFjYTVlOWNlZTE5ZmU2ODc2MTJhYTdj`

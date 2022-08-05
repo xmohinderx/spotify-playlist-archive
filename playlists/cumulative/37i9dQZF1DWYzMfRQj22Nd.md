@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-356 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/302liozpy9kx91eTyMB6S5)
+357 songs - 1 day 1 hr 9 min - [published](https://open.spotify.com/playlist/302liozpy9kx91eTyMB6S5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Aura](https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Aura](https://open.spotify.com/album/44eYFSuXEyETT7OHV0dCZg) | 3:47 | 2021-11-12 |  |
 | [Away From It All](https://open.spotify.com/track/7HRCfTQZk6DZgwo1YihjCk) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Lost In The Right Direction](https://open.spotify.com/album/35f3njdgEkENnKfRIscQge) | 4:57 | 2022-02-18 | 2022-04-21 |
 | [Back & Forth](https://open.spotify.com/track/7BcArT6d86OQjsjZc504Pk) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Back & Forth](https://open.spotify.com/album/0aE4REJCNkow57ypao5rls) | 4:37 | 2022-02-18 | 2022-04-19 |
+| [Back & Forth](https://open.spotify.com/track/7GmQ1s21F9APWVdA3IcEAc) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Back & Forth](https://open.spotify.com/album/1mMpaRDvqcZJBBzGENDs6q) | 4:37 | 2022-07-15 |  |
 | [Back Off](https://open.spotify.com/track/0HCZ2CED43KgfWjULHcaCY) | [Raiser](https://open.spotify.com/artist/5W4votwq5V1cHZpfFhm8Er), [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Back Off](https://open.spotify.com/album/3HX32evrWNm3ExTHzeJe7J) | 4:15 | 2021-11-12 | 2022-04-19 |
 | [Back Talk](https://open.spotify.com/track/3btt4vfOsIFPlW3HxcEf3R) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Back Talk](https://open.spotify.com/album/6Y4o40DOaXEAuqWpJWcHKk) | 3:42 | 2022-04-15 | 2022-07-29 |
 | [Back To Me](https://open.spotify.com/track/2nQyEHecmmt0WE43mOsScr) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Back To Me](https://open.spotify.com/album/3dM5PL2xuR0xnRdkxFk0Sj) | 4:15 | 2022-01-14 |  |
@@ -348,7 +349,7 @@
 | [Waiting For A Wonder](https://open.spotify.com/track/2DNYbOF5cxcB1qM4mLIsA5) | [AFRIK](https://open.spotify.com/artist/4QRaVEU8Vcif0j0YyHlSPc), [Vanger](https://open.spotify.com/artist/1V2yeuAkYz9sRGDK6uy7rI) | [Waiting For A Wonder](https://open.spotify.com/album/0hlRfvORHNm6bGQCtDKv5j) | 4:02 | 2022-02-18 | 2022-04-20 |
 | [Walk Away](https://open.spotify.com/track/6fOxRnghWEazS68j4dOFAf) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Walk Away](https://open.spotify.com/album/5xnk9BlPWdjOGfaiPTvIu5) | 3:09 | 2021-11-12 | 2022-07-28 |
 | [Warm Up](https://open.spotify.com/track/2sGLhKq8vpguMHT8FuSnHg) | [CELO](https://open.spotify.com/artist/7h0pykibxxDAZPZIDNQCIP) | [Warm Up / Tow 67](https://open.spotify.com/album/1jIYLgE0lCzSjuUD9rmoHG) | 4:39 | 2021-11-12 | 2022-04-21 |
-| [We Don't Hold Back](https://open.spotify.com/track/66xPGmJYB1Z7QIcOwYy9kQ) | [B.O.M](https://open.spotify.com/artist/3obWOc3Iq15TgW0pTDY2RK), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [We Don't Hold Back](https://open.spotify.com/album/1tiTBERT0kOsVqefXuEdWA) | 2:49 | 2022-07-15 |  |
+| [We Don't Hold Back](https://open.spotify.com/track/66xPGmJYB1Z7QIcOwYy9kQ) | [B.O.M](https://open.spotify.com/artist/3obWOc3Iq15TgW0pTDY2RK), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [We Don't Hold Back](https://open.spotify.com/album/1tiTBERT0kOsVqefXuEdWA) | 2:49 | 2022-07-15 | 2022-08-05 |
 | [We Live Forever \- Teddy Killerz Remix](https://open.spotify.com/track/7GNm0ZYsg5lDiWcvltZZsT) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [We Live Forever \(Teddy Killerz Remix\)](https://open.spotify.com/album/4TkfZNz7d7FpEYRuLAzL8H) | 3:58 | 2022-02-18 | 2022-04-20 |
 | [We Never Slow Down \(feat\. Eva Lazarus\)](https://open.spotify.com/track/5e0W4X4UAW6CsQzHV0Itbu) | [DC Breaks](https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [We Never Slow Down \(feat\. Eva Lazarus\)](https://open.spotify.com/album/5NAwY9X9MiZzE4N2MptS0b) | 3:14 | 2021-11-12 | 2022-07-29 |
 | [What You Mean 2 Me](https://open.spotify.com/track/0x793wJ65lAhUZ6HQ0DD8Z) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [What You Mean 2 Me](https://open.spotify.com/album/5p9DWHEmCR1zp2IMQ9u3wN) | 3:49 | 2022-02-18 | 2022-04-21 |

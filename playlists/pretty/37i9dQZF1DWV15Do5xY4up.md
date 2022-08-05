@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,826 likes - 72 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,829 likes - 72 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

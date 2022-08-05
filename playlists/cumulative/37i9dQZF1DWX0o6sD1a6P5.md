@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> Feel\-good Afropop from Europe and Africa\. Cover: Tayc
+> Feel\-good Afropop from Europe and Africa\. Cover: Rema
 
-189 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+190 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 | 2021-12-27 | 2022-01-28 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-04-14 | 2022-06-17 |
 | [Appelement Jeter](https://open.spotify.com/track/1mpAwnhNe837FCWXS0PpiD) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0) | [Appelement Jeter](https://open.spotify.com/album/2IzqMzgc7qRT9tmc6pLssv) | 3:37 | 2021-12-27 | 2022-02-18 |
+| [Ashawo](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-04 |  |
 | [Ashobi](https://open.spotify.com/track/1RYxSdIlf4hLtuNS7thOUo) | [Drizilik](https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Ashobi](https://open.spotify.com/album/3seySNMFlFfhy6XqT5qki5) | 3:34 | 2022-07-21 | 2022-07-23 |
 | [attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-07 | 2022-07-01 |
 | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2022-03-15 |  |

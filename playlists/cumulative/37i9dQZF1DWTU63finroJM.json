@@ -712,6 +712,24 @@
     },
     {
       "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166213,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
+    },
+    {
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL"
       },
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 195172,
       "name": "Cachemire",
       "url": "https://open.spotify.com/track/4oKvj7JpbW6YDoC9lVF1MK"
@@ -2196,6 +2214,24 @@
     },
     {
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1"
+    },
+    {
+      "album": {
         "name": "citrus",
         "url": "https://open.spotify.com/album/0dx5H6SFArLI4tiIRmbHMK"
       },
@@ -2229,6 +2265,24 @@
       "duration_ms": 160844,
       "name": "City Life",
       "url": "https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3"
+    },
+    {
+      "album": {
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189370,
+      "name": "Cleo - Edit",
+      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
     },
     {
       "album": {
@@ -2319,7 +2373,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
@@ -3431,7 +3485,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 212519,
       "name": "En La Nube",
       "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
@@ -3875,6 +3929,24 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
       "album": {
@@ -7059,7 +7131,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 274500,
       "name": "Maligayang Pagkunwari",
       "url": "https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte"
@@ -7143,6 +7215,28 @@
       "duration_ms": 232000,
       "name": "Me Arrepent\u00ed",
       "url": "https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99"
+    },
+    {
+      "album": {
+        "name": "Hensito",
+        "url": "https://open.spotify.com/album/3cheBjM6yhQedJyjGMBGcN"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        },
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155787,
+      "name": "Me Encanta(s)",
+      "url": "https://open.spotify.com/track/3S1lg0ytmvtPRV4qv4iWL4"
     },
     {
       "album": {
@@ -7478,6 +7572,28 @@
     },
     {
       "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+    },
+    {
+      "album": {
         "name": "ingredients",
         "url": "https://open.spotify.com/album/1KgQVdNcXk2RBc7ktwv0An"
       },
@@ -7619,7 +7735,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 230883,
       "name": "Mungkin Hari Ini Esok Atau Nanti",
       "url": "https://open.spotify.com/track/7n5nvulc1oW1ErpeTrNezI"
@@ -8893,7 +9009,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 155897,
       "name": "Parao",
       "url": "https://open.spotify.com/track/415usVkuXfjwpCoZYD0LqZ"
@@ -11635,7 +11751,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 169776,
       "name": "TOSCANA",
       "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
@@ -11675,6 +11791,28 @@
       "duration_ms": 206785,
       "name": "Trapped in the rain",
       "url": "https://open.spotify.com/track/7hWkpX57FVw6VfpWG6VucC"
+    },
+    {
+      "album": {
+        "name": "Tu Y Yo (feat. Los del Control)",
+        "url": "https://open.spotify.com/album/3K56iZrJa7zer37xBgSSoE"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178297,
+      "name": "Tu Y Yo (feat. Los del Control)",
+      "url": "https://open.spotify.com/track/5pVEORKrVAtcWOEMJlZCFB"
     },
     {
       "album": {
@@ -12165,6 +12303,24 @@
       "duration_ms": 174000,
       "name": "W.H.U.T",
       "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+    },
+    {
+      "album": {
+        "name": "W.I.T.C.H.",
+        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132133,
+      "name": "W.I.T.C.H.",
+      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
       "album": {
@@ -13389,7 +13545,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 204263,
       "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
       "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"

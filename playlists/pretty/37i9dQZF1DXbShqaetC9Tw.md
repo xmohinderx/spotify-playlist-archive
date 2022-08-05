@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,392 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,475 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 19 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 |
 | 20 | [PIZZA](https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy) | 3:31 |
 | 21 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
-| 22 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 |
+| 22 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 |
 | 23 | [Overthinking](https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 6:10 |
-| 24 | [Please Love Me](https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Wave](https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE) | 4:19 |
-| 25 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 |
+| 24 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 |
+| 25 | [Please Love Me](https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Wave](https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE) | 4:19 |
 | 26 | [Poker \(Feat\. Dvwn\)](https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
 | 27 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
 | 28 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 |
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 30 | [but I'll wait for you](https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 1:59 |
 | 31 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
 | 32 | [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 |
-| 33 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
+| 33 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 34 | [ANTIRIVER](https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [ANTIRIVER](https://open.spotify.com/album/6XDZyVUQriuOqCERhaqGlj) | 4:27 |
 | 35 | [You](https://open.spotify.com/track/3YGSzYH6RBrT38iObc3w8q) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [You](https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7) | 3:41 |
 | 36 | [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 |
 | 37 | [Blue Candle](https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 3:18 |
 | 38 | [Starlight No More](https://open.spotify.com/track/0CSfu5jtIJAoSMn1Y6ktL3) | [Kiggen](https://open.spotify.com/artist/1J79fhfblzZX0KFSgU9i9b), [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Starlight No More](https://open.spotify.com/album/060gcufgjRhF72v78nCDI7) | 3:17 |
-| 39 | [Don't Be Blue](https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Don't Be Blue](https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk) | 3:03 |
-| 40 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
+| 39 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
+| 40 | [Don't Be Blue](https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Don't Be Blue](https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk) | 3:03 |
 | 41 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
 | 42 | [sad love song](https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [sad love song](https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw) | 3:01 |
 | 43 | [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 47 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 |
 | 48 | [I Said](https://open.spotify.com/track/2J7bMyJ1UBvpaQrn5pkVAd) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48), [SAYMA](https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE) | [GOOD BOYS GONE BVD](https://open.spotify.com/album/527RxfqAfboRNC1OnD3pga) | 3:12 |
 | 49 | [Fall](https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [Fall](https://open.spotify.com/album/36KT5I1t1z9Jcsog7V7mpa) | 2:41 |
-| 50 | [the day we first met](https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:04 |
+| 50 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 |
 
-Snapshot ID: `MTY1OTUwOTc4MSwwMDAwMDAwMGE2MWI4MGZhZDk3ZTU2ODQ3ZWQzMTliN2Q3MWEwM2Qy`
+Snapshot ID: `MTY1OTUwOTc4MSwwMDAwMDAwMDc0ODBhMTNiMDE1NzVlNTI4ZGY4NjE2ZjYyZjQ3ODBi`

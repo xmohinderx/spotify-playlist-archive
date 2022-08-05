@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YQ2Ju3gagO.md) - [plain]
 
 > A collection of Tinie Tempah's biggest hits, features and classic cuts\. This Is: Tinie Tempah
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,045 likes - 36 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,053 likes - 36 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

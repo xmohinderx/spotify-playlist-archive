@@ -3794,6 +3794,24 @@
     },
     {
       "album": {
+        "name": "Sharks Approach",
+        "url": "https://open.spotify.com/album/1FjR7PYPk0PyW62dTAsqCB"
+      },
+      "artists": [
+        {
+          "name": "ZooLoo One",
+          "url": "https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166290,
+      "name": "Sharks Approach",
+      "url": "https://open.spotify.com/track/0qzjIYOyeLGFUQGz6rQ1mD"
+    },
+    {
+      "album": {
         "name": "Highlife",
         "url": "https://open.spotify.com/album/3CoGJulsTas8q7xN91ieAO"
       },

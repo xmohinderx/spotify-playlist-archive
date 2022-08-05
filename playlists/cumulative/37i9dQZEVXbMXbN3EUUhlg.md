@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-454 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+455 songs - 23 hr 8 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Boys Don't Cry](https://open.spotify.com/track/5tQj2mfKL21L9mQ643z5zw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:16 | 2022-04-14 | 2022-04-17 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-06-27 |
 | [BREAK MY SOUL](https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:38 | 2022-07-30 | 2022-08-02 |
-| [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-02 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-02 | 2022-08-05 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-05-23 | 2021-05-29 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-07-15 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
@@ -264,6 +264,7 @@
 | [Meia Noite \(Você tem meu Whatsapp\)](https://open.spotify.com/track/6sPBi0qLI6KM3yXX56NxsA) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Diferente dos Iguais](https://open.spotify.com/album/6mpiRhzd62ck4gh6E0A5NF) | 3:57 | 2021-03-27\* | 2021-06-09 |
 | [Melhor Ser uma Saudade](https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta, Ep\. 1](https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY) | 2:38 | 2022-02-07 | 2022-07-10 |
 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/6e4ewdwc5OhGhmnDHyNraC) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:46 | 2021-07-20 | 2021-08-27 |
+| [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2022-08-04 |  |
 | [Menina Se Prepara](https://open.spotify.com/track/2aqqXrjrPdRHU9uSeRmL3C) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Menina Se Prepara](https://open.spotify.com/album/3Lm13mfUcBeFGDitToszX5) | 3:30 | 2021-08-15 | 2021-10-02 |
 | [Meninos e Meninas](https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 | 2021-10-22 | 2021-10-23 |
 | [Mete a Louca](https://open.spotify.com/track/62d4BfCTUHdOsARRETHLDz) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Mete a Louca](https://open.spotify.com/album/2UUL0vRiQqdnFWBq32DihK) | 2:59 | 2021-10-16 | 2022-01-30 |

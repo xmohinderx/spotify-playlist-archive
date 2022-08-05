@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 | 2022-07-29 |
+| [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 |  |
 | [1st Day](https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 2:21 | 2022-03-04 |  |
 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2021-10-06 |  |
 | [92982.3](https://open.spotify.com/track/5iTMWX6wdY27SoiEK0mylf) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/48tMas4MWlpELCY8kVILSq) | 7:07 | 2021-10-06 | 2022-07-20 |
@@ -160,7 +160,7 @@
 | [Ocean Ghosts](https://open.spotify.com/track/3WQgdhPHOMi0Hk42BOtblN) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl) | 5:52 | 2022-01-11 | 2022-07-28 |
 | [Ody At Sea](https://open.spotify.com/track/49NxITVqqvX33f4KkpGRHk) | [Erik Wøllo](https://open.spotify.com/artist/5a4gbN7QchpH2EgapVHB5I) | [Ody At Sea](https://open.spotify.com/album/0pqtkG1w5hNENUlC9dgWaH) | 3:38 | 2021-10-06 | 2022-07-28 |
 | [Ody At Sea](https://open.spotify.com/track/4kRL66HfP6pxDCgJclkewR) | [Erik Wøllo](https://open.spotify.com/artist/5a4gbN7QchpH2EgapVHB5I) | [Sources \(Early Works 1986\-1992\)](https://open.spotify.com/album/2USaQM9Uxhg6kwh3Ka9Nwd) | 3:38 | 2021-10-06 |  |
-| [Offing](https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:15 | 2021-10-06 |  |
+| [Offing](https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:15 | 2021-10-06 | 2022-08-05 |
 | [Offing](https://open.spotify.com/track/3LiafX2u4wHRwLy1W9B81q) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/1rMSF8WzsF016bhkREx45l) | 3:15 | 2021-10-06 | 2022-05-18 |
 | [On](https://open.spotify.com/track/2arFCnIZKZnFFl1OxQJCqV) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [On](https://open.spotify.com/album/555B251cduEoLSwUfspLxF) | 4:42 | 2021-10-06 | 2022-07-21 |
 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/5oE9k6fuMgWqpGltV7zfsc) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fear in a Handful of Dust](https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9) | 3:36 | 2021-10-06 |  |

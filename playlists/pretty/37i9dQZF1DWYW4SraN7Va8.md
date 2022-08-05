@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,921 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,010 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 60 | [I Wanna Be Sedated \- 2002 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
 | 61 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
 | 62 | [Surrender](https://open.spotify.com/track/669cOBjpY4Y5O98Nmk6139) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [The Essential Cheap Trick](https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR) | 4:13 |
-| 63 | [Too Fast For Love](https://open.spotify.com/track/7mJ9n1EaruTwLbgcQC5AGp) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Too Fast For Love](https://open.spotify.com/album/6eADUk8en6omoudkkYsnoa) | 3:21 |
+| 63 | [Orgasmatron](https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:14 |
 | 64 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 \- Remaster\)](https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l) | 7:18 |
-| 65 | [Orgasmatron](https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:14 |
+| 65 | [Too Fast For Love](https://open.spotify.com/track/7mJ9n1EaruTwLbgcQC5AGp) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Too Fast For Love](https://open.spotify.com/album/6eADUk8en6omoudkkYsnoa) | 3:21 |
 | 66 | [Here I Go Again \- Radio Mix](https://open.spotify.com/track/6m8FEpCFkSrzhH1W3R2yKU) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp) | 3:52 |
 | 67 | [Future World](https://open.spotify.com/track/7vAwjvJs8YSlHcykJu7nc0) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:03 |
 | 68 | [Round and Round](https://open.spotify.com/track/0SFS1LxNP5wgnoDA7nGKQu) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Rhino Hi\-Five: Ratt](https://open.spotify.com/album/7Lx0ft6eH3V087cAOPaqnk) | 4:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 74 | [Black Night](https://open.spotify.com/track/7yn7rpRvg6XCq10B94etIp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best of Deep Purple](https://open.spotify.com/album/0I84E9cRfRO8rrT1mTtufq) | 3:27 |
 | 75 | [Girl Money](https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Hot Wire](https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi) | 4:00 |
 
-Snapshot ID: `MTY1MjE1MTk1MSwwMDAwMDAwMDBkZTYzODRmMWM3NGUyYmFjM2I2NWM1YTFiYmI5NTYw`
+Snapshot ID: `MTY1MjE1MTk1MSwwMDAwMDAwMGYyZjBkNTcxNDczMmZmNTUyZjRlYzUyZjAwOWYyNGQy`

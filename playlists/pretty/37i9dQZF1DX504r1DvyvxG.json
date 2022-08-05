@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2442922,
+  "num_followers": 2443333,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NzIyMiwwMDAwMDAwMDkzYTFlNDE2MGIxNDIwZjY4N2JkM2I3MWU2MzIyMDVi",
+  "snapshot_id": "MTY1MzY3NzIyMiwwMDAwMDAwMGE4YjQ5YjczMjNmM2Q0M2EzZTA0Y2Y4ZDllNmJhY2Zh",
   "tracks": [
     {
       "added_at": "2022-05-27 18:47:02",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 258411,
       "name": "You're so Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
         "name": "Chelsea Girl",
         "url": "https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 269813,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 295626,
-      "name": "Gold Dust Woman - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -1011,22 +995,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Shelter from the Storm",
-      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "A Night on the Town",
         "url": "https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 271200,
       "name": "The First Cut Is the Deepest",
       "url": "https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 295626,
+      "name": "Gold Dust Woman - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Shelter from the Storm",
+      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "The Last Of The True Believers",
         "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 279266,
       "name": "Love At The Five And Dime",
       "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
     },
     {
       "added_at": "2022-05-27 18:47:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Abby Anderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,271 likes - 150 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,470 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 26 | [Say It First](https://open.spotify.com/track/7hKcJWiTSQ5C7DswfkJKIa) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:20 |
 | 27 | [Short Hills Rd](https://open.spotify.com/track/1BZ5Odd4Y7qYuQ6Yv3wxee) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Short Hills Rd](https://open.spotify.com/album/61UHUB64YbzfBarOkW5M2u) | 3:14 |
 | 28 | [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 |
-| 29 | [Room to Dream](https://open.spotify.com/track/2yzKdZZCEQM9LCNBamNmvC) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/3VEYJ68XnBWjndfdR9uL0V) | 3:07 |
+| 29 | [Room to Dream](https://open.spotify.com/track/3ZvP5XbLElIdeYVerFZ1U4) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/759rhQI6Tgbkd9Ss4Sm81e) | 3:07 |
 | 30 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 |
 | 31 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 |
 | 32 | [Hurts the Healing](https://open.spotify.com/track/5Ao5ZEjJNQCLuxCBIPRRJM) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Hurts the Healing](https://open.spotify.com/album/2uTfFkCuPeJPF5PzTCQcQb) | 2:42 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 149 | [Intertwined](https://open.spotify.com/track/6fp5VnTQX4esPpou7YmcYh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:02 |
 | 150 | [The Ocean \(feat\. Charlie Worsham\)](https://open.spotify.com/track/3ndJ7tDSkqbJeXfj7Uww9z) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly](https://open.spotify.com/album/7uQZdPu3Ep9202R0lFQd8Z) | 3:35 |
 
-Snapshot ID: `MTY1OTMyNjQwMCwwMDAwMDAwMDRhODUwOGJmYmMyMjIyNWIwZDcwOWMxMzkzYjJlOWI5`
+Snapshot ID: `MTY1OTMyNjQwMCwwMDAwMDAwMDcyODFiNDk5OTQ1MjhlZTQ0NzgwZDQyZWQ2ZWM0MmNl`

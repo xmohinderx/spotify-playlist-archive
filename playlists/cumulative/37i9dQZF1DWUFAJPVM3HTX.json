@@ -2770,6 +2770,28 @@
     },
     {
       "album": {
+        "name": "DOWN",
+        "url": "https://open.spotify.com/album/6PtM1fUUxBisX3p9mNvrN8"
+      },
+      "artists": [
+        {
+          "name": "Malek Lasike",
+          "url": "https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e"
+        },
+        {
+          "name": "Donell Lewis",
+          "url": "https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199813,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/7IXo0p7e8dQY2cqpTYzBmu"
+    },
+    {
+      "album": {
         "name": "Draft 7 \"fruitless love\"",
         "url": "https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI"
       },
@@ -4079,12 +4101,12 @@
       },
       "artists": [
         {
-          "name": "Silentjay",
-          "url": "https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh"
-        },
-        {
           "name": "Baro Sura",
           "url": "https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV"
+        },
+        {
+          "name": "Silentjay",
+          "url": "https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh"
         }
       ],
       "date_added": "2022-08-03",

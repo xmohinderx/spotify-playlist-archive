@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-435 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+436 songs - 1 day 0 hr 31 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-03-01 | 2022-04-09 |
 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 | 2022-04-05 | 2022-04-17 |
 | [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 | 2022-02-08 | 2022-03-06 |
-| [El Fugitivo \- En Vivo](https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En Vivo\)](https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc) | 2:58 | 2022-07-19 |  |
+| [El Fugitivo \- En Vivo](https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En Vivo\)](https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc) | 2:58 | 2022-07-19 | 2022-08-05 |
+| [El Fugitivo \- En vivo](https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En vivo\)](https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i) | 2:58 | 2022-08-04 |  |
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2022-02-08 | 2022-03-02 |
 | [Ella Ya Me Olvido \- Radio Edit](https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Ella Ya Me Olvido \(Radio Edit\)](https://open.spotify.com/album/5ECD0CGqwDeEFo6l7UvEkq) | 4:50 | 2022-07-26 | 2022-07-31 |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-06-07 |  |

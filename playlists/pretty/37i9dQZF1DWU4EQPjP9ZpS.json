@@ -1,12 +1,12 @@
 {
   "description": "Ride the vaporwave and lose your soul in the \n  a e s t h e t i c .",
-  "num_followers": 191742,
+  "num_followers": 191977,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMDZmMzkxZGEwMWFlODBiMmNjMTMwODQxM2Q3MWE3NzRl",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMDgwNDc1NzY1ZDgyYjg3MTE1YjY2ZTg2NjQ0OWYxNDk4",
   "tracks": [
     {
       "added_at": "2022-07-15 04:02:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Music in the Air",
-        "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
-      },
-      "artists": [
-        {
-          "name": "\u8c4a\u5e73\u533a\u6c11Toyohirakumin",
-          "url": "https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN"
-        }
-      ],
-      "duration_ms": 142806,
-      "name": "Akaiwa 1985",
-      "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 390787,
       "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "Music in the Air",
+        "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u5e73\u533a\u6c11Toyohirakumin",
+          "url": "https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN"
+        }
+      ],
+      "duration_ms": 142806,
+      "name": "Akaiwa 1985",
+      "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -695,18 +695,22 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
       },
       "artists": [
         {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+          "name": "bl00dwave",
+          "url": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
+        },
+        {
+          "name": "Riverwave",
+          "url": "https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi"
         }
       ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+      "duration_ms": 146181,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -795,22 +799,18 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
       "artists": [
         {
-          "name": "bl00dwave",
-          "url": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
-        },
-        {
-          "name": "Riverwave",
-          "url": "https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi"
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
         }
       ],
-      "duration_ms": 146181,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Information Superhighway",
-        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
-      },
-      "artists": [
-        {
-          "name": "</body>",
-          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
-        }
-      ],
-      "duration_ms": 107604,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 157974,
       "name": "Turn the Fridge On",
       "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "Information Superhighway",
+        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
+      },
+      "artists": [
+        {
+          "name": "</body>",
+          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
+        }
+      ],
+      "duration_ms": 107604,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Psycho Geography",
-        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
       },
       "artists": [
         {
-          "name": "Memorex Memories",
-          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
         }
       ],
-      "duration_ms": 201081,
-      "name": "Psycho Geography",
-      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
-      },
-      "artists": [
-        {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
-        }
-      ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
         "name": "\u56da\u4eba",
         "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 320462,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "Psycho Geography",
+        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
+      },
+      "artists": [
+        {
+          "name": "Memorex Memories",
+          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Psycho Geography",
+      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "CoronaWave: \u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz"
+        "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
+        "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
       },
       "artists": [
         {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
         }
       ],
-      "duration_ms": 112278,
-      "name": "W U H A N",
-      "url": "https://open.spotify.com/track/0Cqo3oUVrNVDOMTZFv83uY"
+      "duration_ms": 354000,
+      "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
+      "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
-        "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
+        "name": "CoronaWave: \u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz"
       },
       "artists": [
         {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
         }
       ],
-      "duration_ms": 354000,
-      "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
-      "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
+      "duration_ms": 112278,
+      "name": "W U H A N",
+      "url": "https://open.spotify.com/track/0Cqo3oUVrNVDOMTZFv83uY"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1083,6 +1083,38 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
+        "name": "Bad Baby (Satin Sheets Remix)",
+        "url": "https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9"
+      },
+      "artists": [
+        {
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+        }
+      ],
+      "duration_ms": 297142,
+      "name": "Bad Baby (Satin Sheets Remix)",
+      "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "New World Disciples",
+        "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
+      },
+      "artists": [
+        {
+          "name": "desert sand feels warm at night",
+          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
+        }
+      ],
+      "duration_ms": 389189,
+      "name": "Follow Him, For He Is the One",
+      "url": "https://open.spotify.com/track/7zwEj3hEiAfRrwjFyIy3jQ"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1107,38 +1139,6 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "New World Disciples",
-        "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
-      },
-      "artists": [
-        {
-          "name": "desert sand feels warm at night",
-          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
-        }
-      ],
-      "duration_ms": 389189,
-      "name": "Follow Him, For He Is the One",
-      "url": "https://open.spotify.com/track/7zwEj3hEiAfRrwjFyIy3jQ"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
-        "name": "Bad Baby (Satin Sheets Remix)",
-        "url": "https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9"
-      },
-      "artists": [
-        {
-          "name": "Neggy Gemmy",
-          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
-        }
-      ],
-      "duration_ms": 297142,
-      "name": "Bad Baby (Satin Sheets Remix)",
-      "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
         "name": "The 33rd Split",
         "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
       },
@@ -1159,6 +1159,38 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
+        "name": "Growing Apart",
+        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
+      },
+      "artists": [
+        {
+          "name": "Rayklin",
+          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
+        }
+      ],
+      "duration_ms": 217153,
+      "name": "Growing Apart",
+      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "Strangers Who Know Every Secret",
+        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
+      },
+      "artists": [
+        {
+          "name": "Designed Intervention",
+          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
+        }
+      ],
+      "duration_ms": 156613,
+      "name": "Strangers Who Know Every Secret",
+      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
         "name": "Rash Devices (FM Skyline Remix)",
         "url": "https://open.spotify.com/album/1K6ONT5q55ZqSqdOlN0QFD"
       },
@@ -1175,22 +1207,6 @@
       "duration_ms": 231049,
       "name": "Rash Devices (FM Skyline Remix)",
       "url": "https://open.spotify.com/track/4YmYML44U2s4QgdAP0oNrM"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
-        "name": "Growing Apart",
-        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
-      },
-      "artists": [
-        {
-          "name": "Rayklin",
-          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
-        }
-      ],
-      "duration_ms": 217153,
-      "name": "Growing Apart",
-      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Strangers Who Know Every Secret",
-        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
+        "name": "Aeris",
+        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
       },
       "artists": [
         {
-          "name": "Designed Intervention",
-          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
         }
       ],
-      "duration_ms": 156613,
-      "name": "Strangers Who Know Every Secret",
-      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
+      "duration_ms": 226500,
+      "name": "Oneirataxia",
+      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 164000,
       "name": "Home Workout VHS",
       "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
-        "name": "Aeris",
-        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
-      },
-      "artists": [
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Oneirataxia",
-      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Desire Path",
-        "url": "https://open.spotify.com/album/1f3O5Cw9deSDjm7PwF4Rel"
-      },
-      "artists": [
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 196388,
-      "name": "Desire Path",
-      "url": "https://open.spotify.com/track/1w2T7nORzQyi2aMvn9nG9F"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
         "name": "Sparkling Lights (W Ancient Fan Death Studios)",
         "url": "https://open.spotify.com/album/4DqYWsmyVGtZy4GuAMS5Rz"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 244024,
       "name": "Sparkling Lights (W Ancient Fan Death Studios)",
       "url": "https://open.spotify.com/track/2scoNjwADGcWEbSOKjy5oJ"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "Desire Path",
+        "url": "https://open.spotify.com/album/1f3O5Cw9deSDjm7PwF4Rel"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 196388,
+      "name": "Desire Path",
+      "url": "https://open.spotify.com/track/1w2T7nORzQyi2aMvn9nG9F"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Tupperwave",
-        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
+        "name": "One Hundred Mornings (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
       "artists": [
         {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 166961,
-      "name": "Alliance Of Elegance",
-      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
+      "duration_ms": 155480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "One Hundred Mornings (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
+        "name": "Synthetic Sweetheart",
+        "url": "https://open.spotify.com/album/1GGYOsqkY7FbViz0pKxw0u"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 155480,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+      "duration_ms": 179658,
+      "name": "100% Erotica",
+      "url": "https://open.spotify.com/track/2mEuwWAo32Fu2YzwghiXuv"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1487,26 +1487,6 @@
       "duration_ms": 234013,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
-        "name": "The Never Ending Remixed",
-        "url": "https://open.spotify.com/album/7EXH0TTeLsO0Gh6OdB6yqJ"
-      },
-      "artists": [
-        {
-          "name": "FM Attack",
-          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
-        },
-        {
-          "name": "Jasper De Ceuster",
-          "url": "https://open.spotify.com/artist/4E653XDFNhfX7sIlJWCiwb"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Footprints - Jasper De Ceuster Remix",
-      "url": "https://open.spotify.com/track/5jlvkGTQAicIsOW58nncQL"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1543,54 +1523,22 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Tampa (FM Skyline Remix) [7\" Version]",
-        "url": "https://open.spotify.com/album/4e9xyxDq3XXee50cZYTQ5t"
+        "name": "The Never Ending Remixed",
+        "url": "https://open.spotify.com/album/7EXH0TTeLsO0Gh6OdB6yqJ"
       },
       "artists": [
         {
-          "name": "Small Black",
-          "url": "https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds"
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
         },
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+          "name": "Jasper De Ceuster",
+          "url": "https://open.spotify.com/artist/4E653XDFNhfX7sIlJWCiwb"
         }
       ],
-      "duration_ms": 234765,
-      "name": "Tampa (FM Skyline Remix) [7\" Version]",
-      "url": "https://open.spotify.com/track/1pncIIQbjWwqAFVmVzD7eI"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
-        "name": "Glass Prism",
-        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 210895,
-      "name": "Glass Prism",
-      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
-        "name": "Synthetic Sweetheart",
-        "url": "https://open.spotify.com/album/1GGYOsqkY7FbViz0pKxw0u"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "100% Erotica",
-      "url": "https://open.spotify.com/track/2mEuwWAo32Fu2YzwghiXuv"
+      "duration_ms": 264187,
+      "name": "Footprints - Jasper De Ceuster Remix",
+      "url": "https://open.spotify.com/track/5jlvkGTQAicIsOW58nncQL"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1611,18 +1559,54 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+        "name": "Tupperwave",
+        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
       },
       "artists": [
         {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
+      "duration_ms": 166961,
+      "name": "Alliance Of Elegance",
+      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "Glass Prism",
+        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        }
+      ],
+      "duration_ms": 210895,
+      "name": "Glass Prism",
+      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "Tampa (FM Skyline Remix) [7\" Version]",
+        "url": "https://open.spotify.com/album/4e9xyxDq3XXee50cZYTQ5t"
+      },
+      "artists": [
+        {
+          "name": "Small Black",
+          "url": "https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds"
+        },
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 234765,
+      "name": "Tampa (FM Skyline Remix) [7\" Version]",
+      "url": "https://open.spotify.com/track/1pncIIQbjWwqAFVmVzD7eI"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2022-06-06 04:00:00",
       "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
       },
@@ -1655,6 +1655,26 @@
       "duration_ms": 170379,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+    },
+    {
+      "added_at": "2022-06-06 04:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/7loWUh2JPGq5sCjaQa25Sj"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        }
+      ],
+      "duration_ms": 220408,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/77hRjQcXFpa8LUZgt6CKcH"
     },
     {
       "added_at": "2022-06-06 04:00:00",
@@ -1695,26 +1715,6 @@
       "duration_ms": 221864,
       "name": "Freedom Airways",
       "url": "https://open.spotify.com/track/6eVP45Uxmf0VUSqhZKxjVX"
-    },
-    {
-      "added_at": "2022-06-06 04:00:00",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/7loWUh2JPGq5sCjaQa25Sj"
-      },
-      "artists": [
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        },
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
-        }
-      ],
-      "duration_ms": 220408,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/77hRjQcXFpa8LUZgt6CKcH"
     }
   ],
   "unique_name": "vaporwave",

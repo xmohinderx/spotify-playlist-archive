@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,103 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,189 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 12 | [How Long Has This Been Going On?](https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:17 |
 | 13 | [Young And Foolish](https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:54 |
 | 14 | [If I Should Lose You](https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 3:55 |
-| 15 | [The End Of The World](https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The End Of The World](https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0) | 2:49 |
-| 16 | [But Beautiful](https://open.spotify.com/track/2QJTjKjGH9JUHRwXKUrLFI) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:50 |
+| 15 | [But Beautiful](https://open.spotify.com/track/2QJTjKjGH9JUHRwXKUrLFI) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:50 |
+| 16 | [The End Of The World](https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The End Of The World](https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0) | 2:49 |
 | 17 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
 | 18 | [How Insensitive](https://open.spotify.com/track/443Agnj7SV4wtrIXPPyjO2) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:47 |
 | 19 | [In A Sentimental Mood](https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:48 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 65 | [I Miss You So](https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Lonely And Blue](https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS) | 3:22 |
 | 66 | ['Round Midnight](https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Around Midnight](https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d) | 2:52 |
 | 67 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 |
-| 68 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
-| 69 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 |
+| 68 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 |
+| 69 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
 | 70 | [I'm Through With Love](https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 5:25 |
 | 71 | [I Wish I Knew](https://open.spotify.com/track/4WipUexDpNvekJbFMBsGa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa) | 4:53 |
 | 72 | [There Must Be A Way](https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 100 | [You Won't Be Satisfied \(Until You Break My Heart\) \(with Les Brown & His Orchestra\)](https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Les Brown & His Orchestra](https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 3:04 |
 
-Snapshot ID: `MTY1NjUwMDM4OSwwMDAwMDAwMDZlMDgxMmU5NDZhNzQwMGFiMTVjNTY4NDUxZDIzMGNl`
+Snapshot ID: `MTY1NjUwMDM4OSwwMDAwMDAwMGJhNTQwZGZkNTIzMGYyOGY0Njc4NGZkMTU0YjNhOWY0`

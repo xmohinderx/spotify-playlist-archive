@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,738 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,765 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 5 | [Duda Morena](https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX) | 4:53 |
 | 6 | [Clap Hands](https://open.spotify.com/track/5TeoCsHbzWo9UgMW3rv7JL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK) | 3:46 |
 | 7 | [Parla più piano \(Love Theme from "The Godfather"\)](https://open.spotify.com/track/4vs7AkZvFE3T87rdfQEvVA) | [The Speakeasies' Swing Band!](https://open.spotify.com/artist/1oUi6Bbik9rnyUtnQUnC2g) | [Land of Plenty](https://open.spotify.com/album/2R4Nkyigz44hJbVd004zhS) | 4:51 |
-| 8 | [Me cago en el amor](https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK) | [Tonino Carotone](https://open.spotify.com/artist/6rM57PYs1352JJdgKFFG2n) | [Mondo Difficile](https://open.spotify.com/album/0UbCMQfV6mZZQi0lAPAWUG) | 6:04 |
-| 9 | [Start Wearing Purple](https://open.spotify.com/track/3q2e5D6NGrfh9Mx7WlrnHq) | [Gogol Bordello](https://open.spotify.com/artist/2SVw939fwuqSobLjF8u78b) | [Gypsy Punks: Underdog World Strike](https://open.spotify.com/album/13wK6cU29pZjFs0zz2Ajbh) | 3:42 |
+| 8 | [Start Wearing Purple](https://open.spotify.com/track/3q2e5D6NGrfh9Mx7WlrnHq) | [Gogol Bordello](https://open.spotify.com/artist/2SVw939fwuqSobLjF8u78b) | [Gypsy Punks: Underdog World Strike](https://open.spotify.com/album/13wK6cU29pZjFs0zz2Ajbh) | 3:42 |
+| 9 | [Me cago en el amor](https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK) | [Tonino Carotone](https://open.spotify.com/artist/6rM57PYs1352JJdgKFFG2n) | [Mondo Difficile](https://open.spotify.com/album/0UbCMQfV6mZZQi0lAPAWUG) | 6:04 |
 | 10 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 |
 | 11 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 |
 | 12 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 27 | [Ácaro](https://open.spotify.com/track/1u2j4CufZ3HIZIo8y2yJs7) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/5p9sfsdqNlhSDqbotwaJj5) | 3:45 |
 | 28 | [Mesecina / Moonlight](https://open.spotify.com/track/4j3HKFuIHwdxxbZmPqJJYX) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Underground \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xMLHeRDiuzNWIrZt7Q8na) | 3:59 |
 | 29 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
-| 30 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
-| 31 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
+| 30 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
+| 31 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
 | 32 | [Marrakumbiah](https://open.spotify.com/track/45X61WpnNpZopCO92ZwKdw) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [Etno Pachanga Sound System](https://open.spotify.com/album/6fCxJA4Ar7o8PXRjDrKECo) | 3:45 |
 | 33 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
 | 34 | [Karnaval](https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Volver al Futuro \(Otro Futuro\)](https://open.spotify.com/album/184ZgYcvVQWNyvoDHBYtuE) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Oh My Girl \- French Version](https://open.spotify.com/track/6d2AYwXli3hQpnLyg1cfvl) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Antoine Villoutreix](https://open.spotify.com/artist/1LeuN4Zsd04HulaBIIRYVb) | [Strange Things Beyond the Sunny Side](https://open.spotify.com/album/2SpUhxXyFjsSS0XomMSUZw) | 3:31 |
 | 50 | [Pastelito De Piña](https://open.spotify.com/track/5vniH12f4XPDvlVJLtcOl7) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerol](https://open.spotify.com/album/0WDKrFndSnTYgDNB2S065Z) | 4:45 |
 
-Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDY1ZWQwZmQ4NmIyZTU0YzE0NzQ3MmI5YWUzNzZmNDE3`
+Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDFhNzBhNDlmZDA3MDVjNzc3Nzk2YmUxY2ZiZDQ1MDY5`

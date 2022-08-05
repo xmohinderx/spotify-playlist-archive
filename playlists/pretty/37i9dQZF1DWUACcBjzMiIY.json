@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a pleasant drive.",
-  "num_followers": 189432,
+  "num_followers": 189536,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2MTA3NTc3NywwMDAwMDAwMDhmYzBjNzRmMTkxYzNhODUzYzczMmFjYmI1YjUzODYx",
+  "snapshot_id": "MTU2MTA3NTc3NywwMDAwMDAwMGJiMzA4MGM4MWIyYWZmNmMwNmRhNzJiNzdlODY4YzNh",
   "tracks": [
     {
       "added_at": "2019-06-21 00:09:37",
@@ -143,18 +143,18 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 216773,
-      "name": "Hey, Soul Sister",
-      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -175,18 +175,18 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -275,6 +275,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -811,6 +811,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 246880,
+      "name": "Can I Be Him",
+      "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246880,
-      "name": "Can I Be Him",
-      "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Beautiful Trauma",
-        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 269600,
-      "name": "What About Us",
-      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "On How Life Is",
-        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 257186,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "On How Life Is",
+        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 220290,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 128013,
       "name": "Cups (Pitch Perfect\u2019s \u201cWhen I\u2019m Gone\u201d) - Pop Version",
       "url": "https://open.spotify.com/track/6mH3qVIeOsnQIAho5eWwhH"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -2775,6 +2759,22 @@
       "duration_ms": 278373,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Real Estate",
-      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -3035,22 +3035,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Still Crazy After All These Years",
-      "url": "https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Lost Stars",
         "url": "https://open.spotify.com/album/2BSWHdGzkcZlhQmZKaNyOF"
       },
@@ -3063,6 +3047,22 @@
       "duration_ms": 267933,
       "name": "Lost Stars",
       "url": "https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Still Crazy After All These Years",
+      "url": "https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB"
     },
     {
       "added_at": "2019-06-21 00:09:37",

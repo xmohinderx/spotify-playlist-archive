@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,743 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,922 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 36 | [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 |
 | 37 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 |
 | 38 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
-| 39 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |
-| 40 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 |
+| 39 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 |
+| 40 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |
 | 41 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 |
-| 42 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
-| 43 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
+| 42 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
+| 43 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
 | 44 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 |
 | 45 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 |
 | 46 | [Dark seeks light](https://open.spotify.com/track/2ATxQ2yeUw3CAGjjPTundt) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [Dark seeks light / 散文的LIFE](https://open.spotify.com/album/29oTb4lakrol3FVikzP60X) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
 | 50 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 |
 
-Snapshot ID: `MTY1OTQ1MjQwMCwwMDAwMDAwMDRhM2M3MzYyNjM2YTRlYzNiOWNhMzdjYzA3MGZjNWY2`
+Snapshot ID: `MTY1OTQ1MjQwMCwwMDAwMDAwMDY5YmVhODFjZmU0NGZkMjY1ZDQ0YzUyYTgyNjhiMmNj`

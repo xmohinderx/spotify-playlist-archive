@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,909 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,926 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 28 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
 | 29 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 |
 | 30 | [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 |
-| 31 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
-| 32 | [Give It to Me](https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It to Me](https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF) | 3:30 |
+| 31 | [Give It to Me](https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It to Me](https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF) | 3:30 |
+| 32 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 33 | [Your Body](https://open.spotify.com/track/697HW34FLNURvRAbSieICv) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Your Body](https://open.spotify.com/album/6mHS5vgGYalErBmxhX3TXx) | 3:27 |
-| 34 | [Cut Me Loose \- Edit](https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose \(Edit\)](https://open.spotify.com/album/1UWmbDu7nphgNFGPjuZrSR) | 3:22 |
-| 35 | [Release](https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Release](https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC) | 3:13 |
+| 34 | [Release](https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Release](https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC) | 3:13 |
+| 35 | [Cut Me Loose \- Edit](https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose \(Edit\)](https://open.spotify.com/album/1UWmbDu7nphgNFGPjuZrSR) | 3:22 |
 | 36 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 |
 | 37 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 |
 | 38 | [Didn't Know](https://open.spotify.com/track/3kNWyHdLVW1x6pn9EnSQ1H) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/5nnv8Zb63NdxWEyVsaSodl) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 49 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 |
 | 50 | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb) | 2:48 |
 
-Snapshot ID: `MTY1OTEwNjQ4MSwwMDAwMDAwMGM0MzZlNGY2OTFhZjc2NDM2MzlmZjg0MTQ5NTI2MDEy`
+Snapshot ID: `MTY1OTEwNjQ4MSwwMDAwMDAwMDI3MzQ0N2E0MGQ3MjkzMzU0MTVkZmM4ZjFkNWRhMDA4`

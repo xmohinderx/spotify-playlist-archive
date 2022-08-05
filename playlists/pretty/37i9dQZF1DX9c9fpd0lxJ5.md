@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby:\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,847 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,862 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 27 | [Moody](https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Moody](https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX) | 3:18 |
 | 28 | [A la Madrugada](https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 4:21 |
 | 29 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 |
-| 30 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 |
-| 31 | [muero x ti](https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4) | 3:57 |
+| 30 | [muero x ti](https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4) | 3:57 |
+| 31 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 |
 | 32 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 |
 | 33 | [Chocolate y Nata](https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Chocolate y Nata](https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w) | 3:01 |
 | 34 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 52 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
 | 53 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 |
 | 54 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 |
-| 55 | [Un Animal \(Divina Existencia\)](https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs) | 3:01 |
-| 56 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Hasta Que Tú Me Quieras](https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs) | 3:55 |
+| 55 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Hasta Que Tú Me Quieras](https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs) | 3:55 |
+| 56 | [Un Animal \(Divina Existencia\)](https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs) | 3:01 |
 | 57 | [haciendo discos](https://open.spotify.com/track/5ezQlaBRGmaFzYB9FtMiOd) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:05 |
 | 58 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 |
 | 59 | [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 94 | [Girasol](https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M) | [mi jardín](https://open.spotify.com/artist/2Wurz87TqcSpxiCTGDZPAo) | [Girasol](https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI) | 2:14 |
 | 95 | [Te Quiero Olvidar \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/40EpFP3HQ0p2W8bwmwN1XZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [CARISMA \*isolation mixes\*](https://open.spotify.com/album/7i8Bh9wJJ8tonDpGfh7uTG) | 3:35 |
 | 96 | [Dolce Banana](https://open.spotify.com/track/5o1IxDUb9XRCGmrVANbhM9) | [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck), [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y), [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Mil Noches Sin Dormir](https://open.spotify.com/album/50h4K37IirTEjuZJlVn1Rg) | 2:22 |
-| 97 | [Park Ave](https://open.spotify.com/track/3U6dS9TILCdKqIhqURcmzU) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Colour](https://open.spotify.com/album/3j6l2AzsdJYRtNJqNx5JCo) | 3:14 |
-| 98 | [Dónde estás](https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:24 |
+| 97 | [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 |
+| 98 | [Park Ave](https://open.spotify.com/track/3U6dS9TILCdKqIhqURcmzU) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Colour](https://open.spotify.com/album/3j6l2AzsdJYRtNJqNx5JCo) | 3:14 |
 | 99 | [Si Te Portas Mal \(Be Bad\)](https://open.spotify.com/track/5cxGETg09kiVEMDMJ3qW0G) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn) | 3:37 |
-| 100 | [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 |
+| 100 | [Dónde estás](https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:24 |
 
-Snapshot ID: `MTY1NTMwMTE1NywwMDAwMDAwMDA1ODJhZjI4YmFmOGFkZTViZjM5ODQzODQ2Y2U2MmM3`
+Snapshot ID: `MTY1NTMwMTE1NywwMDAwMDAwMDlhMjU4ZWRiZmRiYTQ2MzNiYjlkYTY1YzJjMjZjMTM4`

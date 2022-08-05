@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-143 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+144 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [I Hear a Symphony](https://open.spotify.com/track/3KfTWH9HcFZtOnZXaMT0Rt) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/0ipYqwFFvSHdNU6CcbQEsZ) | 3:05 | 2022-05-17 |  |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2022-05-17 |  |
 | [I'm in Love With an E\-Girl](https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [I'm in Love With an E\-Girl](https://open.spotify.com/album/2IrovQloj4bX8iUnCd0Usp) | 3:59 | 2022-05-17 | 2022-06-17 |
+| [I've Had Enough](https://open.spotify.com/track/534P1wgOzlgSogu8At0B6b) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [I've Had Enough](https://open.spotify.com/album/2iUmotCQAv7gJVmBKZGKwo) | 3:30 | 2022-08-04 |  |
 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-07-22 |  |
 | [Infinite Jest](https://open.spotify.com/track/4qH2jxgvGcGuxh2JReRte4) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Infinite Jest](https://open.spotify.com/album/0qgrQvpCkOLz3kCTUPr1CZ) | 4:34 | 2022-05-17 |  |
 | [It's All Futile! It's All Pointless!](https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:40 | 2022-06-14 | 2022-07-13 |
@@ -114,7 +115,7 @@
 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 | 2022-05-17 |  |
 | [Rät](https://open.spotify.com/track/25z6kpmIwkCUqk2IORrJ5v) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:14 | 2022-05-17 | 2022-07-29 |
 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 | 2022-06-07 |  |
-| [Sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [Sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 | 2022-06-24 |  |
+| [sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 | 2022-06-24 |  |
 | [Self Care](https://open.spotify.com/track/669CGeHFCfFkSIQu13WuUL) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 1:23 | 2022-05-17 | 2022-06-28 |
 | [Sex with a Ghost](https://open.spotify.com/track/1Y2583xYzwiEXDetAB7H1Q) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:00 | 2022-05-17 |  |
 | [Sexy](https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts) | [Kate Rockwell](https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:35 | 2022-06-24 | 2022-07-16 |
