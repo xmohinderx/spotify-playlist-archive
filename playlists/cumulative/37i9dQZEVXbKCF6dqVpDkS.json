@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 172235,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7lP1zUASWfS5TLBdQDj3DA"
@@ -3941,7 +3941,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 160177,
       "name": "El Cl\u00e1sico",
       "url": "https://open.spotify.com/track/60AXxYSSMIcULLhw3RO9yn"
@@ -7749,6 +7749,28 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "Lekkere Boterham",
+        "url": "https://open.spotify.com/album/1eT9ndZ7zVecwXFXipQRdC"
+      },
+      "artists": [
+        {
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120433,
+      "name": "Lekkere Boterham",
+      "url": "https://open.spotify.com/track/1xQ7uibzjdYQ0UsIKhdF5E"
     },
     {
       "album": {
@@ -13159,6 +13181,32 @@
       "duration_ms": 123167,
       "name": "Veppie vroom",
       "url": "https://open.spotify.com/track/7xdErSNSM2KrduVTGZvoX9"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/1z0AKJhbx7jiVu0SlsyMhW"
+      },
+      "artists": [
+        {
+          "name": "Rotjoch",
+          "url": "https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213566,
+      "name": "Verdien Model",
+      "url": "https://open.spotify.com/track/2QKr1BQ4K2I4sL73kZ1HSy"
     },
     {
       "album": {

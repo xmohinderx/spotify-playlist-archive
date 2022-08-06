@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Doe Boy",
+  "description": "The Midwest is always on time. Cover: Trippie Redd",
   "name": "CST",
   "published_playlist_ids": [
     "41V1Pq5RMClkd6MJCSDWfC"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 185666,
       "name": "A1 Since Day 1",
       "url": "https://open.spotify.com/track/3nVp8DQIQU9ow8W0kg6OmO"
@@ -522,6 +522,32 @@
     },
     {
       "album": {
+        "name": "Big 14 (feat. Offset & Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247458,
+      "name": "Big 14 (feat. Offset & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw"
+    },
+    {
+      "album": {
         "name": "Big Worm",
         "url": "https://open.spotify.com/album/0LVpFzyfNFDbtq3ZeDLkyA"
       },
@@ -559,6 +585,28 @@
       "duration_ms": 229333,
       "name": "Black Illuminati (feat. Jadakiss)",
       "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
+    },
+    {
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/0SV6VMXNkzLelAS2nq4fa0"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Trdee",
+          "url": "https://open.spotify.com/artist/48BxYnkFMs8KAXg23YTWXi"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146991,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/27leakGsUzeTnIBNLbvqyC"
     },
     {
       "album": {
@@ -671,7 +719,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175199,
       "name": "Bring Some Mo (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu"
@@ -915,7 +963,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 162314,
       "name": "Coochie Flow (feat. Rio Da Yung OG & Louie Ray)",
       "url": "https://open.spotify.com/track/6CM1Y2Zk3LkqysmhnA5ij9"
@@ -1495,7 +1543,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 215120,
       "name": "From The D 2 The LBC (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
@@ -2004,6 +2052,28 @@
     },
     {
       "album": {
+        "name": "I Told Her (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/1llYHboVMsUMORLIq5CssO"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142759,
+      "name": "I Told Her (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6PF4penvueXSemUAILV3Bd"
+    },
+    {
+      "album": {
         "name": "Ice Cream (feat. Rick Ross)",
         "url": "https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0"
       },
@@ -2140,6 +2210,28 @@
     },
     {
       "album": {
+        "name": "Curtain Call 2",
+        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "Is This Love ('09) (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
+    },
+    {
+      "album": {
         "name": "It Ain't My Fault",
         "url": "https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0"
       },
@@ -2163,6 +2255,28 @@
       "duration_ms": 206720,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps"
+    },
+    {
+      "album": {
+        "name": "It's All on U",
+        "url": "https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "It's All on U",
+      "url": "https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3"
     },
     {
       "album": {
@@ -4089,7 +4203,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 109322,
       "name": "That Thang Thangin",
       "url": "https://open.spotify.com/track/2s9zRKnrehtQNpyvudnVEj"
@@ -4389,6 +4503,24 @@
       "duration_ms": 181036,
       "name": "Unkle Hell Yea",
       "url": "https://open.spotify.com/track/48eM3oM9WMTHsSe1RSBIE3"
+    },
+    {
+      "album": {
+        "name": "Up There",
+        "url": "https://open.spotify.com/album/29hfwE0CF1DUhaXv6rbUih"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Up There",
+      "url": "https://open.spotify.com/track/1WNqjTgA1Km06ql7EpNAiM"
     },
     {
       "album": {

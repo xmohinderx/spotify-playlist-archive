@@ -2,9 +2,9 @@
 
 ### [Chillout Lounge](https://open.spotify.com/playlist/37i9dQZF1DWTvNyxOwkztu)
 
-> Just lean back and enjoy relaxed beats.
+> Just lean back and enjoy these relaxed beats.
 
-201 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+203 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Be Your Home](https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat) | [minite](https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY) | [Be Your Home](https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M) | 2:31 | 2022-06-02 |  |
 | [Before](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT) | [Fresh Faces](https://open.spotify.com/artist/054OEgiAhYwnqHQOV2KmSc) | [Before](https://open.spotify.com/album/0ZgzhNN2wnyVnDjlRKi0vK) | 2:34 | 2022-03-25 | 2022-06-08 |
 | [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 | 2021-12-09 |  |
+| [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-08-05 |  |
 | [Blue Room](https://open.spotify.com/track/0kALrkZ7O7dZfLuwjD0wDT) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/64wlWLiCzubQBn4zxkCwxc) | 2:07 | 2022-06-02 |  |
 | [Blue Room](https://open.spotify.com/track/7pVWQOxI0kKpe4Lo7AJ7qZ) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/1nz37Y6wJVp4eVngCLeHhe) | 2:07 | 2021-12-09 | 2022-07-29 |
 | [Boardwalk Lullaby](https://open.spotify.com/track/36Y9QenzjmEBtuOBz14dNA) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Boardwalk Lullaby](https://open.spotify.com/album/5czR37oCAa3TYKxuAQzfJJ) | 2:44 | 2022-06-02 |  |
@@ -43,7 +44,7 @@
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-12-09 |  |
 | [Chemistry](https://open.spotify.com/track/3n6uWdbX8vFTow82wyiQBm) | [Tape Machines](https://open.spotify.com/artist/6geC8EbDc3ifaSAbx3RESQ) | [Evergreen Fields](https://open.spotify.com/album/3z6g4EFGP062VY6kQNqBE8) | 3:42 | 2021-12-09 |  |
 | [Close To Me](https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Close To Me](https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7) | 2:35 | 2022-05-20 |  |
-| [Coastline](https://open.spotify.com/track/1KKwWyAsFQBORAgdYDHWle) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Coastline](https://open.spotify.com/album/6ClBl2fFlwWNH4wNJbBOW0) | 3:20 | 2021-12-09 |  |
+| [Coastline](https://open.spotify.com/track/1KKwWyAsFQBORAgdYDHWle) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Coastline](https://open.spotify.com/album/6ClBl2fFlwWNH4wNJbBOW0) | 3:20 | 2021-12-09 | 2022-08-06 |
 | [Codes In The Clouds](https://open.spotify.com/track/32MJvuJdVdfRItTDljrP9X) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Am épos am érgon](https://open.spotify.com/album/6IWazlFeA8ukoGAZwVrqxw) | 2:26 | 2021-12-09 | 2022-04-21 |
 | [Coffee Break](https://open.spotify.com/track/0ExYatKbwbodCrVuA0uEH7) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Dreaming in Colour](https://open.spotify.com/album/4t5Ny1A5RTzUScEZ1risaq) | 3:36 | 2021-12-09 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG) | 2:49 | 2022-06-02 |  |
@@ -75,6 +76,7 @@
 | [Free Spirit](https://open.spotify.com/track/6gJE25UxGpGXv2WC01VCt0) | [Cozy Corner](https://open.spotify.com/artist/43Mi1E2W4bDMqtajienKXY) | [Gratitude](https://open.spotify.com/album/0YuuEP9RnrI3OVtJiug7jr) | 2:33 | 2022-03-25 | 2022-04-21 |
 | [Fugue State](https://open.spotify.com/track/19YsbHChoiVouSEJHuWFxm) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Fugue State](https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg) | 3:25 | 2021-12-09 | 2022-07-28 |
 | [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 | 2022-03-25 | 2022-07-28 |
+| [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 | 2022-08-05 |  |
 | [Glass and Plastic \(Instrumental Version\)](https://open.spotify.com/track/2yfAkyDlAzx3zuMvgC0N9g) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Glass and Plastic](https://open.spotify.com/album/6OvqhTnUPNZ2GSPzp5x8WP) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [Goldclap](https://open.spotify.com/track/1lDEM6ESKlPj3wFBTtZ8Z8) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Fall Again](https://open.spotify.com/album/669HtfPdwIVB2sCpdF0bbU) | 3:59 | 2021-12-09 | 2022-02-21 |
 | [Halo](https://open.spotify.com/track/1p9cjLG43MuaenXlUMvzgP) | [Okwen](https://open.spotify.com/artist/4snWBwVHKKPJ4Ha9LrcLaY) | [Halo](https://open.spotify.com/album/6QofnAjTE7W1sbd1HSGqG7) | 4:18 | 2021-12-09 | 2022-02-27 |
@@ -85,7 +87,7 @@
 | [Heat Waves](https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Heat Waves](https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd) | 2:37 | 2022-03-25 | 2022-07-19 |
 | [High Fly](https://open.spotify.com/track/2LBf4COkSAdeWiErXJXJ7l) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [High Fly](https://open.spotify.com/album/6OtdbB8E8qul34J2xyI4Bv) | 4:20 | 2021-12-09 |  |
 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 | 2021-12-09 | 2022-07-28 |
-| [I Might As Well Live In A Hotel Room](https://open.spotify.com/track/5yU6mVDfsrRzE20ZjYb1np) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [I Might As Well Live In A Hotel Room](https://open.spotify.com/album/3VHwo1i4tgdhmociAJ18DH) | 2:33 | 2021-12-09 |  |
+| [I Might As Well Live In A Hotel Room](https://open.spotify.com/track/5yU6mVDfsrRzE20ZjYb1np) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [I Might As Well Live In A Hotel Room](https://open.spotify.com/album/3VHwo1i4tgdhmociAJ18DH) | 2:33 | 2021-12-09 | 2022-08-06 |
 | [Idiot \(SLCT Remix\) \(Instrumental Version\)](https://open.spotify.com/track/5PprWUDtMegwUWZkPwHjDQ) | [Nahra](https://open.spotify.com/artist/4MKfFnhGNxVnw0dgpgCBeQ), [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [SLCT Takeover Vol\. 1 \(Instrumental\)](https://open.spotify.com/album/7AUJ2hfbg68b8vuUQ0DgDy) | 3:11 | 2021-12-09 | 2022-05-18 |
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2022-03-11 |  |
 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 | 2021-12-09 |  |
@@ -163,7 +165,7 @@
 | [Soldiner](https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Soldiner](https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu) | 5:46 | 2022-03-25 | 2022-04-19 |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-12-09 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-12-09 |  |
-| [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 | 2021-12-09 | 2022-07-29 |
+| [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 | 2021-12-09 |  |
 | [Stardust](https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Room for Thought](https://open.spotify.com/album/5EjPFBdTPs7tFd2N1K9spD) | 2:24 | 2021-12-09 | 2022-05-10 |
 | [Step By Step](https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Step By Step](https://open.spotify.com/album/488BJzweFOikT4WEI2PD0N) | 2:47 | 2021-12-09 | 2022-07-28 |
 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 | 2021-12-09 |  |
@@ -205,7 +207,7 @@
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2021-12-09 |  |
 | [White Sand](https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [White Sand](https://open.spotify.com/album/2UsS2tEkeUIi4vRS1dkRQH) | 3:08 | 2021-12-09 |  |
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 |  |
-| [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 |  |
+| [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 | 2022-08-06 |
 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 | 2021-12-09 |  |
 | [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 | 2022-05-20 | 2022-07-29 |
 | [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 | 2021-12-09 |  |

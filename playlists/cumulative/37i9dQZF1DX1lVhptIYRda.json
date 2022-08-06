@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits of the week, worldwide! Cover: Hailey Whitters",
+  "description": "Today's top country hits of the week, worldwide! Cover: Dylan Scott",
   "name": "Hot Country",
   "published_playlist_ids": [
     "6kgRyUaLssWEGETpjboDD4"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 176573,
       "name": "Baby I Am",
       "url": "https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD"
@@ -8550,6 +8550,24 @@
     },
     {
       "album": {
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189306,
+      "name": "That's What Tequila Does",
+      "url": "https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei"
+    },
+    {
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5"
       },
@@ -9173,7 +9191,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 203036,
       "name": "Truth About You",
       "url": "https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4"
@@ -10057,6 +10075,28 @@
       "duration_ms": 205746,
       "name": "Worship You",
       "url": "https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM"
+    },
+    {
+      "album": {
+        "name": "Worth A Shot (feat. Dierks Bentley)",
+        "url": "https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Worth A Shot (feat. Dierks Bentley)",
+      "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"
     },
     {
       "album": {

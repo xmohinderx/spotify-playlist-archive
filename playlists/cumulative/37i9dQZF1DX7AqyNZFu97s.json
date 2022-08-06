@@ -1220,6 +1220,28 @@
     },
     {
       "album": {
+        "name": "but my sister",
+        "url": "https://open.spotify.com/album/6iGobvJdiBpAwORj4E23xy"
+      },
+      "artists": [
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        },
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "but my sister",
+      "url": "https://open.spotify.com/track/4NHGE6ml5ymmtYJgncrWNm"
+    },
+    {
+      "album": {
         "name": "c.w.u.c",
         "url": "https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C"
       },

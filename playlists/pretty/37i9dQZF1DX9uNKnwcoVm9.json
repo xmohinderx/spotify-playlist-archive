@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 192061,
+  "num_followers": 192169,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDU3MTA5ODI0ZWM3MzRhNjEyN2RjMjFmYTNiNTcxZmY2",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDdlMzc4MDI3NGE4YzliZGRmYTFlNDQxYzI0ZGQ3Yjc3",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -435,18 +435,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Mu\u00e9strame Tu Gloria",
-        "url": "https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
         }
       ],
-      "duration_ms": 403266,
-      "name": "Abre Mis Ojos",
-      "url": "https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H"
+      "duration_ms": 445906,
+      "name": "Qu\u00e9 Se Abra El Cielo (Feat. Marcos Brunet)",
+      "url": "https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -467,22 +471,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+        "name": "Mu\u00e9strame Tu Gloria",
+        "url": "https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF"
       },
       "artists": [
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 445906,
-      "name": "Qu\u00e9 Se Abra El Cielo (Feat. Marcos Brunet)",
-      "url": "https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv"
+      "duration_ms": 403266,
+      "name": "Abre Mis Ojos",
+      "url": "https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Motivos Para Amarte",
-        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Pedir Perdon",
-      "url": "https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Por Fin en Casa",
         "url": "https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 287116,
       "name": "Hijo Pr\u00f3digo",
       "url": "https://open.spotify.com/track/2DpqxoZ3YbEmFpdTREjvOS"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Motivos Para Amarte",
+        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Pedir Perdon",
+      "url": "https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/5GWkPY9tYCZXLHswGzo0ZR"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 234057,
+      "name": "Parece un Sueno",
+      "url": "https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Padre Nuestro",
         "url": "https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 371013,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "He Visto Su Gloria",
-        "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
-      },
-      "artists": [
-        {
-          "name": "Tony P\u00e9rez",
-          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
-        }
-      ],
-      "duration_ms": 323693,
-      "name": "Gracias Se\u00f1or",
-      "url": "https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1"
     },
     {
       "added_at": "2020-11-24 13:23:38",

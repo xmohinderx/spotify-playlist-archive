@@ -4,7 +4,7 @@
 
 > in the evening the real me comes alive
 
-425 songs - 1 day 0 hr 19 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+427 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,12 +86,12 @@
 | [cologne](https://open.spotify.com/track/4fg9f45CwQmbGbwsdH1q4h) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [cologne](https://open.spotify.com/album/2H1DLafa0NXc3NxvC7Iqse) | 3:50 | 2020-10-13\* | 2020-11-18 |
 | [Colourblind](https://open.spotify.com/track/3G7f7oJuDmJ7CFgbkfDiJp) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming \- EP](https://open.spotify.com/album/49QPpqyxeTbzWHUJpZuUsC) | 3:26 | 2020-10-13\* | 2020-11-18 |
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-09 | 2022-07-30 |
-| [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-11 |  |
+| [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-11 | 2022-08-06 |
 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 | 2022-04-16 |  |
 | [cool](https://open.spotify.com/track/11G215Sz8i5QKoU7OnAcON) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [cool](https://open.spotify.com/album/5QwVVZAzqo78YXOIcwcWU2) | 3:06 | 2021-09-25 | 2022-03-18 |
 | [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 | 2022-03-25 |  |
 | [CORDUROY](https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [hello TRINITY](https://open.spotify.com/album/03h1vbYJqvoI1fpnBDWuvh) | 3:11 | 2021-11-20 | 2022-02-12 |
-| [Cosmic Lover](https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4) | 3:24 | 2022-07-29 |  |
+| [Cosmic Lover](https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4) | 3:24 | 2022-07-29 | 2022-08-06 |
 | [count on](https://open.spotify.com/track/1A4tabNlyLKLOHQW2XpjaU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Colin](https://open.spotify.com/artist/1VBF82bIhEpKowEnCNB8Cu) | [count on](https://open.spotify.com/album/3Crvq8uqSTfvnn4IbIzAHY) | 3:26 | 2020-10-13\* | 2021-12-04 |
 | [Crazier Things](https://open.spotify.com/track/2ptqYXyQ1QdArGjbrTzBaU) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 5:04 | 2020-11-18 | 2021-11-20 |
 | [Cynical](https://open.spotify.com/track/2LW4Bkirg94ae861UMg4bW) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Cynical](https://open.spotify.com/album/6CkRa8wMIAPDJYiPXA6nHp) | 3:09 | 2020-10-13\* | 2021-09-25 |
@@ -256,6 +256,7 @@
 | [Loved You Once](https://open.spotify.com/track/3LbwR2WcofkDBp4LSgGJh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Loved You Once](https://open.spotify.com/album/01iLv3vWw6HJNlpkpazU8G) | 2:28 | 2020-10-13\* | 2021-12-04 |
 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 | 2021-08-28 | 2022-04-17 |
 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 | 2020-11-18 | 2021-07-10 |
+| [Lucid Dreams](https://open.spotify.com/track/0kdYu42jVmgCLYL30p2CpE) | [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Lucid Dreams](https://open.spotify.com/album/3LsS2fhWr9oD7qta0bWgFR) | 3:17 | 2022-08-05 |  |
 | [Lucky Strike](https://open.spotify.com/track/4RoArPM0AsuW3h8hW8xtnr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:28 | 2020-10-13\* | 2021-07-04 |
 | [Married to Your Melody](https://open.spotify.com/track/5G0gqPXbupyLOqUrWksyEY) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/0wjWPQyNGZ92HWz5sdCyxt) | 2:58 | 2022-07-21 |  |
 | [Married to Your Melody](https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su) | 2:58 | 2022-04-22 | 2022-07-28 |
@@ -274,6 +275,7 @@
 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 | 2020-10-13\* | 2021-07-17 |
 | [Nervous](https://open.spotify.com/track/6HQMwVTq0x383g45PwZw5w) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Nervous](https://open.spotify.com/album/7lVfiGJFKqdNSoMj3e55uN) | 2:41 | 2021-07-10 | 2021-11-19 |
 | [Neverland](https://open.spotify.com/track/7MeQGVoZEyol99EadwbBFN) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Neverland](https://open.spotify.com/album/6QipvBed5y4lifalcQ4CwO) | 4:15 | 2021-10-30 | 2022-04-17 |
+| [New Suit](https://open.spotify.com/track/1auZ3DJqZsymv2rD5KCQas) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [New Suit](https://open.spotify.com/album/38XrEkU4TP9hAhE70eDCjC) | 2:32 | 2022-08-05 |  |
 | [New Touch](https://open.spotify.com/track/3nIuToFDtD5JmECKtNg8C2) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [New Touch](https://open.spotify.com/album/3fwZ5LEED1RZbclsjbDTFX) | 3:16 | 2022-05-13 | 2022-07-25 |
 | [New York](https://open.spotify.com/track/5bGTC0fJjJ2W4FwxSTVvZo) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [New York](https://open.spotify.com/album/3zPivWoN3l92IvD5QxI7Uv) | 3:46 | 2021-11-13 | 2022-04-17 |
 | [Nicer](https://open.spotify.com/track/3mL3jFNJ2irVn02EdkYBu2) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer](https://open.spotify.com/album/51HQqGdM5M4BBvSHEKaffN) | 3:22 | 2021-09-25 | 2022-07-29 |

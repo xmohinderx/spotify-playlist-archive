@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,383 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,389 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 36 | [Up Top Boss](https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn) | 3:30 |
 | 37 | [Tick Pon Cock](https://open.spotify.com/track/0hi53rAi8089F1DnwsRroK) | [SUPA NYTRO](https://open.spotify.com/artist/63UiEB8udvGCvXX1D7VSLF), [Natz B](https://open.spotify.com/artist/6g19CjWx79OK8qiL8aceQn) | [Tick Pon Cock](https://open.spotify.com/album/3uh9i9joEPOB15yQJWNZRf) | 3:12 |
 | 38 | [Up & Up](https://open.spotify.com/track/35Y7HJHsOaV1CQ8RisAqpd) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:09 |
-| 39 | [Stage Gone Bad](https://open.spotify.com/track/7Jdsj4nNANukieGgE5IMmd) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Stage Gone Bad](https://open.spotify.com/album/6PrUIGQ2hHkLLnpebac6m5) | 3:13 |
-| 40 | [Anthem](https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi) | [Anthem](https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI) | 2:55 |
+| 39 | [Anthem](https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi) | [Anthem](https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI) | 2:55 |
+| 40 | [Stage Gone Bad](https://open.spotify.com/track/7Jdsj4nNANukieGgE5IMmd) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Stage Gone Bad](https://open.spotify.com/album/6PrUIGQ2hHkLLnpebac6m5) | 3:13 |
 | 41 | [Play Harder](https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Pop's Guitar Riddim](https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg) | 3:41 |
 | 42 | [Ba Ba Ben \- Remix](https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Noah Powa](https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN), [Lil Rick](https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA) | [Ba Ba Ben \(Remix\)](https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug) | 3:25 |
 | 43 | [Weak](https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 2:49 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 58 | [Bad in Bum Bum / Back Bend](https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E) | [Subance](https://open.spotify.com/artist/0OjTKknaOkq9QvKKffPdpU), [Mighty](https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju) | [Bad in Bum Bum / Back Bend](https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q) | 2:31 |
 | 59 | [Feeling It](https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL) | 4:07 |
 | 60 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/4s0lXstgGUbGesnLJb02Hy) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1X5vD2UTatpahQUM0mbHSR) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/64b0DuMUUkZcCG74lK0O1k) | 2:15 |
-| 61 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
-| 62 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
+| 61 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
+| 62 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
 | 63 | [Wine](https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Toco Loco Riddim](https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R) | 3:04 |
 | 64 | [Down in de Meat](https://open.spotify.com/track/53vZJIaSsJW6VE5qMwuA8a) | [Lednek](https://open.spotify.com/artist/0zjsPa0DklEYp44vmnEMCj) | [Smoke Mask Riddim](https://open.spotify.com/album/3y8wtlDAAWDehbuJCaZG3Q) | 3:22 |
 | 65 | [Tombstone](https://open.spotify.com/track/5y3BRj2jk5ifjwRmPvrNk6) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4JufEdzLQ2yJkXOlXknrLG) | 3:50 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Pon D Tip](https://open.spotify.com/track/3YNb5kxEhLSlCKccIQCZeU) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF), [Diamond Jay](https://open.spotify.com/artist/4R3iglYcnwagjhCiIT5uaO) | [Pon D Tip](https://open.spotify.com/album/0pF3tD5nsiR6YJv3NYimV2) | 2:30 |
 | 68 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDVlZmUxMzEzNTU5YzZjMDQ5OWM2MWRiMGMwNDQxNTE0`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDJmN2I4MzdlYzYyOTQwMzNiMTg5ZWE5MDViMDEyMjBj`

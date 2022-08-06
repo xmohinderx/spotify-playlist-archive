@@ -1,12 +1,12 @@
 {
   "description": "The pulse of R&B music today.  Cover: Beyonc\u00e9",
-  "num_followers": 5947747,
+  "num_followers": 5947801,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2Nzg2NywwMDAwMDAwMDM2N2UyMDQ1NjQ0MDM2MmYyNTU1N2YyYTdmMzcwZjQy",
+  "snapshot_id": "MTY1OTY3MjczMSwwMDAwMDAwMDg3OGIwNmZmNTZlZjQxZjg4MGExM2M1MjI4YWQ0YjM3",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:07",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 224472,
-      "name": "CHURCH GIRL",
-      "url": "https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA"
+      "duration_ms": 254319,
+      "name": "PLASTIC OFF THE SOFA",
+      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
     },
     {
       "added_at": "2022-07-09 00:42:47",
@@ -61,20 +61,24 @@
       "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
+      "added_at": "2022-06-17 13:37:27",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "Gotta Move On (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 200191,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/7r1MqPAD09w24mCUUbxiCI"
+      "duration_ms": 160776,
+      "name": "Gotta Move On (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav"
     },
     {
       "added_at": "2022-06-17 13:37:27",
@@ -93,20 +97,20 @@
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
-      "added_at": "2022-06-17 13:37:27",
+      "added_at": "2022-06-24 04:00:00",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
+      "duration_ms": 200191,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/7r1MqPAD09w24mCUUbxiCI"
     },
     {
       "added_at": "2022-07-09 00:42:47",
@@ -123,6 +127,22 @@
       "duration_ms": 162006,
       "name": "ROLLING STONE",
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
+    },
+    {
+      "added_at": "2022-06-17 13:37:27",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2022-06-17 13:37:27",
@@ -145,26 +165,6 @@
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
     },
     {
-      "added_at": "2022-06-17 13:37:27",
-      "album": {
-        "name": "Gotta Move On (feat. Bryson Tiller)",
-        "url": "https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Gotta Move On (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav"
-    },
-    {
       "added_at": "2022-07-29 04:11:07",
       "album": {
         "name": "RENAISSANCE",
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+      "duration_ms": 224472,
+      "name": "CHURCH GIRL",
+      "url": "https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA"
     },
     {
       "added_at": "2022-07-22 04:01:35",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
     },
     {
-      "added_at": "2022-07-29 04:11:07",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 254319,
-      "name": "PLASTIC OFF THE SOFA",
-      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
       "added_at": "2022-06-17 13:37:27",
       "album": {
         "name": "blue water road",
@@ -335,22 +319,6 @@
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
-    },
-    {
-      "added_at": "2022-07-22 04:01:35",
-      "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 201592,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -389,6 +357,78 @@
       "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
     },
     {
+      "added_at": "2022-07-29 04:11:07",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2022-06-17 13:37:27",
+      "album": {
+        "name": "Keeps On Fallin' (with Ella Mai)",
+        "url": "https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Keeps On Fallin' (with Ella Mai)",
+      "url": "https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4"
+    },
+    {
+      "added_at": "2022-07-15 04:03:06",
+      "album": {
+        "name": "Sunshine (feat. Foushe\u00e9)",
+        "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Sunshine (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
+    },
+    {
+      "added_at": "2022-06-17 13:37:27",
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
+    },
+    {
       "added_at": "2022-06-17 13:37:27",
       "album": {
         "name": "Say Yea",
@@ -421,6 +461,22 @@
       "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
     },
     {
+      "added_at": "2022-07-09 00:42:47",
+      "album": {
+        "name": "ON THE ROCKS",
+        "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Hennessy Tears",
+      "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
+    },
+    {
       "added_at": "2022-06-17 13:37:27",
       "album": {
         "name": "Still Over It",
@@ -435,42 +491,6 @@
       "duration_ms": 189905,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3pcxxaUxAMSfz2zgetHydD"
-    },
-    {
-      "added_at": "2022-07-29 04:11:07",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
-    },
-    {
-      "added_at": "2022-06-17 13:37:27",
-      "album": {
-        "name": "Keeps On Fallin' (with Ella Mai)",
-        "url": "https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Keeps On Fallin' (with Ella Mai)",
-      "url": "https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4"
     },
     {
       "added_at": "2022-07-29 04:11:07",
@@ -493,42 +513,6 @@
       "url": "https://open.spotify.com/track/4kdYtWcbHiXdPnjEDrS1nn"
     },
     {
-      "added_at": "2022-06-17 13:37:27",
-      "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
-    },
-    {
-      "added_at": "2022-07-15 04:03:06",
-      "album": {
-        "name": "Sunshine (feat. Foushe\u00e9)",
-        "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Sunshine (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
-    },
-    {
       "added_at": "2022-07-09 00:42:47",
       "album": {
         "name": "3000\u00b0",
@@ -547,6 +531,26 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
+      "added_at": "2022-07-09 00:42:47",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Such A Thing",
+      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
       "added_at": "2022-06-17 13:37:27",
@@ -581,88 +585,64 @@
       "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
     },
     {
-      "added_at": "2022-07-09 00:42:47",
+      "added_at": "2022-07-29 04:11:07",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 226011,
-      "name": "LOOSE CHANGE",
-      "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
     },
     {
-      "added_at": "2022-07-09 00:42:47",
+      "added_at": "2022-06-17 13:37:27",
       "album": {
-        "name": "Heaux Tales, Mo' Tales: The Deluxe",
-        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
+        "name": "No Love (with SZA & Cardi B) [Extended Version]",
+        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Roster",
-      "url": "https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH"
-    },
-    {
-      "added_at": "2022-07-09 00:42:47",
-      "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 255053,
-      "name": "The Mood (feat. D Smoke)",
-      "url": "https://open.spotify.com/track/6qrKGpH3OFoob1JbCibDn0"
+      "duration_ms": 276214,
+      "name": "No Love (with SZA & Cardi B) - Extended Version",
+      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
     },
     {
-      "added_at": "2022-07-09 00:42:47",
+      "added_at": "2022-06-17 13:37:27",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Tryna Be",
-      "url": "https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe"
-    },
-    {
-      "added_at": "2022-07-09 00:42:47",
-      "album": {
-        "name": "ON THE ROCKS",
-        "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
-      },
-      "artists": [
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
         {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 243293,
-      "name": "Hennessy Tears",
-      "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
+      "duration_ms": 141757,
+      "name": "Honey (with Muni Long)",
+      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
     },
     {
       "added_at": "2022-06-17 13:37:27",
@@ -701,68 +681,104 @@
       "url": "https://open.spotify.com/track/7I8lyqN33b5u26avtR6NiK"
     },
     {
-      "added_at": "2022-06-17 13:37:27",
+      "added_at": "2022-07-09 00:42:47",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 141757,
-      "name": "Honey (with Muni Long)",
-      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2022-06-17 13:37:27",
-      "album": {
-        "name": "No Love (with SZA & Cardi B) [Extended Version]",
-        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 276214,
-      "name": "No Love (with SZA & Cardi B) - Extended Version",
-      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
+      "duration_ms": 170653,
+      "name": "Tryna Be",
+      "url": "https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe"
     },
     {
       "added_at": "2022-07-09 00:42:47",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 205479,
-      "name": "Such A Thing",
-      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
+      "duration_ms": 226011,
+      "name": "LOOSE CHANGE",
+      "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
+    },
+    {
+      "added_at": "2022-07-09 00:42:47",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "DFMU",
+      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
+    },
+    {
+      "added_at": "2022-07-22 04:01:35",
+      "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 201592,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
+    },
+    {
+      "added_at": "2022-07-09 00:42:47",
+      "album": {
+        "name": "Heaux Tales, Mo' Tales: The Deluxe",
+        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Roster",
+      "url": "https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH"
+    },
+    {
+      "added_at": "2022-07-09 00:42:47",
+      "album": {
+        "name": "Hello Poison",
+        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "The Mood (feat. D Smoke)",
+      "url": "https://open.spotify.com/track/6qrKGpH3OFoob1JbCibDn0"
     },
     {
       "added_at": "2022-06-17 13:37:27",
@@ -783,22 +799,6 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
-    },
-    {
-      "added_at": "2022-07-09 00:42:47",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "DFMU",
-      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
     },
     {
       "added_at": "2022-06-17 13:37:27",
@@ -851,22 +851,6 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "added_at": "2022-06-17 13:37:27",
-      "album": {
-        "name": "Forest in the City",
-        "url": "https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "wish that i could",
-      "url": "https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU"
     },
     {
       "added_at": "2022-06-17 13:37:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,750 likes - 90 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,773 likes - 89 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 81 | [You've Got To Change](https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Berlin Sessions](https://open.spotify.com/album/0IDJHvzYJdJ95VtHUOKhqg) | 3:58 |
 | 82 | [Rile 'Em Up](https://open.spotify.com/track/4mvVLWbe50QZg4QJhzBztu) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:27 |
 | 83 | [Pushin' On](https://open.spotify.com/track/3nPUw7RAT82QX2Yg1awMuM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/5NL85zevDT2D9Rx8M1rMno) | 3:19 |
-| 84 | [Let a Man Do What He Wanna Do](https://open.spotify.com/track/21tzl7QqFs2UJwaGQpwtCk) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let a Man Do What He Wanna Do](https://open.spotify.com/album/6VlxpL1jxNMJ1b8XEgV70i) | 2:50 |
-| 85 | [Wanna Do \(Funk With You\)](https://open.spotify.com/track/7Mg0Lbc0ehV83usNMmZlKi) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Wanna Do \(Funk With You\)](https://open.spotify.com/album/1bLTjPXpIsnU3WqBwxM5hH) | 3:21 |
-| 86 | [Checker Wrecker](https://open.spotify.com/track/7CmmRmYeCU9BGU3NVY3z0r) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:50 |
-| 87 | [Whatever \(feat\. Bootsy Collins\)](https://open.spotify.com/track/0KlnFmi4G9od9PQ2niFSGO) | [Uché](https://open.spotify.com/artist/2b2yYpcmZA6gDChy2EBvUW), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Whatever \(feat\. Bootsy Collins\)](https://open.spotify.com/album/1wkdRyItSsjQbh8oz9j1YG) | 3:35 |
-| 88 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
-| 89 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
-| 90 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 |
+| 84 | [Wanna Do \(Funk With You\)](https://open.spotify.com/track/7Mg0Lbc0ehV83usNMmZlKi) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Wanna Do \(Funk With You\)](https://open.spotify.com/album/1bLTjPXpIsnU3WqBwxM5hH) | 3:21 |
+| 85 | [Checker Wrecker](https://open.spotify.com/track/7CmmRmYeCU9BGU3NVY3z0r) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:50 |
+| 86 | [Whatever \(feat\. Bootsy Collins\)](https://open.spotify.com/track/0KlnFmi4G9od9PQ2niFSGO) | [Uché](https://open.spotify.com/artist/2b2yYpcmZA6gDChy2EBvUW), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Whatever \(feat\. Bootsy Collins\)](https://open.spotify.com/album/1wkdRyItSsjQbh8oz9j1YG) | 3:35 |
+| 87 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
+| 88 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
+| 89 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 |
 
-Snapshot ID: `MTY1Nzg1NzcyMCwwMDAwMDAwMDA0OTYwMTM0MjhiNTIyNWNjMGJhZmQ2NzFiYjE2MjVk`
+Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDBlYzA2MGVhZDlmZmZhOGJmZWU2MTU2MGU3NzE3NGJl`

@@ -2,9 +2,9 @@
 
 ### [Popetón](https://open.spotify.com/playlist/37i9dQZF1DWTPDzakLfYZr)
 
-> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Trueno y J Balvin
+> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Nicky Jam
 
-166 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
+167 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 | 2021-12-10 |  |
 | [Increíble](https://open.spotify.com/track/3FwuYa9IoH9C8Fq2qKWXZq) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Increíble](https://open.spotify.com/album/1CmLeTXhtDMnbmcDw8cvDR) | 2:09 | 2021-12-10 |  |
 | [Istanbul](https://open.spotify.com/track/5OFdEs9eJVcwIh6dhSNi0q) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Istanbul](https://open.spotify.com/album/3ABBjz0LWeVcKhAuQMkJBE) | 2:28 | 2022-03-04 | 2022-04-29 |
-| [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-07-22 |  |
+| [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-07-22 | 2022-08-06 |
 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2021-12-10 | 2022-01-22 |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2021-12-10 |  |
 | [La Elegida](https://open.spotify.com/track/7KR4aRgdrMRSXMZEJpwUIK) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [La Elegida](https://open.spotify.com/album/7CHGIjwyjySzeHJOoKceLi) | 2:54 | 2022-02-11 | 2022-03-05 |
@@ -150,6 +150,7 @@
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-12-10 |  |
 | [Será](https://open.spotify.com/track/2DElz2QWtR8ME3VTXsOlWN) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Será](https://open.spotify.com/album/0uLEkoSJkTWfAaVnEGlbja) | 3:02 | 2021-12-10 |  |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2021-12-10 |  |
+| [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-08-05 |  |
 | [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-07-22 |  |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-12-10 |  |
 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 | 2022-06-24 |  |

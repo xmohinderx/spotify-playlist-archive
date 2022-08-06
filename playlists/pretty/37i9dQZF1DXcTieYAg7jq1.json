@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 398377,
+  "num_followers": 398447,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDY4Nzc0Y2VkMjUzZmEyYTBhZmY0NjNkNGI0M2ZjMTYw",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMGM4YzUxNjRjZGY0OWZmMmY5NDUwNWFkNTY0MGFjZmFj",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
@@ -207,6 +191,22 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "dose",
-        "url": "https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 180807,
-      "name": "dose",
-      "url": "https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Fresh Roses",
@@ -483,6 +467,22 @@
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "dose",
+        "url": "https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 180807,
+      "name": "dose",
+      "url": "https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "BREATH",
-        "url": "https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "BREATH",
-      "url": "https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Madelyn",
@@ -1331,6 +1315,22 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "BREATH",
+        "url": "https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "BREATH",
+      "url": "https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU"
     },
     {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        }
+      ],
+      "duration_ms": 197290,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Woman on the Internet",
@@ -1451,22 +1467,6 @@
       "duration_ms": 224638,
       "name": "Madison",
       "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "comfortably in pain",
-        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 153315,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1485,20 +1485,20 @@
       "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
+      "added_at": "2022-03-04 05:01:00",
       "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ"
+        "name": "comfortably in pain",
+        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
       },
       "artists": [
         {
-          "name": "Spencer Sutherland",
-          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 197290,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
+      "duration_ms": 153315,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 275817,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Love Is Love",
@@ -1563,6 +1547,22 @@
       "duration_ms": 186783,
       "name": "Love Is Love",
       "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 275817,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
     },
     {
       "added_at": "2021-12-03 05:01:00",

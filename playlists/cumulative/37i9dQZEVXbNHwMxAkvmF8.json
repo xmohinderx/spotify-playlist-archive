@@ -6862,6 +6862,24 @@
     },
     {
       "album": {
+        "name": "Napf\u00e9ny kell a vil\u00e1gnak - Tegnap \u00e9s ma",
+        "url": "https://open.spotify.com/album/2LWJ11EiGfbYTN1n4NMA5I"
+      },
+      "artists": [
+        {
+          "name": "Gy\u00f6rgy Korda",
+          "url": "https://open.spotify.com/artist/1PXk0bxaXI8afcSConDJNh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "Rept\u00e9r",
+      "url": "https://open.spotify.com/track/7kpbpRnTHMwuSORe4iyG07"
+    },
+    {
+      "album": {
         "name": "camouflage",
         "url": "https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa"
       },
@@ -7655,7 +7673,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"

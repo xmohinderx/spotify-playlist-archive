@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 14889,
+  "num_followers": 14897,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDU4MGNhZDI2NzQwNzAwY2ZlNjA1NWUzNDkxYTJiNTdl",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMGM1MWFlZGJhMDE2MTE0ZGYyZmNlZWYwNGQ4ZTc1ZWJi",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Brown Soul",
         "url": "https://open.spotify.com/album/6MaJ3gngJJpiR4UNHwHrZu"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 132465,
       "name": "Soul Different",
       "url": "https://open.spotify.com/track/4v0X2b5R7OYMZgDrBTzTEM"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "El Idolo",
-        "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
-      },
-      "artists": [
-        {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "El Idolo",
-      "url": "https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "SLIDIN",
         "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 158007,
       "name": "SLIDIN",
       "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "El Idolo",
+        "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
+      },
+      "artists": [
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "El Idolo",
+      "url": "https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Fuck The Yotes",
-        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Fuck The Yotes",
-      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "From The Gravel",
         "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 117629,
       "name": "From The Gravel",
       "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Fuck The Yotes",
+        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Fuck The Yotes",
+      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "sometimes i like 2 sing <3",
-        "url": "https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET"
-      },
-      "artists": [
-        {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        }
-      ],
-      "duration_ms": 184947,
-      "name": "get 2 know ya",
-      "url": "https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Vida Por Tinta",
         "url": "https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 253977,
       "name": "Carta Para Dios",
       "url": "https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "sometimes i like 2 sing <3",
+        "url": "https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        }
+      ],
+      "duration_ms": 184947,
+      "name": "get 2 know ya",
+      "url": "https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3"
     },
     {
       "added_at": "2022-07-15 04:00:00",

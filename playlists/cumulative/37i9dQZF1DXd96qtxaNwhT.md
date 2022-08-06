@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-445 songs - 1 day 1 hr 1 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+446 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [we'll be fine](https://open.spotify.com/track/4TRL1Y8sOR54I3AvRzUZHk) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we'll be fine](https://open.spotify.com/album/6fnftzctzknTpjw9j1EXWt) | 4:22 | 2020-06-19 | 2021-07-23 |
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2021-06-09 | 2021-06-18 |
 | [What Am I](https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [What Am I](https://open.spotify.com/album/6IEEEv0mmFYPjhATWKYZRE) | 3:04 | 2019-08-30 | 2020-02-28 |
+| [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-04 |  |
 | [What They'll Say About Us](https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [What They'll Say About Us](https://open.spotify.com/album/7AnQ4YEDYHaeirVTMx6jNp) | 3:07 | 2020-09-04 | 2021-09-14 |
 | [when the party's over \- triple j Like A Version](https://open.spotify.com/track/6cJyNd9dx9U8uYhy3r9WPK) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [when the party's over \(triple j Like A Version\)](https://open.spotify.com/album/0XeFM6TRmXhTsr7WSDjgCO) | 3:33 | 2019-07-29\* | 2019-08-30 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-04-24 |  |

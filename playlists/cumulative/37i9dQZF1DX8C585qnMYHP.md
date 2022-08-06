@@ -4,7 +4,7 @@
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Himeno Tama / Boku to Georges Artwork: Thami Nabil
 
-962 songs - 3 day 7 hr 6 min - [published](https://open.spotify.com/playlist/7vHfjk9LwMkQlbKUYS7lDl)
+964 songs - 3 day 7 hr 14 min - [published](https://open.spotify.com/playlist/7vHfjk9LwMkQlbKUYS7lDl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Joy Squad](https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Joy Squad](https://open.spotify.com/album/31my8IdGlu4Sti63ivmuje) | 4:31 | 2021-06-04 | 2021-08-03 |
 | [Joy Squad](https://open.spotify.com/track/4sMAGlRNOWQC1QT7gBUNgk) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 4:31 | 2021-07-23 | 2022-01-13 |
 | [Jungle de la Muerte](https://open.spotify.com/track/2ojyhMaBhBcCCidkHxWOfM) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX), [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:10 | 2021-01-28 | 2021-02-11 |
+| [just a little more life with u](https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [just a little more life with u](https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P) | 3:13 | 2022-08-03 |  |
 | [Just Me, Selling Desires](https://open.spotify.com/track/7erIdv0TTM04ZjvVtTJEsy) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Just Me, Selling Desires](https://open.spotify.com/album/6fU3Rgpdz3JIqrXZqloTsE) | 2:42 | 2021-03-11 | 2021-03-25 |
 | [KAGIROI I](https://open.spotify.com/track/2bXdqG3LJeVjN8vIwgEmfj) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H), [Lieven Martens](https://open.spotify.com/artist/2WAfuIA8abrpze7v9V42hC) | [KAGIROI](https://open.spotify.com/album/04esOevP0QsnyAg5SdsdDq) | 14:58 | 2021-04-15 | 2021-06-09 |
 | [KAGIROI II](https://open.spotify.com/track/2UG7cRqTNKWFs5oP36KMaS) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H), [Lieven Martens](https://open.spotify.com/artist/2WAfuIA8abrpze7v9V42hC) | [KAGIROI](https://open.spotify.com/album/04esOevP0QsnyAg5SdsdDq) | 14:06 | 2021-04-10 | 2021-06-18 |
@@ -660,6 +661,7 @@
 | [Prostheses](https://open.spotify.com/track/2G3o08KHMTvNRjaMh7vDdQ) | [Baal & Mortimer](https://open.spotify.com/artist/7a8Hpo0Wwq02QVqqcWe23d) | [Deixis](https://open.spotify.com/album/2WUCcVLZ6Jaw0nx5mksrrG) | 2:51 | 2020-10-30\* | 2021-01-15 |
 | [Protect Your Magic](https://open.spotify.com/track/6AlOybyJ51zirf6eMLSDdC) | [Speed Stick](https://open.spotify.com/artist/40VJQgIOPT6dsVh6MYytmN) | [Volume One](https://open.spotify.com/album/21qERubyexhxqFKVUpJi2k) | 4:24 | 2021-01-28 | 2021-02-09 |
 | [Prueba \- Kelman Duran Remix](https://open.spotify.com/track/7ud2URREwBXP2TLNWMql2P) | [Stryker](https://open.spotify.com/artist/3p60E5ihvuEJJdKy1jmXfX), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Regen](https://open.spotify.com/album/1p5Bw8avr7IxcykYb8Dv5t) | 3:43 | 2021-03-30 | 2021-03-31 |
+| [Pussy Galore](https://open.spotify.com/track/3FjOcP7gTJJN1zePjLFrKz) | [Pepper Levain](https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m) | [Pussy Galore](https://open.spotify.com/album/7zJdl3F4qtx5nS5uk4tey8) | 4:26 | 2022-08-03 |  |
 | [PVE](https://open.spotify.com/track/61IaLPVPQAm1oWp4SxeSHa) | [Herrmann Kristoffersen](https://open.spotify.com/artist/3CsHHtRCt1mbIIwIyMrVYy) | [Gone Gold](https://open.spotify.com/album/1ZidBMpjDNwwci3HnczMyD) | 7:30 | 2021-05-14 | 2021-06-28 |
 | [Qalaq 4](https://open.spotify.com/track/70ZzSfH3oOBo7oMAxYLtro) | [Jerusalem in My Heart](https://open.spotify.com/artist/3mjy0fneW0GyVeueXLXSuS), [Rabih Beaini](https://open.spotify.com/artist/05iThSBnySW7iLjxkkLIb0) | [Qalaq Qalaq Qalaq](https://open.spotify.com/album/6PUpSWHjtRkeZWKLCr6QGe) | 3:03 | 2021-10-07 | 2021-11-30 |
 | [Qatidiq](https://open.spotify.com/track/0dWw6EOCJSuMIMKfab6POv) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Qatidiq](https://open.spotify.com/album/4joQGA8INvAg2UPH88sBvY) | 4:12 | 2021-04-15 | 2021-06-18 |

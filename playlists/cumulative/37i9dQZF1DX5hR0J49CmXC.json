@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Real hip-hop. Cover: Chance The Rapper",
+  "description": "The Real hip-hop. Cover: Joey Bada$$",
   "name": "Mind Right",
   "published_playlist_ids": [
     "3aBEPaCmxnNZhkIPP42r3z"
@@ -107,6 +107,28 @@
       "duration_ms": 148027,
       "name": "2010",
       "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
+    },
+    {
+      "album": {
+        "name": "48",
+        "url": "https://open.spotify.com/album/1TSUdwvGwAGr93YLi7izZn"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159236,
+      "name": "48 (feat. Pink Siifu)",
+      "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
     },
     {
       "album": {
@@ -1499,7 +1521,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 178677,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
@@ -1525,6 +1547,28 @@
       "duration_ms": 235725,
       "name": "Hustlaz",
       "url": "https://open.spotify.com/track/5mV02eybPC77hODuGYd054"
+    },
+    {
+      "album": {
+        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177030,
+      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
     },
     {
       "album": {
@@ -2775,7 +2819,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 148695,
       "name": "Run It Back",
       "url": "https://open.spotify.com/track/4riI8HuqMYwKHfTlYMp6W8"
@@ -3252,6 +3296,24 @@
     },
     {
       "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101040,
+      "name": "This Bitch Matters",
+      "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
+    },
+    {
+      "album": {
         "name": "No Recognition",
         "url": "https://open.spotify.com/album/3ifWcPzyVDRIWejXzSVsKU"
       },
@@ -3303,7 +3365,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 242186,
       "name": "Tongpo [Feat. Conway the Machine]",
       "url": "https://open.spotify.com/track/0onGlO4GD6A9IFbCkHhq6e"

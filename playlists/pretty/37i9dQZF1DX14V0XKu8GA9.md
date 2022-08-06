@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,889 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,897 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,24 +53,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 43 | [Deep End](https://open.spotify.com/track/68l3AHETwLT381pxp70aUa) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Deep End](https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx) | 3:11 |
 | 44 | [Phases](https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Phases](https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM) | 3:33 |
 | 45 | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc) | 2:26 |
-| 46 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
-| 47 | [Soul Different](https://open.spotify.com/track/4v0X2b5R7OYMZgDrBTzTEM) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Southside Hoodlum](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ) | [Brown Soul](https://open.spotify.com/album/6MaJ3gngJJpiR4UNHwHrZu) | 2:12 |
+| 46 | [Soul Different](https://open.spotify.com/track/4v0X2b5R7OYMZgDrBTzTEM) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Southside Hoodlum](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ) | [Brown Soul](https://open.spotify.com/album/6MaJ3gngJJpiR4UNHwHrZu) | 2:12 |
+| 47 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
 | 48 | [I’m Back](https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS) | [MoneySign $uede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 1:57 |
 | 49 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
 | 50 | [The King](https://open.spotify.com/track/1euN0rIeFyQkY85BFnT7Rm) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [El Camino](https://open.spotify.com/album/6xj392AMIzR0EzSekdHqxK) | 2:43 |
 | 51 | [On My Diez](https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Frankie P](https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v) | [On My Diez](https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U) | 2:35 |
 | 52 | [Our Finale](https://open.spotify.com/track/4VEZ1AFDGOrXS9M480dS6u) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Our Finale](https://open.spotify.com/album/2vH9bbemJEV0yEFYikceZB) | 2:57 |
 | 53 | [i'm Hot](https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [i'm Hot](https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF) | 2:08 |
-| 54 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
-| 55 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
+| 54 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
+| 55 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
 | 56 | [Trials n Tribulations](https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX) | 4:31 |
-| 57 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
-| 58 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
+| 57 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
+| 58 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
 | 59 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
 | 60 | [Bang](https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i) | [Chepo](https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Peso Peso](https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe) | [Bang](https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I) | 2:37 |
 | 61 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
-| 62 | [get 2 know ya](https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [sometimes i like 2 sing <3](https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET) | 3:04 |
-| 63 | [Carta Para Dios](https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Vida Por Tinta](https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ) | 4:13 |
+| 62 | [Carta Para Dios](https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Vida Por Tinta](https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ) | 4:13 |
+| 63 | [get 2 know ya](https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [sometimes i like 2 sing <3](https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET) | 3:04 |
 | 64 | [Summertime](https://open.spotify.com/track/75kw5VOsxjrl2KheLvYGyw) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk), [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Summertime](https://open.spotify.com/album/53T2GDWLFcSnbZ4SbP4quy) | 3:29 |
 | 65 | [Barbacoa](https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [Barbacoa](https://open.spotify.com/album/2ZbpPd2fO8QeEEfnQd6MzS) | 1:54 |
 | 66 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 69 | [London](https://open.spotify.com/track/4qXkllmd1rA0jWxtsPQqpW) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [London](https://open.spotify.com/album/51NMcANUHXRMR4kOow3rbm) | 2:40 |
 | 70 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 
-Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDU4MGNhZDI2NzQwNzAwY2ZlNjA1NWUzNDkxYTJiNTdl`
+Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMGM1MWFlZGJhMDE2MTE0ZGYyZmNlZWYwNGQ4ZTc1ZWJi`

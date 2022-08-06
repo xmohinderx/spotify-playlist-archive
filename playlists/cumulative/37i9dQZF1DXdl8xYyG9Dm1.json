@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r?si=NcsQeMBcQLKglTkvFIsu9g\"> Nadia Nakai </a>  and <a href=\"https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=fX55eifJSdG6ycyD6SARHA\"> Lucasraps </a> ",
+  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=fX55eifJSdG6ycyD6SARHA\"> Lucasraps </a> ",
   "name": "No Wahala",
   "published_playlist_ids": [
     "6lFDRmAzLffN6r39zEBvaL"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 170385,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/5JwjfDu3lSEnetsqeGbwFf"
@@ -1399,6 +1399,28 @@
       "duration_ms": 121750,
       "name": "Lord Protect My Steppings",
       "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
+    },
+    {
+      "album": {
+        "name": "Mabadiliko",
+        "url": "https://open.spotify.com/album/6IFsDy5C0kynOzSTMQVolo"
+      },
+      "artists": [
+        {
+          "name": "Octopizzo",
+          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
+        },
+        {
+          "name": "Fadhilee",
+          "url": "https://open.spotify.com/artist/4Orf4JvW2tDMbdiUWRPKn4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "Mabadiliko",
+      "url": "https://open.spotify.com/track/0fEw1TI2CPzXs93EEKo0cl"
     },
     {
       "album": {
@@ -1751,7 +1773,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 188307,
       "name": "ridiculouS",
       "url": "https://open.spotify.com/track/6UPZoLHQJpM5GfuCWG1VRV"
@@ -2223,6 +2245,28 @@
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
+    },
+    {
+      "album": {
+        "name": "031 To The World 2.0",
+        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "The Views",
+      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
     },
     {
       "album": {

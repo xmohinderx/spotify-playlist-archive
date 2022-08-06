@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 
 > Start your day with these beautiful scores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,553 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,562 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 67 | [A Day in June](https://open.spotify.com/track/1pZZzlgOtbvhEI9I0e7Z1P) | [Davide Delvecchio](https://open.spotify.com/artist/5WDMPRZIzbj6Q2eXqVqXmu) | [A Day in June](https://open.spotify.com/album/2dbOdeW2CpY4UN43yMybuv) | 3:38 |
 | 68 | [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 |
 | 69 | [Rising Fog](https://open.spotify.com/track/3fndeX9142XIUH7qySaGMc) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 3:18 |
-| 70 | [Sacred Mountain](https://open.spotify.com/track/6qzS70K6z2XDu4bCwKVa50) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 2:47 |
-| 71 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
-| 72 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
-| 73 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 |
+| 70 | [Second Sleep](https://open.spotify.com/track/6pGsdGElugsC8HygWqcSSK) | [S\. Salter](https://open.spotify.com/artist/1rr2n5xm79tKtt2vAANMGB) | [Second Sleep](https://open.spotify.com/album/54DvTHvJ5QG5c0F7B5YAZe) | 3:38 |
+| 71 | [Sacred Mountain](https://open.spotify.com/track/6qzS70K6z2XDu4bCwKVa50) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 2:47 |
+| 72 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
+| 73 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
+| 74 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 |
 
-Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDFjOTEyNGVjZDBhOGZmY2M1MzAyNjM1ZTA1YmFiM2U3`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMGI5YmY3ZjlkNzlkZTc5NzUyODEzN2ZlZjE2N2I5MmNm`

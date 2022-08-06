@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-136 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+137 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Tunapendana \(feat\. Maud Elka\)](https://open.spotify.com/track/2rwU0kvCkwejnSy3TGhRDS) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [The King Of New School](https://open.spotify.com/album/5yAlMOYeLIEerxJyCbJEtu) | 2:57 | 2022-06-30 |  |
 | [U & I](https://open.spotify.com/track/7eC2CHUQLTUCMoM4TJWlWS) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [U & I](https://open.spotify.com/album/5w7M7I2kIAO2wkmjfQl9kh) | 2:26 | 2022-07-14 |  |
 | [Unachezaje](https://open.spotify.com/track/3sSn4VlK4rLyZEZ4dQUs1B) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Unachezaje](https://open.spotify.com/album/0e7GwW5CU4zGhf813sQIi4) | 2:41 | 2021-12-16 | 2022-06-10 |
+| [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 | 2022-08-04 |  |
 | [Upendo \(feat\. Zuchu\)](https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Upendo \(feat\. Zuchu\)](https://open.spotify.com/album/3MpkiAuVgRLKdHZdm7Pjra) | 2:28 | 2021-10-21 | 2022-05-06 |
 | [Utu](https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 4:04 | 2022-01-13 |  |
 | [Vamonos](https://open.spotify.com/track/6BypdbiJye7MsQOa8kUheD) | [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Vamonos](https://open.spotify.com/album/35Yss18s0YFfMg8lHoX2JY) | 2:32 | 2022-05-26 |  |

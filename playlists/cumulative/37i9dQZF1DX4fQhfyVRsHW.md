@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-110 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+111 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2022-05-25 |  |
 | [Canals](https://open.spotify.com/track/1pK2SvpHrWrWFse9qxuj9f) | [Orphoria](https://open.spotify.com/artist/0WTxtKGnW3poFGHyG9Hcpg) | [Solar Sail](https://open.spotify.com/album/5LnqmFMVmIut3nRotPDWzc) | 2:49 | 2022-05-25 |  |
 | [Colors Of The Wind](https://open.spotify.com/track/0YL8kXuNOcOF8curSrGOEw) | [Alex Patel](https://open.spotify.com/artist/4e90KIWr9PXRvOsvB7kdnb) | [Colors Of The Wind](https://open.spotify.com/album/1Ta8HPmo20jBMUCyah11oC) | 3:05 | 2022-05-25 |  |
+| [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2022-08-05 |  |
 | [Coming Home](https://open.spotify.com/track/7aK0mcXTJ8SsDtXpELk19Z) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Positivity](https://open.spotify.com/album/716VE9ewUzN8m0TzuypI4W) | 3:20 | 2022-05-25 |  |
 | [Cottonia Creek](https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Cottonia Creek](https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r) | 2:59 | 2022-05-25 |  |
 | [Creations](https://open.spotify.com/track/39je7LHAiJ7AEZZgU0wPVR) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Waters](https://open.spotify.com/album/4F5nRLj5pQ49lDZD654Zq4) | 2:44 | 2022-05-25 |  |

@@ -5592,6 +5592,24 @@
     },
     {
       "album": {
+        "name": "Poolside",
+        "url": "https://open.spotify.com/album/7IERaPp1czfhKdTywV3OT2"
+      },
+      "artists": [
+        {
+          "name": "lost.mindd",
+          "url": "https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Poolside",
+      "url": "https://open.spotify.com/track/6CY364GXE5gEMnQch6KGF4"
+    },
+    {
+      "album": {
         "name": "Poolside Paloma",
         "url": "https://open.spotify.com/album/7AyNS9jUEMQcgJQYiuoWlU"
       },

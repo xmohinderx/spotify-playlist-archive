@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 95046,
+  "num_followers": 95130,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNjEyMCwwMDAwMDAwMGZjYTI0YmZmMzIzNWIyNTk5MmExOGVmNDIyZTY2MDli",
+  "snapshot_id": "MTY1NzgzNjEyMCwwMDAwMDAwMGY3NjA1YzZjNTA1ZWI4NGYzZTI5NjY3OTc2MzRmMWU2",
   "tracks": [
     {
       "added_at": "2022-07-14 22:02:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Adventure Of A Lifetime",
-      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 200933,
       "name": "Just A Little Lovin' (Early In The Mornin')",
       "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Adventure Of A Lifetime",
+      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -723,22 +723,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
+        "name": "Something My Heart Trusts",
+        "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
       },
       "artists": [
         {
-          "name": "Cindy Zhang",
-          "url": "https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz"
-        },
-        {
-          "name": "Josh Berkeley",
-          "url": "https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 192854,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
+      "duration_ms": 277036,
+      "name": "Something My Heart Trusts",
+      "url": "https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -759,18 +755,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Something My Heart Trusts",
-        "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Cindy Zhang",
+          "url": "https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz"
+        },
+        {
+          "name": "Josh Berkeley",
+          "url": "https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl"
         }
       ],
-      "duration_ms": 277036,
-      "name": "Something My Heart Trusts",
-      "url": "https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0"
+      "duration_ms": 192854,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
-      },
-      "artists": [
-        {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 226389,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
+      },
+      "artists": [
+        {
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Just a Little Bit",
-        "url": "https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou"
-      },
-      "artists": [
-        {
-          "name": "Waltzing on Waves",
-          "url": "https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 230880,
       "name": "The Birds and the Bees",
       "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Just a Little Bit",
+        "url": "https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou"
+      },
+      "artists": [
+        {
+          "name": "Waltzing on Waves",
+          "url": "https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
+      },
+      "artists": [
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        },
+        {
+          "name": "Natalie Renoir",
+          "url": "https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87"
+        }
+      ],
+      "duration_ms": 249860,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "The Best of George White Group",
         "url": "https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 194309,
       "name": "We Might As Well Dance",
       "url": "https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
-      },
-      "artists": [
-        {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
-        },
-        {
-          "name": "Natalie Renoir",
-          "url": "https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87"
-        }
-      ],
-      "duration_ms": 249860,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH"
+      },
+      "artists": [
+        {
+          "name": "Parry Ray",
+          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "She Used To Be Mine",
+      "url": "https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "Gin & Jazz",
         "url": "https://open.spotify.com/album/4toXuWuzSbedAkzn2yUMol"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 148000,
       "name": "Gin & Jazz",
       "url": "https://open.spotify.com/track/4uItJBBvUNCx1KFX3mvkr5"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "No Meanness",
-        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 238524,
-      "name": "No Meanness",
-      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH"
+        "name": "No Meanness",
+        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
       },
       "artists": [
         {
-          "name": "Parry Ray",
-          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 264000,
-      "name": "She Used To Be Mine",
-      "url": "https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf"
+      "duration_ms": 238524,
+      "name": "No Meanness",
+      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
-      },
-      "artists": [
-        {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
-        }
-      ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Catwoman",
         "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 211343,
       "name": "Catwoman",
       "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+      },
+      "artists": [
+        {
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+        }
+      ],
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1835,34 +1835,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
       "artists": [
         {
-          "name": "Untitled",
-          "url": "https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE"
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
         }
       ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "When The Stars Align",
-        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "When The Stars Align",
-      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1883,6 +1867,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "When The Stars Align",
+        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "When The Stars Align",
+      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "Dynamite EP",
         "url": "https://open.spotify.com/album/4nR20Yz3OUZhFbg0dFgAsO"
       },
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
       },
       "artists": [
         {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+          "name": "Untitled",
+          "url": "https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Song Like Ours",
-        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
-      },
-      "artists": [
-        {
-          "name": "Jazzy D",
-          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
-        },
-        {
-          "name": "Angela Gooden",
-          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
-        }
-      ],
-      "duration_ms": 298549,
-      "name": "Song Like Ours",
-      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "She's Awesome",
         "url": "https://open.spotify.com/album/6aPCC4FFb2kryUdUgAtjLN"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 280000,
       "name": "She's Awesome",
       "url": "https://open.spotify.com/track/52rIpC68rq8AgpAootOn7B"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Song Like Ours",
+        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
+      },
+      "artists": [
+        {
+          "name": "Jazzy D",
+          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
+        },
+        {
+          "name": "Angela Gooden",
+          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
+        }
+      ],
+      "duration_ms": 298549,
+      "name": "Song Like Ours",
+      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "This Too Shall Pass",
-        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
-      },
-      "artists": [
-        {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "This Too Shall Pass",
-      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -2043,18 +2027,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Something to Celebrate",
-        "url": "https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD"
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
       },
       "artists": [
         {
-          "name": "Kristin Korb",
-          "url": "https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN"
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Something to Celebrate",
-      "url": "https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro"
+      "duration_ms": 201979,
+      "name": "This Too Shall Pass",
+      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -2071,6 +2055,22 @@
       "duration_ms": 153573,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Something to Celebrate",
+        "url": "https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD"
+      },
+      "artists": [
+        {
+          "name": "Kristin Korb",
+          "url": "https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Something to Celebrate",
+      "url": "https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 311002,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "Infant Eyes (Edit)",
         "url": "https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 389983,
       "name": "Infant Eyes - Edit",
       "url": "https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 311002,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -2395,26 +2395,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Same Way Home",
-        "url": "https://open.spotify.com/album/7qNO6QXzhsJarTBHXXlhwL"
-      },
-      "artists": [
-        {
-          "name": "Rotem Sivan",
-          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
-        },
-        {
-          "name": "Mike Goldstein",
-          "url": "https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Same Way Home",
-      "url": "https://open.spotify.com/track/5ja2Rt6qki0on26cKUOrbG"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
@@ -2431,6 +2411,26 @@
       "duration_ms": 267302,
       "name": "Let's Go to Bed",
       "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Same Way Home",
+        "url": "https://open.spotify.com/album/7qNO6QXzhsJarTBHXXlhwL"
+      },
+      "artists": [
+        {
+          "name": "Rotem Sivan",
+          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
+        },
+        {
+          "name": "Mike Goldstein",
+          "url": "https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Same Way Home",
+      "url": "https://open.spotify.com/track/5ja2Rt6qki0on26cKUOrbG"
     },
     {
       "added_at": "2022-07-14 22:02:00",

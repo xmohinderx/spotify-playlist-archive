@@ -1752,6 +1752,24 @@
     },
     {
       "album": {
+        "name": "Just Another",
+        "url": "https://open.spotify.com/album/5f67HsDD8QPuzqh1oJRltm"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Just Another",
+      "url": "https://open.spotify.com/track/2ryIpNbjhd9W25bG7JdPVK"
+    },
+    {
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/7qVTM1a4k90QERoj0fTIgQ"
       },
@@ -1987,6 +2005,24 @@
       "duration_ms": 180200,
       "name": "Lonely Side of Town",
       "url": "https://open.spotify.com/track/0Z0rkYiQUVrt5ZratxTHP6"
+    },
+    {
+      "album": {
+        "name": "Loud House",
+        "url": "https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1"
+      },
+      "artists": [
+        {
+          "name": "Madison Kozak",
+          "url": "https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Loud House",
+      "url": "https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv"
     },
     {
       "album": {
@@ -2713,6 +2749,24 @@
       "duration_ms": 212773,
       "name": "Single Wide Dreamer",
       "url": "https://open.spotify.com/track/0TTne50yeMlIWkxe48rm2f"
+    },
+    {
+      "album": {
+        "name": "Skyscraper",
+        "url": "https://open.spotify.com/album/1FsCxosjELrzpcwILUTUQm"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Skyscraper",
+      "url": "https://open.spotify.com/track/0nFbI2dtyCWCcCQ2m3Lu9y"
     },
     {
       "album": {

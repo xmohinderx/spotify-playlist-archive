@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of jazz. Cover: Norah Jones",
-  "num_followers": 194230,
+  "num_followers": 194899,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNjEyMCwwMDAwMDAwMDI3NDQ0YTJmZTVmYWJiNTFmZGUyNzA4Y2E2Y2ExMzAw",
+  "snapshot_id": "MTY1NzgzNjEyMCwwMDAwMDAwMGQ4NTQyZjI2MjNjODdiMTE3ODRhMzk5NzVmZjcwN2Ew",
   "tracks": [
     {
       "added_at": "2022-07-14 22:02:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
-      },
-      "artists": [
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Ultimate Collection",
         "url": "https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 259480,
       "name": "What a Wonderful World (with Eva Cassidy)",
       "url": "https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+      },
+      "artists": [
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -567,18 +567,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+        "name": "Genius Loves Company",
+        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
       },
       "artists": [
         {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+      "duration_ms": 210854,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -599,22 +603,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Genius Loves Company",
-        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        },
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
         }
       ],
-      "duration_ms": 210854,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "once in a moon",
+        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 245175,
+      "name": "once in a moon",
+      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 186880,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "once in a moon",
-        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 245175,
-      "name": "once in a moon",
-      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Sophie Milman",
         "url": "https://open.spotify.com/album/3E7VyuP30Il3LCV46isqH5"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214546,
       "name": "My Baby Just Cares For Me",
       "url": "https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "The Summer Wind",
-      "url": "https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 326733,
       "name": "Save Your Love for Me",
       "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "The Summer Wind",
+      "url": "https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1179,42 +1179,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Koop Islands",
-        "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
-      },
-      "artists": [
-        {
-          "name": "Koop",
-          "url": "https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe"
-        },
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 272760,
-      "name": "Koop Island Blues",
-      "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -1239,6 +1203,42 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Koop Islands",
+        "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
+      },
+      "artists": [
+        {
+          "name": "Koop",
+          "url": "https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe"
+        },
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 272760,
+      "name": "Koop Island Blues",
+      "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1319,30 +1319,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Flor",
-        "url": "https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa"
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
       "artists": [
         {
-          "name": "Gretchen Parlato",
-          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
-        },
-        {
-          "name": "Magnus Thompson",
-          "url": "https://open.spotify.com/artist/4f07yMPEAu1vRJYb4yOrda"
-        },
-        {
-          "name": "Thaddeus Thompson",
-          "url": "https://open.spotify.com/artist/1p1XxO4sy31SKZNSWEzFt9"
-        },
-        {
-          "name": "Ashley Thompson",
-          "url": "https://open.spotify.com/artist/21Uy8s7LmNc3uVZBcWCV4c"
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
         }
       ],
-      "duration_ms": 250697,
-      "name": "Magnus",
-      "url": "https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84"
+      "duration_ms": 223400,
+      "name": "Ain't Misbehavin'",
+      "url": "https://open.spotify.com/track/12nF9kcd6ixm3RLGZD5kqk"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1367,18 +1355,30 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa"
       },
       "artists": [
         {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Magnus Thompson",
+          "url": "https://open.spotify.com/artist/4f07yMPEAu1vRJYb4yOrda"
+        },
+        {
+          "name": "Thaddeus Thompson",
+          "url": "https://open.spotify.com/artist/1p1XxO4sy31SKZNSWEzFt9"
+        },
+        {
+          "name": "Ashley Thompson",
+          "url": "https://open.spotify.com/artist/21Uy8s7LmNc3uVZBcWCV4c"
         }
       ],
-      "duration_ms": 223400,
-      "name": "Ain't Misbehavin'",
-      "url": "https://open.spotify.com/track/12nF9kcd6ixm3RLGZD5kqk"
+      "duration_ms": 250697,
+      "name": "Magnus",
+      "url": "https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
         }
       ],
-      "duration_ms": 160626,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
       "artists": [
         {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
         }
       ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
+      "duration_ms": 160626,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
     },
     {
       "added_at": "2022-07-14 22:02:00",

@@ -1252,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "Mr. Banks",
+        "url": "https://open.spotify.com/album/6I34w2tJdiPeqd1cu4KUQY"
+      },
+      "artists": [
+        {
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Mr. Banks",
+      "url": "https://open.spotify.com/track/4cZGoah2KgIi8y1iZwq79i"
+    },
+    {
+      "album": {
         "name": "XP",
         "url": "https://open.spotify.com/album/2mfKcs777o7GN5gEdEtPmu"
       },

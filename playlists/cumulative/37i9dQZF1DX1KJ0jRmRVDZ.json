@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "Dorothy",
+        "url": "https://open.spotify.com/album/15HbjaFyq0GZQxpbggYPzl"
+      },
+      "artists": [
+        {
+          "name": "KANKAN",
+          "url": "https://open.spotify.com/artist/6ZnELeGt16sNYfx3CcTh9d"
+        },
+        {
+          "name": "Chogakusei",
+          "url": "https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182092,
+      "name": "Dorothy",
+      "url": "https://open.spotify.com/track/3ZmHr5x6Ta89QaAIjGvmTN"
+    },
+    {
+      "album": {
         "name": "doubt",
         "url": "https://open.spotify.com/album/3KTZQmXznDceIy00SOG2jL"
       },
@@ -1083,7 +1105,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 214008,
       "name": "MoonWalker",
       "url": "https://open.spotify.com/track/4ELSoW5BZzs7rV8ac0Cpit"
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 206400,
       "name": "Under Kids",
       "url": "https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr"
@@ -2886,6 +2908,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30f3\u30c8\u30ed\u306f\u7d42\u308f\u308a",
+        "url": "https://open.spotify.com/album/1FvFjiAeYqVF14pt6uWKme"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u69fd",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178932,
+      "name": "\u30a4\u30f3\u30c8\u30ed\u306f\u7d42\u308f\u308a",
+      "url": "https://open.spotify.com/track/0RDzaHslzMngPxTX84Xs6G"
+    },
+    {
+      "album": {
         "name": "\u30a4\u30fc\u30b8\u30fc\u30b2\u30fc\u30e0",
         "url": "https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF"
       },
@@ -2905,6 +2945,24 @@
       "duration_ms": 183929,
       "name": "\u30a4\u30fc\u30b8\u30fc\u30b2\u30fc\u30e0",
       "url": "https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3"
     },
     {
       "album": {
@@ -3891,7 +3949,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 235346,
       "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6",
       "url": "https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb"
@@ -6462,6 +6520,24 @@
     },
     {
       "album": {
+        "name": "\u771fFAKE STYLE",
+        "url": "https://open.spotify.com/album/0Ok5INLwRGSUIfjigjF4AC"
+      },
+      "artists": [
+        {
+          "name": "FAKE TYPE.",
+          "url": "https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186830,
+      "name": "\u771fFAKE STYLE",
+      "url": "https://open.spotify.com/track/6L8g3chPzfT1IgzkADX9zi"
+    },
+    {
+      "album": {
         "name": "\u771f\u663c\u306e\u6708\u660e\u304b\u308a",
         "url": "https://open.spotify.com/album/0yGm4qMepSKDbetBLx1Zco"
       },
@@ -7187,7 +7263,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 154823,
       "name": "\u9283\u306e\u90e8\u54c1",
       "url": "https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw"

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 119687,
+  "num_followers": 119718,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMGY4ODAyZDM5MmZjNjVkM2U1NzExY2IxMTRhNjYxY2Vm",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDNmN2RjMmQ3YzAxMjYyZTU3YmViMTE3NzAzYmQyNjRh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/4RvfXzwyyTmAGfjW4WFAsE"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 200961,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/2qON8SpeBDBSoWCvDKuwbU"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "DOSIS",
         "url": "https://open.spotify.com/album/0gTAsJ7rKWbnHrZg8mOHVV"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 219189,
       "name": "DOSIS",
       "url": "https://open.spotify.com/track/0cDumxvNKhydP1Cmon2S6E"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/4RvfXzwyyTmAGfjW4WFAsE"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 200961,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/2qON8SpeBDBSoWCvDKuwbU"
     },
     {
       "added_at": "2020-12-01 05:03:00",

@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128522,
+  "num_followers": 128519,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU1NixjZDAzNTA1NmVjZGI3ZDQ1MzYwYWYyMjhhNWJlZTZiOTAwNWZmOWE4",
+  "snapshot_id": "MzU2MCwzMDNmMWNiMmI1MjAzMTIzODYzMGVkNWMwMDI5YmZkMWNhZWI0MDI2",
   "tracks": [
+    {
+      "added_at": "2022-08-05 16:36:58",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/7MPJECu20Fx8ZNVpYUBFoJ"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/0TEiOUYQYGeDsoBqVSZYIQ"
+    },
+    {
+      "added_at": "2022-08-05 16:36:06",
+      "album": {
+        "name": "You Fill My Soul",
+        "url": "https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL"
+      },
+      "artists": [
+        {
+          "name": "Approaching Black",
+          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
+        }
+      ],
+      "duration_ms": 258250,
+      "name": "You Fill My Soul",
+      "url": "https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5"
+    },
     {
       "added_at": "2022-08-04 16:23:44",
       "album": {
@@ -1087,50 +1123,6 @@
       "duration_ms": 148941,
       "name": "Keep On Dancing",
       "url": "https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut"
-    },
-    {
-      "added_at": "2022-05-27 18:46:29",
-      "album": {
-        "name": "The Light (The Remixes)",
-        "url": "https://open.spotify.com/album/3LJ9fh5loPde5YZJ6J48Sv"
-      },
-      "artists": [
-        {
-          "name": "Vintage & Morelli",
-          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
-        },
-        {
-          "name": "Arielle Maren",
-          "url": "https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV"
-        },
-        {
-          "name": "Flexible Fire",
-          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "The Light - Flexible Fire Remix",
-      "url": "https://open.spotify.com/track/4KMniGiobJ09rCP1rJhyB1"
-    },
-    {
-      "added_at": "2022-05-26 17:37:44",
-      "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG"
-      },
-      "artists": [
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        },
-        {
-          "name": "Asdek",
-          "url": "https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Right Through",
-      "url": "https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

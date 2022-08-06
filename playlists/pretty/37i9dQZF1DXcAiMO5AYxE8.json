@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 445654,
+  "num_followers": 445781,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDI3M2E1MTdiY2EwODU3M2ZhYWE2ZDRlODUxMTdlNjg5",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDE0NGVkMzc0NGQ5YTZhOTc0OTI1MDkxMDA1ZWU3YjU0",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Master of the Game (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX"
-      },
-      "artists": [
-        {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "I Love You More",
-      "url": "https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "The Best Of Patti Austin",
         "url": "https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 207226,
       "name": "(Ooh-Wee) He's Killing Me",
       "url": "https://open.spotify.com/track/0dEJHQJDmjJEY5rnhlbfyC"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Master of the Game (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX"
+      },
+      "artists": [
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "I Love You More",
+      "url": "https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9"
     }
   ],
   "unique_name": "Soulful Disco",

@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/3ABnPDJjQSoAzMxUwkHNzz)
+61 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/3ABnPDJjQSoAzMxUwkHNzz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Diamonds](https://open.spotify.com/track/1qzZUUlJsvDJ10QvzcO304) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:31 | 2022-05-25 |  |
 | [Dirty Ol' Man](https://open.spotify.com/track/2svNxzjcNhy1U9JhaxAaQa) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 4:35 | 2022-05-25 |  |
 | [Distant Lover](https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 |  |
-| [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 | 2022-05-25 | 2022-08-04 |
+| [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 | 2022-05-25 |  |
 | [Everybody Gets to Go to the Moon \- Live](https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:34 | 2022-05-25 |  |
 | [Free Ride \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 2:43 | 2022-05-25 |  |
 | [Gee Baby \(I'm Sorry\)](https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Gee Baby \(I'm Sorry\) / Do What You're Supposed to Do](https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT) | 2:04 | 2022-05-25 |  |
@@ -43,13 +43,14 @@
 | [Love Train \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6T19ChkTtuvJSKcg3xt0Mn) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 6:48 | 2022-05-30 | 2022-06-01 |
 | [Loving Cup](https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:07 | 2022-05-25 |  |
 | [MacArthur Park](https://open.spotify.com/track/6SqeK2h7wWHs0BqtEJ5u9r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 6:44 | 2022-05-28 | 2022-06-27 |
-| [Make It Easy On Yourself](https://open.spotify.com/track/1c011SkU9d45oKg0woHXr6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Pop Masters: Vital Signs](https://open.spotify.com/album/2d2RfYN5iMdhTOqBDuE5IO) | 4:46 | 2022-05-28 |  |
+| [Make It Easy On Yourself](https://open.spotify.com/track/1c011SkU9d45oKg0woHXr6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Pop Masters: Vital Signs](https://open.spotify.com/album/2d2RfYN5iMdhTOqBDuE5IO) | 4:46 | 2022-05-28 | 2022-08-06 |
 | [Maybe](https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 5:37 | 2022-05-25 |  |
 | [My Simple Heart](https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:29 | 2022-05-25 |  |
 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 | 2022-05-25 |  |
 | [Rosegarden](https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:44 | 2022-05-25 |  |
 | [Somos Novios \(It's Impossible\)](https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 | 2022-05-25 |  |
 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 | 2022-05-25 |  |
+| [Sugar On Sunday](https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Sunday Music](https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl) | 3:22 | 2022-08-05 |  |
 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 | 2022-05-25 |  |
 | [T.S.O.P\. \(The Sound Of Philadelphia\) \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/45zlvuzYYe5jcG8VX9XXEZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 3:48 | 2022-05-25 |  |
 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 | 2022-05-25 |  |
@@ -67,6 +68,6 @@
 | [Woman in Love](https://open.spotify.com/track/4r6kWCkQEI5Ef3LQCu5zoV) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:13 | 2022-05-25 |  |
 | [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 | 2022-05-25 |  |
 | [You're the Fool](https://open.spotify.com/track/0Gvcv8098ht4cz0gZTqrc5) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 2:49 | 2022-05-25 |  |
-| [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 | 2022-05-25 |  |
+| [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 | 2022-05-25 | 2022-08-06 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

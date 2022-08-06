@@ -1,13 +1,57 @@
 {
   "description": "The hottest Hip-Hop of today all over the world.  (Cover:  Eminem )",
-  "num_followers": 401490,
+  "num_followers": 401608,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYzNTE3NiwwMDAwMDAwMDg5ZGE2MDNlZjNlODcyYmVkMjNhYzNiMTU5MmQ1MzZi",
+  "snapshot_id": "MTY1OTY4MjIyOCwwMDAwMDAwMGVlNmRhNWY2MTQzYmE2ZjkwNzAzNTE3MjdlMjcyMzAz",
   "tracks": [
+    {
+      "added_at": "2022-08-04 17:46:16",
+      "album": {
+        "name": "Curtain Call 2",
+        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Is This Love ('09) (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
+    },
+    {
+      "added_at": "2022-08-05 06:50:28",
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
     {
       "added_at": "2022-08-04 17:46:16",
       "album": {
@@ -27,6 +71,42 @@
       "duration_ms": 128839,
       "name": "Burning Up (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek"
+    },
+    {
+      "added_at": "2022-08-04 17:46:16",
+      "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 180076,
+      "name": "Swamp Bitches (with Rico Nasty)",
+      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
+    },
+    {
+      "added_at": "2022-08-04 17:46:16",
+      "album": {
+        "name": "Summer 2002, Vol. 1",
+        "url": "https://open.spotify.com/album/0oIsqseukvLwDI3Q0H5O83"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        }
+      ],
+      "duration_ms": 219796,
+      "name": "Over The Top Feelings",
+      "url": "https://open.spotify.com/track/0AJwFz5m2P0TdMk8eDkkIl"
     },
     {
       "added_at": "2022-08-04 17:46:16",
@@ -127,6 +207,22 @@
       "duration_ms": 155750,
       "name": "Doin' Right",
       "url": "https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a"
+    },
+    {
+      "added_at": "2022-08-04 17:46:16",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "duration_ms": 270259,
+      "name": "Backinluv",
+      "url": "https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX"
     },
     {
       "added_at": "2022-08-04 17:46:16",

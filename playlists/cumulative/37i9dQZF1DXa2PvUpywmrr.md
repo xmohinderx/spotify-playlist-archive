@@ -2,7 +2,7 @@
 
 ### [Party Hits](https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr)
 
-> A mix of the biggest pop, dance, and hip hop party songs\. Cover: Jack Harlow
+> A mix of the biggest pop, dance, and hip hop party songs\. Cover: Doja Cat
 
 280 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/6N39LWNwWRmhfR5bmoeU2O)
 

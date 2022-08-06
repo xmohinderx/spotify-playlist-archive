@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-226 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+228 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blackbird](https://open.spotify.com/track/2sQxhX9xg3cliZbhS56lv7) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Alpstar](https://open.spotify.com/artist/5LyqaR9qKCY366KoR95KAu) | [Blackbird](https://open.spotify.com/album/5xCFFoAU4yispS1neBK9L4) | 2:12 | 2022-06-24 | 2022-07-29 |
 | [Blanca](https://open.spotify.com/track/3AWBuykfXVYCsnLpcFaTZD) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Blanca](https://open.spotify.com/album/4KCL1APmh3f5HObRfhjFcU) | 2:13 | 2021-12-07 | 2022-07-29 |
 | [Blanca](https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:13 | 2022-07-29 |  |
+| [Blossom](https://open.spotify.com/track/2UMbqJcD16ZlbvXqBfh4P6) | [im\-fi](https://open.spotify.com/artist/29BIVIqpWY1W4jLq2H0rLe), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Blossom](https://open.spotify.com/album/2B65Sp9UmI1lbXI6Xah9LE) | 1:16 | 2022-08-05 |  |
 | [blurred out](https://open.spotify.com/track/5waQSpQkpTftnueMCFQ0C9) | [yukku](https://open.spotify.com/artist/5s1XIyM3GUlnNMT51DGAjN) | [blurred out](https://open.spotify.com/album/77cPsZNnPm0HkcuyRbwJN9) | 1:55 | 2021-12-07 | 2022-05-27 |
 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 | 2021-12-07 |  |
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2021-12-07 |  |
@@ -208,6 +209,7 @@
 | [Sunset Over Paris](https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Sunset Over Paris](https://open.spotify.com/album/6U8r9IvFcbFpJva7TKWpxg) | 2:28 | 2021-12-07 |  |
 | [Sweater Weather](https://open.spotify.com/track/1BPcsKuD9Ci3AJFLU1Lp7j) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Sweater Weather](https://open.spotify.com/album/4bwEsG9JD0bHUzX8TYzbhT) | 2:25 | 2021-12-07 |  |
 | [Sydney, 11PM](https://open.spotify.com/track/2w3PdEwgYWFEU1YOCYyw4x) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Sydney, 11PM](https://open.spotify.com/album/6QCxyD7U3Ehybt1iuAhgmL) | 1:41 | 2021-12-07 | 2022-05-20 |
+| [Tears Of The Forest](https://open.spotify.com/track/11lgzgiYDe6VJvA0bvKMwy) | [KioKo](https://open.spotify.com/artist/1QCUosyjrXG8kXxVpnSRgi) | [Tears of the Forest](https://open.spotify.com/album/442Pnd7ZHvTp6E49u2n5OZ) | 2:16 | 2022-08-05 |  |
 | [The Hotel at the End of the World](https://open.spotify.com/track/1by1Ft419vJMoWynFCLwMX) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [The Hotel at the End of the World](https://open.spotify.com/album/5OQcRQ3T3dVxq3Ga898XXp) | 1:31 | 2022-05-27 |  |
 | [Tomorrow Will Be Better](https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/2SAg5ASeGWGt7YDXqiOEs7) | 2:34 | 2021-12-07 |  |
 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 | 2022-08-05 |  |

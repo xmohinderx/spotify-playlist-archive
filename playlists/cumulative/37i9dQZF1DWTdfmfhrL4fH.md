@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-511 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+512 songs - 1 day 8 hr 11 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 | 2022-05-25 |  |
 | [Bath Salts](https://open.spotify.com/track/252T5dAokvMiNzXZchojoH) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 3:59 | 2022-05-25 |  |
 | [Bath Salts](https://open.spotify.com/track/33k68xWHOnL25URDQoXPDU) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/3vqHU45940CTywg4uPCE27) | 3:59 | 2022-05-25 | 2022-07-29 |
-| [Battle Born](https://open.spotify.com/track/3nRanAfF9K36yHWV9sIG9D) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 3:43 | 2022-05-25 |  |
+| [Battle Born](https://open.spotify.com/track/3nRanAfF9K36yHWV9sIG9D) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 3:43 | 2022-05-25 | 2022-08-06 |
 | [Battle Born](https://open.spotify.com/track/7x2gOLBT1ruFBNsxFmddWw) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 3:43 | 2022-05-25 | 2022-07-29 |
 | [Battle Born](https://open.spotify.com/track/52IbZOn3hSl8OVDms3j78h) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 5:13 | 2022-05-25 | 2022-07-29 |
 | [Battle Cry](https://open.spotify.com/track/6SCDzH7OCgpzwCP8yo7HIP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/0Ikw6ho559687KCPbSjr0K) | 4:32 | 2022-05-25 | 2022-07-29 |
@@ -397,6 +397,7 @@
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 | 2022-05-25 |  |
 | [Serotonia](https://open.spotify.com/track/2NESCpoymDV70ONdSe798A) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/4Vwy2RelnRLfsVsuCnJ2Lb) | 5:51 | 2022-05-25 | 2022-07-18 |
 | [Set Me On Fire](https://open.spotify.com/track/1NMXkYmP983tmztiArxJEn) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Between The Stars \(Special Edition\)](https://open.spotify.com/album/1EYbyqvfyrxskx1jniA0Gq) | 3:37 | 2022-05-25 | 2022-07-29 |
+| [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 | 2022-05-25 |  |
 | [She Got Arrested](https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 3:25 | 2022-05-25 | 2022-07-26 |
 | [She's Out Of Her Mind](https://open.spotify.com/track/6EE19skJ32p58xihYj2Waa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 2:42 | 2022-05-25 |  |
 | [She's so Mean](https://open.spotify.com/track/2toY6JyyfKy9TwNk3Ou2XG) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [North \(Deluxe Edition\)](https://open.spotify.com/album/3JdxPzUYUcVeRgfdOGXZLC) | 3:52 | 2022-05-25 |  |

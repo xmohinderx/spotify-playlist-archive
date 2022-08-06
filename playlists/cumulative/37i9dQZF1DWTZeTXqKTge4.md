@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Shreez, FouKi
+> Le meilleur du hip\-hop québécois\. Photo: MB
 
-233 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+235 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Big Fax](https://open.spotify.com/track/2NWg71pvlmO2Md4NGNiY1p) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Vulgaire démonstration d'ignorance](https://open.spotify.com/album/4mCOFo6pAAnmNnPeILWhd0) | 3:59 | 2022-01-07 | 2022-04-02 |
 | [Bizarre](https://open.spotify.com/track/2IrTgjztzr7vjmVHQVeX36) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Bizarre](https://open.spotify.com/album/7MccU2BmWKV2ZdIuNLfSML) | 3:12 | 2022-07-22 |  |
 | [Blackout](https://open.spotify.com/track/3ZIwVcPDhUfeNX9VajuBmH) | [Dix\-Iple Deca](https://open.spotify.com/artist/1V2KK1iPj58TL4WNg9xIj1), [Jamal Jaykob](https://open.spotify.com/artist/49dFhwGy9kgICCmzvRC1mq) | [Blackout](https://open.spotify.com/album/17j1vsdJOV0Si2k5CZftkV) | 3:27 | 2022-04-01 | 2022-06-11 |
+| [Bloc Boy](https://open.spotify.com/track/5t1fGB3RJbIcp23rfCV7Ov) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [Bloc Boy](https://open.spotify.com/album/44HMFKiCD2hcS6ONVPqTJQ) | 3:14 | 2022-08-05 |  |
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 |  |
 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-02-04 | 2022-04-23 |
 | [Burbur](https://open.spotify.com/track/5enoxGPrGxhYR0hQPbYb6U) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mourir en Essayant](https://open.spotify.com/album/14SrZvsojiHw4cod9OPXOu) | 3:40 | 2022-02-18 | 2022-03-12 |
@@ -70,6 +71,7 @@
 | [Corde à linge](https://open.spotify.com/track/0U4ukkvUsKmvNw4aUMikco) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Corde à linge](https://open.spotify.com/album/7fPC38bEo6lSGyiTk7SNb2) | 3:19 | 2022-02-11 | 2022-04-02 |
 | [Corde à linge](https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:19 | 2022-04-01 | 2022-06-11 |
 | [Costco freestyle](https://open.spotify.com/track/0oFFNSKg6DvV7rYTCwfMMP) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Costco freestyle](https://open.spotify.com/album/7zXtx6SQ1XkGiEi63Qrh8Q) | 2:16 | 2022-06-03 |  |
+| [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 | 2022-08-05 |  |
 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 | 2022-07-22 |  |
 | [Dangerous](https://open.spotify.com/track/5i3geg5F4TESsafrZe66tv) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:41 | 2022-07-22 |  |
 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 | 2022-01-07 | 2022-05-28 |
@@ -200,7 +202,7 @@
 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 | 2022-02-25 |  |
 | [Rose Noire](https://open.spotify.com/track/2iGj1Dgx5M5eYBjw7vgKsc) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Rose Noire](https://open.spotify.com/album/1RXI1kOEhiitv0f8lUENJj) | 3:22 | 2022-01-28 | 2022-06-18 |
 | [Rouge Cardinal](https://open.spotify.com/track/0xX5ijuhkRhqDV7l6uafgL) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Rouge Cardinal](https://open.spotify.com/album/0FimdtrBFjUUZRNpwR2qV8) | 2:13 | 2022-06-17 | 2022-07-02 |
-| [Rowzin](https://open.spotify.com/track/0YhTHQ37vdhsNbienW9YTB) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Jwles](https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8) | [Rowzin](https://open.spotify.com/album/15oSQFCbYUQ2Jgo9slqOOf) | 2:32 | 2022-07-01 |  |
+| [Rowzin](https://open.spotify.com/track/0YhTHQ37vdhsNbienW9YTB) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Jwles](https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8) | [Rowzin](https://open.spotify.com/album/15oSQFCbYUQ2Jgo9slqOOf) | 2:32 | 2022-07-01 | 2022-08-06 |
 | [Run Off](https://open.spotify.com/track/4hacOsbThfn68iXRzWxFet) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Izuku 2.0](https://open.spotify.com/album/0ebFweEBDJCo4LySV87ARC) | 2:40 | 2022-06-17 |  |
 | [Sachet d'amour](https://open.spotify.com/track/1Nz8mPtB3J58dFa0M5EYj7) | [Baggies](https://open.spotify.com/artist/3MaLB9t8oVeKHmnmYi0VJS), [JeanCoeur](https://open.spotify.com/artist/3EnquMDJk2xQ9uaROEv8mT), [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt) | [Invincible](https://open.spotify.com/album/44GOSWH28z2v1AX67oLdBO) | 3:07 | 2022-05-13 | 2022-05-28 |
 | [Salaud](https://open.spotify.com/track/6tjy1Hee6UYCBiBYxNiLJ3) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Salaud](https://open.spotify.com/album/3fPTu8fL4vArZUEmc3nliD) | 4:05 | 2022-04-08 | 2022-05-20 |
@@ -227,7 +229,7 @@
 | [Tout le monde a raison](https://open.spotify.com/track/5Rm2XSJvhHdx7remj1ZUNQ) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Lounaire](https://open.spotify.com/artist/6S5hi1MwIrqeZ1tHW5GL6F) | [Tout le monde a raison](https://open.spotify.com/album/5XjJEfwC3ybxsdqfNuB0o3) | 3:39 | 2022-05-13 |  |
 | [Triomphe](https://open.spotify.com/track/4PaVygkVBqsBEu8BTfvhDp) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [Triomphe](https://open.spotify.com/album/2ApDsFVuNCll7S4bEQMA7C) | 4:04 | 2022-04-15 |  |
 | [Trois](https://open.spotify.com/track/7FifBy3Tu7kxliPg331kLA) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [Trois](https://open.spotify.com/album/3sn6a1BXHm5LlNgn2H3hAk) | 3:06 | 2022-06-17 |  |
-| [Tudo Bem](https://open.spotify.com/track/0XJlv1XivNfzllwGK5MksT) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Tudo Bem](https://open.spotify.com/album/2XeTDIRMPxKUTscqoNZG93) | 3:33 | 2022-06-24 |  |
+| [Tudo Bem](https://open.spotify.com/track/0XJlv1XivNfzllwGK5MksT) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Tudo Bem](https://open.spotify.com/album/2XeTDIRMPxKUTscqoNZG93) | 3:33 | 2022-06-24 | 2022-08-06 |
 | [Turf](https://open.spotify.com/track/2t60WSbTDTX6wwKzWL1NYO) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Turf](https://open.spotify.com/album/0rSIH2lvmSOqFrfmd1KwYW) | 2:24 | 2022-01-07 | 2022-05-14 |
 | [Uber Eats Freestyle](https://open.spotify.com/track/0Of0wSZPDgQcYccKuQtptU) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Uber Eats Freestyle](https://open.spotify.com/album/0OOPR6c1oSw0FMS3CVhwl0) | 3:03 | 2022-04-22 | 2022-05-20 |
 | [V12](https://open.spotify.com/track/634JCPeIeQqZk33b87A7Wf) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [V12](https://open.spotify.com/album/7z7ix2ykbpxubSPqBBg0sM) | 2:14 | 2022-04-22 | 2022-07-09 |

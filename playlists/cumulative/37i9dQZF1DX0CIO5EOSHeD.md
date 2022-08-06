@@ -2,9 +2,9 @@
 
 ### [Lo\-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
-> Slacker jams\. Cover: Yot Club
+> Slacker jams\. Cover: Frankie Cosmos
 
-304 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+307 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [All Emotions Are Equal](https://open.spotify.com/track/5JNgFY6PzXZ5n5N2MFfeRQ) | [Martian Subculture](https://open.spotify.com/artist/5CNfcjsUX8fZ0lo0bPrdu9) | [All Emotions Are Equal](https://open.spotify.com/album/1e35FAlWT9sdaUIBExFv8m) | 2:54 | 2020-10-27\* | 2021-01-12 |
 | [All I Want](https://open.spotify.com/track/1KDVdNlngwZ4dy9wj2Rg1t) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [All I Want](https://open.spotify.com/album/3NFJNqBCiZBg0JtWPEpBZB) | 2:33 | 2021-06-22 | 2022-07-17 |
 | [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 | 2021-01-12 |  |
-| [Altitude](https://open.spotify.com/track/5hh5t7Wc3NuzFlRhl5Yxhx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Altitude](https://open.spotify.com/album/7DtfdvLRl8czN4vhSNRJv0) | 3:30 | 2021-04-02 |  |
+| [Altitude](https://open.spotify.com/track/5hh5t7Wc3NuzFlRhl5Yxhx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Altitude](https://open.spotify.com/album/7DtfdvLRl8czN4vhSNRJv0) | 3:30 | 2021-04-02 | 2022-08-06 |
 | [Always](https://open.spotify.com/track/2HGZgvEkKNMY1HGIJ3NwsN) | [PLASMAS](https://open.spotify.com/artist/6GFn0qLP4tPEbhqCNJINLH) | [Always](https://open.spotify.com/album/4AYkrjG3wC2ovS9s50Plbq) | 4:33 | 2021-05-22 | 2022-04-21 |
 | [Angel Eyes](https://open.spotify.com/track/6LAtbL8VOpjHoGbkOwxsDe) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Angel Eyes](https://open.spotify.com/album/4fPu6chzPrKGzUZqvOGKDP) | 4:43 | 2020-10-27\* | 2021-02-26 |
 | [angels \(emily\)](https://open.spotify.com/track/4CwgOt8rqXn4t9wOQB6Lej) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [angels \(emily\)](https://open.spotify.com/album/33RyzgCDN8X2JhPVolscRw) | 2:49 | 2020-12-11 | 2022-07-26 |
@@ -33,7 +33,7 @@
 | [Arp\-87](https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Arp\-87](https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa) | 2:49 | 2020-10-27\* |  |
 | [Artbook](https://open.spotify.com/track/3hDg7qkEQjEdfYz9nbewvs) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Artbook](https://open.spotify.com/album/0GcS4KiaFb2Xm0cVF7skIM) | 2:50 | 2021-09-25 | 2022-07-09 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-08-11 |  |
-| [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-09-18 |  |
+| [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-09-18 | 2022-08-06 |
 | [Attention](https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN) | 2:46 | 2021-05-21 |  |
 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 | 2021-08-22 |  |
 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2021-05-22 |  |
@@ -43,7 +43,7 @@
 | [Before the Fall](https://open.spotify.com/track/1tltnRfo8ByhQKOyX9qbAB) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/4aywJtcYsd7cFuRyqnDJgs) | 2:59 | 2021-10-08 | 2022-07-29 |
 | [Being Wrong](https://open.spotify.com/track/0PjOZxeR5NHnaIcLQAryvD) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Being Wrong](https://open.spotify.com/album/4pvddL619CqPhH6AMIqBrD) | 2:33 | 2021-12-18 | 2022-07-28 |
 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-04 | 2022-07-29 |
-| [Better Than Heaven](https://open.spotify.com/track/1vv1iEw58OHt0juBWVgoTJ) | [Jhana Boy](https://open.spotify.com/artist/2Vlf1v1k5FzSmOVBsVRT2F) | [Better Than Heaven](https://open.spotify.com/album/4TD3lHUlqgOGL6ikKTYtmG) | 3:18 | 2020-10-27\* |  |
+| [Better Than Heaven](https://open.spotify.com/track/1vv1iEw58OHt0juBWVgoTJ) | [Jhana Boy](https://open.spotify.com/artist/2Vlf1v1k5FzSmOVBsVRT2F) | [Better Than Heaven](https://open.spotify.com/album/4TD3lHUlqgOGL6ikKTYtmG) | 3:18 | 2020-10-27\* | 2022-08-06 |
 | [Big Nothing](https://open.spotify.com/track/5z8uTILTDLsjfeQot1NA7t) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 2:22 | 2020-10-27\* | 2022-07-29 |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-10-27\* | 2020-10-30 |
 | [Blindness](https://open.spotify.com/track/0ENVNAVahHrrPfroJ1XmXz) | [Maripool](https://open.spotify.com/artist/2Lmop7bq7RxW1Ue2GQsgSf) | [Blindness](https://open.spotify.com/album/5Aw5wKmzAaEJuZdHLKpKT3) | 3:32 | 2021-02-26 | 2022-07-11 |
@@ -151,6 +151,7 @@
 | [Ill Die for U](https://open.spotify.com/track/5v7XjzreQIVYJQkI4V5c7j) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO), [Lul Patchy](https://open.spotify.com/artist/10aK4Kl54Gv2thryqsscMN) | [Ill Die for U](https://open.spotify.com/album/2zx4Ttn8iNSCRwQ7SKDvHV) | 2:27 | 2021-04-02 | 2022-04-29 |
 | [ily<3](https://open.spotify.com/track/3ZP4D8jYZ7CdqXUfp1o71I) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [ily<3](https://open.spotify.com/album/0o1clGmQMvWEhwQYH6TBWd) | 3:34 | 2022-03-03 | 2022-07-29 |
 | [In My Head](https://open.spotify.com/track/3Y6tV3yhArEd7yfGggq2WF) | [Andreww](https://open.spotify.com/artist/3nNrtcMuKJcs40QGH5xoQS) | [In My Head](https://open.spotify.com/album/2nxQBBRveSpoNgmDGCS8pE) | 2:52 | 2021-10-09 | 2022-04-18 |
+| [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-05 |  |
 | [Intersection](https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh) | 3:53 | 2021-04-29 |  |
 | [Into](https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Into](https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f) | 3:59 | 2021-09-07 |  |
 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 | 2020-10-27\* | 2022-07-28 |
@@ -204,6 +205,7 @@
 | [Obsessed](https://open.spotify.com/track/2OIIhZsJps4wpv1ob4AtDH) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Obsessed](https://open.spotify.com/album/3gCG7pVXTL4avBjoEOD41V) | 2:50 | 2021-09-25 | 2022-07-26 |
 | [obvious](https://open.spotify.com/track/4CsSN0KzU3bqhkrA7P3kIw) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [obvious](https://open.spotify.com/album/6NvlVbfUaUyOgZEfvSXHcm) | 3:09 | 2020-11-27 | 2022-07-16 |
 | [OH GOD](https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5) | 2:12 | 2021-04-02 |  |
+| [One Year Stand](https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [One Year Stand](https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d) | 2:35 | 2022-08-05 |  |
 | [Orange Roses](https://open.spotify.com/track/670aiWD6QsDWp84szcpWE6) | [Lazygirl](https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9) | [Orange Roses](https://open.spotify.com/album/3R6PGdhybXer7PrwSCpc0w) | 4:05 | 2020-10-27\* | 2022-07-29 |
 | [Paimon Prom Dress](https://open.spotify.com/track/3yHSlNtttgrmdce8sO8ndN) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:30 | 2022-02-03 | 2022-07-27 |
 | [Patience](https://open.spotify.com/track/2lxBhYFEacY4Sc8RoDm7Ty) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Patience](https://open.spotify.com/album/5LGOD8FNLQQgNaTMijMdRx) | 2:20 | 2020-10-27\* | 2022-07-17 |
@@ -300,6 +302,7 @@
 | [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 | 2021-04-02 | 2022-07-29 |
 | [When I Was Gone](https://open.spotify.com/track/6t3f34p7UtZPGAS3LrPRpd) | [COOL BOY](https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT) | [Classic Charm, Pt\. 1](https://open.spotify.com/album/1VxbK8B2DEcaYx8hoWeQum) | 2:41 | 2021-02-26 | 2021-03-06 |
 | [Where Do I Belong?](https://open.spotify.com/track/06bcKv1UX8IumhdJwDsG8m) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Where Do I Belong?](https://open.spotify.com/album/2Gb1vqzOGr9SCf11SsAhYk) | 3:21 | 2021-09-03 | 2022-07-24 |
+| [where do i belong?](https://open.spotify.com/track/4qc1GyMWVOOoKKRi7xA9V7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [where do i belong?](https://open.spotify.com/album/2TcbahDTErEx0Rz6BPPy50) | 3:21 | 2022-08-05 |  |
 | [Why Would I?](https://open.spotify.com/track/2EQPHBmFdi6gIuHz7qNpMd) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Why Would I?](https://open.spotify.com/album/2K1WSoNMQ55kyRzKTknQEy) | 2:42 | 2020-10-27\* | 2021-02-26 |
 | [Witch Hunt](https://open.spotify.com/track/36KmgLTPLTDaig7gjdmqtI) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Unholy Sonnets](https://open.spotify.com/album/1wukvZuURPYJCeJYbsGaeL) | 2:49 | 2021-11-27 | 2022-07-27 |
 | [Worth the Wait](https://open.spotify.com/track/1K1M1pMNmGLOcSf73PzfXd) | [COOL BOY](https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT) | [Worth the Wait](https://open.spotify.com/album/6dYOEipp17buof2LRzjf5K) | 2:26 | 2021-06-21 | 2022-07-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones Latinas de agosto 2022.",
-  "num_followers": 1484938,
+  "num_followers": 1485254,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2NTQ4MSwwMDAwMDAwMDljOTYwYWVkM2ExYTdkMWExN2JiOGQyOGRjZGQ2MWZk",
+  "snapshot_id": "MTY1OTM2NTQ4MSwwMDAwMDAwMGU0OWYyNmRlZmViNmM2NTM1ZWRiYmQyMjhmZGY0YzY4",
   "tracks": [
     {
       "added_at": "2022-08-01 14:51:21",
@@ -135,26 +135,6 @@
     {
       "added_at": "2022-08-01 14:51:21",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2022-08-01 14:51:21",
-      "album": {
         "name": "Traductor",
         "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
+    },
+    {
+      "added_at": "2022-08-01 14:51:21",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
     },
     {
       "added_at": "2022-08-01 14:51:21",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-08-01 14:51:21",
       "album": {
-        "name": "Dame Break",
-        "url": "https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 211802,
-      "name": "Dame Break",
-      "url": "https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc"
-    },
-    {
-      "added_at": "2022-08-01 14:51:21",
-      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 243500,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
+    },
+    {
+      "added_at": "2022-08-01 14:51:21",
+      "album": {
+        "name": "Dame Break",
+        "url": "https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 211802,
+      "name": "Dame Break",
+      "url": "https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc"
     },
     {
       "added_at": "2022-08-01 14:51:21",

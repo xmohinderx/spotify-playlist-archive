@@ -1,13 +1,33 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7340,
+  "num_followers": 7342,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3Mjk0NSwwMDAwMDAwMDZlYzcxZGQzM2ZkMWU0N2MxN2YwMDEyMjgzMmM4ODkw",
+  "snapshot_id": "MTY1OTY5NTA5MCwwMDAwMDAwMGZjZmIzMmZkMzM4MWRiYjg0MjYzNThmNWI0YmVjYTI3",
   "tracks": [
+    {
+      "added_at": "2022-08-05 10:24:50",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/0oQnFQEWTHTkL4n515ZkF0"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        },
+        {
+          "name": "Nala Ayieta",
+          "url": "https://open.spotify.com/artist/7xGpddF3zGul2T2RSUMVlF"
+        }
+      ],
+      "duration_ms": 157403,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp"
+    },
     {
       "added_at": "2022-07-29 05:35:45",
       "album": {
@@ -43,22 +63,6 @@
       "duration_ms": 158000,
       "name": "Camille",
       "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
-    },
-    {
-      "added_at": "2022-06-17 09:25:48",
-      "album": {
-        "name": "Curtains",
-        "url": "https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Curtains",
-      "url": "https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0"
     },
     {
       "added_at": "2022-07-08 07:28:44",
@@ -201,6 +205,30 @@
       "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
     },
     {
+      "added_at": "2022-08-05 10:24:50",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "See Through Solomon",
+          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
+        },
+        {
+          "name": "Khan Khalii",
+          "url": "https://open.spotify.com/artist/7b7AzRRl2CASFkHbB42KoN"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
+    },
+    {
       "added_at": "2022-03-17 20:59:00",
       "album": {
         "name": "Belinda",
@@ -235,6 +263,22 @@
       "duration_ms": 179318,
       "name": "Patient",
       "url": "https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih"
+    },
+    {
+      "added_at": "2022-06-17 09:25:48",
+      "album": {
+        "name": "Curtains",
+        "url": "https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0"
     },
     {
       "added_at": "2021-12-09 20:59:00",
@@ -749,22 +793,6 @@
       "url": "https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9"
     },
     {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Fair Game",
-        "url": "https://open.spotify.com/album/1IxoYVkTwUXmMnfnPpxQXo"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Fair Game",
-      "url": "https://open.spotify.com/track/0N6jiFbnIPADb0ywO2Chqs"
-    },
-    {
       "added_at": "2022-02-04 03:01:04",
       "album": {
         "name": "Ndanu",
@@ -1211,22 +1239,6 @@
       "duration_ms": 163200,
       "name": "Sana",
       "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Lowkey",
-        "url": "https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 170458,
-      "name": "Lowkey",
-      "url": "https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e"
     }
   ],
   "unique_name": "Eastern Vibes",

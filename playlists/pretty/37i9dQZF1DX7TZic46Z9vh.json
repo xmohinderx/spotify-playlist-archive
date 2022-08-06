@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 35057,
+  "num_followers": 35068,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMGZlMzY5MGQwZTBlNTBkNjQzZWM1YzUwZTc2ZWU5Y2Ix",
+  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMDEyMjQ5ZTM3MGQyZmY4MmU5YzY3MDI0OGIzMWE4MmVh",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7"
-      },
-      "artists": [
-        {
-          "name": "Los Dug Dug's",
-          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
-        }
-      ],
-      "duration_ms": 276373,
-      "name": "Let's Make It Now (Hag\u00e1moslo Ahora)",
-      "url": "https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Rock en Av\u00e1ndaro Valle de Bravo",
         "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 229955,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7"
+      },
+      "artists": [
+        {
+          "name": "Los Dug Dug's",
+          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
+        }
+      ],
+      "duration_ms": 276373,
+      "name": "Let's Make It Now (Hag\u00e1moslo Ahora)",
+      "url": "https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
         }
       ],
-      "duration_ms": 237320,
-      "name": "Regreso al Origen",
-      "url": "https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X"
+      "duration_ms": 192893,
+      "name": "Nada Nos Detendr\u00e1",
+      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -767,6 +767,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+      },
+      "artists": [
+        {
+          "name": "The Love Army",
+          "url": "https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S"
+        }
+      ],
+      "duration_ms": 192522,
+      "name": "Di por Qu\u00e9",
+      "url": "https://open.spotify.com/track/0XSnUE3EFdWhFdAA8qXUBQ"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Baby, Don't Let Me",
         "url": "https://open.spotify.com/album/6sqWKQdhUsiksa4gXVRcdF"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Super Onda Chicana",
-        "url": "https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L"
-      },
-      "artists": [
-        {
-          "name": "La Tribu",
-          "url": "https://open.spotify.com/artist/1S3mBYfIcrUcIJXy1ZsDS0"
-        }
-      ],
-      "duration_ms": 172043,
-      "name": "No Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/4sivmBy111vgjs7Ke9Ltb1"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Regreso al Origen",
         "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
       },
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Nada Nos Detendr\u00e1",
-      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
+      "duration_ms": 237320,
+      "name": "Regreso al Origen",
+      "url": "https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

@@ -1971,6 +1971,24 @@
     {
       "album": {
         "name": "ISMAK",
+        "url": "https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190830,
+      "name": "ISMAK",
+      "url": "https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ"
+    },
+    {
+      "album": {
+        "name": "ISMAK",
         "url": "https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp"
       },
       "artists": [
@@ -3503,7 +3521,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 194701,
       "name": "Romansiya",
       "url": "https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6"

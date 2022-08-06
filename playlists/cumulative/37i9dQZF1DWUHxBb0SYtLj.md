@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Giolì & Assia
 
-309 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
+310 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Buffet](https://open.spotify.com/track/65rf3f2JG6z2LkiXJmnVTp) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Buffet](https://open.spotify.com/album/12tJV34g0Gj7bgLL4ntLIU) | 3:24 | 2022-04-05 | 2022-05-04 |
 | [Buonanotte](https://open.spotify.com/track/1RystKYUYk8PxMLIbINfp2) | [Rosita Brucoli](https://open.spotify.com/artist/54NpXfCoi3rF521bElu2zQ) | [Camminare e Correre](https://open.spotify.com/album/4dupgjh7vhIVialwrPBWms) | 3:10 | 2022-06-02 | 2022-07-06 |
 | [Cadere così](https://open.spotify.com/track/615b6R6LpNaSVVpHKW26yC) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [Cadere così](https://open.spotify.com/album/0FPY1JfhKDvoFdi0s7g8V4) | 2:42 | 2021-12-07 | 2022-02-03 |
+| [Camomilla](https://open.spotify.com/track/0iYUu1887BDV4vwGYQJzFE) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Camomilla](https://open.spotify.com/album/0hPcyfoT7FdQOzenaqhFfm) | 2:33 | 2022-08-02 |  |
 | [Canzone inutile](https://open.spotify.com/track/6POrcZjT4Kynm1uj2VE6rQ) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Tutto accade](https://open.spotify.com/album/1fpnMQJuIlYhZpd7ZzCH29) | 3:54 | 2021-12-07 | 2022-03-08 |
 | [Caramelle](https://open.spotify.com/track/1BdRVY0Vw2LNWARt4CBzVn) | [MARLA](https://open.spotify.com/artist/0zA3qtonjFW680Qm1YQaIF) | [Caramelle](https://open.spotify.com/album/0wkJjRZ8MzeHRHpWOCXlD7) | 2:45 | 2021-12-07 | 2022-02-04 |
 | [Cartier](https://open.spotify.com/track/2qRv0ExcJ4Hyqqm4CTg1Gm) | [Joana](https://open.spotify.com/artist/6ETXNuvHYlQcCmfsgBI4s9) | [Cartier](https://open.spotify.com/album/3CVuAiTH0LQNp4pSB3Mmjb) | 2:54 | 2022-08-02 |  |

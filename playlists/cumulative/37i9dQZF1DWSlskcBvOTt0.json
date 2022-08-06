@@ -442,6 +442,28 @@
     },
     {
       "album": {
+        "name": "Aye Aye",
+        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240144,
+      "name": "Aye Aye",
+      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
+    },
+    {
+      "album": {
         "name": "Arkade Destinations Tulum",
         "url": "https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR"
       },
@@ -767,7 +789,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 337431,
       "name": "Bordre",
       "url": "https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw"
@@ -1753,6 +1775,28 @@
       "duration_ms": 466683,
       "name": "Fixed Nostalgia",
       "url": "https://open.spotify.com/track/1NrxsJ8tPjxG24VWXA4k8P"
+    },
+    {
+      "album": {
+        "name": "Fizzy Pop",
+        "url": "https://open.spotify.com/album/18udJDR6IOSryeSoikVva6"
+      },
+      "artists": [
+        {
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+        },
+        {
+          "name": "Max Milner",
+          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248049,
+      "name": "Fizzy Pop",
+      "url": "https://open.spotify.com/track/7LmGa79StJLeRa7MANCorW"
     },
     {
       "album": {
@@ -3955,7 +3999,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 516000,
       "name": "Oud Imperial",
       "url": "https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF"
@@ -5607,7 +5651,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 444800,
       "name": "Voicing Something - Adriatique Remix",
       "url": "https://open.spotify.com/track/4eJ4jBDqGwA9Z9kesunDQE"
@@ -5717,6 +5761,24 @@
       "duration_ms": 287401,
       "name": "Walden Pond",
       "url": "https://open.spotify.com/track/5MDVgUhQ5i273BBEQFtptT"
+    },
+    {
+      "album": {
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425906,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi"
     },
     {
       "album": {

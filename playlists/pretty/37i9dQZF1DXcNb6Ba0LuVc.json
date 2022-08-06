@@ -1,12 +1,12 @@
 {
   "description": "Uplifting instrumental beats to brighten your day.",
-  "num_followers": 136803,
+  "num_followers": 137201,
   "original_name": "Feel Good Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMDNhMTRhYWZmMDk0MjRmNDhiYjg2OWJmZjI4YWZmZTUx",
+  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMDcxYzFlNzM1ZDg2NDI1OTc1MmNmMDU0MDM0MTk3MDBh",
   "tracks": [
     {
       "added_at": "2022-08-05 00:00:00",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2022-08-05 00:00:00",
       "album": {
+        "name": "Faith Basket",
+        "url": "https://open.spotify.com/album/2kSlxWw2YAZqwp69iSHy9s"
+      },
+      "artists": [
+        {
+          "name": "Jack Dean",
+          "url": "https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw"
+        }
+      ],
+      "duration_ms": 75526,
+      "name": "Faith Basket",
+      "url": "https://open.spotify.com/track/7bjJRSF3xts6D99aJ5DN1X"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
         "name": "Lush Lush Lake",
         "url": "https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB"
       },
@@ -2407,6 +2423,22 @@
       "duration_ms": 252331,
       "name": "Blue Paradise",
       "url": "https://open.spotify.com/track/65mR4MLv5dmCDc4addPpSV"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "Chorozinho",
+        "url": "https://open.spotify.com/album/31E8HYZ2bBPm3nrzV3Meko"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "duration_ms": 135122,
+      "name": "Chorozinho",
+      "url": "https://open.spotify.com/track/209NUwzoKrI55HWQlNgLZ6"
     },
     {
       "added_at": "2022-08-05 00:00:00",

@@ -1,13 +1,29 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 476105,
+  "num_followers": 476099,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDMyOTA5NGZjNmE0ODg3NzBiODNlNTkzYzQwZGUwYTdm",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGFhOTY4YmNhZmVkODZiMGI2NDNmZTQ2YzE2M2VkNTNk",
   "tracks": [
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 164688,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
+    },
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
@@ -25,20 +41,40 @@
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Thinking Bout Ya",
-        "url": "https://open.spotify.com/album/2eExKyZnFUqEHLsK7HUcNU"
+        "name": "Hurting Me",
+        "url": "https://open.spotify.com/album/4I7zCvns4CQ7r3MxCLKqVC"
       },
       "artists": [
         {
-          "name": "MAYLYN",
-          "url": "https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM"
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
         }
       ],
-      "duration_ms": 163821,
-      "name": "Thinking Bout Ya",
-      "url": "https://open.spotify.com/track/5XJJxc2t9gUsyi80KCcs4M"
+      "duration_ms": 140525,
+      "name": "Hurting Me",
+      "url": "https://open.spotify.com/track/6ALXif8NHKiuF3R8y6G3Ol"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/121XCucgRj9maofL28rYsF"
+      },
+      "artists": [
+        {
+          "name": "Jack Shore",
+          "url": "https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P"
+        },
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 176970,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/13G75440eEdoAYBxpvx7iJ"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -57,20 +93,20 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+      "duration_ms": 181667,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h"
     },
     {
       "added_at": "2022-01-19 18:36:18",
@@ -87,26 +123,6 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5VzYQ9BHrTI6HPV5sk4R79"
-      },
-      "artists": [
-        {
-          "name": "Kado",
-          "url": "https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb"
-        },
-        {
-          "name": "Maiza",
-          "url": "https://open.spotify.com/artist/4VV9icF9SRufglMKhsDDrf"
-        }
-      ],
-      "duration_ms": 192428,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/3RnkPoduHhQX4FY9x2rEeY"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -213,22 +229,6 @@
       "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
     },
     {
-      "added_at": "2022-01-19 18:36:18",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Superache",
@@ -261,20 +261,20 @@
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-01-19 18:36:18",
       "album": {
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 183014,
-      "name": "All 4 Nothing (I'm So In Love)",
-      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
+      "duration_ms": 236906,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -295,6 +295,22 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "All 4 Nothing (I'm So In Love)",
+      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     },
     {
       "added_at": "2022-01-19 18:36:18",
@@ -441,6 +457,22 @@
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Something to Someone",
+        "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Something to Someone",
+      "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
+    },
+    {
       "added_at": "2022-01-19 18:36:18",
       "album": {
         "name": "Looks Like Me",
@@ -491,22 +523,6 @@
       "duration_ms": 177511,
       "name": "My Love - Edit",
       "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Something to Someone",
-        "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Something to Someone",
-      "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -597,22 +613,6 @@
       "url": "https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Her Body Is Bible",
-        "url": "https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Her Body Is Bible",
-      "url": "https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz"
-    },
-    {
       "added_at": "2022-01-19 18:36:18",
       "album": {
         "name": "An Evening With Silk Sonic",
@@ -635,6 +635,22 @@
       "duration_ms": 219389,
       "name": "Fly As Me",
       "url": "https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Her Body Is Bible",
+        "url": "https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Her Body Is Bible",
+      "url": "https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -749,22 +765,6 @@
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Love Like That",
-        "url": "https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s"
-      },
-      "artists": [
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 214119,
-      "name": "Love Like That",
-      "url": "https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y"
-    },
-    {
       "added_at": "2022-01-19 18:36:18",
       "album": {
         "name": "Private Space",
@@ -785,20 +785,20 @@
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
     },
     {
-      "added_at": "2022-01-19 18:36:18",
+      "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Obviously",
-        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
+        "name": "Love Like That",
+        "url": "https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
         }
       ],
-      "duration_ms": 230178,
-      "name": "Hypotheticals",
-      "url": "https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN"
+      "duration_ms": 214119,
+      "name": "Love Like That",
+      "url": "https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y"
     },
     {
       "added_at": "2022-01-19 18:36:18",
@@ -833,20 +833,20 @@
       "url": "https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
+      "added_at": "2022-01-19 18:36:18",
       "album": {
-        "name": "Egg in the Backseat",
-        "url": "https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W"
+        "name": "Obviously",
+        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
       },
       "artists": [
         {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 164529,
-      "name": "12345",
-      "url": "https://open.spotify.com/track/0fxUGOzBYJGKgs5ZKw1Em5"
+      "duration_ms": 230178,
+      "name": "Hypotheticals",
+      "url": "https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN"
     }
   ],
   "unique_name": "Evening Commute",

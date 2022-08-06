@@ -1138,6 +1138,28 @@
     },
     {
       "album": {
+        "name": "Schubert / Arr. Liszt: St\u00e4ndchen, Serenade (After Schubert's 'Schwanengesang' D. 957)",
+        "url": "https://open.spotify.com/album/5abXWiLQUc6ILQfsLOOvh4"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367480,
+      "name": "Liszt: Lieder aus Franz Schubert's \"Schwanengesang\", S. 560: No. 7 St\u00e4ndchen",
+      "url": "https://open.spotify.com/track/4302P24v1ljMAzxnL5VO52"
+    },
+    {
+      "album": {
         "name": "Liszt: Piano Concertos Nos 1, 2 & Totentanz",
         "url": "https://open.spotify.com/album/5OzAdKyYTiBvxywntuM8aT"
       },
@@ -1833,7 +1855,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 337666,
       "name": "Schwanengesang, S. 560: No. 4 St\u00e4ndchen",
       "url": "https://open.spotify.com/track/5qGZQ9Q5qLlZhl5Ez6tsbY"

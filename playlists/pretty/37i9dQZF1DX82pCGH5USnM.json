@@ -1,13 +1,29 @@
 {
   "description": "Soft house music for your laidback moments.",
-  "num_followers": 1668278,
+  "num_followers": 1668372,
   "original_name": "Lounge - Soft House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMGM5ZDU1ZjY0NDFlMDUwM2UwZjFiZTZhOWE4ODc5ZTBi",
+  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMGM0ZmQxNmM5NmNkOWM1MWQ1NmI1ODYzZDRhNGUwZDEz",
   "tracks": [
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64"
+      },
+      "artists": [
+        {
+          "name": "Moonkids",
+          "url": "https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm"
+        }
+      ],
+      "duration_ms": 159153,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl"
+    },
     {
       "added_at": "2022-08-05 00:00:00",
       "album": {

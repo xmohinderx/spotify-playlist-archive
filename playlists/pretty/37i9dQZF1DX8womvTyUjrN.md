@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Pau Laggies
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,071 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,144 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 35 | [Fuckin' Cupido </3](https://open.spotify.com/track/0LsoBe7x8VCHCdgPFxe7db) | [Jean Kala](https://open.spotify.com/artist/4fHIspqJ3qTfWvK3UAbOl9), [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Ndrey Botto](https://open.spotify.com/artist/5iOU7GvWyx3JiaxjJxesd9) | [Fuckin' Cupido </3](https://open.spotify.com/album/7kybS1WpOJk8MBniNTzjVK) | 3:46 |
 | 36 | [Más Allá](https://open.spotify.com/track/17WGo3851h6lRAU8GFV9uR) | [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Más Allá](https://open.spotify.com/album/5NlFJJVCJkquplO5wotAlT) | 2:51 |
 | 37 | [toxic](https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj) | [Lenay](https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D) | [toxic](https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD) | 2:41 |
-| 38 | [Solos](https://open.spotify.com/track/7vEPWsovwnkHa2fN5I3tST) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Solos](https://open.spotify.com/album/128JK5zcSwTC1kSNvQqCbS) | 2:59 |
-| 39 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
+| 38 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
+| 39 | [Solos](https://open.spotify.com/track/7vEPWsovwnkHa2fN5I3tST) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Solos](https://open.spotify.com/album/128JK5zcSwTC1kSNvQqCbS) | 2:59 |
 | 40 | [Burberry Tears](https://open.spotify.com/track/19dOJKxWjNgWsjGVcItOSD) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NMDA](https://open.spotify.com/album/7M69A9V3GcxsqMjYNAzcr5) | 3:05 |
 | 41 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 |
 | 42 | [FEROZ](https://open.spotify.com/track/404rDc5fmLVJkI7S5bbMdw) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [FEROZ](https://open.spotify.com/album/0BzXQTDJfQqy7Q0mjj0ecV) | 2:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 44 | [Huracan](https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Huracan](https://open.spotify.com/album/4FPzcCgliOsV62ZYXk9xqi) | 3:04 |
 | 45 | [Apodos](https://open.spotify.com/track/6j3eHgouvrPZsc195RkHGd) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Apodos](https://open.spotify.com/album/1QUaGILRvCs7Iqo8h9ysBP) | 2:39 |
 
-Snapshot ID: `MTY1OTAyMjUzMiwwMDAwMDAwMDkyOTM3OTJjZTg0NWE0NmE1MDVlZWQxYzJlMDI0NzRl`
+Snapshot ID: `MTY1OTAyMjUzMiwwMDAwMDAwMGY3OWZjNGQ0NmVlZDA1NTM5MDg4MzY5Y2EyOTQ2NjYy`

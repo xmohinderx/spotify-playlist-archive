@@ -218,6 +218,24 @@
     },
     {
       "album": {
+        "name": "Bloqu\u00e9",
+        "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "Bloqu\u00e9",
+      "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
+    },
+    {
+      "album": {
         "name": "Bokoko (Extra Musica)",
         "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
       },
@@ -561,7 +579,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 286267,
       "name": "Eloko Oyo",
       "url": "https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj"
@@ -631,6 +649,24 @@
       "duration_ms": 160007,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr"
+    },
+    {
+      "album": {
+        "name": "Holla",
+        "url": "https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w"
+      },
+      "artists": [
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215788,
+      "name": "Holla",
+      "url": "https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp"
     },
     {
       "album": {
@@ -755,6 +791,32 @@
       "duration_ms": 234359,
       "name": "Kilulu",
       "url": "https://open.spotify.com/track/21EIqCWgU610VuoHSamaMu"
+    },
+    {
+      "album": {
+        "name": "Kita",
+        "url": "https://open.spotify.com/album/1KxMpI9xFDsrzQ3AXq9Mge"
+      },
+      "artists": [
+        {
+          "name": "Djako",
+          "url": "https://open.spotify.com/artist/6hJcwkxbYVPFDRZYFDuJv9"
+        },
+        {
+          "name": "D\u00e9 Panama",
+          "url": "https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca"
+        },
+        {
+          "name": "Gettss",
+          "url": "https://open.spotify.com/artist/4bkTZCzXEVVHQ1cLmaYd1e"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216198,
+      "name": "Kita",
+      "url": "https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO"
     },
     {
       "album": {
@@ -911,7 +973,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 248000,
       "name": "Mbapp\u00e9",
       "url": "https://open.spotify.com/track/4x8jFY4oAcBsAt67pjonSS"
@@ -991,7 +1053,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 189000,
       "name": "Mon doudou",
       "url": "https://open.spotify.com/track/4LQhEWxaUSigESJetoNx2E"

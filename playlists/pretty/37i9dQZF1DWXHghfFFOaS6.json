@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 214041,
+  "num_followers": 214261,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE2NDY0MiwwMDAwMDAwMDY0YTA5YzlkYjBmZmY5MDk0OGJiMzkzNWVhNDU1MDUy",
+  "snapshot_id": "MTY1ODE2NDY0MiwwMDAwMDAwMGNlYzdkNzE0NGE0MjNiODExYTJlZGUzNTZhNzlmOTUw",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Come Touch The Sun",
-        "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Yes Baby Yes",
-      "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Dah Shinin'",
         "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Come Touch The Sun",
+        "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Yes Baby Yes",
+      "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 479466,
-      "name": "Knucklehead",
-      "url": "https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 281733,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 479466,
+      "name": "Knucklehead",
+      "url": "https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Totally Together",
-      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Winelight",
         "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 350600,
       "name": "Let It Flow (For \"DR. J\")",
       "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Totally Together",
+      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Galactica Rush",
         "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 320693,
       "name": "Whirl Keeps Turning",
       "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Lava Love",
         "url": "https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 298722,
       "name": "Niassam",
       "url": "https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
+      },
+      "artists": [
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",

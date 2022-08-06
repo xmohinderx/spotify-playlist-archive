@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 354024,
+  "num_followers": 354174,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMyNTkzNywwMDAwMDAwMDFjODVjOWI5ZTQwZDU4OGRkOWJiNWNmYjc2YTYwNjYx",
+  "snapshot_id": "MTY1OTMyNTkzNywwMDAwMDAwMGU2MzNiNDRkMWNmZmM4YjZiZGQ1NjI2MDg1ZTJlNmNi",
   "tracks": [
     {
       "added_at": "2022-08-01 03:52:17",
@@ -75,26 +75,6 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        },
-        {
-          "name": "Chris Geith",
-          "url": "https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Echoes of the Heart",
-      "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
-    },
-    {
-      "added_at": "2022-08-01 03:52:17",
-      "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 243366,
       "name": "Perfect Sunday",
       "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
+    },
+    {
+      "added_at": "2022-08-01 03:52:17",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        },
+        {
+          "name": "Chris Geith",
+          "url": "https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Echoes of the Heart",
+      "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
     },
     {
       "added_at": "2022-08-01 03:52:17",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
-    },
-    {
-      "added_at": "2022-08-01 03:52:17",
-      "album": {
         "name": "Babysoul",
         "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 284986,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
+    },
+    {
+      "added_at": "2022-08-01 03:52:17",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
     },
     {
       "added_at": "2022-08-01 03:52:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
-        "name": "All For Love",
-        "url": "https://open.spotify.com/album/13krE6l2QQwdBpjbPA5FwE"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Steppin' Out",
-      "url": "https://open.spotify.com/track/2vw0o63DPh9SEAtWN3kRgM"
-    },
-    {
-      "added_at": "2022-08-01 03:52:17",
-      "album": {
         "name": "Pacific Coast Highway",
         "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 238853,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
+    },
+    {
+      "added_at": "2022-08-01 03:52:17",
+      "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/13krE6l2QQwdBpjbPA5FwE"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/2vw0o63DPh9SEAtWN3kRgM"
     },
     {
       "added_at": "2022-08-01 03:52:17",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
-        "name": "Shakedown",
-        "url": "https://open.spotify.com/album/1V6grlJgOrbatTYJAhfrFL"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Feels Like Friday Night",
-      "url": "https://open.spotify.com/track/3bDsnnpzrp67FMcHmxOCFQ"
-    },
-    {
-      "added_at": "2022-08-01 03:52:17",
-      "album": {
         "name": "Night On The Town",
         "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 289240,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
+    },
+    {
+      "added_at": "2022-08-01 03:52:17",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
     },
     {
       "added_at": "2022-08-01 03:52:17",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
+        "name": "Shakedown",
+        "url": "https://open.spotify.com/album/1V6grlJgOrbatTYJAhfrFL"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Feels Like Friday Night",
+      "url": "https://open.spotify.com/track/3bDsnnpzrp67FMcHmxOCFQ"
+    },
+    {
+      "added_at": "2022-08-01 03:52:17",
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/3ym18a0dExcRA2VNAMAVBm"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 264453,
       "name": "Bluewave Bossanova",
       "url": "https://open.spotify.com/track/2QOqnhCrTIqTLzByQD7YQJ"
-    },
-    {
-      "added_at": "2022-08-01 03:52:17",
-      "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
     },
     {
       "added_at": "2022-08-01 03:52:17",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
-        "name": "Soulfully",
-        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Soulfully",
-      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
-    },
-    {
-      "added_at": "2022-08-01 03:52:17",
-      "album": {
         "name": "The Very Best Of Lee Ritenour",
         "url": "https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
+        "name": "Soulfully",
+        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Soulfully",
+      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
+    },
+    {
+      "added_at": "2022-08-01 03:52:17",
+      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
-      },
-      "artists": [
-        {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
-        }
-      ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2022-08-01 03:52:17",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 278200,
       "name": "My Song for You",
       "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
+    },
+    {
+      "added_at": "2022-08-01 03:52:17",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+        }
+      ],
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2022-08-01 03:52:17",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-08-01 03:52:17",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
+        "name": "Forward Motion",
+        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
       },
       "artists": [
         {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
+          "name": "Mezzoforte",
+          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
         }
       ],
-      "duration_ms": 260746,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
+      "duration_ms": 338893,
+      "name": "Cruising",
+      "url": "https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK"
     }
   ],
   "unique_name": "Smooth Jazz",

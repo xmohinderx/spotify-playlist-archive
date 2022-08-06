@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Shreez, FouKi",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: MB",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "Bloc Boy",
+        "url": "https://open.spotify.com/album/44HMFKiCD2hcS6ONVPqTJQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Jay",
+          "url": "https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Bloc Boy",
+      "url": "https://open.spotify.com/track/5t1fGB3RJbIcp23rfCV7Ov"
+    },
+    {
+      "album": {
         "name": "Bogot\u00e0",
         "url": "https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK"
       },
@@ -1317,6 +1335,24 @@
       "duration_ms": 136907,
       "name": "Costco freestyle",
       "url": "https://open.spotify.com/track/0oFFNSKg6DvV7rYTCwfMMP"
+    },
+    {
+      "album": {
+        "name": "C\u00e9sar",
+        "url": "https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28"
+      },
+      "artists": [
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "C\u00e9sar",
+      "url": "https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW"
     },
     {
       "album": {
@@ -3971,7 +4007,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 152582,
       "name": "Rowzin",
       "url": "https://open.spotify.com/track/0YhTHQ37vdhsNbienW9YTB"
@@ -4517,7 +4553,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 213250,
       "name": "Tudo Bem",
       "url": "https://open.spotify.com/track/0XJlv1XivNfzllwGK5MksT"

@@ -1,13 +1,45 @@
 {
   "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Mezzaluna",
-  "num_followers": 24124,
+  "num_followers": 24185,
   "original_name": "RADAR Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYzMjQwMCwwMDAwMDAwMDVkNzAxOTNjYTAzNTgzMzIyMmI0MmUwZWYzMjkwYzU5",
+  "snapshot_id": "MTY1OTYzMjQwMCwwMDAwMDAwMGI2ZDljZjQ2M2NkNzlkMzA3NDA2OWQ1MzAzNDA4NjIy",
   "tracks": [
+    {
+      "added_at": "2022-08-04 17:00:00",
+      "album": {
+        "name": "You Should Know",
+        "url": "https://open.spotify.com/album/47k8LFRZGbI3TKNSzuHAjq"
+      },
+      "artists": [
+        {
+          "name": "Mezzaluna",
+          "url": "https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "You Should Know",
+      "url": "https://open.spotify.com/track/5my3W0CKAb8kb6Z2Z7NjGx"
+    },
+    {
+      "added_at": "2022-08-04 17:00:00",
+      "album": {
+        "name": "anything 4 u",
+        "url": "https://open.spotify.com/album/64K42F7vbZEIxKUZjz0bq5"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "anything 4 u",
+      "url": "https://open.spotify.com/track/20p998Iw1tqEeHHvnxZ1wx"
+    },
     {
       "added_at": "2022-08-04 17:00:00",
       "album": {

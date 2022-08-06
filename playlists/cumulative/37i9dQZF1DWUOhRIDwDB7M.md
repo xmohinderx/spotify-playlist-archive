@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-244 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+246 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,8 @@
 | [Ingen äger floden](https://open.spotify.com/track/77vCBVWDkB5HZcwrNDx7Yt) | [Thomas Jackson](https://open.spotify.com/artist/41stF0r3WopxZKcDOh8yB6) | [Den inre skogen](https://open.spotify.com/album/64zeCjhSkwRDzVF6TvOwlc) | 4:06 | 2021-09-06 |  |
 | [Inhale](https://open.spotify.com/track/01daTlkKA1V2ordhUQ7zAd) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:52 | 2021-09-06 |  |
 | [Invicible](https://open.spotify.com/track/0wulrwxrjfOn9RcXbRmDNE) | [Mayday](https://open.spotify.com/artist/5qz2f8uPUfbAufh2JXtKsB) | [Invicible](https://open.spotify.com/album/3spO4bOG9gZUcRRs92mphv) | 3:16 | 2021-09-06 |  |
+| [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |
+| [Jiva](https://open.spotify.com/track/045bWmwbqV82V88ZQzEdaC) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Jiva](https://open.spotify.com/album/1IhH4kJuVq4iXffzIxlHsh) | 2:40 | 2022-08-05 |  |
 | [Just Look at You](https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [432 Water Crystals](https://open.spotify.com/album/6jSQXGouXgIfiwa9icJO68) | 3:07 | 2021-09-06 |  |
 | [Keep On](https://open.spotify.com/track/5YLoMU4RBnasKKNh4r0Uoh) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Keep On](https://open.spotify.com/album/5dRgfH52UfAu5Wsn5gc2GL) | 1:52 | 2021-09-06 |  |
 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 | 2021-09-06 |  |

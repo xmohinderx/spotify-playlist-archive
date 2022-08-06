@@ -1394,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "Flower Burst",
+        "url": "https://open.spotify.com/album/3kBpoP2x8YAOZC3TYWdgPC"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203401,
+      "name": "Flower Burst",
+      "url": "https://open.spotify.com/track/7oxc43kWwv1v2Q7N5QQQyX"
+    },
+    {
+      "album": {
         "name": "For The First Time",
         "url": "https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4"
       },

@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Carla Wehbe
 
-602 songs - 1 day 8 hr 30 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+603 songs - 1 day 8 hr 32 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/7fF6u8BlXiA3bJKDuJMKRR) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [I Wanna Be Yours](https://open.spotify.com/album/4OyXl2VWIP5hzOMog09KcK) | 3:12 | 2019-11-01 | 2020-02-12 |
 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 | 2021-08-14 |  |
 | [I Want You](https://open.spotify.com/track/27YIj9tDdBuyi9lORpYMtd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [I Want You](https://open.spotify.com/album/1XyvOXTp2gqK5gfMbjDk84) | 3:05 | 2019-08-27\* | 2019-11-11 |
+| [I Wish I Could Hate You](https://open.spotify.com/track/2z4mORt9qfkn3EN3iu3jqw) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Wish I Could Hate You](https://open.spotify.com/album/6NAIW55XE5VCP1Da1dV2Bw) | 2:22 | 2022-08-05 |  |
 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 | 2020-10-02 | 2021-05-12 |
 | [I.F.L.Y.](https://open.spotify.com/track/4R9ATNRRl1uth17i5qDCc0) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I.F.L.Y.](https://open.spotify.com/album/5Q4g8NWSgDf0AEE0Vy7bz9) | 2:45 | 2019-08-27\* | 2021-05-12 |
 | [Icy](https://open.spotify.com/track/4IXtbeWsD2DQWnTfjDSMjm) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:58 | 2020-07-18 | 2021-05-12 |

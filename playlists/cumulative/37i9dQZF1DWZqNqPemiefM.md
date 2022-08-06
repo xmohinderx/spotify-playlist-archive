@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-423 songs - 1 day 10 hr 14 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+424 songs - 1 day 10 hr 17 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Interlude \- Aus Remix](https://open.spotify.com/track/1Y7OYD17uDkT3JzcXhDRY5) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [ReCollected](https://open.spotify.com/album/0MmPGvc6mRDaNlluvrpgi6) | 5:18 | 2022-03-31 | 2022-04-12 |
 | [Into the Forest](https://open.spotify.com/track/6Y3EdMqGUxIwRIYg0s5sEm) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Short Stories](https://open.spotify.com/album/4R2jkhCGF1SBOzjUQNAFJi) | 6:06 | 2022-04-07 | 2022-04-15 |
 | [Invitation](https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [Where the Sidewalk Ends](https://open.spotify.com/album/12kCNfVPb9lWg1jnTBwxvT) | 6:32 | 2022-03-30 | 2022-04-04 |
+| [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-04 |  |
 | [Join](https://open.spotify.com/track/7IHwTKTAkwKzbuuG86GtJX) | [Naoto Taguchi](https://open.spotify.com/artist/6rne8EbVlLCKdVOg0zwJUq) | [Nostalgia](https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B) | 4:31 | 2022-03-31 | 2022-07-21 |
 | [Juvenile](https://open.spotify.com/track/0WK1AZvK7qyR01ZwUuGTeH) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [Yofukashi](https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf) | 4:04 | 2022-03-31 | 2022-07-12 |
 | [koke](https://open.spotify.com/track/2dTFv9svbl63wUuuFcIE6e) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/5t2mle95HjGO6NVPqXn6wD) | 3:47 | 2022-03-31 | 2022-06-04 |
@@ -332,7 +333,7 @@
 | [Stream](https://open.spotify.com/track/7q7uVycv5v9PW3BczSfOga) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/2tGZZZlAyHAw90nTFQZ3By) | 3:19 | 2022-04-16 | 2022-07-20 |
 | [Stream](https://open.spotify.com/track/4GMGhKQKfx1H20pupiWUVS) | [Hiroki Okano](https://open.spotify.com/artist/5ZtBM3N7gMFDYynbIhlFfJ) | [19871990](https://open.spotify.com/album/0kLUxZ36sIIbDk5agwaUOv) | 6:55 | 2022-03-31 | 2022-07-27 |
 | [STX 2 02](https://open.spotify.com/track/3Zy29IvHyexAyClcQCe2eB) | [N.D.](https://open.spotify.com/artist/3ixkPU1dRVQwYApZw2EuPN) | [NUL 0 00](https://open.spotify.com/album/5bf1WPJctgEfWKxMQEJRuU) | 5:19 | 2022-03-31 | 2022-04-20 |
-| [su sa](https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [su sa](https://open.spotify.com/album/0L6sbX9nuFeqVBw1G4dp9j) | 3:32 | 2022-07-28 |  |
+| [su sa](https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [su sa](https://open.spotify.com/album/0L6sbX9nuFeqVBw1G4dp9j) | 3:32 | 2022-07-28 | 2022-08-06 |
 | [su sa](https://open.spotify.com/track/3cRxsyGVxKDzUrExwBDtPV) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [su sa](https://open.spotify.com/album/3I49TzPbULfqvofYvmW36c) | 3:32 | 2022-03-30 | 2022-07-29 |
 | [Substrate 5](https://open.spotify.com/track/6mQTFIKpfzE6U4h6I3wV1K) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Substrate / The Garden](https://open.spotify.com/album/6eOSAhnGmk8tR6FOdg1d6D) | 2:31 | 2022-03-31 | 2022-05-13 |
 | [Summer Shade](https://open.spotify.com/track/0M0edTo3o0n7DmXJ91NFTD) | [Yorihisa Taura](https://open.spotify.com/artist/4XctjsB734yDwJ6yIawj7u), [Tia Rungray](https://open.spotify.com/artist/4n9mlji1NR7h1bxzi5qhHP) | [Juvenile](https://open.spotify.com/album/00yWYLS0DgM5cCKoMXtqjT) | 7:33 | 2022-04-28 | 2022-07-07 |

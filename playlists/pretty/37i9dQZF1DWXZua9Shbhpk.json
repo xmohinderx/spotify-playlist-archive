@@ -1,12 +1,12 @@
 {
   "description": "The best mix of hip hop, pop, country, dance and classic anthems for the game day warm-up.",
-  "num_followers": 26834,
+  "num_followers": 26830,
   "original_name": "The Warm-Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTAyNTc1NiwwMDAwMDAwMDQ5NDdlY2RkYmQ4ZTlhNDQxZjA5YTY4NTk5NTIxZTMy",
+  "snapshot_id": "MTYzMTAyNTc1NiwwMDAwMDAwMGQ2ZjE4MTRhZTliNmY5YWI3ZWZjYTNhY2ZjNGY3ZDFk",
   "tracks": [
     {
       "added_at": "2021-09-07 14:42:36",
@@ -211,26 +211,6 @@
     {
       "added_at": "2021-09-07 14:42:36",
       "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
-    },
-    {
-      "added_at": "2021-09-07 14:42:36",
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "added_at": "2021-09-07 14:42:36",
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
     },
     {
       "added_at": "2021-09-07 14:42:36",

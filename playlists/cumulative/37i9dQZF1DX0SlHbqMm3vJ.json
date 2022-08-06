@@ -248,6 +248,24 @@
     },
     {
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183349,
+      "name": "Ashawo",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "album": {
         "name": "Ayra Starr",
         "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
       },
@@ -641,7 +659,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 201818,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14"
@@ -711,6 +729,24 @@
       "duration_ms": 181395,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z"
+    },
+    {
+      "album": {
+        "name": "Brenda",
+        "url": "https://open.spotify.com/album/4hOK3Nmq4EVvaSv62bgvM2"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Brenda",
+      "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
     },
     {
       "album": {
@@ -889,7 +925,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
@@ -1878,6 +1914,28 @@
     },
     {
       "album": {
+        "name": "Sounds of My World (Deluxe)",
+        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
+    },
+    {
+      "album": {
         "name": "I Won't",
         "url": "https://open.spotify.com/album/4pOMgLprmTbfz94bkv42bu"
       },
@@ -2209,7 +2267,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 196210,
       "name": "Juju pt. 2 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
@@ -3485,7 +3543,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 181978,
       "name": "Rosalia",
       "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
@@ -4275,7 +4333,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"

@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-108 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
+109 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Glasslike](https://open.spotify.com/track/5as5bE8AUagyTwRxmMceVF) | [Jaumey](https://open.spotify.com/artist/5rKn2xAv2XuWjf5EdlTc20) | [Glasslike](https://open.spotify.com/album/184KNeTWudGRr8psDgZg7B) | 2:19 | 2022-07-19 |  |
 | [Healing](https://open.spotify.com/track/3GNlFyD9YUqLJy2u7W8h2M) | [Dawn Sankrit](https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU) | [Healing](https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8) | 2:57 | 2022-07-05 |  |
 | [Heavenly](https://open.spotify.com/track/2gx4p6ukiBy7SO4qRUI5NG) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Heavenly](https://open.spotify.com/album/4O4iGadAmoFYIUmvSCwZWK) | 2:58 | 2022-07-19 | 2022-07-29 |
-| [Heavenly](https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Heavenly](https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB) | 2:58 | 2022-07-19 |  |
+| [Heavenly](https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Heavenly](https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB) | 2:58 | 2022-07-19 | 2022-08-06 |
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2022-07-05 |  |
 | [Hush](https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd) | [Jón Einarsson](https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7) | [Hush](https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt) | 2:21 | 2022-07-19 |  |
 | [Hush](https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C) | 2:41 | 2022-07-19 |  |
@@ -109,6 +109,7 @@
 | [The State of Mudita](https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP) | [The State Of Mudita](https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy) | [The State of Mudita](https://open.spotify.com/album/4o8usQMTLQY2MQJzF97XFJ) | 2:35 | 2022-07-19 | 2022-07-28 |
 | [The Sun Will Rise Again](https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [The Sun Will Rise Again](https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn) | 2:22 | 2022-07-05 |  |
 | [Tokyo Drifting](https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/2jdD7Hg1UGMmIwlW9rhQQw) | 3:23 | 2022-07-19 | 2022-07-28 |
+| [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 | 2022-08-05 |  |
 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 | 2022-07-19 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-07-19 |  |
 | [Waves of Harmony](https://open.spotify.com/track/3bFrewfGiJ3Zw9FKB6A63W) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Waves of Harmony](https://open.spotify.com/album/3VOhKn22ZqXnvBHYXukrAc) | 2:38 | 2022-07-05 | 2022-07-28 |

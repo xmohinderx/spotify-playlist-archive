@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Richie Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,093 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,116 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 51 | [teach me how to love](https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO) | [colombianacallmegringo](https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB) | [teach me how to love](https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj) | 2:37 |
 | 52 | [Não Se Apaga](https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Não Se Apaga](https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi) | 2:55 |
 | 53 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
-| 54 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 |
-| 55 | [Nu Ta Txiga La](https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Txiga La](https://open.spotify.com/album/7x85yvxeZjbBFT1UzYpZWU) | 2:54 |
+| 54 | [Nu Ta Txiga La](https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Txiga La](https://open.spotify.com/album/7x85yvxeZjbBFT1UzYpZWU) | 2:54 |
+| 55 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 |
 | 56 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 |
 | 57 | [Curvas](https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Jotta R](https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ) | [Curvas](https://open.spotify.com/album/2dZGlThlyesP83r0z5bVXu) | 4:20 |
 | 58 | [Só Tu](https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W) | [Mkmike](https://open.spotify.com/artist/4L5hkcKd0ZG5bHHHPV9NZe) | [Fragmentos](https://open.spotify.com/album/3NAaDjmd63oPTVBQBI7Psc) | 3:45 |
-| 59 | [Rewind](https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Rewind](https://open.spotify.com/album/6rw2SnFtTME10y7rwVfszh) | 2:39 |
-| 60 | [Lagrimas na Chuva](https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2), [Famoso](https://open.spotify.com/artist/7Gyjz5usu308wBX2hZjbrc) | [Lagrimas na Chuva](https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh) | 2:52 |
+| 59 | [469](https://open.spotify.com/track/5izsIQaHmew3R2dzySz0EG) | [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [469](https://open.spotify.com/album/0688sP9kWJoNixqn9h0IN3) | 2:55 |
+| 60 | [Rewind](https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Rewind](https://open.spotify.com/album/6rw2SnFtTME10y7rwVfszh) | 2:39 |
 
-Snapshot ID: `MTY1OTY1NDAwMCwwMDAwMDAwMDQ0OWVjYWMxYjI1NzdjOWI1YjMzOWVlYmQ3YjE4Mzg2`
+Snapshot ID: `MTY1OTY1NDAwMCwwMDAwMDAwMDkwY2M5MDZiZDUwNTQ0NGUyYjJiYzI3ZmU4YjY3ODg2`

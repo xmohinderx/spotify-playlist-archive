@@ -4,12 +4,13 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Richie Campbell
 
-77 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+78 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 | 2022-07-07 |  |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-07-07 |  |
+| [469](https://open.spotify.com/track/5izsIQaHmew3R2dzySz0EG) | [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [469](https://open.spotify.com/album/0688sP9kWJoNixqn9h0IN3) | 2:55 | 2022-08-04 |  |
 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 | 2022-07-07 |  |
 | [Ananás](https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Ananás](https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj) | 3:27 | 2022-07-07 | 2022-07-21 |
 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 | 2022-07-07 |  |
@@ -39,7 +40,7 @@
 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 | 2022-07-07 |  |
 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 | 2022-07-07 |  |
 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 | 2022-07-07 |  |
-| [Lagrimas na Chuva](https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2), [Famoso](https://open.spotify.com/artist/7Gyjz5usu308wBX2hZjbrc) | [Lagrimas na Chuva](https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh) | 2:52 | 2022-07-07 |  |
+| [Lagrimas na Chuva](https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2), [Famoso](https://open.spotify.com/artist/7Gyjz5usu308wBX2hZjbrc) | [Lagrimas na Chuva](https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh) | 2:52 | 2022-07-07 | 2022-08-06 |
 | [Layah](https://open.spotify.com/track/7mHRrnFWPKD0a6fYrfsSYl) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Layah](https://open.spotify.com/album/5Q6KIhKt5QIkM02pzZ6fUS) | 2:49 | 2022-07-07 | 2022-07-22 |
 | [Lembra\-te](https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Desde a Origem](https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn) | 3:16 | 2022-07-07 |  |
 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 | 2022-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 12885,
+  "num_followers": 12906,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDdiOTY1ZTY4YjNlZjA3MmVjOWZmZjkwZWE2YTM1MjUx",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGM1MDFmOGNmOTNmZDE0MWQwNjhhYjI5ZDhmMWMyNjgw",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -383,22 +383,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Bookends",
-        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
+        "name": "Anything But Time",
+        "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "B. Slade",
-          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+      "duration_ms": 218413,
+      "name": "Anything But Time",
+      "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -435,18 +431,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Anything But Time",
-        "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
+        "name": "The Bookends",
+        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
       "artists": [
         {
-          "name": "Matt Schofield",
-          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "B. Slade",
+          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
         }
       ],
-      "duration_ms": 218413,
-      "name": "Anything But Time",
-      "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
+      "duration_ms": 259906,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Reckless Blues",
         "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 315178,
       "name": "Here Comes the Flood",
       "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "added_at": "2020-10-21 17:37:12",

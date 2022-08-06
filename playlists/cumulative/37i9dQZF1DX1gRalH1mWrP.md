@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,010 songs - 2 day 4 hr 13 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
+1,011 songs - 2 day 4 hr 17 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Calling On Me](https://open.spotify.com/track/5I4VsjWxOqN1nWfUpFZFM3) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Calling On Me](https://open.spotify.com/album/5I3UCrlXD9vJn5n8awQspQ) | 3:38 | 2020-04-29 | 2020-05-06 |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-07-27 |  |
 | [Can't Give It Up \(feat\. Tyler Shaw\)](https://open.spotify.com/track/4SWV9mKtdhjbYotmm5ELCT) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [The Josh Ramsay Show](https://open.spotify.com/album/6ivR35Cqg4EKCn0LgX6UOq) | 3:28 | 2022-04-12 | 2022-06-08 |
-| [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-05-06 |  |
+| [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-05-06 | 2022-08-06 |
 | [Can't Take It From Me \(feat\. Skip Marley\)](https://open.spotify.com/track/1MBtNXoT6cXrrSstG07Lf7) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Can't Take It From Me \(feat\. Skip Marley\)](https://open.spotify.com/album/5IBoWR5UtMIFdJRymiH6dH) | 2:55 | 2019-05-26\* | 2019-06-15 |
 | [Canada \(feat\. Alessia Cara\)](https://open.spotify.com/track/6Rf3dWdNQs5LTqFOiavqQr) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:04 | 2020-04-29 | 2020-05-09 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-04-12 | 2022-04-21 |
@@ -644,6 +644,7 @@
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-04-12 | 2022-07-29 |
 | [Nova](https://open.spotify.com/track/0n1JxQTqtzezc6y6sDLzuT) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Nova](https://open.spotify.com/album/1fTBfblP2agHA345cRJmX6) | 3:25 | 2021-08-18 | 2022-02-24 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-10 |  |
+| [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 | 2022-08-05 |  |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2022-04-12 | 2022-06-18 |
 | [OH NO](https://open.spotify.com/track/4CFWD1hc6hJ1B6zlCyE8ZO) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [OH NO](https://open.spotify.com/album/0w8qwmJwCnAuA21BBGTr4S) | 2:30 | 2020-07-11 | 2020-07-22 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4BIuY0oEopXizyP3WvkNrT) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:35 | 2022-04-12 | 2022-04-18 |

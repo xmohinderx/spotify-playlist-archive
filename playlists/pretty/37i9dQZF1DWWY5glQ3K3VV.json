@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove",
-  "num_followers": 55912,
+  "num_followers": 56033,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDgzMzNmZDBiMmViYzRlM2MzOWJhYWJlODM1MjFlMmUy",
+  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDg3YTBhNjViODVhYmE1YTk1YjNhMzE5N2QyZmQ4MjM0",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Italiano",
-        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 135934,
-      "name": "Italiano Anthem",
-      "url": "https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Dorado (feat. Sfera Ebbasta & Feid)",
         "url": "https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 178044,
       "name": "Dorado (feat. Sfera Ebbasta & Feid)",
       "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Italiano",
+        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 135934,
+      "name": "Italiano Anthem",
+      "url": "https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG"
     },
     {
       "added_at": "2022-08-04 22:01:00",

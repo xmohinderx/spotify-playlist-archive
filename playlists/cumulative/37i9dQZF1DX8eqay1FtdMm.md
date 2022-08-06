@@ -4,7 +4,7 @@
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: Kim MinSeok\(김민석\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-316 songs - 20 hr 47 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
+317 songs - 20 hr 50 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-04 | 2022-07-20 |
 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 | 2022-04-27 | 2022-07-04 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-20 | 2022-07-29 |
-| [Can Love Be Fair](https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Can Love Be Fair](https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK) | 4:15 | 2021-12-20 |  |
+| [Can Love Be Fair](https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Can Love Be Fair](https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK) | 4:15 | 2021-12-20 | 2022-08-06 |
 | [Can′t Live Without You](https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [YOU](https://open.spotify.com/album/30WYyl2dDYF5KWeEpJ3GF6) | 4:04 | 2022-02-10 | 2022-07-25 |
 | [Close my eyes](https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Close my eyes](https://open.spotify.com/album/66A0tlUBVPsaVbiXIrwGqP) | 4:39 | 2022-05-03 | 2022-07-10 |
 | [Come & Talk](https://open.spotify.com/track/3uBqqwDtAq2ps9ctayHa3n) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Come & Talk](https://open.spotify.com/album/5mXhZgl7vv33urDUc7dujJ) | 3:31 | 2021-12-27 | 2022-07-25 |
@@ -189,6 +189,7 @@
 | [My Only One](https://open.spotify.com/track/6JX4Pt45ZBFwrWkHkb3ty0) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Tomorrow OST Part.5](https://open.spotify.com/album/56Yr8Mpxlo419j32FhcPKg) | 4:22 | 2022-05-11 | 2022-08-02 |
 | [My Regards](https://open.spotify.com/track/0L1mzb0pEAemX4QpAvDSa5) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [My Regards](https://open.spotify.com/album/4dQNU5BC5veIyH0nRFE51s) | 2:56 | 2021-12-27 | 2022-07-29 |
 | [My Story](https://open.spotify.com/track/1bTeHEQVctGDbu2WyT88fR) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [lost \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/40QKzIbSZPC2B7vgjnvSAQ) | 4:13 | 2022-03-29 | 2022-06-24 |
+| [Myo \(Cat\)](https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Myo \(Cat\)](https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT) | 3:37 | 2022-08-04 |  |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2021-12-20 |  |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-02-10 | 2022-04-21 |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2021-12-27 | 2022-07-17 |

@@ -4,7 +4,7 @@
 
 > Perfect sunshiney indie tracks for summer.
 
-211 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
+212 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2020-01-31 | 2022-07-29 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2022-06-10 |  |
 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 | 2022-07-25 |  |
-| [avalanche](https://open.spotify.com/track/1RlmAzI27AlIpvoRN3u6Iy) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [avalanche](https://open.spotify.com/album/0ISJeQO2OoleGkf5ZxNyuE) | 3:19 | 2022-06-10 |  |
+| [avalanche](https://open.spotify.com/track/1RlmAzI27AlIpvoRN3u6Iy) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [avalanche](https://open.spotify.com/album/0ISJeQO2OoleGkf5ZxNyuE) | 3:19 | 2022-06-10 | 2022-08-06 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2022-07-15 |  |
 | [Bad To Worse](https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Bad To Worse](https://open.spotify.com/album/6kKWqN15xZsA4TBNPW6Wb2) | 4:18 | 2020-01-31 | 2022-07-29 |
 | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt) | 2:33 | 2022-06-10 | 2022-07-06 |
@@ -119,6 +119,7 @@
 | [Menswear](https://open.spotify.com/track/3UH4JIDuP83866Y43bbo4k) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:26 | 2020-01-31 | 2022-06-30 |
 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 | 2022-06-10 | 2022-06-12 |
 | [Miss Mary](https://open.spotify.com/track/2L4UqoRBcceVeZvPJ4mjuj) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/3NHDgiphxKJ2Cql0ol2zm1) | 2:10 | 2022-06-10 | 2022-07-26 |
+| [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2022-08-05 |  |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2022-07-25 |  |
 | [Morning in the Sun](https://open.spotify.com/track/70CtfoTKRQKcMyByUeKAOK) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Morning in the Sun](https://open.spotify.com/album/3t4P5mXKKXBfLnGsajiyI1) | 4:05 | 2022-06-30 | 2022-07-29 |
 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 | 2022-06-10 |  |

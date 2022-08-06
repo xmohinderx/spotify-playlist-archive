@@ -850,6 +850,24 @@
     },
     {
       "album": {
+        "name": "Just a Bordertown",
+        "url": "https://open.spotify.com/album/3UsuIICuP8aR1QwqJhCsWt"
+      },
+      "artists": [
+        {
+          "name": "Valerie Ponzio",
+          "url": "https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208753,
+      "name": "Just a Bordertown",
+      "url": "https://open.spotify.com/track/1PiBlXOdXaoA9sZ3qSv3kD"
+    },
+    {
+      "album": {
         "name": "La Bamba",
         "url": "https://open.spotify.com/album/48s9qikZZvbEhVX1tdWc5R"
       },

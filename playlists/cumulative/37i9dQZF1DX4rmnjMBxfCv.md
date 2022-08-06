@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Khaled & DJ Snake.
 
-63 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+64 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ahla El Nas](https://open.spotify.com/track/0c2nyNf2jerD605LfOCqE6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:45 | 2022-03-30 |  |
 | [Akhedni Maak](https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Akhedni Maak](https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em) | 2:35 | 2022-03-30 | 2022-07-29 |
 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 | 2022-05-19 |  |
+| [Bala Ehsas \- Remix](https://open.spotify.com/track/7tfqN79YOCofQUGKvdK6gj) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df), [Karno Baghdassarian](https://open.spotify.com/artist/0oOTVy8P8M01l6Pyg4Oz5v) | [Bala Ehsas \(Remix\)](https://open.spotify.com/album/7E6xelo6R9ccoBJguBMwPf) | 3:49 | 2022-08-05 |  |
 | [Balash Ana \(feat\. Carmen Soliman\) \- Mark Shakedown Remix](https://open.spotify.com/track/5OqRDjqBxLUPMOYCqDbxM1) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt), [Mark Shakedown](https://open.spotify.com/artist/0owA2yBBDFjsmyBi4pgVgo) | [Balash Ana \(feat\. Carmen Soliman\) \[Mark Shakedown Remix\]](https://open.spotify.com/album/0XRO7fTxTScR6cf3HkICBv) | 3:07 | 2022-03-30 |  |
 | [Challenge](https://open.spotify.com/track/2sGnPdcKoE0y3LbVty41dj) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/07ajJhk49mdl63VL23JAqw) | 1:54 | 2022-07-18 |  |
 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 | 2022-08-01 |  |

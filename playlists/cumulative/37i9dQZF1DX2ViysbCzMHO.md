@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-181 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+182 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr) | 2:44 | 2022-03-11 | 2022-07-29 |
 | [Nothing's Better \(stripped\)](https://open.spotify.com/track/7LrZr7EXh5KRqE9s6Tl1Te) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Nothing's Better \(stripped\)](https://open.spotify.com/album/330eJ14qrFWqFF3gcKgs1r) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [One Of These Days \- sad piano version](https://open.spotify.com/track/6y9Zf5yNGmLPOQhjUuAAP9) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [One Of These Days \(sad piano version\)](https://open.spotify.com/album/4mi2BDMTw7pfqhGibxmmBJ) | 3:38 | 2022-04-29 |  |
-| [One Percent \(Acoustic\)](https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent \(Acoustic\)](https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9) | 3:24 | 2021-12-17 |  |
+| [One Percent \(Acoustic\)](https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent \(Acoustic\)](https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9) | 3:24 | 2021-12-17 | 2022-08-06 |
 | [Only Us \- Acoustic](https://open.spotify.com/track/51pGduBpukl8Oy2qUEOAqS) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Only Us \(Acoustic\)](https://open.spotify.com/album/7DhKXqfA3WJeyHIGjmwfgW) | 2:35 | 2021-12-17 | 2022-07-25 |
 | [Out of Control](https://open.spotify.com/track/2CDTMmZoWyH3MzuHJv1HV1) | [John Allan Miller](https://open.spotify.com/artist/3OA83BpwDodzEIX46SnrXt) | [Out of Control](https://open.spotify.com/album/5QjAxWodrYxRGdTc8vdzBa) | 4:01 | 2021-12-17 | 2022-07-10 |
 | [Peaked In High School](https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Peaked In High School](https://open.spotify.com/album/7KVwTd8XEzs4AapEn192w5) | 2:39 | 2021-12-17 |  |
@@ -181,6 +181,7 @@
 | [While You're Gone \- Acoustic](https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [While You're Gone \(Acoustic\)](https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k) | 3:39 | 2021-12-17 |  |
 | [Whiskey \(Acoustic\)](https://open.spotify.com/track/0jZFXHSeY300E9X3Wn3Kma) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Whiskey](https://open.spotify.com/album/44mK7NKStFXVAF5MgIpyaq) | 4:20 | 2021-12-17 | 2022-07-09 |
 | [Whiskey And Rain \- Acoustic](https://open.spotify.com/track/4hpWtPnZHX9xfb1fr8cVVw) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Whiskey And Rain \(Acoustic\)](https://open.spotify.com/album/7AA4SUS9xQx6f4mCxuWWoa) | 3:27 | 2022-01-07 |  |
+| [Whiskey On You \- Acoustic](https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You \(Acoustic\)](https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr) | 2:59 | 2022-08-05 |  |
 | [Wild as Her \(feat\. Carter Faith\) \- Acoustic One\-Take](https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild as Her \(feat\. Carter Faith\) \[Acoustic One\-Take\]](https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf) | 3:33 | 2022-07-15 |  |
 | [Wild As Her \- Stripped](https://open.spotify.com/track/3Lcsy5potXX21nHDO0OGMH) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her \(Stripped\)](https://open.spotify.com/album/6DQTNminNqc8S83J2jjm7J) | 3:01 | 2022-04-15 | 2022-07-28 |
 | [Wild Love](https://open.spotify.com/track/7DJRKddQ7GogZpzgFfkA0i) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Wild Love](https://open.spotify.com/album/6HdfW84BXTz10aSsMs8kZN) | 3:14 | 2021-12-17 | 2022-07-10 |

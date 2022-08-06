@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Tomberlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,525 likes - 125 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,581 likes - 125 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 45 | [Sweetspot](https://open.spotify.com/track/6gJIgCURxpAOG61j5Q9LVx) | [Mess Esque](https://open.spotify.com/artist/52o8MHT44vLaGDarbic1zq) | [Mess Esque](https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih) | 7:57 |
 | 46 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 | 47 | [As You Are](https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [As You Are](https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w) | 2:21 |
-| 48 | [Jenny](https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 3:40 |
-| 49 | [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 |
+| 48 | [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 |
+| 49 | [Jenny](https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 3:40 |
 | 50 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
 | 51 | [Every Once In A While](https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 4:37 |
 | 52 | [Polly](https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 3:38 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 70 | [Circles In The Firing Line \- Edit](https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams](https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr) | 3:27 |
 | 71 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
 | 72 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 |
-| 73 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 |
-| 74 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 |
+| 73 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 |
+| 74 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 |
 | 75 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 |
 | 76 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 |
 | 77 | [Wind On Tin](https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6) | 3:06 |
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 81 | [A Thread to Find](https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 3:48 |
 | 82 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 |
 | 83 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
-| 84 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/23W60m1igNcv0DUov523DO) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45) | 5:26 |
-| 85 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
+| 84 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
+| 85 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/23W60m1igNcv0DUov523DO) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45) | 5:26 |
 | 86 | [chamomile](https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [chamomile](https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO) | 3:53 |
 | 87 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
 | 88 | [Rare to Wake](https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 4:38 |
 | 89 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 |
 | 90 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 |
-| 91 | [Maggie](https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 4:54 |
-| 92 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 |
+| 91 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 |
+| 92 | [Maggie](https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 4:54 |
 | 93 | [Convention](https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:16 |
 | 94 | [Whole New Mess](https://open.spotify.com/track/7G2qiNMmclEQvBI5QiVKvs) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Whole New Mess](https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e) | 3:42 |
 | 95 | [The Right Thing Is Hard To Do](https://open.spotify.com/track/6mBg5msp0A14K7VfbTY272) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [A Color of the Sky](https://open.spotify.com/album/5XgsP1RlwCnPU8f3NuoY2K) | 3:46 |
@@ -122,9 +122,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 112 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 |
 | 113 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
 | 114 | [Ultraviolet](https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V) | [Ultraviolet](https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd) | 3:50 |
-| 115 | [Your Mind’s Walking Out](https://open.spotify.com/track/17niuSm2NSposx5cUKoTvh) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:33 |
-| 116 | [The Things We Build](https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ) | [Aerial East](https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi) | [Try Harder](https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg) | 3:26 |
-| 117 | [Till The Moon Don't Shine \- Cover](https://open.spotify.com/track/3KTGcgACVFQVXxdEc8Outr) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Till The Moon Don't Shine](https://open.spotify.com/album/0pD1d9bNZTOG2glLcdXlhH) | 2:29 |
+| 115 | [Till The Moon Don't Shine \- Cover](https://open.spotify.com/track/3KTGcgACVFQVXxdEc8Outr) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Till The Moon Don't Shine](https://open.spotify.com/album/0pD1d9bNZTOG2glLcdXlhH) | 2:29 |
+| 116 | [Your Mind’s Walking Out](https://open.spotify.com/track/17niuSm2NSposx5cUKoTvh) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:33 |
+| 117 | [The Things We Build](https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ) | [Aerial East](https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi) | [Try Harder](https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg) | 3:26 |
 | 118 | [Let's Move To The Country](https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 3:19 |
 | 119 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 |
 | 120 | [Hotline](https://open.spotify.com/track/478PwX4m7LBB6nOMFGl2U7) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Hotline](https://open.spotify.com/album/6Hfps8ijDGS0blJR1YqvZ5) | 2:50 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 |
 | 125 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
 
-Snapshot ID: `MTY1NDAzMDcyNCwwMDAwMDAwMGZlMDExNjJiNzQxOWMxZjFkMDRhY2U2Njg0NjAzMDBm`
+Snapshot ID: `MTY1NDAzMDcyNCwwMDAwMDAwMDVkZGY4M2Q1MDZkNGRjMmJiY2FjZDA5MjVlOTFlMjFi`

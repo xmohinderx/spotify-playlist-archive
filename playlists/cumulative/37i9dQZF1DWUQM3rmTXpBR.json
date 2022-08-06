@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Alternative Arabic songs. Cover: MoJaNaD.",
+  "description": "Alternative Arabic songs. Cover: Tamtam.",
   "name": "Arab Indie",
   "published_playlist_ids": [
     "5Kcna48CrV8fuYA6mNyZOZ"
@@ -612,6 +612,24 @@
     },
     {
       "album": {
+        "name": "INSAK",
+        "url": "https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218522,
+      "name": "INSAK",
+      "url": "https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8"
+    },
+    {
+      "album": {
         "name": "ISMAK",
         "url": "https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL"
       },
@@ -1053,6 +1071,24 @@
       "duration_ms": 225384,
       "name": "Nettat",
       "url": "https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe"
+    },
+    {
+      "album": {
+        "name": "Nos El Bahr",
+        "url": "https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp"
+      },
+      "artists": [
+        {
+          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
+          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238213,
+      "name": "Nos El Bahr",
+      "url": "https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF"
     },
     {
       "album": {

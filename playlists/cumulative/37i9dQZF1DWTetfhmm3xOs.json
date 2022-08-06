@@ -1154,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "On The Hills Of Hope",
+        "url": "https://open.spotify.com/album/32n1w2RSRAnLcSupG3QGdt"
+      },
+      "artists": [
+        {
+          "name": "Yakamora",
+          "url": "https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176094,
+      "name": "On The Hills Of Hope",
+      "url": "https://open.spotify.com/track/4b0GQzHChuLgqEoDZRkXiO"
+    },
+    {
+      "album": {
         "name": "Natural Life",
         "url": "https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA"
       },

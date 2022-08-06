@@ -4,13 +4,13 @@
 
 > For the pain, tears and heartbreak.
 
-70 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0jW8v03O6T6PWZPdnpYcDn)
+71 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/0jW8v03O6T6PWZPdnpYcDn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Nothin'](https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb) | 3:29 | 2022-02-11 |  |
 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 | 2022-02-11 |  |
-| [Aso](https://open.spotify.com/track/5n6tCeNsXe52pr1AEaM0LE) | [Kwabena Kwabena](https://open.spotify.com/artist/4rvlBk4SuYD4jThTXZwnCI) | [Aso](https://open.spotify.com/album/2b2dDXkKR8Y5Nf7FfEfTQQ) | 5:50 | 2022-02-11 |  |
+| [Aso](https://open.spotify.com/track/5n6tCeNsXe52pr1AEaM0LE) | [Kwabena Kwabena](https://open.spotify.com/artist/4rvlBk4SuYD4jThTXZwnCI) | [Aso](https://open.spotify.com/album/2b2dDXkKR8Y5Nf7FfEfTQQ) | 5:50 | 2022-02-11 | 2022-08-06 |
 | [Baby Gone](https://open.spotify.com/track/3DMPL9ZVNpXhxTsT8BsBoI) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Beautiful Imperfection](https://open.spotify.com/album/5OOcKzuUJRezoERazEmvhv) | 4:33 | 2022-02-11 | 2022-07-29 |
 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 | 2022-02-11 |  |
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-02-11 |  |
@@ -46,6 +46,7 @@
 | [Makoma](https://open.spotify.com/track/7eNjCnXceIhUpOSeVd3Yt5) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [R2Bees, Vol\. 2](https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf) | 4:12 | 2022-02-11 | 2022-07-08 |
 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 | 2022-07-22 |  |
 | [Miss U Die](https://open.spotify.com/track/4iGPZPPVnqgMBwKd3wsCYo) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Game Over](https://open.spotify.com/album/4uChaQnoWbwiXeQzbflMJK) | 4:44 | 2022-02-11 | 2022-07-24 |
+| [Miss You](https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Outcast Music](https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh) | [Miss You](https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL) | 3:21 | 2022-08-05 |  |
 | [Miss You Bad](https://open.spotify.com/track/3o8cpHgLK9x0G5eB1UusOQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 2:56 | 2022-02-11 | 2022-07-29 |
 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 | 2022-02-11 |  |
 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 | 2022-02-11 |  |

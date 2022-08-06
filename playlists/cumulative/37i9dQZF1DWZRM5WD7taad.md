@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-113 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+114 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Cuánto Tienes, Cuánto Vales](https://open.spotify.com/track/6jJFu4CTv2pA9esFRVJXce) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH) | [Rabiografía](https://open.spotify.com/album/2DtGzCXMVIPkKdzbB4h0Gx) | 3:33 | 2021-12-13 |  |
 | [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 |  |
 | [Desert Niñas](https://open.spotify.com/track/4Fyd2PkpGorYbgcMmgAONh) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7), [Aidy Dee](https://open.spotify.com/artist/4tMJnV74U5Wa51DZk91Nvz) | [Desert Niñas](https://open.spotify.com/album/3FabWVh5C4jaEtJAZa7gjR) | 2:41 | 2022-06-17 |  |
-| [Desértico](https://open.spotify.com/track/6eTtks8qtmshX0HGjWk28v) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/0mloTUqmpH2WzwpdkXN7rS) | 3:41 | 2022-06-27 |  |
+| [Desértico](https://open.spotify.com/track/6eTtks8qtmshX0HGjWk28v) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/0mloTUqmpH2WzwpdkXN7rS) | 3:41 | 2022-06-27 | 2022-08-06 |
 | [Desértico](https://open.spotify.com/track/6p8qaRzcAGpkaeJ0S2dawv) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/6MECZ5zdS2PN0qEjS7uR6a) | 3:41 | 2021-12-13 | 2022-07-29 |
+| [Desértico](https://open.spotify.com/track/36tR2PtULkfUDaYZufUE1W) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/3R8phbfheU9iJ1LYQJymZT) | 3:41 | 2022-08-03 |  |
 | [Don't Stop](https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Don't Stop](https://open.spotify.com/album/1zuzyKT3Z063oxlvNcQgLq) | 3:33 | 2021-12-13 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/5qJ2xUNWrQiNETr0gS20IU) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y) | [Florecer](https://open.spotify.com/album/4No47iGe2xTVqiLQgRG5GJ) | 4:03 | 2022-04-18 |  |
 | [En el Aire](https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea) | 3:01 | 2021-12-13 | 2022-08-05 |

@@ -2,9 +2,9 @@
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: MoJaNaD.
+> Alternative Arabic songs\. Cover: Tamtam.
 
-86 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+88 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Hazina](https://open.spotify.com/track/3JLhpzsdRKu2XX40hWkAo0) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Hazina](https://open.spotify.com/album/1YouEiz9p93Tp51juzplSP) | 3:57 | 2021-12-23 | 2022-03-15 |
 | [Helwa Ya Baladi](https://open.spotify.com/track/16XFirWEReR8H21pJfIL49) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Helwa Ya Baladi](https://open.spotify.com/album/25t09XMGJxntx0Yk8H1bev) | 4:10 | 2021-12-23 |  |
 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 | 2021-12-23 | 2022-01-21 |
+| [INSAK](https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [INSAK](https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto) | 3:38 | 2022-08-05 |  |
 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 | 2022-07-23 |  |
 | [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 | 2021-12-23 | 2022-07-29 |
 | [Kefaya](https://open.spotify.com/track/4de9VEoQzSNVUNJ365htJR) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Kefaya](https://open.spotify.com/album/1zSToNW52s7GW0rj7bDfoK) | 3:26 | 2021-12-23 | 2022-01-22 |
@@ -64,6 +65,7 @@
 | [Mraite](https://open.spotify.com/track/7mEO8E9koxx19CywaN0pwi) | [Xoureldin](https://open.spotify.com/artist/6dGfzQZmB2W9ImyY2wIMUi) | [Mraite](https://open.spotify.com/album/4pPi3KRT8uRBS1svqdbUqN) | 3:00 | 2021-12-23 |  |
 | [Nehayat El Hakawy](https://open.spotify.com/track/5y2CUolrd9Qjrb7lyEuQ3b) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [El Album](https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd) | 2:40 | 2021-12-23 | 2022-04-08 |
 | [Nettat](https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe) | [Jubantouja](https://open.spotify.com/artist/7m05rEUUQiViUHo1IPHz8x) | [Nettat](https://open.spotify.com/album/5mb0OTZwNStZXnIdWu7l7B) | 3:45 | 2021-12-23 |  |
+| [Nos El Bahr](https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Nos El Bahr](https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp) | 3:58 | 2022-08-05 |  |
 | [Ouzoreny](https://open.spotify.com/track/7MklY2GT9V5Lnd8ieXfFQ4) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ouzoreny](https://open.spotify.com/album/3J14UoBBPGZluNbNbnsBCu) | 4:31 | 2021-12-23 |  |
 | [Qendil](https://open.spotify.com/track/41xnwQ7jV43F3r0hGz32W8) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [Qendil](https://open.spotify.com/album/07FghzexOj5xqhoEQ6nzuz) | 2:58 | 2021-12-23 | 2022-02-18 |
 | [Rien \- Walo](https://open.spotify.com/track/1VzK9N1vmvEStE4nfOGrWs) | [Mehdi Bahmad](https://open.spotify.com/artist/2JSanFrSbCNhXIolgRbW9T) | [Rien \(Walo\)](https://open.spotify.com/album/4Sm2NpOuvRhSzSrwO4U3sz) | 3:07 | 2021-12-23 |  |

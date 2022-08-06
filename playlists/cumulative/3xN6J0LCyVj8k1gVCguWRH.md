@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,579 songs - 3 day 20 hr 14 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,580 songs - 3 day 20 hr 17 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Deseo](https://open.spotify.com/track/54yKrhdisdyWco1CbKe8cp) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Deseo](https://open.spotify.com/album/30k9pkQ53NcF43bln2PV32) | 3:04 | 2021-10-23 | 2021-11-07 |
 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 | 2021-07-11 |  |
 | [DFWM](https://open.spotify.com/track/4KGyGiy8erAcgptecsQRZA) | [MimiO](https://open.spotify.com/artist/1OaNUUvZPARlzXBRdnZAoT) | [DFWM](https://open.spotify.com/album/70Kt9AJfCXlYpDTUXGP0SS) | 3:15 | 2021-09-04 | 2021-09-20 |
+| [Dickmatized](https://open.spotify.com/track/07ueUAFO3Lx986NgCES12i) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Dickmatized](https://open.spotify.com/album/6unvaNLlF9nTykepdlU6rJ) | 2:47 | 2022-08-05 |  |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2021-07-11 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-07-06 |  |
 | [Dimensionality](https://open.spotify.com/track/0gtKPzI9PTsV4Ss6ln02BA) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Dimensionality](https://open.spotify.com/album/4jjgmtKnFq8r75REWbSoDr) | 4:00 | 2021-02-03 | 2021-02-10 |

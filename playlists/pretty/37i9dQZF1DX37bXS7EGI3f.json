@@ -1,13 +1,29 @@
 {
   "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose",
-  "num_followers": 701934,
+  "num_followers": 702020,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDNlNTQ5ZWY4NWZlYzVmZDJhNDg4YzMwYTMxYTQ1NTg2",
+  "snapshot_id": "MTY1OTcwNDQwMCwwMDAwMDAwMDNlZjc2YzgxNGJkMGZiMmQwMjgyNDQ0YmYyYzAyN2Uy",
   "tracks": [
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+    },
     {
       "added_at": "2022-07-29 13:00:00",
       "album": {

@@ -1908,6 +1908,24 @@
     },
     {
       "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168722,
+      "name": "Hey Ari",
+      "url": "https://open.spotify.com/track/3XA0msNCCQysLnspbnbgw3"
+    },
+    {
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/3VGf64WCcsgeQwLJPxl3om"
       },
@@ -4959,7 +4977,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 198439,
       "name": "unbreak",
       "url": "https://open.spotify.com/track/64QMCHiZCgKIq29dHhMScU"

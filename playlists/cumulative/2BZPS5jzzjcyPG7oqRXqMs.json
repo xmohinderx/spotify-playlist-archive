@@ -1966,6 +1966,28 @@
     },
     {
       "album": {
+        "name": "Show Up Choose Love",
+        "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Show Up Choose Love (feat. Jon Reddick)",
+      "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
+    },
+    {
+      "album": {
         "name": "Simple Kingdom (with Cody Carnes) [Live]",
         "url": "https://open.spotify.com/album/6cdFeMCCrgo9eU2jqLOvJk"
       },
@@ -2687,6 +2709,24 @@
       "duration_ms": 180977,
       "name": "You",
       "url": "https://open.spotify.com/track/5Hi0fGAj0HPQtjkMwnlQ1u"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172327,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
     }
   ],
   "url": "https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs"

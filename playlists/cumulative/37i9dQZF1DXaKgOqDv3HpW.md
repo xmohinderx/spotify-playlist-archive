@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-178 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+179 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Serene](https://open.spotify.com/track/5B1bNtPY2jCZq87yuH4dDk) | [Claude Sabatier](https://open.spotify.com/artist/5oRDhVSff6UD1uX7cZa7mf) | [Serene](https://open.spotify.com/album/71mpsVqU6IxAXkxyuKdCnE) | 1:48 | 2022-02-18 |  |
 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2022-02-18 |  |
 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 | 2022-02-18 |  |
+| [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 | 2022-08-05 |  |
 | [Slow Crossings](https://open.spotify.com/track/0XTfWo6Sk5AUm3hww2ELuE) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Slow Crossings](https://open.spotify.com/album/2kKJSa2iciar5oL0gBdSQN) | 3:43 | 2022-02-18 |  |
 | [Small But Nice](https://open.spotify.com/track/4JW3xordKSyyseY0508GrZ) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:18 | 2022-02-18 |  |
 | [Small Letters](https://open.spotify.com/track/3wygfnm7RIzxc8gsoGINeI) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Small Letters](https://open.spotify.com/album/4hqwsqS2jXkEteYEOH1Oef) | 3:41 | 2022-02-18 |  |

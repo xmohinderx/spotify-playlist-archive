@@ -1,13 +1,37 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7769,
+  "num_followers": 7770,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MTg0NSw3MGMwYWQyYzVkYmZjM2Q4ODM2ZDk2Y2EzZDZkNDAyYTViM2JlNWYx",
+  "snapshot_id": "MTg1OSxmMmVlYmE3NzA5MzQwZGQxNTQ3Y2QxMjZlMDE5NmNkODY1NDdhMWYw",
   "tracks": [
+    {
+      "added_at": "2022-08-05 04:47:07",
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
     {
       "added_at": "2022-04-29 13:45:14",
       "album": {
@@ -145,6 +169,26 @@
       "url": "https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s"
     },
     {
+      "added_at": "2022-08-05 04:47:48",
+      "album": {
+        "name": "AMUSED",
+        "url": "https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga"
+      },
+      "artists": [
+        {
+          "name": "Jnr Choi",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "AMUSED",
+      "url": "https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM"
+    },
+    {
       "added_at": "2022-06-17 12:28:44",
       "album": {
         "name": "DON'T YOU WORRY",
@@ -273,6 +317,22 @@
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
+      "added_at": "2022-08-05 04:46:49",
+      "album": {
+        "name": "Guitars and Drugs",
+        "url": "https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 192134,
+      "name": "Guitars and Drugs",
+      "url": "https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD"
+    },
+    {
       "added_at": "2022-03-25 14:27:51",
       "album": {
         "name": "TO THE MOON (Gunna Remix)",
@@ -295,22 +355,6 @@
       "duration_ms": 166797,
       "name": "TO THE MOON - Gunna Remix",
       "url": "https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx"
-    },
-    {
-      "added_at": "2022-01-14 14:56:10",
-      "album": {
-        "name": "A LOT",
-        "url": "https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 181945,
-      "name": "A LOT",
-      "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
     },
     {
       "added_at": "2022-06-10 13:35:06",
@@ -469,6 +513,22 @@
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
     },
     {
+      "added_at": "2022-08-05 04:47:30",
+      "album": {
+        "name": "50 M's",
+        "url": "https://open.spotify.com/album/1UHlBdLDa9YeGaAa3rBriO"
+      },
+      "artists": [
+        {
+          "name": "Lil 1 DTE",
+          "url": "https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "50 M's",
+      "url": "https://open.spotify.com/track/6ccXIf6EOJsfp2CnHsl72s"
+    },
+    {
       "added_at": "2022-03-04 15:16:58",
       "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
@@ -489,22 +549,6 @@
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
-      "added_at": "2022-07-15 14:35:34",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/7uVVW3UQWcHg3o5X2vqd5R"
-      },
-      "artists": [
-        {
-          "name": "Lil 1 DTE",
-          "url": "https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn"
-        }
-      ],
-      "duration_ms": 131960,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/7ai0VlJiTZXqIKRlgrx7zi"
-    },
-    {
       "added_at": "2022-02-18 15:11:47",
       "album": {
         "name": "Elon Musk (feat. Gunna)",
@@ -523,26 +567,6 @@
       "duration_ms": 205758,
       "name": "Elon Musk (feat. Gunna)",
       "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
-    },
-    {
-      "added_at": "2022-01-28 15:46:58",
-      "album": {
-        "name": "Richer Than I Ever Been (Deluxe)",
-        "url": "https://open.spotify.com/album/1gYOL0RfVpMgd2J0v69UoR"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 236799,
-      "name": "Not For Nothing (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/67Bk34LZG8tWOz7yoaX4n4"
     },
     {
       "added_at": "2021-07-30 11:03:30",
@@ -967,30 +991,6 @@
       "duration_ms": 122351,
       "name": "LAX",
       "url": "https://open.spotify.com/track/2i3zwimv2wquCiKHTC0l3T"
-    },
-    {
-      "added_at": "2021-09-27 14:45:09",
-      "album": {
-        "name": "Overdue (feat. DJ Lag & Kooldrink)",
-        "url": "https://open.spotify.com/album/6Uq5Pk9aQB5hM4hiFOvdOq"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "DJ Lag",
-          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
-        },
-        {
-          "name": "Kooldrink",
-          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
-        }
-      ],
-      "duration_ms": 226818,
-      "name": "Overdue (feat. DJ Lag & Kooldrink)",
-      "url": "https://open.spotify.com/track/1Nx3wKSjqj51Vslhc7CAhy"
     },
     {
       "added_at": "2022-05-06 14:15:24",

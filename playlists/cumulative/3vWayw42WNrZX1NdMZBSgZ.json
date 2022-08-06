@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 153403,
       "name": "ARENA Y MAR",
       "url": "https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO"
@@ -1853,6 +1853,28 @@
       "duration_ms": 197272,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4"
+    },
+    {
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/5AcJamqKm6zHdBdwvztI0Z"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167254,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA"
     },
     {
       "album": {
@@ -4727,6 +4749,24 @@
       "duration_ms": 310409,
       "name": "Todo De Ti - Summer Remix",
       "url": "https://open.spotify.com/track/642TVG63fTV3bhuMJQfcSM"
+    },
+    {
+      "album": {
+        "name": "Todo My Love",
+        "url": "https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200502,
+      "name": "Todo My Love",
+      "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"
     },
     {
       "album": {

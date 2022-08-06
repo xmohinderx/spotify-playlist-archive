@@ -4,7 +4,7 @@
 
 > ¡Oi nomás ese cumbión!
 
-145 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/6uJrqwmktk9yM8sMWMY10Z)
+146 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/6uJrqwmktk9yM8sMWMY10Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 | 2022-03-04 |  |
 | [El Reo Ausente](https://open.spotify.com/track/6feUE7Z9pGHfCHbh6EOA0j) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Desafiando Estilos](https://open.spotify.com/album/2REmS5o5mh0QWNuZa6WGhs) | 5:49 | 2022-03-04 | 2022-07-29 |
 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 | 2022-03-04 |  |
-| [El Santo Del Amor](https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh), [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Con Nuestros Amigos](https://open.spotify.com/album/2E1bI25YNoU7UaD2PDyGOK) | 3:12 | 2022-03-04 |  |
+| [El Santo Del Amor](https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh), [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Con Nuestros Amigos](https://open.spotify.com/album/2E1bI25YNoU7UaD2PDyGOK) | 3:12 | 2022-03-04 | 2022-08-06 |
 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 | 2022-03-04 | 2022-07-29 |
 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 | 2022-03-04 |  |
 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 | 2022-03-04 |  |
@@ -92,6 +92,7 @@
 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 | 2022-03-04 |  |
 | [Llorando Estoy Llorando](https://open.spotify.com/track/2RKZeewX6sS5MKklB9m9VV) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Maria Fernanda](https://open.spotify.com/artist/3ulDOybXbRiW717f6gMKpy) | [Llorando Estoy Llorando](https://open.spotify.com/album/5j4KgvUsrja7wCzPpQQbgF) | 3:35 | 2022-03-04 | 2022-08-03 |
 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 | 2022-03-04 |  |
+| [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 | 2022-08-02 |  |
 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 | 2022-08-02 |  |
 | [Maldito Corazón](https://open.spotify.com/track/2JDa3ZtlIUIiJStLXPi6A6) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Maldito Corazón](https://open.spotify.com/album/3AqH6KSCy2p18916u5wwFa) | 4:12 | 2022-03-04 | 2022-08-03 |
 | [Mama Cumbia](https://open.spotify.com/track/108YjsKsz4buKAkCUYc0XQ) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz) | 3:21 | 2022-03-04 | 2022-07-29 |

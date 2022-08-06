@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "anything 4 u",
+        "url": "https://open.spotify.com/album/64K42F7vbZEIxKUZjz0bq5"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "anything 4 u",
+      "url": "https://open.spotify.com/track/20p998Iw1tqEeHHvnxZ1wx"
+    },
+    {
+      "album": {
         "name": "Baby Don't Let Me Go",
         "url": "https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY"
       },
@@ -1973,6 +1991,24 @@
       "duration_ms": 172631,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/7rypINT2fPXEJTAW211dTp"
+    },
+    {
+      "album": {
+        "name": "You Should Know",
+        "url": "https://open.spotify.com/album/47k8LFRZGbI3TKNSzuHAjq"
+      },
+      "artists": [
+        {
+          "name": "Mezzaluna",
+          "url": "https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "You Should Know",
+      "url": "https://open.spotify.com/track/5my3W0CKAb8kb6Z2Z7NjGx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb"

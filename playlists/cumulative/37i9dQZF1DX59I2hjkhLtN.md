@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK
 
-100 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+105 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Agradeço](https://open.spotify.com/track/1eWINvz1NEVXyskFINj5nT) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau), [Uest](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5) | [Agradeço](https://open.spotify.com/album/5vbXuxtOKdySOWQ3kYWy7g) | 2:58 | 2022-07-07 | 2022-08-05 |
 | [Amg](https://open.spotify.com/track/6iQTV3skdpN6cWxtE7m27j) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Amg](https://open.spotify.com/album/4cS4lBMnyhNcvntpKhgDFy) | 3:05 | 2022-07-07 |  |
 | [Apertá](https://open.spotify.com/track/7aReKeLwVz4IdlxMQCP4e0) | [Euros Bambata](https://open.spotify.com/artist/4iiunTqdaIrA4OM99Sww5e) | [Apertá](https://open.spotify.com/album/4glIkgOX9hAH1purxDbpzM) | 3:20 | 2022-07-07 | 2022-08-02 |
+| [Astro](https://open.spotify.com/track/30ncENmPezd3ndSCysWZMz) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Astro](https://open.spotify.com/album/5h0uC21MbmW2vLr1Vnv9cK) | 3:32 | 2022-08-04 |  |
 | [BAG](https://open.spotify.com/track/1RVx5RzVcALnTgLY8RbUnt) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC), [Qayin](https://open.spotify.com/artist/6A4P6OwLlEDzPMUKQguXRf) | [BAG](https://open.spotify.com/album/2PjQaJZ265qNLcFjYUWjJI) | 2:42 | 2022-08-04 |  |
 | [Cavalo de Troia 1](https://open.spotify.com/track/7kfBxswReFhZccGPcdgZcq) | [Business Boy](https://open.spotify.com/artist/2Vmgn1iGMVQ9TsxPoPGwqN) | [ICEBERG](https://open.spotify.com/album/1kepuHRbHpCmGxSbswUGtQ) | 3:40 | 2022-07-07 |  |
 | [Chega\[te\]](https://open.spotify.com/track/0Izlsu3vlDQK6gWw9u0oKK) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Chega\[te\]](https://open.spotify.com/album/25WKOVqN4Z8fwT7HffjA5y) | 3:47 | 2022-07-07 | 2022-08-05 |
@@ -47,6 +48,7 @@
 | [Insanus](https://open.spotify.com/track/3xOhQoNyy1BYdCk6A9SO9W) | [Escriba](https://open.spotify.com/artist/5cuFpe5IkDDWeYMXBmamTP) | [Insanus](https://open.spotify.com/album/0AshDpfAYKEMRADbVPZM79) | 2:08 | 2022-07-21 |  |
 | [Jack](https://open.spotify.com/track/0Vyfo6uM5EKJcQNYQrlK1R) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC), [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Jack](https://open.spotify.com/album/5w4ZGCk3JfFAE6OdejHSPY) | 2:15 | 2022-07-07 |  |
 | [Jovem E Rico](https://open.spotify.com/track/4lhXJj93jtHdsGXM1NMlsg) | [PNG](https://open.spotify.com/artist/4NxktUavjn7CoMmpDZOZwq) | [Jovem E Rico](https://open.spotify.com/album/3eFagVVj302kiDTQd6Y60f) | 2:43 | 2022-07-07 | 2022-08-05 |
+| [Juro](https://open.spotify.com/track/7IZTC3jmalSs6n3hQM1FDo) | [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR) | [Juro](https://open.spotify.com/album/3d13DtxCQ3N2OFcVMaVd2J) | 2:54 | 2022-08-04 |  |
 | [Juventus](https://open.spotify.com/track/1IPYFY0PNMUeSLNXM2vcnZ) | [Kaps](https://open.spotify.com/artist/3LHoFLdOjSILRX0fMvfrjT) | [Juventus](https://open.spotify.com/album/5GN0awoQzVrwJBL0L6yxIz) | 2:31 | 2022-07-07 |  |
 | [Lacrimosa Freestyle](https://open.spotify.com/track/3blIYjyL86qWr160Gl4tY1) | [Keny](https://open.spotify.com/artist/3ZTDEr6f10ouCboZg4Nfam) | [Lacrimosa Freestyle](https://open.spotify.com/album/5U4l27CTAxT5oUsjfTUdfx) | 2:18 | 2022-07-07 | 2022-07-22 |
 | [Lei de Atração](https://open.spotify.com/track/61bULnso8xS3uuA4sRMbSA) | [Cooliebadboi](https://open.spotify.com/artist/6yd1ttvgjna8jNWIVIPDBH) | [Lei de Atração](https://open.spotify.com/album/0MaZCPsES1Jd0lmAdReH8m) | 2:43 | 2022-07-07 |  |
@@ -69,6 +71,7 @@
 | [Novo Amor](https://open.spotify.com/track/6NlakJnwjiQ1jHpGlJGWsI) | [Eudreezy](https://open.spotify.com/artist/4SSvV9YET4ifk8VPTHHH24) | [Novo Amor](https://open.spotify.com/album/5ttr4tROKnkujLTmzz9bXb) | 2:15 | 2022-08-01 |  |
 | [Não Desistas](https://open.spotify.com/track/0g2mHkXpRXMbmwZcNVu0Gm) | [Sidarta96](https://open.spotify.com/artist/65oPyHbYRBqIrKUl91isU1) | [Não Desistas](https://open.spotify.com/album/15W8AKHBsJIdZsMNeBJ1JL) | 2:41 | 2022-07-07 |  |
 | [Não Pago IMI](https://open.spotify.com/track/58gntL8uVVVTnVu5fGa2lg) | [Adler Jack](https://open.spotify.com/artist/6PCPtbItanKTNsW5UgyG7P), [Vert Gum](https://open.spotify.com/artist/5M29fQ9iqY2RDug9swL1Uw) | [Ka\-Chow!](https://open.spotify.com/album/4k7a1AcrSNVjk7IX5vTwlB) | 2:41 | 2022-08-04 |  |
+| [Nós 2](https://open.spotify.com/track/2jXNTjDraMfBJIMBu7WCFu) | [Ice Burz](https://open.spotify.com/artist/6SsObOdnJiemnnXen3whsm), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB) | [Nós 2](https://open.spotify.com/album/0dDaOiYFh54wUPIZXeyMy0) | 1:46 | 2022-08-04 |  |
 | [Obra de Arte](https://open.spotify.com/track/3605p9xetxzSMpOlqBby3n) | [Amaro](https://open.spotify.com/artist/2PFhhQZgtdqOT8mXiAHJ0A) | [Obra de Arte](https://open.spotify.com/album/24zyIeHOx45uy9PkHRvnXn) | 2:40 | 2022-08-01 |  |
 | [Ocupado](https://open.spotify.com/track/00RyPgUy7ecmYxNh6IafFR) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Ocupado](https://open.spotify.com/album/1juuo3OnOnwcrdZRcrSqIK) | 2:38 | 2022-07-07 |  |
 | [Oh meu Deus](https://open.spotify.com/track/4SUbb4CTJi8QZUORKV9UVW) | [Kilate](https://open.spotify.com/artist/3tN78fjmBvWYfpWUEirKsc) | [Oh meu Deus](https://open.spotify.com/album/4w6sQ6AGC3hjdPho8jNhQ8) | 2:35 | 2022-07-07 |  |
@@ -83,6 +86,8 @@
 | [Pull Up](https://open.spotify.com/track/5Tl4w6rF8jjqGlSQ0uIuEa) | [Van zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Pull Up](https://open.spotify.com/album/1sNXyev22uuqRL1L5BNZOM) | 2:34 | 2022-08-01 |  |
 | [Pull Up na C](https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj) | [Pull Up na C](https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv) | 2:58 | 2022-07-07 |  |
 | [Quem Diria](https://open.spotify.com/track/1fMTCZHVN3COMa5N9BcLw1) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN), [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Quem Diria](https://open.spotify.com/album/1AtnRKMSIVOeOXxg4kvVMV) | 4:29 | 2022-07-07 |  |
+| [Ronaldo](https://open.spotify.com/track/3CmccPzPZRHwXWKGoXUVde) | [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT) | [Ronaldo](https://open.spotify.com/album/5qPXzQhaqdBaWALdmAMt7T) | 2:20 | 2022-08-04 |  |
+| [Sabes o Que é a Life? Pt\. 2](https://open.spotify.com/track/5p5hRYa6Lkerb0jTIgYZMe) | [Edi Ventura](https://open.spotify.com/artist/4Q8Yv1CiUWvjhLfNq7c72F) | [Sabes o Que é a Life? Pt\. 2](https://open.spotify.com/album/4QDBnHZTK19AixLoc7yqZm) | 4:32 | 2022-08-04 |  |
 | [Sai Feiticeiro](https://open.spotify.com/track/1TnxG0q4CYSg2PyvuIOdjZ) | [Ama G](https://open.spotify.com/artist/5j3HpkNw30Hnq4J8O2GJVa) | [Sai Feiticeiro](https://open.spotify.com/album/6QPfDXLDXwuBLuGpZ3el1G) | 4:11 | 2022-07-07 |  |
 | [Sangue](https://open.spotify.com/track/6MEOW2h9FfRhkrnZCYv1sU) | [ENOCK](https://open.spotify.com/artist/0ZQbhzbdCo4Mm77BxPVBIY), [LO KYO](https://open.spotify.com/artist/0x7ZY4ZNkD8Af2UixK4tUi) | [Sangue](https://open.spotify.com/album/1pDuOefGj0PWu3M1PcPjUJ) | 3:13 | 2022-07-07 |  |
 | [Satisfeito](https://open.spotify.com/track/24qakudGyiOuOhTDTaTQ20) | [Pardo](https://open.spotify.com/artist/7I2mGF3XBNuIa5hs1NeeGm) | [Enquadrado](https://open.spotify.com/album/1FKvPr2K5KPnVSNZ3ulUZU) | 3:15 | 2022-07-21 | 2022-08-02 |

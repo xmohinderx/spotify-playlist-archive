@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 36386,
+  "num_followers": 36426,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMDdkZjdkNzBhY2YyOTE1YWEyMWYwNDFkZjk5MjEzYzU2",
+  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMGYxOTRmYzBlYTNjMjk2OTFiNjllNGMwODAyZDM0ZDBh",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -103,6 +103,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "J.",
-      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Triste Recuerdo",
-        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 208902,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+      "duration_ms": 224506,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
       },
       "artists": [
         {
@@ -1400,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 224506,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+      "duration_ms": 208902,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
+        "name": "Amor Tumbado",
+        "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
       "artists": [
         {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+          "name": "Francis Nola",
+          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
         }
       ],
-      "duration_ms": 232727,
-      "name": "Yo Ya No Vuelvo Contigo",
-      "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
+      "duration_ms": 148750,
+      "name": "Amor Tumbado",
+      "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1591,34 +1591,34 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Amor Tumbado",
-        "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
+        "name": "Yo Ya No Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
       },
       "artists": [
         {
-          "name": "Francis Nola",
-          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
         }
       ],
-      "duration_ms": 148750,
-      "name": "Amor Tumbado",
-      "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+      "duration_ms": 232727,
+      "name": "Yo Ya No Vuelvo Contigo",
+      "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
     },
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
+        "name": "Mi Piel No Te Olvida",
+        "url": "https://open.spotify.com/album/63kE8DHQwfB7v26ikpFHfl"
       },
       "artists": [
         {
-          "name": "Mau Soles",
-          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 216064,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
+      "duration_ms": 219178,
+      "name": "Mi Piel No Te Olvida",
+      "url": "https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mi Piel No Te Olvida",
-        "url": "https://open.spotify.com/album/63kE8DHQwfB7v26ikpFHfl"
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Mau Soles",
+          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
         }
       ],
-      "duration_ms": 219178,
-      "name": "Mi Piel No Te Olvida",
-      "url": "https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo"
+      "duration_ms": 216064,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
     },
     {
       "added_at": "2022-08-03 16:09:42",

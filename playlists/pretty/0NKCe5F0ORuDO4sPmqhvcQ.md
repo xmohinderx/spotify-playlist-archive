@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,299 likes - 100 songs - 5 hr 38 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,297 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 98 | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/track/65X5k4AUa5sWiTld3zUXns) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/album/0B3RsQ68U3zlZlGmO1kIsi) | 2:25 |
 | 99 | [Falcon](https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD) | [Cherry Flavored Antacids](https://open.spotify.com/artist/45WhFmbNarLeiAJr9YElJ7) | [Falcon](https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth) | 5:41 |
 | 100 | [Into The Night](https://open.spotify.com/track/36NDrXStsbcDfQWVKlAj0p) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Eilish Gilligan](https://open.spotify.com/artist/65LDkZn0JiySoZODomsvVQ) | [Into The Night](https://open.spotify.com/album/37NLypcnxqNBPzPuoJYcVS) | 2:30 |
+| 101 | [Till The End](https://open.spotify.com/track/4Psbem3tgJxKbUj4NRh5EP) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Till The End](https://open.spotify.com/album/4JUSYSkveU192hf1FXHCSk) | 3:42 |
 
-Snapshot ID: `OTg5NixjNTU1YmI1MmZjZjAxOWY1NmZkMDU2MGMzZTJkN2Y3ZjRhZjdlM2Ji`
+Snapshot ID: `OTg5NywzNGUzZjQ0MTc2MTIzMjAzZWU3NDg2MzU2ZDZkNTgwZTcxMjdlMDky`

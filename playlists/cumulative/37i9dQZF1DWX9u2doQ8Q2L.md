@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-212 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+214 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Mystery Train \- feat\. Wez Atlas](https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas\)](https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4) | 3:41 | 2022-06-21 | 2022-08-03 |
 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 | 2022-05-26 | 2022-07-01 |
 | [Nectar\. \- uin Remix](https://open.spotify.com/track/0lOKFVFJDrueXNPWcXAXI5) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar\. \(uin Remix\)](https://open.spotify.com/album/1HEmSU08rWCzt867p5uOYo) | 3:06 | 2022-06-21 | 2022-07-20 |
+| [Never Ever](https://open.spotify.com/track/7hRa263NxqoPk3DuupeG6R) | [Idiot Pop](https://open.spotify.com/artist/6t8D7bjh5Tk8aGBeSJ4RoP), [TORAT](https://open.spotify.com/artist/4l0gZLsSqaiocM9lXBBX58) | [Never Ever](https://open.spotify.com/album/6T9fRYlghCWbqTSqZE5UES) | 3:22 | 2022-08-04 |  |
 | [Night Session](https://open.spotify.com/track/2Ne03AM5kPOFEi5HKjRrmi) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Night Session](https://open.spotify.com/album/1h14fgwVDelTabJJkPlWTn) | 2:29 | 2022-06-28 | 2022-07-29 |
 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 | 2022-08-03 |  |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-05-26 | 2022-07-27 |
@@ -123,6 +124,7 @@
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-07-28 |  |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2022-06-23 | 2022-07-01 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-26 | 2022-06-29 |
+| [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 |  |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-03 |  |
 | [so so good](https://open.spotify.com/track/5s1seRzFMfrx5ZTXKo5KEk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Ma\-Nu](https://open.spotify.com/artist/4fEFUz9XWCLMeBJ0JKjzYY) | [IMA](https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl) | 3:27 | 2022-07-05 | 2022-07-20 |
 | [SoiNeon](https://open.spotify.com/track/6KHhrzEfS1q3sw3FV5hPIr) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/1q6tK0Rryn8mrD97eDFiVm) | 3:36 | 2022-07-28 |  |

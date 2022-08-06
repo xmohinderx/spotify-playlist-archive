@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 100596,
+  "num_followers": 100650,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDNhYzI0MDcwZDBjMDVjNzEzMWQ0NjJhODdhYTRmMTU3",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDA2MjM4OTg1N2JjYTU0ZmEzNTZiZGZmMGMxOTVkNjhk",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -139,22 +139,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "WILLY",
-        "url": "https://open.spotify.com/album/1uWfDlRKiGXsWMOlSXQHpa"
+        "name": "2",
+        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
       },
       "artists": [
         {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
         }
       ],
-      "duration_ms": 178451,
-      "name": "WILLY",
-      "url": "https://open.spotify.com/track/6FqN3BoTTfwatP3MKEgkLB"
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -179,18 +175,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
+        "name": "WILLY",
+        "url": "https://open.spotify.com/album/1uWfDlRKiGXsWMOlSXQHpa"
       },
       "artists": [
         {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
+      "duration_ms": 178451,
+      "name": "WILLY",
+      "url": "https://open.spotify.com/track/6FqN3BoTTfwatP3MKEgkLB"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Better View, Part I - EP",
-        "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "perfection",
-      "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
       },
@@ -731,6 +715,54 @@
       "duration_ms": 175463,
       "name": "New Day",
       "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Better View, Part I - EP",
+        "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "perfection",
+      "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Lifer",
+      "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -759,22 +791,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Every Move I Make",
         "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 132255,
       "name": "Every Move I Make",
       "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Lifer",
-      "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -855,6 +855,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Give Up On Love",
+        "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 202790,
+      "name": "Give Up On Love",
+      "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 167499,
       "name": "WILD LOVE",
       "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Give Up On Love",
-        "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 202790,
-      "name": "Give Up On Love",
-      "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/3wNAcHO8vZNoUyhaVopRb3"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 219186,
       "name": "Not Today - Remix",
       "url": "https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 221368,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Better King",
+        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Fuego (R3HAB Remix)",
         "url": "https://open.spotify.com/album/7GJkHgaOri0Iq11NBu4qjD"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 172500,
       "name": "Fuego (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4WqnZokUoswiqEmGadvXlu"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Better King",
-        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
     },
     {
       "added_at": "2021-10-31 00:47:30",

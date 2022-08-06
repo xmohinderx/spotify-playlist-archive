@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,085 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,127 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 29 | [Stadium Jazz](https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki) | 7:17 |
 | 30 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 |
 | 31 | [Lowell](https://open.spotify.com/track/308taPCrUlttzRJi7crHwy) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [The Line](https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU) | 4:40 |
-| 32 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 |
-| 33 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 |
+| 32 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 |
+| 33 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 |
 | 34 | [because](https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49) | 4:24 |
 | 35 | [Whippersnapper](https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf) | [Wayne Krantz](https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig) | [Two Drink Minimum](https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP) | 6:47 |
 | 36 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Kid](https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t) | 7:21 |
 | 50 | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/track/2LPvgbWHHy7evKFvqGh1yI) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5), [Chris Bullock](https://open.spotify.com/artist/38SvOojqE9VsTpoodD0N5g) | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/album/2GfJbWrtq2pKRS8ugzi8or) | 9:05 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGE4MTdiMTIzNTNjNWRiZGQ2YmEwMDMyMjljZTNjODg1`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGE1MmUxYzY1ZGZlZTcxODg2YjYwZDBhZDhlYmU1MjUy`

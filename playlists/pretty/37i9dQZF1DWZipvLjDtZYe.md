@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！© Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,309 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,633 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 31 | [こちら、幸福安心委員会です。](https://open.spotify.com/track/3yphjYSP0G3gvCPQnuEDXu) | [UtataP](https://open.spotify.com/artist/4nJ7Ep2mxcpCNqeZB253py) | [こちら、幸福安心委員会です。](https://open.spotify.com/album/56sWRIN1gf2RHXrUUFocZ7) | 4:31 |
 | 32 | [Nyanyanyanyanyanyanya!](https://open.spotify.com/track/12dIZe3xCPeetNkdovFxxk) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Nyanyanyanyanyanyanya!](https://open.spotify.com/album/7JRhwPHdxrzyRuKfGVlR51) | 3:46 |
 | 33 | [Ievan Polkka](https://open.spotify.com/track/4bbal9R1czCDOFCfN3Oopz) | [Otomania](https://open.spotify.com/artist/5u409bNeWLTpcXnwusQdfx) | [Ievan Polkka](https://open.spotify.com/album/2e9OzJMQhqBzxW77vXmPam) | 2:57 |
-| 34 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
-| 35 | [ロミオとシンデレラ \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/3dU1s4P5qcUCkPGpvhLN1r) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:20 |
+| 34 | [ロミオとシンデレラ \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/3dU1s4P5qcUCkPGpvhLN1r) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:20 |
+| 35 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
 | 36 | [Weekender Girl](https://open.spotify.com/track/1ezXW6syS9nqHhh6f2WJQf) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:31 |
 | 37 | [ラッキー☆オーブ](https://open.spotify.com/track/6eHBG3FNB4jrX8Z7zkOYxJ) | [emon\(Tes.\)](https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG) | [ラッキー☆オーブ](https://open.spotify.com/album/6ZQnbk8grheS4h9cyNmFMD) | 4:13 |
 | 38 | [深海少女 \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz) | [Yuuyu](https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:58 |
-| 39 | [Party×Party](https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Polkadodge](https://open.spotify.com/album/40XC0a7Qa96B9LqpwUVkSw) | 3:39 |
-| 40 | [SLoWMoTIoN](https://open.spotify.com/track/5moGDgg9undWOE9Uyz0kAO) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 5:13 |
+| 39 | [SLoWMoTIoN](https://open.spotify.com/track/5moGDgg9undWOE9Uyz0kAO) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 5:13 |
+| 40 | [Party×Party](https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Polkadodge](https://open.spotify.com/album/40XC0a7Qa96B9LqpwUVkSw) | 3:39 |
 | 41 | [僕をそんな目で見ないで](https://open.spotify.com/track/2WVBoL2OaErNK6kEVK7Pjo) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 5:08 |
 | 42 | [ぽっぴっぽー \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 1:51 |
 | 43 | [ネオネオン](https://open.spotify.com/track/7fgqQbv9E5Ho3dn5nwLTIv) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンデッドアリス](https://open.spotify.com/album/4Qb8IrRrj7VODAWuYglITl) | 3:05 |
-| 44 | [魔法みたいなミュージック!](https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [魔法みたいなミュージック!](https://open.spotify.com/album/4pgrKtRbknVEqxBTWFZtRX) | 4:25 |
-| 45 | [Mai Mai Mai \(feat\. Hatsune Miku\)](https://open.spotify.com/track/72vNbz6kcsk64PIqoih2Jh) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Mai Mai Mai\(feat\. Hatsune Miku\)](https://open.spotify.com/album/5lf6wvBCJ8YFXF5IvIXkdk) | 3:47 |
-| 46 | [二次元ドリームフィーバー](https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [二次元ドリームフィーバー](https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea) | 3:08 |
-| 47 | [Because You're Here](https://open.spotify.com/track/5t60rC3e9mXv8Jy9eGZbkE) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Because You're Here](https://open.spotify.com/album/6Y4oOL7j48ijoIbIrdDSdm) | 4:32 |
-| 48 | [Hello, Planet](https://open.spotify.com/track/4HV2zdfNV6hxc9f97jtDh5) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Do Vocaloids Dream of Doomsday Bird?](https://open.spotify.com/album/1olwRiTXgJqGJL5ASMLJaP) | 5:01 |
+| 44 | [Because You're Here](https://open.spotify.com/track/5t60rC3e9mXv8Jy9eGZbkE) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Because You're Here](https://open.spotify.com/album/6Y4oOL7j48ijoIbIrdDSdm) | 4:32 |
+| 45 | [魔法みたいなミュージック!](https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [魔法みたいなミュージック!](https://open.spotify.com/album/4pgrKtRbknVEqxBTWFZtRX) | 4:25 |
+| 46 | [Mai Mai Mai \(feat\. Hatsune Miku\)](https://open.spotify.com/track/72vNbz6kcsk64PIqoih2Jh) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Mai Mai Mai\(feat\. Hatsune Miku\)](https://open.spotify.com/album/5lf6wvBCJ8YFXF5IvIXkdk) | 3:47 |
+| 47 | [Hello, Planet](https://open.spotify.com/track/4HV2zdfNV6hxc9f97jtDh5) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Do Vocaloids Dream of Doomsday Bird?](https://open.spotify.com/album/1olwRiTXgJqGJL5ASMLJaP) | 5:01 |
+| 48 | [二次元ドリームフィーバー](https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [二次元ドリームフィーバー](https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea) | 3:08 |
 | 49 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
 | 50 | [Twilight ∞ nighT](https://open.spotify.com/track/3QXRtqgt8rS70qA6j02HOM) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [EVER DREAM](https://open.spotify.com/album/46BJOovo6b2j3nFOGS0Nyj) | 3:44 |
 
-Snapshot ID: `MTYzMjQxNzkzMCwwMDAwMDAwMDhmMzYwODc3ZjllNWY1Mzk4YmRlNzg3ZmQ1Y2M1ZGU2`
+Snapshot ID: `MTYzMjQxNzkzMCwwMDAwMDAwMDc0YzgwZTM2NTRiZjA1Zjk0ZDk5NjNmZTQ5YjM2MGE0`

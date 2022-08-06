@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-240 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+241 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [He Don't Love Me](https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:30 | 2022-07-25 |  |
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2022-06-06 | 2022-07-29 |
 | [Heart of Mine](https://open.spotify.com/track/4HJwDpcBcr8CcuPED5UunP) | [Kuizz](https://open.spotify.com/artist/6x8oQWq0xiL4aIJTXCUx7u) | [Heart of Mine](https://open.spotify.com/album/4Wxs9jEq4dwPFd5iLdwBHj) | 2:51 | 2022-06-13 | 2022-07-27 |
+| [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2022-08-01 |  |
 | [Hell or Heaven](https://open.spotify.com/track/34gJMMpzslquGwCDq0bLe1) | [Lara D.](https://open.spotify.com/artist/2rkA2RE0iabEZmEx5QNxtX) | [Hell or Heaven](https://open.spotify.com/album/4HX87TyD4akOXBqt73bb50) | 3:26 | 2022-06-06 | 2022-07-29 |
 | [Hello, I said](https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Hello, I said](https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH) | 2:36 | 2022-06-06 | 2022-07-29 |
 | [Hollow](https://open.spotify.com/track/40jgQMxu1yaQkIRblyswIM) | [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Hollow](https://open.spotify.com/album/3MoWDXRBliC5gCdy7n6nFy) | 3:22 | 2022-06-06 | 2022-07-29 |
@@ -196,7 +197,7 @@
 | [Sixteen](https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Sixteen](https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH) | 3:19 | 2022-07-25 |  |
 | [Slowing Down](https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt) | [Slowing Down](https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK) | 2:55 | 2022-07-25 |  |
 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 | 2022-07-25 |  |
-| [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 | 2022-07-25 |  |
+| [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 | 2022-07-25 | 2022-08-06 |
 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 | 2022-07-25 |  |
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2022-07-25 |  |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2022-07-25 |  |

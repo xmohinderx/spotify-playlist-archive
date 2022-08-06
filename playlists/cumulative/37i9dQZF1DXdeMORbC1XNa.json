@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: King Promise",
+  "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Fireboy DML",
   "name": "Afro Bashment",
   "published_playlist_ids": [
     "60Bw7Cwgr0oH9rAK1w2wYZ"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 160776,
       "name": "All For Me",
       "url": "https://open.spotify.com/track/5oPJE47uQBX0akLw3YjQOx"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175800,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 155295,
       "name": "Caution",
       "url": "https://open.spotify.com/track/4g1TUIuoKWYYnJD0a8hrzb"
@@ -1106,6 +1106,28 @@
     },
     {
       "album": {
+        "name": "Come Over (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Come Over (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD"
+    },
+    {
+      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/5b7fMHNr6swGnrLALMNrrr"
       },
@@ -1298,6 +1320,28 @@
     },
     {
       "album": {
+        "name": "SaveOurSummer: The Playlist",
+        "url": "https://open.spotify.com/album/4izbmGZcyNctJXDs3R5Ohm"
+      },
+      "artists": [
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "Date Nite",
+      "url": "https://open.spotify.com/track/7Er51a1xz8Do0CJflprseS"
+    },
+    {
+      "album": {
         "name": "Decisions",
         "url": "https://open.spotify.com/album/4W0eDqqEIIHC0jiFRR401v"
       },
@@ -1339,6 +1383,32 @@
       "duration_ms": 193024,
       "name": "Dey For Me",
       "url": "https://open.spotify.com/track/1eEkjFWORg5NBhFuEPnPNa"
+    },
+    {
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232155,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
     },
     {
       "album": {
@@ -1669,7 +1739,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 166953,
       "name": "Enough for Me",
       "url": "https://open.spotify.com/track/3FEjSw1Xxg1Qc7SKn5SXXY"
@@ -1731,7 +1801,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 134546,
       "name": "EX BOYFRIEND",
       "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
@@ -2289,7 +2359,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
@@ -2396,6 +2466,28 @@
     },
     {
       "album": {
+        "name": "Sounds of My World (Deluxe)",
+        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
+    },
+    {
+      "album": {
         "name": "I Need a Boo",
         "url": "https://open.spotify.com/album/5OYxK4GDS3sE97CuVuH3ob"
       },
@@ -2433,7 +2525,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 168503,
       "name": "I Want It",
       "url": "https://open.spotify.com/track/2m8IJNtx07QEeLI9XBW9Ql"
@@ -4117,7 +4209,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 151640,
       "name": "Peru",
       "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
@@ -4237,7 +4329,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 168866,
       "name": "PRETTY SUIT",
       "url": "https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6"
@@ -4259,7 +4351,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 185080,
       "name": "Princess Cuts (feat. Young T & Bugsey)",
       "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
@@ -5003,7 +5095,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175280,
       "name": "Snakes N Ladders",
       "url": "https://open.spotify.com/track/68gXs2xVFx628tstoQe8ag"
@@ -5051,6 +5143,24 @@
       "duration_ms": 174059,
       "name": "So Distant (feat. Tayc)",
       "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
+    },
+    {
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179246,
+      "name": "Sofri",
+      "url": "https://open.spotify.com/track/6S5XNauc7v8FLJWEIk0z2c"
     },
     {
       "album": {
@@ -5432,6 +5542,24 @@
     },
     {
       "album": {
+        "name": "SaveOurSummer: The Playlist",
+        "url": "https://open.spotify.com/album/4izbmGZcyNctJXDs3R5Ohm"
+      },
+      "artists": [
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163946,
+      "name": "The Assignment",
+      "url": "https://open.spotify.com/track/7BbdnCkvf2TygKbSVYaiIw"
+    },
+    {
+      "album": {
         "name": "The Don",
         "url": "https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z"
       },
@@ -5505,6 +5633,28 @@
     {
       "album": {
         "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230721,
+      "name": "Time N Affection",
+      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th"
       },
       "artists": [
@@ -5523,6 +5673,24 @@
       "duration_ms": 230721,
       "name": "Time N Affection",
       "url": "https://open.spotify.com/track/1KapwhqF90mrl8aIlagtQR"
+    },
+    {
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139171,
+      "name": "Timoti",
+      "url": "https://open.spotify.com/track/1HG9yS1bhOSsrUoHdUEnbW"
     },
     {
       "album": {
@@ -5877,7 +6045,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 195976,
       "name": "Wickedest (feat. Haile)",
       "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"

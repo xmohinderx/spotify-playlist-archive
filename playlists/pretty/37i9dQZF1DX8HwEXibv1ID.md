@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,166 likes - 71 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,193 likes - 71 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 35 | [I Am In Love \- Remastered](https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 |
 | 36 | [I Concentrate On You](https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 2:44 |
 | 37 | [Mind If I Make Love To You](https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Great Songs From Stage And Screen](https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV) | 3:41 |
-| 38 | [Experiment](https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:32 |
+| 38 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
 | 39 | [When Love Comes Around](https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 5:15 |
-| 40 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
+| 40 | [Experiment](https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:32 |
 | 41 | [Weren't We Fools](https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 |
 | 42 | [From This Moment On \- 1955 Version](https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:13 |
 | 43 | [Who Wants To Be A Millionaire](https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Celeste Holm](https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:07 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 70 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 | 71 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 
-Snapshot ID: `MTY1MDYzNDI0MywwMDAwMDAwMDcxZjU3NTA5NWQyZjAyNTZjOGU4MGM4MTBmNGMxZGFk`
+Snapshot ID: `MTY1MDYzNDI0MywwMDAwMDAwMDEzMmM2OTMwMzY4NWM0MDRkYjg1YzE2Mjc5OGQ2MTdl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > who's that girl...\. it's you with your large white collar, sparrow print booties, and dare we say \~curtain bangs\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,767 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,960 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

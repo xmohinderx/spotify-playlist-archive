@@ -890,6 +890,28 @@
     },
     {
       "album": {
+        "name": "Golo",
+        "url": "https://open.spotify.com/album/6qKW4hsTZL2M2O9lj8jFBe"
+      },
+      "artists": [
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        },
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/6xf1SJx82RDLL6wdSDDZXI"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174985,
+      "name": "Golo",
+      "url": "https://open.spotify.com/track/3D2xdEo5tgemOTwIhBq7W4"
+    },
+    {
+      "album": {
         "name": "HGS",
         "url": "https://open.spotify.com/album/5PcvUawRRRaAEOJD3AGTIQ"
       },

@@ -4,12 +4,12 @@
 
 > Need to get your energy level up? This will help!
 
-235 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/6T6fNI28dK30V4yGA7f0oJ)
+236 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/6T6fNI28dK30V4yGA7f0oJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [101](https://open.spotify.com/track/3HYXqOAm2Q8b2OyYqzv8d4) | [WALLA](https://open.spotify.com/artist/1lhtpwswW0liqyOU52EP0E) | [101](https://open.spotify.com/album/2JJJHPnEkjM2quRLB0vnYl) | 3:23 | 2021-11-25 | 2022-07-29 |
-| [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-06-16 |  |
+| [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-06-16 | 2022-08-06 |
 | [About Work The Dancefloor \- Edit](https://open.spotify.com/track/1SDN8Ax7liAvMCfmAM5k7X) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Started Out](https://open.spotify.com/album/2e7u7pHKqHy2sZJDMOzWd2) | 3:14 | 2022-03-16 | 2022-04-21 |
 | [Absolution Calling](https://open.spotify.com/track/5kiYaQaYacPeuJTYceHqvm) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Absolution Calling](https://open.spotify.com/album/1xU9dnLqBGMtnerrAI2SqK) | 4:37 | 2022-03-16 | 2022-04-21 |
 | [Adult Diversion](https://open.spotify.com/track/22cDldSuj9rgIMXwn4Ofn0) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:27 | 2021-11-25 | 2022-07-29 |
@@ -190,6 +190,7 @@
 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 | 2021-11-25 | 2022-07-29 |
 | [She's Long Gone](https://open.spotify.com/track/4AaPXm5NKGEwGdOJzuPnrL) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:06 | 2022-03-16 | 2022-04-20 |
 | [Ship To Wreck](https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:54 | 2022-03-16 | 2022-06-29 |
+| [Shut Up Kiss Me](https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm) | 3:22 | 2022-08-05 |  |
 | [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 3:22 | 2022-03-16 | 2022-04-21 |
 | [Silhouettes](https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [When I Was Younger](https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN) | 2:57 | 2022-03-16 |  |
 | [Silhouettes](https://open.spotify.com/track/612JlaWJl5l6VIrcBck5QB) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [When I Was Younger](https://open.spotify.com/album/1xXSEeYg8T9UFaphdP9FtP) | 2:57 | 2021-11-25 | 2022-07-29 |

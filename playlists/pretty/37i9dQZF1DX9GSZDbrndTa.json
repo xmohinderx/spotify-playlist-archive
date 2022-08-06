@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 63746,
+  "num_followers": 63796,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDc1MmRmZGY5Zjg5MWM1OGQ1MzNhZThjYzM2ZWYxYmIy",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGE4ZWRkNWRmZWE1OTg2NDgxZjEwMWNmMzYxNzcxNTNh",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -499,6 +499,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 512146,
+      "name": "Trane's Blues",
+      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Blues In The Closet",
         "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 512146,
-      "name": "Trane's Blues",
-      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
+      "duration_ms": 464613,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -559,22 +575,6 @@
       "duration_ms": 400373,
       "name": "Ralph J. Gleason Blues",
       "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 464613,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -607,6 +607,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 592506,
+      "name": "Blues By Five - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Cookin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 592506,
-      "name": "Blues By Five - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -691,18 +691,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Blues In the Night",
-        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 414666,
-      "name": "Back Slidin'",
-      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
+      "duration_ms": 650466,
+      "name": "Kelly Blue",
+      "url": "https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -739,18 +739,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+        "name": "Blues In the Night",
+        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         }
       ],
-      "duration_ms": 650466,
-      "name": "Kelly Blue",
-      "url": "https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev"
+      "duration_ms": 414666,
+      "name": "Back Slidin'",
+      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
     },
     {
       "added_at": "2020-10-12 18:15:54",

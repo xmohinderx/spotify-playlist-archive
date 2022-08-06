@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best modern country music\. Cover: Luke Combs
+> Nothing but the best modern country music\. Cover: Jade Eagleson
 
-274 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+277 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [My Left Hand](https://open.spotify.com/track/4xvjIj6hR1HNv5G0ooi0CG) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand](https://open.spotify.com/album/4auLkhQRuYKdmz2EBDvPDH) | 3:07 | 2022-05-20 |  |
 | [My Poor Mama](https://open.spotify.com/track/4Q3BRVk8Yn3iR3PI42siD2) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Nothing Is Meaningless](https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW) | 3:06 | 2021-12-31 | 2022-01-15 |
 | [Nashville Or Nothing](https://open.spotify.com/track/27VXGsgJOEj7aYW6uWdJxK) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing](https://open.spotify.com/album/0u7mZIt4MJk667bsC1ZFIf) | 2:45 | 2022-03-18 |  |
-| [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:42 | 2022-06-17 |  |
+| [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:42 | 2022-06-17 | 2022-08-06 |
+| [Never Met A Beer](https://open.spotify.com/track/2DiDaZdGU6Ey3mn6LCDVnh) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM), [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Never Met A Beer](https://open.spotify.com/album/6Xn7RynwBkQup3YmWgzpGZ) | 2:52 | 2022-08-05 |  |
 | [Never Run Outta Road](https://open.spotify.com/track/01va2FpLNEdeWuAR1t4isp) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Everbound](https://open.spotify.com/album/46w9JKmyydAsnkVW34kP6I) | 3:28 | 2021-12-31 | 2022-03-12 |
 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70) | 2:56 | 2021-12-31 | 2022-04-09 |
 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 | 2022-04-08 | 2022-05-14 |
@@ -202,8 +203,9 @@
 | [Same Boat](https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:10 | 2021-12-31 |  |
 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 | 2022-06-03 |  |
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-05-13 | 2022-06-18 |
+| [Shakin' In Them Boots](https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Shakin' In Them Boots](https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3) | 2:49 | 2022-08-05 |  |
 | [She Don't Know](https://open.spotify.com/track/4IIY0QOlVtmvpJbeoMWYvY) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/3SEBw5oY1ovdxTKeblEwJC) | 3:24 | 2021-12-31 | 2022-07-29 |
-| [She Don't Know](https://open.spotify.com/track/5s95DvyPmrEGQz68fECUS8) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/17uEGzawT4q5I948KsSCtZ) | 3:24 | 2022-07-22 |  |
+| [She Don't Know](https://open.spotify.com/track/5s95DvyPmrEGQz68fECUS8) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/17uEGzawT4q5I948KsSCtZ) | 3:24 | 2022-07-22 | 2022-08-06 |
 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2022-04-08 |  |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2021-12-31 |  |
 | [She's On It](https://open.spotify.com/track/5ImWIX3cFFtj5e3dkyKgs0) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [She's On It](https://open.spotify.com/album/5uVLJPLkOglCOaYKcG6JCd) | 3:17 | 2022-04-22 |  |
@@ -238,6 +240,7 @@
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-31 | 2022-02-12 |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-12-31 | 2022-03-12 |
 | [To Be Loved By You](https://open.spotify.com/track/6WuG5vCUiW5c4GTWIb9AI2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy \(Special Edition\)](https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0) | 3:19 | 2021-12-31 |  |
+| [Told You I Could Drink \(feat\. Lady A\)](https://open.spotify.com/track/1Jx6yQQ8g0MyBR8KlviCr0) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Told You I Could Drink \(feat\. Lady A\)](https://open.spotify.com/album/1TKT3I8FZypWW2EgJUjFnc) | 3:56 | 2022-08-05 |  |
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2022-04-22 | 2022-06-04 |
 | [Tourist](https://open.spotify.com/track/5JyuDFjH9PjB1FHbkIdT8m) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:35 | 2022-04-29 | 2022-06-25 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/7JH2mFsMZptIMvWVcvhYlW) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Weakness](https://open.spotify.com/album/7cw3DbZd299VIafC7RUmSg) | 3:16 | 2022-03-29 | 2022-04-23 |
@@ -268,7 +271,7 @@
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-05-08 |  |
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-01-16 | 2022-02-19 |
 | [Whiskey Thinks I Am](https://open.spotify.com/track/693KChIw9Cpj6Jg423rDrv) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/3SEBw5oY1ovdxTKeblEwJC) | 3:28 | 2021-12-31 | 2022-02-19 |
-| [Wild As Her](https://open.spotify.com/track/5ncSiIwRVHv4td9sPerF6N) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her](https://open.spotify.com/album/41LtoOHnF2zNu5YYOxInv9) | 3:01 | 2022-07-22 |  |
+| [Wild As Her](https://open.spotify.com/track/5ncSiIwRVHv4td9sPerF6N) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her](https://open.spotify.com/album/41LtoOHnF2zNu5YYOxInv9) | 3:01 | 2022-07-22 | 2022-08-06 |
 | [Wild As Her](https://open.spotify.com/track/6Fp8bcoejKxyg3D445llx1) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her](https://open.spotify.com/album/3l7Xx5VzKP6Df3nbxOlDvo) | 3:01 | 2022-02-11 | 2022-07-29 |
 | [Wild Hearts](https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Wild Hearts](https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y) | 3:02 | 2021-12-31 | 2022-04-02 |
 | [Wilder Days](https://open.spotify.com/track/0uh9R0s1I3HIZGiA25QReI) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless \(Deluxe Edition\)](https://open.spotify.com/album/2ptlvk4iUKk88X0DfEzBm7) | 4:11 | 2022-01-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele pop misturado com hip hop ou funk pura brisa. Foto: Lukinhas",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Rico Dalasam",
   "name": "brisa",
   "published_playlist_ids": [
     "6jQhl9g0LTyG58hELgK7FX"
@@ -113,6 +113,40 @@
       "duration_ms": 276705,
       "name": "Ac\u00fastico Altamira #14 - Medo",
       "url": "https://open.spotify.com/track/4IfMGfaZCGFEfzFizozRco"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Altamira #19 - Capricorniana",
+        "url": "https://open.spotify.com/album/5Vp32au4U8RWutxCWbln5n"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        },
+        {
+          "name": "Biel",
+          "url": "https://open.spotify.com/artist/6SjLkpJ7cGqX5HWh23e74K"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Lukkas",
+          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
+        },
+        {
+          "name": "Mylena Jardim",
+          "url": "https://open.spotify.com/artist/2XymXFnsg2qj9TPyK59Pke"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "Ac\u00fastico Altamira #19 - Capricorniana",
+      "url": "https://open.spotify.com/track/5exFEVfRzxlbmfcRoGP8Eu"
     },
     {
       "album": {
@@ -1201,7 +1235,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 231055,
       "name": "Mais Uma Vez",
       "url": "https://open.spotify.com/track/7JhEJ3NzaPtzCNQ2BU9UGT"
@@ -1289,7 +1323,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 286753,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6k6GYgflqllzIDm0drwhmL"
@@ -1417,7 +1451,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 169646,
       "name": "No Controle",
       "url": "https://open.spotify.com/track/5N3Eev4bnivAyCQabpYPLX"
@@ -2244,6 +2278,24 @@
     },
     {
       "album": {
+        "name": "Supersticiosa",
+        "url": "https://open.spotify.com/album/7LdWR84aE9JHRGgGzbngWH"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Supersticiosa",
+      "url": "https://open.spotify.com/track/45d9aDL1AAugpRDfniawIJ"
+    },
+    {
+      "album": {
         "name": "Surreal",
         "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
       },
@@ -2293,6 +2345,46 @@
       "duration_ms": 201097,
       "name": "s\u00f3 por essa noite (feat. Sol Lima)",
       "url": "https://open.spotify.com/track/2mzsKBns5Mun5RutJgyCYv"
+    },
+    {
+      "album": {
+        "name": "Fim das Tentativas",
+        "url": "https://open.spotify.com/album/6kQlwMSjHVBlS6Rr7LH40z"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "Tarde D+",
+      "url": "https://open.spotify.com/track/1oUEVYaAihtqWsWFJjuitL"
+    },
+    {
+      "album": {
+        "name": "Te Decifrar",
+        "url": "https://open.spotify.com/album/5uJX90BeQPh4tqIW1rpBLe"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163199,
+      "name": "Te Decifrar",
+      "url": "https://open.spotify.com/track/3GPPyDAh78UHavPVSGZSfe"
     },
     {
       "album": {

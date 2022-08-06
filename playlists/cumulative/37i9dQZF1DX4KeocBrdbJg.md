@@ -4,7 +4,7 @@
 
 > Martha tiene un marcapasos, que le anima el corazón 💖
 
-188 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
+189 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Angeleyes \(Sped Up\) \- Sometimes When I'm Lonely, I Sit and Think About Him](https://open.spotify.com/track/7Dj1ak803CaG7VrVPFEpUw) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Angeleyes \(Sped Up\) \- Sometimes When I'm Lonely, I Sit and Think About Him](https://open.spotify.com/album/6LWNPVCVAMH5bBPfJNQFIc) | 3:35 | 2022-06-14 | 2022-06-29 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-05 |  |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-06-14 |  |
+| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-05 |  |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-26 |  |
 | [Bang Bang](https://open.spotify.com/track/3GcJCfVdwakBXr7UPrx2uA) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Troubadour \(Champion Edition \- Español\)](https://open.spotify.com/album/0xkqVJCyaLuPFBZAqjyXQ8) | 3:06 | 2022-01-12 | 2022-06-25 |
 | [Beat Automotivo Tan Tan Tan Viral](https://open.spotify.com/track/0MW3v87yrCJGoPRZHBqTgc) | [WZ Beat](https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9) | [Beat Automotivo Tan Tan Tan Viral](https://open.spotify.com/album/7gfEv2zyRfosdeySbAUFnK) | 1:07 | 2022-07-29 |  |
@@ -97,7 +98,7 @@
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-05 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2022-02-23 | 2022-06-15 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-06-01 | 2022-06-17 |
-| [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-06-06 |  |
+| [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-06-06 | 2022-08-06 |
 | [Me Levanté](https://open.spotify.com/track/5dQVCKjXLD4GdnWnrTswJO) | [Dave Bolaño](https://open.spotify.com/artist/6kfMprr3qI5Bg2JNSGU7l7) | [Me Levanté](https://open.spotify.com/album/6hngQrAYEBb5CNfxfmDlUt) | 3:07 | 2022-08-01 |  |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-06-08 |  |
 | [METALLICA](https://open.spotify.com/track/4XeqABCbUqyznqTgB8Ckzj) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [El Plugg 2](https://open.spotify.com/album/71zTvjTLSXaNb97Xitozwg) | 3:48 | 2021-12-15 | 2022-06-01 |

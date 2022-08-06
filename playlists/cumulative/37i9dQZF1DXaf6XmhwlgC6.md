@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-93 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+95 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 |  |
 | [Asparagus](https://open.spotify.com/track/4f6TUxoYmaY3zKvZZg7QOd) | [Chris Wood](https://open.spotify.com/artist/4BPvG2S70zaX8zwlHlooqZ) | [Handmade Life](https://open.spotify.com/album/7kRT0cIG57gQnrSgHxCHhY) | 3:49 | 2022-03-30 |  |
 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Red Deer](https://open.spotify.com/artist/5zFlIwFPxOQ9sbuVZ1HyEg) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 | 2022-05-25 |  |
+| [Atmosphere](https://open.spotify.com/track/52KobVe0PXvMMU9ESnAkXd) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Atmosphere](https://open.spotify.com/album/4C5MzTipU7oYSj3KnXYrwu) | 3:35 | 2022-08-05 |  |
 | [Atria](https://open.spotify.com/track/6yilNMZLStaWK2GYrQcpwU) | [1975](https://open.spotify.com/artist/1yRlOpiyfl7iFmTsJk7Ih8) | [Within Dreams](https://open.spotify.com/album/4giZPgt3uuaszEfzqVinT7) | 1:46 | 2022-03-30 |  |
 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 | 2022-03-30 |  |
 | [Big Sleep](https://open.spotify.com/track/6ZEfWrG6f2LCm3gs03Ugsj) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Big Sleep](https://open.spotify.com/album/5sxwUVTxRO8Dh4mXj0MiMe) | 4:25 | 2022-03-30 |  |
@@ -28,6 +29,7 @@
 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 | 2022-03-30 |  |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2022-03-30 |  |
+| [Fidelity](https://open.spotify.com/track/7aVZPC2jGVBNQ67laOUowW) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Fidelity](https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT) | 3:04 | 2022-08-05 |  |
 | [Finally You Needed Me](https://open.spotify.com/track/402eCegPnC05HLdbx6Ds3r) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Finally You Needed Me](https://open.spotify.com/album/1tQxz4vN24K3C3xoV9M6kN) | 3:46 | 2022-03-30 |  |
 | [finished falling](https://open.spotify.com/track/16UwPw97aFFsprUZrjoU3I) | [Riley Power](https://open.spotify.com/artist/16li8cbi4fTA6Fyztk1Bz1) | [finished falling](https://open.spotify.com/album/7hrcaCivMZsdEEpiBBK9s6) | 3:25 | 2022-03-30 |  |
 | [For Dinner…](https://open.spotify.com/track/6AdyaWgJliC8HJU4CseNJM) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:05 | 2022-07-15 |  |
@@ -56,7 +58,7 @@
 | [neckless](https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV) | [Kol Gron](https://open.spotify.com/artist/1dkHQSbVNP5EofkycCkJMb) | [neckless](https://open.spotify.com/album/27DEm76rOIIHMCxW7VGkfb) | 2:56 | 2022-03-30 |  |
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
 | [Ocean Flow Zither \- Mia Doi Todd Remix](https://open.spotify.com/track/09ppgcPGVtmFioqXjHIWJs) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Mia Doi Todd](https://open.spotify.com/artist/1r3efMZ0kcejkPKP8oQZzv) | [Sun Transformations](https://open.spotify.com/album/36tmFK2dtwsUrPWjsjnaEL) | 4:16 | 2022-03-30 |  |
-| [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2022-03-30 |  |
+| [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2022-03-30 | 2022-08-06 |
 | [Paralells](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Paralells](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 | 2022-06-24 |  |
 | [Past the Pasture and Beyond The Hill](https://open.spotify.com/track/4NZoI2toESyiMrobse6WSK) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Lifenotes](https://open.spotify.com/album/4YJIgx2MTliPfREF342MD4) | 2:11 | 2022-03-30 |  |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2022-03-30 |  |

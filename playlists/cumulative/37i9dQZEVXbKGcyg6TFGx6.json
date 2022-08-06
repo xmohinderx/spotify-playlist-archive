@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -6461,7 +6461,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -6977,7 +6977,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 188106,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
@@ -8860,6 +8860,28 @@
     },
     {
       "album": {
+        "name": "Nachts wach",
+        "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "Nachts wach",
+      "url": "https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe"
+    },
+    {
+      "album": {
         "name": "NDA",
         "url": "https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29"
       },
@@ -9671,7 +9693,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 123846,
       "name": "PETETE",
       "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
@@ -12359,7 +12381,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 168373,
       "name": "Trompeta",
       "url": "https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y"

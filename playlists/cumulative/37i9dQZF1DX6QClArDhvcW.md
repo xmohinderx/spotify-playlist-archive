@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-204 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+205 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [MOON](https://open.spotify.com/track/7pwGTxTO5UlVDsbVKkZFPX) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [MOON](https://open.spotify.com/album/7GGjVVLMJb0FG1LQkGKCCe) | 1:45 | 2022-05-20 |  |
 | [Morning](https://open.spotify.com/track/22xSHJxnzwtEO2qph3rmrs) | [KV](https://open.spotify.com/artist/2sdQEitmjfbyoATb6OfkEi) | [Morning](https://open.spotify.com/album/2f8CymR5NiP99UKLAPPQrm) | 2:24 | 2022-06-17 |  |
 | [Morning Crows](https://open.spotify.com/track/3QQ2zGJQfvfIsenqbMwOgl) | [Bag'o Chips](https://open.spotify.com/artist/636ev3bJk1dl7fPvqSlRwg) | [Morning Crows](https://open.spotify.com/album/26XR781Q3YUSPyz9nYo3DG) | 3:02 | 2022-05-20 |  |
+| [Morning Routine](https://open.spotify.com/track/78ESZt9YZhiOgrAqPoheJ0) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Morning Routine](https://open.spotify.com/album/7sQ4Mqn5YlAg8NfcIJDkbw) | 0:59 | 2022-08-05 |  |
 | [motylek](https://open.spotify.com/track/2jdGc9nzRquVJ24HPDC3Is) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [motylek](https://open.spotify.com/album/66pXgt3qcK1xild9iNQV8Y) | 1:57 | 2022-07-22 |  |
 | [Neon Sea](https://open.spotify.com/track/2Eloe1ZdrlK29u1fNKQMRO) | [Broken Embrace](https://open.spotify.com/artist/5xJZJn5NZIKZ6A25TwDQu8) | [Neon Sea](https://open.spotify.com/album/6XNlmwEMIKDBOHt50eXaC8) | 2:04 | 2022-05-20 |  |
 | [Neon Stream](https://open.spotify.com/track/2aYv8pk0KYKoVTFXYBvUYe) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Retrospect](https://open.spotify.com/album/5xVxxvGLW9KLlHSYeizyJK) | 2:28 | 2022-05-20 |  |

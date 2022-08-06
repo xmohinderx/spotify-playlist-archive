@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,969 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,957 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 9 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |
 | 10 | [El Burrito de Belen](https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [El Burrito de Belén](https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72) | 3:14 |
 | 11 | [El Burrito De Belén](https://open.spotify.com/track/1s8opuqalYMgW0fPM42kgE) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Burrito De Belen](https://open.spotify.com/album/2NLDIgiA60k5FukGh5vGHY) | 3:11 |
-| 12 | [Feliz Navidad](https://open.spotify.com/track/3ERzzgIgx84qcS8RtUrjRO) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Feliz Navidad](https://open.spotify.com/album/0RmTfZy4N0l2q7EAzrbXH9) | 3:41 |
+| 12 | [El pequeño tamborilero](https://open.spotify.com/track/4IGpk6yRhP3Vk5t3NxIzSR) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 3:03 |
 | 13 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 |
-| 14 | [El pequeño tamborilero](https://open.spotify.com/track/4IGpk6yRhP3Vk5t3NxIzSR) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 3:03 |
+| 14 | [Feliz Navidad](https://open.spotify.com/track/3ERzzgIgx84qcS8RtUrjRO) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Feliz Navidad](https://open.spotify.com/album/0RmTfZy4N0l2q7EAzrbXH9) | 3:41 |
 | 15 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 |
 | 16 | [Regalo de Reyes](https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Regalo de Reyes](https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo) | 2:49 |
 | 17 | [Jingle Bells](https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:00 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 35 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 |
 | 36 | [Blanca Navidad](https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Blanca Navidad](https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc) | 2:29 |
 | 37 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
-| 38 | [un deseo más](https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [un deseo más](https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4) | 2:25 |
-| 39 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
+| 38 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
+| 39 | [un deseo más](https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [un deseo más](https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4) | 2:25 |
 | 40 | [Blanca Navidad](https://open.spotify.com/track/2xGe2LMmUtPcHIQbHBynYa) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [Noel Es Navidad \(Deluxe\)](https://open.spotify.com/album/3xSNVFvU4c5wMtsIXsA2T5) | 3:25 |
 | 41 | [Duele Diciembre](https://open.spotify.com/track/3sZoUYrEPFuCnnqXC2C2tH) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Duele Diciembre](https://open.spotify.com/album/5I5nu2lSLK706l3LpmVjoP) | 4:28 |
 | 42 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 59 | [O Holy Night](https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
 | 60 | [Campana Sobre Campana](https://open.spotify.com/track/5Eq8TyZn6k68VAfXCnghy4) | [Mariachi Fiesta Mexicana](https://open.spotify.com/artist/71GMY7bXIFEG2MEcN4ckLd) | [Navidad A La Mexicana](https://open.spotify.com/album/6dSQEC0swp6s4pkkoCtS9e) | 2:45 |
 | 61 | [El Tamborilero](https://open.spotify.com/track/5af5UpJpIh6KKDjpHW99YJ) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Feliz Navidad](https://open.spotify.com/album/4lLFP1YjoYBN36q3XfmVjl) | 3:40 |
-| 62 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Navidad 2021: Villancicos](https://open.spotify.com/album/0VXF7FHz8tmLwVXPHCPBMO) | 3:31 |
-| 63 | [Angels We Have Heard On High](https://open.spotify.com/track/1341yWBP78IKoC1072MwWF) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [A Holiday Christmas Piano](https://open.spotify.com/album/0H4VHOgqUnFFpFawscWQG9) | 3:21 |
+| 62 | [Angels We Have Heard On High](https://open.spotify.com/track/1341yWBP78IKoC1072MwWF) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [A Holiday Christmas Piano](https://open.spotify.com/album/0H4VHOgqUnFFpFawscWQG9) | 3:21 |
+| 63 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Navidad 2021: Villancicos](https://open.spotify.com/album/0VXF7FHz8tmLwVXPHCPBMO) | 3:31 |
 | 64 | [Arbolito De Navidad](https://open.spotify.com/track/3EtBprADoLj5t0pxbdgEr9) | [Mariachi Sol De Mexico](https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:45 |
 | 65 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 |
 | 66 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 |
 
-Snapshot ID: `MTYzOTU5NDE2NSwwMDAwMDAwMDUwYzMzZjdhNmQ4ZjAyMTliMTEzZjI3OGJhNjhhMDcz`
+Snapshot ID: `MTYzOTU5NDE2NSwwMDAwMDAwMDQwZjQ5YzU4Yzk0OGQ0MDllZDI2YjkxNzdjMGY5ZDUy`

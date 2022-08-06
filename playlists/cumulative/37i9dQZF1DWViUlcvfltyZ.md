@@ -4,7 +4,7 @@
 
 > Chitarre più o meno distorte \(e in cover i ROS!\)
 
-139 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+141 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [La fine dell'eternità](https://open.spotify.com/track/2DTSHEAcv2hUnVoRvYiOmo) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/2I6L45zp4O8twWUyAHirSj) | 3:04 | 2022-07-28 |  |
 | [La fine dell'eternità](https://open.spotify.com/track/6mzLHYb0VGDkYBTwcSAASe) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/1I3StDZUGbkIkBJrHLwY66) | 3:04 | 2022-06-09 | 2022-07-29 |
 | [La vita fa schifo](https://open.spotify.com/track/38OPZDQmw8dhrl63CafT14) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [La vita fa schifo](https://open.spotify.com/album/0yzB3qbjWR5nybthxPp772) | 4:44 | 2022-07-21 |  |
+| [Lento](https://open.spotify.com/track/1Zf7qzYqsGk9SSWRxerDF0) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [Lento](https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP) | 3:01 | 2022-08-04 |  |
 | [Libellula](https://open.spotify.com/track/0XbO1VbFRlFlycqvnaNuYn) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Libellula](https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev) | 3:06 | 2022-06-30 |  |
 | [Livido](https://open.spotify.com/track/1FUcl9PpuDjDR8wuWugG9v) | [LAMECCA](https://open.spotify.com/artist/7mURROuseWxgGqL7cIyhc8) | [Ragazzina](https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6) | 3:48 | 2022-05-09 | 2022-06-10 |
 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-09 | 2022-08-05 |
@@ -111,6 +112,7 @@
 | [SANTAMARIA](https://open.spotify.com/track/2JDmo9jCFLN1FOmHECNT3B) | [ULTIMA HAINE](https://open.spotify.com/artist/1MzzYW4rW9deiCRPS7Pjf9) | [SANTAMARIA](https://open.spotify.com/album/7CxULThaopyXFO8vfyn9oH) | 2:53 | 2022-05-09 | 2022-06-03 |
 | [Scatolette](https://open.spotify.com/track/5oqLH3w2yG46BZtZSVWC56) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Scatolette](https://open.spotify.com/album/4a9tR3hT1gQ0qTVYAlw8CX) | 3:46 | 2022-05-09 | 2022-06-24 |
 | [Sereno](https://open.spotify.com/track/2U1XriPajBptR6r2B3hiP6) | [Blindur](https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc) | [Sereno](https://open.spotify.com/album/0TWE0Xja7UMMKQMwzihs3V) | 3:31 | 2022-05-12 | 2022-06-24 |
+| [SESSO & OPENBAR](https://open.spotify.com/track/4CtmrooLElIO7iZwdDMpdJ) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [SESSO & OPENBAR](https://open.spotify.com/album/4L6iv1xkvjlqmsIzTAh8VC) | 2:34 | 2022-08-04 |  |
 | [Shirly](https://open.spotify.com/track/7elf321mzsREI27HuwWWGC) | [Fiasko Leitmotiv](https://open.spotify.com/artist/7mCEKbvh7Tt4JJUkZYbkR4) | [Humblekids](https://open.spotify.com/album/3r2ghMcD9kK9hd4l3IJKNk) | 4:41 | 2022-06-30 |  |
 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 | 2022-06-23 |  |
 | [Silos](https://open.spotify.com/track/6N3eJ5VbK7wNpfDZNNJFuE) | [GALASSIA CLUB](https://open.spotify.com/artist/2VzEF2YjUANGcI4R16XNll) | [Silos](https://open.spotify.com/album/6H7Dm09Q1rwlhkNqXpWGgt) | 2:19 | 2022-05-09 | 2022-06-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,215 likes - 82 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,239 likes - 82 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 81 | [When It Rains](https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV) | 6:23 |
 | 82 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGM2NDM1MjFkN2ExZjI0YzYwZTczNjgxZWE2ZDZlOTAx`
+Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDQ1YzYwN2ZiOTI5MzY5YmMwYzNlM2FjMDk0YWUzN2Jk`

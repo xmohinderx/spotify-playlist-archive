@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Sigilos y Decretos",
+        "url": "https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11"
+      },
+      "artists": [
+        {
+          "name": "Prismatic Shapes",
+          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Acto de Fe",
+      "url": "https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C"
+    },
+    {
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
       },
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 262000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"

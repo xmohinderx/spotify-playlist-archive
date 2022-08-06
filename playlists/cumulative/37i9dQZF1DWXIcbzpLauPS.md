@@ -4,7 +4,7 @@
 
 > This is the new Core at its finest\. Cover: August Burns Red
 
-567 songs - 1 day 11 hr 39 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+568 songs - 1 day 11 hr 43 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Voice in the Static](https://open.spotify.com/track/7gfIhjwZTZb3T9INCBAUoS) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [A Voice in the Static](https://open.spotify.com/album/6kELyldbrANavkDcj2ISvs) | 3:36 | 2022-07-13 | 2022-07-20 |
 | [A World in Tears](https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [A World in Tears](https://open.spotify.com/album/7IQK6f51JQy46xwc5G6gT9) | 3:45 | 2022-01-28 | 2022-05-06 |
 | [Absolved of The Strings And Stone](https://open.spotify.com/track/7KgjltpLZz7YXOM0LoYBZz) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Absolved of The Strings And Stone](https://open.spotify.com/album/5K7nTqG2racfLQ4TcFRTox) | 3:41 | 2022-07-13 | 2022-07-23 |
-| [Aching Longing](https://open.spotify.com/track/6AgeANDgNF06cIPuMydVRs) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Aching Longing](https://open.spotify.com/album/1rxAll7UcrOGxZEWucxKlB) | 4:24 | 2022-07-08 |  |
+| [Aching Longing](https://open.spotify.com/track/6AgeANDgNF06cIPuMydVRs) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Aching Longing](https://open.spotify.com/album/1rxAll7UcrOGxZEWucxKlB) | 4:24 | 2022-07-08 | 2022-08-06 |
 | [Aching Longing](https://open.spotify.com/track/6ZhyOZ8QRgzrrvRLly2KFc) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Aching Longing](https://open.spotify.com/album/02YgVH2psjdq6a8wGoAXfC) | 4:24 | 2022-06-10 | 2022-07-29 |
 | [Acrid Canon](https://open.spotify.com/track/0DTKX0zPhXSrvIOHdJxv6q) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/5lWIRgkSy5WWOMrZ7xxygH) | 4:08 | 2022-07-13 | 2022-07-23 |
 | [Administer the Dagger](https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Complete Control](https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa) | 4:52 | 2022-07-13 | 2022-07-23 |
@@ -436,6 +436,7 @@
 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-04-29 |  |
 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 | 2022-07-01 |  |
 | [Shadow Walker](https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Shadow Walker](https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O) | 3:57 | 2022-02-11 | 2022-04-23 |
+| [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 | 2022-08-05 |  |
 | [Shimmer](https://open.spotify.com/track/5fuq9zEt8fMmwz66Ks9wrU) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Shimmer](https://open.spotify.com/album/69tKJT4Z6ddrF9uOFuJH9G) | 3:46 | 2022-06-17 | 2022-07-27 |
 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 | 2022-06-10 |  |
 | [Silence Broken](https://open.spotify.com/track/4HcBbO8UMWfUyIv3IBrzYm) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Silence Broken](https://open.spotify.com/album/4KEtxaz1yu7otXRzhwBPY6) | 3:56 | 2022-03-03 | 2022-04-23 |

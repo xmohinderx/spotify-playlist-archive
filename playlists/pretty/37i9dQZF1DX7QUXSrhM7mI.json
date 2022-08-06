@@ -1,12 +1,12 @@
 {
   "description": "It's 3pm and we've peaced out for the day.",
-  "num_followers": 4513,
+  "num_followers": 4648,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMwNTMxNiwwMDAwMDAwMGFmN2IzMTMxMTA4NDgwMGEwYmY1NjZjZThkOGY4ODg0",
+  "snapshot_id": "MTY1OTMwNTMxNiwwMDAwMDAwMGUxN2NiY2MwMmFlZTM2NTk2NzI4NDMxNDBjNGM3OTc4",
   "tracks": [
     {
       "added_at": "2022-07-31 22:08:36",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-07-31 22:08:36",
       "album": {
-        "name": "Dancing in the Moonlight",
-        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
-      },
-      "artists": [
-        {
-          "name": "King Harvest",
-          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
-    },
-    {
-      "added_at": "2022-07-31 22:08:36",
-      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
+    },
+    {
+      "added_at": "2022-07-31 22:08:36",
+      "album": {
+        "name": "Dancing in the Moonlight",
+        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
+      },
+      "artists": [
+        {
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
     },
     {
       "added_at": "2022-07-31 22:08:36",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-07-31 22:08:36",
       "album": {
+        "name": "Shower With My Clothes On",
+        "url": "https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 184479,
+      "name": "Shower With My Clothes On",
+      "url": "https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH"
+    },
+    {
+      "added_at": "2022-07-31 22:08:36",
+      "album": {
         "name": "Girls And Boys",
         "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 250836,
       "name": "Tim McGraw - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
-    },
-    {
-      "added_at": "2022-07-31 22:08:36",
-      "album": {
-        "name": "Shower With My Clothes On",
-        "url": "https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 184479,
-      "name": "Shower With My Clothes On",
-      "url": "https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH"
     },
     {
       "added_at": "2022-07-31 22:08:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-07-31 22:08:36",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv"
-    },
-    {
-      "added_at": "2022-07-31 22:08:36",
-      "album": {
         "name": "rest in peace",
         "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+    },
+    {
+      "added_at": "2022-07-31 22:08:36",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv"
     },
     {
       "added_at": "2022-07-31 22:08:36",

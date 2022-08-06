@@ -892,6 +892,24 @@
     },
     {
       "album": {
+        "name": "High School in Jakarta",
+        "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219036,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
       },
@@ -1237,6 +1255,28 @@
       "duration_ms": 198920,
       "name": "little story",
       "url": "https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex"
+    },
+    {
+      "album": {
+        "name": "Lonely (feat. Bino Rideaux)",
+        "url": "https://open.spotify.com/album/2H1PS3AVtPPQ5fW1nHgFhh"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "Lonely (feat. Bino Rideaux)",
+      "url": "https://open.spotify.com/track/37bDM2Llg0gA1iqdFZFByC"
     },
     {
       "album": {

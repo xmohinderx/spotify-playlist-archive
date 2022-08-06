@@ -4,7 +4,7 @@
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 艾薇 \(Ivy Lee\)
 
-192 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
+194 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Can't Find](https://open.spotify.com/track/1ktK35q1xiDJ2Wb0OMNICY) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/1ueX4F8QIbP5n19urjmYq1) | 4:19 | 2021-12-30 | 2022-03-25 |
 | [Can't Find](https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx) | 4:19 | 2022-07-14 |  |
 | [CARRY ON \- 《超級王牌棒球隊》片頭曲](https://open.spotify.com/track/46xtb42bgOLycrg95a39Qk) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo), [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [CARRY ON \(《超級王牌棒球隊》片頭曲\)](https://open.spotify.com/album/4xMACvynyJGrHNseiYPDaL) | 3:31 | 2022-07-21 |  |
+| [Cause U](https://open.spotify.com/track/1CQjCixIGB3y8NwV4f8Zsq) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 3:24 | 2022-08-04 |  |
 | [Changing](https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Changing](https://open.spotify.com/album/5tYTEcnieIhDAxikUuRCNc) | 3:15 | 2021-12-30 | 2022-01-14 |
 | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/track/7bZjpW7r2Bf2QLXyeUFaen) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf) | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/album/7zDsEOFLq0SJ3CmNadx2ps) | 2:44 | 2021-12-30 | 2022-03-25 |
 | [Devil](https://open.spotify.com/track/0n7Y53LDvyDgmsLpxe1I8x) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Devil](https://open.spotify.com/album/237Dxn8cAiUnSE6c4bc6m9) | 2:20 | 2022-03-24 | 2022-05-13 |
@@ -123,6 +124,7 @@
 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 | 2021-12-30 | 2022-01-14 |
 | [幸福藏在哪裡 \- 天堂的微笑片頭曲](https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 5:02 | 2021-12-30 | 2022-03-04 |
 | [微光](https://open.spotify.com/track/0mABNr5Atp6fm2lvRd74XF) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [規定情境](https://open.spotify.com/album/4mpAbNAVOM2j6pAsanglOi) | 4:13 | 2021-12-30 | 2022-03-25 |
+| [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 | 2022-08-04 |  |
 | [想了妳6次](https://open.spotify.com/track/0z81zrkn4dqmRLJpRePjYc) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [想了妳6次](https://open.spotify.com/album/4n3QnqVIEmJe0B2aZAlrk8) | 3:43 | 2022-03-24 | 2022-04-08 |
 | [想你](https://open.spotify.com/track/7vAwqw2kiPVUTdI6SBouwy) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [想你](https://open.spotify.com/album/7xqdWIv7RyrvVwuHrTou9Q) | 3:59 | 2022-03-24 | 2022-06-03 |
 | [想念是最遠的旅行 \- 天堂的微笑片尾曲](https://open.spotify.com/track/2IAaZAj9nwEgvMCpV4GcGa) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [想念是最遠的旅行 \(天堂的微笑片尾曲\)](https://open.spotify.com/album/3XsuB5NPeWvyfAI9B42Ub1) | 4:29 | 2021-12-30 |  |

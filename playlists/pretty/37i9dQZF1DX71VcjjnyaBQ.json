@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 328366,
+  "num_followers": 328433,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU5NjM4NiwwMDAwMDAwMGFiODU5NGFkMzg1MmU2YjZmYTYxYTYzMGY5OGQxMzM2",
+  "snapshot_id": "MTY1NjU5NjM4NiwwMDAwMDAwMGFlNmViYzM0ZGNhZDg5YTlmZjI2NWQyNWY0ZGU1NTJi",
   "tracks": [
     {
       "added_at": "2022-06-30 13:39:45",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "The Fire Still Burns",
         "url": "https://open.spotify.com/album/1nN7wLL6GA7xdcoI1L9BjS"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 312186,
       "name": "Morning Bazaar",
       "url": "https://open.spotify.com/track/2Ma2gyo1qXQu7DcKdN6Hg9"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -403,6 +403,30 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
+        "name": "The Velvet Blues",
+        "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        },
+        {
+          "name": "Lennart Ginman",
+          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
+        },
+        {
+          "name": "Thomas Blachman",
+          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
+        }
+      ],
+      "duration_ms": 276040,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
         "name": "Times Revisited",
         "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
       },
@@ -427,30 +451,6 @@
       "duration_ms": 265826,
       "name": "Peaceful Paranoia",
       "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "The Velvet Blues",
-        "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        },
-        {
-          "name": "Lennart Ginman",
-          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
-        },
-        {
-          "name": "Thomas Blachman",
-          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
-        }
-      ],
-      "duration_ms": 276040,
-      "name": "Somewhere over the Rainbow",
-      "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Symphonie Pacifique",
-        "url": "https://open.spotify.com/album/3sWTusjdqlAvrdFMMbnXEY"
-      },
-      "artists": [
-        {
-          "name": "Greg Foat",
-          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
-        }
-      ],
-      "duration_ms": 294139,
-      "name": "Symphonie Pacifique",
-      "url": "https://open.spotify.com/track/1KFhl1VNM6z4bpqAQETzTN"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Bijou voyou caillou",
         "url": "https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 262453,
       "name": "Coup de foudre \u00e0 Thessalonique",
       "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Symphonie Pacifique",
+        "url": "https://open.spotify.com/album/3sWTusjdqlAvrdFMMbnXEY"
+      },
+      "artists": [
+        {
+          "name": "Greg Foat",
+          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
+        }
+      ],
+      "duration_ms": 294139,
+      "name": "Symphonie Pacifique",
+      "url": "https://open.spotify.com/track/1KFhl1VNM6z4bpqAQETzTN"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "PRAYER",
-        "url": "https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 465306,
-      "name": "PRAYER",
-      "url": "https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204733,
       "name": "Abiyoyo",
       "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "PRAYER",
+        "url": "https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 465306,
+      "name": "PRAYER",
+      "url": "https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "StandArt",
         "url": "https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 433360,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/753IPE29U6NWJtWOqAin7T"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
+        "name": "Closeness",
+        "url": "https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        },
+        {
+          "name": "Rob Luft",
+          "url": "https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL"
+        },
+        {
+          "name": "Jon F\u00e4lt",
+          "url": "https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y"
+        }
+      ],
+      "duration_ms": 329333,
+      "name": "Strange Flower",
+      "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -1167,30 +1191,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Closeness",
-        "url": "https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        },
-        {
-          "name": "Rob Luft",
-          "url": "https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL"
-        },
-        {
-          "name": "Jon F\u00e4lt",
-          "url": "https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y"
-        }
-      ],
-      "duration_ms": 329333,
-      "name": "Strange Flower",
-      "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Lead Belly Reimagined",
         "url": "https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "The Starter",
         "url": "https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 375267,
       "name": "The Starter",
       "url": "https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "In a Sentimental Mood",
-        "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 228181,
-      "name": "Loose Caboose",
-      "url": "https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Some Gospel According to Matthew",
         "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
+        "name": "In a Sentimental Mood",
+        "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        }
+      ],
+      "duration_ms": 228181,
+      "name": "Loose Caboose",
+      "url": "https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Sun Khosi",
-        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 236886,
-      "name": "Sun Khosi",
-      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Los Bandidos Bogarolles",
         "url": "https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 415106,
       "name": "Los Bandidos Bogarolles",
       "url": "https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Sun Khosi",
+        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 236886,
+      "name": "Sun Khosi",
+      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 330213,
-      "name": "To Mr K.K.",
-      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Without Deception",
         "url": "https://open.spotify.com/album/6LUlAvbrFf5GdxXAO0Fznc"
       },
@@ -1551,6 +1535,38 @@
       "duration_ms": 395120,
       "name": "Without Deception",
       "url": "https://open.spotify.com/track/503UAqvRFIcoNaUYZM2WUZ"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "duration_ms": 330213,
+      "name": "To Mr K.K.",
+      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1579,22 +1595,6 @@
       "duration_ms": 296253,
       "name": "Elisian/Inutil Paisagem",
       "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "No Problem",
-        "url": "https://open.spotify.com/album/16yLczfC6BVSCaNW8oHTnz"
-      },
-      "artists": [
-        {
-          "name": "Tristan M\u00e9lia Trio",
-          "url": "https://open.spotify.com/artist/53vjuckPtvOJEfvd5gvlqz"
-        }
-      ],
-      "duration_ms": 422634,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/0yFNLTyXf0xln5RBR89LVt"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -1819,18 +1803,34 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Bye Bye Blackbird (Live)",
-        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
+        "name": "No Problem",
+        "url": "https://open.spotify.com/album/16yLczfC6BVSCaNW8oHTnz"
       },
       "artists": [
         {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+          "name": "Tristan M\u00e9lia Trio",
+          "url": "https://open.spotify.com/artist/53vjuckPtvOJEfvd5gvlqz"
         }
       ],
-      "duration_ms": 422813,
-      "name": "Bye Bye Blackbird - Live",
-      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
+      "duration_ms": 422634,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/0yFNLTyXf0xln5RBR89LVt"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+        "name": "Bye Bye Blackbird (Live)",
+        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
       },
       "artists": [
         {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
         }
       ],
-      "duration_ms": 270027,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
+      "duration_ms": 422813,
+      "name": "Bye Bye Blackbird - Live",
+      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
     }
   ],
   "unique_name": "Good Morning Jazz",

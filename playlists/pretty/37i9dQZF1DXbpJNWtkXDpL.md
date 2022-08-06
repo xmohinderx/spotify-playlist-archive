@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a Kevin Kaarl, nuestro artista Radar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,748 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,747 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 11 | [Mientras Duermes](https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes](https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j) | 3:07 |
 | 12 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
 | 13 | [Todo Porque Te Amo](https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Un Viaje Diferente](https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP) | 3:42 |
-| 14 | [Lluvia De Micheladas](https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Lluvia De Micheladas](https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw) | 3:42 |
-| 15 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 |
-| 16 | [Por Unos Centavos](https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Por Unos Centavos](https://open.spotify.com/album/4L7tjJ5ChwXcY4jYCsaHHm) | 3:12 |
-| 17 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
+| 14 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
+| 15 | [Lluvia De Micheladas](https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Lluvia De Micheladas](https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw) | 3:42 |
+| 16 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 |
+| 17 | [Por Unos Centavos](https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Por Unos Centavos](https://open.spotify.com/album/4L7tjJ5ChwXcY4jYCsaHHm) | 3:12 |
 | 18 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 |
 | 19 | [Consumo](https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Consumo](https://open.spotify.com/album/4USFiLBxSrjMfuXuZaxv4T) | 3:32 |
 | 20 | [Hoy Voy a Olvidarte](https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 46 | [Más Tarde \(Remix\)](https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR) | 3:26 |
 | 47 | [Empty Process](https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Glommy Afternoon](https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d) | 2:56 |
 | 48 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 |
-| 49 | [Tiempo al Tiempo](https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:24 |
-| 50 | [Entes](https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Entes](https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA) | 4:19 |
+| 49 | [Entes](https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Entes](https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA) | 4:19 |
+| 50 | [Tiempo al Tiempo](https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:24 |
 
-Snapshot ID: `MTY1OTMzMDAwMCwwMDAwMDAwMGY1ZDA4YzhiMjNiYWVmYzgxZGMyZTBhMDgzZmViYWIz`
+Snapshot ID: `MTY1OTMzMDAwMCwwMDAwMDAwMGYyNjVlZjM3MDcxNzUxMGYzYmViYzkxMzcyMjAxYjgz`

@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-168 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
+170 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-15 |  |
 | [Floating](https://open.spotify.com/track/2z1Dv4pDF2J8s6aoV5OHzl) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Floating](https://open.spotify.com/album/75am8qk7ml4rMFqzHpELez) | 3:04 | 2022-05-10 |  |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2022-04-15 |  |
+| [Flower Burst](https://open.spotify.com/track/7oxc43kWwv1v2Q7N5QQQyX) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Flower Burst](https://open.spotify.com/album/3kBpoP2x8YAOZC3TYWdgPC) | 3:23 | 2022-08-05 |  |
 | [For The First Time](https://open.spotify.com/track/3aIv0tjMJqDzONyBFtUa9g) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [For The First Time](https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4) | 3:17 | 2022-04-15 |  |
 | [Forest Run](https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Forest Run](https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5) | 1:57 | 2022-04-15 | 2022-05-11 |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2022-04-15 | 2022-05-11 |
@@ -143,6 +144,7 @@
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-15 |  |
 | [Show Me How It's Done](https://open.spotify.com/track/6HjO9nSZmlTy5fgSWXcpgu) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Tullinge Crickets / Show Me How It's Done](https://open.spotify.com/album/0jf2evCQuvnGQX3ngYuLGG) | 5:13 | 2022-04-15 | 2022-05-11 |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-04-15 | 2022-07-08 |
+| [Sker](https://open.spotify.com/track/3jwZYMxDsuWB5stJ3bEcLZ) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Sker](https://open.spotify.com/album/4yFrPTe8yehyzaBQeHfaGI) | 4:52 | 2022-08-05 |  |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-15 |  |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2022-04-15 |  |
 | [Southern Sky](https://open.spotify.com/track/7b5JVYNwXrFVB94lBBqeQU) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Southern Sky](https://open.spotify.com/album/2FND9HEcVEEmhGzfQuNnYH) | 3:54 | 2022-04-15 | 2022-06-03 |

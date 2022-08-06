@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Pomme
 
-378 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+379 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bye\-Bye Baby](https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt) | [PHILEMONE](https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4) | [Bye\-Bye Baby](https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD) | 2:57 | 2022-02-01 | 2022-03-08 |
 | [Bébé](https://open.spotify.com/track/4l8fvUp5kYt83NTAU9MY3S) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Bébé](https://open.spotify.com/album/75DRDJC5XikqlK93FtFS3Y) | 2:14 | 2022-08-02 |  |
 | [C'est bon](https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [C'est bon](https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq) | 2:41 | 2022-07-05 | 2022-08-03 |
+| [C'est chelou](https://open.spotify.com/track/6pgH24QHnJF9vS10Un52z7) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [C'est chelou](https://open.spotify.com/album/1b1nMEfygA0ri4WF5V9NcB) | 3:16 | 2022-08-02 |  |
 | [C'est mort](https://open.spotify.com/track/3QFUkZtiiFUNSOxsHBjf6r) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [C'est mort](https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP) | 2:55 | 2022-03-07 | 2022-04-06 |
 | [C'est si bon](https://open.spotify.com/track/3PzUIxx0PqeuVFzaVzyio9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [C'est si bon](https://open.spotify.com/album/3KqtqlxrGOsHrc0nkoVTVp) | 3:47 | 2022-01-05 | 2022-02-02 |
 | [Café](https://open.spotify.com/track/3VUx8QNifEyi4PgIl0pelw) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [37 degrés](https://open.spotify.com/album/1W1AHlF0ZqSHy1NnVP7DWP) | 2:31 | 2022-08-02 |  |

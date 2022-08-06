@@ -4,7 +4,7 @@
 
 > We outside\. Cover: Popcaan
 
-98 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0nXnbXLtoVs6mNjweF97BG)
+99 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/0nXnbXLtoVs6mNjweF97BG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 | 2021-07-19 |  |
 | [Boom Bang](https://open.spotify.com/track/437B7MVyS4cRTtwIBCDp39) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Boom Bang \(with Davido\)](https://open.spotify.com/album/0HRvp6uFFEX8fbALXV3ten) | 2:41 | 2021-07-19 |  |
 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 | 2021-07-19 |  |
-| [Bun Fi Bun](https://open.spotify.com/track/3UR8PpPKfnLlCxbpyPAsVq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/3j74olOZtNcUCoQ9ZNFZdN) | 3:17 | 2022-03-21 |  |
+| [Bun Fi Bun](https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd) | 3:17 | 2022-03-21 |  |
+| [Bun Fi Bun](https://open.spotify.com/track/3UR8PpPKfnLlCxbpyPAsVq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/3j74olOZtNcUCoQ9ZNFZdN) | 3:17 | 2022-03-21 | 2022-08-06 |
 | [Clarks](https://open.spotify.com/track/1TFdSG786lkY22jKsMDZ35) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Stronger We Get](https://open.spotify.com/album/61TCyA9vKe31EiZIZykHsm) | 3:03 | 2021-07-19 | 2022-07-29 |
 | [Clarks](https://open.spotify.com/track/6LKeLk5IBQUb9eoXidchGQ) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Stronger We Get](https://open.spotify.com/album/39jYUlDsrXJPtfucwq4f3F) | 3:03 | 2022-03-21 |  |
 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 | 2022-03-21 |  |

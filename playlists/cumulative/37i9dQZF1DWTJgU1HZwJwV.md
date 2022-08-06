@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-179 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+180 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 | 2022-06-17 |  |
 | [Roots](https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Roots](https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD) | 3:13 | 2022-06-17 |  |
 | [Rosarium](https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Rosarium](https://open.spotify.com/album/3tHJOtzuJHpngvUnvsHBXL) | 2:25 | 2022-06-17 |  |
+| [Sage](https://open.spotify.com/track/3XsO2i5UGNZfSiyd3sGJ1Y) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Sage](https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd) | 2:43 | 2022-08-05 |  |
 | [San Sebastian](https://open.spotify.com/track/0QcnlPfVyTyuBEVZeumOUV) | [Henry Auguste](https://open.spotify.com/artist/7BYBlt9RAGjzI4QG0ZapUh) | [San Sebastian](https://open.spotify.com/album/0ov4xgE4lpfucMLPm4twXP) | 1:52 | 2022-06-17 |  |
 | [Saramjan](https://open.spotify.com/track/1fuyZkRvsGM42RQC8Hs306) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Saramjan](https://open.spotify.com/album/4HDS8pE5Mm1MMA3Gahxt6y) | 2:17 | 2022-06-17 |  |
 | [Sequoia](https://open.spotify.com/track/461cC9CgeIx0ROdpaIkMtw) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Sequoia](https://open.spotify.com/album/1t5CbziFDuyPWv75q3tnCY) | 2:51 | 2022-06-17 |  |

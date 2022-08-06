@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1475117,
+  "num_followers": 1475153,
   "original_name": "Wild + Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY4NDczNywwMDAwMDAwMDljYzE3YmNlMDAwNTQ4NzRjZTkwOTQ5ZWRkYmUzNjM0",
+  "snapshot_id": "MTY1MzY4NDczNywwMDAwMDAwMGE3N2YxZjJlMGRiYzljOGUyYzU1OTA5MDg2MTk0OGMy",
   "tracks": [
     {
       "added_at": "2022-05-27 20:52:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 241546,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/5377z0OljWvRR7CdSQrJxP"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted",
-        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "Happier Than Me",
         "url": "https://open.spotify.com/album/37Zn2PTvO7PWLyI9oAAghf"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 172866,
       "name": "Stella",
       "url": "https://open.spotify.com/track/0xMap5BgUlVMGJLa1d7x5P"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted",
+        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
+        "name": "Time in the Sun",
+        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 201892,
+      "name": "Good Right Now",
+      "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 257167,
       "name": "Hand Over My Heart",
       "url": "https://open.spotify.com/track/0aZWB3kDIqotHPJcUZZkvC"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
-        "name": "Time in the Sun",
-        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 201892,
-      "name": "Good Right Now",
-      "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
         "name": "Boardwalks (Sonny Alven Remix)",
         "url": "https://open.spotify.com/album/2fkBdOnfmX6XgMyISZIBOY"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 264925,
       "name": "Boardwalks - Sonny Alven Remix",
       "url": "https://open.spotify.com/track/5z16txnOAgiPxxV2Qb8YlO"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2022-05-27 20:52:17",

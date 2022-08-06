@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Flippter x Soulja
 
-125 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+126 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Ouh Ouh](https://open.spotify.com/track/7pjIVRYtB0EjHEz8xDtt9i) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:11 | 2022-05-08 |  |
 | [PRINCE OF ARABIA](https://open.spotify.com/track/6Sh6r9AQ55SlzL7SsJnBCR) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [MIDAS](https://open.spotify.com/artist/3MP7TAr0tbEilD869p2utB) | [PRINCE OF ARABIA](https://open.spotify.com/album/0rMSwZnO5wFEbZtMtiG2ds) | 2:11 | 2022-05-08 | 2022-06-18 |
 | [RAKAM 1 DA MESH ENTA](https://open.spotify.com/track/79TzqzCK34xg5R3p1uTcAu) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0), [Haram](https://open.spotify.com/artist/0pxBXyj8uu2M49vukUwDXC) | [RAKAM 1 DA MESH ENTA](https://open.spotify.com/album/5GFX6ljNUAE0XB0jzFgcRY) | 3:58 | 2022-05-08 |  |
+| [Ramadan](https://open.spotify.com/track/1shPR6yMl4i4KQroQEr43F) | [R3D](https://open.spotify.com/artist/5oTKzvmC4PKpI3SsjJtdQY), [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Daboor](https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy), [Ramadan](https://open.spotify.com/artist/6wt2IFKhXer4jr07Y5jGoh), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [R3D](https://open.spotify.com/album/5zsMQF8gTnGGbA8gxALtKx) | 2:41 | 2022-08-05 |  |
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-05-08 |  |
 | [Rigle Bihum](https://open.spotify.com/track/0EKwe45yFDdC93exb5wYbU) | [Jlove Rap](https://open.spotify.com/artist/1aegd4kIEUFStpypq1OVMW) | [Rigle Bihum](https://open.spotify.com/album/1JXLXotTfpNY59BUnX4IjW) | 2:37 | 2022-05-08 |  |
 | [Rio](https://open.spotify.com/track/3Nmka6ycOZm2jiHyCJCjcc) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Florida](https://open.spotify.com/album/4bSsYSyiKLlP36LA1sY94N) | 3:15 | 2022-05-08 | 2022-07-05 |

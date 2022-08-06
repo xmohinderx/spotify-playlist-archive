@@ -216,6 +216,24 @@
     },
     {
       "album": {
+        "name": "Another You",
+        "url": "https://open.spotify.com/album/5kriWdQNPawclQs1j2jfcZ"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Another You",
+      "url": "https://open.spotify.com/track/7xBtsvU7AWX4pYP02SXEtF"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/3ZHBMDCb4NrguIr1EaDwZK"
       },
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 157375,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3cC6Sx3Z0UTyr5gM2vHFdg"
@@ -1366,6 +1384,28 @@
     },
     {
       "album": {
+        "name": "Fade (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223396,
+      "name": "Fade (feat. Shells)",
+      "url": "https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN"
+    },
+    {
+      "album": {
         "name": "Fade E.P. (Incl. Remix By Lexer)",
         "url": "https://open.spotify.com/album/7GGC5AySPrPqj0ritAovrb"
       },
@@ -1433,6 +1473,24 @@
       "duration_ms": 177683,
       "name": "Feel Like Home - Embody Remix",
       "url": "https://open.spotify.com/track/4ZLQGkK1EMtFtYXistZ08R"
+    },
+    {
+      "album": {
+        "name": "Feel Your Body",
+        "url": "https://open.spotify.com/album/1hxGoj2oEogn1b8ESBaYl8"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Feel Your Body",
+      "url": "https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP"
     },
     {
       "album": {
@@ -1575,7 +1633,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-27",
+      "date_removed": null,
       "duration_ms": 274529,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7y0G3FtjhA2gC2xZECbHpD"
@@ -1593,7 +1651,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 242015,
       "name": "Friendships",
       "url": "https://open.spotify.com/track/3S2XkZJH5P3AqYk8ChYsWB"
@@ -1707,7 +1765,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 231192,
       "name": "go with u",
       "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
@@ -1953,6 +2011,28 @@
       "duration_ms": 124655,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3"
+    },
+    {
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "album": {
@@ -2465,7 +2545,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 186690,
       "name": "Ice & Cold",
       "url": "https://open.spotify.com/track/3eKdMlPONnxz5quSb2VpKU"
@@ -2769,6 +2849,28 @@
       "duration_ms": 238991,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/3NjyrsDr4qS0L424H4muQd"
+    },
+    {
+      "album": {
+        "name": "Just Say",
+        "url": "https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Tara Carosielli",
+          "url": "https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Just Say",
+      "url": "https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO"
     },
     {
       "album": {
@@ -4089,7 +4191,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 162382,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/1e0V7CMEcXaPAMtL4b5VtV"
@@ -5742,6 +5844,24 @@
     },
     {
       "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288387,
+      "name": "VIEWS",
+      "url": "https://open.spotify.com/track/0zXjUo1w3t9MNT6RKYmNHv"
+    },
+    {
+      "album": {
         "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
         "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
       },
@@ -6241,7 +6361,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
@@ -6357,7 +6477,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"

@@ -264,6 +264,32 @@
     },
     {
       "album": {
+        "name": "Final Nacional Espa\u00f1a 2022",
+        "url": "https://open.spotify.com/album/66DxORFAXhtKYebeRCKCgp"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Blon",
+          "url": "https://open.spotify.com/artist/6e3ekvKJm2Hs02OozwNQLp"
+        },
+        {
+          "name": "Tirpa",
+          "url": "https://open.spotify.com/artist/5ASfa3RajFjpbJB7ilipoa"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600566,
+      "name": "Blon vs. Tirpa - Final - Live",
+      "url": "https://open.spotify.com/track/03vHtn6zWSM1agMZGUIIst"
+    },
+    {
+      "album": {
         "name": "Final Internacional Espa\u00f1a 2019 (Live)",
         "url": "https://open.spotify.com/album/3dwzgxA2q3FLAHw4CMLoSc"
       },
@@ -1057,7 +1083,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 177644,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/5mNAbD0VHs35L0Z6xo9t5X"
@@ -1145,7 +1171,7 @@
       ],
       "date_added": "2019-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 174208,
       "name": "Freestyle #1 - Live Sessions",
       "url": "https://open.spotify.com/track/41PZvMxeljlNVWf55Q9F7w"
@@ -1409,6 +1435,32 @@
       "duration_ms": 312622,
       "name": "Jack Adrenalina vs Mc Betho - Curatos de Final - Live",
       "url": "https://open.spotify.com/track/6IAbuq8Ryord9ZC29GUSSV"
+    },
+    {
+      "album": {
+        "name": "Final Nacional Espa\u00f1a 2022",
+        "url": "https://open.spotify.com/album/66DxORFAXhtKYebeRCKCgp"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Jesus LC",
+          "url": "https://open.spotify.com/artist/3Mmz4yqt3At0WFBelwTXOb"
+        },
+        {
+          "name": "Sweet Pain",
+          "url": "https://open.spotify.com/artist/2SRib7O0tWuMCXEMYmCRHc"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178275,
+      "name": "Jes\u00fas LC vs. Sweet Pain - 3er Lugar - Live",
+      "url": "https://open.spotify.com/track/3Re1WupcL4r8N6eD3U5pqx"
     },
     {
       "album": {

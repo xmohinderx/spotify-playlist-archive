@@ -596,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Diamond In The Dark",
+        "url": "https://open.spotify.com/album/4C7f4yffO7fdpU9DZJ8zcC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Bless You",
+      "url": "https://open.spotify.com/track/6N95gnRl5ggsEGVM27YkjW"
+    },
+    {
+      "album": {
         "name": "BOGU$",
         "url": "https://open.spotify.com/album/0Bi0DMc4BkYkvT5QeC54g7"
       },
@@ -941,7 +959,7 @@
       ],
       "date_added": "2020-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 202597,
       "name": "Cold War",
       "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 322562,
       "name": "Door",
       "url": "https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 229843,
       "name": "Feel These Heavy Times",
       "url": "https://open.spotify.com/track/7Gu3Wb76kCzZKJWr6wd8sG"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 268979,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 217230,
       "name": "Je t'aime encore",
       "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
@@ -3610,6 +3628,24 @@
     },
     {
       "album": {
+        "name": "One Year Stand",
+        "url": "https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8"
+    },
+    {
+      "album": {
         "name": "Opiate",
         "url": "https://open.spotify.com/album/76XZv1ULphDrrtWPR37XQ7"
       },
@@ -3693,7 +3729,7 @@
       ],
       "date_added": "2020-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 234645,
       "name": "peas",
       "url": "https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53"
@@ -3866,6 +3902,28 @@
     },
     {
       "album": {
+        "name": "Rainbow Tables (feat. Biig Piig)",
+        "url": "https://open.spotify.com/album/2iEDOlUmd5O0SYLdIdwy8M"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183199,
+      "name": "Rainbow Tables (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/2XpohxcjYvNerUpTrjefcP"
+    },
+    {
+      "album": {
         "name": "Red Room",
         "url": "https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj"
       },
@@ -4015,6 +4073,42 @@
       "duration_ms": 161845,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5OhomqpJfFUOzzHCPGZgVQ"
+    },
+    {
+      "album": {
+        "name": "safety",
+        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Scarlet",
+      "url": "https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO"
     },
     {
       "album": {
@@ -4855,7 +4949,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 162406,
       "name": "that's us",
       "url": "https://open.spotify.com/track/1anxX1NLxxdIjVzomBJK45"
@@ -5253,7 +5347,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
@@ -5350,6 +5444,24 @@
     },
     {
       "album": {
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/7FaJ9dTtCmlQHbCkKWZsRk"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172641,
+      "name": "Welcome To Kookoo Island",
+      "url": "https://open.spotify.com/track/0Y9DRICxOWCErR6Aly5nPV"
+    },
+    {
+      "album": {
         "name": "What if",
         "url": "https://open.spotify.com/album/0fD5MbkW3FkVy7XbbDpiwy"
       },
@@ -5437,6 +5549,24 @@
       "duration_ms": 248807,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+    },
+    {
+      "album": {
+        "name": "Not Mine",
+        "url": "https://open.spotify.com/album/43z1fbbpu0Ja2kDg8t6ZuG"
+      },
+      "artists": [
+        {
+          "name": "Carlos Truly",
+          "url": "https://open.spotify.com/artist/1WxcTbg1M05H3uThDKXKs8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200101,
+      "name": "Why Suffer??",
+      "url": "https://open.spotify.com/track/0gfimXIWrkA2n23UMXWYUF"
     },
     {
       "album": {
@@ -5683,6 +5813,24 @@
       "duration_ms": 192114,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC"
+    },
+    {
+      "album": {
+        "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
+        "url": "https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271952,
+      "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
+      "url": "https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj"

@@ -1,12 +1,12 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: TWICE",
-  "num_followers": 181857,
+  "num_followers": 181988,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTU3MjQwMiwwMDAwMDAwMDdjNDIzNmFmNzI1YjI2MGE5ZjQ0YmNiMDFhM2VmNmFh",
+  "snapshot_id": "MTY1NTU3MjQwMiwwMDAwMDAwMDYxMTE5Mjg1NTU2YjZjMmU3NjViZjMwZTUyNGVmM2Qw",
   "tracks": [
     {
       "added_at": "2022-06-18 17:13:22",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "Darl+ing",
-        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Darl+ing",
-      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 209105,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "Darl+ing",
+        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Darl+ing",
+      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
     },
     {
       "added_at": "2022-06-18 17:13:22",

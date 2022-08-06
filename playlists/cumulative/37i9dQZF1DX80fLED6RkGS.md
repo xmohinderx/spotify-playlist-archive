@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q?si=dHc9UkpbQz2jb\-MNOXBWbw">Boondocks Gang</a>
 
-176 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
+177 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Chingri](https://open.spotify.com/track/695iTP0Wk2V9gBHRKiplZb) | [Ongwen](https://open.spotify.com/artist/684Qot9eoFeYpHUolypT6E), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Chingri](https://open.spotify.com/album/1AiSsGlNTqmeUuSMAiMXCD) | 4:00 | 2022-01-06 |  |
 | [Chini Chini](https://open.spotify.com/track/08oolBPhPXZ5Whwd2Ynwta) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Chini Chini](https://open.spotify.com/album/0TviJ0z7yu3MBWx6mJbluv) | 3:30 | 2021-09-02 | 2022-05-20 |
 | [Chunduka](https://open.spotify.com/track/0UXO7Xe0HZdncbATDZZEx0) | [Sailors 254](https://open.spotify.com/artist/0tMrNU3RSWhGj80Nq1fO8a), [Amwilly](https://open.spotify.com/artist/7qgSQFdxkPGRFkXQVhx0R5) | [Chunduka](https://open.spotify.com/album/6oXAiwDtiLjm4xyGAK3Dft) | 3:31 | 2021-09-02 | 2022-03-25 |
+| [Dai Dai](https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Shekina Karen](https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl) | [Dai Dai](https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK) | 2:34 | 2022-08-05 |  |
 | [Danshie](https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Kappy](https://open.spotify.com/artist/4nk9M2FJUaSSyw33Ob1YEk), [Mazi Mzii](https://open.spotify.com/artist/3OOlhIXNjmTzWRR5fAe9Ae), [Seska](https://open.spotify.com/artist/6Aaa7yDYK3riykCOqG0WrA) | [Danshie](https://open.spotify.com/album/7AxKRbpMpnRaJ1Dtt1XcKc) | 3:17 | 2022-07-14 |  |
 | [Densi](https://open.spotify.com/track/6yUZOO6BdIa3FEc4yuuAoa) | [Krg The Don](https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Dj Lyta](https://open.spotify.com/artist/2lPEEC7Ci0BMaqyIKZryqL) | [Densi](https://open.spotify.com/album/4ZHqN0WjQlMaqfm1f9Nbd3) | 2:59 | 2021-11-11 | 2022-04-08 |
 | [Dhidhi](https://open.spotify.com/track/1e0jvEvvJWEFXTjUy7bpxe) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Genge La Bundoski](https://open.spotify.com/album/2MmPVKmqh06x1zEfvqiFLm) | 3:16 | 2021-10-28 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-934 songs - 2 day 1 hr 38 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+935 songs - 2 day 1 hr 41 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 | 2021-08-29 | 2021-08-30 |
 | [Donda](https://open.spotify.com/track/2TJ1FOCmCBkKm418MjVw5D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:08 | 2021-08-31 | 2021-09-02 |
 | [Donda Chant](https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 0:52 | 2021-08-31 | 2021-09-01 |
+| [Donkey Kong](https://open.spotify.com/track/0QfxhyX9dky9Zgfr2xhNzR) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [Donkey Kong](https://open.spotify.com/album/4GGHjBUGjEipaBY0l8meu3) | 2:28 | 2022-08-05 |  |
 | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr) | 2:48 | 2021-08-22 | 2021-08-23 |
 | [Don’t Try](https://open.spotify.com/track/5SCl31zHAWh2Qf1oTq7u3u) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:31 | 2021-03-27\* | 2021-03-29 |
 | [Draco](https://open.spotify.com/track/7kfCddNl6apORk85Pi6uux) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [PUSH3R](https://open.spotify.com/album/0mYH5i05bR9V6pBSYPGvNT) | 3:02 | 2021-09-19 | 2021-11-07 |
@@ -668,7 +669,7 @@
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2021-06-20 | 2021-06-21 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-09-01 | 2021-09-02 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-16 |
-| [RIDER](https://open.spotify.com/track/4ons6ezzymryQi34IU9P3G) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [RIDER](https://open.spotify.com/album/3Z6p6XI0OOELH3Q88jCbO3) | 2:45 | 2022-07-30 |  |
+| [RIDER](https://open.spotify.com/track/4ons6ezzymryQi34IU9P3G) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [RIDER](https://open.spotify.com/album/3Z6p6XI0OOELH3Q88jCbO3) | 2:45 | 2022-07-30 | 2022-08-06 |
 | [RIDER](https://open.spotify.com/track/6dx0d36ID1nrusuAUqcaEv) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:22 | 2022-01-08 | 2022-01-15 |
 | [Rigatoni](https://open.spotify.com/track/6Pj5RRNZlLA7fFMtPThgyJ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 3:10 | 2021-10-03 | 2021-10-08 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-07-04 | 2021-07-05 |

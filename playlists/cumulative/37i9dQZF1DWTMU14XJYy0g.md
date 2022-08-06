@@ -2,9 +2,9 @@
 
 ### [Rock Nacional](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: 2 minutos
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares.
 
-118 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+120 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Galvanizado](https://open.spotify.com/track/2fuNZrprXsWj8MxzAblDhO) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Galvanizado](https://open.spotify.com/album/4csOppCBwphip5JnxwhL7Z) | 3:17 | 2022-06-24 |  |
 | [Game Over](https://open.spotify.com/track/0A3EkkI3X1aprb7YKoD8oH) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Game Over](https://open.spotify.com/album/759aMTB254aQ8lo03rtOwI) | 3:28 | 2022-06-24 |  |
 | [Gatitas y Ratones](https://open.spotify.com/track/5wCZXxCLl2pL0sGartRAQM) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Gatitas y Ratones](https://open.spotify.com/album/2gss5ZLfFetUYxZDDu2PK0) | 3:57 | 2022-06-24 |  |
+| [Goodbye Adiós](https://open.spotify.com/track/60Cohjy8lgh1jIkTpGz9S1) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Goodbye Adiós](https://open.spotify.com/album/72kYZH666UwSHVBTw0zL8f) | 3:31 | 2022-08-05 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 |  |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/2STyQeoTuCGp6iZ9TReQIB) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 |  |
 | [Inmediatez](https://open.spotify.com/track/54lymSICrfTr7Z0UeVPmRY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Germán Daffunchio](https://open.spotify.com/artist/3WFJJl01wqMrNjjiGSOyrJ) | [Inmediatez](https://open.spotify.com/album/6LoA2hbjy7lPdLBh46l2M8) | 3:54 | 2022-06-24 | 2022-07-02 |
@@ -71,10 +72,11 @@
 | [Lo Que Ves](https://open.spotify.com/track/4R5rg9XCEp7sX5jS6whkEa) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Lo Que Ves](https://open.spotify.com/album/6OBgrKk9tYCE6t7d0sHimH) | 3:16 | 2022-06-24 |  |
 | [Loco](https://open.spotify.com/track/1FRDqinRPxb83utvdSHfbm) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Loco](https://open.spotify.com/album/2UozOL2sqJIxb5kmM1P9dF) | 3:03 | 2022-06-24 |  |
 | [Los Años Salvajes \(feat\. Fabiana Cantilo\)](https://open.spotify.com/track/3IN0zzW9VM9NV0OHbarMdi) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 6:15 | 2022-06-24 |  |
-| [Lucille](https://open.spotify.com/track/2qeIkKFXS11PwVOpE8ukMb) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Lucille](https://open.spotify.com/album/0kYDijXRcHlprfa1Cq9jLr) | 4:11 | 2022-06-24 |  |
+| [Lucille](https://open.spotify.com/track/2qeIkKFXS11PwVOpE8ukMb) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Lucille](https://open.spotify.com/album/0kYDijXRcHlprfa1Cq9jLr) | 4:11 | 2022-06-24 | 2022-08-06 |
 | [Luna de Miel en la Mano](https://open.spotify.com/track/7hlgmoLuoZReMqVOBoUycx) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [ADN \(Capítulo A\)](https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs) | 2:48 | 2022-06-24 |  |
 | [Maldito Show](https://open.spotify.com/track/1qCjDUdUvji7I56MLHPKqR) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Maldito Show](https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO) | 4:07 | 2022-06-24 |  |
 | [Mariposa](https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Mariposa](https://open.spotify.com/album/4mbkKo7ctuU3BeRo41P972) | 5:03 | 2022-06-24 |  |
+| [Miedo](https://open.spotify.com/track/2OJqUom0FBpJ9OdiUVIlk2) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Miedo](https://open.spotify.com/album/4ASiIcEpLwd67EyucGsuwY) | 4:18 | 2022-08-05 |  |
 | [Mirando El Fuego](https://open.spotify.com/track/1g9JG1fls4pDj1mcTE04rM) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Después de la Tormenta](https://open.spotify.com/album/1I0ZrmnG7sGOAhmyHsvqur) | 3:46 | 2022-06-24 |  |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/3q77DS8eOXSozmO20xLlOq) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/2mdmgnxNAlV1QlcGIPKnvG) | 3:46 | 2022-06-24 | 2022-07-29 |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/6R8tDnEjgcwIkPsJ184dGt) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/0oQaioOa2Llys73xpoYUHb) | 3:46 | 2022-07-15 |  |
@@ -112,7 +114,7 @@
 | [Tiempos Dorados](https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Tiempos Dorados](https://open.spotify.com/album/5UUC7peO4i1izq9yUIcKKq) | 3:15 | 2022-06-24 |  |
 | [Todo Cambia](https://open.spotify.com/track/53bAxP7G04UBs7aqGj0ffu) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Todo Cambia](https://open.spotify.com/album/71QDqQiuKYbBIOI4HJ83nZ) | 3:33 | 2022-06-24 |  |
 | [Todo Se Quema](https://open.spotify.com/track/35i3PHmoD6toLs4RVDAY2U) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Jaime López](https://open.spotify.com/artist/7u8Y6Gwnm0LJZWZCYEv02m) | [Todo Se Quema](https://open.spotify.com/album/5RVbgOgc59Pz2cA0BM57wK) | 5:02 | 2022-06-24 |  |
-| [Todos los Vientos](https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Todos los Vientos](https://open.spotify.com/album/1hdoOfhsWQ05avZZunec0C) | 3:47 | 2022-06-24 |  |
+| [Todos los Vientos](https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Todos los Vientos](https://open.spotify.com/album/1hdoOfhsWQ05avZZunec0C) | 3:47 | 2022-06-24 | 2022-08-06 |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2022-06-24 |  |
 | [Ultra Free](https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Ultra Free](https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w) | 3:00 | 2022-07-08 |  |
 | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/track/1mr6dXlWBIiSjTY44bcEhs) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/album/3PbE2A6hMQIejFQUHImi5U) | 3:01 | 2022-07-29 |  |

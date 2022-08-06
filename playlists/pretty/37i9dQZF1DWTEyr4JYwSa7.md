@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,403 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,401 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 80 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 81 | [Silver Bells](https://open.spotify.com/track/1hpfpXbvIpMYAdL7vyGSsa) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 1:57 |
 | 82 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
-| 83 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
+| 83 | [The Christmas Song](https://open.spotify.com/track/2BNV1D5X4ioefyOE0uDFOL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:24 |
 | 84 | [I Met an Angel \(on Christmas Day\)](https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:19 |
-| 85 | [The Christmas Song](https://open.spotify.com/track/2BNV1D5X4ioefyOE0uDFOL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:24 |
+| 85 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
 | 86 | [O Holy Night](https://open.spotify.com/track/2Ykid5zsdq57bc9km6fDub) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [A Very Special Christmas 3](https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45) | 4:28 |
 | 87 | [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 |
 | 88 | [Le Père Noël c't'un québécois](https://open.spotify.com/track/50UiWq1BJChAKQ0nhXl88O) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Le Père Noël c't'un québécois](https://open.spotify.com/album/6EzADwk0qEoRKPxoMWGIvk) | 2:32 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 94 | [Noël dans la tête](https://open.spotify.com/track/0b7SiLDZJ66bMu6xdEUoNf) | [Melissa Ouimet](https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth) | [Noël dans la tête](https://open.spotify.com/album/29vexLuZGEVEQD5xh3440z) | 3:22 |
 | 95 | [Cheers](https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT) | 2:26 |
 | 96 | [Noël à Jérusalem](https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël avec Jireh Gospel Choir](https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf) | 3:53 |
-| 97 | [All I Want For Christmas Is You](https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [All I Want For Christmas Is You](https://open.spotify.com/album/3kc2Y4D6VJzCgpD7Nd1rHs) | 3:04 |
-| 98 | [O Little Town of Bethlehem](https://open.spotify.com/track/1wWO2ST0HyWfEMdThb9sat) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Noël](https://open.spotify.com/album/1h7LjXhFLMg1AbA1cEsWoV) | 3:57 |
-| 99 | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/track/62Pil5FPefGmHVmw5C21ch) | [Jonas](https://open.spotify.com/artist/1ZDG9pBZ3QHj4DFsBHdwKF), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/album/2Sx3z3DBBrQPwfs48FHTcq) | 4:24 |
+| 97 | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/track/62Pil5FPefGmHVmw5C21ch) | [Jonas](https://open.spotify.com/artist/1ZDG9pBZ3QHj4DFsBHdwKF), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/album/2Sx3z3DBBrQPwfs48FHTcq) | 4:24 |
+| 98 | [All I Want For Christmas Is You](https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [All I Want For Christmas Is You](https://open.spotify.com/album/3kc2Y4D6VJzCgpD7Nd1rHs) | 3:04 |
+| 99 | [O Little Town of Bethlehem](https://open.spotify.com/track/1wWO2ST0HyWfEMdThb9sat) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Noël](https://open.spotify.com/album/1h7LjXhFLMg1AbA1cEsWoV) | 3:57 |
 | 100 | [Écoutez Le Chant Des Anges](https://open.spotify.com/track/7aFE0125T9VaJpKODz4425) | [Sebastian Demrey & Jimmy Lahaie](https://open.spotify.com/artist/4boXCFW88xIa9K94eBJyMX) | [Heritage Cantiques De Noel](https://open.spotify.com/album/0HiAmdNNSc6v1rNHXfVSIn) | 3:23 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDQ5OTEwMzVmZWYwN2JiNWYwMDkwODIyNTIwNGU0ZjYy`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDQyZDczNzRiMDMyZWI5NGYzNjk1MmViMGIxMzQzN2Zm`

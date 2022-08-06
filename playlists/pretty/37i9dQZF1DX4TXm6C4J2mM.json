@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157315,
+  "num_followers": 157314,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGYwMjQ1MGZlNDIwYTlhYmFiMWQ1NjFkNWVhZWQwMGI4",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDY4YzAxMWJiZDNiYmFhODQ1Yzg2NDVkYTA4NzFkYjIx",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -531,46 +531,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
-      },
-      "artists": [
-        {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
-        },
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        },
-        {
-          "name": "Slopes",
-          "url": "https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ"
-        }
-      ],
-      "duration_ms": 162983,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "To The Moon & Back",
-        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
-      },
-      "artists": [
-        {
-          "name": "Eight Waters",
-          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "To The Moon & Back",
-      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
       },
@@ -591,6 +551,46 @@
       "duration_ms": 134330,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "To The Moon & Back",
+        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
+      },
+      "artists": [
+        {
+          "name": "Eight Waters",
+          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "To The Moon & Back",
+      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
+      },
+      "artists": [
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Slopes",
+          "url": "https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ"
+        }
+      ],
+      "duration_ms": 162983,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Detroit 3 AM (Radio Edit)",
+        "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Detroit 3 AM - Radio Edit",
+      "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Family (Remixes)",
         "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 185813,
       "name": "Family - Frank Walker Remix",
       "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Detroit 3 AM (Radio Edit)",
-        "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Detroit 3 AM - Radio Edit",
-      "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Wanna Go",
-        "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
-      },
-      "artists": [
-        {
-          "name": "Le Boeuf",
-          "url": "https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH"
-        },
-        {
-          "name": "Teddy Beats",
-          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
-        },
-        {
-          "name": "Jolee Nikoal",
-          "url": "https://open.spotify.com/artist/6pblNcR2U2LEi5QpbC92ui"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "Wanna Go",
-      "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 187960,
       "name": "Return of the Mack (feat. Afrojack)",
       "url": "https://open.spotify.com/track/4Mghl1kqNADilBMsFVMWRK"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Wanna Go",
+        "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
+      },
+      "artists": [
+        {
+          "name": "Le Boeuf",
+          "url": "https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH"
+        },
+        {
+          "name": "Teddy Beats",
+          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
+        },
+        {
+          "name": "Jolee Nikoal",
+          "url": "https://open.spotify.com/artist/6pblNcR2U2LEi5QpbC92ui"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Wanna Go",
+      "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Kiss My (Uh Oh) [Billen Ted Remix]",
         "url": "https://open.spotify.com/album/1usw2Ln7GF9WsAtIwTiZ2w"
       },
@@ -1851,26 +1871,6 @@
       "duration_ms": 177560,
       "name": "Survivors",
       "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Sara Sangfelt",
-          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
-        }
-      ],
-      "duration_ms": 179756,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Chains (with Project 46)",
         "url": "https://open.spotify.com/album/3Gv9iIhXkCtLvj3Czp2UF0"
       },
@@ -2083,6 +2063,26 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
     },
     {
       "added_at": "2022-07-15 14:10:44",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Oliver Heldens x Piero Pirupa",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Steve Aoki x Timmy Trumpet x DJ Aligator",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -106,6 +106,28 @@
     },
     {
       "album": {
+        "name": "Back Room",
+        "url": "https://open.spotify.com/album/779eU0pmBcfnKgVi8KHYZl"
+      },
+      "artists": [
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        },
+        {
+          "name": "Dissolut",
+          "url": "https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170784,
+      "name": "Back Room",
+      "url": "https://open.spotify.com/track/4FBQrJOZoZHAZpUemTSnde"
+    },
+    {
+      "album": {
         "name": "Bad Like That",
         "url": "https://open.spotify.com/album/0me3KoXDHPItPsYgBZ5edV"
       },
@@ -157,7 +179,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
@@ -582,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
+        "url": "https://open.spotify.com/album/4bvUT08Dt2vWm9vwds2a4z"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
+      "url": "https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/3SUtXBzGUcaPQ5rnLUEJnE"
       },
@@ -645,6 +685,54 @@
       "duration_ms": 156480,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/01M7x4t9oymyXHxs3hxjF1"
+    },
+    {
+      "album": {
+        "name": "Fall In",
+        "url": "https://open.spotify.com/album/4t5C0gJwv2hI2NJapXU3nL"
+      },
+      "artists": [
+        {
+          "name": "Labi Ramaj",
+          "url": "https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB"
+        },
+        {
+          "name": "BASTL",
+          "url": "https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Fall In",
+      "url": "https://open.spotify.com/track/4BMM6ux5A0zOeomyNNjZbW"
+    },
+    {
+      "album": {
+        "name": "Fall To Pieces (feat. Jex)",
+        "url": "https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv"
+      },
+      "artists": [
+        {
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "Fall To Pieces (feat. Jex)",
+      "url": "https://open.spotify.com/track/0hgRmK0ouFXfDeYPCsezNv"
     },
     {
       "album": {
@@ -800,6 +888,28 @@
     },
     {
       "album": {
+        "name": "Flutech (feat. Ivan Ooze)",
+        "url": "https://open.spotify.com/album/2WllXY8e6ozYMloJcpUJaS"
+      },
+      "artists": [
+        {
+          "name": "Joel Fletcher",
+          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
+        },
+        {
+          "name": "Ivan Ooze",
+          "url": "https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164769,
+      "name": "Flutech (feat. Ivan Ooze)",
+      "url": "https://open.spotify.com/track/65yTIStAjXN1YmUAleXv57"
+    },
+    {
+      "album": {
         "name": "Fuck Them",
         "url": "https://open.spotify.com/album/2gzozNkJqqYQtY13vOCpU4"
       },
@@ -851,7 +961,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 169523,
       "name": "Get Me High",
       "url": "https://open.spotify.com/track/0yI0lF9hm1V8J5OZbaJjVF"
@@ -1169,7 +1279,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 186666,
       "name": "I Want You - Wh0\u2019s Festival Remix",
       "url": "https://open.spotify.com/track/7MDAFnGo5Q0ommLCQKA9YG"
@@ -1239,6 +1349,28 @@
       "duration_ms": 184600,
       "name": "ilomilo - AVAION Sunset Mix",
       "url": "https://open.spotify.com/track/1TER3AJr0E5JES1MZBjIfS"
+    },
+    {
+      "album": {
+        "name": "In & Out (feat. Modern Lover)",
+        "url": "https://open.spotify.com/album/1zcftBmZHr5Xczlc361Eza"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        },
+        {
+          "name": "Modern Lover",
+          "url": "https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227952,
+      "name": "In & Out (feat. Modern Lover)",
+      "url": "https://open.spotify.com/track/624KQ6MFOrY8q1EOH6YGzf"
     },
     {
       "album": {
@@ -1524,6 +1656,28 @@
     },
     {
       "album": {
+        "name": "Live For Tonight (Tim Hox Remix)",
+        "url": "https://open.spotify.com/album/12M52nMTBTau9DZI5SGwxE"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        },
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147401,
+      "name": "Live For Tonight - Tim Hox Remix",
+      "url": "https://open.spotify.com/track/1cgICN2WCTTmoQ5hd3VerL"
+    },
+    {
+      "album": {
         "name": "Livin Without Maybes (feat. Gor Sujyan)",
         "url": "https://open.spotify.com/album/77k0fkGfzltD42kZrWROIA"
       },
@@ -1601,7 +1755,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 159250,
       "name": "Love Me Anyway",
       "url": "https://open.spotify.com/track/371P951lrWGPczNJbBegJe"
@@ -1780,6 +1934,28 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
+    },
+    {
+      "album": {
         "name": "Mirror Mirror (feat. TELLER)",
         "url": "https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE"
       },
@@ -1858,6 +2034,92 @@
     },
     {
       "album": {
+        "name": "Move Your Body (le Shuuk & TESFY Remix)",
+        "url": "https://open.spotify.com/album/012gPYyNfWdQQpm6LP3S7M"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        },
+        {
+          "name": "TESFY",
+          "url": "https://open.spotify.com/artist/2ElvCuSMCZ357wrmbDvz2C"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Move Your Body - le Shuuk & TESFY Remix",
+      "url": "https://open.spotify.com/track/4uqIHnVCPKLCrvn1w8pIV1"
+    },
+    {
+      "album": {
+        "name": "Move Your Body (Razihel Remix)",
+        "url": "https://open.spotify.com/album/6nWc9BEgsraWegmmvvyvXI"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Razihel",
+          "url": "https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152280,
+      "name": "Move Your Body - Razihel Remix",
+      "url": "https://open.spotify.com/track/2eXBjkt4NlEI9430egVp1W"
+    },
+    {
+      "album": {
+        "name": "Move Your Body (SUBB & CAJUN Remix)",
+        "url": "https://open.spotify.com/album/6GaTovKXFoaxlOs7fSq8Bw"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        },
+        {
+          "name": "CAJUN",
+          "url": "https://open.spotify.com/artist/5WXUWosfnv0ooHM6PNs1oK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Move Your Body - SUBB & CAJUN Remix",
+      "url": "https://open.spotify.com/track/6ARi6lMT8g9MCLfxonyiag"
+    },
+    {
+      "album": {
         "name": "Music For Your Mind",
         "url": "https://open.spotify.com/album/6jd1RP4E1BBAhlI37jsfHA"
       },
@@ -1925,6 +2187,24 @@
       "duration_ms": 222720,
       "name": "Mysterious Feeling",
       "url": "https://open.spotify.com/track/6rmR4kLJX47XBpfwOfAmr3"
+    },
+    {
+      "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141562,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
     },
     {
       "album": {
@@ -2133,7 +2413,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175909,
       "name": "Play My Jam",
       "url": "https://open.spotify.com/track/4qxbNQHezyDhsVtoQmnPrw"
@@ -2335,7 +2615,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 146880,
       "name": "Round My Head",
       "url": "https://open.spotify.com/track/61wzyaAmDXaWZYh5jPCXWN"
@@ -2693,7 +2973,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 146190,
       "name": "SUPERNOVA",
       "url": "https://open.spotify.com/track/4bufrvJtfN9UKAsXitfro3"
@@ -2882,6 +3162,50 @@
     },
     {
       "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/3HH5h3BAgDYvaHz2B8obK5"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284142,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/6xjtSlGoSQBsZqdpjU5Alm"
+    },
+    {
+      "album": {
+        "name": "The Whistle",
+        "url": "https://open.spotify.com/album/6Osh5HRmPmCbr4N6xKwefD"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "The Whistle",
+      "url": "https://open.spotify.com/track/2qkaDe3XrLXOwgeTHgPRJp"
+    },
+    {
+      "album": {
         "name": "Tik Tok",
         "url": "https://open.spotify.com/album/0nSKyft93SbTOp5JTE8RkQ"
       },
@@ -2941,7 +3265,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 158100,
       "name": "Time",
       "url": "https://open.spotify.com/track/0BkL9cS3rwPx63gIFphYfi"
@@ -2985,7 +3309,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 155390,
       "name": "To The Edge",
       "url": "https://open.spotify.com/track/5locnXN3gjFhKzUaqBEZEk"
@@ -3260,6 +3584,24 @@
     },
     {
       "album": {
+        "name": "What Ya Gonna Do",
+        "url": "https://open.spotify.com/album/03g26TIOzoGnQu1skI4IbK"
+      },
+      "artists": [
+        {
+          "name": "N4C",
+          "url": "https://open.spotify.com/artist/4Edn3J3wzqhLiSjfIq3WHo"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158392,
+      "name": "What Ya Gonna Do",
+      "url": "https://open.spotify.com/track/1vmGV57xlWJqIFGephbSFu"
+    },
+    {
+      "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/2LoaKEh3ScROHvy6z1DszF"
       },
@@ -3282,6 +3624,24 @@
     },
     {
       "album": {
+        "name": "Where's You Head At (Kill It With Fire Mix)",
+        "url": "https://open.spotify.com/album/5gf686Ticu379hN8ryHU3S"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125669,
+      "name": "Where's You Head At (Kill It With Fire Mix)",
+      "url": "https://open.spotify.com/track/0twhYzaZLrf4nWRnjgL2sb"
+    },
+    {
+      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -3297,7 +3657,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"

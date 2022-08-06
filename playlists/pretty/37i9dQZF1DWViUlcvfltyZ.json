@@ -1,12 +1,12 @@
 {
   "description": "Chitarre pi\u00f9 o meno distorte (e in cover i ROS!)",
-  "num_followers": 14315,
+  "num_followers": 14349,
   "original_name": "Rock Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDI0ZDVjY2I3NjNlMzZjN2JkMmQ5MzIyNWY0NWMxZGRk",
+  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDU4NzQ1MDc5MjAwM2JkOTE2NDNhNDg0M2M4NmE5NjA2",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "SESSO & OPENBAR",
+        "url": "https://open.spotify.com/album/4L6iv1xkvjlqmsIzTAh8VC"
+      },
+      "artists": [
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8"
+        }
+      ],
+      "duration_ms": 154405,
+      "name": "SESSO & OPENBAR",
+      "url": "https://open.spotify.com/track/4CtmrooLElIO7iZwdDMpdJ"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "Strappati Lungo i Bordi (Music from the Original TV Series \u201cStrappare lungo i bordi\u201d)",
         "url": "https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM"
       },
@@ -439,6 +455,22 @@
       "duration_ms": 140689,
       "name": "Il Mare e le Farfalle",
       "url": "https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP"
+      },
+      "artists": [
+        {
+          "name": "Labissodeigiorniavenire",
+          "url": "https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd"
+        }
+      ],
+      "duration_ms": 181918,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1Zf7qzYqsGk9SSWRxerDF0"
     },
     {
       "added_at": "2022-08-04 22:01:00",

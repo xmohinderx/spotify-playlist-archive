@@ -900,6 +900,24 @@
     },
     {
       "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/2q3X7QPG8bwJH6PWTnkYR6"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218552,
+      "name": "Blue Hawaii",
+      "url": "https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF"
+    },
+    {
+      "album": {
         "name": "BLUE SOULS (STUTS Remix)",
         "url": "https://open.spotify.com/album/3Im0bf24RYVE4ojLHUGA7w"
       },
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 240605,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/5ZknjcT8dO7W8LiKkH6c21"
@@ -3159,7 +3177,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 239146,
       "name": "magic!",
       "url": "https://open.spotify.com/track/26aj7bO85vD7aCZbF53E8V"
@@ -4220,6 +4238,24 @@
     },
     {
       "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192484,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd"
+    },
+    {
+      "album": {
         "name": "Simple Song",
         "url": "https://open.spotify.com/album/26KjNctBC6pk7NoYN5SWzw"
       },
@@ -5023,6 +5059,24 @@
       "duration_ms": 188406,
       "name": "Tokyo Tape",
       "url": "https://open.spotify.com/track/0xxIdoqDHwuRso8tM7DpDL"
+    },
+    {
+      "album": {
+        "name": "Toumeina",
+        "url": "https://open.spotify.com/album/3ZQyhAM2TQ5bsILlw4K0jh"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239655,
+      "name": "Toumeina",
+      "url": "https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo"
     },
     {
       "album": {
@@ -6355,7 +6409,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 253000,
       "name": "\u307e\u3060\u4f1a\u3048\u3066\u306a\u3044\u306e\u306b - Prod.\u4e0a\u91ce\u5927\u6a39",
       "url": "https://open.spotify.com/track/628GmSA7GYmZWgxMYO1PMS"
@@ -6727,6 +6781,24 @@
       "duration_ms": 246488,
       "name": "\u30a8\u30c8\u30d4\u30ea\u30ab",
       "url": "https://open.spotify.com/track/5WswjUnlOO1UKMl93zAZj2"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30ec\u30b8\u30fc",
+        "url": "https://open.spotify.com/album/4jH72xfgJEkpMGs4MMqXlF"
+      },
+      "artists": [
+        {
+          "name": "BONNIE PINK",
+          "url": "https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296883,
+      "name": "\u30a8\u30ec\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/7Bjojqjk1Mke5jrVBaSSN8"
     },
     {
       "album": {
@@ -8539,7 +8611,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 211866,
       "name": "\u590f\u306b\u6eba\u308c\u305f\u3044",
       "url": "https://open.spotify.com/track/3VHHhp7Si9eA8F6AvkrTUM"

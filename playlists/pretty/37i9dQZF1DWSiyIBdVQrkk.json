@@ -1,12 +1,12 @@
 {
   "description": "One Love. More Life. More Vibes. Curated by Melanie Fiona for Toronto Carnival 2022.",
-  "num_followers": 2009437,
+  "num_followers": 2009555,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGFmN2M5NTgxYzhhMWFiOWZmM2QwZmQ5YTVmM2JmNmI1",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGRjYThmZTczM2FmOTQ2ZjI5MWRhN2ViODYwNTZkMjJl",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Reign Of Fire",
-        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
-      },
-      "artists": [
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "That Day Will Come",
-      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Revelation Part 1: The Root Of Life",
         "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 220493,
       "name": "No Cigarette Smoking (In My Room)",
       "url": "https://open.spotify.com/track/3eRlXM0tGtAuBuUGuJRxxw"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Reign Of Fire",
+        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
+      },
+      "artists": [
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "That Day Will Come",
+      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
     },
     {
       "added_at": "2022-07-29 04:00:00",

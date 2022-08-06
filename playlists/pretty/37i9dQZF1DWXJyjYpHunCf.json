@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Trousdale",
-  "num_followers": 779847,
+  "num_followers": 779936,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzEyOTE5MiwwMDAwMDAwMDQ4ZDU5OWY0N2Q5OWJiNTgwNDdhMjg3MjQ1NTExOTk0",
+  "snapshot_id": "MTY0NzEyOTE5MiwwMDAwMDAwMDk4NWI4ZGM5YmQ5NDk2YzcwNzQxODhmYzRhMTRhMjI0",
   "tracks": [
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Help Me to Feel Again",
-        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 262383,
-      "name": "Help Me to Feel Again",
-      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Help Me to Feel Again",
+        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 262383,
+      "name": "Help Me to Feel Again",
+      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
     },
     {
       "added_at": "2022-03-12 23:53:12",
@@ -1467,54 +1467,6 @@
     {
       "added_at": "2022-03-12 23:53:12",
       "album": {
-        "name": "Friendly Fire",
-        "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "War In Your Arms",
-      "url": "https://open.spotify.com/track/2EFy7yp659dID3X1TVbdfq"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
-        "name": "Left With The Wolves",
-        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
-      },
-      "artists": [
-        {
-          "name": "Nathan Hawes",
-          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
-        }
-      ],
-      "duration_ms": 229334,
-      "name": "Left With The Wolves",
-      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/7wNsondY4Wz6ll9eF0XFzH"
-      },
-      "artists": [
-        {
-          "name": "WILD",
-          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/4g3Ocpx03I8lvA8dx9GdQQ"
-    },
-    {
-      "added_at": "2022-03-12 23:53:12",
-      "album": {
         "name": "Always, Joni",
         "url": "https://open.spotify.com/album/5kSFUmD1KNcPJP0A4Cdakp"
       },
@@ -1543,6 +1495,54 @@
       "duration_ms": 191986,
       "name": "Kick Out the Windows (Radio Edit)",
       "url": "https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "War In Your Arms",
+      "url": "https://open.spotify.com/track/2EFy7yp659dID3X1TVbdfq"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/7wNsondY4Wz6ll9eF0XFzH"
+      },
+      "artists": [
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/4g3Ocpx03I8lvA8dx9GdQQ"
+    },
+    {
+      "added_at": "2022-03-12 23:53:12",
+      "album": {
+        "name": "Left With The Wolves",
+        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hawes",
+          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
+        }
+      ],
+      "duration_ms": 229334,
+      "name": "Left With The Wolves",
+      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
     },
     {
       "added_at": "2022-03-12 23:53:12",

@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: TWICE
 
-306 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+308 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ascension](https://open.spotify.com/track/0ZabC2gf38O0lQsPs00irH) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. IV\. Dann](https://open.spotify.com/album/28FMfifUwgR7vNCGjuAzBy) | 3:44 | 2022-03-31 | 2022-06-21 |
 | [ATHLETIC GIRL](https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [ATHLETIC GIRL](https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ) | 3:32 | 2022-01-06 | 2022-03-18 |
 | [AZALEA](https://open.spotify.com/track/44t2jRqGiSDmxTCexAbboI) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:58 | 2022-04-04 | 2022-04-08 |
+| [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 |  |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
 | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/track/4Nltlmj5YPZO1CWZmfmox1) | [KwangSoo](https://open.spotify.com/artist/5mxnis3jwujdkkXv9DO0hz) | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/album/4yoAVAdfpYjFQR7Kb40IS3) | 4:03 | 2022-04-21 | 2022-06-24 |
 | [Be With You](https://open.spotify.com/track/2NTSWLUiZqrIBDGYbHUB6o) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:41 | 2021-12-23 | 2022-03-16 |
@@ -100,6 +101,7 @@
 | [Fiction](https://open.spotify.com/track/3JsTNnFiSBubzYQcAY5MIP) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Fiction](https://open.spotify.com/album/1mKLTIVvtUpS1WMjuEGc56) | 3:40 | 2022-03-08 | 2022-03-23 |
 | [Fiore](https://open.spotify.com/track/3Dl6xGBceSzflHz2m7DUiQ) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Fiore](https://open.spotify.com/album/1KUma2mwmzo55NVVjV1HLG) | 3:08 | 2022-06-28 | 2022-07-29 |
 | [Fiore](https://open.spotify.com/track/4oIaItu2ULn7YZvHV80NuF) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Fiore](https://open.spotify.com/album/3byddB2VZ8Bmrih7qSwT3k) | 3:08 | 2022-07-28 |  |
+| [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-05 |  |
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-07-26 |  |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-10 | 2022-06-01 |

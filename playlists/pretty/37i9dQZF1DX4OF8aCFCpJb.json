@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65028,
+  "num_followers": 65032,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDA0MTVkMzYwMzg2YTQ4YTk4Y2E1MjczMTg1OTVlMWQy",
+  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDFmOTQ4MTZlMTIzM2JjZjJmOWZlMmRjZTRkZWI5NTM1",
   "tracks": [
     {
       "added_at": "2022-07-15 14:16:50",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "K\u00e4rlek & Revolt",
-        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 203418,
-      "name": "Hetare \u00c4n Lava",
-      "url": "https://open.spotify.com/track/6WTNvOppGFPmwZ37edR9tR"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
         "name": "N\u00e4r solen g\u00e5r ner",
         "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 221773,
       "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
       "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "K\u00e4rlek & Revolt",
+        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 203418,
+      "name": "Hetare \u00c4n Lava",
+      "url": "https://open.spotify.com/track/6WTNvOppGFPmwZ37edR9tR"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -683,22 +683,18 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Baluns",
-        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Dirty Jens",
-          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Baluns",
-      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
+      "duration_ms": 237702,
+      "name": "Jag Minns",
+      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -719,6 +715,26 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
+        "name": "Baluns",
+        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Dirty Jens",
+          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Baluns",
+      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
         "name": "Punch of Love",
         "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Jag Minns",
-      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
         "name": "Underh\u00e5llningsmaskinen",
         "url": "https://open.spotify.com/album/4NXk3Z5mg1PPos62yeJAQX"
       },
@@ -763,6 +763,38 @@
       "duration_ms": 240146,
       "name": "Vakter Och Polis Med Jr Erik, Eye'n`l & Kapten R\u00f6d",
       "url": "https://open.spotify.com/track/4UtcOmB3ZqgtZiABLYCBSI"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "\u00d6ver Min D\u00f6da",
+        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 213019,
+      "name": "\u00d6ver Min D\u00f6da",
+      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "K\u00e4rlek & Revolt",
+        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        }
+      ],
+      "duration_ms": 231473,
+      "name": "En God V\u00e4n",
+      "url": "https://open.spotify.com/track/38UKbt0qxGxnwYLGKKxyLi"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -787,22 +819,6 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "K\u00e4rlek & Revolt",
-        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 231473,
-      "name": "En God V\u00e4n",
-      "url": "https://open.spotify.com/track/38UKbt0qxGxnwYLGKKxyLi"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
         "name": "SELFMADE",
         "url": "https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 240062,
       "name": "Onda \u00f6gat",
       "url": "https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
-        "name": "\u00d6ver Min D\u00f6da",
-        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 213019,
-      "name": "\u00d6ver Min D\u00f6da",
-      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
     },
     {
       "added_at": "2022-07-15 14:16:50",

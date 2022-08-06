@@ -115,12 +115,12 @@
       },
       "artists": [
         {
-          "name": "Rod Lee",
-          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
-        },
-        {
           "name": "DJ Class",
           "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        },
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
         }
       ],
       "date_added": "2020-12-24",
@@ -809,6 +809,10 @@
         {
           "name": "KW Griff",
           "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
+        },
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
         }
       ],
       "date_added": "2020-12-24",

@@ -1,12 +1,12 @@
 {
   "description": "se acab\u00f3 todo \ud83d\udc94",
-  "num_followers": 26591,
+  "num_followers": 26673,
   "original_name": "pov: te rompi\u00f3 el coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3MzI1NywwMDAwMDAwMGE5ZDllNjhiMTE5MjQxMGY5ZTc3ZjEzY2FiMTE1ZDM4",
+  "snapshot_id": "MTY1OTQ3MzI1NywwMDAwMDAwMDRmYjExNDA2ZWFiYzIwNzAyMjIwZTliNjE2ODU4ODRj",
   "tracks": [
     {
       "added_at": "2022-08-02 20:47:37",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Cry Me a River",
-      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
       "added_at": "2022-08-02 20:47:37",

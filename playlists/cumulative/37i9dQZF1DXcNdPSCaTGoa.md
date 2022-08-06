@@ -4,7 +4,7 @@
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-126 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
+127 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Social Ills](https://open.spotify.com/track/7m2wTfNDeE1fvZIVuEtvco) | [Godessa](https://open.spotify.com/artist/44U7CX6sEeWA1YkVsUfAqz) | [Cape Of Good Dope](https://open.spotify.com/album/3cFgEXZtZb2dXQU0vtG7AL) | 3:13 | 2019-02-03 | 2022-07-09 |
 | [Something Wrong](https://open.spotify.com/track/4os1fxyaKBOWDQ2SeooYos) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Never ever ever ever](https://open.spotify.com/album/4BNqUvWF2qPG3eC8oYqm6y) | 3:51 | 2019-06-12 | 2022-07-20 |
 | [Special Star](https://open.spotify.com/track/3XfCNErb6OHi9N0I9yZo1V) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/7LFni1AYMo1A57EOOtCH2v) | 5:53 | 2018-09-23 | 2022-05-27 |
+| [Special Star](https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3) | 5:53 | 2018-09-23 |  |
 | [Stimela Sasezola](https://open.spotify.com/track/26UCZAfUYfAsE25ls7gS1m) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/3uuvZpYJEHZIiAgE3E51AI) | 5:10 | 2018-09-23 |  |
 | [Stimela Sasezola](https://open.spotify.com/track/68O06gQtUDGaFl3PDqRaf2) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/0cr8APEEsGPL0rDCj48Grc) | 5:10 | 2018-09-23 | 2022-07-29 |
 | [Thathi Sgubu](https://open.spotify.com/track/2OCDwRtjbmAVZaiF93pDn3) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [XX \- Celebrating 20 Years Of Kalawa Jazmee](https://open.spotify.com/album/2tOX9Qfl3lZcc8JlWEiokT) | 5:20 | 2019-02-03 | 2022-07-29 |
@@ -111,7 +112,7 @@
 | [The Way Kungakhona](https://open.spotify.com/track/05Q9XpYvVBvOMjebS7POqm) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Bongolution](https://open.spotify.com/album/4da1pBU7ZAd1INKbWOxkii) | 6:24 | 2019-02-03 |  |
 | [Thobela](https://open.spotify.com/track/0stWzuy6xRNVuz5qF3x4ZZ) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Kalawa Jazmee 2012 Pre\-Release](https://open.spotify.com/album/1d2LRuYBx8Ne97H6lJqiLJ) | 4:39 | 2018-09-23 | 2022-07-29 |
 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 | 2018-09-23 |  |
-| [Thula Mama](https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM) | [Sibongile Khumalo](https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI) | [Ancient Evening](https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT) | 4:06 | 2018-09-23 |  |
+| [Thula Mama](https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM) | [Sibongile Khumalo](https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI) | [Ancient Evening](https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT) | 4:06 | 2018-09-23 | 2022-08-06 |
 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 | 2019-02-12 |  |
 | [Township Funk](https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi) | 5:49 | 2019-05-20 |  |
 | [Umlilo](https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R) | [Big Nuz](https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp) | [Undisputed](https://open.spotify.com/album/2cQDCBfZcDYvm7425eHk22) | 6:28 | 2019-02-03 |  |

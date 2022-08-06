@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-187 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+188 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Luv N' Haight](https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [There's A Riot Goin' On](https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT) | 3:10 | 2021-07-12 |  |
 | [Magnetic](https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Magnetic](https://open.spotify.com/album/7uk0OBS4QMrKvATYWugLMc) | 4:03 | 2021-07-12 | 2022-07-29 |
 | [Melanin](https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [J.Michael O'neal](https://open.spotify.com/artist/1eQZjsM34F2TKTe9QusBOg) | [Balance](https://open.spotify.com/album/3zcz64J5R6sY8Mln7crKsI) | 4:00 | 2021-07-12 | 2022-07-29 |
+| [ML Funk](https://open.spotify.com/track/3wTiWUgjbqyVZljheQ7Jeo) | [Marlon McClain](https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq), [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Funky Fridays, Vol\. 2](https://open.spotify.com/album/4a5MVwLUmqVeT9wGKvhsfi) | 3:19 | 2022-08-05 |  |
 | [Mr\. Sexy Saxy](https://open.spotify.com/track/53iMwltgvGle3hdcsdrXqE) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [Blow Your Mind](https://open.spotify.com/album/2Z30iNpI7qPBYH2OhtrCat) | 4:35 | 2021-07-12 | 2022-07-27 |
 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 | 2022-04-15 | 2022-07-04 |
 | [No Shade](https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q) | [Isaac Norris](https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G) | [No Shade](https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw) | 4:08 | 2021-10-08 | 2022-07-28 |
@@ -140,7 +141,7 @@
 | [Say You Will](https://open.spotify.com/track/4TQRDpyL9qCEzEAjApeN7k) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Say You Will](https://open.spotify.com/album/6ecDlIabqvgoTIn90WUBYa) | 4:45 | 2021-07-12 | 2022-07-29 |
 | [Set Sail](https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Set Sail](https://open.spotify.com/album/32WepNq3Z0hU5Ku7jJqu7u) | 3:29 | 2021-08-13 | 2022-07-29 |
 | [Setembro](https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Pulling Off The Covers](https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4) | 4:08 | 2021-07-12 |  |
-| [Shake It](https://open.spotify.com/track/38BIvmt1L43arCyEXT7HC7) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP) | 4:37 | 2021-07-12 |  |
+| [Shake It](https://open.spotify.com/track/38BIvmt1L43arCyEXT7HC7) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP) | 4:37 | 2021-07-12 | 2022-08-06 |
 | [Shake It](https://open.spotify.com/track/3xKJKfGApC1yoX2qk17bqA) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0OVCEpYRo8LwltB5256P9r) | 4:37 | 2021-07-12 | 2022-07-29 |
 | [Sharon's Groove](https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK) | [Lookin' Up](https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk) | 4:11 | 2021-08-06 |  |
 | [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 | 2021-07-12 |  |

@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Kep1er\(케플러\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-266 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
+267 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Danger](https://open.spotify.com/track/4UHUzgsVA31r4yUq5dvfb1) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [JOY](https://open.spotify.com/album/4DqTvL7XSzatTOXo0wuQ29) | 3:42 | 2022-06-18 | 2022-06-20 |
 | [Dear Diary](https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [Dear Diary](https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC) | 3:38 | 2021-11-21 | 2022-07-11 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2021-11-21 | 2022-05-29 |
-| [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 |  |
+| [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-08-06 |
 | [DIVE](https://open.spotify.com/track/36UWU0wqIELSR6Azb3zcgD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [DIVE](https://open.spotify.com/album/74i7iW2GXbm50mQttVDHYy) | 3:13 | 2021-11-21 | 2022-07-10 |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-19 |  |
 | [Don't Hurt the Island Please](https://open.spotify.com/track/1FBEwUknugg7TJC70uVJ7s) | [Hanbona](https://open.spotify.com/artist/5Ks1S1FGw6Yym0Km9XCrsH) | [Don't Hurt the Island Please](https://open.spotify.com/album/3kNufrGn0Vxd0KCUoWWBlt) | 3:24 | 2021-11-21 | 2022-07-18 |
@@ -146,6 +146,7 @@
 | [Need You \- solo ver.](https://open.spotify.com/track/4xzpDr5XZoorumaEv178Od) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Need You \(solo ver.\)](https://open.spotify.com/album/1iHezxzAqv60AEr6dwUDy1) | 3:09 | 2021-11-21 | 2022-07-24 |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-08-01 |  |
 | [New](https://open.spotify.com/track/1vu104daKjc0v1Acfopza2) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [New](https://open.spotify.com/album/7w8HoXrinhQcgDRxBEaiRZ) | 3:02 | 2021-11-21 | 2022-04-18 |
+| [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 | 2022-08-02 |  |
 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 | 2022-07-07 |  |
 | [NUNU NANA](https://open.spotify.com/track/4Bmk7JYOquhWmSMMW4WebM) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/4LqLe7NBEYYiUN4pfQJStN) | 3:15 | 2021-11-21 | 2022-07-29 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-07-18 |

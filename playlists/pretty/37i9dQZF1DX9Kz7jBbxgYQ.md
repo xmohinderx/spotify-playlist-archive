@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > A Hasan Raheem takeover highlighting his favorite South Asian indie tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,688 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,867 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 7 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 |
 | 8 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 |
 | 9 | [What Love Meant](https://open.spotify.com/track/51r4ThTtRZgGyDstKxgvgi) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [What Love Meant](https://open.spotify.com/album/0DAn2VlU2jpAvuoXKdJZfx) | 4:29 |
-| 10 | [HUM](https://open.spotify.com/track/5KA3Z4EJI3qM7S3tMee6Mj) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HUM](https://open.spotify.com/album/1CgDmthgQr99ZlJEwDpCft) | 3:23 |
+| 10 | [HUM](https://open.spotify.com/track/5KA3Z4EJI3qM7S3tMee6Mj) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [HUM](https://open.spotify.com/album/1CgDmthgQr99ZlJEwDpCft) | 3:23 |
 | 11 | [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 |
 | 12 | [Funk Song](https://open.spotify.com/track/53LVgD7RguP5syVZfA76G7) | [Kidjaywest](https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Ikath](https://open.spotify.com/artist/1KIIFjHeTZ2xy5WKJ7L6fI) | [Funk Song](https://open.spotify.com/album/0ifu1eR55sv3ZZX0BvHsTp) | 2:52 |
 | 13 | [BAAZ](https://open.spotify.com/track/5AiPk1WhVkVOouovFAtLFO) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [BAAZ](https://open.spotify.com/album/4K2e39AggprCvkHwA5AR8W) | 4:31 |

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-488 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+489 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [daydream](https://open.spotify.com/track/0O7d31gAMyhY9QhxmR2OEK) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [daydream](https://open.spotify.com/album/4KfAM2THqC8b3Wjb0HTx6R) | 2:39 | 2021-12-23 | 2022-07-29 |
 | [Daydreaming](https://open.spotify.com/track/7jyGySKmUD3HUAX9qOHDkD) | [Mother of Moons](https://open.spotify.com/artist/1keHkHLAnxyWjL4HvGCUuS), [Marinjo](https://open.spotify.com/artist/2ExJxEVhsa8Oju8h0lI1Zw), [Diamond Dvst](https://open.spotify.com/artist/4kD9uFbVFlkIyEXKFlI7Ye) | [Daydreaming](https://open.spotify.com/album/5LOSS4ERrNfQxNyOqEC5xc) | 1:48 | 2022-04-07 | 2022-04-18 |
 | [daytime moon](https://open.spotify.com/track/3B9HHhRfddTwTIZKGGQzzn) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [daytime moon](https://open.spotify.com/album/3dbZZx4BmTizsohK0AwQIK) | 3:19 | 2021-12-23 | 2022-07-29 |
-| [Dedicate](https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Dedicate](https://open.spotify.com/album/1r8ZqsMWq8Z0ENt7NgLZE0) | 2:47 | 2021-12-23 |  |
+| [Dedicate](https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Dedicate](https://open.spotify.com/album/1r8ZqsMWq8Z0ENt7NgLZE0) | 2:47 | 2021-12-23 | 2022-08-06 |
 | [Dedicated To J Dilla](https://open.spotify.com/track/0yZUH9ygRa0uWz6IsiAz6T) | [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E), [Luviia](https://open.spotify.com/artist/5ahT6WLn4GdWgcuGyyifU4) | [Dedicated To J Dilla](https://open.spotify.com/album/2eBXF48Yz6f6tToDIqvGbO) | 2:50 | 2021-12-23 | 2022-07-27 |
 | [Deep Inst](https://open.spotify.com/track/0v9RBiou0hGEg4ZBRnz1Gy) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Mind Over Metaphors, Pt 2 \- Instrumental](https://open.spotify.com/album/4488Qu3weVUyJboVrOjeht) | 3:11 | 2022-03-24 |  |
 | [DeFacto](https://open.spotify.com/track/7n9znTQsBA7GhwnTDB9sIl) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [DeFacto](https://open.spotify.com/album/1keVcaCTxWsTpoeef9X9gU) | 3:34 | 2021-12-23 | 2022-07-29 |
@@ -244,6 +244,7 @@
 | [Lokki](https://open.spotify.com/track/1sI1lOqe40lScdPpRd6Rp8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Lokki](https://open.spotify.com/album/1sy0P5fxTPTuNENrPb2sEv) | 3:20 | 2022-02-03 | 2022-07-29 |
 | [Long Live the King \- Instrumental](https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Long Live the King \(Instrumental\)](https://open.spotify.com/album/0DxnngpwW0L4DctzLXCSBf) | 3:31 | 2021-12-23 |  |
 | [longing](https://open.spotify.com/track/6g9mzW0JWmbTjBn322uAXa) | [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [BTW](https://open.spotify.com/album/47M6AklGuOo8XJ9UCGz9Wc) | 2:19 | 2022-01-27 | 2022-02-03 |
+| [LOST SOULS](https://open.spotify.com/track/1hFa14hm2jsTnCPcOkI8IC) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw) | [LOST SOULS](https://open.spotify.com/album/2RxEUgSGEnFhqbGtAuXGyT) | 2:34 | 2022-08-04 |  |
 | [Lucid Dream](https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Lucid Dream](https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui) | 2:42 | 2021-12-23 |  |
 | [Luv](https://open.spotify.com/track/1tJa54bWcdqb2kawGtd7ZB) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Runnin'](https://open.spotify.com/album/6bd0gJXzXRJxCNaTGAiS8c) | 1:27 | 2021-12-23 | 2022-02-11 |
 | [Lux \- Instrumental](https://open.spotify.com/track/5bHovaMzUQysRb51M6bmdf) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [Lux \(Instrumental\)](https://open.spotify.com/album/7MPY6Cg7sIiQxwwXVEWfh5) | 2:08 | 2022-01-06 | 2022-07-27 |

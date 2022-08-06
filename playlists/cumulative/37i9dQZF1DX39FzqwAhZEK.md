@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-287 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
+290 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Coming to Life](https://open.spotify.com/track/5qykZZrwFwvF1k68WzHXGx) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:03 | 2022-07-05 |  |
 | [Connection](https://open.spotify.com/track/5BDIKKycvDRRpJGG76cg0n) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Connection](https://open.spotify.com/album/4IFgc3WJUTL09xNye07t89) | 2:24 | 2022-07-05 |  |
 | [Consciousness](https://open.spotify.com/track/15uIB4knR9Okuy4OBNRNV6) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 4:02 | 2022-07-05 |  |
+| [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 | 2022-08-05 |  |
 | [Daydream In Silver](https://open.spotify.com/track/3YJ1eWImuJhcpDUEIatzy3) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Daydream In Silver](https://open.spotify.com/album/0W2X2Yarkdype9wknwGETD) | 2:36 | 2022-07-05 |  |
 | [Departure](https://open.spotify.com/track/0bhLghTqOh2BqW8XJlcHTn) | [Vendela Rose](https://open.spotify.com/artist/31fLMu6uyged4QpGx1VqA0) | [Departure](https://open.spotify.com/album/7vJaAQ8mCpUdLpliV5dTWT) | 3:01 | 2022-07-05 |  |
 | [Distant Echo](https://open.spotify.com/track/5Q5pgBHtLlpj2Us2DctnEL) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:16 | 2022-07-05 |  |
@@ -138,6 +139,7 @@
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2022-07-05 |  |
 | [Introspection](https://open.spotify.com/track/1BB8P1ZPQVixNxIjsjIuaf) | [Luca Francini](https://open.spotify.com/artist/5fmiL1x34I1aHYcYEpXyMP) | [Introspection](https://open.spotify.com/album/5S5snP8HHRNpqnnuZaVX0r) | 2:48 | 2022-07-05 |  |
 | [Intuition](https://open.spotify.com/track/3VSHwYTtcZNrdwZuyOGjHo) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Intuition](https://open.spotify.com/album/021gMyQNpIiRxNspxbQuyR) | 3:59 | 2022-07-05 |  |
+| [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |
 | [I´ll See A Light](https://open.spotify.com/track/7EqeAfbTta51OCd9gz6buQ) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [I´ll See A Light](https://open.spotify.com/album/6Boo2SIRxXRzKsyDmZvejZ) | 2:28 | 2022-07-05 |  |
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2022-07-05 |  |
 | [Kaleidoscope](https://open.spotify.com/track/4expHDATikoNSKn5KnD5s0) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Kaleidoscope](https://open.spotify.com/album/76TEeAfLIIj0bVVkI54pWB) | 2:36 | 2022-07-05 | 2022-07-29 |
@@ -252,7 +254,7 @@
 | [Speed of Light](https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:01 | 2022-07-05 |  |
 | [Springfields](https://open.spotify.com/track/3viUCfnJjqPj9DsR2KZ630) | [The Glass Arcade](https://open.spotify.com/artist/43ZVxJYgUlWueA0kKDTnoC) | [Springfields](https://open.spotify.com/album/5ZtXNU4YGbjgyVnZF1aUKa) | 2:47 | 2022-07-05 |  |
 | [Springfields](https://open.spotify.com/track/7ggEpS5BC1iG3zqCSDx5Zu) | [The Glass Arcade](https://open.spotify.com/artist/43ZVxJYgUlWueA0kKDTnoC) | [Springfields](https://open.spotify.com/album/4wcdYYclRok2PHyBPphOR5) | 2:47 | 2022-07-05 | 2022-07-29 |
-| [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 | 2022-07-05 |  |
+| [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 | 2022-07-05 | 2022-08-06 |
 | [Stellato](https://open.spotify.com/track/6SyLAus9iKAcj7MZ1yaDZ3) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Stellato](https://open.spotify.com/album/61DLZh0gdcOBZo9ERrk6zj) | 3:22 | 2022-07-05 |  |
 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 | 2022-07-05 |  |
 | [Stillness](https://open.spotify.com/track/3HBY9kD6UISZDwjto7e8bh) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Reflections](https://open.spotify.com/album/1z0vCXugB5Wur3hxjCXJOA) | 4:15 | 2022-07-05 |  |
@@ -262,6 +264,7 @@
 | [Ta chaleur](https://open.spotify.com/track/1svn4a7lSTz623VTmqZKSi) | [Cara Bergé](https://open.spotify.com/artist/0Fgwr7BVpbWeMTLwV973mw) | [Ta chaleur](https://open.spotify.com/album/4ubcU6RHfY7adsUB4xED4O) | 3:00 | 2022-07-05 |  |
 | [Take Me Home](https://open.spotify.com/track/0ZGteveKS9XMCxDtjehnG3) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Take Me Home](https://open.spotify.com/album/6t5ja4OhtMyp49oY9FjN4f) | 3:29 | 2022-07-05 |  |
 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 | 2022-07-05 |  |
+| [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Calm](https://open.spotify.com/track/1nqq9YCuHGnk9YabcqH1bp) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Voices of the Forest](https://open.spotify.com/album/10xjwZtSIcQbvo2VgyOlSN) | 2:37 | 2022-07-05 |  |
 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2022-07-05 |  |
 | [The Lonely Mountain](https://open.spotify.com/track/79Yt5NGbPCEECa3rlpbOve) | [Simon Folwar](https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ) | [The Lonely Mountain](https://open.spotify.com/album/1wUv8HDDx9WWbPF2okGNE7) | 3:18 | 2022-07-05 |  |

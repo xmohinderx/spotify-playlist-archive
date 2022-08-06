@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-465 songs - 1 day 3 hr 0 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+467 songs - 1 day 3 hr 5 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Centasphere](https://open.spotify.com/track/66moRq1v80qKGkwxuPwUYM) | [Nexterday Visitors](https://open.spotify.com/artist/4HpTEzHjNdwpdffaxTZSsr) | [Centasphere](https://open.spotify.com/album/0vXRHCarBO8xnjDbNarADJ) | 3:04 | 2020-12-11 | 2021-09-21 |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-02-25 |  |
 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 | 2019-06-19\* |  |
+| [Chasing Tides](https://open.spotify.com/track/41niA9BIBT3GBJODEWicuP) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Chasing Tides](https://open.spotify.com/album/4HJMXBtyX7oHWzE1O0y3bw) | 2:28 | 2022-08-05 |  |
 | [Chill Kingdom](https://open.spotify.com/track/7lxPJaeT21LyiC7Pu4eSNX) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Chill Kingdom](https://open.spotify.com/album/3YPivgJnzq2dZbKNu8xZy9) | 3:47 | 2019-05-26\* | 2019-06-19 |
 | [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 | 2022-06-24 |  |
 | [Clear Language](https://open.spotify.com/track/0JGfoZbSvYQiPVQQQSSxmr) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/3W9oDXNed8I4RJiQek5vkE) | 3:13 | 2019-06-19\* | 2021-09-03 |
@@ -196,6 +197,7 @@
 | [If I'd Have Known It Was The Last \(Second Position\)](https://open.spotify.com/track/3tGdrKXDO9hZV0f0XDh66O) | [Codes In The Clouds](https://open.spotify.com/artist/4VOAFlRzmQTqXTpLzHq0Hl) | [As The Spirit Wanes](https://open.spotify.com/album/3FIQ6BRdkWHmc92J7WBFKE) | 1:52 | 2019-05-26\* | 2021-09-03 |
 | [If You Believe](https://open.spotify.com/track/0QurRfrHz1RGbdPpTx7lLV) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Unification](https://open.spotify.com/album/2amvCJnF3F5sK6Bzooovgx) | 3:03 | 2020-08-07 |  |
 | [Igelstorp](https://open.spotify.com/track/4Q2ZHTihHxJc25u0SbiImn) | [Fellows](https://open.spotify.com/artist/28MgNka3kDQyWxvuoGDo3o) | [Igelstorp](https://open.spotify.com/album/4tudKeSVJOev0r0O9mdSCV) | 4:30 | 2019-05-26\* | 2019-06-19 |
+| [In A Week Or Two](https://open.spotify.com/track/1Tqt1u2aFYDBCMxxJRiM0f) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [In A Week Or Two](https://open.spotify.com/album/5P3AhzhWwh2YIPnBLJ5rpa) | 2:30 | 2022-08-05 |  |
 | [In Collusion with the Waves](https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [The Ever Shifting Fields](https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL) | 4:37 | 2019-05-26\* | 2020-08-07 |
 | [In Every Heartbeat](https://open.spotify.com/track/5OqkQteQRQBSZeQXBbY7a6) | [Axione](https://open.spotify.com/artist/29wsDWZgbwNUfV26q33dmC) | [In Every Heartbeat](https://open.spotify.com/album/3tcB4ANe71Utx6e1hsPdjb) | 2:42 | 2022-01-19 |  |
 | [In Search of Wonder](https://open.spotify.com/track/3BLMQuMGnw4MZr4CtcdNFf) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Departure Lounge](https://open.spotify.com/album/1L14xBM4jEKPRItVqzj0ok) | 4:16 | 2019-07-31 | 2019-09-11 |

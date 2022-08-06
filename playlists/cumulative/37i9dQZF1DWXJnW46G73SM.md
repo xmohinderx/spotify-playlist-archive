@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: احمد كامل
 
-186 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+187 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [El Youm El Helw Dah](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Youm El Helw Dah](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2022-07-19 |  |
 | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu) | [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6), [Mohamed Osama](https://open.spotify.com/artist/1cODd5riWEV19DpwGut4CN) | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/album/5jjujcUlw3FwkINsaodz71) | 2:41 | 2021-12-23 | 2022-03-10 |
 | [Elly Zaker Zaker](https://open.spotify.com/track/0Ce7jJOCcd1imFqlWLmlBM) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Elly Zaker Zaker](https://open.spotify.com/album/5tloHVAC16WrzNmlCxxZxd) | 3:56 | 2021-12-23 | 2022-02-18 |
+| [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enta Ekhtyar \(From Bhabak Movie\)](https://open.spotify.com/album/0os60GScuoNH6G53ga73IE) | 4:48 | 2022-08-05 |  |
 | [Enta Farha](https://open.spotify.com/track/19qnUPYxZsmCZjJOriB7P3) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Enta Farha](https://open.spotify.com/album/1iI8jMST3BCkWVZTTL0a7T) | 4:52 | 2021-12-23 | 2022-02-18 |
 | [Enty El Oula \- Wahda Gdida](https://open.spotify.com/track/64dIa8xKPzMuuIEv1wMFcz) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Enty El Oula \(Wahda Gdida\)](https://open.spotify.com/album/6rTccCjxDyaQ66femjuaHv) | 2:46 | 2022-03-24 | 2022-07-15 |
 | [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 | 2022-07-07 |  |

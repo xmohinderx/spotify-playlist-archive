@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 250004,
       "name": "Bailalo",
       "url": "https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j"
@@ -5199,6 +5199,28 @@
       "duration_ms": 501207,
       "name": "Tusi Quiere Vol 2",
       "url": "https://open.spotify.com/track/6PFcqAASJqKW8RumgjtsPN"
+    },
+    {
+      "album": {
+        "name": "Una Movie",
+        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
+      },
+      "artists": [
+        {
+          "name": "Rickstarr",
+          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+        },
+        {
+          "name": "JoeyTheGawd",
+          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150471,
+      "name": "Una Movie",
+      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
     },
     {
       "album": {

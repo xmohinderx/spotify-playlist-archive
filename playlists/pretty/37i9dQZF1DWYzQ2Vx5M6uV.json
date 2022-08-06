@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 96575,
+  "num_followers": 96617,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMDM0YTAxYzA4MDZjYjJmOTZhMzg3MThkYmNhM2UyMzUy",
+  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMDU1NTliZjRkNzgwZjkzYzYxOTlhMTcxZGVlYzk3YzQ2",
   "tracks": [
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1073,26 +1073,6 @@
       "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
-        "name": "Rover (feat. Piso 21)",
-        "url": "https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Rover (feat. Piso 21)",
-      "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
-    },
-    {
       "added_at": "2022-06-03 04:01:17",
       "album": {
         "name": "Ladies First",
@@ -1131,6 +1111,26 @@
       "duration_ms": 158956,
       "name": "Like a Queen - Remix",
       "url": "https://open.spotify.com/track/34CKU5kPRpvJPCqBZ5224w"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "Rover (feat. Piso 21)",
+        "url": "https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211250,
+      "name": "Rover (feat. Piso 21)",
+      "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
     },
     {
       "added_at": "2022-05-12 19:39:03",

@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Paulin da Capital, Mc Dricka",
-  "num_followers": 31273,
+  "num_followers": 31322,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMGU5NTBhZTgzOTc5MjFkMTdmNjMxNGY1Zjk4NzQzMjZm",
+  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMDVjODAyZGVhZTc1MTBmNTJhNjE0OTFkNDZjMjI5ZmU0",
   "tracks": [
     {
       "added_at": "2022-07-08 03:01:00",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Dubl\u00ea de Marido",
-        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Dubl\u00ea de Marido",
-      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "\u00c9 o Trem!",
         "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 120046,
       "name": "N\u00e3o faz isso Comigo n\u00e3o",
       "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Dubl\u00ea de Marido",
+        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Dubl\u00ea de Marido",
+      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
     },
     {
       "added_at": "2022-07-08 03:01:00",

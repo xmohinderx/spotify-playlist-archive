@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Pomme
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,825 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,820 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 26 | [Lundi au Lundi](https://open.spotify.com/track/6aphfKrq5Iirl1iNRP7WdL) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Lundi au Lundi](https://open.spotify.com/album/4gbl5DjpiZhaRbFyvRIhKA) | 2:41 |
 | 27 | [PCS](https://open.spotify.com/track/3IKfH3GeCRiSoj4kDpkkdG) | [BabySolo33](https://open.spotify.com/artist/6OpHYcuQqOouW8AEwGc7SL) | [PCS](https://open.spotify.com/album/3f8OW0pdsYzi5GCAXM5YAx) | 2:25 |
 | 28 | [Maladroit](https://open.spotify.com/track/4RFlWLFJwCYwveI46Hdf7z) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Maladroit](https://open.spotify.com/album/4aORDZeFDjW6YzUlEGNz3s) | 2:24 |
-| 29 | [Doucement](https://open.spotify.com/track/1AMe1fpZ2okM8gIdL7iBT9) | [AMELY](https://open.spotify.com/artist/1ZjMt2JJguTMAqvZwRqRNx) | [Doucement](https://open.spotify.com/album/4yzx8KbNlNG1FiktkSPKeP) | 2:40 |
-| 30 | [Starbucks](https://open.spotify.com/track/7kHaEXl42wgQuTa7wl6LFV) | [Morgan](https://open.spotify.com/artist/6sGG5B6oUd8P9FCOtpV97c) | [Brikabrak, Vol.1](https://open.spotify.com/album/0AyQKNQbjWima7HEBgl4nM) | 0:44 |
-| 31 | [Calma](https://open.spotify.com/track/2jll0FYneJFAFcJaZm2GmQ) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Calma](https://open.spotify.com/album/1NK1v7nfbyeEPt18ZbxpFi) | 3:04 |
-| 32 | [NGR](https://open.spotify.com/track/7ymzr1whi9W2ZbL6JX7Ygi) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [NGR](https://open.spotify.com/album/1MtL34RQ5kbc9smWBp956Z) | 2:56 |
-| 33 | [Plus la meme](https://open.spotify.com/track/1XlT7kSK0ISuDMCDhiJQ4w) | [CHERYN AH](https://open.spotify.com/artist/02nADk5pNMk2KsO7QW9Gd5) | [Plus la meme](https://open.spotify.com/album/65WimIdylrtHRDnF7w6UJ5) | 2:34 |
-| 34 | [Café](https://open.spotify.com/track/3VUx8QNifEyi4PgIl0pelw) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [37 degrés](https://open.spotify.com/album/1W1AHlF0ZqSHy1NnVP7DWP) | 2:31 |
-| 35 | [Ma moitié](https://open.spotify.com/track/5cc8kWoW6SecUjRfGMel8w) | [Inèss Parks](https://open.spotify.com/artist/6O0ieEx4E2r2gEwHiXYT6x) | [Ma moitié](https://open.spotify.com/album/0rjNQPfLnySfSJbystUvSe) | 3:02 |
-| 36 | [NOCHE](https://open.spotify.com/track/5hUQtYvMKGP2iqBs1pCrKY) | [SARA SOFIA](https://open.spotify.com/artist/1gpoxohUsapx6qpKkyOCWL) | [Noche](https://open.spotify.com/album/63mLRn0hc6WDFxiotneQPz) | 2:42 |
-| 37 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 |
-| 38 | [Bébé](https://open.spotify.com/track/4l8fvUp5kYt83NTAU9MY3S) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Bébé](https://open.spotify.com/album/75DRDJC5XikqlK93FtFS3Y) | 2:14 |
-| 39 | [Benti](https://open.spotify.com/track/2czmqUI8rI4bhaEmhk4gkk) | [Biaziouka](https://open.spotify.com/artist/6hYHx2DaFd4QyiKNBs2UT8) | [Benti](https://open.spotify.com/album/6LHkEqJNjns3qj2HcFQK3n) | 2:58 |
+| 29 | [C'est chelou](https://open.spotify.com/track/6pgH24QHnJF9vS10Un52z7) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [C'est chelou](https://open.spotify.com/album/1b1nMEfygA0ri4WF5V9NcB) | 3:16 |
+| 30 | [Doucement](https://open.spotify.com/track/1AMe1fpZ2okM8gIdL7iBT9) | [AMELY](https://open.spotify.com/artist/1ZjMt2JJguTMAqvZwRqRNx) | [Doucement](https://open.spotify.com/album/4yzx8KbNlNG1FiktkSPKeP) | 2:40 |
+| 31 | [Starbucks](https://open.spotify.com/track/7kHaEXl42wgQuTa7wl6LFV) | [Morgan](https://open.spotify.com/artist/6sGG5B6oUd8P9FCOtpV97c) | [Brikabrak, Vol.1](https://open.spotify.com/album/0AyQKNQbjWima7HEBgl4nM) | 0:44 |
+| 32 | [Calma](https://open.spotify.com/track/2jll0FYneJFAFcJaZm2GmQ) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Calma](https://open.spotify.com/album/1NK1v7nfbyeEPt18ZbxpFi) | 3:04 |
+| 33 | [NGR](https://open.spotify.com/track/7ymzr1whi9W2ZbL6JX7Ygi) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [NGR](https://open.spotify.com/album/1MtL34RQ5kbc9smWBp956Z) | 2:56 |
+| 34 | [Plus la meme](https://open.spotify.com/track/1XlT7kSK0ISuDMCDhiJQ4w) | [CHERYN AH](https://open.spotify.com/artist/02nADk5pNMk2KsO7QW9Gd5) | [Plus la meme](https://open.spotify.com/album/65WimIdylrtHRDnF7w6UJ5) | 2:34 |
+| 35 | [Café](https://open.spotify.com/track/3VUx8QNifEyi4PgIl0pelw) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [37 degrés](https://open.spotify.com/album/1W1AHlF0ZqSHy1NnVP7DWP) | 2:31 |
+| 36 | [Ma moitié](https://open.spotify.com/track/5cc8kWoW6SecUjRfGMel8w) | [Inèss Parks](https://open.spotify.com/artist/6O0ieEx4E2r2gEwHiXYT6x) | [Ma moitié](https://open.spotify.com/album/0rjNQPfLnySfSJbystUvSe) | 3:02 |
+| 37 | [NOCHE](https://open.spotify.com/track/5hUQtYvMKGP2iqBs1pCrKY) | [SARA SOFIA](https://open.spotify.com/artist/1gpoxohUsapx6qpKkyOCWL) | [Noche](https://open.spotify.com/album/63mLRn0hc6WDFxiotneQPz) | 2:42 |
+| 38 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 |
+| 39 | [Bébé](https://open.spotify.com/track/4l8fvUp5kYt83NTAU9MY3S) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Bébé](https://open.spotify.com/album/75DRDJC5XikqlK93FtFS3Y) | 2:14 |
+| 40 | [Benti](https://open.spotify.com/track/2czmqUI8rI4bhaEmhk4gkk) | [Biaziouka](https://open.spotify.com/artist/6hYHx2DaFd4QyiKNBs2UT8) | [Benti](https://open.spotify.com/album/6LHkEqJNjns3qj2HcFQK3n) | 2:58 |
 
-Snapshot ID: `MTY1OTQ3NzYwMCwwMDAwMDAwMDQ1YWZkOTllNDE2MTA0ZjQ2MWE3ZjJmZWIwZWY2M2E4`
+Snapshot ID: `MTY1OTQ3NzYwMCwwMDAwMDAwMDcwYTg1NDg5NTA4MjI4MjY0MTNhYmVkNjk0MzFjM2Nl`

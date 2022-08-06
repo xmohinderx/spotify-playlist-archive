@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. ",
-  "num_followers": 2141130,
+  "num_followers": 2141172,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcyNjU5OCwwMDAwMDAwMDQ0YTE2MzA4YjAzNDVkMDY5OTMyYTRlZGJjN2VhMWRk",
+  "snapshot_id": "MTY1NDcyNjU5OCwwMDAwMDAwMGEyMzlmNzI4NmFmZmFjYjUwYjBlYzVlNzQ1MmMxMmRl",
   "tracks": [
     {
       "added_at": "2022-06-08 21:04:07",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
+        "name": "The Oh Hellos EP",
+        "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 256006,
+      "name": "Hello My Old Heart",
+      "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
-        "name": "The Oh Hellos EP",
-        "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 256006,
-      "name": "Hello My Old Heart",
-      "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Sense of Home",
-        "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Sense of Home",
-      "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "Sense of Home",
+        "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Sense of Home",
+      "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Without/Within",
-        "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 304493,
-      "name": "Sophie",
-      "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "Without/Within",
+        "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 304493,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Only Time",
         "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 178546,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Location 13 (Deluxe Version)",
         "url": "https://open.spotify.com/album/79SDUqJy7ucLKD0nfXJaVB"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 255191,
       "name": "Letter to Lady J",
       "url": "https://open.spotify.com/track/7w8A5XvLWLVmeaVZIwa7Cn"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Floating On A Dream",
         "url": "https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 177720,
       "name": "All Is Well [Feat. Joy Williams]",
       "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "A Prayer Of My Own",
-        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 273513,
-      "name": "A Prayer Of My Own",
-      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "tidal wave",
         "url": "https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 241173,
       "name": "tidal wave",
       "url": "https://open.spotify.com/track/1qJ4G36THbntJM8w1xyLL8"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "A Prayer Of My Own",
+        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 273513,
+      "name": "A Prayer Of My Own",
+      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
+        "name": "Pieces EP",
+        "url": "https://open.spotify.com/album/3N5G5x5hRAnJ1V1BQTOJaB"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
         "name": "The Widow Knows E.P.",
         "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
@@ -2411,18 +2427,18 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Pieces EP",
-        "url": "https://open.spotify.com/album/3N5G5x5hRAnJ1V1BQTOJaB"
+        "name": "K.",
+        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh"
+      "duration_ms": 269000,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2475,18 +2491,18 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "K.",
-        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
+        "name": "Favors EP (Acoustic)",
+        "url": "https://open.spotify.com/album/4isFRpNlgWn0qSlTbCjaHX"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
         }
       ],
-      "duration_ms": 269000,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+      "duration_ms": 180706,
+      "name": "Sorrow - Acoustic",
+      "url": "https://open.spotify.com/track/6tx4jMaZBFjhBt34f84fp0"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2523,22 +2539,6 @@
       "duration_ms": 310817,
       "name": "On Board",
       "url": "https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
-        "name": "Favors EP (Acoustic)",
-        "url": "https://open.spotify.com/album/4isFRpNlgWn0qSlTbCjaHX"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Sorrow - Acoustic",
-      "url": "https://open.spotify.com/track/6tx4jMaZBFjhBt34f84fp0"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Nervous At Night",
-        "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Hickey",
-          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Planet With Water",
-      "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Answers (Acoustic)",
         "url": "https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0"
       },
@@ -2627,6 +2611,22 @@
       "duration_ms": 190229,
       "name": "Answers - Acoustic",
       "url": "https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "Nervous At Night",
+        "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Planet With Water",
+      "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
     },
     {
       "added_at": "2022-06-08 21:04:07",

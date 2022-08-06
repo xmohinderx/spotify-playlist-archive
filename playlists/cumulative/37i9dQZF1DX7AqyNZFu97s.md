@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Bonnie Kemplay
 
-460 songs - 1 day 0 hr 53 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
+461 songs - 1 day 0 hr 57 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bossfight](https://open.spotify.com/track/6jQqrQmqPKcMyZA5pbgn7x) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Pariss Elektra](https://open.spotify.com/artist/3He52zYjFhdsoNua35KzxE) | [Bossfight](https://open.spotify.com/album/2SFH3JK7MDqWnYkTF2I7mG) | 4:24 | 2022-04-20 | 2022-05-19 |
 | [Boundaries](https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [Boundaries](https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg) | 4:22 | 2022-01-19 | 2022-04-07 |
 | [Brick Phone](https://open.spotify.com/track/7oZKdKYkNL13uZ6bQfZa2j) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu) | [Brick Phone](https://open.spotify.com/album/0dLYraWUlJml3Isy4Ta7Iw) | 3:38 | 2022-07-20 |  |
+| [but my sister](https://open.spotify.com/track/4NHGE6ml5ymmtYJgncrWNm) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [but my sister](https://open.spotify.com/album/6iGobvJdiBpAwORj4E23xy) | 3:28 | 2022-08-03 |  |
 | [c.w.u.c](https://open.spotify.com/track/1zZo5HS1jPKm0yWcrL7gxy) | [Voidie](https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN) | [c.w.u.c](https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C) | 2:41 | 2022-06-22 | 2022-08-04 |
 | [cabin fever](https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [cabin fever](https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6) | 1:13 | 2022-04-06 | 2022-06-30 |
 | [Cafe Continental](https://open.spotify.com/track/0iNrI2EzEGbMatPV7W5Fvl) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Cafe Continental](https://open.spotify.com/album/2LLqdRr7QcyGcLSGPtNM7j) | 3:35 | 2022-08-03 |  |

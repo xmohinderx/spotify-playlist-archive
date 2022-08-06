@@ -4684,6 +4684,32 @@
     },
     {
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/2comQ96pDfUCwDlTqFV8WC"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Dark Cities",
+          "url": "https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/5P4PzDLNkoMI8JI9CT7Hmi"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo"
+    },
+    {
+      "album": {
         "name": "Renegade Master (Back Once Again) [Volac Remix]",
         "url": "https://open.spotify.com/album/2PVmLFvkSWx9yblbSXCPCY"
       },

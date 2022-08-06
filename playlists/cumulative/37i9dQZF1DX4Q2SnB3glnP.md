@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-232 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+233 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Just Because](https://open.spotify.com/track/7iPyN8KKPycEdDIDvtvUdJ) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Just Because](https://open.spotify.com/album/3721Y3lIW8EZKyHDxntnoP) | 2:51 | 2021-12-08 |  |
 | [Kyoto 5 AM](https://open.spotify.com/track/0lJAlB8iVsp6Y99MnTjlu8) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Kyoto 5 AM](https://open.spotify.com/album/1fwFa6VhMpBZpYboapGASG) | 2:34 | 2021-12-08 |  |
 | [La Lune](https://open.spotify.com/track/2CaJTDQRm5mss61P0dm6OE) | [Cécile Theroux](https://open.spotify.com/artist/2t2cTHZOCw0iz30wBxeTyh) | [La Lune](https://open.spotify.com/album/5P9kFLcgUPazvp1sBXWCqs) | 2:52 | 2022-02-03 |  |
+| [Lemuria](https://open.spotify.com/track/3U10BbfZtZxMmiaEVuievr) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Awaken](https://open.spotify.com/album/39Ip3deSTOqNZzSRc8kSsm) | 2:47 | 2022-08-05 |  |
 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 3:56 | 2021-12-08 |  |
 | [Light Wings](https://open.spotify.com/track/35InIo8y15nRhxFhXlE9KG) | [Darlan Vado](https://open.spotify.com/artist/5V2NXfQ1354qTgxy8r00kl) | [Light Wings](https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2) | 2:24 | 2021-12-08 |  |
 | [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Lightning Free](https://open.spotify.com/artist/5gKstbAvksymwjaGWknRH9) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 | 2021-12-08 | 2022-04-22 |

@@ -1,29 +1,13 @@
 {
-  "description": "Genre-less. Quality first always. Cover: DOMi & JD BECK",
-  "num_followers": 1327707,
+  "description": "Genre-less. Quality first always. Cover: KAYTRANADA",
+  "num_followers": 1328506,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUzMzcxMiwwMDAwMDAwMDFhNzNlMTA0YWQ5YzA4NWI4ODhmYWVlYzIxMTkzYzc1",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGYzOWUyOTVkOWMyOTc2ODVhNmYxNDA2YTJmNzlhZjU1",
   "tracks": [
-    {
-      "added_at": "2022-08-03 13:29:30",
-      "album": {
-        "name": "candy reign (!)",
-        "url": "https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "candy reign (!)",
-      "url": "https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE"
-    },
     {
       "added_at": "2022-08-03 13:35:12",
       "album": {
@@ -45,20 +29,60 @@
       "url": "https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
+      "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Hard to Let Go",
-        "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 247615,
-      "name": "Hard to Let Go",
-      "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
+      "duration_ms": 263360,
+      "name": "I Love You More Than You Know (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "duration_ms": 163021,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
+    },
+    {
+      "added_at": "2022-08-03 13:29:30",
+      "album": {
+        "name": "candy reign (!)",
+        "url": "https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "candy reign (!)",
+      "url": "https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -79,6 +103,102 @@
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Rainbow Tables (feat. Biig Piig)",
+        "url": "https://open.spotify.com/album/2iEDOlUmd5O0SYLdIdwy8M"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 183199,
+      "name": "Rainbow Tables (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/2XpohxcjYvNerUpTrjefcP"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Pigeons & Planes & Big.Ass.Kids present: See You Next Year",
+        "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
+      },
+      "artists": [
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 152116,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/4LEjWglTBWv0YVZ64CepPO"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Hard to Let Go",
+        "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 247615,
+      "name": "Hard to Let Go",
+      "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 257424,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -115,6 +235,30 @@
       "duration_ms": 119999,
       "name": "BOWLiNG (feat. Thundercat)",
       "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Spinal Tap",
+        "url": "https://open.spotify.com/album/1WmKwevODNmF9wJ1fxQ5LD"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        },
+        {
+          "name": "Deem Spencer",
+          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
+        },
+        {
+          "name": "Michael Wolever",
+          "url": "https://open.spotify.com/artist/4UegsLqcGpx2enxOUqmOyH"
+        }
+      ],
+      "duration_ms": 208053,
+      "name": "Spinal Tap",
+      "url": "https://open.spotify.com/track/4sKEEaJdIlz9M5OOD63gEe"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -901,22 +1045,6 @@
       "url": "https://open.spotify.com/track/0z7mJ4dACjuoBqH7RC3mbm"
     },
     {
-      "added_at": "2022-07-01 05:42:11",
-      "album": {
-        "name": "Cloudy",
-        "url": "https://open.spotify.com/album/5WvztQo4j7Faf25GIGxSNW"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 411818,
-      "name": "Cloudy",
-      "url": "https://open.spotify.com/track/47aSZv8FWDnGRtWnFItGzT"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Stuck In The Middle",
@@ -979,22 +1107,6 @@
       "duration_ms": 142666,
       "name": "Selfish Soul",
       "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2022-06-21 12:11:05",
-      "album": {
-        "name": "Come For Me",
-        "url": "https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 224874,
-      "name": "Come For Me",
-      "url": "https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1221,24 +1333,8 @@
         }
       ],
       "duration_ms": 224933,
-      "name": "Where I\u2019m From (feat. Mereba)",
+      "name": "Where I'm From (feat. Mereba)",
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
     },
     {
       "added_at": "2022-05-25 15:28:13",
@@ -1505,22 +1601,6 @@
       "url": "https://open.spotify.com/track/1jhdCONafFj1hzJsPvZx27"
     },
     {
-      "added_at": "2022-05-06 16:01:18",
-      "album": {
-        "name": "Web",
-        "url": "https://open.spotify.com/album/2P0ebrotEYGBlrTn7cKC1E"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 126151,
-      "name": "Web",
-      "url": "https://open.spotify.com/track/4C79MQWKw9ov99q8AXXBpe"
-    },
-    {
       "added_at": "2022-05-06 04:01:00",
       "album": {
         "name": "Grotto",
@@ -1543,26 +1623,6 @@
       "duration_ms": 155784,
       "name": "If Possible",
       "url": "https://open.spotify.com/track/6Mnam5P5Y6HANmqQGXPgHS"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "NAUGHTY DOG",
-        "url": "https://open.spotify.com/album/58NX2JGkFppV0NQJqv0yEp"
-      },
-      "artists": [
-        {
-          "name": "COUCOU CHLOE",
-          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
-        },
-        {
-          "name": "Lederrick",
-          "url": "https://open.spotify.com/artist/7wT0a0iOAuvNC6tXUav7Xt"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "WAITING",
-      "url": "https://open.spotify.com/track/3N39a63azXQRQ4S9tGVtGb"
     },
     {
       "added_at": "2022-05-06 04:01:00",
@@ -1599,22 +1659,6 @@
       "duration_ms": 230000,
       "name": "chem bath",
       "url": "https://open.spotify.com/track/6lqdNLE6pMZ3eFX8TlY1XS"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/0rlIVUflILXZZCXWtYHRuc"
-      },
-      "artists": [
-        {
-          "name": "Nate Brazier",
-          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
-        }
-      ],
-      "duration_ms": 159852,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/7qLrWXTgPdE2Sw3zTnhe67"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1749,42 +1793,6 @@
       "url": "https://open.spotify.com/track/7dy6iHSh6j2Kd21Tk9s2y7"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-03-11 05:11:12",
-      "album": {
-        "name": "Who Am I But Someone",
-        "url": "https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 162379,
-      "name": "Who Am I But Someone",
-      "url": "https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA"
-    },
-    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "Bluff",
@@ -1799,42 +1807,6 @@
       "duration_ms": 187167,
       "name": "Bluff",
       "url": "https://open.spotify.com/track/5P5xuOwnMwaTY38yT8laSl"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "RAMONA PARK BROKE MY HEART",
-        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 179674,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "Blood in the Snow",
-        "url": "https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 286133,
-      "name": "Blood In The Snow",
-      "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
     }
   ],
   "unique_name": "POLLEN",

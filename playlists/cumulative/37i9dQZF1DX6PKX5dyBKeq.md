@@ -4,7 +4,7 @@
 
 > The best of UK Rap & Drill\.  Cover: Headie One, Bandokay & Abra Cadabra
 
-1,141 songs - 2 day 10 hr 57 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
+1,142 songs - 2 day 11 hr 0 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -755,6 +755,7 @@
 | [OT](https://open.spotify.com/track/72Ygf54e183dVuRD3fu2as) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [OT](https://open.spotify.com/album/7bB808PXQ5X33QEqPiyEXL) | 2:15 | 2021-12-03 | 2022-03-09 |
 | [Out In The O](https://open.spotify.com/track/6O5IFn25x2UsSjDzkhGaJo) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Out In The O](https://open.spotify.com/album/65vlxXW8XRny2aaCOXStT4) | 2:16 | 2022-06-16 |  |
 | [Outcome](https://open.spotify.com/track/2q6vrESx360IzxFBQjuyCy) | [Vic Santoro](https://open.spotify.com/artist/35KDE2KSa0OKt1iyWG3azS) | [Pain: Glory Days, Pt\. 1](https://open.spotify.com/album/15ZLm5lFwBseYq36p3gX1u) | 2:40 | 2021-02-27 | 2021-03-26 |
+| [Outplayed](https://open.spotify.com/track/2C5uNQSSIMwwzRel5pPgha) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Outplayed](https://open.spotify.com/album/6wlmcFPJTTKQOqvxH4TjhS) | 3:13 | 2022-08-04 |  |
 | [OUTTIE](https://open.spotify.com/track/6tpexQbea9dfCfbbpwp1B3) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [OUTTIE](https://open.spotify.com/album/2AKnMUdKA2f5xZ2NciFLHJ) | 2:29 | 2020-07-11 | 2020-08-01 |
 | [Overpriced](https://open.spotify.com/track/7sV2u9PuacBt62EgwqAPFC) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Overpriced](https://open.spotify.com/album/62ZHVbE8x65GyJvztZDInF) | 2:10 | 2021-02-20 | 2021-04-17 |
 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 | 2021-11-23 | 2022-05-28 |

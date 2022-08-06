@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 
 > The jazz giant's classic recordings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,044 likes - 50 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,075 likes - 50 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 39 | [Moment's Notice \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 9:10 |
 | 40 | [Lush Life \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 13:57 |
 | 41 | [Alabama \- Live At Birdland Jazzclub, New York City, NY, 10/18/1963](https://open.spotify.com/track/013grywiX7Qu6WVfnJ1opa) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU) | 5:08 |
-| 42 | [Blue Train \- Remastered 2003](https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 10:44 |
+| 42 | [Blue Train \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 10:44 |
 | 43 | [My Shining Hour](https://open.spotify.com/track/38DgLl4Cm6tU7wKyB6ZykE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 4:48 |
 | 44 | [All of You \- Live from Olympia Theatre, Paris \- March 1960](https://open.spotify.com/track/6Qpke1nLtW5lciSvWy87KS) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Final Tour: The Bootleg Series, Vol\. 6](https://open.spotify.com/album/3p6XK8PERkujtV6MRu7QH3) | 17:05 |
 | 45 | [You Leave Me Breathless](https://open.spotify.com/track/0Y6BbUaS6TfTrB2ZqtprnR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Turning Point](https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96) | 7:25 |

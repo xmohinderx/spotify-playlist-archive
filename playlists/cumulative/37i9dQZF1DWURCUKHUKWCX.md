@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-145 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+149 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [October](https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [October](https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db) | 2:57 | 2021-12-10 |  |
 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 | 2022-01-28 |  |
 | [oku](https://open.spotify.com/track/0dh69TWktsQtq1JWheVpHZ) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [april \- tree](https://open.spotify.com/album/6gdxaCujfNt2szV6FXV4ps) | 2:25 | 2021-12-10 |  |
+| [One Look \- Solo Piano Version](https://open.spotify.com/track/7jooXsI76dcqjmcU9QV8K7) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [One Look \(Solo Piano Version\)](https://open.spotify.com/album/05Mf7iiPdcr8UH5URzCUfC) | 3:18 | 2022-08-05 |  |
 | [Only in the Dark](https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity \(Special Edition\)](https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW) | 3:29 | 2021-12-10 |  |
 | [Open](https://open.spotify.com/track/4ugw9mC5cuaKBE02AixcRi) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [More Heart Stories](https://open.spotify.com/album/7G4DNoOqNOXIp8YDqt9nYi) | 3:02 | 2021-12-10 |  |
 | [Opus 18 \- Silfur Version](https://open.spotify.com/track/0iWEx7UUUFMZ2Vtf2x99PS) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Opus 18 \(Silfur Version\)](https://open.spotify.com/album/04phqZnlwfgnX8a7jLQi8M) | 3:31 | 2021-12-10 |  |
@@ -131,6 +132,8 @@
 | [Still Life](https://open.spotify.com/track/0zJmKWFxWOw61bWy8HWnPt) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Still Life](https://open.spotify.com/album/6R5tp7dLEAqPUwYsqerNFg) | 3:22 | 2022-04-08 | 2022-07-29 |
 | [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 | 2022-07-22 |  |
 | [Story of You](https://open.spotify.com/track/2NYXYakw0PmjrRr91V3jk3) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Life As We Know It](https://open.spotify.com/album/7osNPv4ZRIj0fhcs5H9PkT) | 2:19 | 2021-12-10 |  |
+| [Summer 1987.](https://open.spotify.com/track/2k7pE7D98DMSXaLc57tsG1) | [Christian.](https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV) | [Summer 1987.](https://open.spotify.com/album/4DXELJ6zegvkSUFDmYKKRv) | 2:59 | 2022-08-05 |  |
+| [Sun Prelude](https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Sun Prelude](https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK) | 2:34 | 2022-08-05 |  |
 | [Suspire](https://open.spotify.com/track/2zKqrmNdj8oIgzBnLWBumi) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Suspire](https://open.spotify.com/album/6nhSCmmNv2XicER2xdJlv9) | 2:13 | 2021-12-10 |  |
 | [That Feeling, Though](https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [That Feeling, Though](https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1) | 1:31 | 2021-12-10 |  |
 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 | 2021-12-10 |  |
@@ -141,6 +144,7 @@
 | [Time Spent](https://open.spotify.com/track/3ZLzPbSOw4OfVqa5zyEWCu) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Owl Splinters](https://open.spotify.com/album/0UCWmdeObrNjjW92mA6bRn) | 2:09 | 2021-12-10 |  |
 | [Transience](https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/2AL2HensOEJzbPA6rsfJIE) | 2:59 | 2022-07-22 |  |
 | [Transience](https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA) | 2:59 | 2021-12-10 | 2022-07-29 |
+| [Transparency](https://open.spotify.com/track/7sQnDcPTyqL2RwtHr2GvR9) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Transparency](https://open.spotify.com/album/10mnMUjzyNxneRsoHzah7q) | 2:45 | 2022-08-05 |  |
 | [Triptych 1 for Piano](https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/3kPnyIFFsaowlybyuN9krj) | 2:39 | 2021-12-10 | 2022-07-29 |
 | [Triptych 1 for Piano](https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6) | 2:39 | 2022-07-22 |  |
 | [Triptych III for Piano](https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych III for Piano](https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4) | 3:21 | 2022-05-25 |  |

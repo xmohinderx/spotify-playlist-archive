@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-78 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+79 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Ripples \(Echoes\)](https://open.spotify.com/track/4WRgRrmrD0WWBB9O8MNO9g) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 2:54 | 2022-06-10 |  |
 | [Rising Fog](https://open.spotify.com/track/3fndeX9142XIUH7qySaGMc) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 3:18 | 2022-07-22 |  |
 | [Sacred Mountain](https://open.spotify.com/track/6qzS70K6z2XDu4bCwKVa50) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 2:47 | 2022-07-22 |  |
+| [Second Sleep](https://open.spotify.com/track/6pGsdGElugsC8HygWqcSSK) | [S\. Salter](https://open.spotify.com/artist/1rr2n5xm79tKtt2vAANMGB) | [Second Sleep](https://open.spotify.com/album/54DvTHvJ5QG5c0F7B5YAZe) | 3:38 | 2022-08-05 |  |
 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 | 2022-07-01 |  |
 | [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 | 2022-07-22 |  |
 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 | 2022-06-10 |  |

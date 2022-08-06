@@ -1,29 +1,13 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal jazz.",
-  "num_followers": 7572,
+  "num_followers": 7605,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkwNTgyMSwwMDAwMDAwMGVkNDk5Y2UwZWRlYzllMTQ4YWE3YzgxYmM5ZDBmMGUz",
+  "snapshot_id": "MTY1NTkwNTgyMSwwMDAwMDAwMDU2MmU2ZjM5YzlhNDlhNjNlYzA3OWI5MGE5ZTJhMDYz",
   "tracks": [
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
-    },
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 182426,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/4ojZuJ575GlwN2weuWDr8z"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
+        "name": "New York Jazz",
+        "url": "https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
         "name": "Sonny Rollins With The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 197893,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL"
-    },
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
-        "name": "New York Jazz",
-        "url": "https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 402799,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
-    },
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
         "name": "Gettin' Together!",
         "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 245906,
       "name": "I Cover The Waterfront",
       "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 402799,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9"
-    },
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 266226,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
+      "duration_ms": 201173,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -451,6 +435,22 @@
       "duration_ms": 287400,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "All the Things You Are",
-      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
-    },
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
         "name": "Plays Monk",
         "url": "https://open.spotify.com/album/7gIeXaWDihgMi7s925uq4A"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 407293,
       "name": "I Mean You",
       "url": "https://open.spotify.com/track/1bOLFHXStwdSHAdz412vMG"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 351280,
+      "name": "All the Things You Are",
+      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -703,6 +703,30 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Peri's Scope",
+      "url": "https://open.spotify.com/track/5qAqBkA9qT0kpV1m8Sccc4"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -715,22 +739,6 @@
       "duration_ms": 304373,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/6uoJ2NJAwM4ypScoRbGZyR"
-    },
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
-        "name": "Plays Duke Ellington (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/2WpT885yJAIWvglqFcmN8u"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 356306,
-      "name": "Caravan",
-      "url": "https://open.spotify.com/track/3VIXUEBg2YkGwBMpTPMBXa"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -751,18 +759,18 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Quiet Kenny",
-        "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
+        "name": "Plays Duke Ellington (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/2WpT885yJAIWvglqFcmN8u"
       },
       "artists": [
         {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 524346,
-      "name": "Blue Friday - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
+      "duration_ms": 356306,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/3VIXUEBg2YkGwBMpTPMBXa"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -791,6 +799,22 @@
       "duration_ms": 365304,
       "name": "S.N.C.F.",
       "url": "https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 524346,
+      "name": "Blue Friday - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -827,30 +851,6 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Portrait In Jazz [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Scott LaFaro",
-          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Peri's Scope",
-      "url": "https://open.spotify.com/track/5qAqBkA9qT0kpV1m8Sccc4"
-    },
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 320920,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -895,34 +911,6 @@
       "duration_ms": 172800,
       "name": "Moten Swing",
       "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
-    },
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        },
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        },
-        {
-          "name": "Reginald Workman",
-          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
-        },
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 435440,
-      "name": "Night Dreamer - Remastered 2004",
-      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -979,18 +967,30 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        },
+        {
+          "name": "Reginald Workman",
+          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
+        },
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
         }
       ],
-      "duration_ms": 320920,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
+      "duration_ms": 435440,
+      "name": "Night Dreamer - Remastered 2004",
+      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "You Better Know It!!!",
-        "url": "https://open.spotify.com/album/6uGX7ozBLgPKWwKEhxm5pV"
+        "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
       },
       "artists": [
         {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
         }
       ],
-      "duration_ms": 307813,
-      "name": "Vibraphone Blues",
-      "url": "https://open.spotify.com/track/1ClCgQ5wG7US1Q8U7YOokD"
+      "duration_ms": 404826,
+      "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
+        "name": "You Better Know It!!!",
+        "url": "https://open.spotify.com/album/6uGX7ozBLgPKWwKEhxm5pV"
       },
       "artists": [
         {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
         }
       ],
-      "duration_ms": 404826,
-      "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
+      "duration_ms": 307813,
+      "name": "Vibraphone Blues",
+      "url": "https://open.spotify.com/track/1ClCgQ5wG7US1Q8U7YOokD"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Dear John C.",
-        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY"
-    },
-    {
-      "added_at": "2022-06-22 13:50:21",
-      "album": {
         "name": "Paper Moon",
         "url": "https://open.spotify.com/album/1zjtMS9M1eGoY7KyMW71qf"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 318266,
       "name": "I Thought About You",
       "url": "https://open.spotify.com/track/7w68AfSG7PL0oGcpzEcOiM"
+    },
+    {
+      "added_at": "2022-06-22 13:50:21",
+      "album": {
+        "name": "Dear John C.",
+        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Lee Konitz Meets Jimmy Giuffre",
-        "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
+        "name": "Cannonball Adderley Quintet In Chicago",
+        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Uncharted",
-      "url": "https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt"
+      "duration_ms": 374840,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO"
     },
     {
       "added_at": "2022-06-22 13:50:21",
@@ -1607,18 +1603,22 @@
     {
       "added_at": "2022-06-22 13:50:21",
       "album": {
-        "name": "Cannonball Adderley Quintet In Chicago",
-        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
+        "name": "Lee Konitz Meets Jimmy Giuffre",
+        "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
       },
       "artists": [
         {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
         }
       ],
-      "duration_ms": 374840,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO"
+      "duration_ms": 235266,
+      "name": "Uncharted",
+      "url": "https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt"
     },
     {
       "added_at": "2022-06-22 13:50:21",

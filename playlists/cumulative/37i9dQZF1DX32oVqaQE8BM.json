@@ -5982,6 +5982,24 @@
     },
     {
       "album": {
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/0NuHwK3Ccryt0IzizdTbCa"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120078,
+      "name": "Tropical",
+      "url": "https://open.spotify.com/track/2hSUN6d9ol5CY1thW0FRMe"
+    },
+    {
+      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/11d1hmnrZGXQHM8LSsHXMr"
       },

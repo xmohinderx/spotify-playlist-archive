@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-132 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
+133 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Olancha Farewell](https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 2:18 | 2021-12-22 |  |
 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 | 2022-04-20 |  |
 | [On the Other Ocean](https://open.spotify.com/track/46UxS78qOWfuMhXEVN3dYb) | [David Behrman](https://open.spotify.com/artist/3yX5L54KNk0sSmBscmv1Bv) | [Late Night Tales: Belle and Sebastian, Vol\. 2](https://open.spotify.com/album/4Is3XZYpVDmda45V81MO5b) | 6:50 | 2021-12-22 |  |
+| [Only in the Dark](https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity \(Special Edition\)](https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW) | 3:29 | 2022-08-05 |  |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2021-12-22 |  |
 | [Photo With Grey Sky, White Clouds](https://open.spotify.com/track/3xLBY0NMWZqdLCYbPqcUb6) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 8:29 | 2021-12-22 |  |
 | [Piano Aquieu](https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 10:56 | 2021-12-22 |  |

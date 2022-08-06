@@ -2,7 +2,7 @@
 
 ### [Ripple Effect:  Midwest](https://open.spotify.com/playlist/37i9dQZF1DX9Xlyj8WKw1E)
 
-> Midwest music breaking waves\. PGF NUK
+> Midwest music breaking waves\. Doe Boy
 
 196 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
 
@@ -191,7 +191,7 @@
 | [UNIFIED](https://open.spotify.com/track/4DW8dS3i7dbSbmDDC2XwKn) | [KAMI](https://open.spotify.com/artist/3BhngrEjaGAD0a8OzzFWlC), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [UNIFIED](https://open.spotify.com/album/5ea21zC5NwC6rJl0VrRJuf) | 2:25 | 2022-01-29 | 2022-03-18 |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-04-15 | 2022-07-19 |
 | [Waddup \(Swervo Mix\) \(feat\. G Herbo\)](https://open.spotify.com/track/4i1LWSslhvIyS9IKBWcxl5) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 3:32 | 2022-07-18 |  |
-| [Walk](https://open.spotify.com/track/1AhsFz02X7WPTUzWym9Tam) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Keara Alyse](https://open.spotify.com/artist/02H48vsx5HKCncQp9pJRya), [DJ Yung 1](https://open.spotify.com/artist/4DhI0jf08AoCtHTKkt1PTD) | [Walk](https://open.spotify.com/album/5UsPv8xhVsRB7htl7Bc6qj) | 2:41 | 2022-08-01 |  |
+| [Walk](https://open.spotify.com/track/1AhsFz02X7WPTUzWym9Tam) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Keara Alyse](https://open.spotify.com/artist/02H48vsx5HKCncQp9pJRya), [DJ Yung 1](https://open.spotify.com/artist/3eJ6V6TUhy1oI1hfTltu04) | [Walk](https://open.spotify.com/album/5UsPv8xhVsRB7htl7Bc6qj) | 2:41 | 2022-08-01 |  |
 | [Walked In](https://open.spotify.com/track/0H9vB4bVCnCoI39wp7fqAt) | [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [Walked In](https://open.spotify.com/album/01R8suZ0DTrsN44Z4FWIL3) | 2:48 | 2022-04-02 | 2022-04-16 |
 | [Want It Bad \(with Nigo\)](https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Want It Bad](https://open.spotify.com/album/3MuAhnruoa9XOopdaIL3JT) | 3:20 | 2022-02-18 | 2022-04-29 |
 | [War Cries](https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [War Cries](https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6) | 2:29 | 2022-06-07 |  |

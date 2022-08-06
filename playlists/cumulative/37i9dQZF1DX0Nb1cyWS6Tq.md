@@ -4,7 +4,7 @@
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-246 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
+247 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 | 2021-10-15 | 2022-07-29 |
 | [A Strange Kind of Love \(Version One\)](https://open.spotify.com/track/2vInkApeMMPyaMHD2PSp6J) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh) | 3:48 | 2021-10-15 | 2022-04-21 |
 | [A Strange Kind of Love \- Version One](https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 3:48 | 2021-10-15 |  |
+| [Acto de Fe](https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Sigilos y Decretos](https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11) | 3:50 | 2022-08-05 |  |
 | [Adrenaline](https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw) | [Rosetta Stone](https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK) | [Adrenaline](https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4) | 3:40 | 2021-10-15 | 2022-07-27 |
 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 | 2021-10-15 |  |
 | [Alice \- John Peel Session: 1982](https://open.spotify.com/track/6nefKdxxJKH9dWlDqdCXmm) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [John Peel Session: 1982](https://open.spotify.com/album/6G7TJnef3i2Yc0bj9UIwaU) | 3:31 | 2021-10-15 | 2022-07-16 |
@@ -63,7 +64,7 @@
 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 | 2021-10-15 |  |
 | [Deep Ocean Vast Sea](https://open.spotify.com/track/0K1ThRqu3v8H4fj6I5rbhZ) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh) | 4:09 | 2021-10-15 | 2022-06-03 |
 | [Deep Ocean Vast Sea](https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 4:09 | 2022-03-30 | 2022-07-28 |
-| [Desire](https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Greatest Hits, Remixes & More](https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl) | 4:22 | 2021-10-15 |  |
+| [Desire](https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Greatest Hits, Remixes & More](https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl) | 4:22 | 2021-10-15 | 2022-08-06 |
 | [Die Laughing](https://open.spotify.com/track/0hKNBbkEglW0wcTYOSLsYB) | [In Camera](https://open.spotify.com/artist/0umSdnsENFwplgS9c5Y3q9) | [13 \(Lucky For Some\)](https://open.spotify.com/album/6rQv2csyhWeUUFbAT7HUtf) | 4:38 | 2021-10-15 | 2022-07-07 |
 | [Do You Take This Man?](https://open.spotify.com/track/6U9BfQ8LYv2ofWsvZX1yyx) | [Diamanda Galás](https://open.spotify.com/artist/42AURgCa94xz79E0fxE3Ay) | [The Sporting Life](https://open.spotify.com/album/6jPJjdMdP3XPvdE8z9jS11) | 6:09 | 2021-10-15 | 2022-07-29 |
 | [Dominion / Mother Russia](https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 7:00 | 2021-10-15 |  |

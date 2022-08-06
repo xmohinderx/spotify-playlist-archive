@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-168 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+170 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-02-17 |  |
 | [From The Soul](https://open.spotify.com/track/1s5GHyLmpYuqLm1uQVoXkw) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [From The Soul](https://open.spotify.com/album/2vxJjfPTMB3fd1MUENkAK1) | 2:31 | 2022-07-22 |  |
 | [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 | 2022-04-15 |  |
+| [GHOST](https://open.spotify.com/track/2gBnFbEhYAAS34VBw3OBeY) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [GHOST](https://open.spotify.com/album/4bc7Suv6whBGOloGCIeK7x) | 2:35 | 2022-08-05 |  |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2022-06-03 |  |
 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 | 2022-06-17 |  |
 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Stratotune](https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 | 2022-05-20 |  |
@@ -174,6 +175,7 @@
 | [Watanabe](https://open.spotify.com/track/7vIxfxNI94g3qeGJ6xoJBA) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Watanabe](https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK) | 1:59 | 2021-11-11 |  |
 | [Watch Your Back](https://open.spotify.com/track/2sVVZJS9andmMIl1zg7EOj) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Watch Your Back](https://open.spotify.com/album/4PTaa4d2ehxeXGLWfXRfE5) | 2:12 | 2021-11-11 |  |
 | [Wax Poetry](https://open.spotify.com/track/2CEKenDIPepmr8rdOhfilr) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 1:57 | 2021-11-11 |  |
+| [what if](https://open.spotify.com/track/2fTviLwYcLdsLTYEve0hBL) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [what if](https://open.spotify.com/album/6lWBGR6bwzRmt6Lx4lXiFp) | 2:01 | 2022-08-05 |  |
 | [Workitout](https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Workitout](https://open.spotify.com/album/3n0ssOLM368uyujZkNkm60) | 1:52 | 2022-06-24 |  |
 | [Yoshi](https://open.spotify.com/track/4zDcINxFFVDoydWC6aTnGu) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Video Game](https://open.spotify.com/album/2gPfF174IL4VZNvvx04Sud) | 1:27 | 2021-11-11 |  |
 

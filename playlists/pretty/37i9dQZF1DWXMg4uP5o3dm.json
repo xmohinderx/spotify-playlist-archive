@@ -1,12 +1,12 @@
 {
   "description": "Alternative meets electronic. Cover: Sub Urban + BENEE",
-  "num_followers": 422156,
+  "num_followers": 422276,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc1MDc5MywwMDAwMDAwMDMzNTQwNTMzOTVjMmM3Y2ZiOWI1ZDg4MGJlZDU5NGU3",
+  "snapshot_id": "MTY1NTc1MDc5MywwMDAwMDAwMDQxMjMwOTBkNzk1ZjFkYjc3Y2U1MzBiNjlkOTIyMGVk",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Drinking with Cupid",
+        "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Drinking with Cupid",
+      "url": "https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Back from the Dead",
         "url": "https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 179016,
       "name": "Back from the Dead",
       "url": "https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Drinking with Cupid",
-        "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Drinking with Cupid",
-      "url": "https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Puppy Pound",
+        "url": "https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "Puppy Pound",
+      "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Mr Regular",
         "url": "https://open.spotify.com/album/56ivqF23LdiQ6YYRhhdfXy"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 174620,
       "name": "Mr Regular",
       "url": "https://open.spotify.com/track/1P4zbuZbTKc12UxXXZJohl"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Puppy Pound",
-        "url": "https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 200488,
-      "name": "Puppy Pound",
-      "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 181153,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 178920,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 181153,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "THERAPY!",
-        "url": "https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW"
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
       },
       "artists": [
         {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
         }
       ],
-      "duration_ms": 133186,
-      "name": "THERAPY!",
-      "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1239,22 +1239,6 @@
       "duration_ms": 218000,
       "name": "Just Breathing",
       "url": "https://open.spotify.com/track/1n57AukEXifaY4B0CYnui1"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Fruit",
-      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "I Like to Party",
+        "url": "https://open.spotify.com/album/0LQmcDlQQFV27k6pxm7rab"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "I Like to Party",
+      "url": "https://open.spotify.com/track/51cjBkdTwUsoZMz0XcPNd7"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "I Like to Party",
-        "url": "https://open.spotify.com/album/0LQmcDlQQFV27k6pxm7rab"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "I Like to Party",
-      "url": "https://open.spotify.com/track/51cjBkdTwUsoZMz0XcPNd7"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
+      },
+      "artists": [
+        {
+          "name": "Diskopunk",
+          "url": "https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp"
+        }
+      ],
+      "duration_ms": 197749,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "NIGHTMARE (feat. guardin)",
         "url": "https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 172093,
       "name": "NIGHTMARE (feat. guardin)",
       "url": "https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
-      },
-      "artists": [
-        {
-          "name": "Diskopunk",
-          "url": "https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp"
-        }
-      ],
-      "duration_ms": 197749,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1711,22 +1695,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Have Fun",
-        "url": "https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Have Fun",
-      "url": "https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Going Ghost",
         "url": "https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO"
       },
@@ -1755,6 +1723,22 @@
       "duration_ms": 131440,
       "name": "Bang",
       "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Have Fun",
+        "url": "https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Have Fun",
+      "url": "https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1795,6 +1779,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Time of my Life",
+        "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 136066,
+      "name": "Time of my Life",
+      "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Time of my Life",
-        "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
+        "name": "Can't Get You Out of My Head",
+        "url": "https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV"
       },
       "artists": [
         {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
         }
       ],
-      "duration_ms": 136066,
-      "name": "Time of my Life",
-      "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
+      "duration_ms": 190728,
+      "name": "Can't Get You Out of My Head",
+      "url": "https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo"
     }
   ],
   "unique_name": "Alternative Beats",

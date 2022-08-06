@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Maybe it's punk, maybe it's not. Cover: Wu-Lu",
+  "description": "Maybe it's punk, maybe it's not. Cover: Tobias Dray",
   "name": "Punk Unleashed",
   "published_playlist_ids": [
     "4Fx7H5bue0NPuMWQvcMhLl"
@@ -156,6 +156,42 @@
     },
     {
       "album": {
+        "name": "Ann",
+        "url": "https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM"
+      },
+      "artists": [
+        {
+          "name": "Tropical Fuck Storm",
+          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244877,
+      "name": "Ann",
+      "url": "https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ"
+    },
+    {
+      "album": {
+        "name": "ATTENTION!",
+        "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161697,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
+    },
+    {
+      "album": {
         "name": "bad habit (dramatic!)",
         "url": "https://open.spotify.com/album/00f1ID3GsvqytYByqFlq91"
       },
@@ -185,7 +221,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 195733,
       "name": "Barbara Ann",
       "url": "https://open.spotify.com/track/0SXuC2ctXtUzijK7891TdZ"
@@ -401,7 +437,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 163200,
       "name": "Busy Waiting",
       "url": "https://open.spotify.com/track/6kQqIdEAoCUKU4EEDmDWZZ"
@@ -484,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Please Don't Think About Tomorrow",
+        "url": "https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "City",
+      "url": "https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO"
+    },
+    {
+      "album": {
         "name": "Crybaby (On the Phone)",
         "url": "https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn"
       },
@@ -521,6 +575,28 @@
       "duration_ms": 125389,
       "name": "cyanide (feat. cryogeyser)",
       "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
+    },
+    {
+      "album": {
+        "name": "Date With Death",
+        "url": "https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA"
+      },
+      "artists": [
+        {
+          "name": "Paris Shadows",
+          "url": "https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT"
+        },
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119215,
+      "name": "Date With Death",
+      "url": "https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU"
     },
     {
       "album": {
@@ -672,6 +748,24 @@
     },
     {
       "album": {
+        "name": "FAMOUS ON THE INTERNET",
+        "url": "https://open.spotify.com/album/4SKKceJCjDXlUx8NG3UHHG"
+      },
+      "artists": [
+        {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174051,
+      "name": "FAMOUS ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2Bv5kb0dgXjWMu0kujn0TD"
+    },
+    {
+      "album": {
         "name": "Feel Nothing",
         "url": "https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf"
       },
@@ -687,7 +781,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 331693,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
@@ -727,6 +821,24 @@
       "duration_ms": 300647,
       "name": "Flux",
       "url": "https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7"
+    },
+    {
+      "album": {
+        "name": "FUK IT",
+        "url": "https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160286,
+      "name": "FUK IT",
+      "url": "https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt"
     },
     {
       "album": {
@@ -925,7 +1037,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 90130,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/6SvllC0AxXwxxFHmzq6WRO"
@@ -1423,6 +1535,24 @@
       "duration_ms": 184756,
       "name": "MMMOOOAAAAAYAYA",
       "url": "https://open.spotify.com/track/6wOT4xSBIfD6oxSv7dGE6S"
+    },
+    {
+      "album": {
+        "name": "Monkey Mind",
+        "url": "https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW"
+      },
+      "artists": [
+        {
+          "name": "THE BOBBY LEES",
+          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138703,
+      "name": "Monkey Mind",
+      "url": "https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo"
     },
     {
       "album": {
@@ -1929,7 +2059,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 216466,
       "name": "Sand Fight",
       "url": "https://open.spotify.com/track/0krlA3U69xTFIrbEAwALak"
@@ -2121,6 +2251,42 @@
       "duration_ms": 186000,
       "name": "So You Don't Get In Trouble",
       "url": "https://open.spotify.com/track/2ZlMCcLZaxgF1DLF6pFsJu"
+    },
+    {
+      "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/4qjXIB3RXqHXgMlRpuSGtn"
+      },
+      "artists": [
+        {
+          "name": "Masked Man",
+          "url": "https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153796,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/4b15dejUsgkM2UqDpMOoUc"
+    },
+    {
+      "album": {
+        "name": "something about the sky",
+        "url": "https://open.spotify.com/album/06mHXwletIsI39HtTIfuQO"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "something about the sky",
+      "url": "https://open.spotify.com/track/5iKPJOA5c2wfaxoAIgHEIq"
     },
     {
       "album": {

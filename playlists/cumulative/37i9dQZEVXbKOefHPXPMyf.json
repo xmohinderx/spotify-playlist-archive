@@ -4430,6 +4430,24 @@
     },
     {
       "album": {
+        "name": "Indudablemente",
+        "url": "https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4"
+      },
+      "artists": [
+        {
+          "name": "Rescate",
+          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231280,
+      "name": "Indudablemente",
+      "url": "https://open.spotify.com/track/2423N8ZVbFoRnRJVAlPryQ"
+    },
+    {
+      "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
       },
@@ -6779,7 +6797,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 265263,
       "name": "NEON BLADE",
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
@@ -6879,7 +6897,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
@@ -11055,6 +11073,24 @@
       "duration_ms": 179426,
       "name": "What Else Can I Do?",
       "url": "https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG"
+    },
+    {
+      "album": {
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > canzoni da gridareee 🗣 cover: WILLOW
 
-210 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+211 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ho Smesso](https://open.spotify.com/track/5X4ZF5EN7rbZpNnn7Ovc8B) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Ho Smesso](https://open.spotify.com/album/6WCNWyTxAISoH3fiVg4OWk) | 3:00 | 2022-07-07 |  |
 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 | 2022-05-06 |  |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-05-06 |  |
+| [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-04 |  |
 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-05-06 | 2022-06-03 |
 | [i h8 that i still feel bad for u](https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i h8 that i still feel bad for u](https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd) | 2:55 | 2022-05-06 | 2022-07-01 |
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-05-19 | 2022-06-24 |

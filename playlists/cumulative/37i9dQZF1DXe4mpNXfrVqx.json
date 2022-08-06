@@ -1508,6 +1508,28 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/0u6DBct3cUq9S9xEtTiv47"
+      },
+      "artists": [
+        {
+          "name": "Debbys",
+          "url": "https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1CXIJfsvPU8TQYmi6LGmNn"
+    },
+    {
+      "album": {
         "name": "Respeita as Minas",
         "url": "https://open.spotify.com/album/071sm1lfCvgoKA0kstQJUg"
       },
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 139108,
       "name": "Soul",
       "url": "https://open.spotify.com/track/48BbXcPOpPu0XMymrDBi3k"

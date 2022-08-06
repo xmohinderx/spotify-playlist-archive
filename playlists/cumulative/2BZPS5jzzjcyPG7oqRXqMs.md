@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-139 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+141 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 | 2022-07-01 |  |
 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 | 2022-02-17 |  |
 | [Shine Like Stars](https://open.spotify.com/track/3PfewOCZm2VpGetWwZsZuU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Burn Bright](https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv) | 4:30 | 2022-02-17 |  |
+| [Show Up Choose Love \(feat\. Jon Reddick\)](https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Show Up Choose Love](https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC) | 3:32 | 2022-08-05 |  |
 | [Simple Kingdom \(with Cody Carnes\) \- Live](https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Simple Kingdom \(with Cody Carnes\) \[Live\]](https://open.spotify.com/album/6cdFeMCCrgo9eU2jqLOvJk) | 6:24 | 2022-05-06 |  |
 | [Sinking Deep](https://open.spotify.com/track/3QntQwzIBV704yqCHLLmyH) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 4:07 | 2022-07-01 |  |
 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 | 2022-03-03 |  |
@@ -147,5 +148,6 @@
 | [Worth The Risk](https://open.spotify.com/track/3pAitauaR81jvNaIOZADN2) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Worth The Risk](https://open.spotify.com/album/0ot0DHzWGM9sDU08ExesC3) | 3:16 | 2022-02-18 |  |
 | [YOU](https://open.spotify.com/track/2Csxc3KRQIQvZZse0Mdu5O) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [YOU](https://open.spotify.com/album/24BVyQpCuwSATtq4oBJoON) | 4:05 | 2022-02-17 |  |
 | [You](https://open.spotify.com/track/5Hi0fGAj0HPQtjkMwnlQ1u) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [You](https://open.spotify.com/album/1sq30FcNaSXJ0xMFPx7joK) | 3:00 | 2022-02-17 |  |
+| [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-08-05 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

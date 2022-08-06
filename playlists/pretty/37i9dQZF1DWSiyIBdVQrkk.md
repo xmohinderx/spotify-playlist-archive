@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > One Love\. More Life\. More Vibes\. Curated by Melanie Fiona for Toronto Carnival 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,009,437 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009,555 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 13 | [Longing For](https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [True Reflections...A New Beginning](https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn) | 3:52 |
 | 14 | [Rock Away](https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Music Is Life](https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6) | 3:59 |
 | 15 | [Black Roses](https://open.spotify.com/track/4iZxFlcCg5Z6bVYsxqiT61) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/1tWYxTZWSIWYk1chxhl62Z) | 3:07 |
-| 16 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 |
-| 17 | [No Cigarette Smoking \(In My Room\)](https://open.spotify.com/track/3eRlXM0tGtAuBuUGuJRxxw) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 3:40 |
+| 16 | [No Cigarette Smoking \(In My Room\)](https://open.spotify.com/track/3eRlXM0tGtAuBuUGuJRxxw) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 3:40 |
+| 17 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 |
 | 18 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
 | 19 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 20 | [Give Me A Try](https://open.spotify.com/track/4pwGFtnF5ZWvvZee3Qmw1n) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Rise To The Occasion](https://open.spotify.com/album/7JtRuLlFw6g3axRUHcG9cP) | 3:39 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 42 | [Love Sponge](https://open.spotify.com/track/73QYhs58wfVPnEy2YnpTHR) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 3:38 |
 | 43 | [Love Me Browning](https://open.spotify.com/track/0bhwkOfM7yVI0fZmlS0d2t) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Mr Mention](https://open.spotify.com/album/30OprvPAmiCw2Nlt5FQMT7) | 3:47 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGFmN2M5NTgxYzhhMWFiOWZmM2QwZmQ5YTVmM2JmNmI1`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGRjYThmZTczM2FmOTQ2ZjI5MWRhN2ViODYwNTZkMjJl`

@@ -4,7 +4,7 @@
 
 > 125%
 
-60 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+62 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/5cC2gqSkCz9Eekqbo6i61A) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Can I Call You Tonight? \(sped\-up\)](https://open.spotify.com/album/2pFVM3bOTgNe7HsvcprNl5) | 3:30 | 2022-07-01 |  |
 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 | 2022-06-09 |  |
 | [Cool for the Summer \- Sped Up \(Nightcore\)](https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cool for the Summer \[Sped Up \(Nightcore\)\]](https://open.spotify.com/album/410MZofhiv240ybaWhUxpc) | 3:11 | 2022-06-09 |  |
+| [die first \- sped up version](https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first \(love forever\)](https://open.spotify.com/album/6a8W5qyixFCBIhWllbu3bj) | 2:24 | 2022-08-05 |  |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-06-09 |  |
 | [Faster \(Sped Up\)](https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Sped Up\)](https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce) | 2:26 | 2022-06-24 |  |
 | [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 | 2022-06-09 | 2022-07-29 |
@@ -47,6 +48,7 @@
 | [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 | 2022-07-22 |  |
 | [nina \(sped up\)](https://open.spotify.com/track/0OvIG0LWT4Wu21PR5plYL8) | [4everd4nny](https://open.spotify.com/artist/5ycCQZx5Go6Hqcg1iHzsdu) | [nina](https://open.spotify.com/album/45XlVtRzkFnM59zSqj5Mfi) | 1:15 | 2022-06-09 |  |
 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 | 2022-06-09 |  |
+| [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 | 2022-08-05 |  |
 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 | 2022-06-09 |  |
 | [Paro \- Speed Up](https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro \(Speed Up\)](https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL) | 2:33 | 2022-07-25 |  |
 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 | 2022-06-24 |  |

@@ -4,13 +4,14 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-253 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+254 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Would Be\) Grateful](https://open.spotify.com/track/4XzrcuI4PKbuQU1E347ed2) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [\(I Would Be\) Grateful](https://open.spotify.com/album/3lKECaEhm6tDUaTCGucJvW) | 4:16 | 2022-03-18 | 2022-07-29 |
 | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/album/6Xw2btwdvf4zFwt8XxBG0r) | 2:55 | 2021-11-19 |  |
 | [15](https://open.spotify.com/track/66FmBx9jNIjm4WhTOPJMwi) | [Bishop Ivy](https://open.spotify.com/artist/2Iq2lTFLmxtdaYCmhRSMbb) | [15](https://open.spotify.com/album/1ukbsiFX0gLmoS5bCbMysd) | 3:17 | 2020-10-17 | 2022-04-20 |
+| [6 AM](https://open.spotify.com/track/3UJbJOsLhyuGXOOofKr52i) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [6 AM](https://open.spotify.com/album/6f0QgMv0n3IBDpcYW0QPQL) | 3:50 | 2022-08-05 |  |
 | [A Hand, A Heart \- 2021](https://open.spotify.com/track/2MylFBKIQH5ogcBbeMDYiR) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [A Hand, A Heart \(2021\)](https://open.spotify.com/album/64FRBimcWLupwj5WBrzjm9) | 4:28 | 2022-01-07 | 2022-06-28 |
 | [A Thousand Ringing Bells](https://open.spotify.com/track/5ycP3ywAnIdtTGVEZYH4zp) | [Uri Sade](https://open.spotify.com/artist/7y3eEKZ2Z7P8DBNmIMq9nj) | [No Trace of Sound](https://open.spotify.com/album/1GYrBSrl5eRPAFMFQpiq4T) | 3:55 | 2020-10-17 | 2022-04-20 |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2022-06-17 | 2022-07-29 |
@@ -164,7 +165,7 @@
 | [My Life](https://open.spotify.com/track/2hPY2x0M6k8pQiBxeCzD5T) | [Loren Kramar](https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV) | [My Life](https://open.spotify.com/album/32FU3BRS2YpxpVpQvCitpU) | 4:12 | 2020-10-17 | 2022-07-24 |
 | [My Whole World Stopped Without You](https://open.spotify.com/track/7awBL5Pu8LD6Fl7iTrJotx) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [My Whole World Stopped Without You](https://open.spotify.com/album/0DQXRwHKiT7lKk0T2S7jOj) | 4:04 | 2020-10-17 | 2022-04-20 |
 | [nervous](https://open.spotify.com/track/3zorFzOo3SA8VkV89FgRnu) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [nervous](https://open.spotify.com/album/0SRx4QsNCcQcEFrDuwLvGi) | 3:16 | 2020-10-17 | 2022-04-21 |
-| [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 | 2020-10-17 |  |
+| [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 | 2020-10-17 | 2022-08-06 |
 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 | 2022-06-10 |  |
 | [Never Tear Us Apart](https://open.spotify.com/track/3I7Fqr8wLi60aZ9P4wIFwq) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Never Tear Us Apart](https://open.spotify.com/album/4doBTxqHZNmn9a06bP3A5s) | 3:24 | 2021-04-09 | 2022-07-29 |
 | [New Start](https://open.spotify.com/track/7ywmf8Yz7s7erljhh06QGl) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [New Start](https://open.spotify.com/album/2y1oMqGnG9WyLcuwVJSPz8) | 4:42 | 2020-10-17 | 2022-06-11 |

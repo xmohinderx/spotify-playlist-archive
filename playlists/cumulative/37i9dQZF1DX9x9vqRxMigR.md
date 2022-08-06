@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-329 songs - 21 hr 44 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+330 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [Une Autre Chance](https://open.spotify.com/track/4P01Sl55h3Slm1hx3nqtP2) | [Seffarine](https://open.spotify.com/artist/00eQhQca3xEnYrBdhM1fVn) | [De Fez a Jerez](https://open.spotify.com/album/5Uc7zChkh1myi4q8piOKTx) | 4:43 | 2022-04-25 |  |
 | [Valley View](https://open.spotify.com/track/7pKeyDTMCx3ZZjr2VYaZQ9) | [Adrian + Meredith](https://open.spotify.com/artist/4qkOE9F3pGhhestpgh80m9) | [Valley View](https://open.spotify.com/album/3WrDLa53fX8L9ujM0aNPBm) | 4:06 | 2021-02-23 | 2022-04-26 |
 | [Waking Light](https://open.spotify.com/track/34eEb4do4b3JC7n9accpmU) | [Dwayne Shivers](https://open.spotify.com/artist/3xMIGFfOGiQN5iyQYLbMqC), [Kyshona Armstrong](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Waking Light](https://open.spotify.com/album/1duO4qJczb65REji46iJlo) | 4:07 | 2021-02-23 | 2022-04-26 |
-| [Walk Me to the River](https://open.spotify.com/track/4IDBFTkZ15eK6LGMs7W1oj) | [Misty River](https://open.spotify.com/artist/4lXGbu3TUiwos5jtggGtDw) | [Promises](https://open.spotify.com/album/1dHBv9pVw0X2EkOJS7yCe1) | 3:32 | 2022-04-25 |  |
+| [Walk Me to the River](https://open.spotify.com/track/0b5qt9fdr0XsbfbPvgV1CL) | [Misty River](https://open.spotify.com/artist/4lXGbu3TUiwos5jtggGtDw) | [Walk Me to the River](https://open.spotify.com/album/1Iba00W7fjl158welETZNf) | 3:32 | 2022-04-25 |  |
+| [Walk Me to the River](https://open.spotify.com/track/4IDBFTkZ15eK6LGMs7W1oj) | [Misty River](https://open.spotify.com/artist/4lXGbu3TUiwos5jtggGtDw) | [Promises](https://open.spotify.com/album/1dHBv9pVw0X2EkOJS7yCe1) | 3:32 | 2022-04-25 | 2022-08-06 |
 | [Wallflowers](https://open.spotify.com/track/0fWD8dB8hbNkB9fmE0RK8t) | [Idris Lawal](https://open.spotify.com/artist/7G1V8i45ZbFxifSmPPGKug), [Jelani Watson](https://open.spotify.com/artist/5T8KGVmGCO0XyFrGpZwG08), [Rocsi](https://open.spotify.com/artist/5n8RkXzqWmwO2ejGj9GHm7) | [Wallflowers](https://open.spotify.com/album/3y0WRVD5sRhdTnPmboMI9R) | 3:20 | 2021-02-23 | 2022-04-26 |
 | [Wannabe](https://open.spotify.com/track/4YhM90YNgwSj7a0eril7xS) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Therese Curatolo](https://open.spotify.com/artist/6yD8X4YpwVHRS6laIW6l8w), [Olivia Kuper Harris](https://open.spotify.com/artist/3qiw3l9oPTSbZU7wrh2mmo), [Sara Niemietz](https://open.spotify.com/artist/4zGYxIc3gg75ks4rQcReSF) | [BACK When They Called It Music: The '90s, Vol\. 1](https://open.spotify.com/album/2PYoA3ki0vTRC2V5r8pwxj) | 3:00 | 2021-02-23 | 2022-04-26 |
 | [Warped Window](https://open.spotify.com/track/19cLwp9WS5E4CTYxcM7Wi1) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/74nVJp60GIsz0j7QTQymWB) | 4:55 | 2021-02-23 | 2022-04-26 |

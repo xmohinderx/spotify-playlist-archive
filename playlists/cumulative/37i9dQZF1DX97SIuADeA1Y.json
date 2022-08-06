@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 173313,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
@@ -2926,6 +2926,32 @@
     },
     {
       "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/0uL1LBlgAw2bbOOzkSGyFK"
+      },
+      "artists": [
+        {
+          "name": "Bodybangers",
+          "url": "https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        },
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143266,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK"
+    },
+    {
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1408E9s5AnF4tN82Bd1uwI"
       },
@@ -3063,6 +3089,28 @@
       "duration_ms": 176785,
       "name": "redruM - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
+    },
+    {
+      "album": {
+        "name": "Ride Ride Ride",
+        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kern",
+          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
+        },
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Ride Ride Ride",
+      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
     },
     {
       "album": {
@@ -3423,7 +3471,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 131478,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/3SteozIweMB1gbHdCRc4zS"

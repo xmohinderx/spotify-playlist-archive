@@ -1,12 +1,12 @@
 {
   "description": "Heavy, intense and aggressive tracks. Chaotic in all the good ways. Cover: Underoath",
-  "num_followers": 3475,
+  "num_followers": 3600,
   "original_name": "Complete Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDQ2ZDgzM2NkMzc3NWM5MGUwYjlkZjNkZjViNWQ2NmEx",
+  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDQxYzRiNWVmYjZjODM2NzIwODA5NGQ2NWU1NzJlN2Ix",
   "tracks": [
     {
       "added_at": "2022-04-01 16:27:04",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Like Love",
+        "url": "https://open.spotify.com/album/4uZciTpxmFZ6lpovVv8l6E"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 234878,
+      "name": "Like Love",
+      "url": "https://open.spotify.com/track/0SzfeUk8fOlwT2vdylWkdq"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 208688,
       "name": "Bad Listener",
       "url": "https://open.spotify.com/track/5pq9GrHjnWjLkKDBxqe8UQ"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Like Love",
-        "url": "https://open.spotify.com/album/4uZciTpxmFZ6lpovVv8l6E"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 234878,
-      "name": "Like Love",
-      "url": "https://open.spotify.com/track/0SzfeUk8fOlwT2vdylWkdq"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Yenta",
-        "url": "https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 189998,
-      "name": "Yenta",
-      "url": "https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Devastation",
         "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 221748,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Yenta",
+        "url": "https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 189998,
+      "name": "Yenta",
+      "url": "https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "A Different Shade of Blue",
         "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 182530,
       "name": "A Serpent's Touch",
       "url": "https://open.spotify.com/track/0mFaWgcWph8oldTKMnWeQW"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Pain Again",
-        "url": "https://open.spotify.com/album/7fTow6HHIe3a4HxTfVYnOa"
-      },
-      "artists": [
-        {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Anything To Numb",
-      "url": "https://open.spotify.com/track/7zPFVRs1iJ006sKZQ4S4ap"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "When the Blade Drops",
         "url": "https://open.spotify.com/album/1oDKZmaoLbk456SzkJsJIm"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Bankrupt",
-        "url": "https://open.spotify.com/album/0wAjbACLoPoKowOiQochJI"
+        "name": "Pain Again",
+        "url": "https://open.spotify.com/album/7fTow6HHIe3a4HxTfVYnOa"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd"
+      "duration_ms": 191933,
+      "name": "Anything To Numb",
+      "url": "https://open.spotify.com/track/7zPFVRs1iJ006sKZQ4S4ap"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -699,6 +683,22 @@
       "duration_ms": 222006,
       "name": "...And Still I Wander South",
       "url": "https://open.spotify.com/track/4UADTNRQNw9PrzUbJe045m"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Bankrupt",
+        "url": "https://open.spotify.com/album/0wAjbACLoPoKowOiQochJI"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "My Nightmares Would Do Numbers As Horror Movies",
-        "url": "https://open.spotify.com/album/2Qvi0VnGTYVteHW7pCSJvV"
-      },
-      "artists": [
-        {
-          "name": "If I Die First",
-          "url": "https://open.spotify.com/artist/1YITexXsar0m4s4AROHCKE"
-        }
-      ],
-      "duration_ms": 194150,
-      "name": "My Nightmares Would Do Numbers As Horror Movies",
-      "url": "https://open.spotify.com/track/2F33HiU5YDmFKFmlTgUuS6"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "The Truest Love",
         "url": "https://open.spotify.com/album/4H3kBhmrI8PHiAapclIuzP"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 231625,
       "name": "The Truest Love",
       "url": "https://open.spotify.com/track/3kE1wgi0cTUqHNlfoTbiFh"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "My Nightmares Would Do Numbers As Horror Movies",
+        "url": "https://open.spotify.com/album/2Qvi0VnGTYVteHW7pCSJvV"
+      },
+      "artists": [
+        {
+          "name": "If I Die First",
+          "url": "https://open.spotify.com/artist/1YITexXsar0m4s4AROHCKE"
+        }
+      ],
+      "duration_ms": 194150,
+      "name": "My Nightmares Would Do Numbers As Horror Movies",
+      "url": "https://open.spotify.com/track/2F33HiU5YDmFKFmlTgUuS6"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "The Legacy of Shi",
-        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "The Legacy Of Shi",
-      "url": "https://open.spotify.com/track/7BMn3JOYFEnOjUsR5BzdcR"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "grayout",
         "url": "https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 120155,
       "name": "grayout",
       "url": "https://open.spotify.com/track/6IZ7Pg6C3vduV2gQsycrYS"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "The Legacy of Shi",
+        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "The Legacy Of Shi",
+      "url": "https://open.spotify.com/track/7BMn3JOYFEnOjUsR5BzdcR"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Party\u2019s Over",
-        "url": "https://open.spotify.com/album/1Rkng3v3oITAzhBfXlKYTI"
-      },
-      "artists": [
-        {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Party\u2019s Over",
-      "url": "https://open.spotify.com/track/0cYhDSEGwA0pUtuXf6hGDk"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "When Fear Turns to Confidence",
         "url": "https://open.spotify.com/album/7rSGxM0cgXirJVuQqK06Yl"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 173484,
       "name": "Vagrant",
       "url": "https://open.spotify.com/track/77uZLUItQj8tPxtHrrtDLu"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Party\u2019s Over",
+        "url": "https://open.spotify.com/album/1Rkng3v3oITAzhBfXlKYTI"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Party\u2019s Over",
+      "url": "https://open.spotify.com/track/0cYhDSEGwA0pUtuXf6hGDk"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Your World Won't Listen",
-        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
+        "name": "Bad To My World",
+        "url": "https://open.spotify.com/album/1cRPXFSkFU9mqmw5Nf9nkn"
       },
       "artists": [
         {
-          "name": "Cruel Hand",
-          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
+          "name": "Backtrack",
+          "url": "https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl"
         }
       ],
-      "duration_ms": 177906,
-      "name": "Dead Eyes Watching",
-      "url": "https://open.spotify.com/track/4AbwxnJ9XDoZHRLntiJSpE"
+      "duration_ms": 149160,
+      "name": "One With You",
+      "url": "https://open.spotify.com/track/0nkgw0vrvZvoVvybV9DZ9c"
     },
     {
       "added_at": "2022-04-01 16:27:04",

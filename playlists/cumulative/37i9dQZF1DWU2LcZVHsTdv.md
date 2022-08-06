@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Tyler Hubbard
 
-135 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+137 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [If That Ain't God](https://open.spotify.com/track/2wD4EACbGI6zfKXEAKJmBV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [If That Ain't God](https://open.spotify.com/album/6zJ23RQJ1NeubHuCzyvPlE) | 3:30 | 2021-12-10 |  |
 | [In All Things](https://open.spotify.com/track/4CVSGsxGy52bNpUAwFqrm7) | [Leslie Jordan](https://open.spotify.com/artist/7rYLqyGeyCnraP6vBfhfFn), [Danny Myrick](https://open.spotify.com/artist/2VnIRUWeM04JHxZvYkxJWv) | [Company's Comin'](https://open.spotify.com/album/2n9E08VXyUL1GGOwnVM6tm) | 3:30 | 2021-12-10 |  |
 | [In Christ Alone](https://open.spotify.com/track/4nZLgB1NYxEjfStRRPZBWE) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [In Christ Alone](https://open.spotify.com/album/5v36cGV6Gk6cA4l79cMImt) | 4:11 | 2022-04-15 |  |
+| [In Jesus Name \(God of Possible\)](https://open.spotify.com/track/4pTaWYq66mOLpjGkqTpjsF) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [In Jesus Name \(God of Possible\)](https://open.spotify.com/album/5ttyBlOTlDg70uUEVeW7tE) | 3:37 | 2022-08-05 |  |
 | [In Our Blood](https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [In Our Blood](https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX) | 2:53 | 2022-05-13 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Just a Closer Walk with Thee](https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Just a Closer Walk with Thee](https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g) | 3:40 | 2022-01-28 |  |
@@ -83,6 +84,7 @@
 | [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-04-22 |  |
 | [Me And God](https://open.spotify.com/track/2lfBuEVBgvKLAkcypn68VD) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 2:59 | 2021-12-10 |  |
 | [Me and Jesus \(Extra Special Bonus Track\)](https://open.spotify.com/track/6a0zu7tOqPUHQfoP7YJ9nS) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Moonshine in the Trunk](https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP) | 3:21 | 2021-12-10 |  |
+| [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:30 | 2022-08-05 |  |
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2021-12-10 |  |
 | [Nearer My God To Thee](https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Nearer My God To Thee](https://open.spotify.com/album/5ANnfvCCSn3tNujhrGxPIg) | 4:10 | 2021-12-10 | 2022-07-29 |
 | [Nearer My God to Thee](https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gospel](https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv) | 4:10 | 2022-07-15 |  |

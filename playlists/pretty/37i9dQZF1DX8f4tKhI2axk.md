@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,115 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,196 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 37 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
 | 38 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 |
 | 39 | [Return of Django](https://open.spotify.com/track/3X6b40Xr4zxbyLatxilx6T) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Return of Django \(Bonus Track Edition\)](https://open.spotify.com/album/7ySlkE3H2N0QRsfWGcqvCl) | 2:29 |
-| 40 | [Pressure \(feat\. Buju Banton\) \- Remix](https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Pressure \(feat\. Buju Banton\) \[Remix\]](https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2) | 3:58 |
+| 40 | [I Shall Be Released](https://open.spotify.com/track/2fBj4QAaXUcx9EL3bPzwGt) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Peculiar](https://open.spotify.com/album/4U3UTvMSHfCoXb3qltKEHn) | 4:20 |
 
-Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMDdhMmIzMjU4YWI5YzdlMzQzYThhM2ZlODlkYTljZDVi`
+Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMDA1ODU1ZGIzYjdkNTBhMjBkMjgzZTkxNjNlMmRhZjA0`

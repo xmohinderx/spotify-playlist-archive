@@ -2,9 +2,9 @@
 
 ### [idk.](https://open.spotify.com/playlist/37i9dQZF1DX59NCqCqJtoH)
 
-> We hear you
+> We hear you.
 
-471 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+472 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,8 +136,9 @@
 | [FUNERAL](https://open.spotify.com/track/37UUsGW1KK3Cindm8Rqlu9) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FUNERAL](https://open.spotify.com/album/7gI0fMPJM42rMt5TWZwEyA) | 3:53 | 2022-01-27 | 2022-05-22 |
 | [game over](https://open.spotify.com/track/3Vh9V3v9DylAevq2CQAJ2l) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [game over](https://open.spotify.com/album/6vOGE4VttgGfH0mfz1jC6c) | 2:38 | 2021-04-02 | 2022-07-22 |
 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 | 2021-04-02 | 2022-04-21 |
+| [glass half empty](https://open.spotify.com/track/1t2n68SZzCnuQ6tITQxTPS) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [glass half empty](https://open.spotify.com/album/4SrMXFyiS31vaK5SWYBpru) | 2:16 | 2022-08-05 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 |  |
-| [Good News](https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Ode](https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi) | 3:37 | 2022-07-29 |  |
+| [Good News](https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Ode](https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi) | 3:37 | 2022-07-29 | 2022-08-06 |
 | [Good on My Own](https://open.spotify.com/track/3bmgfeipIJSaOQRCm921Q6) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Good on My Own](https://open.spotify.com/album/645fXZT4iCYRRHt7UxPedX) | 2:00 | 2021-04-02 | 2022-04-13 |
 | [good things don’t last](https://open.spotify.com/track/09lRx1uMYnTqg3Cr3RHwNW) | [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [disconnected](https://open.spotify.com/album/2JFrqPBNrWtT0LSJqi2GUq) | 4:14 | 2022-03-29 | 2022-04-17 |
 | [Greta Thunberg](https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Greta Thunberg](https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k) | 4:04 | 2022-07-19 |  |

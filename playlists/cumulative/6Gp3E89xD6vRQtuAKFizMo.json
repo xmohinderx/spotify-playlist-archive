@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 235636,
       "name": "Cold Comfort (feat. Andrew Paley) - OMAS Remix",
       "url": "https://open.spotify.com/track/0frbjoMyGqqUoPrrplSJAX"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 174000,
       "name": "Incorrect",
       "url": "https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u"
@@ -1492,6 +1492,32 @@
     },
     {
       "album": {
+        "name": "The Whistle",
+        "url": "https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "The Whistle",
+      "url": "https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg"
+    },
+    {
+      "album": {
         "name": "Under Pressure (feat. Dani King)",
         "url": "https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD"
       },
@@ -1537,6 +1563,36 @@
       "duration_ms": 194124,
       "name": "Vamos a Beber",
       "url": "https://open.spotify.com/track/6mc1TOxoCF9H4q7nvxjGyd"
+    },
+    {
+      "album": {
+        "name": "Villainy (feat. Gold & Mikey Rotten)",
+        "url": "https://open.spotify.com/album/7I439tCjMMzzWE1bauLG06"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Dr. Ozi",
+          "url": "https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF"
+        },
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
+        },
+        {
+          "name": "Mikey Rotten",
+          "url": "https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Villainy (feat. Gold & Mikey Rotten)",
+      "url": "https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq"
     },
     {
       "album": {

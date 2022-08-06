@@ -1,13 +1,269 @@
 {
-  "description": "The newest, freshest R&B tunes.  Cover: Destin Conrad",
-  "num_followers": 913480,
+  "description": "The newest, freshest R&B tunes.  Cover: Leon Thomas & Ty Dolla $ign",
+  "num_followers": 913816,
   "original_name": "New Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2Nzc5OSwwMDAwMDAwMGI0NDA2YjkxNTg2ZDQ2M2Y3Mzg2MWExMzQ0ZDgwZWEz",
+  "snapshot_id": "MTY1OTY3OTE4OSwwMDAwMDAwMDM2YzQ5ZWMwMDZhZWFkZDY5MWFkN2NmMWFmYTdmYWE2",
   "tracks": [
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "While You Wait",
+        "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/1BoSVpo3dYgs0yuSaiDqTp"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "Love Jones (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 195939,
+      "name": "Compromise (feat. Rema)",
+      "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "I Love You More Than You Know (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
+    },
+    {
+      "added_at": "2022-08-05 05:59:49",
+      "album": {
+        "name": "Best Friends (Remix)",
+        "url": "https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 175071,
+      "name": "Best Friends - Remix",
+      "url": "https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "Personal Baby",
+        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 173646,
+      "name": "Personal Baby",
+      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "Sounds of My World (Deluxe)",
+        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 152523,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "Can't Swim",
+        "url": "https://open.spotify.com/album/4WVNFBimWSkO7rSsG0lYNS"
+      },
+      "artists": [
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "duration_ms": 211761,
+      "name": "Can't Swim",
+      "url": "https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "Coastin'",
+        "url": "https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 220680,
+      "name": "Coastin' [Feat. Lalah Hathaway]",
+      "url": "https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ"
+    },
+    {
+      "added_at": "2022-08-05 04:12:33",
+      "album": {
+        "name": "08105",
+        "url": "https://open.spotify.com/album/1TMVf0vAkU5Fxpytwt8O1k"
+      },
+      "artists": [
+        {
+          "name": "Remey Williams",
+          "url": "https://open.spotify.com/artist/5PjEH2MNklNpDLPVtUvH0i"
+        },
+        {
+          "name": "Susan Carol",
+          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
+        }
+      ],
+      "duration_ms": 199745,
+      "name": "All Bad",
+      "url": "https://open.spotify.com/track/3Zjrxns777sXCu9nHGpac8"
+    },
     {
       "added_at": "2022-07-29 04:09:59",
       "album": {
@@ -411,22 +667,6 @@
     {
       "added_at": "2022-07-15 04:03:18",
       "album": {
-        "name": "Self Explanatory",
-        "url": "https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 181039,
-      "name": "Handle Me Gently",
-      "url": "https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l"
-    },
-    {
-      "added_at": "2022-07-15 04:03:18",
-      "album": {
         "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
         "url": "https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD"
       },
@@ -573,22 +813,6 @@
       "url": "https://open.spotify.com/track/4OUa1gJtyDER6NIvc7UM9v"
     },
     {
-      "added_at": "2022-07-15 04:03:18",
-      "album": {
-        "name": "Shame On You",
-        "url": "https://open.spotify.com/album/3htnYj3YlMe1IfnjlTs8bn"
-      },
-      "artists": [
-        {
-          "name": "JYDN HILL",
-          "url": "https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Shame On You",
-      "url": "https://open.spotify.com/track/2m81AlvTDGiN95KcktNGlJ"
-    },
-    {
       "added_at": "2022-07-08 04:13:12",
       "album": {
         "name": "WASTELAND",
@@ -603,22 +827,6 @@
       "duration_ms": 216062,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
-    },
-    {
-      "added_at": "2022-07-08 11:53:18",
-      "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Petty",
-      "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
     },
     {
       "added_at": "2022-07-08 11:53:18",
@@ -695,26 +903,6 @@
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
-    },
-    {
-      "added_at": "2022-07-08 18:37:27",
-      "album": {
-        "name": "Water Sign",
-        "url": "https://open.spotify.com/album/6oDU6I199wFU3UzVJB1k5f"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Water Sign (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/62oXwEYWQd8tGZvF6WUOs9"
     },
     {
       "added_at": "2022-07-08 18:37:27",
@@ -929,22 +1117,6 @@
       "url": "https://open.spotify.com/track/6muk6XM856ryXVRyv1m8yj"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Public Displays Of Affection Too",
-        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Give Or Take",
@@ -959,26 +1131,6 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Comfortable (feat. Fana Hues)",
-        "url": "https://open.spotify.com/album/5asMsphuwGm7xBjCsnQuZy"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        },
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 233746,
-      "name": "Comfortable (feat. Fana Hues)",
-      "url": "https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1015,22 +1167,6 @@
       "duration_ms": 155298,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
-    },
-    {
-      "added_at": "2022-06-10 04:01:00",
-      "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1071,46 +1207,6 @@
     {
       "added_at": "2022-06-10 04:01:00",
       "album": {
-        "name": "DON'T THEY (REMIX) [feat. Normani]",
-        "url": "https://open.spotify.com/album/54Ju4fs7XOHyEfjnXxAabD"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "DON'T THEY (REMIX) [feat. Normani]",
-      "url": "https://open.spotify.com/track/3u8becTPmigEyasAqCaO2Q"
-    },
-    {
-      "added_at": "2022-06-03 15:16:09",
-      "album": {
-        "name": "Most Wanted (Deluxe)",
-        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
-      },
-      "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2022-06-10 04:01:00",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0S7csLoFSrkT3eVLMxSdFa"
       },
@@ -1131,26 +1227,6 @@
       "duration_ms": 145945,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2vzbsLzYwD9St0phYhR0Lt"
-    },
-    {
-      "added_at": "2022-06-03 15:16:09",
-      "album": {
-        "name": "CALL",
-        "url": "https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        }
-      ],
-      "duration_ms": 176701,
-      "name": "CALL",
-      "url": "https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP"
     }
   ],
   "unique_name": "New Jams",

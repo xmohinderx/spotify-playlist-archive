@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: Kid Milli\(키드밀리\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,367 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,462 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BENZO](https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BENZO](https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa) | 2:22 |
 | 2 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |
 | 3 | [Gangnam](https://open.spotify.com/track/4CCryLO92ELw3Fq0kTn8GV) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Gangnam](https://open.spotify.com/album/7F3GrKWxvLG3ZJr7iPzR04) | 2:33 |
-| 4 | [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [래원](https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9), [서동현](https://open.spotify.com/artist/1KqTeSB6Btq3D6StbKv3Uz) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 |
+| 4 | [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [서동현](https://open.spotify.com/artist/1KqTeSB6Btq3D6StbKv3Uz) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 |
 | 5 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |
 | 6 | [Red Pill \(Born from the Blue Pt\. II\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6wGvdwH0Pp9u08f28qTcGC) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 4:31 |
 | 7 | [Ride](https://open.spotify.com/track/3zc19kM0SD3H1Bi56NCUcj) | [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Ride](https://open.spotify.com/album/73hWhsjMjOJb8licVYN7sP) | 2:59 |

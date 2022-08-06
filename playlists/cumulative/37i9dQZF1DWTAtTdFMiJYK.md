@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Himonshu Parikh
 
-162 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+163 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Duur](https://open.spotify.com/track/12GcQC9YI2VWwPGxnmrSlJ) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Duur](https://open.spotify.com/album/1osbbEkkZTnW5cUA44YoVz) | 3:06 | 2021-12-06 | 2022-05-07 |
 | [Easy Bake Easy Wake](https://open.spotify.com/track/37jlSwK5rjIOTvkzAeV21B) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Easy Bake Easy Wake](https://open.spotify.com/album/7oPrvDPosF3XdPCnhTIM0I) | 5:03 | 2022-01-10 | 2022-04-15 |
 | [Ehsaas](https://open.spotify.com/track/7jY3iEgqKEnVJLLYhkPex3) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ehsaas](https://open.spotify.com/album/00Png6WHwGSedQksDn24w4) | 3:48 | 2022-04-07 |  |
+| [Ek Din](https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Ek Din](https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1) | 5:00 | 2022-08-05 |  |
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2021-12-06 | 2022-01-11 |
 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2022-01-31 |  |
 | [Faasle](https://open.spotify.com/track/3vKclvEn6o2UyHl9WR6958) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Bitter Sweet](https://open.spotify.com/album/1x1xYzNzlziGfjTGmYCKUl) | 3:08 | 2022-01-10 | 2022-03-11 |
@@ -158,7 +159,7 @@
 | [That Morning](https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW) | [Ronnie & Barty](https://open.spotify.com/artist/1VEKDeyV79I5cUU1KA2grq) | [Chapter One](https://open.spotify.com/album/7Ck1njcK2VB2BIsMHE5fzu) | 3:19 | 2022-01-10 |  |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-01-11 |
 | [Wahin Ka Wahin](https://open.spotify.com/track/3DC2ncI10e2EvocIBzIQT7) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [Superpower 2020](https://open.spotify.com/album/2ey1GnFSMrqu2QWbyjt4WE) | 5:41 | 2022-01-10 | 2022-07-29 |
-| [Wahin Ka Wahin](https://open.spotify.com/track/4ezXXcPdzmOwjfBTR3m2Zg) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [SUPERPOWER 2020](https://open.spotify.com/album/1etLBphNhwNpbzlS3quw1W) | 5:41 | 2021-12-06 |  |
+| [Wahin Ka Wahin](https://open.spotify.com/track/4ezXXcPdzmOwjfBTR3m2Zg) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [SUPERPOWER 2020](https://open.spotify.com/album/1etLBphNhwNpbzlS3quw1W) | 5:41 | 2021-12-06 | 2022-08-06 |
 | [Windy](https://open.spotify.com/track/24eAf2cgB8ZQbaxE1HaygY) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq), [Belinda Terry](https://open.spotify.com/artist/01r8UcTZF5qe9aodd9ypsx) | [Chérie](https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov) | 3:18 | 2021-12-06 | 2022-01-11 |
 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 | 2022-04-14 | 2022-07-29 |
 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 | 2022-07-25 |  |

@@ -588,6 +588,28 @@
     },
     {
       "album": {
+        "name": "Notalgie",
+        "url": "https://open.spotify.com/album/6OqhouMSH01qp4CNl1VXYQ"
+      },
+      "artists": [
+        {
+          "name": "Rayen Youssef",
+          "url": "https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk"
+        },
+        {
+          "name": "Kami Muzic",
+          "url": "https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226243,
+      "name": "Ma Nssit",
+      "url": "https://open.spotify.com/track/1TV0wz0iAOiPMETEK8ywhl"
+    },
+    {
+      "album": {
         "name": "Ma Nssit",
         "url": "https://open.spotify.com/album/72Cl1FzJTk1oWE3Nt5M6dk"
       },
@@ -603,7 +625,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 226243,
       "name": "Ma Nssit",
       "url": "https://open.spotify.com/track/6e0HpF1nCtuek085Jo6R6P"

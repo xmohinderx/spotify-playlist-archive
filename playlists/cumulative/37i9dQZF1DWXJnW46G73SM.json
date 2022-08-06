@@ -986,6 +986,24 @@
     },
     {
       "album": {
+        "name": "Enta Ekhtyar (From Bhabak Movie)",
+        "url": "https://open.spotify.com/album/0os60GScuoNH6G53ga73IE"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Enta Ekhtyar - From Bhabak Movie",
+      "url": "https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy"
+    },
+    {
+      "album": {
         "name": "Enta Farha",
         "url": "https://open.spotify.com/album/1iI8jMST3BCkWVZTTL0a7T"
       },

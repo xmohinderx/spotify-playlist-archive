@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 110690,
+  "num_followers": 110897,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDQ3NTZhMTgzM2E1ZTQ1MTgxNWI4ZWM4NjNhNWZiODQ2",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMGMyMTM0NThhM2RhMWFjYzU1NzUwNmJjNjRiNjA4YWUy",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -75,6 +75,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
+        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
+      },
+      "artists": [
+        {
+          "name": "Sigvaldi Kaldal\u00f3ns",
+          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Liszt: Scherzo and March / 3 Liebestraume / Berceuse",
         "url": "https://open.spotify.com/album/73P1eYyYBmKuBiVEhlCmfM"
       },
@@ -95,22 +115,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 78546,
-      "name": "Vladimir's Blues",
-      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
       },
@@ -127,22 +131,18 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
-        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
       "artists": [
         {
-          "name": "Sigvaldi Kaldal\u00f3ns",
-          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
+      "duration_ms": 78546,
+      "name": "Vladimir's Blues",
+      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 100013,
-      "name": "Written on the Sky",
-      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Flute and Harp",
         "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 212000,
       "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
       "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
-        }
-      ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Ravel: Orchestral Works, Vol. 3 \u2013 Orchestrations",
         "url": "https://open.spotify.com/album/4z9LfgCWY61TwlGfTpclne"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 55213,
       "name": "Pictures at an Exhibition (Orch. M. Ravel): Promenade",
       "url": "https://open.spotify.com/track/4JrrAz6CdcawJthf1LdCbE"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+        }
+      ],
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Beethoven: The Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 602746,
-      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
-      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Mendelssohn: Piano Works",
         "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 253920,
       "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
       "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 602746,
+      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
+      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -795,6 +795,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
+        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Andreas Staier",
+          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
+      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Copland: Appalachian Spring & Gould: Spirituals for String Choir and Orchestra",
         "url": "https://open.spotify.com/album/7xw82qZyF45KMw6T5q1K1Z"
       },
@@ -819,30 +843,6 @@
       "duration_ms": 218114,
       "name": "Spirituals for Orchestra: II. Sermon",
       "url": "https://open.spotify.com/track/1pvdhULiFFPXxLL3bGHaq7"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
-        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Andreas Staier",
-          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
-        },
-        {
-          "name": "Alexander Melnikov",
-          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
-      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -895,30 +895,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "\u30b7\u30e3\u30b3\u30f3\u30cc",
-        "url": "https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "\u30da\u30c8\u30ea",
-          "url": "https://open.spotify.com/artist/0JrwYlS3dVi5GEbFxGstZa"
-        },
-        {
-          "name": "\u4e0a\u539f\u7422\u77e2",
-          "url": "https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85"
-        }
-      ],
-      "duration_ms": 291013,
-      "name": "\u4e16\u4fd7\u30ab\u30f3\u30bf\u30fc\u30bf, BWV 208: ''\u7f8a\u306f\u5b89\u3089\u304b\u306b\u8349\u3092\u306f\u307f''",
-      "url": "https://open.spotify.com/track/6qhic2KXq2evfe8KkXJcCr"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -939,22 +915,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Mozart: Rondo in A Minor, K. 511",
-        "url": "https://open.spotify.com/album/29zT0TPgJphILfrFJ6hDAG"
+        "name": "\u30b7\u30e3\u30b3\u30f3\u30cc",
+        "url": "https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+          "name": "\u30da\u30c8\u30ea",
+          "url": "https://open.spotify.com/artist/0JrwYlS3dVi5GEbFxGstZa"
+        },
+        {
+          "name": "\u4e0a\u539f\u7422\u77e2",
+          "url": "https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85"
         }
       ],
-      "duration_ms": 602175,
-      "name": "Rondo in A Minor, K. 511",
-      "url": "https://open.spotify.com/track/2kAdK72mjmKiAxfAMGgXBU"
+      "duration_ms": 291013,
+      "name": "\u4e16\u4fd7\u30ab\u30f3\u30bf\u30fc\u30bf, BWV 208: ''\u7f8a\u306f\u5b89\u3089\u304b\u306b\u8349\u3092\u306f\u307f''",
+      "url": "https://open.spotify.com/track/6qhic2KXq2evfe8KkXJcCr"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1003,6 +983,26 @@
       "duration_ms": 199066,
       "name": "Mendelssohns Lieder, S. 547: Auf Flugeln des Gesanges (from Op. 34, No. 2)",
       "url": "https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Mozart: Rondo in A Minor, K. 511",
+        "url": "https://open.spotify.com/album/29zT0TPgJphILfrFJ6hDAG"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "duration_ms": 602175,
+      "name": "Rondo in A Minor, K. 511",
+      "url": "https://open.spotify.com/track/2kAdK72mjmKiAxfAMGgXBU"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1171,6 +1171,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Handel: Apollo e Dafne, HWV 122 & Armida abbandonata, HWV 105",
+        "url": "https://open.spotify.com/album/2jvPVlIwiKJvoU5p8kA6tO"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        },
+        {
+          "name": "Francesco Corti",
+          "url": "https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2"
+        }
+      ],
+      "duration_ms": 117372,
+      "name": "Almira, HWV 1 (Excerpts): Sarabande",
+      "url": "https://open.spotify.com/track/5TGdpgBRF0XI21gSWowd7y"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -1195,30 +1219,6 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Handel: Apollo e Dafne, HWV 122 & Armida abbandonata, HWV 105",
-        "url": "https://open.spotify.com/album/2jvPVlIwiKJvoU5p8kA6tO"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Il Pomo D'oro",
-          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
-        },
-        {
-          "name": "Francesco Corti",
-          "url": "https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2"
-        }
-      ],
-      "duration_ms": 117372,
-      "name": "Almira, HWV 1 (Excerpts): Sarabande",
-      "url": "https://open.spotify.com/track/5TGdpgBRF0XI21gSWowd7y"
     },
     {
       "added_at": "2022-07-29 13:33:43",

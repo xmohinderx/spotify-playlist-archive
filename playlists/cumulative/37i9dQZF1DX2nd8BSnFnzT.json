@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Tit\u00e3s",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Mukeka di Rato",
   "name": "P\u00e1tria Rock",
   "published_playlist_ids": [
     "0QCUPVPm5DzTYPmApO8yZ5"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 172935,
       "name": "Antes do Fim",
       "url": "https://open.spotify.com/track/6EBMOVo0Z7axH4LO0cYz6c"
@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Arranca a Cabe\u00e7a do Rei",
+        "url": "https://open.spotify.com/album/1hIuQvpxrUtQKSltJbbNFt"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246151,
+      "name": "Arranca a Cabe\u00e7a do Rei",
+      "url": "https://open.spotify.com/track/6d1UM3VNmsv9rez4FTlGOP"
+    },
+    {
+      "album": {
         "name": "zera",
         "url": "https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU"
       },
@@ -351,7 +369,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 261183,
       "name": "ar\u00e3o",
       "url": "https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9"
@@ -1334,6 +1352,24 @@
     },
     {
       "album": {
+        "name": "Flaca",
+        "url": "https://open.spotify.com/album/1C0HSLk5dhApjjwA59uN87"
+      },
+      "artists": [
+        {
+          "name": "Vera Loca",
+          "url": "https://open.spotify.com/artist/463Hk05MjkBYUyuB00luqt"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243057,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/3jZU0zo0TvD2HefcRyOfUa"
+    },
+    {
+      "album": {
         "name": "Fobia",
         "url": "https://open.spotify.com/album/3GZ9KILnMXfdurw7iUnrdq"
       },
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 159381,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4ummgQbLMei458Pqv3d3H2"
@@ -1809,6 +1845,24 @@
       "duration_ms": 160241,
       "name": "Luta ou Fuga",
       "url": "https://open.spotify.com/track/28PLERVExTPCA66oDXmw59"
+    },
+    {
+      "album": {
+        "name": "Boiada Suicida",
+        "url": "https://open.spotify.com/album/6Pe6o0LB5UKPSJGCRRwa5b"
+      },
+      "artists": [
+        {
+          "name": "Mukeka di Rato",
+          "url": "https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94006,
+      "name": "Luzia",
+      "url": "https://open.spotify.com/track/0R1xhETyCm9SD5zcUkw3sI"
     },
     {
       "album": {
@@ -2249,6 +2303,28 @@
       "duration_ms": 210236,
       "name": "Nome do Amor",
       "url": "https://open.spotify.com/track/0OvaGYo2WMvl9F9YvbG52H"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Existe Salvador da P\u00e1tria",
+        "url": "https://open.spotify.com/album/05sxsDhMYcRdpjLaPxWL18"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        },
+        {
+          "name": "Heran\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/33kaCkBH1iSiSR5Lh1KNCx"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228785,
+      "name": "N\u00e3o Existe Salvador da P\u00e1tria",
+      "url": "https://open.spotify.com/track/2GpZY5HNiGBNJvLAI5ggtG"
     },
     {
       "album": {
@@ -3266,6 +3342,24 @@
     },
     {
       "album": {
+        "name": "Tenho",
+        "url": "https://open.spotify.com/album/61IbbRFO2Y1aB2qHkRZS9O"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gordo",
+          "url": "https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137026,
+      "name": "Tenho",
+      "url": "https://open.spotify.com/track/2hsIagU1eyyvJ4clxjn0BX"
+    },
+    {
+      "album": {
         "name": "The Pretender",
         "url": "https://open.spotify.com/album/5yWFXP10H3JZ27grcXe4DQ"
       },
@@ -3389,7 +3483,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 206468,
       "name": "Tudo Vale A Pena?",
       "url": "https://open.spotify.com/track/7z2BlOn5mRJiRaXQb6e8Ef"
@@ -3483,7 +3577,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 185373,
       "name": "UMA BAD UMA FARRA",
       "url": "https://open.spotify.com/track/4xTuJuYX6eoypL09xTxvIM"

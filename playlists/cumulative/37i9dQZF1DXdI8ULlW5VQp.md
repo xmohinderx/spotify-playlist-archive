@@ -2,9 +2,9 @@
 
 ### [Cantamores](https://open.spotify.com/playlist/37i9dQZF1DXdI8ULlW5VQp)
 
-> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Sebastián Yatra y Pablo Alborán en portada.
+> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Yuridia y Banda MS en portada.
 
-161 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+164 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Así Quererte](https://open.spotify.com/track/6R0loMKQKrNks1IJUoBVxj) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Así Quererte](https://open.spotify.com/album/79eykvhKVzBuco5sbnwvRF) | 3:27 | 2022-02-04 |  |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 | 2022-02-04 | 2022-07-02 |
 | [Azotea](https://open.spotify.com/track/7EKgEPEAhu2hdxBPIbssPW) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Azotea](https://open.spotify.com/album/0ap97f585U01SxvlMHlJ0Y) | 3:05 | 2022-02-04 |  |
-| [Años Luz](https://open.spotify.com/track/5xr9zyuuc8uFks81hLejUo) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Años Luz](https://open.spotify.com/album/4dtJr5ahr526kxisHBjWMa) | 3:31 | 2022-02-04 |  |
+| [Años Luz](https://open.spotify.com/track/5xr9zyuuc8uFks81hLejUo) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Años Luz](https://open.spotify.com/album/4dtJr5ahr526kxisHBjWMa) | 3:31 | 2022-02-04 | 2022-08-06 |
 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 | 2022-03-11 | 2022-06-30 |
 | [Braille](https://open.spotify.com/track/1BnyQf6WeVs32MZF5ah9u0) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Braille](https://open.spotify.com/album/3SSIS1EkkgWQ6bUVDT4Qji) | 2:52 | 2022-02-04 |  |
 | [Cafuné](https://open.spotify.com/track/4DhTBCvoemYivBVHkk7RKI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 4:22 | 2022-07-01 | 2022-07-23 |
@@ -50,7 +50,7 @@
 | [cómo acaba](https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G) | 3:44 | 2022-02-04 |  |
 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 | 2022-02-04 |  |
 | [Demasiado](https://open.spotify.com/track/5k316otFvydSrNVcygfYs5) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:45 | 2022-07-01 | 2022-07-23 |
-| [Después De Ti](https://open.spotify.com/track/2oqayEwuda4Jq1yvkZaTEg) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Después De Ti](https://open.spotify.com/album/3IayybkRsPhakKWLdY5Jsu) | 2:57 | 2022-04-01 |  |
+| [Después De Ti](https://open.spotify.com/track/2oqayEwuda4Jq1yvkZaTEg) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Después De Ti](https://open.spotify.com/album/3IayybkRsPhakKWLdY5Jsu) | 2:57 | 2022-04-01 | 2022-08-06 |
 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 | 2022-02-11 | 2022-03-12 |
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-17 |  |
 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 | 2022-07-01 |  |
@@ -69,18 +69,20 @@
 | [Frío y calor](https://open.spotify.com/track/0CeCoBzqDIlG3iyMzHQ2yw) | [Eva B](https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq) | [Frío y calor](https://open.spotify.com/album/2SY9UIGTMmcyyHstgcHwwj) | 2:57 | 2022-07-01 | 2022-07-23 |
 | [FUE](https://open.spotify.com/track/7EzMotErPHP0TJ2Gv987q7) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [FUE](https://open.spotify.com/album/7agivcohsBICoHafttM2j7) | 4:02 | 2022-02-11 |  |
 | [Fuiste Mía](https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Fuiste Mía](https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW) | 3:44 | 2022-02-04 | 2022-02-19 |
+| [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 | 2022-08-05 |  |
 | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6) | 3:25 | 2022-02-04 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/73mHMjEAnw4UgF1MkVVlR4) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz](https://open.spotify.com/album/4l1yoxOuD0knVWgwpetOcj) | 3:41 | 2022-07-01 | 2022-07-23 |
 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 | 2022-02-04 |  |
 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 | 2022-02-04 |  |
 | [Huitzil](https://open.spotify.com/track/0K3GjPJMvUK4bWZZU06J1U) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Moctezuma](https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW) | 4:04 | 2022-07-01 | 2022-07-23 |
 | [Ibuprofeno](https://open.spotify.com/track/6YPvpcUcjot5d9iA9mFSN8) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:33 | 2022-07-01 | 2022-07-23 |
+| [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-08-05 |  |
 | [La Gata Bajo la Lluvia \- Sesión Acústica en Vivo](https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [La Gata Bajo la Lluvia \(Sesión Acústica en Vivo\)](https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T) | 4:08 | 2022-02-18 |  |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2022-04-01 |  |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-07-29 |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/67ApdtYt5c3qOUTtO8eU3C) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 3:46 | 2022-07-22 |  |
 | [Lenguas Muertas](https://open.spotify.com/track/5C9T6pqEEUhKAuIFSc38i7) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [Lenguas Muertas](https://open.spotify.com/album/0lIpfG8AgaXOQZtSznBXJR) | 3:58 | 2022-02-04 | 2022-07-02 |
-| [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 |  |
+| [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 | 2022-08-06 |
 | [Linda](https://open.spotify.com/track/01zArdPE8GBGOGwewivgbO) | [BERH](https://open.spotify.com/artist/0nL78jZ6Bm621Cxs3nXlYB) | [Guía para fracasar en el amor](https://open.spotify.com/album/1iXyss38cSa8VE6mdilgxA) | 2:26 | 2022-07-01 | 2022-07-23 |
 | [Llegas Tú](https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Llegas Tú](https://open.spotify.com/album/1FpQMUoPBbW919ow0vVqA9) | 3:17 | 2022-02-18 |  |
 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-29 |  |
@@ -168,6 +170,7 @@
 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 | 2022-02-04 |  |
 | [Yo Te Espero](https://open.spotify.com/track/4KSlOvbkQTJPYlBBMMPrbW) | [Fehr Rivas](https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce) | [Rockmántico](https://open.spotify.com/album/58XRXCgqyjkKpNRgaLsIpy) | 3:25 | 2022-02-04 | 2022-03-12 |
 | [¿Tú Cómo Estás? \- Radio Edit](https://open.spotify.com/track/6RGhcwYMhKy3Sqn7hK4kaP) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Las Italianas](https://open.spotify.com/album/1Wfv0oIMRHCkU2ZI9uSDRi) | 3:47 | 2022-07-11 | 2022-07-23 |
+| [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-08-05 |  |
 | [Últimas Palabras](https://open.spotify.com/track/3wvIGzrff2fqsJ0js3Yj2a) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:32 | 2022-07-01 | 2022-07-23 |
 
 \*This playlist was first scraped on 2022-02-10. Prior content cannot be recovered.

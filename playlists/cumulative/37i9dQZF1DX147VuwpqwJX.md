@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-113 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
+114 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 | 2021-11-19 |  |
 | [Love the Girls](https://open.spotify.com/track/6xFco2Xpb1t1D8d3WeCGWD) | [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW), [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo) | [Love the Girls](https://open.spotify.com/album/5mJBMQB6A5wbIHQwXAFjLx) | 3:54 | 2021-11-19 |  |
 | [March](https://open.spotify.com/track/0sm118jBfsmXhMXziLMtf9) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [March](https://open.spotify.com/album/6NA2jMLmEgq5PxrfIsMm8S) | 2:59 | 2021-11-19 |  |
+| [Mr\. Banks](https://open.spotify.com/track/4cZGoah2KgIi8y1iZwq79i) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Mr\. Banks](https://open.spotify.com/album/6I34w2tJdiPeqd1cu4KUQY) | 4:14 | 2022-08-05 |  |
 | [Musical Chairs](https://open.spotify.com/track/3fX94zWU2M0xwj4LACbyYx) | [DJ Delish](https://open.spotify.com/artist/1Dh6pMtqj1w0d5DsNm7Rfd) | [XP](https://open.spotify.com/album/2mfKcs777o7GN5gEdEtPmu) | 3:02 | 2021-11-19 |  |
 | [PINKROOM](https://open.spotify.com/track/7oGWBNcphgQDBp1nX5thm0) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [:PINKROOM](https://open.spotify.com/album/0Zwm3DHDS1nYcOB2MW3Wqb) | 2:10 | 2021-11-19 |  |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-07-29 |  |

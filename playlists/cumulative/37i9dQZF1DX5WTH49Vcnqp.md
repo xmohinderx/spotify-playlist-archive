@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn feat\. royel otis, kaytranada, jawny, king stingray
 
-476 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+479 songs - 1 day 3 hr 24 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Hi Lo](https://open.spotify.com/track/7crSXx6HOFrB7aTRgJXVAy) | [MANE](https://open.spotify.com/artist/1CtWPi5HGDgyjTTL4o2SvO) | [Hi Lo](https://open.spotify.com/album/2p09JJe77lsUy5jrQmJZvZ) | 4:02 | 2021-12-28 | 2022-02-17 |
 | [High Fidelity](https://open.spotify.com/track/6Fp3Zh7rCRiICGnPWVcCUk) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [High Fidelity](https://open.spotify.com/album/5ck0FDIBSpWzOgnEvSv6Uk) | 3:30 | 2021-12-28 | 2022-02-11 |
 | [High Rise](https://open.spotify.com/track/0jz3gUtyvKDcNKDZRjy0eS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:30 | 2022-03-03 | 2022-05-13 |
+| [Highlight](https://open.spotify.com/track/5FMwi15wu4jDg48lzOtU6j) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Highlight](https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG) | 2:33 | 2022-08-05 |  |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2022-01-13 | 2022-03-18 |
 | [Holding Back](https://open.spotify.com/track/7GpYaKxoIl1XzCjF9aGck2) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Holding Back](https://open.spotify.com/album/2BknuzgtjnuSDuPF2bjWPJ) | 3:52 | 2022-03-07 | 2022-07-22 |
 | [Holiday \- Edit](https://open.spotify.com/track/1ngvsqVxDh3FtOzUfQam59) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Holiday](https://open.spotify.com/album/2sqMPf5KvLYvzINqaKHFrS) | 3:55 | 2021-12-28 | 2022-01-25 |
@@ -262,6 +263,7 @@
 | [Love, Try Not To Let Go](https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6) | 3:43 | 2022-07-28 |  |
 | [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 | 2022-04-21 | 2022-07-15 |
 | [Lunchtime](https://open.spotify.com/track/6N62tx63qPmn4KvXJszqgr) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lunchtime](https://open.spotify.com/album/2CMjz9lnTrLQAecRlZZiL9) | 3:18 | 2021-12-28 | 2022-01-27 |
+| [Lupa](https://open.spotify.com/track/0BdZGPjIfihtxbB8YfGgLe) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [King Stingray](https://open.spotify.com/album/1I0ZpUzinqCX3rSEgADGJX) | 3:15 | 2022-08-05 |  |
 | [Lydia Wears A Cross](https://open.spotify.com/track/3790YaBSLe4av6IuC7EKSJ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Lydia Wears A Cross](https://open.spotify.com/album/555w7gNIX1GdiNMNUj9qpZ) | 4:01 | 2022-05-19 | 2022-07-05 |
 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-04 | 2022-06-10 |
 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-12 | 2022-06-17 |
@@ -423,6 +425,7 @@
 | [The Only Heartbreaker](https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Only Heartbreaker](https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY) | 3:04 | 2021-12-28 | 2022-03-02 |
 | [The Rhythm](https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:30 | 2022-04-21 | 2022-06-10 |
 | [The Search](https://open.spotify.com/track/4LiScfzw6GugnHa3jrAY98) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [The Search](https://open.spotify.com/album/68N2Oo9PfJ4xRvB0jR89CM) | 2:44 | 2022-06-30 |  |
+| [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-08-05 |  |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-17 | 2022-04-22 |
 | [The Wave](https://open.spotify.com/track/4AmW5yhWe6CcQp5s80Ysdk) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [The Wave](https://open.spotify.com/album/3V6ocE8HwhNK3HY0w1adzF) | 2:32 | 2022-04-14 | 2022-06-03 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-23 |  |

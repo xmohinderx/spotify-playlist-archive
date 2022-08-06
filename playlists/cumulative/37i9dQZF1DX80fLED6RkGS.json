@@ -722,6 +722,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154388,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
+    },
+    {
+      "album": {
         "name": "Danshie",
         "url": "https://open.spotify.com/album/7AxKRbpMpnRaJ1Dtt1XcKc"
       },

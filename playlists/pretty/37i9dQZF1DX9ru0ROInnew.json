@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 64239,
+  "num_followers": 64295,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTYxNzU4OSwwMDAwMDAwMGY1Zjc4MDcxM2YzYzY4ZWI5ZmJkNTQ1MWM4OTIyNjhj",
+  "snapshot_id": "MTY1MTYxNzU4OSwwMDAwMDAwMDM0NjE0MWVmNmZiMTIzN2NhNGQ3NGM3MTFhN2U0OTEz",
   "tracks": [
     {
       "added_at": "2022-05-03 22:39:49",
@@ -1107,38 +1107,22 @@
     {
       "added_at": "2022-05-03 22:39:49",
       "album": {
-        "name": "Solita",
-        "url": "https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
         }
       ],
-      "duration_ms": 311726,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
+      "duration_ms": 279613,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
     },
     {
       "added_at": "2022-05-03 22:39:49",
@@ -1195,22 +1179,38 @@
     {
       "added_at": "2022-05-03 22:39:49",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
         }
       ],
-      "duration_ms": 279613,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
+      "duration_ms": 311726,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
     },
     {
       "added_at": "2022-05-03 22:39:49",

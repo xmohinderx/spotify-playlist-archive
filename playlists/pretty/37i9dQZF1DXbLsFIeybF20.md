@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,970 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,989 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 23 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
 | 24 | [Hot Lips](https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [New New Orleans Jazz](https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K) | 4:54 |
 | 25 | [Take It To The Street](https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Take It To The Street](https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM) | 4:19 |
-| 26 | [Handa Wanda](https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu) | [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [Best of New Orleans \(Mardi Gras Indians\)](https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8) | 3:15 |
-| 27 | [Careless Love](https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A) | [George Lewis](https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt) | [Jazz At Preservation Hall: The George Lewis Band Of New Orleans](https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu) | 3:39 |
+| 26 | [Careless Love](https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A) | [George Lewis](https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt) | [Jazz At Preservation Hall: The George Lewis Band Of New Orleans](https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu) | 3:39 |
+| 27 | [Handa Wanda](https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu) | [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [Best of New Orleans \(Mardi Gras Indians\)](https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8) | 3:15 |
 | 28 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 2:55 |
 | 29 | [Walking Through New Orleans](https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd) | [Mr\. New Orleans](https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH) | 2:49 |
 | 30 | [Keep Your Head Up](https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Keep Your Head Up](https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm) | 3:05 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 32 | [Do It Fluid](https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [My Feet Can't Fail Me Now](https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil) | 5:12 |
 | 33 | [Tubaluba](https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Rebirth For Life](https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho) | 5:49 |
 | 34 | [Canal Street Blues](https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q) | [Dr\. Michael White](https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
-| 35 | [Mardi Gras In New Orleans](https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [Ultimate Mardi Gras](https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb) | 3:21 |
-| 36 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
+| 35 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
+| 36 | [Mardi Gras In New Orleans](https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [Ultimate Mardi Gras](https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb) | 3:21 |
 | 37 | [His Eye Is On The Sparrow](https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Shake That Thing](https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k) | 6:12 |
 | 38 | [Hotter Than That](https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 3:02 |
 | 39 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Somebody Stole My Gal](https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb) | [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN) | [Johnny St\. Cyr](https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf) | 3:38 |
 | 50 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDYxMmRhMjBjMzhmODMzODA1NjY4NDc1ODgwODZkYWQ1`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDVlMDBkZWMyMDhhYWIwNDIzZGQ0MTM2YmZlMDU1ZDg5`

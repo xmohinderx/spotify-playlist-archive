@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,327 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,336 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 26 | [Garbage Truck](https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 1:43 |
 | 27 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 28 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 |
-| 29 | [Futile Devices \(Doveman Remix\)](https://open.spotify.com/track/5iR8v6fTc33LDo2t4w3342) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 2:15 |
-| 30 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW) | 3:43 |
+| 29 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW) | 3:43 |
+| 30 | [Futile Devices \(Doveman Remix\)](https://open.spotify.com/track/5iR8v6fTc33LDo2t4w3342) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 2:15 |
 | 31 | [Hush](https://open.spotify.com/track/4aU82r5G2KTUh3HmPHCbM1) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/3VV3uHT9dEGPbgQJQRMAEy) | 4:24 |
 | 32 | [Down To The River To Pray](https://open.spotify.com/track/79x6uDDP9EAT5c35zOZhXv) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 2:55 |
 | 33 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 35 | [I’m So Humble](https://open.spotify.com/track/39F08AoluLGQ9F1J2bO4Pn) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Popstar: Never Stop Never Stopping](https://open.spotify.com/album/07fcZXkBS0y4Y80GT60PZq) | 2:32 |
 | 36 | [Run Rudolph Run \- Single Version](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
 | 37 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 |
-| 38 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 |
-| 39 | [Lebanese Blonde](https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [It Takes A Thief: The Very Best Of Thievery Corporation](https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC) | 4:49 |
+| 38 | [Lebanese Blonde](https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [It Takes A Thief: The Very Best Of Thievery Corporation](https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC) | 4:49 |
+| 39 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 |
 | 40 | [Vitamin C \- 2004 Remastered Version](https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 3:34 |
 | 41 | [Django](https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:53 |
 | 42 | [California Dreamin'](https://open.spotify.com/track/3rU0sziIji4mxvd39x6Z5X) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Quentin Tarantino's Once Upon a Time in Hollywood Original Motion Picture Soundtrack](https://open.spotify.com/album/02GEKxoVe5ITAj68mZRAM7) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [Believe](https://open.spotify.com/track/2vJAjPkVMPKkR3xd2wacZa) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Polar Express \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk) | 4:18 |
 | 50 | [Lo Boob Oscillator](https://open.spotify.com/track/5DILJYk31ZXENMY26k3br1) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Lo Boob Oscillator](https://open.spotify.com/album/5plHekIiphgTChKLttY5P4) | 6:36 |
 
-Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMGE1NjE0NDM0YWMyZWZlNmYzM2FlMTMxNDQxM2RiZjU0`
+Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMDEyYjQwZDBmZmE3OGQ0N2NmMWQ1ZGMzNzQ4MTQwZGEx`

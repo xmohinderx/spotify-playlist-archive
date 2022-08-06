@@ -1,12 +1,12 @@
 {
   "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: AVA, Medy, VillaBanks",
-  "num_followers": 704455,
+  "num_followers": 704927,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDNkNjEzMjUwNGE3ODQzM2I5ZmFhNWI3MjM4NmE0OTk2",
+  "snapshot_id": "MTY1OTcxMzMwNCwwMDAwMDAwMGJiMjIwZDEwZTkxMWIyMzE1MmVhZTZkMmZmYTM4NTM2",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -339,6 +339,46 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "CASA",
+        "url": "https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "duration_ms": 197247,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "3 DI CUORI (feat. Lazza)",
+        "url": "https://open.spotify.com/album/7IScTLAkymhF5ltesag29N"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "3 DI CUORI (feat. Lazza)",
+      "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "Non \u00e8 Easy",
         "url": "https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP"
       },
@@ -387,26 +427,6 @@
       "duration_ms": 171839,
       "name": "EGO",
       "url": "https://open.spotify.com/track/6i88tx7811AzFNDknwILat"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "3 DI CUORI (feat. Lazza)",
-        "url": "https://open.spotify.com/album/7IScTLAkymhF5ltesag29N"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "3 DI CUORI (feat. Lazza)",
-      "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -679,26 +699,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "CASA",
-        "url": "https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 197247,
-      "name": "CASA",
-      "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
@@ -783,26 +783,22 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
-        "url": "https://open.spotify.com/album/0885yPqvgNKCwcjvfSqGpK"
+        "name": "LISTA 47",
+        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
       },
       "artists": [
         {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         }
       ],
-      "duration_ms": 241368,
-      "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
-      "url": "https://open.spotify.com/track/4ts969TgdnzsYvadQ5TTm2"
+      "duration_ms": 182758,
+      "name": "BABE",
+      "url": "https://open.spotify.com/track/2CWHg8U4e8aMz4x2aL6P3O"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -835,26 +831,6 @@
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "LISTA 47",
-        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 182758,
-      "name": "BABE",
-      "url": "https://open.spotify.com/track/2CWHg8U4e8aMz4x2aL6P3O"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1123,6 +1099,30 @@
       "duration_ms": 156197,
       "name": "PYPPARE",
       "url": "https://open.spotify.com/track/2jDqFufZErKkm9JXgPc4lF"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
+        "url": "https://open.spotify.com/album/0885yPqvgNKCwcjvfSqGpK"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 241368,
+      "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
+      "url": "https://open.spotify.com/track/4ts969TgdnzsYvadQ5TTm2"
     }
   ],
   "unique_name": "Plus Ultra",

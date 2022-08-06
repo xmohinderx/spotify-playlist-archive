@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3"
+    },
+    {
+      "album": {
         "name": "\u300eONE PIECE FILM RED\u300f\u30eb\u30d5\u30a3\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
         "url": "https://open.spotify.com/album/5MLfhQGhRuDBCzGPxBo4qi"
       },

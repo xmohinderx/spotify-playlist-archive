@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTphHAHFWZlz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTphHAHFWZlz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTphHAHFWZlz)
 
-### [Rockeando](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
+### [Rockola](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> El sonido del nuevo rock argentino esta acá\. Foto: Las Sombras
+> La nueva ola del rock argentino\. Foto: Mi Amigo Invencible
 
-145 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+147 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,9 +103,11 @@
 | [Mientras Se Vive](https://open.spotify.com/track/492R0jU7XhU5cTc2ANYNEe) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Mientras Se Vive](https://open.spotify.com/album/6EXFzVKlB3dAU4mUzgkVjM) | 3:26 | 2022-06-29 |  |
 | [Mundo de Hoy](https://open.spotify.com/track/7cRM3LsSEtdOI5oLW3ZEAA) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 4:21 | 2022-07-29 |  |
 | [Mundo Entero](https://open.spotify.com/track/6xZR3mbvw2UwZOaYs2bSz7) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Mundo Entero](https://open.spotify.com/album/4hRcnbfL2s9xICNZgkjVak) | 3:22 | 2022-06-29 |  |
+| [MUZZA](https://open.spotify.com/track/4hivokN9VRz22rLhE1E3na) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [MUZZA](https://open.spotify.com/album/0hINRsC4INcD20kaRhJaLD) | 3:57 | 2022-08-05 |  |
 | [Nace Libre](https://open.spotify.com/track/2kyywPxDePakKsrwXia9KS) | [Coverheads](https://open.spotify.com/artist/4QtHE540B0R3NREWskQJcA) | [Nace Libre](https://open.spotify.com/album/4KrnLHWdKOldkroL7UMp1U) | 4:25 | 2022-06-29 | 2022-07-20 |
 | [Natación](https://open.spotify.com/track/1EaPFhLP6YF3qzOmwpXhxa) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Natación](https://open.spotify.com/album/3GDo0ywjzL2zFMoEZJIoZV) | 3:40 | 2022-07-19 |  |
 | [No Aguanto Más](https://open.spotify.com/track/2cqFQ9mcQCRpW2kdvAxUPM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:46 | 2022-07-19 |  |
+| [No Juego Más](https://open.spotify.com/track/65oxgrIHuaUwGyFzAtf5dE) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [No Juego Más](https://open.spotify.com/album/669jETLtDfGSYKZFNASzli) | 3:06 | 2022-08-05 |  |
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-06-29 |  |
 | [No Quiero Salir](https://open.spotify.com/track/0Z9EiIeAxn26L0lTVOn1aH) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [No Quiero Salir](https://open.spotify.com/album/2XYNPtHlKeJTxPAmyIbkmq) | 2:18 | 2022-06-29 |  |
 | [No Te Desvistas](https://open.spotify.com/track/4zZG2DSVUWzakbLBx0sfPY) | [Simón Abentin](https://open.spotify.com/artist/3Zs1HOnF2dqmc60qkEziol) | [Tocable, Adorable](https://open.spotify.com/album/3blcyiycMdmmomf37A0SoP) | 2:13 | 2022-06-29 | 2022-07-20 |

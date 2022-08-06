@@ -4,7 +4,7 @@
 
 > <a href ="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix this summer!
 
-24 songs - 57 min 41 sec - not published yet
+24 songs - 57 min 41 sec - [published](https://open.spotify.com/playlist/6bmULwlBHZns78X4uzO6Jh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

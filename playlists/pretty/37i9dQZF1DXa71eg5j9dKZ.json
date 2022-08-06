@@ -1,12 +1,12 @@
 {
   "description": "The home for alternative electronic music. Cover:  Mall Grab",
-  "num_followers": 403048,
+  "num_followers": 403117,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMGVkMDg3MGIyMjdlOTBjYmZiZjVlNGI0M2VkMDY5OGYw",
+  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMDY5NGNjMjViNmEzYmEyZDA3OGY2MGU2MjA4MzQ4MjJh",
   "tracks": [
     {
       "added_at": "2022-08-04 23:00:00",
@@ -415,6 +415,22 @@
       "duration_ms": 181949,
       "name": "32 Floors",
       "url": "https://open.spotify.com/track/18tuLCxBzxaHYhYMgBfxNm"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Anywhere With You EP",
+        "url": "https://open.spotify.com/album/5So0sPYfpNBhyNpvQOjnVi"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "duration_ms": 162264,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/0RG81CtArQ6WWE5W7cGocf"
     },
     {
       "added_at": "2022-08-04 23:00:00",

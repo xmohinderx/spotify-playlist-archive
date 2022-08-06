@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Almas
 
-291 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+292 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [I'll Be Fine](https://open.spotify.com/track/1Aw9n53ld5ejKig1Vml0hU) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG) | [I'll Be Fine](https://open.spotify.com/album/2lIcRzqRxCmZax0z5nXhZC) | 2:57 | 2021-12-30 | 2022-03-02 |
 | [Ila Ta7 Lil](https://open.spotify.com/track/5OLPmAFt8XET0PpaYoIuCy) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Ila Ta7 Lil](https://open.spotify.com/album/2Rqmqz8pe7NH95wNJoPGt3) | 3:34 | 2021-12-23 | 2022-02-28 |
 | [Irrelevant](https://open.spotify.com/track/4eq6MbQqOOKhqM4lWtNOyE) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Irrelevant](https://open.spotify.com/album/2bKsA9h2qEwF43ep3xWfKn) | 3:24 | 2021-12-23 | 2022-03-02 |
+| [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 | 2022-08-04 |  |
 | [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 | 2022-03-08 | 2022-07-29 |
 | [Jeet Ahrak](https://open.spotify.com/track/7EFFcVrADndTUDZt88tAK0) | [Aroa](https://open.spotify.com/artist/3YIVc1ZHmaoN4iZa6QUk7Q) | [Jeet Ahrak](https://open.spotify.com/album/3G88nKXJz9ApDpVI2ngwjk) | 3:28 | 2022-01-27 | 2022-02-02 |
 | [Joudia](https://open.spotify.com/track/1bdTseAlqJLOjf61wvOOCr) | [Soukaina Fahsi](https://open.spotify.com/artist/39DD8OzHyAs32eKK9GLQDp) | [Joudia](https://open.spotify.com/album/1fQoYFxc0EZCG6XZtC5VOC) | 5:02 | 2021-12-23 | 2022-03-01 |
@@ -196,7 +197,7 @@
 | [Right For Ya \- Acoustic](https://open.spotify.com/track/61KSj6WUn2x3hXm00ulMnC) | [Bea Kadri](https://open.spotify.com/artist/6PEL51sVVuFWxri9rDwNiN) | [Right For Ya \(Acoustic\)](https://open.spotify.com/album/2bRxJG9H1hg7APiVJcST3e) | 3:32 | 2021-12-23 | 2022-02-25 |
 | [Rise Up \(Djamil Remix\)](https://open.spotify.com/track/4rTP5QqevoJXsVTM0SCssr) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Rise Up \(Djamil Remix\)](https://open.spotify.com/album/580xZh5PyJ7o7ZAYP1507D) | 1:49 | 2021-12-23 | 2022-02-27 |
 | [Rjaa](https://open.spotify.com/track/1MMwq9i0bICg0DOUSUPBal) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [Rjaa](https://open.spotify.com/album/4L6HlkQNI76ZffRQLBkkeE) | 3:46 | 2021-12-30 | 2022-03-02 |
-| [Romansiya](https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6) | [Jana Rouhana](https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn) | [Romansiya](https://open.spotify.com/album/2QVGKT995oqS7roo29KHza) | 3:14 | 2022-03-01 |  |
+| [Romansiya](https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6) | [Jana Rouhana](https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn) | [Romansiya](https://open.spotify.com/album/2QVGKT995oqS7roo29KHza) | 3:14 | 2022-03-01 | 2022-08-06 |
 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/2FCybmEGNqquzBkIGO9RNX) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/album/4p8NJD3gKxyABRJmg55AfY) | 3:19 | 2021-12-23 | 2022-03-01 |
 | [Schizophrenia](https://open.spotify.com/track/3ln6UpBipKV385C8gNExNE) | [Shams](https://open.spotify.com/artist/5wsBasNRVJ82IYVMnhuYjZ) | [Schizophrenia](https://open.spotify.com/album/02QeynZcq6JJ9SUOwVRL3C) | 4:45 | 2021-12-30 | 2022-03-02 |
 | [Shagar El Asham](https://open.spotify.com/track/5qG6crR9QExjJpQg01QNsD) | [Dina Khaled](https://open.spotify.com/artist/5weThTvXRsX5RluYBowMJ1) | [Shagar El Asham](https://open.spotify.com/album/3a3xSHjfxecV8gzyzMxRVA) | 3:39 | 2022-03-03 | 2022-07-22 |

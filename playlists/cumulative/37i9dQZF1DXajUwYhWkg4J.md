@@ -4,7 +4,7 @@
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Rahat Fateh Ali Khan
 
-54 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/0TDkgFavNJdJUa4b2z7oKf)
+55 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/0TDkgFavNJdJUa4b2z7oKf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Rabba Ho](https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:57 | 2022-01-16 |  |
 | [Rabba Sacheya](https://open.spotify.com/track/1XCgN0cgIQOv7LdrYUPNiG) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:50 | 2022-01-16 |  |
 | [Ramooz\-e\-Ishq](https://open.spotify.com/track/0ACKL5UYeC8Jut5ff8xQ7Y) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 10:22 | 2022-01-16 |  |
+| [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 | 2022-01-16 |  |
 | [Rang](https://open.spotify.com/track/3WD0NZnFJMtEREz2uCwBSN) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 11:57 | 2022-01-16 | 2022-07-29 |
 | [Sab Aakho Ali Ali](https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:57 | 2022-01-16 |  |
 | [Sadaa](https://open.spotify.com/track/7balXXIAulX39NZ7zDe3DH) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:02 | 2022-01-16 | 2022-07-29 |

@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/2q3X7QPG8bwJH6PWTnkYR6"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218552,
+      "name": "Blue Hawaii",
+      "url": "https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF"
+    },
+    {
+      "album": {
         "name": "Bracing air",
         "url": "https://open.spotify.com/album/32UdlkgVKV9jZMO0vT073Q"
       },
@@ -2681,7 +2699,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 230553,
       "name": "School",
       "url": "https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b"

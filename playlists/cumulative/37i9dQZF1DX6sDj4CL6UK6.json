@@ -702,6 +702,28 @@
     },
     {
       "album": {
+        "name": "Hello and Goodbye",
+        "url": "https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Merchant",
+          "url": "https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp"
+        },
+        {
+          "name": "Anshuman Sharma",
+          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "Hello and Goodbye",
+      "url": "https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX"
+    },
+    {
+      "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/1BuuweRpEy3kExoCcPhZzV"
       },

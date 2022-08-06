@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 62539,
+  "num_followers": 62552,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNjAwMCwwMDAwMDAwMDM0YTJlODI3YmI4NjYyNGE3YjdkNmEyMjU0YWUyYjM0",
+  "snapshot_id": "MTY1NzgzNjAwMCwwMDAwMDAwMGEzYzJkN2Y3MTViOGM3Mjc2OTZhZjBjNTQ5ODQ4ZGI0",
   "tracks": [
     {
       "added_at": "2022-07-14 22:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
+        "name": "Bru over m\u00f8rke b\u00f8lger",
+        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Bru over m\u00f8rke b\u00f8lger",
+      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
         "name": "Underlig Frihet",
         "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 265400,
       "name": "Ka e du redd for",
       "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Bru over m\u00f8rke b\u00f8lger",
-        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Bru over m\u00f8rke b\u00f8lger",
-      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Paus synger Paus",
-        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
-      },
-      "artists": [
-        {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Mitt lille land",
-      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Paus synger Paus",
+        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
+      },
+      "artists": [
+        {
+          "name": "Ole Paus",
+          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Mitt lille land",
+      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
+        "name": "Har det no \u00e5 si",
+        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
         "name": "den tyngste turen (med Aslag Haugen)",
         "url": "https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 205062,
       "name": "den tyngste turen",
       "url": "https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
-        "name": "Har det no \u00e5 si",
-        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -779,22 +779,18 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Den st\u00f8rste reisen",
-        "url": "https://open.spotify.com/album/6SztCAuymcjUkhwCITQozJ"
+        "name": "Fra 4 Til 70",
+        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
       },
       "artists": [
         {
-          "name": "Benny Borg",
-          "url": "https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0"
-        },
-        {
-          "name": "Sigmund Groven",
-          "url": "https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT"
+          "name": "Inger Lise Rypdal",
+          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
         }
       ],
-      "duration_ms": 248303,
-      "name": "God morgen, min kj\u00e6re",
-      "url": "https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV"
+      "duration_ms": 222146,
+      "name": "En Spennende Dag for Josefine",
+      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Fra 4 Til 70",
-        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
+        "name": "Den st\u00f8rste reisen",
+        "url": "https://open.spotify.com/album/6SztCAuymcjUkhwCITQozJ"
       },
       "artists": [
         {
-          "name": "Inger Lise Rypdal",
-          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
+          "name": "Benny Borg",
+          "url": "https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0"
+        },
+        {
+          "name": "Sigmund Groven",
+          "url": "https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT"
         }
       ],
-      "duration_ms": 222146,
-      "name": "En Spennende Dag for Josefine",
-      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
+      "duration_ms": 248303,
+      "name": "God morgen, min kj\u00e6re",
+      "url": "https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV"
     },
     {
       "added_at": "2022-07-14 22:00:00",

@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Brian Eno
 
-195 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
+196 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Hate for Sale](https://open.spotify.com/track/5ZCjTGPwuevyVycVywEVj5) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 2:30 | 2022-04-08 | 2022-07-29 |
 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 | 2022-04-08 |  |
 | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/track/05d0sXGApO7BPFY9tMwCXm) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9), [Andriy Khlyvnyuk](https://open.spotify.com/artist/2VfXr8g4E0qImkefKT3Nby) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/3lBCDflEyxa7JucrV4Npwj) | 3:26 | 2022-04-08 | 2022-07-29 |
-| [Hey Hey Rise Up \- feat\. Andriy Khlyvnyuk of Boombox](https://open.spotify.com/track/2ZUSWhE5jP7CvNItpLyZwA) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/6A3OZcFfaYhUINlQU7McWU) | 3:26 | 2022-07-28 |  |
+| [Hey Hey Rise Up \- feat\. Andriy Khlyvnyuk of Boombox](https://open.spotify.com/track/2ZUSWhE5jP7CvNItpLyZwA) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/6A3OZcFfaYhUINlQU7McWU) | 3:26 | 2022-07-28 | 2022-08-06 |
 | [High and Lonesome](https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [High and Lonesome](https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K) | 4:33 | 2022-04-08 | 2022-07-23 |
 | [How Long Will I Love You 2021](https://open.spotify.com/track/4YbcwXlpp49lLHf9fMChMc) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [How Long Will I Love You 2021](https://open.spotify.com/album/1pYfMETgxBratN6EBz4yVt) | 2:52 | 2022-04-08 | 2022-07-25 |
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2022-07-28 |  |
@@ -114,6 +114,7 @@
 | [Lover Undiscovered](https://open.spotify.com/track/3YVQiEpzGi0E4cP0YBkVX3) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [Lover Undiscovered](https://open.spotify.com/album/6yM80x6SIQfX0Hly51bgw3) | 3:29 | 2022-04-08 | 2022-06-24 |
 | [Made of Stone \- Remastered](https://open.spotify.com/track/0bZelokqNQicLQfLU1Ayw8) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:14 | 2022-04-08 | 2022-07-29 |
 | [Making A Fire](https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:15 | 2022-04-08 | 2022-05-27 |
+| [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-05 |  |
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-08 | 2022-07-29 |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-28 |  |
 | [Matter of Time](https://open.spotify.com/track/3PbPLPjQDuliGVHItDtUXr) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Matter of Time / Say Hi](https://open.spotify.com/album/6Z6fyPwQzpp0XO9HvQH1d6) | 4:37 | 2022-06-06 | 2022-07-21 |

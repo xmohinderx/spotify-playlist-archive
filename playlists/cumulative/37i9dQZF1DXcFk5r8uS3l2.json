@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 227503,
       "name": "Born Of A Woman",
       "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 229626,
       "name": "Man On Fire - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva"
@@ -2822,6 +2822,28 @@
     },
     {
       "album": {
+        "name": "Modern Songwriters Vol. 1 (Hiss Golden Messenger)",
+        "url": "https://open.spotify.com/album/6iLfP1B6qKkDUHG4MAyV5c"
+      },
+      "artists": [
+        {
+          "name": "Andy Sydow",
+          "url": "https://open.spotify.com/artist/3wriMPzjc6B2yfJzzgIGhE"
+        },
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207135,
+      "name": "Standing In The Doorway",
+      "url": "https://open.spotify.com/track/4JxTF9cczFqEYFd1aJIl3W"
+    },
+    {
+      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -2953,6 +2975,24 @@
       "duration_ms": 227893,
       "name": "Take Me In",
       "url": "https://open.spotify.com/track/4AAFd6yIz0UwjxKsmStjrR"
+    },
+    {
+      "album": {
+        "name": "The Battle of Atlanta",
+        "url": "https://open.spotify.com/album/3UmdOo3j5KVnz4KBCtzu9K"
+      },
+      "artists": [
+        {
+          "name": "Lee Bains + The Glory Fires",
+          "url": "https://open.spotify.com/artist/1oTNCl6SRphYGb9NQ0toVE"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316213,
+      "name": "The Battle of Atlanta",
+      "url": "https://open.spotify.com/track/6vwDgv1N8Iyv8YyMDpuUqx"
     },
     {
       "album": {
@@ -3378,6 +3418,24 @@
     },
     {
       "album": {
+        "name": "What's Real",
+        "url": "https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF"
+      },
+      "artists": [
+        {
+          "name": "Drew Foust",
+          "url": "https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248051,
+      "name": "What's Real",
+      "url": "https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3"
+    },
+    {
+      "album": {
         "name": "Whiskey & Wonder",
         "url": "https://open.spotify.com/album/3dZbWqY6QZPSIuVGEQN6mn"
       },
@@ -3451,7 +3509,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 199306,
       "name": "Wrestling Me",
       "url": "https://open.spotify.com/track/4gQDxDlkP4qLOnhM9XGHYp"

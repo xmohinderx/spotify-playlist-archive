@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,223 likes - 101 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,331 likes - 101 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 20 | [Frank's Tune](https://open.spotify.com/track/6ATGPaFs4mMNemqPxyGteB) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Frank's Tune](https://open.spotify.com/album/5j3BQApLCKTlaFjsslOdlq) | 3:37 |
 | 21 | [Footprints](https://open.spotify.com/track/5IKKbHUHrwTAABFfsNyurq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Blue Note Re:imagined](https://open.spotify.com/album/5afRcZQsR5aBGltG3kIM34) | 6:20 |
 | 22 | [Cantaloupe Island \- Remastered](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 |
-| 23 | [Blue Train \- Remastered 2003](https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 10:44 |
+| 23 | [Blue Train \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 10:44 |
 | 24 | [I Remember Clifford \- Rudy Van Gelder Edition; 2007 Digital Remaster](https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Volume 3](https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0) | 7:09 |
 | 25 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 |
 | 26 | [A Night In Tunisia \- Rudy Van Gelder Edition / Remastered 1998](https://open.spotify.com/track/7mwfuAhF0DclPHLhKEyYdl) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:16 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 60 | [Peace](https://open.spotify.com/track/3yPmDN2p5QxPOn1UVwISLv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 5:15 |
 | 61 | [Stella By Starlight](https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 5:47 |
 | 62 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
-| 63 | [Nice And Easy \- Rudy Van Gelder Edition/Remastered 2006](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 |
+| 63 | [Nice And Easy \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 |
 | 64 | [Blues For Philly Joe \- Remastered](https://open.spotify.com/track/0gYVHFAlcb42DZ5cQQh4nj) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Newk's Time](https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY) | 6:44 |
 | 65 | [De\-Dah \- Remastered](https://open.spotify.com/track/6WWkfAJdWLvJcUs9wq33Ou) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 4:51 |
 | 66 | [April In Paris \- 2007 Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 6:43 |

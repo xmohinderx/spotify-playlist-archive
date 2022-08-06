@@ -530,6 +530,28 @@
     },
     {
       "album": {
+        "name": "atonement",
+        "url": "https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231929,
+      "name": "atonement",
+      "url": "https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu"
+    },
+    {
+      "album": {
         "name": "Attention! Shopkeeper",
         "url": "https://open.spotify.com/album/2I9MxXiaV1c02WaiAnZ6Gg"
       },
@@ -1162,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/2cnqwWCr0MG2RC1b8wbPek"
+      },
+      "artists": [
+        {
+          "name": "Atta Boy",
+          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150001,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/2JfOojeyOncDOEPB7VcEuP"
+    },
+    {
+      "album": {
         "name": "Halfway / Brooklyn Baby",
         "url": "https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK"
       },
@@ -1191,7 +1231,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 214748,
       "name": "Brooklyn Baby",
       "url": "https://open.spotify.com/track/5mSyag0Wf98fKcWRxTbSqt"
@@ -1239,6 +1279,24 @@
       "duration_ms": 183139,
       "name": "bundle of hyacinths (feat. Samia)",
       "url": "https://open.spotify.com/track/2SQ0rlJIzZSnDQTekYQhsw"
+    },
+    {
+      "album": {
+        "name": "Burnt",
+        "url": "https://open.spotify.com/album/0Q1qEXD9LLptZnO4CBvz0K"
+      },
+      "artists": [
+        {
+          "name": "Slater",
+          "url": "https://open.spotify.com/artist/0axqUvPmS7PqZp0xJTdzdG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173100,
+      "name": "Burnt",
+      "url": "https://open.spotify.com/track/5PY4JyJ5oQIxLx9iqrXXEG"
     },
     {
       "album": {
@@ -1347,6 +1405,24 @@
       "duration_ms": 264003,
       "name": "Cannibal Capital",
       "url": "https://open.spotify.com/track/2v5v3uK96QddzNNwE8YNMz"
+    },
+    {
+      "album": {
+        "name": "IT IS A PLEASURE TO BE HERE",
+        "url": "https://open.spotify.com/album/5OBMqaogOHIO6bKWJj3hpK"
+      },
+      "artists": [
+        {
+          "name": "TEEN BLUSH",
+          "url": "https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210965,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY"
     },
     {
       "album": {
@@ -1697,6 +1773,24 @@
       "duration_ms": 214067,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/1W9lPqClDs0J5ZCCUFjy5K"
+    },
+    {
+      "album": {
+        "name": "Please Don't Think About Tomorrow",
+        "url": "https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "City",
+      "url": "https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO"
     },
     {
       "album": {
@@ -2497,7 +2591,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 185120,
       "name": "Dirtbag Transformation (Still Dirty)",
       "url": "https://open.spotify.com/track/22jIDSIjnT1lmW2zrMZR3v"
@@ -3279,7 +3373,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 183004,
       "name": "Fire Eyes",
       "url": "https://open.spotify.com/track/0nXZ4ce5pUr3oOGNxfc2ZJ"
@@ -3621,7 +3715,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 300625,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/6LikaQCnbNOvmmfdn67Vb2"
@@ -4021,7 +4115,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 185956,
       "name": "Harder",
       "url": "https://open.spotify.com/track/44CcUcYAGQK8K0COHDxRp3"
@@ -4173,6 +4267,24 @@
       "duration_ms": 166933,
       "name": "Hello, Hi",
       "url": "https://open.spotify.com/track/6IVk7Q7oc6rDBIvj77HUD2"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
     },
     {
       "album": {
@@ -4635,7 +4747,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 138581,
       "name": "i had a dream that you died",
       "url": "https://open.spotify.com/track/3S7qHSnfJDGjiTsvSMd92e"
@@ -4827,6 +4939,24 @@
       "duration_ms": 206393,
       "name": "I Want to Go",
       "url": "https://open.spotify.com/track/34DwxE4orT17X00jybByld"
+    },
+    {
+      "album": {
+        "name": "I Wanted the Real Thing",
+        "url": "https://open.spotify.com/album/3wZPE5iISiwQGzt7HFsKEN"
+      },
+      "artists": [
+        {
+          "name": "Glom",
+          "url": "https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177343,
+      "name": "I Wanted the Real Thing",
+      "url": "https://open.spotify.com/track/59sCcKFTV5pShKkjSrfMH2"
     },
     {
       "album": {
@@ -5061,6 +5191,24 @@
       "duration_ms": 292066,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720"
+    },
+    {
+      "album": {
+        "name": "insomniac",
+        "url": "https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE"
+      },
+      "artists": [
+        {
+          "name": "Pasteldrip",
+          "url": "https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "insomniac",
+      "url": "https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R"
     },
     {
       "album": {
@@ -7148,6 +7296,24 @@
     },
     {
       "album": {
+        "name": "Rifter",
+        "url": "https://open.spotify.com/album/5ddhc36Yp6vD2EcwnOqq6h"
+      },
+      "artists": [
+        {
+          "name": "Sadie",
+          "url": "https://open.spotify.com/artist/79zEA2Ow6q9ianFKBru7lQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220740,
+      "name": "Rifter",
+      "url": "https://open.spotify.com/track/6yRVHH0zp9ESjgwI8IWvxc"
+    },
+    {
+      "album": {
         "name": "Righter",
         "url": "https://open.spotify.com/album/7p0eKTOpxUkB2SxWDJJ2Nu"
       },
@@ -7321,7 +7487,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 156772,
       "name": "Runner",
       "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
@@ -9501,7 +9667,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 160017,
       "name": "vampire",
       "url": "https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7"
@@ -9959,6 +10125,24 @@
       "duration_ms": 202802,
       "name": "You Are a Runner and I Am My Father's Son",
       "url": "https://open.spotify.com/track/5MUBfoCUmCLpGgqvvi3ool"
+    },
+    {
+      "album": {
+        "name": "You Follow Me Around",
+        "url": "https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6"
+      },
+      "artists": [
+        {
+          "name": "The Fades",
+          "url": "https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210120,
+      "name": "You Follow Me Around",
+      "url": "https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW"
     },
     {
       "album": {

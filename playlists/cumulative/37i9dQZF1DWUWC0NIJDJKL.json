@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 199512,
       "name": "avalanche",
       "url": "https://open.spotify.com/track/1RlmAzI27AlIpvoRN3u6Iy"
@@ -2091,6 +2091,24 @@
       "duration_ms": 130826,
       "name": "Miss Mary",
       "url": "https://open.spotify.com/track/2L4UqoRBcceVeZvPJ4mjuj"
+    },
+    {
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "album": {

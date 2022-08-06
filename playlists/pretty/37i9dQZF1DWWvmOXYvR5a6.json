@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: \bKim Seung Min(\uae40\uc2b9\ubbfc)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 150304,
+  "num_followers": 150463,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYwMzE4NCwwMDAwMDAwMDg5MDc3YWZkZTg1MzczNGU3OWFmNTFjMWYwY2YzOTU5",
+  "snapshot_id": "MTY1OTYwMzE4NCwwMDAwMDAwMGUyOGIwMTY3ZjZjYTVlNzc2NDZiMDFmNWIxZTM2MjM3",
   "tracks": [
     {
       "added_at": "2022-08-04 08:53:04",
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         },
         {
-          "name": "\ub798\uc6d0",
-          "url": "https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9"
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
         },
         {
           "name": "\uc11c\ub3d9\ud604",
@@ -703,22 +703,22 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+        "name": "Day & Night (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 207523,
-      "name": "Error (Feat. Loopy)",
-      "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
+      "duration_ms": 215573,
+      "name": "Day & Night (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "duration_ms": 207523,
+      "name": "Error (Feat. Loopy)",
+      "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
+    },
+    {
+      "added_at": "2022-08-04 08:53:04",
+      "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 124615,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
-    },
-    {
-      "added_at": "2022-08-04 08:53:04",
-      "album": {
-        "name": "Day & Night (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Day & Night (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 219090,
+      "name": "Remember me",
+      "url": "https://open.spotify.com/track/3nMLh6EKM1v7XW6flN2tLY"
+    },
+    {
+      "added_at": "2022-08-04 08:53:04",
+      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 214640,
       "name": "End of the World (Feat. GSoul)",
       "url": "https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn"
-    },
-    {
-      "added_at": "2022-08-04 08:53:04",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 219090,
-      "name": "Remember me",
-      "url": "https://open.spotify.com/track/3nMLh6EKM1v7XW6flN2tLY"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -911,22 +911,18 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+        "name": "ASH",
+        "url": "https://open.spotify.com/album/0rI1BGsvXnc4IYyBqCJ6sI"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Rich Kids Anthem (Feat. Lee Hi)",
-      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
+      "duration_ms": 183490,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/4f3E2bdBCYDvC0otoYcdXg"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -967,22 +963,6 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
-        "name": "ASH",
-        "url": "https://open.spotify.com/album/0rI1BGsvXnc4IYyBqCJ6sI"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 183490,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/4f3E2bdBCYDvC0otoYcdXg"
-    },
-    {
-      "added_at": "2022-08-04 08:53:04",
-      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 327624,
       "name": "BREATHE (Feat. MINO) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/36kGkexLBfRK1hqdJ6qmaE"
+    },
+    {
+      "added_at": "2022-08-04 08:53:04",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Rich Kids Anthem (Feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2022-08-04 08:53:04",
-      "album": {
         "name": "3-PAKTORY02",
         "url": "https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+    },
+    {
+      "added_at": "2022-08-04 08:53:04",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
-        "name": "School Rapper4 Semi Final 1",
-        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
-      },
-      "artists": [
-        {
-          "name": "Vapo",
-          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 197714,
-      "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
-    },
-    {
-      "added_at": "2022-08-04 08:53:04",
-      "album": {
         "name": "Show Me the Money 777 Episode 1",
         "url": "https://open.spotify.com/album/6yr53YySD8G0GRwveBg835"
       },
@@ -1359,6 +1335,30 @@
       "duration_ms": 266346,
       "name": "Good Day (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP"
+    },
+    {
+      "added_at": "2022-08-04 08:53:04",
+      "album": {
+        "name": "School Rapper4 Semi Final 1",
+        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
+      },
+      "artists": [
+        {
+          "name": "Vapo",
+          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 197714,
+      "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
-        "name": "One Snowy Day",
-        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "One Snowy Day (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
-    },
-    {
-      "added_at": "2022-08-04 08:53:04",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
@@ -1695,22 +1675,22 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+        "name": "One Snowy Day",
+        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         },
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 212386,
-      "name": "Actor (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
+      "duration_ms": 240800,
+      "name": "One Snowy Day (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -1727,6 +1707,26 @@
       "duration_ms": 207293,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
+    },
+    {
+      "added_at": "2022-08-04 08:53:04",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Actor (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
     },
     {
       "added_at": "2022-08-04 08:53:04",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2022-08-04 08:53:04",
       "album": {
+        "name": "VIOLINIST2",
+        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "OUT OF MY SIGHT",
+      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+    },
+    {
+      "added_at": "2022-08-04 08:53:04",
+      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
         "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 195078,
       "name": "City Life",
       "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
-    },
-    {
-      "added_at": "2022-08-04 08:53:04",
-      "album": {
-        "name": "VIOLINIST2",
-        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "OUT OF MY SIGHT",
-      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
     },
     {
       "added_at": "2022-08-04 08:53:04",

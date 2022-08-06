@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-74 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+76 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,9 @@
 | [No Stop](https://open.spotify.com/track/6VD64LAe1raY65BTkJdt5v) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [No Stop](https://open.spotify.com/album/14FD9LxC7IR05LPeDK5Ts9) | 3:46 | 2022-03-09 |  |
 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 | 2021-12-09 |  |
 | [Nouveaux parrains](https://open.spotify.com/track/4ycyOBm9iFoiNVkafhb1WW) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Nouveaux parrains](https://open.spotify.com/album/6gXYP4nPpC5k6B25h3upDa) | 2:45 | 2021-12-09 |  |
-| [Oran Marseille](https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Nadir Ben](https://open.spotify.com/artist/1hWMrdBS24eKrWxyg85Zb2), [Lakero](https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433) | [Oran Marseille](https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC) | 2:55 | 2022-06-23 |  |
+| [Oran Marseille](https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Nadirben](https://open.spotify.com/artist/6zqHGUcxVpqdd2aP3513d3), [Lakero](https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433) | [Oran Marseille](https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC) | 2:55 | 2022-06-23 |  |
 | [Peace N Love](https://open.spotify.com/track/7ohwke3nvqtXepKH6ujm5J) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 3:09 | 2021-12-09 | 2022-03-11 |
-| [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2021-12-09 |  |
+| [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2021-12-09 | 2022-08-06 |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 |  |
 | [Saint\-Valentin](https://open.spotify.com/track/6TLyzFX0FY6X52ZvZuQQpN) | [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Saint\-Valentin](https://open.spotify.com/album/55cRTgRGc5IKierDA2LIaL) | 3:01 | 2021-12-09 | 2022-06-01 |
 | [Sonia](https://open.spotify.com/track/5NuvJqrwmFovb6TGbnjjqR) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Sonia](https://open.spotify.com/album/3x3LtImIZjkp0Xw7MZj2DW) | 3:23 | 2021-12-09 |  |
@@ -71,7 +71,9 @@
 | [Thugluv](https://open.spotify.com/track/0LmBTAeJkoVntKjuUqCQHb) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [7or](https://open.spotify.com/album/1rvuk6HyweX9My7TiODYbN) | 3:05 | 2021-12-09 |  |
 | [Tir Ellil](https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Larbi Maestro](https://open.spotify.com/artist/67jF59wuJe0V1ByZ2eiUqT) | [Tir Ellil](https://open.spotify.com/album/4Nrh8I9mYMikyioVf5Gwrq) | 4:06 | 2021-12-09 |  |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-15 |  |
+| [Trigue Lycée \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycée \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-05 |  |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2021-12-09 | 2022-02-08 |
+| [Wahrani](https://open.spotify.com/track/5gTsNTIQ17LSYHvkqXHwwO) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Wahrani](https://open.spotify.com/album/3OTzJwXAHgnBasbmvb2Zep) | 2:43 | 2022-08-05 |  |
 | [Welili](https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Welili](https://open.spotify.com/album/7xUBj6AnlQlJOznWSrZ9wp) | 4:16 | 2021-12-09 | 2022-05-05 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-05-26 |  |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-12-09 | 2022-07-29 |
@@ -80,7 +82,7 @@
 | [Yep](https://open.spotify.com/track/6pFRcvL8oX5duShyl6PHYO) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Yep](https://open.spotify.com/album/1PocOFwDgl4w4i6VOuUOP3) | 3:29 | 2021-12-09 | 2022-03-10 |
 | [Yumi](https://open.spotify.com/track/5xhz6CQejKPhHPZc5Qtw2l) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Viviane Mrad](https://open.spotify.com/artist/1t1XemHRUnIGM5kjy4BX93) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 3:30 | 2021-12-09 | 2022-04-22 |
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-12-09 |  |
-| [Zo3ama](https://open.spotify.com/track/4nkTyblMWmFkGuNWGUUlED) | [Catani](https://open.spotify.com/artist/3EAwGrrl1XMcypPptaKLUs) | [Zo3ama](https://open.spotify.com/album/3vMTLVSza1gHcK1khw9ioc) | 3:59 | 2021-12-09 |  |
+| [Zo3ama](https://open.spotify.com/track/4nkTyblMWmFkGuNWGUUlED) | [Catani](https://open.spotify.com/artist/3EAwGrrl1XMcypPptaKLUs) | [Zo3ama](https://open.spotify.com/album/3vMTLVSza1gHcK1khw9ioc) | 3:59 | 2021-12-09 | 2022-08-06 |
 | [Ça fait des années](https://open.spotify.com/track/1Opks4WxGK1c1KvjJ1OlL9) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Ca fait des années](https://open.spotify.com/album/0yp3ImaA7EvBSJQBLj19lr) | 3:55 | 2021-12-09 | 2022-07-19 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

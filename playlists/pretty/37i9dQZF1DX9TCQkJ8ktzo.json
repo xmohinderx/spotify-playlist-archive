@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 15616,
+  "num_followers": 15640,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDFmOWY1MDIzODk1MzdjZDZjMjIxMWViOTExNmMwZmRi",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMGY0OGRjMDI1OWI3YmI5YmE0MmYzOGVkOWY1OWQ0MmQw",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 172160,
       "name": "Suspenso Infernal",
       "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Ya no llores",
-        "url": "https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 125176,
-      "name": "Ya no llores",
-      "url": "https://open.spotify.com/track/3KNxku9f4YfcWHbTHnH5rG"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 179573,
       "name": "El Nido",
       "url": "https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Ya no llores",
+        "url": "https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 125176,
+      "name": "Ya no llores",
+      "url": "https://open.spotify.com/track/3KNxku9f4YfcWHbTHnH5rG"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Perez Prado - Mambo",
         "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
-      },
-      "artists": [
-        {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
-        }
-      ],
-      "duration_ms": 136280,
-      "name": "El Gran Tom\u00e1s (Norman)",
-      "url": "https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Rock de los 60's",
         "url": "https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J"
       },
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Doble 2 En 1",
-        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
       },
       "artists": [
         {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
         }
       ],
-      "duration_ms": 162160,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
+      "duration_ms": 136280,
+      "name": "El Gran Tom\u00e1s (Norman)",
+      "url": "https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
+        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero Y Su Piano",
+          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "22 \u00c9xitos de Oro, vol. 4",
         "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 168213,
       "name": "Agujetas de Color de Rosa",
       "url": "https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
-        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Y Su Piano",
-          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3Iv1QPLwSmhyCiCLtF2cNy"
+        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
+        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
       },
       "artists": [
         {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "Armando Manzanero Y Su Piano",
+          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
         }
       ],
-      "duration_ms": 161960,
+      "duration_ms": 160146,
       "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/5zjF8LE5s2N4xacCXSMSCS"
+      "url": "https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
-        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Iv1QPLwSmhyCiCLtF2cNy"
       },
       "artists": [
         {
-          "name": "Armando Manzanero Y Su Piano",
-          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 160146,
+      "duration_ms": 161960,
       "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh"
+      "url": "https://open.spotify.com/track/5zjF8LE5s2N4xacCXSMSCS"
     }
   ],
   "unique_name": "60s Latino",

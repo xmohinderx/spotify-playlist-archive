@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-531 songs - 1 day 7 hr 52 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+532 songs - 1 day 7 hr 55 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2021-11-08 |  |
 | [Visionary](https://open.spotify.com/track/20YRX2bwUvbAI4iJRBre5s) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 8:33 | 2020-12-16 | 2021-01-05 |
 | [Vivid Dreams \(Instrumental Version\)](https://open.spotify.com/track/2bmHQl3qPWw5N6bJcE1Z3M) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Vivid Dreams](https://open.spotify.com/album/1YH3SLlUYqaFDf1M2Vz0Mh) | 3:00 | 2020-04-03\* | 2021-03-18 |
+| [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 | 2022-08-05 |  |
 | [Walking Over Me](https://open.spotify.com/track/7uYmG1Vxxr2FXcm78VwTBT) | [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Crossed Signals, Vol\. 11](https://open.spotify.com/album/3t6MUWKVa7P5AFtvzgpSeU) | 6:37 | 2021-01-27 | 2021-02-04 |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-08 |  |
 | [Weighted](https://open.spotify.com/track/469uSkgXM3zccp9Oz9ykJo) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Weighted](https://open.spotify.com/album/6NIy3wI2JPiGxTfwTePCPp) | 6:57 | 2021-01-18 | 2021-09-09 |

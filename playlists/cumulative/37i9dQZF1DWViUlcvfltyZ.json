@@ -1360,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP"
+      },
+      "artists": [
+        {
+          "name": "Labissodeigiorniavenire",
+          "url": "https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181918,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1Zf7qzYqsGk9SSWRxerDF0"
+    },
+    {
+      "album": {
         "name": "Libellula",
         "url": "https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev"
       },
@@ -1927,6 +1945,24 @@
       "duration_ms": 211213,
       "name": "Sereno",
       "url": "https://open.spotify.com/track/2U1XriPajBptR6r2B3hiP6"
+    },
+    {
+      "album": {
+        "name": "SESSO & OPENBAR",
+        "url": "https://open.spotify.com/album/4L6iv1xkvjlqmsIzTAh8VC"
+      },
+      "artists": [
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154405,
+      "name": "SESSO & OPENBAR",
+      "url": "https://open.spotify.com/track/4CtmrooLElIO7iZwdDMpdJ"
     },
     {
       "album": {

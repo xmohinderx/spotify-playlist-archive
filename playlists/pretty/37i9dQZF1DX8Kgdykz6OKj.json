@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1006528,
+  "num_followers": 1006843,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGNiZjM5NzM4ZDJjMTZjZmM0ODQ1MzJiNDc0ZTZhYzM1",
+  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGFlMzQ3MTkwMWRkY2RkMWI1ZWU4ZjE2YjFmZDk2M2Jm",
   "tracks": [
     {
       "added_at": "2022-07-28 22:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Donny In Valdez (PJ's Flip)",
+        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 113747,
+      "name": "Donny In Valdez - PJ's Flip",
+      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Donny In Valdez (PJ's Flip)",
-        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 113747,
-      "name": "Donny In Valdez - PJ's Flip",
-      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Practice Makes Perfect",
         "url": "https://open.spotify.com/album/0LAddiAmugmRMt6fCvBnrx"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 171061,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/4GODOFCGfppXsod6Jogh5R"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Why Don't You Come on Over",
-        "url": "https://open.spotify.com/album/0UAvsBD8DugnnebvLBwpRv"
-      },
-      "artists": [
-        {
-          "name": "love-sadKID",
-          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
-        },
-        {
-          "name": "Garrett.",
-          "url": "https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Why Don't You Come on Over",
-      "url": "https://open.spotify.com/track/7tHUHp55jbBVKFKso8W0Mv"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j"
       },
@@ -1539,6 +1519,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Why Don't You Come on Over",
+        "url": "https://open.spotify.com/album/0UAvsBD8DugnnebvLBwpRv"
+      },
+      "artists": [
+        {
+          "name": "love-sadKID",
+          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
+        },
+        {
+          "name": "Garrett.",
+          "url": "https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Why Don't You Come on Over",
+      "url": "https://open.spotify.com/track/7tHUHp55jbBVKFKso8W0Mv"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "New Day (feat. Illa J)",
         "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
@@ -1555,6 +1555,30 @@
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Lost in Translation",
+        "url": "https://open.spotify.com/album/03FXnArG7vfxSdnVygI6xx"
+      },
+      "artists": [
+        {
+          "name": "JuJu Rogers",
+          "url": "https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA"
+        },
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Regis Molina",
+          "url": "https://open.spotify.com/artist/5IHvNCXmpIHeBZkSWulM3i"
+        }
+      ],
+      "duration_ms": 297990,
+      "name": "Get Lost (feat. Regis Molina)",
+      "url": "https://open.spotify.com/track/6Bx4JNMJaAljZ8pMgpvdc9"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1595,30 +1619,6 @@
       "duration_ms": 180290,
       "name": "The Stars My Destination",
       "url": "https://open.spotify.com/track/1s0mnVoDGTp6Qh8Y6Aqtmw"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Lost in Translation",
-        "url": "https://open.spotify.com/album/03FXnArG7vfxSdnVygI6xx"
-      },
-      "artists": [
-        {
-          "name": "JuJu Rogers",
-          "url": "https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA"
-        },
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Regis Molina",
-          "url": "https://open.spotify.com/artist/5IHvNCXmpIHeBZkSWulM3i"
-        }
-      ],
-      "duration_ms": 297990,
-      "name": "Get Lost (feat. Regis Molina)",
-      "url": "https://open.spotify.com/track/6Bx4JNMJaAljZ8pMgpvdc9"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
         "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 354640,
       "name": "Breakfast At Denny's",
       "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Fonografie",
-        "url": "https://open.spotify.com/album/0RnwCZYkpbdVnodYGVYY7T"
-      },
-      "artists": [
-        {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Keep It Stepping",
-      "url": "https://open.spotify.com/track/1HUkSWIqc5tbjTjhgaTfem"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+        "name": "Fonografie",
+        "url": "https://open.spotify.com/album/0RnwCZYkpbdVnodYGVYY7T"
       },
       "artists": [
         {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
         },
         {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
         }
       ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
+      "duration_ms": 180026,
+      "name": "Keep It Stepping",
+      "url": "https://open.spotify.com/track/1HUkSWIqc5tbjTjhgaTfem"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -2019,22 +2019,30 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Here to Dance",
-        "url": "https://open.spotify.com/album/0fkb53G3ACQvajjgSV8sd9"
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
       "artists": [
         {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
         },
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Purple Cloud",
+          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
         }
       ],
-      "duration_ms": 187134,
-      "name": "Here to Dance",
-      "url": "https://open.spotify.com/track/5ElEhRmLYwWWyUtGrMgRwi"
+      "duration_ms": 216866,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/6mbUvThGAzb6hep4dl9kze"
     }
   ],
   "unique_name": "Jazz Rap",

@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-303 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
+304 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Do you really wanna know?](https://open.spotify.com/track/0dlKqhMDG7z87ZQsPMqZ5J) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Do you really wanna know?](https://open.spotify.com/album/09KfdEpKfLl5BVd2oz9Yl4) | 3:55 | 2022-07-13 | 2022-07-29 |
 | [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 | 2022-04-04 |  |
 | [Don't Need You \- Edit](https://open.spotify.com/track/2Cv8fs0SPLX1XaLQ80Lvds) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Don't Need You \(Edit\)](https://open.spotify.com/album/0QRkaf6ewruqL8zk4WG9Ne) | 4:27 | 2022-04-04 | 2022-04-21 |
+| [Don't Need You \- Edit](https://open.spotify.com/track/7oUkPewtWnIAQ8MncVTXBv) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Don't Need You \(Edit\)](https://open.spotify.com/album/7DRnBLuaOHdetg3zKcrcn0) | 4:27 | 2022-06-17 |  |
 | [Down To Hell](https://open.spotify.com/track/0bjBFEzs0cbvqNLfDMUSjH) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Down To Hell](https://open.spotify.com/album/4ALhmqLsbI7Wqg7bBYkwVD) | 3:16 | 2021-11-12 | 2022-07-29 |
 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 | 2021-11-12 |  |
 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 | 2022-07-13 |  |
@@ -138,7 +139,7 @@
 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 | 2021-11-12 | 2022-07-15 |
 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 | 2021-11-12 |  |
 | [I Am Above](https://open.spotify.com/track/6RbSpgqV4oDW0x6NxeHlqn) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I Am Above](https://open.spotify.com/album/2gocWkA7KIxe4DN7CqKuJQ) | 3:49 | 2021-11-12 | 2022-07-29 |
-| [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 | 2021-11-12 |  |
+| [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 | 2021-11-12 | 2022-08-06 |
 | [I'm Not Right](https://open.spotify.com/track/6WjD2x0UB9p9dgoZmRsh0o) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [I'm Not Right](https://open.spotify.com/album/48e7WM5EplXyxwcpya1jhm) | 3:47 | 2021-11-12 | 2022-07-29 |
 | [I.W.G.F.U.](https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [I.W.G.F.U.](https://open.spotify.com/album/2X8mrYWzbs724f3FEnSUEI) | 3:36 | 2022-07-13 | 2022-07-15 |
 | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU) | 4:07 | 2021-11-12 |  |

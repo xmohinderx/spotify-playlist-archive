@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a Pau Laggies\. 🌊✨
+> La nueva ola de artistas y creadores mexas: presentamos a Vanessa Zamora\. 🌊✨
 
-186 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+188 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-02-04 | 2022-05-20 |
 | [Noche en LA](https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Noche en LA](https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw) | 3:29 | 2022-02-04 | 2022-07-12 |
 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 | 2022-03-23 |  |
-| [Nostalgia](https://open.spotify.com/track/0A91vGTQe1bwbm6QuL8x1B) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Nostalgia](https://open.spotify.com/album/7x4Hba5M5kjsR67wCdtWnB) | 5:22 | 2022-07-01 |  |
+| [Nostalgia](https://open.spotify.com/track/0A91vGTQe1bwbm6QuL8x1B) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Nostalgia](https://open.spotify.com/album/7x4Hba5M5kjsR67wCdtWnB) | 5:22 | 2022-07-01 | 2022-08-06 |
 | [Nunca Nos Fuimos](https://open.spotify.com/track/0DN1KHZWcefWyZvlL9TWJc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:34 | 2021-12-10 | 2022-02-19 |
 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 | 2022-03-11 | 2022-07-19 |
 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 | 2021-12-10 | 2022-04-23 |
@@ -158,6 +158,7 @@
 | [signos](https://open.spotify.com/track/4Yg9FM81cRqrbSZvr84k5J) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 2:52 | 2022-05-06 |  |
 | [Simplemente](https://open.spotify.com/track/6XGj5jW59gjiGaRygj4dbn) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Simplemente](https://open.spotify.com/album/54hqlL29c3L7EAJH50RrfJ) | 2:48 | 2022-07-18 |  |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-07-22 |  |
+| [Solitario](https://open.spotify.com/track/71U47ZlZDyNpM58Zyc4MHp) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Solitario](https://open.spotify.com/album/0skWZGkmTK0L3EIhIyRJlM) | 3:46 | 2022-08-05 |  |
 | [Solo Dime Que Sí](https://open.spotify.com/track/6HOf9TzBeYZcqnzU7K8Ooa) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dany & Dary](https://open.spotify.com/artist/7AUFlop6Gy9FC9VlQfkxTt) | [Solo Dime Que Sí](https://open.spotify.com/album/73au3D856ZW0HVfvwY3OEe) | 3:24 | 2022-02-04 | 2022-06-25 |
 | [Sopa de Letritas](https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Braille EP](https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I) | 3:22 | 2021-12-10 | 2022-02-26 |
 | [Suena Tu Canto](https://open.spotify.com/track/6af3gkqJwZRgifUmWWNRTh) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Suena Tu Canto](https://open.spotify.com/album/3Go1r8uelLjlMgwAHcyokh) | 3:48 | 2022-06-24 | 2022-07-19 |
@@ -168,6 +169,7 @@
 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 | 2021-12-10 | 2022-05-20 |
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2022-04-13 |  |
 | [TQB](https://open.spotify.com/track/4C6844tUibAL9cSObEEukn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [TQB](https://open.spotify.com/album/678s8RjRxY6cXhbPmdRurI) | 2:46 | 2021-12-10 | 2022-03-05 |
+| [Tra](https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Tra](https://open.spotify.com/album/4wfQvS4UCW5pEDtUh97Wpi) | 2:02 | 2022-08-05 |  |
 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 | 2022-07-13 |  |
 | [Tu Story](https://open.spotify.com/track/6Zfe19c1eJgj6mpsLEeOzW) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [Tu Story](https://open.spotify.com/album/0YnQShjAX656vTWI9T2KuP) | 3:00 | 2021-12-10 | 2022-04-14 |
 | [tú vales la pena](https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [tú vales la pena](https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r) | 2:27 | 2021-12-10 | 2022-03-05 |
@@ -189,7 +191,7 @@
 | [¿Cuándo Pero Cuándo?](https://open.spotify.com/track/4Hsp0FRXibfhCQwKkSGTdV) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Cuándo Pero Cuándo?](https://open.spotify.com/album/5HYltXcXeofknbuBjt8X4e) | 2:34 | 2021-12-10 | 2022-07-02 |
 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 | 2021-12-10 | 2022-03-05 |
 | [¿Por qué se fue?](https://open.spotify.com/track/4HpNEIfi16VenKhhSRKSeU) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Por qué se fue?](https://open.spotify.com/album/5UX921anluxjvfwKu7EiUS) | 2:25 | 2022-06-24 |  |
-| [¿porque me tratas así? :\(](https://open.spotify.com/track/3eihjYrGNiB3svna10wYHs) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [¿porque me tratas así? :\(](https://open.spotify.com/album/2YLA0YhH8grJHJOVXh61gh) | 3:18 | 2022-02-25 |  |
+| [¿porque me tratas así? :\(](https://open.spotify.com/track/3eihjYrGNiB3svna10wYHs) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [¿porque me tratas así? :\(](https://open.spotify.com/album/2YLA0YhH8grJHJOVXh61gh) | 3:18 | 2022-02-25 | 2022-08-06 |
 | [¿Qué Diría Tu Mamá?](https://open.spotify.com/track/09LvdCg0WK24zdq6ELQ0Ex) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [¿Qué Diría Tu Mamá?](https://open.spotify.com/album/6tHe9fFOH9OMiSfwd6tmte) | 2:48 | 2022-05-20 |  |
 | [¿Qué Más Quieres De Mí?](https://open.spotify.com/track/4PWIY4NKlOU618loEsD41O) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [heartbreaker](https://open.spotify.com/album/6ZtYF02g1gexQ4lIb95qTU) | 2:46 | 2022-03-04 | 2022-07-02 |
 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 | 2022-04-22 |  |

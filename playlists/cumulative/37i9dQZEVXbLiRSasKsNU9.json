@@ -2156,6 +2156,24 @@
     },
     {
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248373,
+      "name": "Car's Outside",
+      "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
+    },
+    {
+      "album": {
         "name": "Hometown Heartbreak",
         "url": "https://open.spotify.com/album/3RCSp0KlOpBk2K0ZN9DHKR"
       },
@@ -3783,7 +3801,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 180186,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
@@ -6539,7 +6557,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 220905,
       "name": "L",
       "url": "https://open.spotify.com/track/66SBpMfdxpe7B2UF0hq4DR"
@@ -9051,6 +9069,10 @@
         {
           "name": "Die Zipfelbuben",
           "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+        },
+        {
+          "name": "DJ Cashi",
+          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
         }
       ],
       "date_added": "2022-07-24",
@@ -9495,7 +9517,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 194022,
       "name": "Pipoco",
       "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"

@@ -15698,6 +15698,24 @@
     },
     {
       "album": {
+        "name": "Outplayed",
+        "url": "https://open.spotify.com/album/6wlmcFPJTTKQOqvxH4TjhS"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Outplayed",
+      "url": "https://open.spotify.com/track/2C5uNQSSIMwwzRel5pPgha"
+    },
+    {
+      "album": {
         "name": "OUTTIE",
         "url": "https://open.spotify.com/album/2AKnMUdKA2f5xZ2NciFLHJ"
       },

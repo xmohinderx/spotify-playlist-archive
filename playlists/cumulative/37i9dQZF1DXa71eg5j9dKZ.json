@@ -592,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Anywhere With You EP",
+        "url": "https://open.spotify.com/album/5So0sPYfpNBhyNpvQOjnVi"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162264,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/0RG81CtArQ6WWE5W7cGocf"
+    },
+    {
+      "album": {
         "name": "Apricity (feat. jules)",
         "url": "https://open.spotify.com/album/3wjEG5ukwncxnrMLtrBjRU"
       },

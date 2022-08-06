@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 30414,
+  "num_followers": 30461,
   "original_name": "Dalkom Mukbang (\ub2ec\ucf64\uba39\ubc29)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4Mjg0MywwMDAwMDAwMDg4ZjJiMjc1ZmU1OTI5NTVlODU2ZTQ2YTJkMWM1NDAy",
+  "snapshot_id": "MTY1ODQ4Mjg0MywwMDAwMDAwMDY1MmIwYWZkNzMwMGE0ZDdjMmRhODRkZmE0MzllNGMw",
   "tracks": [
     {
       "added_at": "2022-07-22 09:40:43",
@@ -355,6 +355,26 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/5PEqgoVQje28EbUTKPbVFn"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Snow (Feat. Lee Moon Sae)",
+      "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
+    },
+    {
+      "added_at": "2022-07-22 09:40:43",
+      "album": {
         "name": "In the Rain",
         "url": "https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 188760,
       "name": "Umbrella (feat. Ashley Alisha, Julian Rose)",
       "url": "https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm"
-    },
-    {
-      "added_at": "2022-07-22 09:40:43",
-      "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/5PEqgoVQje28EbUTKPbVFn"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Snow (Feat. Lee Moon Sae)",
-      "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "Spring Is You",
-        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
+        "name": "Farmers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
       },
       "artists": [
         {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
         }
       ],
-      "duration_ms": 225647,
-      "name": "Spring Is You",
-      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
+      "duration_ms": 157386,
+      "name": "Strawberry Smoothie",
+      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "Farmers (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
+        "name": "Spring Is You",
+        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
       },
       "artists": [
         {
-          "name": "Lee Aram",
-          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
         }
       ],
-      "duration_ms": 157386,
-      "name": "Strawberry Smoothie",
-      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
+      "duration_ms": 225647,
+      "name": "Spring Is You",
+      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "Like A Movie",
-        "url": "https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 270240,
-      "name": "\uc548\ub418\ub098\uc694",
-      "url": "https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1"
-    },
-    {
-      "added_at": "2022-07-22 09:40:43",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 205854,
       "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
       "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
+    },
+    {
+      "added_at": "2022-07-22 09:40:43",
+      "album": {
+        "name": "Like A Movie",
+        "url": "https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 270240,
+      "name": "\uc548\ub418\ub098\uc694",
+      "url": "https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "Modern Times \u2013 Epilogue",
-        "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 205557,
-      "name": "Modern Times",
-      "url": "https://open.spotify.com/track/5fClGwV57GC2efm64bJ5Mm"
-    },
-    {
-      "added_at": "2022-07-22 09:40:43",
-      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 222576,
       "name": "Friendzone (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
+    },
+    {
+      "added_at": "2022-07-22 09:40:43",
+      "album": {
+        "name": "Modern Times \u2013 Epilogue",
+        "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 205557,
+      "name": "Modern Times",
+      "url": "https://open.spotify.com/track/5fClGwV57GC2efm64bJ5Mm"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
-    },
-    {
-      "added_at": "2022-07-22 09:40:43",
-      "album": {
         "name": "Candy Pianist",
         "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 238093,
       "name": "All That Jazz",
       "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
+    },
+    {
+      "added_at": "2022-07-22 09:40:43",
+      "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2022-07-22 09:40:43",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-07-22 09:40:43",
       "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "Dyhe",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+    },
+    {
+      "added_at": "2022-07-22 09:40:43",
+      "album": {
         "name": "FRANK",
         "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 263653,
       "name": "Even Though My Heart Breaks",
       "url": "https://open.spotify.com/track/6oUnqotL3a95tbuMTmafPj"
-    },
-    {
-      "added_at": "2022-07-22 09:40:43",
-      "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
-      },
-      "artists": [
-        {
-          "name": "Dyhe",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
     },
     {
       "added_at": "2022-07-22 09:40:43",

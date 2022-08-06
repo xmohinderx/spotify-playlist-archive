@@ -4,7 +4,7 @@
 
 > 8月6日公開<a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。The official playlist for "ONE PIECE FILM RED"\.  ©尾田栄一郎／2022「ワンピース」製作委員会
 
-19 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/6LuRPgfyQNkKYHYZnI0wNO)
+20 songs - 1 hr 19 min - [published](https://open.spotify.com/playlist/6LuRPgfyQNkKYHYZnI0wNO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [あの場所へ](https://open.spotify.com/track/3UMb7ixO3h2gRWlXUywGLa) | [晴晴゛](https://open.spotify.com/artist/7dUWtf36bq6UgxALM703pF) | [あの場所へ](https://open.spotify.com/album/2Ouwto4fMc59q99LjYp3eX) | 4:01 | 2022-06-08 |  |
 | [またね](https://open.spotify.com/track/6cnxxH19Szo8CQO38HMoPd) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [AND I LOVE YOU \(DIGITAL Ver.\)](https://open.spotify.com/album/0t05o78TsDqFboiKRc5Tow) | 5:29 | 2022-06-08 |  |
 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2022-06-08 | 2022-07-29 |
+| [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-05 |  |
 | [ルフィからのスペシャルメッセージ!](https://open.spotify.com/track/0JCQ1u56ZfhEZpGl0of9eE) | [『ONE PIECE FILM RED』](https://open.spotify.com/artist/5ZcbyO3uLbSWaAka2Gesro) | [『ONE PIECE FILM RED』ルフィからのスペシャルメッセージ!](https://open.spotify.com/album/5MLfhQGhRuDBCzGPxBo4qi) | 0:32 | 2022-06-08 |  |
 | [夢見る頃を過ぎても](https://open.spotify.com/track/3AJFjE3EvPY8daYRK1JhsV) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [夢見る頃を過ぎても](https://open.spotify.com/album/3iBS6W3PHjN9MSU2nzkPsm) | 3:53 | 2022-06-08 | 2022-07-29 |
 | [怒りをくれよ](https://open.spotify.com/track/2FXtYLpJKHEbtLuCDGpRrr) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Next One](https://open.spotify.com/album/7e4Ohezjjyg28roi8wFxhZ) | 3:28 | 2022-06-08 |  |

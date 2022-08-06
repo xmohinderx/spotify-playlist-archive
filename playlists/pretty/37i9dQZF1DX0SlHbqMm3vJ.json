@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists.",
-  "num_followers": 157218,
+  "num_followers": 157383,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMGM1MmQ0OTk0NmNiODJjYzBhZDdlZmNlYmU3ODZlZmE5",
+  "snapshot_id": "MTY1OTY4MzQwNSwwMDAwMDAwMGEyZjQ3ZDllNjc3NmRlZGY4ZGQ3YmJiYzdlZTc1YTE2",
   "tracks": [
     {
       "added_at": "2022-05-12 23:00:00",
@@ -225,56 +225,24 @@
       "url": "https://open.spotify.com/track/1DxQFCBRYmnL9P2SJfHCml"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-08-05 07:10:05",
       "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+        "name": "Sounds of My World (Deluxe)",
+        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "CHERRY SWEET",
-        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 130500,
-      "name": "CHERRY SWEET",
-      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Juju pt. 2 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI"
-      },
-      "artists": [
-        {
-          "name": "Bryann",
-          "url": "https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "Juju pt. 2 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
+      "duration_ms": 152523,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -291,6 +259,54 @@
       "duration_ms": 153946,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        }
+      ],
+      "duration_ms": 288849,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+    },
+    {
+      "added_at": "2022-02-10 23:01:00",
+      "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2022-05-26 23:00:00",
@@ -313,26 +329,6 @@
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
     },
     {
-      "added_at": "2022-06-03 03:14:27",
-      "album": {
-        "name": "TBH (To Be Honest)",
-        "url": "https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 190993,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP"
-    },
-    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "For Broken Ears",
@@ -347,6 +343,22 @@
       "duration_ms": 169411,
       "name": "Damages",
       "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+    },
+    {
+      "added_at": "2022-08-05 07:10:05",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183349,
+      "name": "Ashawo",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -417,74 +429,6 @@
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
     },
     {
-      "added_at": "2022-06-03 03:14:27",
-      "album": {
-        "name": "Ladies First",
-        "url": "https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU"
-      },
-      "artists": [
-        {
-          "name": "Dice Ailes",
-          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Rosalia",
-      "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        }
-      ],
-      "duration_ms": 288849,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
-    },
-    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "Baby Riddim",
@@ -537,22 +481,6 @@
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU"
-      },
-      "artists": [
-        {
-          "name": "Kkeda",
-          "url": "https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14"
-    },
-    {
       "added_at": "2022-03-11 00:00:00",
       "album": {
         "name": "Beauty In The Madness",
@@ -597,6 +525,22 @@
       "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "OCEAN",
@@ -619,22 +563,6 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -647,6 +575,74 @@
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2022-08-05 07:10:05",
+      "album": {
+        "name": "Brenda",
+        "url": "https://open.spotify.com/album/4hOK3Nmq4EVvaSv62bgvM2"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Brenda",
+      "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "EX BOYFRIEND",
+        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "duration_ms": 134546,
+      "name": "EX BOYFRIEND",
+      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2022-02-21 14:57:56",
@@ -691,22 +687,26 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 247333,
+      "name": "True Love (feat. Tay Iwar & Projexx)",
+      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
     },
     {
       "added_at": "2022-03-31 23:00:00",
@@ -731,30 +731,6 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "True Love (feat. Tay Iwar & Projexx)",
-      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
         "name": "Bad Influence",
         "url": "https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy"
       },
@@ -767,54 +743,6 @@
       "duration_ms": 138652,
       "name": "Bad Influence",
       "url": "https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa"
-    },
-    {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "EX BOYFRIEND",
-        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
-      },
-      "artists": [
-        {
-          "name": "Raybekah",
-          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
-        }
-      ],
-      "duration_ms": 134546,
-      "name": "EX BOYFRIEND",
-      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -833,6 +761,22 @@
       "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "5 Star",
@@ -847,6 +791,54 @@
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 213580,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
     },
     {
       "added_at": "2022-03-18 00:00:00",
@@ -867,74 +859,6 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
-    },
-    {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 213580,
-      "name": "Ginger",
-      "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
-    },
-    {
-      "added_at": "2022-02-03 23:02:00",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
@@ -951,6 +875,22 @@
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
+    },
+    {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -991,6 +931,26 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "added_at": "2022-02-03 23:02:00",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1131,22 +1091,6 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -1169,6 +1113,26 @@
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
     },
     {
+      "added_at": "2022-02-11 13:09:10",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
       "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Rave & Roses",
@@ -1187,6 +1151,22 @@
       "duration_ms": 230130,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 213658,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
     },
     {
       "added_at": "2022-03-31 23:00:00",
@@ -1225,26 +1205,6 @@
       "url": "https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7"
     },
     {
-      "added_at": "2022-02-11 13:09:10",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
       "added_at": "2022-03-31 23:00:00",
       "album": {
         "name": "Cubana",
@@ -1277,6 +1237,26 @@
       "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
+      "added_at": "2022-06-03 03:14:27",
+      "album": {
+        "name": "TBH (To Be Honest)",
+        "url": "https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 190993,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP"
+    },
+    {
       "added_at": "2022-07-22 04:14:23",
       "album": {
         "name": "Wickedest (feat. Haile)",
@@ -1299,22 +1279,54 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/5RWXh09si3FvJUE5RSH87k"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
       },
       "artists": [
         {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Ayra Starr",
+        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1"
+      },
+      "artists": [
         {
           "name": "Joeboy",
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 197052,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/0ed1N5H2xW64WEmRjF2ONv"
+      "duration_ms": 152042,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1331,22 +1343,6 @@
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -1387,38 +1383,22 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1"
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/5RWXh09si3FvJUE5RSH87k"
       },
       "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
         {
           "name": "Joeboy",
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 152042,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
-        "name": "Ayra Starr",
-        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
+      "duration_ms": 197052,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/0ed1N5H2xW64WEmRjF2ONv"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1495,6 +1475,26 @@
       "duration_ms": 175200,
       "name": "Options",
       "url": "https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Back 2 Basics",
+        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 183499,
+      "name": "Tinkerbell (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
     }
   ],
   "unique_name": "Ginger Me",

@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-448 songs - 1 day 1 hr 56 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+449 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Mis Colegas](https://open.spotify.com/track/0p3rxgmQPN5y6QEMzliGZc) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Que Corra La Voz](https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e) | 4:11 | 2021-12-06 |  |
 | [Miss Jamaica \(1962 Single Version\)](https://open.spotify.com/track/45gEtPMel2bOJsESH27sry) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Jimmy Cliff and The Beverley All Stars](https://open.spotify.com/artist/1LvmcyqdsiEM7R5T5Nz1wD) | [The Ska Singles 1961 \- 1962](https://open.spotify.com/album/58O8miZYQlsaIj6BrDwVdj) | 2:21 | 2021-12-06 | 2022-07-29 |
 | [Missing Words](https://open.spotify.com/track/4JdRsxxb2JTcWzRYB1p8vk) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Too Much Pressure](https://open.spotify.com/album/6f8SH2SA0jQjxRygfnktc6) | 3:24 | 2021-12-06 | 2022-07-27 |
+| [Missing Words](https://open.spotify.com/track/5H8TJu9PMveCEpuudqo2zV) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Too Much Pressure](https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV) | 3:24 | 2021-12-06 |  |
 | [Modo de Odio](https://open.spotify.com/track/18CI7MQbsxL9HDA2IclLOl) | [Wisecräcker](https://open.spotify.com/artist/0Xv1buguht6ttG0OECVATF), [Bernie](https://open.spotify.com/artist/6QDuZQ6x8wmwMWtNoslwFi), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1) | [20 Years \- 20 Songs](https://open.spotify.com/album/6to03Xad5VEijMfsNaFpGL) | 3:30 | 2021-12-06 | 2022-07-27 |
 | [Moliendo Café](https://open.spotify.com/track/68f0xPx4f7Tpfgxlqxtfo7) | [Boa Brass Band](https://open.spotify.com/artist/6DraB1D99Y7oV3j5Geb483), [Paxkal Guichandut](https://open.spotify.com/artist/2sN0rXvWQwvxQxukrUgscB) | [Amas de Housses](https://open.spotify.com/album/3qio04jLjMeP2xQlizoTzQ) | 4:11 | 2021-12-06 | 2022-07-29 |
 | [Momentos](https://open.spotify.com/track/6eOGzlwf9yCOxTkRS0oW6Q) | [La Muerte](https://open.spotify.com/artist/0sNZpMUnGnpMsNrkWa1QWx) | [Momentos](https://open.spotify.com/album/1thsJNnZEHgIqC6jo9SmS2) | 3:44 | 2021-12-06 | 2022-07-28 |
@@ -385,7 +386,7 @@
 | [Take Five](https://open.spotify.com/track/4oMMdE8PlUjnyNO7HRixuV) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE) | 5:04 | 2021-12-06 |  |
 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 | 2021-12-06 |  |
 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 | 2021-12-06 |  |
-| [Te Aprovechas](https://open.spotify.com/track/0BVfdk9zeaUh0yh7PyXmMK) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Ke Manera te Olvido..\. Chimol!!](https://open.spotify.com/album/5E85sgTBqIgUZLyFrLdbmS) | 3:35 | 2021-12-06 |  |
+| [Te Aprovechas](https://open.spotify.com/track/0BVfdk9zeaUh0yh7PyXmMK) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Ke Manera te Olvido..\. Chimol!!](https://open.spotify.com/album/5E85sgTBqIgUZLyFrLdbmS) | 3:35 | 2021-12-06 | 2022-08-06 |
 | [Te Necesito](https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Mi Vida En Otro Lado](https://open.spotify.com/album/1EEjdbFeFLfjtjPSRj1IqX) | 4:09 | 2021-12-06 |  |
 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 | 2021-12-06 |  |
 | [Temerario](https://open.spotify.com/track/1nO2vGrP18kP5ok92k3MOH) | [Itaca Band](https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR) | [Temerario](https://open.spotify.com/album/5NqehJUIpQ3epkcNrNogxI) | 3:21 | 2021-12-06 |  |

@@ -4,7 +4,7 @@
 
 > Mizzy Miles, Gson, Teto e Deejay Telio entram na zona.
 
-91 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+92 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Filha Da Tuga](https://open.spotify.com/track/45xbI2zYwzO0eZRplOtn5b) | [Irma](https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp) | [Filha da Tuga](https://open.spotify.com/album/0Y02EPeDM8ULYof2SbV7aN) | 2:46 | 2022-07-21 |  |
 | [Floating](https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Floating](https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW) | 3:06 | 2022-07-16 |  |
 | [GOD MODE](https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [GOD MODE](https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf) | 4:14 | 2022-07-16 |  |
+| [Golo](https://open.spotify.com/track/3D2xdEo5tgemOTwIhBq7W4) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Noname](https://open.spotify.com/artist/6xf1SJx82RDLL6wdSDDZXI) | [Golo](https://open.spotify.com/album/6qKW4hsTZL2M2O9lj8jFBe) | 2:54 | 2022-08-04 |  |
 | [HGS](https://open.spotify.com/track/5Q0GBUZ8UAXkuBk3fs1Qzh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [HGS](https://open.spotify.com/album/5PcvUawRRRaAEOJD3AGTIQ) | 2:53 | 2022-07-16 | 2022-08-02 |
 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 | 2022-07-16 |  |
 | [Kala Boka \(Freestyle\)](https://open.spotify.com/track/55XDPmIcLcO79LvrD2BVVM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Kala Boka \(Freestyle\)](https://open.spotify.com/album/4FqGp6VMERncBlCWHovVUB) | 2:49 | 2022-07-16 | 2022-07-22 |

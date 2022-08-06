@@ -4,7 +4,7 @@
 
 > Unforgettable love songs from the 1960s.
 
-91 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/3OBMQlltdDI6ehst0mhfxA)
+92 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/3OBMQlltdDI6ehst0mhfxA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,8 +84,9 @@
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2021-12-14 |  |
 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 | 2021-12-14 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2021-12-14 |  |
+| [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 | 2022-05-30 |  |
 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Definitive Soul: Sam & Dave](https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU) | 3:14 | 2021-12-14 | 2022-07-29 |
-| [When Something Is Wrong with My Baby](https://open.spotify.com/track/6nvGeEsHWysTGxy6gnhFP4) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Rhino Hi\-Five: Sam & Dave, Vol\. 2](https://open.spotify.com/album/1Dh18nTSqqjxSCyrzAnIGz) | 3:14 | 2022-05-30 |  |
+| [When Something Is Wrong with My Baby](https://open.spotify.com/track/6nvGeEsHWysTGxy6gnhFP4) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Rhino Hi\-Five: Sam & Dave, Vol\. 2](https://open.spotify.com/album/1Dh18nTSqqjxSCyrzAnIGz) | 3:14 | 2022-05-30 | 2022-08-06 |
 | [When the Girl in Your Arms Is the Girl in Your Heart \- 2005 Remaster](https://open.spotify.com/track/1jJVls8580ru1Glnumcyig) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Young Ones](https://open.spotify.com/album/07UPkUx165h6EttjbOjguo) | 2:23 | 2021-12-14 |  |
 | [When You're Young And In Love](https://open.spotify.com/track/3URfKi5DOvUaJMuTuT8osm) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [The Marvelettes](https://open.spotify.com/album/10PshaiGlvqUfdADKJXbTV) | 2:39 | 2021-12-14 |  |
 | [Will You Love Me Tomorrow](https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:40 | 2022-05-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 104110,
+  "num_followers": 104192,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDYxZTdhNmI4M2I0ZjA5OWYwNTNiZWFlNTYwMDk3ZDE5",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGI0M2IyNjdlNzhhMzcxMjJmYzMxY2JjNmU0YTdjMGUz",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Chantaje",
-        "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr"
-        }
-      ],
-      "duration_ms": 207431,
-      "name": "Chantaje",
-      "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 216746,
       "name": "Fin",
       "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Chantaje",
+        "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr"
+        }
+      ],
+      "duration_ms": 207431,
+      "name": "Chantaje",
+      "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
-      },
-      "artists": [
-        {
-          "name": "Segundo Piso",
-          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Viral Hits, Vol. 1",
         "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 215000,
       "name": "Bailame",
       "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
+      },
+      "artists": [
+        {
+          "name": "Segundo Piso",
+          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "D\u00e9jala que vuelva",
-        "url": "https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "D\u00e9jala que vuelva",
-      "url": "https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Burbujas De Amor",
         "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 243684,
       "name": "Burbujas De Amor",
       "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "D\u00e9jala que vuelva",
+        "url": "https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "D\u00e9jala que vuelva",
+      "url": "https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Bolero Falaz",
-        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 125354,
       "name": "Qu\u00e9 Maldici\u00f3n",
       "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Bolero Falaz",
+        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "La Noche De Anoche",
-        "url": "https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh"
-      },
-      "artists": [
-        {
-          "name": "Perdita Cazalla",
-          "url": "https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "La Noche De Anoche",
-      "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Pareja Del An\u0303o",
         "url": "https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 248028,
       "name": "Pareja Del An\u0303o",
       "url": "https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "La Noche De Anoche",
+        "url": "https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh"
+      },
+      "artists": [
+        {
+          "name": "Perdita Cazalla",
+          "url": "https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "La Noche De Anoche",
+      "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Duele el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY"
-      },
-      "artists": [
-        {
-          "name": "Bely Basarte",
-          "url": "https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Duele el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 185842,
       "name": "Calma",
       "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Duele el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY"
+      },
+      "artists": [
+        {
+          "name": "Bely Basarte",
+          "url": "https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Duele el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amigos con derechos",
-        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 160237,
-      "name": "Amigos con derechos",
-      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mis Covers, Vol. 3",
         "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 231910,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 160237,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
     },
     {
       "added_at": "2022-02-18 06:00:00",

@@ -2,9 +2,9 @@
 
 ### [Renegade Folk](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Singer\-songwriters who colour outside the lines\. Cover: Ariel Posen
+> Singer\-songwriters who colour outside the lines\. Cover: Bella White
 
-148 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+152 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Big Winner](https://open.spotify.com/track/75YuTb8bJxKWvG2XoFUdiv) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [Big Winner](https://open.spotify.com/album/2RqwUCA2scfelXCOSH29rt) | 3:53 | 2022-05-13 | 2022-06-28 |
 | [Blackjack County Chain](https://open.spotify.com/track/5LXa2KkGzasB6I66RG7Jay) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Blackjack County Chain](https://open.spotify.com/album/0Y4htv2b5SQzLBP9GBckhL) | 2:43 | 2022-07-15 |  |
 | [Borderline](https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Borderline](https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ) | 3:14 | 2022-05-13 |  |
-| [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 | 2022-05-13 |  |
+| [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 | 2022-05-13 | 2022-08-06 |
 | [Broken Record](https://open.spotify.com/track/7JLELSaYvnK7lm4NHuRVEO) | [Bob Sumner](https://open.spotify.com/artist/6vgVIpaKWcjKvu8nqe5iBg) | [Broken Record](https://open.spotify.com/album/7ykEG2RL9QFSLFWBl7TbnH) | 3:18 | 2022-05-13 |  |
 | [California](https://open.spotify.com/track/3Gug0Nn8OMxSKE3QhWsgB4) | [Bob Sumner](https://open.spotify.com/artist/6vgVIpaKWcjKvu8nqe5iBg) | [California](https://open.spotify.com/album/2hD5r1M47yZkRtBwlgzegB) | 4:08 | 2022-05-13 |  |
 | [CAMPFIRE](https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [CAMPFIRE](https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA) | 3:00 | 2022-07-29 |  |
@@ -53,7 +53,7 @@
 | [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 |  |
 | [Everyday](https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Everyday](https://open.spotify.com/album/0dgI0FRXO5KR5jdKhE7q4c) | 3:21 | 2022-05-13 | 2022-07-23 |
 | [Eyes Wide Open](https://open.spotify.com/track/58QBqc9hUARE3l9L7tCgTq) | [Kane Incognito](https://open.spotify.com/artist/58eTGBAXAD7beyO0btw3z8) | [Eyes Wide Open](https://open.spotify.com/album/5qAvZeaA2vZg69oGfxyNCy) | 3:36 | 2022-05-13 |  |
-| [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 | 2022-05-13 |  |
+| [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 | 2022-05-13 | 2022-08-06 |
 | [Fade Out](https://open.spotify.com/track/6B49lClM6nxx1ARMKrPsa6) | [Brandon Wolfe Scott](https://open.spotify.com/artist/3u4AhLmR5tHYc7EU9SJOVy) | [Fade Out](https://open.spotify.com/album/1w15goiQV4OE9faiPBuSqS) | 3:28 | 2022-05-13 |  |
 | [Faded Colours](https://open.spotify.com/track/0naEoV74hkLer1puxhpa4r) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:32 | 2022-07-22 |  |
 | [Faded Colours](https://open.spotify.com/track/2bWoBPVyrYrE2AfXR28iub) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Faded Colours](https://open.spotify.com/album/3aoCQdRhed8aGD1JaYaWlP) | 3:32 | 2022-05-13 | 2022-07-29 |
@@ -78,6 +78,7 @@
 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 | 2022-07-22 |  |
 | [Ink & the Ash](https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR) | [JJ and The Pillars](https://open.spotify.com/artist/79g9vsMMooAco9g2SGq4ja) | [Ink & the Ash](https://open.spotify.com/album/61FTErQNMScnIupkWWDwo7) | 3:38 | 2022-05-13 |  |
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's So Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-17 |  |
+| [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 |  |
 | [Just A Little While](https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Just A Little While](https://open.spotify.com/album/3IOaxvwYaDmoQ36meh2niy) | 2:42 | 2022-05-13 | 2022-06-04 |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2022-05-13 | 2022-06-11 |
 | [Kanituet](https://open.spotify.com/track/2UHg2rEhfGXdMkgdzu8eq2) | [Katia Rock](https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb) | [Uapen Nuta / Terre de nos aïeux](https://open.spotify.com/album/5utA00dzaUdLDJsAFkPa8N) | 4:07 | 2022-06-24 |  |
@@ -118,16 +119,18 @@
 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 | 2022-05-13 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-05-13 |  |
 | [Rise from the Wreck](https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Rise from the Wreck](https://open.spotify.com/album/13v4v7CGKvH6Iap0p2d5SF) | 4:41 | 2022-06-03 |  |
+| [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/track/2X2KFZio004eItvRC9ECOZ) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/album/6unm7HfVeFeblNky9xXvp7) | 4:34 | 2022-08-05 |  |
 | [Seasons](https://open.spotify.com/track/6E04ZDC2zmiBNonSpjVCe8) | [Blackbird Valley](https://open.spotify.com/artist/44Q243Ct8zD0pJAT6v4jGV) | [Seasons](https://open.spotify.com/album/3Wuu6SCOFRfoo0NVf40lef) | 5:01 | 2022-07-22 |  |
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 |  |
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 |  |
 | [Shooting at the Moon](https://open.spotify.com/track/6BiT0rQrxNTbglW7jBPd5D) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Shooting at the Moon](https://open.spotify.com/album/1WoVKktys2ml21iQ7nPFum) | 3:19 | 2022-06-03 | 2022-07-09 |
 | [Shreveport to L.A.](https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz) | [Mike Plume](https://open.spotify.com/artist/2bTUu34JOWSVnqOSeFmCcr) | [Shreveport to L.A.](https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH) | 3:59 | 2022-05-13 |  |
-| [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 |  |
+| [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
 | [Souvenir](https://open.spotify.com/track/0DZM7vZBFKRkXnPpq17siT) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Souvenir B/W Pale Morning](https://open.spotify.com/album/0Gsju9lPWoExFjkRdz0izK) | 3:23 | 2022-05-13 |  |
 | [Staring Down the North](https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg) | [Tylor & the Train Robbers](https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F) | [Non\-Typical Find](https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7) | 4:49 | 2022-07-22 |  |
 | [Summer Wine](https://open.spotify.com/track/35j22HqMiHRVFz6aMSYlAd) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Summer Wine](https://open.spotify.com/album/171i564OD81tTVFvBxUEIh) | 4:41 | 2022-06-03 | 2022-07-16 |
 | [Supposed To Be](https://open.spotify.com/track/0GTbfwPBpAJ8B4Dpw5Rwka) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [Supposed To Be](https://open.spotify.com/album/1jMFIViRO10jYNe5KEC9cG) | 4:46 | 2022-05-13 | 2022-07-20 |
+| [Sweet Relief](https://open.spotify.com/track/00VZJCC2kTust8GYSlpxHL) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Sweet Relief](https://open.spotify.com/album/6JZ2zxBOyJXLc5pwUTHGGJ) | 4:15 | 2022-08-05 |  |
 | [Sweet Susie](https://open.spotify.com/track/0BoSLQXei5PxiWOa6SBS44) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Born Losers](https://open.spotify.com/album/0tF53oYxCH13jauCtjJXE2) | 4:34 | 2022-07-22 |  |
 | [Sweet Susie](https://open.spotify.com/track/23CKRpyYHhGU77UJISpB32) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Born Losers](https://open.spotify.com/album/64IJHfT3gyFmGcNpjrrV8p) | 4:34 | 2022-05-13 | 2022-07-29 |
 | [Tailwinds](https://open.spotify.com/track/245B5YlJ9PnXlZ3EpbZBiQ) | [Alex Lapp](https://open.spotify.com/artist/5EyQUNPmTuQeLYPqLWBpbW) | [Tailwinds](https://open.spotify.com/album/3V9rjHfNaZ6xv8OmWO3sF2) | 3:03 | 2022-05-13 |  |
@@ -137,6 +140,7 @@
 | [The Gathering Chant](https://open.spotify.com/track/7cGZdNlgOh9JFe7MiRyfCF) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Hubert Francis](https://open.spotify.com/artist/56G0LkGEL2xPudWV4AUf9e) | [The Gathering Chant](https://open.spotify.com/album/2aiTFD9BrSl6JGkzGe4Fz7) | 1:53 | 2022-06-24 |  |
 | [The Long Way](https://open.spotify.com/track/5KOJUMQeo8SwT5G0pnaXm4) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Long Way](https://open.spotify.com/album/4wBMQcc5oKOxvL6PYVoVp9) | 3:33 | 2022-05-13 |  |
 | [The Modern Western World](https://open.spotify.com/track/6gJnNQ0HjkpjWNyWb7l263) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/167bm3icDEQTQdFwJnRS2c) | 2:20 | 2022-05-13 | 2022-06-30 |
+| [The Way I Oughta Go](https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Way I Oughta Go](https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7) | 4:10 | 2022-08-05 |  |
 | [Thief](https://open.spotify.com/track/4UPr9s5lDjjQHbA32uekzX) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Prophecies](https://open.spotify.com/album/6jxJiy3tnUX2kUpFecYXtS) | 4:10 | 2022-05-13 |  |
 | [Thief](https://open.spotify.com/track/5vKF7CCkRpFyBhKaWyVRVC) | [Raphaël Dénommé](https://open.spotify.com/artist/7Mb5Ykc43EpFUCsEXF0Nom) | [Hard Times and Broken Mind, Vol\. 1](https://open.spotify.com/album/7u2CFExHbNAgpLHFfNrt3S) | 4:40 | 2022-05-13 |  |
 | [To Die For](https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [This Mess We're In](https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9) | 3:23 | 2022-07-22 |  |
@@ -154,7 +158,7 @@
 | [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 |  |
 | [With You](https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [With You](https://open.spotify.com/album/1tqgfhub2RpAfGqXBC89EV) | 2:21 | 2022-05-13 | 2022-07-23 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2022-05-13 |  |
-| [You Think You're Like the Rain](https://open.spotify.com/track/1qSh9gR4epn8vgu5GPeGP3) | [Jenny Berkel](https://open.spotify.com/artist/4Ff0I4P7d0FLK7Ctwy2pub) | [You Think You're Like the Rain](https://open.spotify.com/album/3werwfANKByC7oTf8t8Y0w) | 2:39 | 2022-05-13 |  |
+| [You Think You're Like the Rain](https://open.spotify.com/track/1qSh9gR4epn8vgu5GPeGP3) | [Jenny Berkel](https://open.spotify.com/artist/4Ff0I4P7d0FLK7Ctwy2pub) | [You Think You're Like the Rain](https://open.spotify.com/album/3werwfANKByC7oTf8t8Y0w) | 2:39 | 2022-05-13 | 2022-08-06 |
 | [You’re Betting on a Losing Horse](https://open.spotify.com/track/72KkKffDyvx4AS6JCd3iWA) | [Old Kid](https://open.spotify.com/artist/64LbKzR0j5NrYkWNMSrAdO) | [You’re Betting on a Losing Horse](https://open.spotify.com/album/3ZasaDi3yQE1Y0xll9465N) | 2:38 | 2022-05-13 | 2022-05-28 |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

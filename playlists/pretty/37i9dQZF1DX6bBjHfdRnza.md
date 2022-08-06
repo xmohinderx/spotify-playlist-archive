@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: FOURA Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,251 likes - 99 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,307 likes - 99 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

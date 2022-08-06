@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,529 likes - 174 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,679 likes - 174 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

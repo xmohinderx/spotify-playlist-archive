@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La esquina donde la M\u00fasica Mexicana se junta con los ritmos urbanos. Ingratax & Banda MS Le\u00f3n en portada. ",
+  "description": "La esquina donde la M\u00fasica Mexicana se junta con los ritmos urbanos. Lefty SM & Santa RM en portada. ",
   "name": "El Junte",
   "published_playlist_ids": [
     "12peez7nV9NUKo6SrNqY8h"
@@ -23,6 +23,42 @@
       "duration_ms": 213180,
       "name": "10 PM - Popular",
       "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
+    },
+    {
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb"
+      },
+      "artists": [
+        {
+          "name": "Izzy La Reina",
+          "url": "https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138448,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m"
+    },
+    {
+      "album": {
+        "name": "A LO MEXA",
+        "url": "https://open.spotify.com/album/2HcE7v275MEIzkURdbqfle"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "A Lo Mexa",
+      "url": "https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M"
     },
     {
       "album": {
@@ -125,7 +161,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 184213,
       "name": "Aprendiendo A Amar",
       "url": "https://open.spotify.com/track/4UMqfxC6oXIC5V4OSZZhlX"
@@ -378,6 +414,32 @@
     },
     {
       "album": {
+        "name": "El Mero Mero",
+        "url": "https://open.spotify.com/album/0ZYDVpUhNqMIXdqAv1lrEw"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/1kOzNZLM7Hmdfl7mm3IEpd"
+    },
+    {
+      "album": {
         "name": "El Mexicano Es Cabr\u00f3n",
         "url": "https://open.spotify.com/album/7a3aHh6afvNi5WeTCRatWS"
       },
@@ -415,10 +477,32 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 170434,
       "name": "El Pelicul\u00f3n",
       "url": "https://open.spotify.com/track/6sI0vA4Cyq4mwiMRB3Wz69"
+    },
+    {
+      "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "album": {
@@ -441,6 +525,36 @@
       "duration_ms": 205677,
       "name": "El Wuero",
       "url": "https://open.spotify.com/track/7tFtEGmpRkveItiDU9ezWO"
+    },
+    {
+      "album": {
+        "name": "En El Radio Un Cochinero (Remix)",
+        "url": "https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215125,
+      "name": "En El Radio Un Cochinero (Remix)",
+      "url": "https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy"
     },
     {
       "album": {
@@ -484,6 +598,50 @@
     },
     {
       "album": {
+        "name": "Falso Amigo",
+        "url": "https://open.spotify.com/album/7iKG6XMWGzrz8OpST6DjRL"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195583,
+      "name": "Falso Amigo",
+      "url": "https://open.spotify.com/track/7Gmh0Emb8tt5XKCavZZfvD"
+    },
+    {
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/6U3xMwALsK9e4B8OFgVW92"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204489,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88"
+    },
+    {
+      "album": {
         "name": "H\u00edbrido",
         "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
       },
@@ -495,7 +653,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 174293,
       "name": "H\u00edbrido",
       "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
@@ -549,7 +707,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 206748,
       "name": "La Sierra Negra",
       "url": "https://open.spotify.com/track/2D5B6Lh4IisRpGHwRbCpl0"
@@ -681,7 +839,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
@@ -699,7 +857,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175038,
       "name": "Mi Nueva Familia",
       "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
@@ -739,7 +897,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 221813,
       "name": "No Me Pesa",
       "url": "https://open.spotify.com/track/4YU704KDCv4tyE6qQxliY3"
@@ -867,7 +1025,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 172954,
       "name": "Sencillo Soy",
       "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
@@ -889,7 +1047,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 178920,
       "name": "Separarnos",
       "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
@@ -911,6 +1069,28 @@
       "duration_ms": 174432,
       "name": "Si Me Ven",
       "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+    },
+    {
+      "album": {
+        "name": "Si Ya Hiciste El Mal",
+        "url": "https://open.spotify.com/album/5P4lgpsHxFqhnjA3GsELd5"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223872,
+      "name": "Si Ya Hiciste El Mal",
+      "url": "https://open.spotify.com/track/41c6daFVY5iMa9ObuHbTmy"
     },
     {
       "album": {
@@ -999,7 +1179,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
@@ -1073,6 +1253,54 @@
       "duration_ms": 176458,
       "name": "Ya acab\u00f3 - Con Becky G",
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
+    },
+    {
+      "album": {
+        "name": "Ya Los Miraron Pasar",
+        "url": "https://open.spotify.com/album/4L4RHzgMeqzU8LeXix4JLh"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        },
+        {
+          "name": "TipoSierraBros",
+          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Ya Los Miraron Pasar",
+      "url": "https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S"
+    },
+    {
+      "album": {
+        "name": "Yo Vengo de Abajo",
+        "url": "https://open.spotify.com/album/1kFr4XGBfsRPrtoNVxnL8m"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Locura Terminal",
+          "url": "https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Yo Vengo de Abajo",
+      "url": "https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYp0EKplWoKi"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "Soft acoustic songs that gives you a gentle start of the day.",
+  "description": "Soft songs that gives you a gentle start of the day.",
   "name": "Soft Morning",
   "published_playlist_ids": [
     "411MJYit8QvJGZThN4BLvH"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 195737,
       "name": "Cut Me Loose (feat. SKAAR) - Acoustic",
       "url": "https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 217763,
       "name": "Dancing (Mumbai Wedding) - Acoustic Version",
       "url": "https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR"
@@ -1464,6 +1464,42 @@
     },
     {
       "album": {
+        "name": "IDK You Yet (Live on Piano)",
+        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
+    },
+    {
+      "album": {
+        "name": "If I Were You",
+        "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192604,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6"
+    },
+    {
+      "album": {
         "name": "Intentions of Gold (Ann-Ki & Her Son, Pt. 1)",
         "url": "https://open.spotify.com/album/4xxunx1DdCq6Oxb5nENc4l"
       },
@@ -1569,7 +1605,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 213722,
       "name": "Leave a Light On",
       "url": "https://open.spotify.com/track/1oMUzCv0tKfrm2CK3DmMTi"
@@ -1998,6 +2034,24 @@
     },
     {
       "album": {
+        "name": "Most of Us Are Strangers",
+        "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222586,
+      "name": "Most of Us Are Strangers",
+      "url": "https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5"
+    },
+    {
+      "album": {
         "name": "Naked (Acoustic Version)",
         "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
       },
@@ -2352,6 +2406,24 @@
     },
     {
       "album": {
+        "name": "Volition",
+        "url": "https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257516,
+      "name": "Saving Us a Riot",
+      "url": "https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci"
+    },
+    {
+      "album": {
         "name": "see u tomorrow (stripped)",
         "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
       },
@@ -2471,7 +2543,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 157750,
       "name": "Should I Stay Or Should I Go",
       "url": "https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC"

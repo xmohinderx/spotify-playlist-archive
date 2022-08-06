@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,836 likes - 97 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,868 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 25 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 |
 | 26 | [Macumba](https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Macumba](https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5) | 2:44 |
 | 27 | [Son de la Loma](https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Aquellos Tiempos del Trio Matamoros](https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij) | 3:37 |
-| 28 | [Lamento Borincano](https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 4:47 |
-| 29 | [Norma la de Guadalajara](https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:34 |
+| 28 | [Norma la de Guadalajara](https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:34 |
+| 29 | [Lamento Borincano](https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 4:47 |
 | 30 | [La Mucura](https://open.spotify.com/track/43dLqTZtCewH26WBJdQZUS) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 2:11 |
 | 31 | [Nereidas](https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf) | [Los Mejores Danzones De Todos Los Tiempos](https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm) | [El Danzón Nunca Muere](https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi) | 3:05 |
 | 32 | [Popurri De Cumbias](https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Popurries Tropicales Con Las Mejores](https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH) | 6:34 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 96 | [El Barbarazo](https://open.spotify.com/track/1jxqWXRBC2Ie6lYZKVFEOM) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 3:30 |
 | 97 | [Mambo Universitario](https://open.spotify.com/track/32xH84FLeD1lEuePV242FO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:27 |
 
-Snapshot ID: `MTY0MzEzODM1MSwwMDAwMDAwMGE2YTJlZThiNTlmYzIwNjc1OTJmZWQ2MDVjYTIxYjNj`
+Snapshot ID: `MTY0MzEzODM1MSwwMDAwMDAwMDMyMmM2NWIyYzUxNzJiZTdlMzFkZGU0YjMzOTZmNDJl`

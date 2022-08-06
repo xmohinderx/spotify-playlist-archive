@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Sean Leon",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Lou Phelps",
   "name": "Northern Bars",
   "published_playlist_ids": [
     "42ubhhnACTiunpws137UPH"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 135989,
       "name": "Ain't I",
       "url": "https://open.spotify.com/track/0YeqrBR13vkgV72XnpOSWH"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 169436,
       "name": "Benefit",
       "url": "https://open.spotify.com/track/0AVbFw2G1IsVkf4uTIiB2m"
@@ -2231,6 +2231,24 @@
       "duration_ms": 211488,
       "name": "Doin' It",
       "url": "https://open.spotify.com/track/1Vla6EwEtiy1gQEUez9izW"
+    },
+    {
+      "album": {
+        "name": "Doin' Right",
+        "url": "https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155750,
+      "name": "Doin' Right",
+      "url": "https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a"
     },
     {
       "album": {
@@ -3779,7 +3797,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 171389,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6TZ4EDwLsrtQBedud4ooK7"
@@ -3819,7 +3837,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 143491,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/6wIdfsKMyAPvS9BU3SDFG8"
@@ -4796,6 +4814,24 @@
     },
     {
       "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/2tn2GnKecKdjKWy81qdVZh"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205264,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/3tNnfVqWt21iy8qqEjf0vP"
+    },
+    {
+      "album": {
         "name": "LETTER FROM MIAMI",
         "url": "https://open.spotify.com/album/4JFr8zQThD8tjFDO1aFem9"
       },
@@ -5291,7 +5327,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 178655,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/57rSXZjU9TYRPHRr9iRicu"
@@ -5778,6 +5814,32 @@
     },
     {
       "album": {
+        "name": "No Blogs Freestyle",
+        "url": "https://open.spotify.com/album/1gQ3NFcGcdk58zQXeRixk3"
+      },
+      "artists": [
+        {
+          "name": "Paris Richards",
+          "url": "https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH"
+        },
+        {
+          "name": "Sick Ppl",
+          "url": "https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0"
+        },
+        {
+          "name": "Dub J",
+          "url": "https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "No Blogs Freestyle",
+      "url": "https://open.spotify.com/track/2oCtpTlcgLrb4c42tjKAsV"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -6126,6 +6188,24 @@
     },
     {
       "album": {
+        "name": "Old Ways",
+        "url": "https://open.spotify.com/album/4gNbQq6djv8imQQPM2AAAN"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153196,
+      "name": "Old Ways",
+      "url": "https://open.spotify.com/track/03piMxNCT8PQTEYKvPBNDB"
+    },
+    {
+      "album": {
         "name": "Deltacron",
         "url": "https://open.spotify.com/album/3MWoKiMDYyehSuMn0spibu"
       },
@@ -6271,7 +6351,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 181148,
       "name": "OPTIONS",
       "url": "https://open.spotify.com/track/10O2c7a36DBzcWdEkv1gL9"
@@ -6329,7 +6409,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 138320,
       "name": "Out The Country",
       "url": "https://open.spotify.com/track/5h7tjPe7phDMi85EIS2USv"
@@ -6660,6 +6740,24 @@
     },
     {
       "album": {
+        "name": "Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/6BTrHJBSwuoagEuyrWfSxV"
+      },
+      "artists": [
+        {
+          "name": "Exmiranda",
+          "url": "https://open.spotify.com/artist/0lfVICBd5hDKhuTZJwj6br"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148521,
+      "name": "Pi\u00f1ata",
+      "url": "https://open.spotify.com/track/1f1pJVRhSDROq6cRALKTqO"
+    },
+    {
+      "album": {
         "name": "RXGSZN",
         "url": "https://open.spotify.com/album/54QHxg1zyRs1e2zK4dGJUd"
       },
@@ -6675,7 +6773,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 237108,
       "name": "Politics As Usual",
       "url": "https://open.spotify.com/track/29aELZNPrbzYrxVyA98sFz"
@@ -7046,6 +7144,24 @@
     },
     {
       "album": {
+        "name": "Tabula Rasa",
+        "url": "https://open.spotify.com/album/6jSf819742hblzISvDRCxm"
+      },
+      "artists": [
+        {
+          "name": "Sinzere",
+          "url": "https://open.spotify.com/artist/5cz6c3YrUMlDVbmfZfdCat"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171103,
+      "name": "Ric Flair Flo",
+      "url": "https://open.spotify.com/track/4TbWunQP478kjcIlK4U3fP"
+    },
+    {
+      "album": {
         "name": "Rico",
         "url": "https://open.spotify.com/album/3b0TVHf3QNSLOHJG4goi7K"
       },
@@ -7333,6 +7449,24 @@
       "duration_ms": 162637,
       "name": "Semelles Rouges",
       "url": "https://open.spotify.com/track/3dz6pALqpl62Z62mg2P4ng"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/5mHCTjgGKFKOSlH9G3fDpv"
+      },
+      "artists": [
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126131,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/48Np56fNvSl8uoszBXjl9p"
     },
     {
       "album": {
@@ -7630,6 +7764,32 @@
     },
     {
       "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "album": {
         "name": "Steam Fish",
         "url": "https://open.spotify.com/album/1F3UJN3NBkJ2GgAtGIqtdp"
       },
@@ -7743,7 +7903,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 197200,
       "name": "stop",
       "url": "https://open.spotify.com/track/6WpAquDjtUI6hJQcf8GgcH"
@@ -7768,6 +7928,24 @@
     },
     {
       "album": {
+        "name": "STUDIO VIBEZ",
+        "url": "https://open.spotify.com/album/11lzteeRXXyfgRfBfWFhva"
+      },
+      "artists": [
+        {
+          "name": "YSN Fab",
+          "url": "https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195697,
+      "name": "STUDIO VIBEZ",
+      "url": "https://open.spotify.com/track/0kcthuFOWEHrbUiDAJfnRO"
+    },
+    {
+      "album": {
         "name": "SUMMERTIME",
         "url": "https://open.spotify.com/album/4VBoDRXP0FVBQlKxdIsLeg"
       },
@@ -7783,6 +7961,24 @@
       "duration_ms": 211061,
       "name": "SUMMERTIME",
       "url": "https://open.spotify.com/track/3lFuXo498QNoaYrIW2p6bf"
+    },
+    {
+      "album": {
+        "name": "Sunset Silhouette",
+        "url": "https://open.spotify.com/album/5T0lPGzGye9OrqxjA07xOX"
+      },
+      "artists": [
+        {
+          "name": "GABI.",
+          "url": "https://open.spotify.com/artist/7GJYItBw6A5skqnKs9Bbrz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Sunset Silhouette",
+      "url": "https://open.spotify.com/track/00EWIuH62u7J34Lrk8ZaG8"
     },
     {
       "album": {
@@ -7909,7 +8105,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 194847,
       "name": "Take A Trip",
       "url": "https://open.spotify.com/track/0C5XDxZ4ko10KK8syW6gG2"
@@ -8061,7 +8257,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 198736,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/6P6qgj7lJYQU4Y2Iw5VoAk"
@@ -8369,6 +8565,24 @@
       "duration_ms": 173714,
       "name": "Top Shotta",
       "url": "https://open.spotify.com/track/2SBbMG5Yy9NCGXOEpZZSOi"
+    },
+    {
+      "album": {
+        "name": "Touch\u00e9",
+        "url": "https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163310,
+      "name": "Touch\u00e9",
+      "url": "https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU"
     },
     {
       "album": {
@@ -9079,6 +9293,24 @@
       "duration_ms": 203538,
       "name": "Y OFC",
       "url": "https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/2Npxqa1XGU4W5VeF6TT0L2"
+      },
+      "artists": [
+        {
+          "name": "MOULA 1ST",
+          "url": "https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124583,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/48tYeh5ztFzgkdpRjxQOFx"
     },
     {
       "album": {

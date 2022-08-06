@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "it's scary hours...\u26c8 cover: King Combs",
+  "description": "it's scary hours...\u26c8 cover: Jennifer Lopez",
   "name": "mid:nite storm ",
   "published_playlist_ids": [
     "5JxuVXVwLcumgmoRyl2uUE"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "90's Love",
+        "url": "https://open.spotify.com/album/2Hk0ZF1VM15CuaN2f8aWbF"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207781,
+      "name": "90's Love",
+      "url": "https://open.spotify.com/track/6izMYA7zfbugQijioqoUIi"
+    },
     {
       "album": {
         "name": "Truthfully Speaking",
@@ -103,7 +121,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 295573,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/14lSJMKcSLUgrSI41Svfmf"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
@@ -2166,6 +2184,24 @@
     },
     {
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "album": {
         "name": "The Interlude",
         "url": "https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX"
       },
@@ -2373,7 +2409,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 253622,
       "name": "Ooowee (feat. Elijah Dax)",
       "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
@@ -2531,6 +2567,24 @@
       "duration_ms": 162436,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao"
+    },
+    {
+      "album": {
+        "name": "Rhythm of You",
+        "url": "https://open.spotify.com/album/1quh5KBdh5voOJCYqnRgNx"
+      },
+      "artists": [
+        {
+          "name": "Jenna Bennett",
+          "url": "https://open.spotify.com/artist/01F4laId5DDuQ2UdV9ihcC"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136193,
+      "name": "Rhythm of You",
+      "url": "https://open.spotify.com/track/00cThe80WMLCYyXsjytrOq"
     },
     {
       "album": {

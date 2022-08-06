@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 221552,
       "name": "Animales",
       "url": "https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW"
@@ -5009,6 +5009,24 @@
       "duration_ms": 204174,
       "name": "Plantas Negras",
       "url": "https://open.spotify.com/track/1e3MJffTvLGxQSPBRj9Zs9"
+    },
+    {
+      "album": {
+        "name": "Savia Roja",
+        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
+      },
+      "artists": [
+        {
+          "name": "Las Luces Primeras",
+          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204174,
+      "name": "Plantas Negras",
+      "url": "https://open.spotify.com/track/4WfgAerrEu6fFl8g1LBX3f"
     },
     {
       "album": {

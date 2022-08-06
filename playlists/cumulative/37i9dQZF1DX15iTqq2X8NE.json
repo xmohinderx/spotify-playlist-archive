@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O"
+      },
+      "artists": [
+        {
+          "name": "Tageel",
+          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206808,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje"
+    },
+    {
+      "album": {
         "name": "Gana El Baby",
         "url": "https://open.spotify.com/album/2Q8ccrpPej3euPH2DAcKTc"
       },
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 313220,
       "name": "Waraga",
       "url": "https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 688326,
       "name": "\u0627\u0644\u062d\u0632\u0646 \u0627\u0644\u0646\u0628\u064a\u0644",
       "url": "https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I"
@@ -1947,6 +1965,24 @@
       "duration_ms": 219675,
       "name": "\u062d\u0628\u0643 \u0648\u0637\u0646",
       "url": "https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k"
+    },
+    {
+      "album": {
+        "name": "\u0641\u0631\u0635\u0629",
+        "url": "https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj"
+      },
+      "artists": [
+        {
+          "name": "Gadoora",
+          "url": "https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124027,
+      "name": "\u0641\u0631\u0635\u0629",
+      "url": "https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb"
     },
     {
       "album": {

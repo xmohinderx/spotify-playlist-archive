@@ -1,12 +1,12 @@
 {
   "description": "beautiful beats for beautiful moments. ",
-  "num_followers": 17581,
+  "num_followers": 17677,
   "original_name": "lofi summer haze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMDJmZjU4MGJjNzZjY2Q5YmQ4ZDg1N2UwNjlhMWY2YWFl",
+  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMDYwYzE0Mjg2MWYxZjM5YzE3YzZmOTVmYjc4NzUyMDQw",
   "tracks": [
     {
       "added_at": "2022-08-05 00:00:00",
@@ -2335,6 +2335,58 @@
     {
       "added_at": "2022-08-05 00:00:00",
       "album": {
+        "name": "duduk",
+        "url": "https://open.spotify.com/album/1LsXJCniTm4NrKhAGjcjSg"
+      },
+      "artists": [
+        {
+          "name": "Jokabi",
+          "url": "https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "duduk",
+      "url": "https://open.spotify.com/track/5l2hrRZTPzvxTpiqLYOH4N"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "Past Reticence",
+        "url": "https://open.spotify.com/album/5Suo8oI3CAmlIBS9dqjar7"
+      },
+      "artists": [
+        {
+          "name": "Palpal",
+          "url": "https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb"
+        },
+        {
+          "name": "icey wavs",
+          "url": "https://open.spotify.com/artist/5bH4uA7ERJ2A6EIWa7eHwQ"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Past Reticence",
+      "url": "https://open.spotify.com/track/00ww2dqh7xOhuCB8EcbJDp"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "Steinmetz",
+        "url": "https://open.spotify.com/album/4QZfBtiRjvukoOSmdTuTXT"
+      },
+      "artists": [
+        {
+          "name": "Jakspin",
+          "url": "https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ"
+        }
+      ],
+      "duration_ms": 136744,
+      "name": "Steinmetz",
+      "url": "https://open.spotify.com/track/2EfrdKFmQNFZw2MRCR1QjI"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
         "name": "First Blossoms",
         "url": "https://open.spotify.com/album/6fy2dixEx1GmxhN0i2Zhj1"
       },
@@ -2383,6 +2435,26 @@
       "duration_ms": 144000,
       "name": "Longing For",
       "url": "https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/51vEhtHYjuIE1wTheYZqJH"
+      },
+      "artists": [
+        {
+          "name": "Pierson Booth",
+          "url": "https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER"
+        },
+        {
+          "name": "brass.beats",
+          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
+        }
+      ],
+      "duration_ms": 103432,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1kzYeqzmuHWFGWzhG6R3uJ"
     },
     {
       "added_at": "2022-08-05 00:00:00",

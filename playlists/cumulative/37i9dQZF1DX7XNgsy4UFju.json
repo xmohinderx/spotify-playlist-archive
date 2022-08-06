@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: U.S. Girls",
+  "description": "Home to all the latest indie jams. Cover: Two Door Cinema Club",
   "name": "Indie All Stars",
   "published_playlist_ids": [
     "4hpfeoyJCUxj1W1YZOVAqm"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 170386,
       "name": "Alpha Zulu",
       "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
@@ -2075,7 +2075,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 164680,
       "name": "Didn\u2019t Care",
       "url": "https://open.spotify.com/track/4sc3GpJtxOB17Ng9PcdNVq"
@@ -2133,6 +2133,28 @@
       "duration_ms": 150046,
       "name": "Disaster Girl",
       "url": "https://open.spotify.com/track/0AgZmVy57KygTp6eYHHBkk"
+    },
+    {
+      "album": {
+        "name": "Disco Cosmos",
+        "url": "https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        },
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Disco Cosmos",
+      "url": "https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2"
     },
     {
       "album": {
@@ -2367,7 +2389,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 232082,
       "name": "Enny One Wil Love You",
       "url": "https://open.spotify.com/track/4emcyB9LLzJGmxnms2Z0VD"
@@ -4602,6 +4624,24 @@
     },
     {
       "album": {
+        "name": "ILYSM",
+        "url": "https://open.spotify.com/album/5T1UKY2WTCPN0inZzzrnnL"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379600,
+      "name": "ILYSM",
+      "url": "https://open.spotify.com/track/4852onKZxhRnP66SLAKozQ"
+    },
+    {
+      "album": {
         "name": "In Flight",
         "url": "https://open.spotify.com/album/0qcpXiVKtiR06HcQUuxufF"
       },
@@ -4711,7 +4751,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
@@ -6100,6 +6140,42 @@
     },
     {
       "album": {
+        "name": "MY DREAM",
+        "url": "https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215132,
+      "name": "MY DREAM",
+      "url": "https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6"
+    },
+    {
+      "album": {
+        "name": "My Limitations",
+        "url": "https://open.spotify.com/album/55P9us6DOduyACzkWhjMJk"
+      },
+      "artists": [
+        {
+          "name": "The Zolas",
+          "url": "https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181906,
+      "name": "My Limitations",
+      "url": "https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE"
+    },
+    {
+      "album": {
         "name": "Naoko",
         "url": "https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp"
       },
@@ -6648,6 +6724,24 @@
     },
     {
       "album": {
+        "name": "One Year Stand",
+        "url": "https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8"
+    },
+    {
+      "album": {
         "name": "Only in Your Eyes",
         "url": "https://open.spotify.com/album/3Agu2Lfqz8EnJHq2BUuHDt"
       },
@@ -7034,6 +7128,24 @@
     },
     {
       "album": {
+        "name": "Marci",
+        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
+      },
+      "artists": [
+        {
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157226,
+      "name": "Play By Play",
+      "url": "https://open.spotify.com/track/0fkgg7EwHGTvqcJnvUqXmp"
+    },
+    {
+      "album": {
         "name": "Player Of Games",
         "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
       },
@@ -7063,7 +7175,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 178348,
       "name": "Pool Party",
       "url": "https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM"
@@ -7863,7 +7975,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 150510,
       "name": "Seasick",
       "url": "https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S"
@@ -8524,6 +8636,24 @@
     },
     {
       "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/4fYWdQMUjmzeGLiCv8E0nM"
       },
@@ -8701,7 +8831,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 177333,
       "name": "Swim to You",
       "url": "https://open.spotify.com/track/2Xetb5CIVzOMJ5wjbofzeu"
@@ -8849,7 +8979,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 202347,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c"
@@ -8993,7 +9123,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 180613,
       "name": "The Devil is Human",
       "url": "https://open.spotify.com/track/2nLEh1IAezKeXKCGfYULmX"
@@ -9033,6 +9163,24 @@
       "duration_ms": 277466,
       "name": "The Extra Sees the Film",
       "url": "https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI"
+    },
+    {
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "album": {
@@ -9267,7 +9415,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI"
@@ -9379,6 +9527,28 @@
       "duration_ms": 208880,
       "name": "Till The World's Awake",
       "url": "https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex"
+    },
+    {
+      "album": {
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/6JqXrsNLQjSeKDd979ivzG"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Tom",
+          "url": "https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr"
+        },
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193065,
+      "name": "Time and Time Again",
+      "url": "https://open.spotify.com/track/5jkPpSNNTrdqz9J57Ovanl"
     },
     {
       "album": {
@@ -9553,6 +9723,28 @@
       "duration_ms": 161200,
       "name": "TVI",
       "url": "https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5"
+    },
+    {
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 136396,
+  "num_followers": 136443,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGRhZTY5MmYzNTQ2NzRiODllODRiNTdmN2EwNDdhZmQ0",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGMyZTI3Y2EwMDY3MjZjYzdjM2JmOGFkOTFkM2I0Y2Fi",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La Paloma",
-        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Instrumentales",
         "url": "https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 183133,
       "name": "Emmanuelle",
       "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 #1's: One Hit Wonders",
-        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 202805,
-      "name": "Chariots Of Fire",
-      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Music To Watch Girls By",
         "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Temas Prohibidos del Cine",
-        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
+        "name": "20 #1's: One Hit Wonders",
+        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
       "artists": [
         {
-          "name": "Orquesta Romanticos de La Habana",
-          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Amore Grande Amore Libero",
-      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
+      "duration_ms": 202805,
+      "name": "Chariots Of Fire",
+      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -939,6 +923,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Temas Prohibidos del Cine",
+        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Romanticos de La Habana",
+          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Amore Grande Amore Libero",
+      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Sue\u00f1o azul",
         "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 142040,
       "name": "Concierto para una sola voz",
       "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Nadia's Theme (Theme from the Young and Restless)",
+        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
+      },
+      "artists": [
+        {
+          "name": "Barry DeVorzon",
+          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Nadia's Theme (Theme from the Young and Restless)",
+      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -987,22 +1003,6 @@
       "duration_ms": 190840,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Nadia's Theme (Theme from the Young and Restless)",
-        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
-      },
-      "artists": [
-        {
-          "name": "Barry DeVorzon",
-          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Nadia's Theme (Theme from the Young and Restless)",
-      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Violin Jazz Essentials",
-        "url": "https://open.spotify.com/album/1qOkAxsXhs3lEbSxnhE9lW"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/2js8y9eYf3pe4Otk24Yr57"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 159586,
       "name": "Kiss of Fire",
       "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Violin Jazz Essentials",
+        "url": "https://open.spotify.com/album/1qOkAxsXhs3lEbSxnhE9lW"
+      },
+      "artists": [
+        {
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/2js8y9eYf3pe4Otk24Yr57"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1663,6 +1663,22 @@
       "duration_ms": 213626,
       "name": "Promise Of A Fisherman (Promessa De Pescador)",
       "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1727,22 +1743,6 @@
       "duration_ms": 228213,
       "name": "Aria on Air",
       "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
     },
     {
       "added_at": "2020-12-08 19:02:01",

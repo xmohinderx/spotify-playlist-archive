@@ -4,12 +4,13 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-333 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+334 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9.30pm](https://open.spotify.com/track/7sVySvSTq1w7jg8RxJ8FYU) | [Klasey Jones](https://open.spotify.com/artist/0wPOVO0uMbHZy2ycXkOmY7) | [Shadows](https://open.spotify.com/album/55GAETMblxqw008lY8z6wo) | 4:00 | 2021-10-15 | 2022-03-23 |
 | [97](https://open.spotify.com/track/4k2plYOozs9kE622sg3G0s) | [Stay Ali](https://open.spotify.com/artist/7uK8fAsaUYDckzHcOHFsOU) | [Vat:Auhlau \- EP](https://open.spotify.com/album/2eUOTl9Gadvn84l0Ay23mb) | 4:52 | 2022-04-01 | 2022-04-21 |
+| [97](https://open.spotify.com/track/5LGQrqkb7FGcZ9FJic1jwV) | [Stay Ali](https://open.spotify.com/artist/7uK8fAsaUYDckzHcOHFsOU) | [Vat:Auhlau](https://open.spotify.com/album/1hRLuY4HYnO93lQGExqBdm) | 4:52 | 2022-08-05 |  |
 | [A Glowing Light, a Promise](https://open.spotify.com/track/1KjBsubnUzAU1dvxIEUky4) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [88:88](https://open.spotify.com/album/2j4ro7dtXWPrSjjE7mdKqY) | 5:33 | 2022-04-01 |  |
 | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/track/6XhDdfzt0TIv4g9jlFzqCq) | [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4) | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/album/4nWVVZDWGn1M25LblFJHFg) | 3:08 | 2022-04-01 | 2022-04-08 |
 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 | 2021-10-15 |  |
@@ -79,7 +80,7 @@
 | [Disco Hunt](https://open.spotify.com/track/0nfaoATlkfTA6NtPP5uYmB) | [Vincenzo Salvia](https://open.spotify.com/artist/0B1OIGHmTqq2gEn4IMaEci) | [Nightdrive to the Disco](https://open.spotify.com/album/70kLDT2qPMhkTBqvzmjw5W) | 4:22 | 2022-04-01 | 2022-04-19 |
 | [Dissolve](https://open.spotify.com/track/4Ikfp3eIvSzztTVNZO1Mez) | [EVANS](https://open.spotify.com/artist/6WsFGXtV7XYc8EE24gych2), [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Dissolve](https://open.spotify.com/album/2n36QdpXHLs96pWGV9TwOP) | 4:56 | 2022-07-22 | 2022-07-29 |
 | [Distance](https://open.spotify.com/track/1uPgXM9EoySFF0RBaYV2zI) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Distance](https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS) | 3:27 | 2021-10-15 |  |
-| [Do You Remember? \(Louis La Roche Remix\)](https://open.spotify.com/track/3O4fgI3pPvUl67jNVk2qTX) | [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Do You Remember? \(Louis La Roche Remix\)](https://open.spotify.com/album/2bJ0gPvIHX69o5zK8nvb0r) | 4:20 | 2022-07-29 |  |
+| [Do You Remember? \(Louis La Roche Remix\)](https://open.spotify.com/track/3O4fgI3pPvUl67jNVk2qTX) | [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Do You Remember? \(Louis La Roche Remix\)](https://open.spotify.com/album/2bJ0gPvIHX69o5zK8nvb0r) | 4:20 | 2022-07-29 | 2022-08-06 |
 | [Doomsday Codex](https://open.spotify.com/track/5QOgrmfD4UWwjknWXPXPFx) | [3FORCE](https://open.spotify.com/artist/0FHXyAFKLg02mIUpNApPgo) | [Doomsday Codex](https://open.spotify.com/album/7uAqxu1CteveOdlvFZCGha) | 5:36 | 2022-02-04 | 2022-05-25 |
 | [Dreams](https://open.spotify.com/track/2jbtkmkMgu0QzuaWi1boGI) | [Peaking Lights](https://open.spotify.com/artist/54ECAJjvSyZGTWUgyt5tqc) | [E S C A P E](https://open.spotify.com/album/0MWNTj4Vy7FpJdDaFq3yl2) | 5:28 | 2022-04-01 | 2022-04-09 |
 | [Drift](https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Drift](https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn) | 5:07 | 2021-10-15 |  |

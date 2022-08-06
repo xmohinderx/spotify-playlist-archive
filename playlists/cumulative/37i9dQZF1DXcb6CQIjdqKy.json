@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Zach Williams",
+  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Casting Crowns",
   "name": "Top Christian & Gospel",
   "published_playlist_ids": [
     "3IGSOKftgGE885pvp0BADM"
@@ -516,6 +516,28 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+    },
+    {
+      "album": {
         "name": "Breathe - EP",
         "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
       },
@@ -849,7 +871,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 218533,
       "name": "Desert Road",
       "url": "https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ"
@@ -1295,7 +1317,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 154385,
       "name": "Freedom Is Coming - Reimagined",
       "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
@@ -1353,6 +1375,28 @@
       "duration_ms": 362346,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "album": {
+        "name": "Getting Started (Radio Version)",
+        "url": "https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        },
+        {
+          "name": "Tedd T.",
+          "url": "https://open.spotify.com/artist/1Clv08TUPb1Z68yRVRBT3c"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219444,
+      "name": "Getting Started - Radio Version",
+      "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
     },
     {
       "album": {
@@ -2363,7 +2407,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 198906,
       "name": "I Will Carry You - Radio Version",
       "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
@@ -2533,7 +2577,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 288303,
       "name": "Is He Worthy? - Live",
       "url": "https://open.spotify.com/track/0QXpQkyuEdNqJLOkzua7vf"
@@ -3404,6 +3448,24 @@
     },
     {
       "album": {
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/4dpNubvrQMpX4zFidDYDqb"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245722,
+      "name": "Narrow Road",
+      "url": "https://open.spotify.com/track/7jm83aZTPxR23x64edVncD"
+    },
+    {
+      "album": {
         "name": "Bigger Story",
         "url": "https://open.spotify.com/album/5Ya9Un8iVDcaQe16E11uoR"
       },
@@ -3542,6 +3604,24 @@
     },
     {
       "album": {
+        "name": "No Hurt",
+        "url": "https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "No Hurt",
+      "url": "https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx"
+    },
+    {
+      "album": {
         "name": "Now Here (The Collection)",
         "url": "https://open.spotify.com/album/6O3TlNhKm1rXwGGClEDMOc"
       },
@@ -3629,7 +3709,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 235202,
       "name": "One and Only Jesus",
       "url": "https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB"
@@ -4345,7 +4425,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 166788,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
@@ -4439,6 +4519,28 @@
       "duration_ms": 149657,
       "name": "See Me Through It",
       "url": "https://open.spotify.com/track/6ymBqDImXK5whaMxqynqX8"
+    },
+    {
+      "album": {
+        "name": "Show Up Choose Love",
+        "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Show Up Choose Love (feat. Jon Reddick)",
+      "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
     },
     {
       "album": {
@@ -4764,6 +4866,28 @@
     },
     {
       "album": {
+        "name": "Take Shelter",
+        "url": "https://open.spotify.com/album/3xj8iUGTuFURWMEp07yJNq"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259506,
+      "name": "Take Shelter",
+      "url": "https://open.spotify.com/track/6FWu5yUk5TlhKDpzVZ5wpF"
+    },
+    {
+      "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B"
       },
@@ -4995,7 +5119,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 225228,
       "name": "The Goodness (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
@@ -5230,6 +5354,36 @@
     },
     {
       "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221274,
+      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
+    },
+    {
+      "album": {
         "name": "This is the Day (Live With Friends)",
         "url": "https://open.spotify.com/album/2ZCbmQN5UW87PiaAc53xai"
       },
@@ -5259,10 +5413,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 316493,
       "name": "Time and Time Again",
       "url": "https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX"
+    },
+    {
+      "album": {
+        "name": "This Is My Local",
+        "url": "https://open.spotify.com/album/6mwSaLjGyeZ8FQUXOpW590"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279440,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur"
     },
     {
       "album": {
@@ -5277,7 +5449,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 305853,
       "name": "To Your Arms",
       "url": "https://open.spotify.com/track/2PICbElRrRVeIDcAreUeeC"
@@ -5921,6 +6093,24 @@
       "duration_ms": 263791,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd"
+    },
+    {
+      "album": {
+        "name": "Your World",
+        "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196830,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy"

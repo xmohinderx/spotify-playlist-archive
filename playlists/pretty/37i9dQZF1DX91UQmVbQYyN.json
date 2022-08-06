@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Florence + The Machine",
-  "num_followers": 493105,
+  "num_followers": 493347,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA2OTA4MywwMDAwMDAwMDU3MjgyMjFhY2M0NjBjYmJjNDhjYjQxZDMzMDdmNTlm",
+  "snapshot_id": "MTY0ODA2OTA4MywwMDAwMDAwMDA1MTgyNDEyYThiMjVkOTQ3ODZjZjIzOTU5MWIzOTVi",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -975,34 +975,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Fetch The Bolt Cutters",
-        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
+        "name": "Liz Phair",
+        "url": "https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
         }
       ],
-      "duration_ms": 201352,
-      "name": "Under The Table",
-      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Fantasies",
-        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Help I'm Alive",
-      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
+      "duration_ms": 208360,
+      "name": "Why Can't I?",
+      "url": "https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Help I'm Alive",
+      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC"
       },
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Liz Phair",
-        "url": "https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT"
+        "name": "Fetch The Bolt Cutters",
+        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
       },
       "artists": [
         {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
         }
       ],
-      "duration_ms": 208360,
-      "name": "Why Can't I?",
-      "url": "https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw"
+      "duration_ms": 201352,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Kissing Lessons",
-        "url": "https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 114653,
-      "name": "Kissing Lessons",
-      "url": "https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Pleasantville -Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 307333,
       "name": "Across the Universe",
       "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Kissing Lessons",
+        "url": "https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 114653,
+      "name": "Kissing Lessons",
+      "url": "https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "Paper Mache World",
-      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "concussion",
         "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 277142,
       "name": "concussion",
       "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "Paper Mache World",
+      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 249739,
       "name": "Beggin For Thread",
       "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+        "name": "Yards / Gardens",
+        "url": "https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
+      "duration_ms": 141743,
+      "name": "Yards / Gardens",
+      "url": "https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 202200,
       "name": "Shut Up Kiss Me",
       "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Yards / Gardens",
-        "url": "https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 141743,
-      "name": "Yards / Gardens",
-      "url": "https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR"
     },
     {
       "added_at": "2022-03-08 05:00:00",

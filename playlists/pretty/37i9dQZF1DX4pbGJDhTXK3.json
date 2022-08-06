@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 120605,
+  "num_followers": 120628,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDUxN2EyNzU3MDJhMDQ1MGQyZTQxMDdhODNlZWRiNGFk",
+  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDIwZmFjZmM5ZWMzODBmNTVhNGRiNmE3YzJmN2JkMmVh",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Desire Lines",
-        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
-      },
-      "artists": [
-        {
-          "name": "Meanderthals",
-          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Andromeda (Prelude to the Future)",
-      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 150870,
       "name": "Transit - Radio Edit",
       "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Desire Lines",
+        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
+      },
+      "artists": [
+        {
+          "name": "Meanderthals",
+          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Andromeda (Prelude to the Future)",
+      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 249672,
-      "name": "Formanta",
-      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Like a Petal but Not Really",
         "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 204821,
       "name": "Like A Petal But Not Really",
       "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 249672,
+      "name": "Formanta",
+      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "The Tower",
-        "url": "https://open.spotify.com/album/4M2fF5bRBP8Gi5Bi2EccFg"
-      },
-      "artists": [
-        {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
-        }
-      ],
-      "duration_ms": 477630,
-      "name": "Apex - Live",
-      "url": "https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Perseverance",
         "url": "https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 166730,
       "name": "Perseverance",
       "url": "https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/4M2fF5bRBP8Gi5Bi2EccFg"
+      },
+      "artists": [
+        {
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+        }
+      ],
+      "duration_ms": 477630,
+      "name": "Apex - Live",
+      "url": "https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "Motown",
+        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
+      },
+      "artists": [
+        {
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+        },
+        {
+          "name": "Tracee Meyn",
+          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
+        }
+      ],
+      "duration_ms": 388272,
+      "name": "Motown",
+      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "Menneskekollektivet",
         "url": "https://open.spotify.com/album/2s78eWRhSxsb7KaEbi4p4Q"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 363883,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/7JQS0KugXwJEJrN0EX7HGf"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "Motown",
-        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
-      },
-      "artists": [
-        {
-          "name": "Ost & Kjex",
-          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
-        },
-        {
-          "name": "Tracee Meyn",
-          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
-        }
-      ],
-      "duration_ms": 388272,
-      "name": "Motown",
-      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
     },
     {
       "added_at": "2022-08-04 22:01:00",

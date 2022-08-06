@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 397965,
+  "num_followers": 397992,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGI1OTQyYWU0MDRkNWM0YmUzZmU0NjU3ZGYzMjFmOTBj",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDU5Mzk1YjBhNjM3ZDQyYzEyMjQ5NTMzNTFjMTEwMWI3",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You - Edit",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Green Green Grass",
         "url": "https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You - Edit",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "So Sick",
+        "url": "https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 177634,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Voodoo (with J Balvin & Tainy)",
         "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 198130,
       "name": "Voodoo (with J Balvin & Tainy)",
       "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "So Sick",
-        "url": "https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 177634,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Diamonds (feat. Aleyna Tilki)",
+        "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Diamonds (feat. Aleyna Tilki)",
+      "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Hair Toss, Arms Crossed",
         "url": "https://open.spotify.com/album/62v8uC7bm0dN0FXvkSen7z"
       },
@@ -815,42 +835,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Trompeta",
-        "url": "https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns"
-      },
-      "artists": [
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 168704,
-      "name": "Trompeta",
-      "url": "https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Diamonds (feat. Aleyna Tilki)",
-        "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Diamonds (feat. Aleyna Tilki)",
-      "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "You're Free",
         "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 167298,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 168704,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe"
     },
     {
       "added_at": "2022-06-30 22:02:00",

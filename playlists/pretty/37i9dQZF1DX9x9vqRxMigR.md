@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,632 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,639 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 7 | [Une Autre Chance](https://open.spotify.com/track/4P01Sl55h3Slm1hx3nqtP2) | [Seffarine](https://open.spotify.com/artist/00eQhQca3xEnYrBdhM1fVn) | [De Fez a Jerez](https://open.spotify.com/album/5Uc7zChkh1myi4q8piOKTx) | 4:43 |
 | 8 | [Beautiful Blue](https://open.spotify.com/track/6z9uzN3jTAQUpiNupUph7c) | [Nigel Wearne](https://open.spotify.com/artist/46borjrmKCaBVcb2SMBNHe) | [Black Crow](https://open.spotify.com/album/0EgNQoG4XI7zMCANczcliz) | 4:25 |
 | 9 | [Ciamar a Nì Mi](https://open.spotify.com/track/2e2k4LtMA3Cl49JkIXoJ5q) | [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Beauty Thunders](https://open.spotify.com/album/4tAGwS1rJa25YGsr8lM5on) | 4:02 |
-| 10 | [Walk Me to the River](https://open.spotify.com/track/4IDBFTkZ15eK6LGMs7W1oj) | [Misty River](https://open.spotify.com/artist/4lXGbu3TUiwos5jtggGtDw) | [Promises](https://open.spotify.com/album/1dHBv9pVw0X2EkOJS7yCe1) | 3:32 |
+| 10 | [Walk Me to the River](https://open.spotify.com/track/0b5qt9fdr0XsbfbPvgV1CL) | [Misty River](https://open.spotify.com/artist/4lXGbu3TUiwos5jtggGtDw) | [Walk Me to the River](https://open.spotify.com/album/1Iba00W7fjl158welETZNf) | 3:32 |
 | 11 | [I Want to See the Bright Lights Tonight](https://open.spotify.com/track/5yzXmGleWUhbSAossEPScG) | [BettySoo](https://open.spotify.com/artist/1zyOUBRKVnM6VbtzYE4piR) | [I Want to See the Bright Lights Tonight](https://open.spotify.com/album/6FakylEaAdGj0Cfrn6et0C) | 4:31 |
 | 12 | [HISTORY](https://open.spotify.com/track/12TLBNeRIhUPgGIkacXrVO) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [HISTORY](https://open.spotify.com/album/4GQP3AyTjmTd9e8CmuYzWP) | 3:31 |
 | 13 | [Don't You Ever Change](https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at the Cafe Carpe](https://open.spotify.com/album/6PxVagudUXGBHXN7KEp2Dv) | 2:46 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 152 | [Colorblind](https://open.spotify.com/track/1XdZWeMVsFrzso8pd77g7E) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Colorblind](https://open.spotify.com/album/5Ptnky6pcPheTjCPrBsR1t) | 2:58 |
 | 153 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 |
 
-Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMDllNTliZWUwM2Y0OTkzMjg4YTk1NmJmNzI1OTI3NTNl`
+Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGUwNTlhMTUzMzZmNDFkYjVkMjhmNjZmOTBhOGQyOWNj`

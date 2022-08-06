@@ -688,6 +688,28 @@
     },
     {
       "album": {
+        "name": "Jacob",
+        "url": "https://open.spotify.com/album/4YbkRO4bAGaiOr1qiex8mi"
+      },
+      "artists": [
+        {
+          "name": "Ty Herndon",
+          "url": "https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R"
+        },
+        {
+          "name": "Terri Clark",
+          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197798,
+      "name": "Dents On A Chevy",
+      "url": "https://open.spotify.com/track/7sA9nuB1TGbZ4iHzLL80FH"
+    },
+    {
+      "album": {
         "name": "Revived Remixed Revisited",
         "url": "https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp"
       },
@@ -945,6 +967,24 @@
       "duration_ms": 256700,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu"
+    },
+    {
+      "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ"
     },
     {
       "album": {
@@ -1243,6 +1283,24 @@
       "duration_ms": 175258,
       "name": "How Far Can It Go? (feat. Trisha Yearwood)",
       "url": "https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI"
+    },
+    {
+      "album": {
+        "name": "How You Make A Man",
+        "url": "https://open.spotify.com/album/1kOvLGkfJhVG5OnYoPpeOP"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231910,
+      "name": "How You Make A Man",
+      "url": "https://open.spotify.com/track/4N2YOk1bMtaDTOidVyhSIs"
     },
     {
       "album": {

@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "\u00c6ON:TWO",
+        "url": "https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk"
+    },
+    {
+      "album": {
         "name": "Lost In The Right Direction",
         "url": "https://open.spotify.com/album/35f3njdgEkENnKfRIscQge"
       },
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 277765,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/7GmQ1s21F9APWVdA3IcEAc"
@@ -3571,6 +3589,24 @@
       "duration_ms": 166896,
       "name": "IMY (feat. Bella Renee)",
       "url": "https://open.spotify.com/track/0TuMPEUwvdKnLQcnq4RS8L"
+    },
+    {
+      "album": {
+        "name": "Higher Ground (Part 1)",
+        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226896,
+      "name": "Industrial Strain",
+      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
     },
     {
       "album": {
@@ -6707,7 +6743,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 232686,
       "name": "There and Back",
       "url": "https://open.spotify.com/track/4H3mLpYw9fgx0FHNanYLAd"

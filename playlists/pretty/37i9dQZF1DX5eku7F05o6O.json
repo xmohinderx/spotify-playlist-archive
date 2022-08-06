@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 2493,
+  "num_followers": 2495,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMDVjM2UyNzZmZWJmODVhYzViYzNkMjIxMTZlOWM0N2Ri",
+  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMDgyMGYzYTMyMGI2ZDM3ZjZkMDk2OTViNThkNTNiMThm",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Maman",
-        "url": "https://open.spotify.com/album/6oHbg92wJpgaRRDPKiw4pa"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 229755,
-      "name": "Maman",
-      "url": "https://open.spotify.com/track/472uPdoGK0wQLmSGfYQEtR"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Comme une odeur de d\u00e9clin",
         "url": "https://open.spotify.com/album/0B46PUCUbNH1lJJPVAmJ8s"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 192653,
       "name": "Dans le ruisseau",
       "url": "https://open.spotify.com/track/0pP4TkjbnooOW2OQ4qamkO"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Maman",
+        "url": "https://open.spotify.com/album/6oHbg92wJpgaRRDPKiw4pa"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 229755,
+      "name": "Maman",
+      "url": "https://open.spotify.com/track/472uPdoGK0wQLmSGfYQEtR"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le cours des jours",
-        "url": "https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o"
-      },
-      "artists": [
-        {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
-        }
-      ],
-      "duration_ms": 317586,
-      "name": "Linol\u00e9um",
-      "url": "https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Lovers in No Mind's Land",
         "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 174000,
       "name": "Once Every Billion Years",
       "url": "https://open.spotify.com/track/3Vq3qqSI2PWNBcV0v4WyvK"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le cours des jours",
+        "url": "https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "duration_ms": 317586,
+      "name": "Linol\u00e9um",
+      "url": "https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La Voix III",
-        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Holubowski",
-          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "Feuille d'argent et feuille d'or",
-      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "27 fois l'aurore",
         "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 191853,
       "name": "Vers le sud",
       "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La Voix III",
+        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Holubowski",
+          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
+        }
+      ],
+      "duration_ms": 158280,
+      "name": "Feuille d'argent et feuille d'or",
+      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "And The Boys",
-        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "And The Boys - French Version",
-      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Fatale",
         "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 116575,
       "name": "7",
       "url": "https://open.spotify.com/track/6VyfmBp0tqEWBQAg2DkjyC"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "And The Boys",
+        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "And The Boys - French Version",
+      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Parades",
-        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Je sais",
-      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Marie-Pierre Arthur",
         "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 253145,
       "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
       "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Parades",
+        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
+      },
+      "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Je sais",
+      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
     },
     {
       "added_at": "2021-02-06 03:12:40",

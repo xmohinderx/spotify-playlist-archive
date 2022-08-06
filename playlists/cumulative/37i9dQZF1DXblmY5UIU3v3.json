@@ -172,6 +172,24 @@
     },
     {
       "album": {
+        "name": "Back Up",
+        "url": "https://open.spotify.com/album/4Tyv65agMEfReHqz58CBxV"
+      },
+      "artists": [
+        {
+          "name": "Onur Aktemur",
+          "url": "https://open.spotify.com/artist/0QqeZ7PQbf8XH0hjQe1nnz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Back Up",
+      "url": "https://open.spotify.com/track/3X5019vDRhZp2u1MT54vl2"
+    },
+    {
+      "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1pdm2LpgVSsGSCBpoeXbZe"
       },
@@ -343,6 +361,24 @@
       "duration_ms": 159491,
       "name": "Dark & Dangerous",
       "url": "https://open.spotify.com/track/0G4bbDthDjRpeiEi7jX6RH"
+    },
+    {
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/2cl3FkxNB9v5oNw9o3qZE6"
+      },
+      "artists": [
+        {
+          "name": "Libercio",
+          "url": "https://open.spotify.com/artist/5xBPjWMU42TN6P0nwcH1f1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151345,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/1tIYXds5TOKk0Ixs8lsS8A"
     },
     {
       "album": {
@@ -649,7 +685,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 143504,
       "name": "Get it On",
       "url": "https://open.spotify.com/track/0gWDCw9fClUe8GaUapMxul"
@@ -743,7 +779,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 201606,
       "name": "Height",
       "url": "https://open.spotify.com/track/0tgtZPwLWIDFE7rPHkgGZ9"
@@ -975,7 +1011,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 180286,
       "name": "Indian Desert",
       "url": "https://open.spotify.com/track/01nOgbLl0A9AiZl0ip1aQH"
@@ -1066,6 +1102,24 @@
     },
     {
       "album": {
+        "name": "Linkip",
+        "url": "https://open.spotify.com/album/35ZCLD82Si66nnDc94PJRL"
+      },
+      "artists": [
+        {
+          "name": "FanEOne",
+          "url": "https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117141,
+      "name": "Linkip",
+      "url": "https://open.spotify.com/track/4Zx3h2KNTxH81AnINvxD8v"
+    },
+    {
+      "album": {
         "name": "CULT",
         "url": "https://open.spotify.com/album/565ceoqtB8RUsnun39xtCa"
       },
@@ -1095,7 +1149,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 138288,
       "name": "Look at me",
       "url": "https://open.spotify.com/track/7ogj6YG43RPI9nKtegKUcx"
@@ -2299,6 +2353,24 @@
       "duration_ms": 174500,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D"
+    },
+    {
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/7GcBLauj50UqyZbBSN5vxz"
+      },
+      "artists": [
+        {
+          "name": "FILV",
+          "url": "https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150990,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/7ChxPWUiP5wVMkjzX0l4Hv"
     },
     {
       "album": {

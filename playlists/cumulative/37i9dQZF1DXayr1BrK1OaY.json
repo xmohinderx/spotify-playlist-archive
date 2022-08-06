@@ -898,6 +898,28 @@
     },
     {
       "album": {
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
+    },
+    {
+      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
@@ -1305,6 +1327,28 @@
       "duration_ms": 274500,
       "name": "Julia (deep diving)",
       "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
+    },
+    {
+      "album": {
+        "name": "In Another Lifetime (Remixed)",
+        "url": "https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303145,
+      "name": "Just To Hear You Say - Joseph Ray Remix",
+      "url": "https://open.spotify.com/track/09wkyp6dMAo5JakEj49R0M"
     },
     {
       "album": {
@@ -1908,6 +1952,28 @@
     },
     {
       "album": {
+        "name": "On My Knees (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452000,
+      "name": "On My Knees - Adriatique Remix",
+      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+    },
+    {
+      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -2055,7 +2121,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 260876,
       "name": "People, I've been sad",
       "url": "https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz"
@@ -2787,7 +2853,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 203522,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7"
@@ -3103,7 +3169,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 240250,
       "name": "Untroubled",
       "url": "https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7"

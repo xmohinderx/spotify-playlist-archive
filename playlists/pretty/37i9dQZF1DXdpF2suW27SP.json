@@ -1,12 +1,12 @@
 {
   "description": "Mizzy Miles, Gson, Teto e Deejay Telio entram na zona. ",
-  "num_followers": 151759,
+  "num_followers": 151800,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NDA2MCwwMDAwMDAwMDVmYjRmNzVkMDgxNTM1OTUwNzdmZTc5M2JmZTM3N2Uy",
+  "snapshot_id": "MTY1OTY1NDA2MCwwMDAwMDAwMDg2MmFiZTM4MDkzYzA1Yzk5NzU3YWU5ZjRiNGRjZWQz",
   "tracks": [
     {
       "added_at": "2022-08-04 23:01:00",
@@ -563,6 +563,26 @@
       "duration_ms": 201931,
       "name": "Andal\u00e9",
       "url": "https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT"
+    },
+    {
+      "added_at": "2022-08-04 23:01:00",
+      "album": {
+        "name": "Golo",
+        "url": "https://open.spotify.com/album/6qKW4hsTZL2M2O9lj8jFBe"
+      },
+      "artists": [
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        },
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/6xf1SJx82RDLL6wdSDDZXI"
+        }
+      ],
+      "duration_ms": 174985,
+      "name": "Golo",
+      "url": "https://open.spotify.com/track/3D2xdEo5tgemOTwIhBq7W4"
     },
     {
       "added_at": "2022-08-04 23:01:00",

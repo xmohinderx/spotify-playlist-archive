@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-253 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+255 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Nomade](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Nomade](https://open.spotify.com/album/7B1MFYFEIxirQuLFahhqmC) | 2:12 | 2022-06-10 |  |
 | [Ocean](https://open.spotify.com/track/3Qn6hKeGqsjMHD899nIeY3) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Ocean](https://open.spotify.com/album/1uDJvmhHdkbR049xwpkOEF) | 1:55 | 2022-07-29 |  |
 | [Oh Baby...](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX) | [DJ Madrigal](https://open.spotify.com/artist/5pVBan726Z1RmlJjXSySk8) | [Oh Baby...](https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp) | 3:37 | 2022-04-05 |  |
+| [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2022-08-05 |  |
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2022-04-05 | 2022-06-03 |
 | [One for Babushka](https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Claptrap](https://open.spotify.com/album/7j1jLxax94o0cRXF7bf81A) | 3:17 | 2022-04-05 | 2022-05-11 |
 | [Out Late](https://open.spotify.com/track/1gjW2RMESNkfWVJCyObu1v) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Out Late](https://open.spotify.com/album/6xNsZ5aOnzwLrhbQjc7gB0) | 3:03 | 2022-07-15 |  |
@@ -260,6 +261,7 @@
 | [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-08 |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2022-04-05 |  |
 | [Yin Yan Tonic](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Yin Yan Tonic](https://open.spotify.com/album/2cGFqAL2ttK8IrsC3s7n3U) | 2:50 | 2022-08-05 |  |
+| [You And Me](https://open.spotify.com/track/5PH5RpGQSZ6MXIjXU6cDDH) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [You And Me](https://open.spotify.com/album/4iSdUBzwz89hXwCARSD7my) | 2:28 | 2022-08-05 |  |
 | [Zebrawood](https://open.spotify.com/track/4p58sKPMoUqR0bzca3TgVm) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Zebrawood](https://open.spotify.com/album/4dWOHUf6hyWQRa9S7WZwk7) | 3:35 | 2022-04-05 | 2022-06-10 |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

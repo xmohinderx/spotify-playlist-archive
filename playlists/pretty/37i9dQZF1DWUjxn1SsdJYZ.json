@@ -1,12 +1,12 @@
 {
   "description": "The best Hip Hop coming out of Australia. Cover: HP Boyz",
-  "num_followers": 132813,
+  "num_followers": 132841,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyMTYwMCwwMDAwMDAwMDViYTU2NGFjZDNhN2EyY2YwODlkZjg2M2UzZDQwMWJm",
+  "snapshot_id": "MTY1OTYyMTYwMCwwMDAwMDAwMDYzMTg5YzI3NDIwNTg4NjdjZWM0ZmVmMWI3MzllNDU5",
   "tracks": [
     {
       "added_at": "2022-08-04 14:00:00",
@@ -87,6 +87,30 @@
     {
       "added_at": "2022-08-04 14:00:00",
       "album": {
+        "name": "Hundred Club",
+        "url": "https://open.spotify.com/album/1OtAYXbIyPBLi6tCVomvIc"
+      },
+      "artists": [
+        {
+          "name": "Hp Boyz",
+          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
+        },
+        {
+          "name": "HP ONIT",
+          "url": "https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG"
+        },
+        {
+          "name": "HP YJ",
+          "url": "https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Hundred Club",
+      "url": "https://open.spotify.com/track/4jBRQpvCwfWLmiassQeD5c"
+    },
+    {
+      "added_at": "2022-08-04 14:00:00",
+      "album": {
         "name": "LET'S TROT!",
         "url": "https://open.spotify.com/album/24NYPLQVwLU4DP7LEZ9wwv"
       },
@@ -139,6 +163,22 @@
     {
       "added_at": "2022-08-04 14:00:00",
       "album": {
+        "name": "Underdog",
+        "url": "https://open.spotify.com/album/3fOVdOefDN43WjiLi2m7ZF"
+      },
+      "artists": [
+        {
+          "name": "Say True God?",
+          "url": "https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr"
+        }
+      ],
+      "duration_ms": 219922,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/0HHNGLZAJej2RQalyvBZ8M"
+    },
+    {
+      "added_at": "2022-08-04 14:00:00",
+      "album": {
         "name": "MBAPP\u00c9 (feat. KAHUKX)",
         "url": "https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS"
       },
@@ -171,6 +211,30 @@
       "duration_ms": 217872,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/0w2INg5RVukivGRp9QYnGC"
+    },
+    {
+      "added_at": "2022-08-04 14:00:00",
+      "album": {
+        "name": "ZIP!",
+        "url": "https://open.spotify.com/album/2NCLxUOjLbEHi8lQnMP9IF"
+      },
+      "artists": [
+        {
+          "name": "Chiggz",
+          "url": "https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J"
+        },
+        {
+          "name": "ECB",
+          "url": "https://open.spotify.com/artist/12qaVHWBtrTQ5KEvYgPQ2v"
+        },
+        {
+          "name": "Nate G",
+          "url": "https://open.spotify.com/artist/4RvlcRTM1zHhPfTYLndVrp"
+        }
+      ],
+      "duration_ms": 265221,
+      "name": "ZIP!",
+      "url": "https://open.spotify.com/track/2jnJ0UP0Ba2Og5lBMMJdRK"
     },
     {
       "added_at": "2022-08-04 14:00:00",

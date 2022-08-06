@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Lava La Rue",
+  "description": "The home of the best new alternative music. Cover: Sad Night Dynamite",
   "name": "The Other List",
   "published_playlist_ids": [
     "2P9CK2lB90NpmCPDPSex2G"
@@ -287,10 +287,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 225733,
       "name": "5D",
       "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
+    },
+    {
+      "album": {
+        "name": "6 AM",
+        "url": "https://open.spotify.com/album/6f0QgMv0n3IBDpcYW0QPQL"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230826,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/3UJbJOsLhyuGXOOofKr52i"
     },
     {
       "album": {
@@ -1758,6 +1776,32 @@
     },
     {
       "album": {
+        "name": "Big Escape",
+        "url": "https://open.spotify.com/album/0lvXl3vsLLQN4ZbeP9jgu0"
+      },
+      "artists": [
+        {
+          "name": "Grandamme",
+          "url": "https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv"
+        },
+        {
+          "name": "Bastien Keb",
+          "url": "https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x"
+        },
+        {
+          "name": "Claudia Kane",
+          "url": "https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Big Escape",
+      "url": "https://open.spotify.com/track/6yYQBCoafQgLfU7lccVqRR"
+    },
+    {
+      "album": {
         "name": "Big Skies, Silly Faces",
         "url": "https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc"
       },
@@ -2087,6 +2131,24 @@
       "duration_ms": 169626,
       "name": "Blowin Steam (Open Up Your Mind)",
       "url": "https://open.spotify.com/track/1b2swn7KWK0vKLlORQuyNZ"
+    },
+    {
+      "album": {
+        "name": "Blue Bird (English)",
+        "url": "https://open.spotify.com/album/6gBT6N8HafyfO9JmVtrqx5"
+      },
+      "artists": [
+        {
+          "name": "Richard Fairlie",
+          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "Blue Bird (English)",
+      "url": "https://open.spotify.com/track/13x4s4YfChwuy9YuG8p6g1"
     },
     {
       "album": {
@@ -2951,7 +3013,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 227000,
       "name": "Chipped Teeth",
       "url": "https://open.spotify.com/track/58A5kjibOi7kwz7RTcXuv9"
@@ -3807,7 +3869,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 213656,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW"
@@ -3955,7 +4017,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 209906,
       "name": "DEAR MISS HOLLOWAY",
       "url": "https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D"
@@ -4833,7 +4895,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 166266,
       "name": "Everybody's Dead Inside",
       "url": "https://open.spotify.com/track/4SLRf6iffVPe0ZBvudaZNV"
@@ -5800,6 +5862,24 @@
     },
     {
       "album": {
+        "name": "SLIPPING",
+        "url": "https://open.spotify.com/album/2HESPFFJptgNSlBostvy1P"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227072,
+      "name": "Future Stranger",
+      "url": "https://open.spotify.com/track/5ffc4zcIUxfzVWlCraZMXq"
+    },
+    {
+      "album": {
         "name": "FYO",
         "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
       },
@@ -5898,6 +5978,24 @@
     },
     {
       "album": {
+        "name": "gaslight",
+        "url": "https://open.spotify.com/album/4V6oE935wVy1XBktVEzOYs"
+      },
+      "artists": [
+        {
+          "name": "Cathy Jain",
+          "url": "https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174347,
+      "name": "gaslight",
+      "url": "https://open.spotify.com/track/3EEBPFJts7jsz37sD5PvOW"
+    },
+    {
+      "album": {
         "name": "Gen Z Baby",
         "url": "https://open.spotify.com/album/6MYS4E03V0rHrV7mueXk1f"
       },
@@ -5985,6 +6083,28 @@
       "duration_ms": 222936,
       "name": "Get High",
       "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
+    },
+    {
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163021,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
     },
     {
       "album": {
@@ -6873,7 +6993,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 303066,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t"
@@ -7187,7 +7307,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 263320,
       "name": "Hideous",
       "url": "https://open.spotify.com/track/4u2O3s1p5pWNx2CRFAynXX"
@@ -7241,7 +7361,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 114947,
       "name": "hit it light it twist it",
       "url": "https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG"
@@ -7513,7 +7633,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 181237,
       "name": "How Do I Cry?",
       "url": "https://open.spotify.com/track/4nrkr6IA1mPqLOU4Co67Vc"
@@ -7589,7 +7709,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
@@ -8717,7 +8837,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 257853,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/12uzUi6WTiWYb7qwWSRs6g"
@@ -11240,6 +11360,24 @@
     },
     {
       "album": {
+        "name": "Nige Piano (Deja Vu)",
+        "url": "https://open.spotify.com/album/3e0sBOXKWdB8JdnZmeuWm8"
+      },
+      "artists": [
+        {
+          "name": "NiNE8",
+          "url": "https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291023,
+      "name": "Nige Piano (Deja Vu)",
+      "url": "https://open.spotify.com/track/1kjasVRY1W5YQNkzNN8ft8"
+    },
+    {
+      "album": {
         "name": "Nightsiren",
         "url": "https://open.spotify.com/album/2lSUw9UdEha1rMCneRA1rA"
       },
@@ -11721,7 +11859,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 190816,
       "name": "On & On",
       "url": "https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc"
@@ -14298,6 +14436,24 @@
     },
     {
       "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw"
+      },
+      "artists": [
+        {
+          "name": "Sugar House",
+          "url": "https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173709,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF"
+    },
+    {
+      "album": {
         "name": "So Sick Of Me",
         "url": "https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO"
       },
@@ -15181,7 +15337,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 182561,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF"
@@ -17197,7 +17353,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 216568,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/316Co4rvVxEFZ40FY8BbK8"
@@ -17701,6 +17857,24 @@
       "duration_ms": 225850,
       "name": "What Do You Stand For",
       "url": "https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7"
+    },
+    {
+      "album": {
+        "name": "What Does That Make Me?",
+        "url": "https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173641,
+      "name": "What Does That Make Me?",
+      "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
     },
     {
       "album": {

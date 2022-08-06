@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,024 likes - 31 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,030 likes - 31 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Saawariya \(feat\. Arjun Bijlani\)](https://open.spotify.com/track/3W9EFWiTzexkdlCm2zHBqK) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Arjun Bijlani](https://open.spotify.com/artist/16AdgG9cB8v609ylemhGXz) | [Saawariya \(feat\. Arjun Bijlani\)](https://open.spotify.com/album/6XrfqO7ZEF3XRDNsPfij58) | 3:22 |
-| 2 | [Garbe Ki Raat](https://open.spotify.com/track/3Flsgjl9dIiWoHt0N6Htzl) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Bhoomi Trivedi](https://open.spotify.com/artist/6jM5CgYLvLOeGo2JOgWXMM) | [Garbe Ki Raat](https://open.spotify.com/album/78XTO1lfm0FQCppI5bwkaY) | 3:15 |
+| 2 | [Garbe Ki Raat](https://open.spotify.com/track/3Flsgjl9dIiWoHt0N6Htzl) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Bhoomi Trivedi](https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ) | [Garbe Ki Raat](https://open.spotify.com/album/78XTO1lfm0FQCppI5bwkaY) | 3:15 |
 | 3 | [Gori Radha Ne Kado Kaan](https://open.spotify.com/track/6YwisMp960dh6SGIUU9Nhz) | [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Wrong Side Raju](https://open.spotify.com/album/3qAH4f7C9R8cO2v92pG7bG) | 5:26 |
 | 4 | [Dholida \(From "Loveyatri \- A Journey Of Love"\)](https://open.spotify.com/track/3E0yBu7PnTvj9bUu72ygRj) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dholida \(From "Loveyatri \- A Journey Of Love"\)](https://open.spotify.com/album/7lHI7k253fBJqRq383WaZd) | 3:36 |
 | 5 | [Chalo Pela](https://open.spotify.com/track/3AL8Gzv3B52wHbg439rCpl) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Bamboo Beats \(Disco Dandiya Hits\)](https://open.spotify.com/album/7hyZTOovgclhqA7iQdoUMl) | 7:23 |

@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 121999,
+  "num_followers": 122078,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjUxMCwwMDAwMDAwMDRjNjZhMDhkODZiY2JkODM5ODQ1N2U0MjVjMjMzMDFh",
+  "snapshot_id": "MTY1MzQyMjUxMCwwMDAwMDAwMGE4Y2E5YzQwNjI0NmNjMzc5NzFmYzM0ZjEwOTJhNTEx",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Straight Up (Remastered 2010 / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc"
-      },
-      "artists": [
-        {
-          "name": "Badfinger",
-          "url": "https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Day After Day - Remastered 2010",
-      "url": "https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Outside Inside",
         "url": "https://open.spotify.com/album/2WiDQ5arP6dQ5unzoTJ0UH"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 178760,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Straight Up (Remastered 2010 / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc"
+      },
+      "artists": [
+        {
+          "name": "Badfinger",
+          "url": "https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Day After Day - Remastered 2010",
+      "url": "https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN"
     },
     {
       "added_at": "2021-12-16 19:14:26",

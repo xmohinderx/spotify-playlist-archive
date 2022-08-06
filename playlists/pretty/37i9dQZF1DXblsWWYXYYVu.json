@@ -1,13 +1,45 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 65567,
+  "num_followers": 65605,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1MjkyMCwwMDAwMDAwMDgxYTc0ZmI1M2UwZDgzNzM4OGQxNjFkZGJkMGMzZTdj",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDgzMWNhYmJkYmQ2NTAyZmE5Y2UyOTExMWU5YTAwZjM0",
   "tracks": [
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Trust in the Blue",
+        "url": "https://open.spotify.com/album/77dYW0aAyRB2Nevl1SLgk8"
+      },
+      "artists": [
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/0qXTvVI7Tgb1eA1fTgdxGk"
+        }
+      ],
+      "duration_ms": 200539,
+      "name": "Trust in the Blue",
+      "url": "https://open.spotify.com/track/0fzpLt2rI73GWQSiMfHs7w"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Love Letter From The Sea to The Shore",
+        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
+    },
     {
       "added_at": "2022-07-08 04:02:00",
       "album": {
@@ -1595,38 +1627,6 @@
       "duration_ms": 172990,
       "name": "Tell Yourself",
       "url": "https://open.spotify.com/track/5QjkvXMDRkZQhROtNkUoyz"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 161706,
-      "name": "judas",
-      "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/5uGY2LlTNOED1mwx8alln1"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 186049,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2htzEakktoAB6bxDtA6iQi"
     }
   ],
   "unique_name": "Take it Slow",

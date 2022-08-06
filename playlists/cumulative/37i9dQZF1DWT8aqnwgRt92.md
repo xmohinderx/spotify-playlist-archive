@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-189 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+191 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-05-28 | 2022-07-01 |
 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 | 2022-08-02 |  |
 | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0rE5MtnYOHxWWWp23i6w1p) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/7fC91TTDBD5rMtJHfsHNoT) | 5:24 | 2022-05-28 | 2022-06-01 |
+| [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 | 2022-08-05 |  |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-05-28 | 2022-06-03 |
 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 | 2022-07-28 |  |
 | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/track/2VkhXYlEEx0753IjeQCeof) | [Onishi Aguri](https://open.spotify.com/artist/3hp538apqv8zWeIa31uKe7) | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/album/2umPEmciHjUCfqziD1B7zG) | 3:58 | 2022-07-28 | 2022-08-03 |
@@ -120,11 +121,12 @@
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-05-28 | 2022-06-24 |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |
 | [インフィニット](https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [インフィニット](https://open.spotify.com/album/32PkEDbpR6T1uLpt5r43r7) | 4:12 | 2022-06-30 | 2022-07-29 |
+| [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-05 |  |
 | [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-21 | 2022-07-29 |
 | [カラー・リリィの恋文](https://open.spotify.com/track/7Eojb2w0e8zV8r8M6z0geM) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [カラー・リリィの恋文](https://open.spotify.com/album/4cNFuAvGpB1Cp1E8FWL7Fh) | 3:47 | 2022-07-14 |  |
 | [キミイロ](https://open.spotify.com/track/46o11Dp9nAeDvMFYEVuCUZ) | [Beatcats](https://open.spotify.com/artist/3vmZgwzFp8rwt5GicYWbST) | [キミイロ](https://open.spotify.com/album/1LBqnvVwxN0uL77HAs1XXc) | 3:24 | 2022-07-21 | 2022-07-29 |
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-05-28 | 2022-07-08 |
-| [サイダー](https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [サイダー](https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY) | 4:27 | 2022-07-05 |  |
+| [サイダー](https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [サイダー](https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY) | 4:27 | 2022-07-05 | 2022-08-06 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-05-28 | 2022-07-06 |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-12 |  |
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-05-28 | 2022-07-06 |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 11088,
+  "num_followers": 11127,
   "original_name": "Latin Hits: 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDIxNjYxNSwwMDAwMDAwMGQ0YWI0MzQ1YjMzMTA5ZWVhMTgxYmNkNWMwZjI3Y2Jl",
+  "snapshot_id": "MTY0MDIxNjYxNSwwMDAwMDAwMDEwNDUzMjg2YmMyNGYyNDUzZTcwZWM0MjU1YTU5MjZl",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Coleccion Cristiana",
-        "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Las Avispas",
-      "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Coleccion Cristiana",
+        "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
     },
     {
       "added_at": "2021-12-22 23:41:59",

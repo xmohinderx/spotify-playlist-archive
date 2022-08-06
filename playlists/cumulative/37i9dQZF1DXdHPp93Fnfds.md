@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(H\)olas](https://open.spotify.com/track/2uAigpP8QV8YH8ie1u69kJ) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 1:39 | 2022-01-21 | 2022-08-05 |
+| [\(H\)olas](https://open.spotify.com/track/2uAigpP8QV8YH8ie1u69kJ) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 1:39 | 2022-01-21 |  |
 | [11:11](https://open.spotify.com/track/2yh6IJ6dr3PKR4llYUqZaF) | [Chloe Edgecombe](https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr) | [11:11](https://open.spotify.com/album/4bnQbUVuWGbrIXM3gvsxfN) | 3:23 | 2022-02-11 | 2022-07-12 |
 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [1312 \(Portarme Mal\)](https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary) | 3:38 | 2022-02-11 |  |
 | [150m\_km](https://open.spotify.com/track/6P2XLxadDqdwl4ehiRtGCa) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [150m\_km](https://open.spotify.com/album/2VVPP5O4YiRXwaPXNlw5Zp) | 3:33 | 2022-01-21 | 2022-07-23 |
@@ -295,7 +295,7 @@
 | [Pasaje Directo](https://open.spotify.com/track/6PpBnYJRcqPW1IwathowqZ) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pasaje Directo](https://open.spotify.com/album/5rPVX8aLD3d85E8YsquR35) | 3:49 | 2022-01-21 | 2022-07-25 |
 | [Paseito](https://open.spotify.com/track/1YBP98l7xGeuGNcYAsjXqp) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/5KgfyeZUxgpQHDoiSmQgPb) | 4:53 | 2022-01-14 | 2022-07-19 |
 | [Paseito](https://open.spotify.com/track/5955aqNG5rGlr7EQdjl4kS) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2agcgDDdxckcav71Z24Dq6) | 4:53 | 2022-01-21 | 2022-07-26 |
-| [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 | 2022-07-15 |  |
+| [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 | 2022-07-15 | 2022-08-06 |
 | [Pasos \- Versión Acústica](https://open.spotify.com/track/3AgJCcvGK6g6JEOhc0QHDZ) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Pasos \(Versión Acústica\)](https://open.spotify.com/album/5MwZCCD8VV3c99yaatXL4U) | 3:41 | 2022-01-21 | 2022-07-13 |
 | [Pedazo de Cielo](https://open.spotify.com/track/4QHl7wxPoNQeN2QyKQ96vX) | [ESHA](https://open.spotify.com/artist/1JguCBS70W5P0NQWAXoCpT), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Pieles](https://open.spotify.com/album/4IP2FJtK1OMgHIsHHuFTb2) | 3:21 | 2022-01-21 | 2022-04-29 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-02-11 | 2022-07-21 |

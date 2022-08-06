@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-181 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+185 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Digital lounge](https://open.spotify.com/track/24XhVpnlzq5fsf7TPFccwx) | [Roboto 23](https://open.spotify.com/artist/4BqXrDIymPUviUv9HXmmjO) | [Digital lounge](https://open.spotify.com/album/1Lbp8hXI1Q1LSCfpwGZfVt) | 2:09 | 2022-05-27 |  |
 | [Dizzy Dino](https://open.spotify.com/track/0JEt2ZD8qL4JNMb2klnalV) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Dizzy Dino](https://open.spotify.com/album/7vGE2cjl9s1fBj8MJcTDLj) | 2:48 | 2022-07-15 |  |
 | [Dreamworld Lighting](https://open.spotify.com/track/0WAn02sRN7qwxqr4ErO0SC) | [Alfonsi Kazzi](https://open.spotify.com/artist/22L0adl99CJwKSs2MUo4fH) | [Dreamworld Lighting](https://open.spotify.com/album/5dDXvbMRjN0EwnzvtOW6ZF) | 1:48 | 2022-06-17 |  |
+| [duduk](https://open.spotify.com/track/5l2hrRZTPzvxTpiqLYOH4N) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [duduk](https://open.spotify.com/album/1LsXJCniTm4NrKhAGjcjSg) | 2:30 | 2022-08-05 |  |
 | [dunes](https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [dunes](https://open.spotify.com/album/6jBmrVhC902zy5p5dUTiTb) | 1:51 | 2022-05-27 |  |
 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 | 2022-05-27 |  |
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-05-27 |  |
@@ -114,6 +115,7 @@
 | [Paradise Landing](https://open.spotify.com/track/4PY8Na1UYtnMhZun7MEGxa) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 3:17 | 2022-07-15 |  |
 | [Paradox Beat](https://open.spotify.com/track/46XrLBGLzfLKpGl4HqEO7h) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Paradox Beat](https://open.spotify.com/album/3rpU9bDYhD0SOJUBxb2hCP) | 2:32 | 2022-05-27 |  |
 | [Part of a Major Thing](https://open.spotify.com/track/0TKb90PdBwdfm2zef0dWcT) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Part of a Major Thing](https://open.spotify.com/album/2qyXoY0yDcre1E03jg7AYF) | 2:46 | 2022-05-27 | 2022-07-01 |
+| [Past Reticence](https://open.spotify.com/track/00ww2dqh7xOhuCB8EcbJDp) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [icey wavs](https://open.spotify.com/artist/5bH4uA7ERJ2A6EIWa7eHwQ) | [Past Reticence](https://open.spotify.com/album/5Suo8oI3CAmlIBS9dqjar7) | 2:27 | 2022-08-05 |  |
 | [paste time](https://open.spotify.com/track/1d1VwqJv79sqwKCMy9KTn2) | [Greg Chris](https://open.spotify.com/artist/2CJeZG38PMHKgReXihTVc8) | [side to side](https://open.spotify.com/album/36aCwLCo4JkUJA3uDZxujA) | 2:01 | 2022-05-27 |  |
 | [patterns](https://open.spotify.com/track/7l6PWAfC06SZhcciNN5cvg) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [patterns](https://open.spotify.com/album/2W5UofZrZ2klLNh78FRtKe) | 2:09 | 2022-05-27 |  |
 | [Patterns Of Nature](https://open.spotify.com/track/3RjNoeYW7Xfyw72744iEDJ) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Patterns Of Nature](https://open.spotify.com/album/2oq1tmjN0vPEE7xDycGydt) | 2:29 | 2022-07-08 |  |
@@ -146,6 +148,7 @@
 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 | 2022-05-27 |  |
 | [Side Streets](https://open.spotify.com/track/5Tionopm4U5KuVAa34YvE3) | [Tanglebird](https://open.spotify.com/artist/1CyyavZPAhLtqqXouBWlkt) | [Several Boxes](https://open.spotify.com/album/5NjGnt2WLAPz9cUhMSsAZI) | 2:38 | 2022-06-24 |  |
 | [signs](https://open.spotify.com/track/3Jb8cKwm5JfsicVfaj9jtE) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [signs](https://open.spotify.com/album/2s2tgZmyzjedmp4UmyBj13) | 2:39 | 2022-05-27 | 2022-07-15 |
+| [Slow Down](https://open.spotify.com/track/1kzYeqzmuHWFGWzhG6R3uJ) | [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Slow Down](https://open.spotify.com/album/51vEhtHYjuIE1wTheYZqJH) | 1:43 | 2022-08-05 |  |
 | [slumberjack](https://open.spotify.com/track/5rUlJ7zeKR5DsvMbttWJRa) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa), [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [slumberjack](https://open.spotify.com/album/1sZZVLQlHpJ2gG0fdrZE20) | 1:42 | 2022-06-24 |  |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2022-05-27 |  |
 | [Soft Break](https://open.spotify.com/track/7wUsYTdSrTZUTkAeu9JXnU) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Soft Break](https://open.spotify.com/album/26e0W4CJZT6KL5BUrLOA8F) | 1:52 | 2022-07-01 |  |
@@ -153,6 +156,7 @@
 | [Some Say](https://open.spotify.com/track/0gSBc2xe2FvZXZpsloYAwu) | [Kathy Catchy](https://open.spotify.com/artist/3zDLVQgvm6DRcPgN1ypIBt) | [Some Say](https://open.spotify.com/album/1tHutlUmxF12xjp5sN81iN) | 2:38 | 2022-05-27 |  |
 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 | 2022-05-27 |  |
 | [Starlust](https://open.spotify.com/track/5XijzlJUxXVwKmMo2BoGDm) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL), [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av) | [Starlust](https://open.spotify.com/album/3yO7pZzyGo8vuanWHaYCp4) | 2:45 | 2022-07-15 |  |
+| [Steinmetz](https://open.spotify.com/track/2EfrdKFmQNFZw2MRCR1QjI) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Steinmetz](https://open.spotify.com/album/4QZfBtiRjvukoOSmdTuTXT) | 2:16 | 2022-08-05 |  |
 | [Still Trying](https://open.spotify.com/track/1PyTG6VhRlpARtgJT7WNnA) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Still Trying](https://open.spotify.com/album/2MScI9Tiq8mxugFETQ5pgz) | 2:24 | 2022-05-27 |  |
 | [Stockholm, 8AM](https://open.spotify.com/track/6h2UJl7TLX8Vb6WOZTeLBE) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Stockholm, 8AM](https://open.spotify.com/album/3URnKw9tQ8wzNKbGaMk8ZT) | 1:25 | 2022-05-27 | 2022-07-15 |
 | [Stop Flexing](https://open.spotify.com/track/4a3joydfGpY44IWuu9QU6D) | [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Long Past](https://open.spotify.com/album/2AWtwPczp5lU3SgZIl2unc) | 2:42 | 2022-05-27 | 2022-06-03 |

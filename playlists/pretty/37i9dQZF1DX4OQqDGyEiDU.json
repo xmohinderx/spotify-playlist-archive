@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 44522,
+  "num_followers": 44588,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1OTQ0OSwwMDAwMDAwMDBkZmI0NGU4MGViNjhhZWVjM2M3NGJiNzcyM2MyNTQw",
+  "snapshot_id": "MTY1OTQ1OTQ0OSwwMDAwMDAwMGJkM2JlZGVhYjRlM2U4NGExMDAzZTBlNjg2ZjQ5OTk0",
   "tracks": [
     {
       "added_at": "2022-08-02 16:57:29",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-08-02 16:57:29",
       "album": {
-        "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD"
-      },
-      "artists": [
-        {
-          "name": "toa",
-          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
-        }
-      ],
-      "duration_ms": 250359,
-      "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W"
-    },
-    {
-      "added_at": "2022-08-02 16:57:29",
-      "album": {
         "name": "God sees all",
         "url": "https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196666,
       "name": "God sees all",
       "url": "https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6"
+    },
+    {
+      "added_at": "2022-08-02 16:57:29",
+      "album": {
+        "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD"
+      },
+      "artists": [
+        {
+          "name": "toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+        }
+      ],
+      "duration_ms": 250359,
+      "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W"
     },
     {
       "added_at": "2022-08-02 16:57:29",

@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Mezzaluna
 
-104 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+106 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2yhAtx8uyIKRnxLX3ftu8I) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/2WbvbkUUDWh8yFKxzXNux1) | 3:35 | 2022-07-28 |  |
 | [All I Want](https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Ombak Banyu Asmara](https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW) | 2:41 | 2021-11-25 | 2022-03-25 |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2021-11-25 | 2022-03-25 |
+| [anything 4 u](https://open.spotify.com/track/20p998Iw1tqEeHHvnxZ1wx) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [anything 4 u](https://open.spotify.com/album/64K42F7vbZEIxKUZjz0bq5) | 3:23 | 2022-08-04 |  |
 | [Baby Don't Let Me Go](https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Baby Don't Let Me Go](https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY) | 3:53 | 2021-11-25 | 2022-03-25 |
 | [Balada Semburan Naga](https://open.spotify.com/track/2RtoG9G8lFbdcMqXMLP05j) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl), [Adipati 'The Kuda'](https://open.spotify.com/artist/6swIALUfGBjKO9eGwHpipX) | [Balada Semburan Naga](https://open.spotify.com/album/4dlBcajEgrrep6NtFGM0s6) | 4:07 | 2021-11-25 | 2022-03-25 |
 | [Begal](https://open.spotify.com/track/37hXg8ANTcG13pKX0X16XM) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Songs To Begal To](https://open.spotify.com/album/0Ji2j5R9apVWxkaF0eADlu) | 2:58 | 2021-11-25 | 2022-03-25 |
@@ -112,5 +113,6 @@
 | [WEST](https://open.spotify.com/track/7LiXlY6Fhueht9ME6oLzWN) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [WEST](https://open.spotify.com/album/2Z6pkESrKWO14hSFVaUNmS) | 2:49 | 2022-03-24 |  |
 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 | 2021-11-25 | 2022-03-25 |
 | [You Are Too Beautiful](https://open.spotify.com/track/7rypINT2fPXEJTAW211dTp) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [I Only Dance When I'm Sad](https://open.spotify.com/album/3SpFqyFxLOamUvIolMGFGW) | 2:52 | 2021-11-25 | 2022-03-25 |
+| [You Should Know](https://open.spotify.com/track/5my3W0CKAb8kb6Z2Z7NjGx) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [You Should Know](https://open.spotify.com/album/47k8LFRZGbI3TKNSzuHAjq) | 3:03 | 2022-08-04 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

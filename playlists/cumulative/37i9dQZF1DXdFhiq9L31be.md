@@ -4,7 +4,7 @@
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: Phoebe Bridgers, FINNEAS, and Vance Joy.
 
-158 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
+159 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [I'd Rather Be With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5rlrzjYgAmxUi799A6Z5Wd) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Spotify Singles](https://open.spotify.com/album/7fxMPqE6oOmNwKMmMIOxaP) | 2:47 | 2021-10-21 | 2022-07-28 |
 | [I'll Be Fine Somehow \(feat\. Julie Bergan\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0GhdVB8RzGutxI15GTtqs9) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:46 | 2021-10-21 | 2022-07-29 |
 | [I'll Be Fine Somehow \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7bWxEJjDCSTkjTzJMZ6VKL) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:46 | 2022-03-09 | 2022-07-30 |
+| [I'll Be Fine Somehow \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7ieS3GbdpR81BfRzH0KFaT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:46 | 2022-03-09 |  |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2021-10-21 |  |
 | [I'm Goin' Down \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 3:27 | 2021-10-21 |  |
 | [I've Got The World On A String \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles](https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp) | 2:58 | 2021-10-21 |  |
@@ -147,7 +148,7 @@
 | [sunday \- Spotify Singles](https://open.spotify.com/track/1VxyhRGiDHmbeyGHrURHIG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:23 | 2021-10-21 | 2022-07-29 |
 | [Super Far \- Spotify Studios NYC](https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 3:56 | 2021-10-21 |  |
 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 | 2021-10-21 |  |
-| [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 | 2021-10-21 |  |
+| [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 | 2021-10-21 | 2022-08-06 |
 | [This Life \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 5:11 | 2021-10-21 | 2022-07-29 |
 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 | 2021-10-21 |  |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-03-09 |  |

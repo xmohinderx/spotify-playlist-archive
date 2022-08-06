@@ -2090,6 +2090,24 @@
     },
     {
       "album": {
+        "name": "Morning Routine",
+        "url": "https://open.spotify.com/album/7sQ4Mqn5YlAg8NfcIJDkbw"
+      },
+      "artists": [
+        {
+          "name": "bedroom lofi",
+          "url": "https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59494,
+      "name": "Morning Routine",
+      "url": "https://open.spotify.com/track/78ESZt9YZhiOgrAqPoheJ0"
+    },
+    {
+      "album": {
         "name": "motylek",
         "url": "https://open.spotify.com/album/66pXgt3qcK1xild9iNQV8Y"
       },

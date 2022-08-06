@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-188 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+189 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 | 2022-04-15 |  |
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2022-04-15 | 2022-07-29 |
 | [another.wun](https://open.spotify.com/track/6auvpJaVDpfgtYnpNwqF2x) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [another.wun](https://open.spotify.com/album/2nsg6lRwaX0YxvpPlUOeX7) | 1:45 | 2022-04-15 |  |
-| [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 | 2022-04-15 |  |
+| [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 | 2022-04-15 | 2022-08-06 |
 | [Autumn Chills](https://open.spotify.com/track/75reExYuxnJtFw5HYdR4ZW) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Jazzterfield](https://open.spotify.com/album/5CkqnEDMBl32m3lkZWRsxe) | 1:54 | 2022-04-15 | 2022-07-29 |
 | [Away with the Fairies](https://open.spotify.com/track/6Yp6bCLd4IWur1yL2Xirrk) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Away with the Fairies](https://open.spotify.com/album/1zfbxCBx19QGZoGsiivrcA) | 2:46 | 2022-04-15 | 2022-07-24 |
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2022-04-15 |  |
@@ -152,6 +152,7 @@
 | [Summer Love](https://open.spotify.com/track/4t9khFSydC1VwzVxjsgt63) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Summer Jazz](https://open.spotify.com/album/1TVi6bHOSXFHOIkCD8I3tM) | 3:22 | 2022-04-15 | 2022-07-29 |
 | [summer nights.](https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Nion](https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0) | [summer nights.](https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc) | 1:24 | 2022-04-15 |  |
 | [sunday morning vibes](https://open.spotify.com/track/4K6aHm8TzVYm55b6bPM6eb) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/5lRvO7AufpEDUZH2uNt2pK) | 1:30 | 2022-04-15 | 2022-07-29 |
+| [sunday morning vibes](https://open.spotify.com/track/5tQ5qokHOPrk0sySwuijrq) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/0az7EHTxxaCsSHzCaZKeJw) | 1:30 | 2022-04-15 |  |
 | [sunny](https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [sunny](https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ) | 2:19 | 2022-04-15 |  |
 | [Sunset \(Dedicated to J Dilla\)](https://open.spotify.com/track/3lxeK9XIrzMlxLgrG60BK5) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Sunset \(Dedicated to J Dilla\)](https://open.spotify.com/album/14rRku6dlxMwOrvocRe6B7) | 1:10 | 2022-04-15 | 2022-07-29 |
 | [sunset drive](https://open.spotify.com/track/6HVnsENMWuewoZvCGMsghQ) | [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [sunset drive](https://open.spotify.com/album/19UjFDsYwAY4vJvCpgR2Pu) | 2:17 | 2022-04-15 | 2022-07-29 |

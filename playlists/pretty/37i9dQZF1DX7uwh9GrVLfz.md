@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: 板歯目\(Banshimoku\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,099 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,135 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 53 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
 | 54 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
 | 55 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
-| 56 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 |
-| 57 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
+| 56 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
+| 57 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 |
 | 58 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
 | 59 | [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 |
 | 60 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 72 | [Thanks](https://open.spotify.com/track/6AAJi0tGZxjbLKK2fIuZkU) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 2:48 |
 | 73 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 |
 | 74 | [大切なもの](https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 3:10 |
-| 75 | [PUSH YOUR SELF](https://open.spotify.com/track/0dOx1jLGYsUeozJzQKKgxP) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [PUSH YOUR SELF](https://open.spotify.com/album/5mUoEHZYJ5ttD2tjjqkG50) | 2:58 |
+| 75 | [FAR EAST DISCO](https://open.spotify.com/track/7nzAb5aXJKYAIbLwpXIenx) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [BURST POP ISLAND](https://open.spotify.com/album/3iwkOy5OBbRrPllfeD0kYV) | 3:41 |
 | 76 | [アオ](https://open.spotify.com/track/2XcpaIgYulHpwEESRX8L70) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [アオ](https://open.spotify.com/album/12LkKpoe7EkrIZhiZqHNb1) | 3:44 |
-| 77 | [FAR EAST DISCO](https://open.spotify.com/track/7nzAb5aXJKYAIbLwpXIenx) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [BURST POP ISLAND](https://open.spotify.com/album/3iwkOy5OBbRrPllfeD0kYV) | 3:41 |
+| 77 | [PUSH YOUR SELF](https://open.spotify.com/track/0dOx1jLGYsUeozJzQKKgxP) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [PUSH YOUR SELF](https://open.spotify.com/album/5mUoEHZYJ5ttD2tjjqkG50) | 2:58 |
 | 78 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 |
 | 79 | [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 |
 | 80 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 93 | [Whistle](https://open.spotify.com/track/5EJlRKWkHK2MrXQYiTcJl2) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAtegory](https://open.spotify.com/album/3hoGg8akRjWHeU1fpI3byQ) | 2:30 |
 | 94 | [極彩色の夜へ\(Remastered\)](https://open.spotify.com/track/5RXTd9C3TYxXSaFAA73slU) | [climbgrow](https://open.spotify.com/artist/1VbfBuY3YBwQ5431bDLBD7) | [EL\-RODAR\(Selected Edition\)](https://open.spotify.com/album/4q3Sp4FtxrZ8c2s3kBsxEV) | 5:15 |
 | 95 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 |
-| 96 | [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 |
-| 97 | [Because of you](https://open.spotify.com/track/7G3RvOhP27HkLS7hToiGgz) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Reach](https://open.spotify.com/album/5yDfDCZvjtqjmfRJvi9QhM) | 2:57 |
+| 96 | [Because of you](https://open.spotify.com/track/7G3RvOhP27HkLS7hToiGgz) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Reach](https://open.spotify.com/album/5yDfDCZvjtqjmfRJvi9QhM) | 2:57 |
+| 97 | [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 |
 | 98 | [Ato\-Ichinene](https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [Little Playmate](https://open.spotify.com/album/6UFJosFQcUU2Pj3EZJP9Mt) | 3:02 |
 | 99 | [Monster](https://open.spotify.com/track/0QtJSgoQYAtBzwCMKVC5Ru) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [MONSTER STREET](https://open.spotify.com/album/0QGswv6J6zbymBzgkbMR8z) | 2:47 |
 | 100 | [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 |
 
-Snapshot ID: `MTY1OTQ1NTI0NywwMDAwMDAwMGY2NDMzYTA1Zjk1MzZiMjA1YjI4NGI3ZWQ0YTk4YzI0`
+Snapshot ID: `MTY1OTQ1NTI0NywwMDAwMDAwMDRlZjllNGZkNTdhNzViYTU1MDNhNTIwMGYyYjQzMWFi`

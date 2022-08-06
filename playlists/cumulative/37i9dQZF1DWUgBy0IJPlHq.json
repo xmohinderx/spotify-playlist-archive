@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Whiskey Myers",
+  "description": "A new shade of Country. Cover: Sierra Ferrell",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 294773,
       "name": "12th of June",
       "url": "https://open.spotify.com/track/0TUcn0qBz7kS0VtPyKviPm"
+    },
+    {
+      "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "1959",
+      "url": "https://open.spotify.com/track/674CK3mooQHsch9JvA9Kvc"
     },
     {
       "album": {
@@ -630,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Can't Do This No More",
+        "url": "https://open.spotify.com/album/6QZQ9lQDCXFsnVoOXs8cZ6"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220039,
+      "name": "Can't Do This No More",
+      "url": "https://open.spotify.com/track/6gFjIEEkRARKGavCqFJNLW"
+    },
+    {
+      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr"
       },
@@ -1003,7 +1039,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 241799,
       "name": "Dead Horses",
       "url": "https://open.spotify.com/track/2Q7I80HWsO2ErmkDQmHXjO"
@@ -1105,7 +1141,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 254181,
       "name": "Doin' This",
       "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
@@ -1519,6 +1555,24 @@
       "duration_ms": 182826,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
+    },
+    {
+      "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ"
     },
     {
       "album": {
@@ -2902,6 +2956,24 @@
     },
     {
       "album": {
+        "name": "Loud House",
+        "url": "https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1"
+      },
+      "artists": [
+        {
+          "name": "Madison Kozak",
+          "url": "https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Loud House",
+      "url": "https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv"
+    },
+    {
+      "album": {
         "name": "Love Is A Magnet / This Love Might Kill Me",
         "url": "https://open.spotify.com/album/3NBHcCj2EOjsA6t23cMB8Q"
       },
@@ -3122,6 +3194,24 @@
     },
     {
       "album": {
+        "name": "No Reservations",
+        "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
+      },
+      "artists": [
+        {
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224733,
+      "name": "No Reservations",
+      "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
+    },
+    {
+      "album": {
         "name": "You Hear Georgia",
         "url": "https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g"
       },
@@ -3137,6 +3227,24 @@
       "duration_ms": 208856,
       "name": "Old Enough to Know",
       "url": "https://open.spotify.com/track/1vpiutisvVInbnpeVDkALo"
+    },
+    {
+      "album": {
+        "name": "On The Ranch",
+        "url": "https://open.spotify.com/album/5YTaHXkz05dmQdFVbB1JiS"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "On The Ranch",
+      "url": "https://open.spotify.com/track/0mHgo4idHJkSRsv1z7Tuje"
     },
     {
       "album": {
@@ -3397,6 +3505,24 @@
       "duration_ms": 219954,
       "name": "Pink Sky",
       "url": "https://open.spotify.com/track/5erf3Lj664ICIbDzaVdquG"
+    },
+    {
+      "album": {
+        "name": "Pipeliner",
+        "url": "https://open.spotify.com/album/11O7JgRPasUbpB1Eg0yjyb"
+      },
+      "artists": [
+        {
+          "name": "Teague Brothers Band",
+          "url": "https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279026,
+      "name": "Pipeliner",
+      "url": "https://open.spotify.com/track/4CoT2SH4LmAouvTnBgLi4w"
     },
     {
       "album": {
@@ -3745,6 +3871,24 @@
       "duration_ms": 249560,
       "name": "Shenandoah Shakedown",
       "url": "https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR"
+    },
+    {
+      "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154613,
+      "name": "Shoot Low Sheriff!",
+      "url": "https://open.spotify.com/track/3UhGXH7S4384OGFgVJ4lSE"
     },
     {
       "album": {
@@ -4414,6 +4558,24 @@
     },
     {
       "album": {
+        "name": "The Way I Oughta Go",
+        "url": "https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250694,
+      "name": "The Way I Oughta Go",
+      "url": "https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU"
+    },
+    {
+      "album": {
         "name": "The Worst I Ever Had",
         "url": "https://open.spotify.com/album/3WmqyZcbhors6tThPpSqrN"
       },
@@ -4915,7 +5077,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 181893,
       "name": "Where Have All the Honest People Gone",
       "url": "https://open.spotify.com/track/5muATEexHqLIWqX4fusHd4"

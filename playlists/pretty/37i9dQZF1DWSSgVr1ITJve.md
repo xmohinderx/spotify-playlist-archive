@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,398 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,457 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 6 | [Ghadara](https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Ghadara](https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR) | 3:02 |
 | 7 | [Malika](https://open.spotify.com/track/5zecrB7Yub6a6tHY3LFQq5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Malika](https://open.spotify.com/album/3uhcblhut5YjsCAt8XJKQ2) | 2:56 |
 | 8 | [Shwaya](https://open.spotify.com/track/5icfspjoebfUNF7gBYY8r0) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Don Fuego](https://open.spotify.com/artist/1yMnbFn2UuiDitvAcvPen5) | [Shwaya](https://open.spotify.com/album/7JiO5q933nOd6of0iMOg55) | 2:13 |
-| 9 | [Ma Nssit](https://open.spotify.com/track/6e0HpF1nCtuek085Jo6R6P) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Ma Nssit](https://open.spotify.com/album/72Cl1FzJTk1oWE3Nt5M6dk) | 3:46 |
+| 9 | [Ma Nssit](https://open.spotify.com/track/1TV0wz0iAOiPMETEK8ywhl) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Notalgie](https://open.spotify.com/album/6OqhouMSH01qp4CNl1VXYQ) | 3:46 |
 | 10 | [3ini](https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [3ini](https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa) | 2:57 |
 | 11 | [Malouf Aloyoon](https://open.spotify.com/track/1iPfE8bCIqQWqkL1Pu6eN7) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Malouf Aloyoon](https://open.spotify.com/album/2Qb6m4mcj9PXwNBf7l0FI2) | 3:09 |
 | 12 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 49 | [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 |
 | 50 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY1OTEwODYzMiwwMDAwMDAwMGJmYjRjOGYyYWI1N2IxN2YxYTdkODU4NWJiMzgyYzE3`
+Snapshot ID: `MTY1OTEwODYzMiwwMDAwMDAwMGEwNzQzMTc1OGQxOTc5Y2IzZWY2MzBlY2FkMDgyNWVm`

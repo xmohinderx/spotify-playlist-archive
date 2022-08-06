@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover:  Mall Grab
 
-374 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+375 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Another Sketch](https://open.spotify.com/track/2IVmt96IvSP10bMHCIsmRs) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Another Sketch](https://open.spotify.com/album/3jm7drQQWex8Gu3cOdjkR9) | 3:50 | 2022-05-25 | 2022-07-15 |
 | [Anthem](https://open.spotify.com/track/3gmmSF7pX9XyjgbjvXwmeq) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [Anthem](https://open.spotify.com/album/3AwaHIkIHRW92foxOPOcJ7) | 4:14 | 2022-06-02 |  |
 | [anybody else but u](https://open.spotify.com/track/1nGjkxMWBfQCQXN1qFOkas) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [anybody else but u](https://open.spotify.com/album/5hpn0V7zDFtaY7CWaDoDbh) | 3:39 | 2021-11-24\* | 2022-04-02 |
+| [Anywhere With You](https://open.spotify.com/track/0RG81CtArQ6WWE5W7cGocf) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Anywhere With You EP](https://open.spotify.com/album/5So0sPYfpNBhyNpvQOjnVi) | 2:42 | 2022-08-04 |  |
 | [Apricity \(feat\. jules\)](https://open.spotify.com/track/0WgPeBuFxnyiFiPt5gdsEL) | [Morgan Hislop](https://open.spotify.com/artist/1M1AEVIsxhvm4lAkuC2LyC), [jules](https://open.spotify.com/artist/38lbchSS1uIomHvHUNtJp9) | [Apricity \(feat\. jules\)](https://open.spotify.com/album/3wjEG5ukwncxnrMLtrBjRU) | 3:36 | 2022-06-09 |  |
 | [Arc](https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Arc](https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm) | 4:34 | 2021-11-24\* | 2022-02-19 |
 | [Are We Here? \(30 Something\) \- Dusky Remix](https://open.spotify.com/track/4Jt4zH1bLXLeRFsdE859jb) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Are We Here? \(30 Something\) \[Remixes\]](https://open.spotify.com/album/1BaqR0H9llOKtOGNUIN4Wc) | 5:48 | 2022-01-07 | 2022-05-13 |

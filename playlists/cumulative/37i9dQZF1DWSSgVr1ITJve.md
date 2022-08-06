@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-61 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
+62 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 | 2022-06-29 |  |
 | [Laywagef](https://open.spotify.com/track/2v34KNVUnkIX80NsASvhZK) | [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Laywagef](https://open.spotify.com/album/3F7Dyt6nEYH0C8Pyju6Cf2) | 3:38 | 2022-06-29 |  |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2022-06-29 |  |
-| [Ma Nssit](https://open.spotify.com/track/6e0HpF1nCtuek085Jo6R6P) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Ma Nssit](https://open.spotify.com/album/72Cl1FzJTk1oWE3Nt5M6dk) | 3:46 | 2022-06-29 |  |
+| [Ma Nssit](https://open.spotify.com/track/1TV0wz0iAOiPMETEK8ywhl) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Notalgie](https://open.spotify.com/album/6OqhouMSH01qp4CNl1VXYQ) | 3:46 | 2022-07-29 |  |
+| [Ma Nssit](https://open.spotify.com/track/6e0HpF1nCtuek085Jo6R6P) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Ma Nssit](https://open.spotify.com/album/72Cl1FzJTk1oWE3Nt5M6dk) | 3:46 | 2022-06-29 | 2022-08-06 |
 | [Maalich](https://open.spotify.com/track/0jUPTAe0FAHcxnWh90SysJ) | [Mng917](https://open.spotify.com/artist/2PcEZiroZNJhGwc7h2ou0V), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Lwind](https://open.spotify.com/artist/7FKJkQg0IVsjN3r4m60rl9) | [Maalich](https://open.spotify.com/album/5UF4EOwp1LcK3kSx8KxEYX) | 3:25 | 2022-06-29 |  |
 | [Machine](https://open.spotify.com/track/0sPSSoP7c0XA2amzNyMGCl) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Machine](https://open.spotify.com/album/3x7jdeopuJuMe3Z8yuiiwg) | 2:18 | 2022-06-29 |  |
 | [Machine](https://open.spotify.com/track/4BMmGaUZVOlLIREgZKZh9a) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Machine](https://open.spotify.com/album/1Oy60tLp9CAJ5Vw9ixeLU0) | 2:18 | 2022-06-29 | 2022-07-29 |

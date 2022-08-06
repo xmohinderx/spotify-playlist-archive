@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/516cqGsOEFiDxIhqbRWCuy"
+      },
+      "artists": [
+        {
+          "name": "Airha",
+          "url": "https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139551,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/5dNpam7kD3OsBJOVQC5YyX"
+    },
+    {
+      "album": {
         "name": "Serenata Huasteca",
         "url": "https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk"
       },
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 146181,
       "name": "Davos",
       "url": "https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 217361,
       "name": "die Langustine",
       "url": "https://open.spotify.com/track/0XH5kwUQixnpXeQmPzxMua"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 184610,
       "name": "die Zeder",
       "url": "https://open.spotify.com/track/5IyPSusjmxJFNcFSFJ7Cmp"
@@ -3301,7 +3319,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175540,
       "name": "Milagro",
       "url": "https://open.spotify.com/track/1KiSv67dHyaH6hu7EgMp3Q"
@@ -3341,6 +3359,24 @@
       "duration_ms": 87923,
       "name": "Mineral",
       "url": "https://open.spotify.com/track/0TOLxJTPhAkvqg9GfnjstG"
+    },
+    {
+      "album": {
+        "name": "Mino Madrid",
+        "url": "https://open.spotify.com/album/2i1BOMeyUaOPrhCYZdHxAU"
+      },
+      "artists": [
+        {
+          "name": "Adriana Von",
+          "url": "https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108763,
+      "name": "Mino Madrid",
+      "url": "https://open.spotify.com/track/039lCWzjPxX289MSTfim74"
     },
     {
       "album": {
@@ -3395,6 +3431,24 @@
       "duration_ms": 135505,
       "name": "Montesinho",
       "url": "https://open.spotify.com/track/5AzYGfl2BlQS2xDy63NcoL"
+    },
+    {
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/1laCd0yZoeEPJTkVz880fv"
+      },
+      "artists": [
+        {
+          "name": "Brett Williams",
+          "url": "https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/68TB2FZJMOpnb7ZCypjxOv"
     },
     {
       "album": {
@@ -4694,6 +4748,24 @@
     },
     {
       "album": {
+        "name": "Signum",
+        "url": "https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB"
+      },
+      "artists": [
+        {
+          "name": "Alexas Lucio",
+          "url": "https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155553,
+      "name": "Signum",
+      "url": "https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ"
+    },
+    {
+      "album": {
         "name": "Le Louvre",
         "url": "https://open.spotify.com/album/2oO72iywMunjNXkhplNFHU"
       },
@@ -4982,6 +5054,24 @@
     },
     {
       "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/3UGoU9qryYGEtAFkDeFofi"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wake",
+          "url": "https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112210,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/6qrErH6mKy8hZbmsx8DzPG"
+    },
+    {
+      "album": {
         "name": "Stranger On The Shore",
         "url": "https://open.spotify.com/album/4jWKKbl7D4CfH2keibNJpx"
       },
@@ -4997,6 +5087,24 @@
       "duration_ms": 130000,
       "name": "Stranger On The Shore",
       "url": "https://open.spotify.com/track/2kz53IKDZ9ThMan8HAGWmR"
+    },
+    {
+      "album": {
+        "name": "Catuai",
+        "url": "https://open.spotify.com/album/5mavmXf5ceBsKiQQntgWc4"
+      },
+      "artists": [
+        {
+          "name": "Meg Stiles",
+          "url": "https://open.spotify.com/artist/6azAZkeJXuyfeAMVQ3YwU8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161811,
+      "name": "Stream of Thought",
+      "url": "https://open.spotify.com/track/16EamUVPzSlsVanzMUz87Q"
     },
     {
       "album": {
@@ -5191,7 +5299,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 106000,
       "name": "Then We Danced",
       "url": "https://open.spotify.com/track/41uRtSlha7KeRzZK6F5iVT"

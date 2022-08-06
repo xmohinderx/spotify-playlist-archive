@@ -13890,6 +13890,32 @@
     },
     {
       "album": {
+        "name": "\u0422\u0435\u0441\u043d\u043e",
+        "url": "https://open.spotify.com/album/2N4ty17KyISqTHuoz1fj2v"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "ANIKV",
+          "url": "https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132649,
+      "name": "\u0422\u0435\u0441\u043d\u043e",
+      "url": "https://open.spotify.com/track/32KaMkGx3AZPQcHd8suXCb"
+    },
+    {
+      "album": {
         "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
         "url": "https://open.spotify.com/album/3RcaQ8cYOVRS1PkjUZYtSI"
       },
@@ -13909,7 +13935,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 125538,
       "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
       "url": "https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN"

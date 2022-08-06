@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-730 songs - 1 day 14 hr 31 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+731 songs - 1 day 14 hr 34 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-06-30 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-27 |
 | [Die Together](https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Die Together](https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB) | 2:55 | 2022-05-16 | 2022-05-27 |
-| [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-23 |  |
+| [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-23 | 2022-08-06 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-22 | 2021-07-04 |
 | [Disco Demolition 2018 \(Stabekk Anthem\)](https://open.spotify.com/track/04rjxIPsEtpM8Yj9UPy6Tt) | [J\-Dawg](https://open.spotify.com/artist/18KsILOMx3thJRzBYBnKHW), [Lille Saus](https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0) | [Disco Demolition 2018 \(Stabekk Anthem\)](https://open.spotify.com/album/4HA4UiMIjBn6n6xsbGrmvK) | 3:18 | 2022-05-18 | 2022-05-20 |
 | [Discoteque](https://open.spotify.com/track/7dMOzsTZOUtOF7W5kLN0gf) | [THE ROOP](https://open.spotify.com/artist/34G31kGbSQmemVlI0G784o) | [Discoteque](https://open.spotify.com/album/1OfWh8e9R7tOmrX4pGlDBe) | 3:00 | 2021-05-25 | 2021-05-28 |
@@ -694,6 +694,7 @@
 | [Tusen Tårer RifMix](https://open.spotify.com/track/3rltcQNi2sOLr9yJJUZd0m) | [Arif](https://open.spotify.com/artist/3l4RyQwQ0kHZ9Q9cQbRNMr), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tusen Tårer RifMix](https://open.spotify.com/album/103tsYWETpTUU1yPbiz4iB) | 2:29 | 2022-01-03 | 2022-01-15 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-23 |  |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2021-10-17 | 2021-11-21 |
+| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-05 |  |
 | [Under treet](https://open.spotify.com/track/5GyK0VoeWtQvT1Yesd0mVh) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Under treet](https://open.spotify.com/album/66CDOePrEo82IWHbzKdYnU) | 3:21 | 2021-12-07 | 2021-12-27 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-24 | 2021-12-27 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-27 |

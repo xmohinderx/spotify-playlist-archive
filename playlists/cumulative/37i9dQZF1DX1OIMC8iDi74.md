@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-218 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+219 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Lowkey \(feat\. Lil Traffic\)](https://open.spotify.com/track/0PCCk7RBQUE7RsoUq66nuW) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Lil Traffic](https://open.spotify.com/artist/3eT3DxADMFeVVzczjXOreQ) | [Lowkey \(feat\. Lil Traffic\)](https://open.spotify.com/album/1vpHK5Bjp7vFHXpmHYzQWD) | 3:12 | 2021-11-19 | 2022-01-20 |
 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 | 2021-11-19 | 2022-02-02 |
 | [Major](https://open.spotify.com/track/55dObqJybLWm9O06FBDLCP) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Major](https://open.spotify.com/album/4WUW44ZbWTQoi5bsJD3kl6) | 3:53 | 2021-11-19 | 2022-01-17 |
+| [MAKE ME DANCE](https://open.spotify.com/track/3at6CHKoGRGh5dzee3jREt) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [CHAOS](https://open.spotify.com/album/7AL5AHfLrkfHJZJwdP8yTx) | 3:22 | 2022-08-05 |  |
 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 | 2021-11-19 | 2022-01-21 |
 | [Mars](https://open.spotify.com/track/0qe82vcK8qrhxysdMQpBrt) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Mars](https://open.spotify.com/album/4TIkvjDU9QucXlfKgvV899) | 2:35 | 2021-11-19 | 2022-02-02 |
 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 |  |
@@ -167,7 +168,7 @@
 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 | 2021-11-19 |  |
 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 | 2021-11-19 | 2022-07-29 |
 | [Redline](https://open.spotify.com/track/4aazAfFSKtI5XIlkauNyJC) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG) | [Redline](https://open.spotify.com/album/4CIMWIQasnF1cP3lUjpFt0) | 3:56 | 2021-11-19 | 2022-01-12 |
-| [REDloop](https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq) | 3:45 | 2022-05-11 |  |
+| [REDloop](https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq) | 3:45 | 2022-05-11 | 2022-08-06 |
 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 | 2022-02-01 |  |
 | [Remember 01](https://open.spotify.com/track/7uVb2BbkZGTtsZOZJX8ZHp) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [John Trudell](https://open.spotify.com/artist/66UTgjk1qw87MQEpsidHdA), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Remember 01](https://open.spotify.com/album/2snP3VAdPPSFNoxWx89l4L) | 2:47 | 2021-11-19 | 2022-02-02 |
 | [Rendez\-Vous](https://open.spotify.com/track/3ydK0BduQnwOF0A1Oe4VPd) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Chase.Wav](https://open.spotify.com/artist/3eVkYzgZJfjCl2lqdNonUS) | [Rendez Vous](https://open.spotify.com/album/2pXZl0vL2Yj5xRDn3nKWMy) | 3:12 | 2021-11-19 | 2022-02-02 |

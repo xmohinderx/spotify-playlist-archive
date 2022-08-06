@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,637 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,700 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 20 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
 | 21 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
 | 22 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 |
-| 23 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 |
-| 24 | [No Me Llores](https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52) | 3:11 |
+| 23 | [No Me Llores](https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52) | 3:11 |
+| 24 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 |
 | 25 | [Vuelve](https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Vuelve](https://open.spotify.com/album/2eJQaFgNUndmCjFinYg2Nj) | 3:01 |
 | 26 | [Pero Ya No](https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:40 |
 | 27 | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
 | 100 | [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 |
 
-Snapshot ID: `MTY1OTQ2Mjg4OCwwMDAwMDAwMDJiY2I3MTA0MjIxODU3YWU0OTFlZDAzOWI5YjI2OGU1`
+Snapshot ID: `MTY1OTQ2Mjg4OCwwMDAwMDAwMGQwODVmYzBhN2VhYzhjZjExZTgzOWFjNDBkYjM3ZTgz`

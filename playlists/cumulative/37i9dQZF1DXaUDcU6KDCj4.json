@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Plains (Waxahatchee + Jess Williamson)",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Bella White",
   "name": "Fresh Folk",
   "published_playlist_ids": [
     "7yU452WcXvKlp2CXhHrD6N"
@@ -45,6 +45,24 @@
       "duration_ms": 238300,
       "name": "100 Proof",
       "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
+    },
+    {
+      "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "1959",
+      "url": "https://open.spotify.com/track/674CK3mooQHsch9JvA9Kvc"
     },
     {
       "album": {
@@ -121,6 +139,24 @@
       "duration_ms": 218386,
       "name": "A Man Without A Name",
       "url": "https://open.spotify.com/track/7d2IAdBCsf13DOgZtrAe9L"
+    },
+    {
+      "album": {
+        "name": "A Month Or Two",
+        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
     },
     {
       "album": {
@@ -731,7 +767,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 164944,
       "name": "Another Castle",
       "url": "https://open.spotify.com/track/1HFIrt2wIRGBgxsiznHu8v"
@@ -2057,7 +2093,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 212006,
       "name": "Chicamacomico",
       "url": "https://open.spotify.com/track/0y9W883qZNIa4WtZqpBx4u"
@@ -2303,7 +2339,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 234626,
       "name": "Communion - Country version",
       "url": "https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR"
@@ -3482,6 +3518,36 @@
     },
     {
       "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/3O8ooLR5rOrj4LT5WRb4Yw"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/06Ffm9CHkQRDkzILrKAomW"
+    },
+    {
+      "album": {
         "name": "Eyes Wide Open (From \"North Star\")",
         "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
       },
@@ -3843,7 +3909,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 220211,
       "name": "Fisherman's Daughter",
       "url": "https://open.spotify.com/track/1tyTGY9MsV9gfzvXMStcFy"
@@ -3861,7 +3927,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 218074,
       "name": "Float",
       "url": "https://open.spotify.com/track/2JwXCnTKHDtFw7nnNKgsfe"
@@ -6066,6 +6132,24 @@
     },
     {
       "album": {
+        "name": "It All",
+        "url": "https://open.spotify.com/album/1CYYV6XgyBku2WquX3YLsU"
+      },
+      "artists": [
+        {
+          "name": "Phillip LaRue",
+          "url": "https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "It All",
+      "url": "https://open.spotify.com/track/2xaOXlZZ7T4ysLMKzIr9ac"
+    },
+    {
+      "album": {
         "name": "New Girl",
         "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
       },
@@ -6077,7 +6161,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 265936,
       "name": "It's A New Life",
       "url": "https://open.spotify.com/track/3ku06NWgtn63zs0yGSjQoe"
@@ -6683,7 +6767,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 241985,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/5AzmKbqdNE0waODqrzZFm3"
@@ -6853,6 +6937,24 @@
       "duration_ms": 153533,
       "name": "Love Is Tall",
       "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
+    },
+    {
+      "album": {
+        "name": "Love Letter From The Sea to The Shore",
+        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
     },
     {
       "album": {
@@ -7233,6 +7335,24 @@
       "duration_ms": 297913,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/2gZ6nr4rWkXfvSrjXQPqVw"
+    },
+    {
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/0sHcDhiz630YsY7cJU5VVO"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181310,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/4JuZ4wgO8jmGw6CZbh1jZi"
     },
     {
       "album": {
@@ -7721,7 +7841,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 165638,
       "name": "Nova to Ba",
       "url": "https://open.spotify.com/track/4xoS6oKefBwdVJ1QXOCPkV"
@@ -7877,7 +7997,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 195705,
       "name": "On Its Way",
       "url": "https://open.spotify.com/track/0INfPpnTk4tAu64juzAffA"
@@ -8343,7 +8463,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 236634,
       "name": "Piece of Shit",
       "url": "https://open.spotify.com/track/6fhqNzbeBYEND5PcpPGLHg"
@@ -9163,7 +9283,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 245480,
       "name": "Rise the Tide",
       "url": "https://open.spotify.com/track/3nLP5Oftc3XeQaK4A0tRNx"
@@ -9383,7 +9503,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
@@ -10236,6 +10356,24 @@
     },
     {
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/0g77bIfg111lu73WvLDKBY"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234663,
+      "name": "Still Waters",
+      "url": "https://open.spotify.com/track/44zen9y4XKTc40mH2blHhY"
+    },
+    {
+      "album": {
         "name": "i don\u2019t know who needs to hear this...",
         "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
       },
@@ -10319,7 +10457,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 224573,
       "name": "sugar",
       "url": "https://open.spotify.com/track/6K3lfhZPh0EotjqyVBTx52"
@@ -10403,7 +10541,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 235052,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/5YlMUU8DrYzx2asTl6WH5O"
@@ -10511,7 +10649,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 202999,
       "name": "Taking Control (Acoustic)",
       "url": "https://open.spotify.com/track/21IICqOmlmJOCoYvoF3igM"
@@ -11136,6 +11274,24 @@
     },
     {
       "album": {
+        "name": "The Way I Oughta Go",
+        "url": "https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250694,
+      "name": "The Way I Oughta Go",
+      "url": "https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU"
+    },
+    {
+      "album": {
         "name": "Head of Roses: Phantom Limb",
         "url": "https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH"
       },
@@ -11702,6 +11858,24 @@
     },
     {
       "album": {
+        "name": "Turnham Green",
+        "url": "https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "Turnham Green",
+      "url": "https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW"
+    },
+    {
+      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
       },
@@ -11904,6 +12078,24 @@
     },
     {
       "album": {
+        "name": "Used To Be Friends",
+        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335503,
+      "name": "Used To Be Friends",
+      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
+    },
+    {
+      "album": {
         "name": "From Dreams to Dust",
         "url": "https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS"
       },
@@ -12023,7 +12215,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 191700,
       "name": "Wait Up",
       "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
@@ -12063,6 +12255,24 @@
       "duration_ms": 204066,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/5ixbFTHPQfVc8Du4jvAi9H"
+    },
+    {
+      "album": {
+        "name": "Walking Song",
+        "url": "https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Walking Song",
+      "url": "https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj"
     },
     {
       "album": {
@@ -12225,7 +12435,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 173678,
       "name": "We Need To Talk About It",
       "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
@@ -12355,6 +12565,28 @@
       "duration_ms": 202040,
       "name": "What if You",
       "url": "https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA"
+    },
+    {
+      "album": {
+        "name": "What Makes a Man",
+        "url": "https://open.spotify.com/album/3PikP2CR0EgvgP2NSwoLrx"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210617,
+      "name": "What Makes a Man",
+      "url": "https://open.spotify.com/track/4nWoYN8aF05BZgeMj7sbnp"
     },
     {
       "album": {

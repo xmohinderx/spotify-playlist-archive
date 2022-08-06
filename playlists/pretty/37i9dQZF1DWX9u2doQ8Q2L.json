@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 334059,
+  "num_followers": 334099,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyNTIwMCwwMDAwMDAwMDUyMGE3MWQxZDkyNTliYWZjNDc2NDIwNzRiZmM3NmNk",
+  "snapshot_id": "MTY1OTYyNTIwMCwwMDAwMDAwMGU0NmJiZGViOTlkMWFlYWQ3YmI4ZjVhNTBmMWI2ZjRk",
   "tracks": [
     {
       "added_at": "2022-08-04 15:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "duration_ms": 192484,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
         "name": "\u821e\u53f0\u306e\u4e0a\u3067",
         "url": "https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB"
       },
@@ -519,6 +535,26 @@
       "duration_ms": 183178,
       "name": "Sparkling Lemonade",
       "url": "https://open.spotify.com/track/2PiqA2ivGioRKIsbJmMuWp"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Never Ever",
+        "url": "https://open.spotify.com/album/6T9fRYlghCWbqTSqZE5UES"
+      },
+      "artists": [
+        {
+          "name": "Idiot Pop",
+          "url": "https://open.spotify.com/artist/6t8D7bjh5Tk8aGBeSJ4RoP"
+        },
+        {
+          "name": "TORAT",
+          "url": "https://open.spotify.com/artist/4l0gZLsSqaiocM9lXBBX58"
+        }
+      ],
+      "duration_ms": 202306,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/7hRa263NxqoPk3DuupeG6R"
     },
     {
       "added_at": "2022-08-04 15:00:00",

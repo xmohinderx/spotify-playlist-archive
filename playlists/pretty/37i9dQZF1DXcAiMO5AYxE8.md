@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,654 likes - 58 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,781 likes - 58 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 54 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 |
 | 55 | [Holdin' Out for Love](https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp) | [Angela Bofill](https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t) | [The Definitive Collection](https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB) | 3:24 |
 | 56 | [Boogie Oogie Oogie](https://open.spotify.com/track/1kt3FyvHIhZkYBgKjAiroE) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 4:14 |
-| 57 | [I Love You More](https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Master of the Game \(Expanded Edition\)](https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX) | 3:06 |
-| 58 | [\(Ooh\-Wee\) He's Killing Me](https://open.spotify.com/track/0dEJHQJDmjJEY5rnhlbfyC) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [The Best Of Patti Austin](https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO) | 3:27 |
+| 57 | [\(Ooh\-Wee\) He's Killing Me](https://open.spotify.com/track/0dEJHQJDmjJEY5rnhlbfyC) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [The Best Of Patti Austin](https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO) | 3:27 |
+| 58 | [I Love You More](https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Master of the Game \(Expanded Edition\)](https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX) | 3:06 |
 
-Snapshot ID: `MTY0MTgxODc0MiwwMDAwMDAwMDI3M2E1MTdiY2EwODU3M2ZhYWE2ZDRlODUxMTdlNjg5`
+Snapshot ID: `MTY0MTgxODc0MiwwMDAwMDAwMDE0NGVkMzc0NGQ5YTZhOTc0OTI1MDkxMDA1ZWU3YjU0`

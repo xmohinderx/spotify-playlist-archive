@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 490835,
+  "num_followers": 491333,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQzNjg4NSwwMDAwMDAwMDliNmJiMDU5Mjg5Y2UyN2E3MDU2ZGNmNjJjOGZhNGVj",
+  "snapshot_id": "MTY1OTQzNjg4NSwwMDAwMDAwMDc4NWE3NDZlZjM2MTMxNjQxODQ1NjU4OWE5ZjU3MGM0",
   "tracks": [
     {
       "added_at": "2022-06-17 10:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 184280,
       "name": "Under Control (feat. Hurts)",
       "url": "https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+        "name": "Stupid Feelings",
+        "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
         },
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
+      "duration_ms": 166924,
+      "name": "Stupid Feelings",
+      "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1099,42 +1099,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Stupid Feelings",
-        "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
       },
       "artists": [
         {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 166924,
-      "name": "Stupid Feelings",
-      "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Gecko (Overdrive)",
-        "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Gecko (Overdrive) - Radio Edit",
-      "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1155,6 +1135,26 @@
       "duration_ms": 198095,
       "name": "Astronomia",
       "url": "https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Gecko (Overdrive)",
+        "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Gecko (Overdrive) - Radio Edit",
+      "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "A Town Called Paradise",
-        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 217906,
       "name": "Move Your Body - Alan Walker Remix",
       "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "A Town Called Paradise",
+        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1427,26 +1427,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Monster (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
+        "name": "Singled Out",
+        "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
         },
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         }
       ],
-      "duration_ms": 165947,
-      "name": "Monster - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
+      "duration_ms": 151983,
+      "name": "Let Me Think About It",
+      "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1471,22 +1467,26 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Singled Out",
-        "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
+        "name": "Monster (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
       },
       "artists": [
         {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         },
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 151983,
-      "name": "Let Me Think About It",
-      "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
+      "duration_ms": 165947,
+      "name": "Monster - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "I'm Blue (Club Mixes)",
+        "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
+      },
+      "artists": [
+        {
+          "name": "Kush Kush",
+          "url": "https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I'm Blue - Club Mix",
+      "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Shooting Darts (with R3HAB & Prezioso)",
         "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "I'm Blue (Club Mixes)",
-        "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
-      },
-      "artists": [
-        {
-          "name": "Kush Kush",
-          "url": "https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I'm Blue - Club Mix",
-      "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2619,6 +2619,26 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Drop It",
+        "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Won\u2019t Let You Go",
         "url": "https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h"
       },
@@ -2639,26 +2659,6 @@
       "duration_ms": 217261,
       "name": "Won\u2019t Let You Go",
       "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Drop It",
-        "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Drop It",
-      "url": "https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "One (Your Name)",
+        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "One - Radio Edit",
+      "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
       },
@@ -2703,22 +2719,6 @@
       "duration_ms": 157446,
       "name": "Skippin",
       "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "One (Your Name)",
-        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "One - Radio Edit",
-      "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -3027,30 +3027,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "The Right Song",
-        "url": "https://open.spotify.com/album/2uwSRJNAi1MdQwKl9UOILf"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "The Right Song",
-      "url": "https://open.spotify.com/track/59yxjfkqhOPacjiolBHQDC"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Drive By",
         "url": "https://open.spotify.com/album/2sbrLlbgpjwmSoQbycOSzj"
       },
@@ -3071,6 +3047,30 @@
       "duration_ms": 201639,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/6VlxEmdgQWA8LifowgVSky"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "The Right Song",
+        "url": "https://open.spotify.com/album/2uwSRJNAi1MdQwKl9UOILf"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "The Right Song",
+      "url": "https://open.spotify.com/track/59yxjfkqhOPacjiolBHQDC"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -3119,22 +3119,30 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "New Rules (Remixes)",
-        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
+        "name": "Bang Bang (Remixes)",
+        "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         },
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
         }
       ],
-      "duration_ms": 280853,
-      "name": "New Rules - KREAM Remix",
-      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
+      "duration_ms": 186333,
+      "name": "Bang Bang - 3LAU Remix",
+      "url": "https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA"
     }
   ],
   "unique_name": "Energy Booster: Dance",

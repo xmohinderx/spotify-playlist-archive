@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-240 songs - 15 hr 50 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+241 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 | 2022-07-27 | 2022-08-03 |
 | [Atami](https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Atami](https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX) | 3:58 | 2022-07-27 | 2022-07-30 |
 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 | 2022-05-24 |  |
+| [Baby Baby Baby](https://open.spotify.com/track/5uMl2Prrq7BrPqALqkThvJ) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Hot Sauce on Ice Cream](https://open.spotify.com/album/6FDsnKHOZcxraTjXWQDUXE) | 3:31 | 2022-08-04 |  |
 | [BITTER!](https://open.spotify.com/track/6dmvgAl7jBgYbLBaFw3t3R) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe) | 3:05 | 2022-05-24 | 2022-08-03 |
 | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu) | 4:24 | 2022-05-24 | 2022-07-27 |
 | [BLOOM](https://open.spotify.com/track/5N91tpIFf6D7JS0O1Cvbn5) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [BLOOM](https://open.spotify.com/album/1ZCeo1Ht3sInQD3RBdw66Q) | 3:42 | 2022-06-02 | 2022-07-14 |
@@ -122,7 +123,7 @@
 | [Sentimental \- Neon Mix](https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7) | [Sentimental \(Neon Mix\)](https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr) | 3:23 | 2022-08-02 |  |
 | [SEPTEMBER](https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [SEPTEMBER](https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn) | 4:35 | 2022-05-24 |  |
 | [Shinin' World, Ridin' Road](https://open.spotify.com/track/25YgZdoImkhYt1PaFc7qTT) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [サン・キスド・レディー](https://open.spotify.com/album/5fq9VwMtARVCoqj2f5TD8z) | 3:50 | 2022-07-05 | 2022-08-04 |
-| [Signpost](https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Signpost](https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH) | 3:32 | 2022-08-02 |  |
+| [Signpost](https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Signpost](https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH) | 3:32 | 2022-08-02 | 2022-08-06 |
 | [Smoking Time](https://open.spotify.com/track/4lArdXTdlROm7xXtVYgEM6) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Smoking Time](https://open.spotify.com/album/7EjmHYZ0G6p7GpXRanHJ9A) | 4:29 | 2022-06-07 | 2022-07-27 |
 | [SOSOGU](https://open.spotify.com/track/54x8nltyUeJxylMzAev90H) | [陽真](https://open.spotify.com/artist/6Kn0OX8yBp3EqLM5PaLgN2) | [SOSOGU](https://open.spotify.com/album/1FERVrFwHGs6S6BoEd0q64) | 3:24 | 2022-05-31 | 2022-06-07 |
 | [Space Traveler](https://open.spotify.com/track/6Vw38ZQiy5cfij2BOokGk1) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Space Traveler](https://open.spotify.com/album/4iMHcf6TLvNG69OLPxwdjK) | 4:25 | 2022-05-24 | 2022-07-25 |

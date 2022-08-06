@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 128812,
+  "num_followers": 128835,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODgyMzQ0OCwwMDAwMDAwMDY0NDYxNjExOTNhYTQ5MmZkMjUxNzQ3ZTEyOTU2NWYy",
+  "snapshot_id": "MTY1ODgyMzQ0OCwwMDAwMDAwMDlmMTBkZGJlNDQyMWU3Zjk4OGUwY2YzOWRmMzcxZjlj",
   "tracks": [
     {
       "added_at": "2022-07-26 08:17:28",
@@ -263,6 +263,34 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -303,30 +331,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         },
         {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+      "duration_ms": 145890,
+      "name": "Sex & Love",
+      "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -375,26 +395,6 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 145890,
-      "name": "Sex & Love",
-      "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "SICKO MODE (Skrillex Remix)",
+        "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 304512,
+      "name": "SICKO MODE - Skrillex Remix",
+      "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Strange Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 133000,
       "name": "Seven Nation Army (feat. KOYSINA)",
       "url": "https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "SICKO MODE (Skrillex Remix)",
-        "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 304512,
-      "name": "SICKO MODE - Skrillex Remix",
-      "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 170564,
+      "name": "Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 170564,
-      "name": "Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "El Pana Dero",
-        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "El Pana Dero",
-      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
         "name": "Get Trapped, Vol. 1",
         "url": "https://open.spotify.com/album/0K2EUEJo5TH95rs1lCDZTP"
       },
@@ -1819,18 +1803,34 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii"
+        "name": "El Pana Dero",
+        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
         }
       ],
-      "duration_ms": 123228,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
+      "duration_ms": 164160,
+      "name": "El Pana Dero",
+      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
+        "name": "El Bass",
+        "url": "https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "El Bass",
+      "url": "https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf"
     }
   ],
   "unique_name": "Ejercicio Total",

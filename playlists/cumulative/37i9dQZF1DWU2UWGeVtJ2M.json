@@ -1800,6 +1800,24 @@
     },
     {
       "album": {
+        "name": "heights",
+        "url": "https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j"
+      },
+      "artists": [
+        {
+          "name": "53 Thieves",
+          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231910,
+      "name": "heights",
+      "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
+    },
+    {
+      "album": {
         "name": "Hell or Heaven",
         "url": "https://open.spotify.com/album/4HX87TyD4akOXBqt73bb50"
       },
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"

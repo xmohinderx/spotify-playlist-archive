@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Ronnie Dunn
 
-149 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+152 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Country Pie](https://open.spotify.com/track/7saHu3eotJFSeo6TAFkvoD) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Dirt Does Dylan](https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T) | 2:49 | 2022-05-20 |  |
 | [Cut Through Me](https://open.spotify.com/track/2NEGAeWfyGuxJIsV5xxqDp) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Barroom Mirrors EP](https://open.spotify.com/album/5fPloWNi1Mk2LAahhDwe88) | 3:59 | 2021-11-19 |  |
 | [Dear Miss Loretta](https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Dear Miss Loretta](https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn) | 3:40 | 2021-10-15 |  |
+| [Dents On A Chevy](https://open.spotify.com/track/7sA9nuB1TGbZ4iHzLL80FH) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Jacob](https://open.spotify.com/album/4YbkRO4bAGaiOr1qiex8mi) | 3:17 | 2022-08-05 |  |
 | [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-10-15 |  |
 | [Don't Drink Whiskey](https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Don't Drink Whiskey](https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD) | 3:38 | 2022-01-28 |  |
 | [Dusty Bottles](https://open.spotify.com/track/79eXcwwGDoGby7NxPOW0vw) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dusty Bottles](https://open.spotify.com/album/1O0K1b7OZDchLrM0ifo9d9) | 3:30 | 2022-04-22 | 2022-07-29 |
@@ -56,6 +57,7 @@
 | [Family Bible](https://open.spotify.com/track/1Xxh3hRbNdncv3KKQPopeW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Family Bible](https://open.spotify.com/album/1RIyl2g04KYNod8Vcrsylc) | 2:48 | 2021-10-15 | 2022-07-29 |
 | [Family Bible](https://open.spotify.com/track/4jIbcHdc0U1hjZohhv8A3z) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:48 | 2022-07-22 |  |
 | [Forever Young](https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Forever Young](https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb) | 4:16 | 2022-04-29 |  |
+| [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 |  |
 | [Getting Good](https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Getting Good](https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd) | 3:21 | 2021-10-15 |  |
 | [God And Country Music](https://open.spotify.com/track/4RldvvNaEdteK2I0y6NWTR) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Honky Tonk Time Machine](https://open.spotify.com/album/1IwWcySO6hKQ8dsFVtJfz4) | 4:04 | 2021-10-15 |  |
 | [Going Out Like This](https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Sippin' On The Simple Life](https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo) | 3:29 | 2021-10-15 |  |
@@ -71,6 +73,7 @@
 | [Honky Tonk Boots](https://open.spotify.com/track/50n0xq2emVcORdDztPNqkt) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Honky Tonk Boots](https://open.spotify.com/album/6N0mFLasumH7G1MegiZeQ8) | 2:47 | 2022-03-11 |  |
 | [Honky Tonk Town](https://open.spotify.com/track/1Jsijb9pEP1F44gbRK1XXN) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Honky Tonk Town](https://open.spotify.com/album/5bWQAEpi5HQTkMKAyLYdhP) | 2:59 | 2022-05-20 |  |
 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT) | 2:55 | 2021-10-15 |  |
+| [How You Make A Man](https://open.spotify.com/track/4N2YOk1bMtaDTOidVyhSIs) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [How You Make A Man](https://open.spotify.com/album/1kOvLGkfJhVG5OnYoPpeOP) | 3:51 | 2022-08-05 |  |
 | [I Ain't Drunk \(feat\. Terri Clark\)](https://open.spotify.com/track/5hGeFMy9ilkY029FJz9QFv) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Diamonds in a Whiskey Glass \(Deluxe Diamond Edition\)](https://open.spotify.com/album/3LZL4DbzZ6hJAM7dMTk8XO) | 3:24 | 2022-04-22 |  |
 | [I Called Mama](https://open.spotify.com/track/3YuvAPidBWldqjagOryo40) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [I Called Mama](https://open.spotify.com/album/6cD5F4Ndsh8tyzrJ2zclVA) | 3:31 | 2021-10-15 | 2022-03-02 |
 | [I Dare You to Love](https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl \(Deluxe Edition\)](https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO) | 3:19 | 2021-10-15 |  |

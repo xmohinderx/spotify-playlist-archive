@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-93 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+94 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,5 +101,6 @@
 | [volatile](https://open.spotify.com/track/0xfdG0kvDuuYWfzfoUF11N) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [volatile](https://open.spotify.com/album/3ejmdIOzSjSK77jXZokL1a) | 2:34 | 2022-02-28 |  |
 | [Walk The Earth](https://open.spotify.com/track/6UeToMuJzKjBMTwBzUToua) | [Man In Cloud](https://open.spotify.com/artist/1gwUh8lFeihWpMGyuYYARs) | [Walk The Earth](https://open.spotify.com/album/0PtQeqx1U6vqmcidsR199S) | 2:55 | 2022-02-28 |  |
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2022-02-28 |  |
+| [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 | 2022-08-05 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

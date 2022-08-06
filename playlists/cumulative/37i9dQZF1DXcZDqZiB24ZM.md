@@ -4,7 +4,7 @@
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-187 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/3cVoEbBWNU3qZ1tiBk2ipz)
+188 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/3cVoEbBWNU3qZ1tiBk2ipz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [6am](https://open.spotify.com/track/2Do4Z91cDpsKwnW1TwWbk8) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Une histoire, un début](https://open.spotify.com/album/7G5EXLZNabOrYOrBTVYYhA) | 4:36 | 2022-03-11 | 2022-07-23 |
 | [A l'aise](https://open.spotify.com/track/5GniNRie1Gf9GYNz4hYC4f) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [A l'aise](https://open.spotify.com/album/3mz2ym1RXfgVBGRsArReI7) | 2:48 | 2022-03-11 |  |
 | [Airball](https://open.spotify.com/track/12EVd8BRzsx0oCPNDTLkYm) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Sam Faye](https://open.spotify.com/artist/0tkpiNBKH5HmzcivvjsPH0) | [Dieu est un Yankee](https://open.spotify.com/album/6oV3Z0I6CoPNWaHbqQrRfL) | 3:13 | 2022-03-11 | 2022-07-25 |
+| [Aliens](https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO) | [Charlie Shulz](https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz), [Kamiyada](https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP) | [Aliens](https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke) | 3:00 | 2022-03-11 |  |
 | [All the Way](https://open.spotify.com/track/3ZBScVMUjBQJfYbs9V8e3N) | [Gxlden Child](https://open.spotify.com/artist/2hMOGVNAWefQXZCVgh4BPQ) | [All the Way](https://open.spotify.com/album/0jJ0K0tqQmusKEHIdOKcNU) | 2:17 | 2022-03-11 | 2022-07-29 |
 | [Astral Drill](https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [Free Cdf2](https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh) | 2:35 | 2022-03-11 |  |
 | [Baby Body](https://open.spotify.com/track/4WH0IOSVrJX9MvmKuirFol) | [Rednext Level](https://open.spotify.com/artist/0jMvzf2iuxtqTwTVKBJjis) | [Argent légal](https://open.spotify.com/album/5rJYfYmitufjnrOfyqEFjO) | 3:36 | 2022-03-11 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [Parle\-Moé Don D'ça](https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:47 | 2022-03-11 |  |
 | [Partis de rien](https://open.spotify.com/track/33Ay5MbNH6p1BopOQeIEjm) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Lost](https://open.spotify.com/artist/4ySHhTWqrHTSZxsbPexM6n) | [Empire](https://open.spotify.com/album/1bRXfVfIPqPHniKo6lc5h6) | 4:39 | 2022-03-11 | 2022-07-29 |
 | [Pavel Bure](https://open.spotify.com/track/5CXOwEgCeq7BQkUJc968S5) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [T1zzo](https://open.spotify.com/artist/4n4dNfR2DGdbQSIgasNHby) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:24 | 2022-03-11 |  |
-| [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 | 2022-03-11 |  |
+| [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 | 2022-03-11 | 2022-08-06 |
 | [PERE NOEL](https://open.spotify.com/track/6Q6GGjCCYlWTHCAiBlRRRw) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Désolé Pour L'Attente](https://open.spotify.com/album/5dmhIDk1O9n2M1zufAGMqd) | 2:14 | 2022-03-11 | 2022-07-29 |
 | [Petit Jésus](https://open.spotify.com/track/0s78B9I8deCSI0mqfiqhnS) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Contrôle V2](https://open.spotify.com/album/4h9AAx6QfWYziJZzOAgOhB) | 4:56 | 2022-03-11 | 2022-07-28 |
 | [Petit prince](https://open.spotify.com/track/4Aqojygi9VEk9Rb6YmH091) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Petit prince](https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4) | 4:04 | 2022-03-11 |  |

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-582 songs - 1 day 15 hr 0 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+583 songs - 1 day 15 hr 5 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Ceiling Fan, Man](https://open.spotify.com/track/3m8UEjgOy4UluLMHEAz9MF) | [The Brandy Alexanders](https://open.spotify.com/artist/3oavfsOsh6xtZwNAg15zp0) | [Ceiling Fan, Man](https://open.spotify.com/album/5G8g6TSwTSbWnMazaVFFQI) | 3:29 | 2021-09-10 | 2022-04-20 |
 | [Certainty](https://open.spotify.com/track/3PFmolGjoAgdLAANrzog4p) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Certainty](https://open.spotify.com/album/2mH7ouNd67E5Kp8VbvEoHm) | 4:23 | 2021-04-02 | 2022-04-13 |
 | [Chamber Of Reflection](https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy) | 3:51 | 2021-04-02 | 2022-07-28 |
-| [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2022-07-22 |  |
+| [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2022-07-22 | 2022-08-06 |
 | [Chameleon](https://open.spotify.com/track/1pvUilXlvXaburqYE4A8hE) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Chameleon](https://open.spotify.com/album/0VG6QgJlk6saDf0KoZbIML) | 2:43 | 2022-05-09 | 2022-05-12 |
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-11-19 | 2022-02-16 |
 | [Chaparral](https://open.spotify.com/track/7M4iSKfvs69sHcnMyzR3m5) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Chaparral](https://open.spotify.com/album/43GNRlvqRRM9Sqm22JabAN) | 4:34 | 2022-07-15 | 2022-07-29 |
@@ -149,6 +149,7 @@
 | [Echo Park](https://open.spotify.com/track/3vEIzJE4xGmfmufxa5QVGr) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [Echo Park](https://open.spotify.com/album/1NiFRjtKzHtLTX2yOGZ5Xm) | 3:15 | 2021-04-02 | 2022-04-20 |
 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 | 2021-04-02 | 2022-04-21 |
 | [Eden](https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK) | [All We Are](https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT) | [Eden](https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt) | 4:12 | 2021-11-19 | 2022-07-28 |
+| [Edge of the Edge](https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Edge of the Edge](https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc) | 4:48 | 2022-08-05 |  |
 | [El Combo Tumaca](https://open.spotify.com/track/2Vyh56bVPNrwTp8xNX9GXz) | [Tumaca](https://open.spotify.com/artist/4noRhJshYWUu5XiCSA6CE2) | [El Combo Tumaca](https://open.spotify.com/album/3tXQbn7fkUk6MlRjxMF2NM) | 3:20 | 2021-04-02 | 2022-04-14 |
 | [El Jardín](https://open.spotify.com/track/2LDVPqfw0j8tKPCL6OrOBb) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [El Jardín](https://open.spotify.com/album/2nHoJMblIc1Fj0WWD3EODu) | 3:45 | 2022-06-17 | 2022-06-21 |
 | [Electric Wind](https://open.spotify.com/track/1qyb4EPhCeMHczpnDFzxvH) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [Electric Wind](https://open.spotify.com/album/2s41aw7QS33soltJH2PRw9) | 3:26 | 2022-07-11 | 2022-07-29 |

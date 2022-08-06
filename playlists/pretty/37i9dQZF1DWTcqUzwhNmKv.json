@@ -1,18 +1,34 @@
 {
-  "description": "Slipknot on top of the biggest Metal playlist!",
-  "num_followers": 1305657,
+  "description": "Parkway Drive on top of the biggest Metal playlist!",
+  "num_followers": 1305899,
   "original_name": "Kickass Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDY5YmMzMDcyNzYzY2JlYzVjNzU5MmIzYTc0MTBlYzY4",
+  "snapshot_id": "MTY1OTcxNzAwMCwwMDAwMDAwMDI1NTlhNDcyZTQxNTg0ODkxMzlkNzk4ZjU0ZDhhODhj",
   "tracks": [
     {
-      "added_at": "2022-07-22 18:08:03",
+      "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "The Dying Song (Time To Sing)",
-        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB"
+    },
+    {
+      "added_at": "2022-08-05 16:30:00",
+      "album": {
+        "name": "Yen",
+        "url": "https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ"
       },
       "artists": [
         {
@@ -20,9 +36,73 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 203586,
-      "name": "The Dying Song (Time To Sing)",
-      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+      "duration_ms": 285315,
+      "name": "Yen",
+      "url": "https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 220066,
+      "name": "Sign Of Life",
+      "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
+    },
+    {
+      "added_at": "2022-07-29 13:00:00",
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 227899,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci"
+    },
+    {
+      "added_at": "2022-07-22 13:00:00",
+      "album": {
+        "name": "Bad Things",
+        "url": "https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 228260,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -43,22 +123,6 @@
     {
       "added_at": "2022-07-29 13:00:00",
       "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 227899,
-      "name": "Omens",
-      "url": "https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci"
-    },
-    {
-      "added_at": "2022-07-29 13:00:00",
-      "album": {
         "name": "Blessings Upon The Throne Of Tyranny (Remixed & Remastered)",
         "url": "https://open.spotify.com/album/4MkgzARek4yNMbFfZuLVIb"
       },
@@ -71,6 +135,22 @@
       "duration_ms": 322872,
       "name": "Blessings Upon The Throne Of Tyranny - Remixed & Remastered",
       "url": "https://open.spotify.com/track/7dXyNjEojMH8lAkSEx1sLT"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "Eye of the Storm (Into The Vortex Remix)",
+        "url": "https://open.spotify.com/album/2iM1tpyAgGWg9h7eANqNz9"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 234149,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/6QtGvxBKckuEtXKBbqC3JX"
     },
     {
       "added_at": "2022-07-15 13:00:00",
@@ -87,6 +167,38 @@
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "The War to End All Wars",
+        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stormtroopers",
+      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
+    },
+    {
+      "added_at": "2022-07-15 13:00:00",
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 218593,
+      "name": "Dicke Titten",
+      "url": "https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -121,6 +233,22 @@
       "url": "https://open.spotify.com/track/2ONKSAWBw6R4lwgzcpx8l7"
     },
     {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "The Deathless Sun",
+        "url": "https://open.spotify.com/album/1gMfx6El7vzamoJJi6J7u3"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 283336,
+      "name": "The Deathless Sun",
+      "url": "https://open.spotify.com/track/6b0HdwX9k0RtOUHRvWYl4J"
+    },
+    {
       "added_at": "2022-07-29 13:00:00",
       "album": {
         "name": "Night Stalkers / We\u2019ll Be Back",
@@ -141,6 +269,22 @@
       "url": "https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN"
     },
     {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "Worst Is On Its Way (Requiem Mass)",
+        "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Worst Is On Its Way",
+      "url": "https://open.spotify.com/track/1XYckecySdxfsF2ibuqtPR"
+    },
+    {
       "added_at": "2022-07-29 13:00:00",
       "album": {
         "name": "Time",
@@ -155,22 +299,6 @@
       "duration_ms": 240200,
       "name": "Time",
       "url": "https://open.spotify.com/track/2KypRk2hIQxO8Z8EkQfhsB"
-    },
-    {
-      "added_at": "2022-07-22 13:00:00",
-      "album": {
-        "name": "Bad Things",
-        "url": "https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 228260,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw"
     },
     {
       "added_at": "2022-07-15 13:00:00",
@@ -189,6 +317,70 @@
       "url": "https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq"
     },
     {
+      "added_at": "2022-07-22 18:08:03",
+      "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "duration_ms": 252182,
+      "name": "Slaughterhouse",
+      "url": "https://open.spotify.com/track/66AylJWCrknRTguI3L6Cbq"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Filth Upon Filth",
+        "url": "https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "duration_ms": 173187,
+      "name": "Filth Upon Filth",
+      "url": "https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
+    },
+    {
       "added_at": "2022-07-29 13:00:00",
       "album": {
         "name": "Embattled",
@@ -203,6 +395,38 @@
       "duration_ms": 191226,
       "name": "Embattled",
       "url": "https://open.spotify.com/track/5jCW9BOUz7BLeYAzRGvVbc"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "Soulbreaker",
+        "url": "https://open.spotify.com/album/5fKKdVUf2wAaOd4vtFKmo6"
+      },
+      "artists": [
+        {
+          "name": "Fallujah",
+          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
+        }
+      ],
+      "duration_ms": 243312,
+      "name": "Radiant Ascension",
+      "url": "https://open.spotify.com/track/6dej08jlv9hjFgfYRiCT3b"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "So Called Life",
+      "url": "https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK"
     },
     {
       "added_at": "2022-07-15 13:00:00",
@@ -221,38 +445,6 @@
       "url": "https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0"
     },
     {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Sign Of Life",
-      "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
-    },
-    {
-      "added_at": "2022-07-15 13:00:00",
-      "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 218593,
-      "name": "Dicke Titten",
-      "url": "https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY"
-    },
-    {
       "added_at": "2022-07-29 13:00:00",
       "album": {
         "name": "Heads Off",
@@ -269,26 +461,6 @@
       "url": "https://open.spotify.com/track/1eBYArl3XK56nWoARa5KYy"
     },
     {
-      "added_at": "2022-07-22 13:00:00",
-      "album": {
-        "name": "Patient Number 9 (feat. Jeff Beck)",
-        "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 441402,
-      "name": "Patient Number 9 (feat. Jeff Beck)",
-      "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
-    },
-    {
       "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Plagued",
@@ -303,22 +475,6 @@
       "duration_ms": 209840,
       "name": "Plagued",
       "url": "https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Glitch",
-        "url": "https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -355,22 +511,6 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -419,22 +559,6 @@
       "duration_ms": 191414,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT"
-    },
-    {
-      "added_at": "2022-07-29 13:00:00",
-      "album": {
-        "name": "Forest",
-        "url": "https://open.spotify.com/album/3K6d4oxrjKbwh1Xasm02YE"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Forest",
-      "url": "https://open.spotify.com/track/45kKa2PfTXSBMa26k96fdn"
     },
     {
       "added_at": "2022-07-22 13:00:00",
@@ -539,22 +663,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "We\u2019ll Be Back",
-        "url": "https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "We\u2019ll Be Back",
-      "url": "https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "UNHALL\u00d8WED",
         "url": "https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e"
       },
@@ -615,22 +723,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Nevermore",
-        "url": "https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 275924,
-      "name": "Nevermore",
-      "url": "https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Times Like These",
         "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
       },
@@ -661,20 +753,20 @@
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
-      "added_at": "2022-07-08 00:00:00",
+      "added_at": "2022-08-05 13:00:00",
       "album": {
-        "name": "Shrine",
-        "url": "https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg"
+        "name": "Violent Ends",
+        "url": "https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg"
       },
       "artists": [
         {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
         }
       ],
-      "duration_ms": 246282,
-      "name": "Stand Down",
-      "url": "https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa"
+      "duration_ms": 161158,
+      "name": "Violent Ends",
+      "url": "https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -707,22 +799,6 @@
       "duration_ms": 284266,
       "name": "Call Me Little Sunshine",
       "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Stitches",
-        "url": "https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 301426,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -775,22 +851,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Filth Upon Filth",
-        "url": "https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF"
-      },
-      "artists": [
-        {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
-        }
-      ],
-      "duration_ms": 173187,
-      "name": "Filth Upon Filth",
-      "url": "https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
@@ -807,22 +867,6 @@
       "duration_ms": 169000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "The Great Heathen Army",
-        "url": "https://open.spotify.com/album/2Ge7U7lz8QrfTEI9RmBEhc"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "The Great Heathen Army",
-      "url": "https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -859,22 +903,6 @@
       "duration_ms": 242631,
       "name": "Jester",
       "url": "https://open.spotify.com/track/2hLzDI8XizgkPsMzs2ULTt"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "City Of The Dead",
-        "url": "https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 173931,
-      "name": "City Of The Dead",
-      "url": "https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -959,22 +987,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 219299,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Don't Pray For Me",
         "url": "https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf"
       },
@@ -987,22 +999,6 @@
       "duration_ms": 221560,
       "name": "Don't Pray For Me",
       "url": "https://open.spotify.com/track/5HmNls885b2Egmu60z4fo3"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Lifestyles of the Sick & Dangerous",
-        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 189482,
-      "name": "Alive or Only Burning",
-      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
     }
   ],
   "unique_name": "Kickass Metal",

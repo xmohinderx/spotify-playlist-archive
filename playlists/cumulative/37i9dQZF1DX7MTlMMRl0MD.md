@@ -2,9 +2,9 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata\. Cover: Manuel Turizo
+> Tu lista favorita de Bachata\. Cover: Ivy Queen
 
-185 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
+186 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Me Voy \- Bachata](https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:02 | 2022-07-19 |  |
 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 | 2022-03-04 |  |
 | [Mi Mundo Entero](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 | 2022-03-04 |  |
-| [Mi Santa \(feat\. Tomatito\)](https://open.spotify.com/track/4EbAftNM732UGLF8gmIIsX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Tomatito](https://open.spotify.com/artist/3wxFXeuHQEq4NubZunCIMe) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:51 | 2022-07-19 |  |
+| [Mi Santa \(feat\. Tomatito\)](https://open.spotify.com/track/4EbAftNM732UGLF8gmIIsX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Tomatito](https://open.spotify.com/artist/3wxFXeuHQEq4NubZunCIMe) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:51 | 2022-07-19 | 2022-08-06 |
 | [Mi Santa \(feat\. Tomatito\)](https://open.spotify.com/track/4SqiBk88oTJpVOzQYly9Zi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Tomatito](https://open.spotify.com/artist/3wxFXeuHQEq4NubZunCIMe) | [Fórmula Vol\. 1](https://open.spotify.com/album/5QeNxza47t2RsJ0nCVHYGi) | 3:51 | 2022-03-04 | 2022-07-29 |
 | [Morir Solo](https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Morir Solo](https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb) | 4:02 | 2022-03-04 | 2022-07-29 |
 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 | 2022-03-04 |  |
@@ -141,6 +141,7 @@
 | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1sRLHqXAohDI070tWU6QIS) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/album/5YbnFaF9U2kEOYvMtp1QLe) | 4:19 | 2022-03-04 |  |
 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 | 2022-03-04 |  |
 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 | 2022-03-04 |  |
+| [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 | 2022-08-05 |  |
 | [Quien Sabe](https://open.spotify.com/track/4vOWNHRx4FGlQhs0pyxgJl) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 4:29 | 2022-03-04 |  |
 | [Quien Sabe](https://open.spotify.com/track/5ZkPBld8QqfUkS6aJG40yj) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quien Sabe](https://open.spotify.com/album/0t2Mvyx0UP33JrD3ghbABz) | 4:31 | 2022-03-25 | 2022-07-26 |
 | [Quiereme](https://open.spotify.com/track/3zLZzw2t5mbsLaNQURufkB) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 4:00 | 2022-03-04 |  |

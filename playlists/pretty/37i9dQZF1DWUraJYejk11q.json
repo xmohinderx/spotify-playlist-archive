@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 450530,
+  "num_followers": 450551,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5ODk2NCwwMDAwMDAwMDU2NjE1NDBlNzZkMDA0OWViNmQwMjIzZDIyN2Y1YjQ4",
+  "snapshot_id": "MTY1OTQ5ODk2NCwwMDAwMDAwMGJiMDdhYzJiMWUxN2NlMmNhMzg4NzA1ZGUxNzFiYWFl",
   "tracks": [
     {
       "added_at": "2022-06-08 02:12:56",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
-      "added_at": "2022-07-15 05:34:07",
-      "album": {
-        "name": "GRIT.",
-        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
-    },
-    {
       "added_at": "2022-02-25 03:39:39",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -395,6 +379,22 @@
       "duration_ms": 346588,
       "name": "Exotic Contents",
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+    },
+    {
+      "added_at": "2022-07-15 05:34:07",
+      "album": {
+        "name": "GRIT.",
+        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
       "added_at": "2022-07-08 04:48:31",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8"
     },
     {
-      "added_at": "2022-04-29 18:24:26",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
       "added_at": "2022-05-13 16:20:12",
       "album": {
         "name": "These Knits",
@@ -629,20 +613,20 @@
       "url": "https://open.spotify.com/track/1LYTKsBMfk7BNnajMRW3rH"
     },
     {
-      "added_at": "2022-01-21 20:12:04",
+      "added_at": "2022-04-29 18:24:26",
       "album": {
-        "name": "Jord\u00e3o",
-        "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
       "artists": [
         {
-          "name": "Niagara",
-          "url": "https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz"
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
         }
       ],
-      "duration_ms": 263800,
-      "name": "Jord\u00e3o",
-      "url": "https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l"
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-04-06 04:07:22",
@@ -659,6 +643,22 @@
       "duration_ms": 132000,
       "name": "DAZED",
       "url": "https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7"
+    },
+    {
+      "added_at": "2022-01-21 20:12:04",
+      "album": {
+        "name": "Jord\u00e3o",
+        "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
+      },
+      "artists": [
+        {
+          "name": "Niagara",
+          "url": "https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Jord\u00e3o",
+      "url": "https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l"
     },
     {
       "added_at": "2022-03-11 06:17:20",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
-      "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "So",
@@ -711,6 +695,22 @@
       "duration_ms": 279501,
       "name": "So",
       "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
+    },
+    {
+      "added_at": "2022-03-30 05:37:06",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
       "added_at": "2022-05-06 03:38:46",

@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-111 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+112 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Vollmond im Herbst \(Full Moon in Autumn\)](https://open.spotify.com/track/7I42dEHbS8rKpu19tkQQ2A) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mysterium](https://open.spotify.com/album/10YHfrv4zqC7WjpeEF445V) | 5:36 | 2022-06-24 |  |
 | [Volta](https://open.spotify.com/track/2UGetJCnNKXnVmWCD5nRM2) | [Milo Leclercq](https://open.spotify.com/artist/2CACfYzbEfvbpMPHapIrrL) | [Volta](https://open.spotify.com/album/5xpSwFSue9hlvFIzMJuqHi) | 2:48 | 2022-03-09 |  |
 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2021-12-22 |  |
+| [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 | 2022-08-05 |  |
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2021-12-22 |  |
 | [Wings of Silence](https://open.spotify.com/track/0Ph1lSs2qK33DS8tYvNOK1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Sands of Time: Selected Studio & Concert Recordings 1974\-1990](https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI) | 5:33 | 2021-12-22 | 2022-01-15 |
 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 | 2021-12-22 |  |

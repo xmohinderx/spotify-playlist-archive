@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 133042,
+  "num_followers": 133085,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMyMjE1NSwwMDAwMDAwMDJmZjczZDY1N2NjNTEzNmVkNmViNWIwNTFjMDQ1YzYz",
+  "snapshot_id": "MTY1OTMyMjE1NSwwMDAwMDAwMDcxMzhlNjhlOGY4ZjExNjMyMTEyMTIzMDA2YjYzOWY4",
   "tracks": [
     {
       "added_at": "2022-08-01 02:49:15",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Sorry - Original Demo",
+      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
         "name": "Breakup Season (feat. Samm Henshaw)",
         "url": "https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz"
       },
@@ -815,18 +831,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
         }
       ],
-      "duration_ms": 204400,
-      "name": "Sorry - Original Demo",
-      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -847,26 +867,6 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Autumn breeze",
-        "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        }
-      ],
-      "duration_ms": 174683,
-      "name": "Autumn breeze",
-      "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 200000,
       "name": "Time",
       "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
+        "name": "Autumn breeze",
+        "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        }
+      ],
+      "duration_ms": 174683,
+      "name": "Autumn breeze",
+      "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
         "name": "Serpentina",
         "url": "https://open.spotify.com/album/0YM67c7AYsZkvCSpPoYrFJ"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1119,22 +1135,6 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
+        "name": "2021",
+        "url": "https://open.spotify.com/album/0wsQ9WVVhr3P9xZBEgdaPG"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "2021",
+      "url": "https://open.spotify.com/track/5DlXq40tjFwd3SFp55AfKp"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
         "name": "Two Sides",
         "url": "https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 226195,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
-        "name": "2021",
-        "url": "https://open.spotify.com/album/0wsQ9WVVhr3P9xZBEgdaPG"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 195952,
-      "name": "2021",
-      "url": "https://open.spotify.com/track/5DlXq40tjFwd3SFp55AfKp"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 202991,
+      "name": "Inkeri",
+      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
         "name": "This Could Be (Chill Mix)",
         "url": "https://open.spotify.com/album/1EePdJthRN92skeHT0hzev"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 202991,
-      "name": "Inkeri",
-      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
+        "name": "heights",
+        "url": "https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j"
+      },
+      "artists": [
+        {
+          "name": "53 Thieves",
+          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "heights",
+      "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
         "name": "Ugly Season",
         "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 305186,
       "name": "Pop Song",
       "url": "https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 213535,
-      "name": "Something to Feel",
-      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

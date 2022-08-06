@@ -1784,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/39Ip3deSTOqNZzSRc8kSsm"
+      },
+      "artists": [
+        {
+          "name": "Asajj Sadie",
+          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167151,
+      "name": "Lemuria",
+      "url": "https://open.spotify.com/track/3U10BbfZtZxMmiaEVuievr"
+    },
+    {
+      "album": {
         "name": "Book Of Calmness",
         "url": "https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4"
       },

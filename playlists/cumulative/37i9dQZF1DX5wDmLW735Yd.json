@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Krakota & Scrufizzer",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Alcemist & Mila Falls",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -675,10 +675,32 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
+    },
+    {
+      "album": {
+        "name": "Break Away",
+        "url": "https://open.spotify.com/album/5PrjBsXoETGf1PcpfByMmI"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237867,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/2IbAx6XGe6mldSosFyvaH8"
     },
     {
       "album": {
@@ -1627,7 +1649,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 203071,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7"
@@ -1887,7 +1909,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 166103,
       "name": "Ghost (feat. DJ Rae)",
       "url": "https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E"
@@ -2055,6 +2077,28 @@
       "duration_ms": 249384,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/3ZVanYYFDyY8odbBNUbhOM"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/05Dw96buNwxCUAagsZTFTZ"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235885,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1YF2iUHdWnbO3MWI7z5aQf"
     },
     {
       "album": {
@@ -2419,7 +2463,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 220689,
       "name": "Keep Dancing",
       "url": "https://open.spotify.com/track/2z7HtGikWAn4OLkDb0UH63"
@@ -2982,6 +3026,28 @@
     },
     {
       "album": {
+        "name": "Not Over Yet (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155691,
+      "name": "Not Over Yet (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2LnUaVH1eMDkaabtvU42yp"
       },
@@ -3361,6 +3427,24 @@
       "duration_ms": 334819,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/16kxCR4Gr71VP1YdmmxSZE"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/09pPQEIYPuyy350ccJBU4L"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3XejA5R4AptKcmGPXnwAhD"
     },
     {
       "album": {
@@ -3817,7 +3901,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 250276,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
@@ -3901,6 +3985,28 @@
       "duration_ms": 290842,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/5wN3p3JA3LadVYxbcqfiLo"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/1rqnsguzp4curAq6xu8xfP"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242758,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/2DQuvfpU2uYaIk1BaBSJ15"
     },
     {
       "album": {

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,615 likes - 55 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,686 likes - 55 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 |
 | 2 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 |
 | 3 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
-| 4 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
-| 5 | [Your Hand In Mine](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:16 |
+| 4 | [Your Hand In Mine](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:16 |
+| 5 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
 | 6 | [Green Arrow](https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:43 |
 | 7 | [They Move on Tracks of Never\-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 6:56 |
 | 8 | [Looking at the World Through a Window](https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Looking at the World Through a Window](https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ) | 6:25 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 42 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 |
 | 43 | [Ea: First Movement](https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Timewave Zero](https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ) | 7:21 |
 | 44 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 |
-| 45 | [Are You There?](https://open.spotify.com/track/5uK3MgCUXANoPoAhWqdfe8) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [You Are There](https://open.spotify.com/album/4yT7Tq2TN7PcfgEx3EWc8k) | 10:25 |
-| 46 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 |
+| 45 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 |
+| 46 | [Are You There?](https://open.spotify.com/track/5uK3MgCUXANoPoAhWqdfe8) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [You Are There](https://open.spotify.com/album/4yT7Tq2TN7PcfgEx3EWc8k) | 10:25 |
 | 47 | [Forever Rain](https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [Beautiful Illusions](https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc) | 5:34 |
 | 48 | [Those Winter Sundays](https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me) | [Have a Cigar](https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H) | [Those Winter Sundays](https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP) | 3:49 |
 | 49 | [Blowback \- Edit](https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Blowback](https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5) | 5:09 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 52 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
 | 53 | [Mystik](https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Mystik](https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU) | 2:26 |
 | 54 | [Reflection](https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [Reflection](https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP) | 3:47 |
-| 55 | [Love Is in Beauty and Chaos](https://open.spotify.com/track/6TIRgqVHNPohNq1spT1MFB) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [This Patch of Sky](https://open.spotify.com/album/3OeVIYkOUed91ddyccGMmO) | 4:42 |
+| 55 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
 
-Snapshot ID: `MTY1MzY1MDEzMywwMDAwMDAwMDg3ZWU3N2U4ZmYwMjllNjI1MTEzOTUzNzdiOGI2NWEw`
+Snapshot ID: `MTY1MzY1MDEzMywwMDAwMDAwMDNkNjk0ZjA0YjgxY2VhODQzZWRiNjQyZTU1NjY1NDlm`

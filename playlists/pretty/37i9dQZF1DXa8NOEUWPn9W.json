@@ -1,44 +1,72 @@
 {
-  "description": "<a href=\"spotify:genre:house\">House</a> music lives here. United in one house. Cover: AM\u00c9M\u00c9",
-  "num_followers": 1655827,
+  "description": "<a href=\"spotify:genre:house\">House</a> music lives here. United in one house. Cover: FISHER",
+  "num_followers": 1656515,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDg1YWM0MzhjNzZkODU4MGNlYjAwMGJmMjU2MDE2MTU2",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGQwNmYzOGY1MWM5YjNlZDYzMTI2NTY0MzVlMjAxMGVj",
   "tracks": [
     {
-      "added_at": "2022-07-08 17:09:17",
+      "added_at": "2022-07-18 16:40:14",
       "album": {
-        "name": "Balafonerra",
-        "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
       },
       "artists": [
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
         }
       ],
-      "duration_ms": 251465,
-      "name": "Balafonerra",
-      "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
-      "added_at": "2022-06-21 14:42:08",
+      "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "La Murga (Michael's Midnight Mix)",
-        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 206971,
-      "name": "La Murga - Michael's Midnight Mix",
-      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Chromatic",
+        "url": "https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 202524,
+      "name": "Chromatic",
+      "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -89,104 +117,80 @@
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Tell You What It Is",
-        "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
       "artists": [
         {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
         }
       ],
-      "duration_ms": 187491,
-      "name": "Tell You What It Is",
-      "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
+      "duration_ms": 192000,
+      "name": "Make Me Believe",
+      "url": "https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
+      "added_at": "2022-06-21 14:42:08",
       "album": {
-        "name": "For The Same Man (Nic Fanciulli Remix)",
-        "url": "https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4"
+        "name": "La Murga (Michael's Midnight Mix)",
+        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
       },
       "artists": [
         {
-          "name": "B Beat Girls",
-          "url": "https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 214036,
-      "name": "For The Same Man - Nic Fanciulli Remix",
-      "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
+      "duration_ms": 206971,
+      "name": "La Murga - Michael's Midnight Mix",
+      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Chromatic",
-        "url": "https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA"
+        "name": "Aguila ft. Cumbiafrica",
+        "url": "https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs"
       },
       "artists": [
         {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         }
       ],
-      "duration_ms": 202524,
-      "name": "Chromatic",
-      "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
+      "duration_ms": 168600,
+      "name": "Aguila ft. Cumbiafrica",
+      "url": "https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-08 17:09:17",
       "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+        "name": "Balafonerra",
+        "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
         }
       ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2022-07-18 16:40:14",
-      "album": {
-        "name": "World Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 178304,
-      "name": "World Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+      "duration_ms": 251465,
+      "name": "Balafonerra",
+      "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -225,20 +229,20 @@
       "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "The Judge",
-        "url": "https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9"
+        "name": "Pan Jabi",
+        "url": "https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G"
       },
       "artists": [
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
         }
       ],
-      "duration_ms": 220966,
-      "name": "The Judge",
-      "url": "https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy"
+      "duration_ms": 167109,
+      "name": "Pan Jabi",
+      "url": "https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -357,24 +361,24 @@
       "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Under The Sun",
-        "url": "https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z"
+        "name": "Chemical Embrace",
+        "url": "https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS"
       },
       "artists": [
         {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
         },
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
         }
       ],
-      "duration_ms": 208374,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc"
+      "duration_ms": 192405,
+      "name": "Chemical Embrace",
+      "url": "https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R"
     },
     {
       "added_at": "2022-06-24 20:28:56",
@@ -991,6 +995,26 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "Under The Sun",
+        "url": "https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 208374,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "A Drug From God",
         "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
       },
@@ -1063,6 +1087,30 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "You & I (Emily Nash Remix)",
+        "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        },
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "You & I - Emily Nash Remix",
+      "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe"
       },
@@ -1115,46 +1163,6 @@
       "duration_ms": 166639,
       "name": "My Carousel",
       "url": "https://open.spotify.com/track/65tzGxRAwbrZd2yhHcGgLf"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "You & I (Emily Nash Remix)",
-        "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        },
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "You & I - Emily Nash Remix",
-      "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "In Chicago",
-        "url": "https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "In Chicago",
-      "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1227,18 +1235,38 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Acrobatic",
-        "url": "https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT"
+        "name": "In Chicago",
+        "url": "https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 176720,
-      "name": "Acrobatic",
-      "url": "https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy"
+      "duration_ms": 186686,
+      "name": "In Chicago",
+      "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Tell You What It Is",
+        "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 187491,
+      "name": "Tell You What It Is",
+      "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1267,6 +1295,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "Acrobatic",
+        "url": "https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Acrobatic",
+      "url": "https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Light Up My Life",
         "url": "https://open.spotify.com/album/1H1c8oEoI9qsJV4nCNCkHW"
       },
@@ -1283,6 +1327,38 @@
       "duration_ms": 144590,
       "name": "Light Up My Life",
       "url": "https://open.spotify.com/track/1FE3Cf3SUdxJkFGrdYpqQT"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Don't Hurt Me Baby",
+        "url": "https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8"
+      },
+      "artists": [
+        {
+          "name": "Airwolf Paradise",
+          "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl"
+        }
+      ],
+      "duration_ms": 144201,
+      "name": "Don't Hurt Me Baby",
+      "url": "https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 189370,
+      "name": "Cleo - Edit",
+      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1307,38 +1383,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 189370,
-      "name": "Cleo - Edit",
-      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Don't Hurt Me Baby",
-        "url": "https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8"
-      },
-      "artists": [
-        {
-          "name": "Airwolf Paradise",
-          "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl"
-        }
-      ],
-      "duration_ms": 144201,
-      "name": "Don't Hurt Me Baby",
-      "url": "https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Dancing Clich\u00e9",
         "url": "https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH"
       },
@@ -1351,6 +1395,42 @@
       "duration_ms": 152669,
       "name": "Dancing Clich\u00e9",
       "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "For The Same Man (Nic Fanciulli Remix)",
+        "url": "https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4"
+      },
+      "artists": [
+        {
+          "name": "B Beat Girls",
+          "url": "https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 214036,
+      "name": "For The Same Man - Nic Fanciulli Remix",
+      "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Billie (loving arms)",
+        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 217265,
+      "name": "Billie (loving arms)",
+      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1371,22 +1451,6 @@
       "duration_ms": 218500,
       "name": "About You",
       "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Billie (loving arms)",
-        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 217265,
-      "name": "Billie (loving arms)",
-      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1499,26 +1563,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "The Music",
-        "url": "https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj"
-      },
-      "artists": [
-        {
-          "name": "Kideko",
-          "url": "https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj"
-        },
-        {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
-        }
-      ],
-      "duration_ms": 146412,
-      "name": "The Music",
-      "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -1539,6 +1583,26 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "The Music",
+        "url": "https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj"
+      },
+      "artists": [
+        {
+          "name": "Kideko",
+          "url": "https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj"
+        },
+        {
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+        }
+      ],
+      "duration_ms": 146412,
+      "name": "The Music",
+      "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1755,6 +1819,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "The Judge",
+        "url": "https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 220966,
+      "name": "The Judge",
+      "url": "https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Sextacy",
         "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
@@ -1791,74 +1871,6 @@
       "duration_ms": 255991,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Its Time to Move",
-        "url": "https://open.spotify.com/album/0oj8l35AnHn2buWFdhFHJy"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 240005,
-      "name": "Its Time to Move",
-      "url": "https://open.spotify.com/track/4qK9g7RGoHCUpfbGu3Mlf4"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Close Your Eyes - Spotify Singles",
-        "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Close Your Eyes - Spotify Singles",
-      "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Love Vibration",
-        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 180487,
-      "name": "Love Vibration",
-      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Love Reigns",
-        "url": "https://open.spotify.com/album/3TCa2b0OgMFEzCpdVCSB30"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 294507,
-      "name": "Love Reigns",
-      "url": "https://open.spotify.com/track/78Yqfmq11yBeibacqvl4Y4"
     }
   ],
   "unique_name": "Housewerk",

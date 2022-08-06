@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura. Cover: K. Forest",
+  "description": "This is R&B in Canada, elevate your aura. Cover: Clairmont The Second",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "ABRACADABRA",
+        "url": "https://open.spotify.com/album/3DihSTlCfbYYQBBHRgyf5b"
+      },
+      "artists": [
+        {
+          "name": "SASHA CHAA",
+          "url": "https://open.spotify.com/artist/5Uhc9u418MjnapB9RqTZir"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "ABRACADABRA",
+      "url": "https://open.spotify.com/track/0qsTY0364x1mT080jKYJcP"
+    },
+    {
+      "album": {
         "name": "Acrophilia'",
         "url": "https://open.spotify.com/album/5OfQexvpjAiZeMrOVEZuos"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 126554,
       "name": "Acrophilia'",
       "url": "https://open.spotify.com/track/2lPmw51UjeCO5y9GG0m2nS"
@@ -299,6 +317,24 @@
       "duration_ms": 177464,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1SxwdCDLAXhB9XdbdOhu6M"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "All That Matters - Spotify Singles",
+      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
     },
     {
       "album": {
@@ -436,6 +472,24 @@
     },
     {
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270259,
+      "name": "Backinluv",
+      "url": "https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX"
+    },
+    {
+      "album": {
         "name": "Bad Bad",
         "url": "https://open.spotify.com/album/1bQvvahTarm2ZJN7iFHr5A"
       },
@@ -505,6 +559,28 @@
       "duration_ms": 210810,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5"
+    },
+    {
+      "album": {
+        "name": "Best Friends (Remix)",
+        "url": "https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175071,
+      "name": "Best Friends - Remix",
+      "url": "https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i"
     },
     {
       "album": {
@@ -880,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Choosy",
+        "url": "https://open.spotify.com/album/1BJpudHLMJaIJUCbIaXhPz"
+      },
+      "artists": [
+        {
+          "name": "Kavale",
+          "url": "https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198879,
+      "name": "Choosy",
+      "url": "https://open.spotify.com/track/0ZEhKJ9OqLrZyoftWnuyGK"
+    },
+    {
+      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/4KelIUPQYV7ypTLzR3A82O"
       },
@@ -1047,7 +1141,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
@@ -1221,6 +1315,24 @@
       "duration_ms": 142269,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/52CFxHZxBbiZ1l9eTFpFxJ"
+    },
+    {
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/7kmcndwYUnbpSjTICzrUs4"
+      },
+      "artists": [
+        {
+          "name": "Ebhoni",
+          "url": "https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/6xTxGWOvupBLXcSSyVJ6FI"
     },
     {
       "album": {
@@ -2017,7 +2129,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 204260,
       "name": "Half Empty",
       "url": "https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW"
@@ -2373,7 +2485,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 148450,
       "name": "Hot Seat",
       "url": "https://open.spotify.com/track/5xukBu3xjGka7Q8bgj6nmE"
@@ -2608,6 +2720,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211468,
+      "name": "If I Get Caught - Spotify Singles",
+      "url": "https://open.spotify.com/track/2B7ttNw5LpZxTcXAQ1u817"
+    },
+    {
+      "album": {
         "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
         "url": "https://open.spotify.com/album/6JkGbrmwNwHGaxae377iFv"
       },
@@ -2677,6 +2807,54 @@
       "duration_ms": 225943,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g"
+    },
+    {
+      "album": {
+        "name": "In The Midst Of Our Growth",
+        "url": "https://open.spotify.com/album/6Lm8GA5GCUzz6ME1x38zjN"
+      },
+      "artists": [
+        {
+          "name": "YOG$",
+          "url": "https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI"
+        },
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201308,
+      "name": "In The Midst",
+      "url": "https://open.spotify.com/track/2JFVD87Dkd9o1vSat4odaG"
+    },
+    {
+      "album": {
+        "name": "iNdiGo",
+        "url": "https://open.spotify.com/album/7okU7KZrx3QTpf9o4qJTT5"
+      },
+      "artists": [
+        {
+          "name": "CHEEYA",
+          "url": "https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181892,
+      "name": "iNdiGo",
+      "url": "https://open.spotify.com/track/0AwEctErZ5LUNABTV6KMAz"
     },
     {
       "album": {
@@ -2953,7 +3131,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 232500,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
@@ -3265,7 +3443,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 151133,
       "name": "Lullaby (feat. Syd)",
       "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
@@ -4105,7 +4283,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 304411,
       "name": "Only With Time - A COLORS SHOW",
       "url": "https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU"
@@ -4323,7 +4501,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 161016,
       "name": "PAINKILLERS",
       "url": "https://open.spotify.com/track/1wEad4445vJifOlOFONgt2"
@@ -4709,7 +4887,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 172227,
       "name": "Riding",
       "url": "https://open.spotify.com/track/7FxcpthjDIN32mT0WEfkz5"
@@ -5271,7 +5449,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 156664,
       "name": "Sucr\u00e9",
       "url": "https://open.spotify.com/track/1nPqHhpCGBVj9FE7m7zgiy"
@@ -5551,7 +5729,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175041,
       "name": "The Coochie Song",
       "url": "https://open.spotify.com/track/1ZKnx75UImiBGaSHp4d8Kg"
@@ -5670,6 +5848,24 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/35l8DmMMxqArybkEYSrQGj"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163960,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/4T6CiCgwT6dJhJIu7apvOf"
+    },
+    {
+      "album": {
         "name": "Too Deep",
         "url": "https://open.spotify.com/album/00hxzABSuhHgM4fkrBX8rn"
       },
@@ -5711,6 +5907,24 @@
       "duration_ms": 179013,
       "name": "Too Hot (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/5LVQoyRaC0NIYeiScXTbUK"
+      },
+      "artists": [
+        {
+          "name": "J-Soul",
+          "url": "https://open.spotify.com/artist/04QcyYLTjG43lmp2ETdMB8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166606,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/1Grh4X8eihc9q0UhkfjBos"
     },
     {
       "album": {

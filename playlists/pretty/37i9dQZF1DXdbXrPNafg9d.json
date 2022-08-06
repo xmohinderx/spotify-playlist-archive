@@ -1,13 +1,393 @@
 {
-  "description": "The best new tracks every week. Cover: CASTLEBEAT\n",
-  "num_followers": 1230741,
+  "description": "The best new tracks every week. Cover: Frankie Cosmos\n",
+  "num_followers": 1231018,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGJlOWRlZmQ3ZWNhNGQwZjA5YTExZWQyMmM5ZDZlNzc3",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDQ3YjlhOGVlNDYxODdjMjg2OTkxMWE4ZGEzMzgxMzQ1",
   "tracks": [
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Edge of the Edge",
+        "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "Edge of the Edge",
+      "url": "https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "One Year Stand",
+        "url": "https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 235963,
+      "name": "Happiness (Dance Floor Edit)",
+      "url": "https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 217002,
+      "name": "wyd - Live at Electric Lady",
+      "url": "https://open.spotify.com/track/3I43lL4uapeIE9GhppAv5B"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 153258,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/5FMwi15wu4jDg48lzOtU6j"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "IN THE DOG HOUSE",
+        "url": "https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Franky Villani",
+          "url": "https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb"
+        }
+      ],
+      "duration_ms": 102500,
+      "name": "IN THE DOG HOUSE",
+      "url": "https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "I Love You More Than You Know (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Alone on a Hill",
+        "url": "https://open.spotify.com/album/2Nbw615KaE3bFNfdvGfNR1"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Alone on a Hill",
+      "url": "https://open.spotify.com/track/7CVDIj3ABUjoO0tXBnLQvu"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Motels",
+        "url": "https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "Motels",
+      "url": "https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Love Letter From The Sea to The Shore",
+        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Turnham Green",
+        "url": "https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Turnham Green",
+      "url": "https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "All Day I Dream About",
+        "url": "https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn"
+      },
+      "artists": [
+        {
+          "name": "joe p",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 201667,
+      "name": "All Day I Dream About",
+      "url": "https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Hamilton",
+        "url": "https://open.spotify.com/album/2oI0QNhxvXlYulNWAYK3yu"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "Hamilton",
+      "url": "https://open.spotify.com/track/7s4GCpLK57ybNAEeJfvOLF"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Vigil",
+        "url": "https://open.spotify.com/album/5y1eOXlhAxRMDTy2OhbSP6"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "duration_ms": 194099,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/3O5iJnOsqmlJ52ilqbpJJv"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Freakout/Release",
+        "url": "https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Freakout/Release",
+      "url": "https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/00H2kofTJ1dTuAsukAPGch"
+      },
+      "artists": [
+        {
+          "name": "Julian Julian",
+          "url": "https://open.spotify.com/artist/2ybJ6LN0Flw0puQaTbOL9p"
+        }
+      ],
+      "duration_ms": 124007,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/0U3uS22zJwNgT8Zfj8qazh"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "IT IS A PLEASURE TO BE HERE",
+        "url": "https://open.spotify.com/album/5OBMqaogOHIO6bKWJj3hpK"
+      },
+      "artists": [
+        {
+          "name": "TEEN BLUSH",
+          "url": "https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl"
+        }
+      ],
+      "duration_ms": 210965,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "death wish",
+        "url": "https://open.spotify.com/album/7aB0D39Il6UYoQmUNHoQr6"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "death wish",
+      "url": "https://open.spotify.com/track/15NWft2MWR5SZJXUDJnRYO"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/3jFSsBILJTu3gdkgJuU0wd"
+      },
+      "artists": [
+        {
+          "name": "dani mack",
+          "url": "https://open.spotify.com/artist/3mqzun4IsA12XDrzVuBgon"
+        }
+      ],
+      "duration_ms": 193464,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/5umuLOI5hSbZMmuGa8c03c"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Passenger Seat",
+        "url": "https://open.spotify.com/album/1EBmJ1nJRMO1xy94eiostp"
+      },
+      "artists": [
+        {
+          "name": "Mayfly",
+          "url": "https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw"
+        }
+      ],
+      "duration_ms": 181274,
+      "name": "Passenger Seat",
+      "url": "https://open.spotify.com/track/1aJP9LdYaSBx1N6smhi4CV"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "I'm Spent",
+        "url": "https://open.spotify.com/album/1427sQIWO01YnU7ODCFqpk"
+      },
+      "artists": [
+        {
+          "name": "Housewife",
+          "url": "https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN"
+        }
+      ],
+      "duration_ms": 152198,
+      "name": "I'm Spent",
+      "url": "https://open.spotify.com/track/1BTwIFALFVHpYmY095VTce"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Marci",
+        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
+      },
+      "artists": [
+        {
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
+        }
+      ],
+      "duration_ms": 157226,
+      "name": "Play By Play",
+      "url": "https://open.spotify.com/track/0fkgg7EwHGTvqcJnvUqXmp"
+    },
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
@@ -1707,22 +2087,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "False Dichotomy",
-      "url": "https://open.spotify.com/track/6Lg3XL27eplXv3TENt2Twa"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "32 Floors",
         "url": "https://open.spotify.com/album/7pUjf3WLukKM9ccpIhUKnU"
       },
@@ -1851,26 +2215,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "HERO JOURNEY (feat. Superorganism)",
-        "url": "https://open.spotify.com/album/3dbLBkeSvzwDE5tVt662sZ"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
-        },
-        {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
-        }
-      ],
-      "duration_ms": 114833,
-      "name": "HERO JOURNEY (feat. Superorganism)",
-      "url": "https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "Pink Songs 2",
         "url": "https://open.spotify.com/album/5Hss6ml2F35xoVJzFmnicV"
       },
@@ -1887,40 +2231,8 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Caldwell's Way",
-        "url": "https://open.spotify.com/album/3VdglFGZM17LhT7yyd8uej"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 207764,
-      "name": "Caldwell's Way",
-      "url": "https://open.spotify.com/track/2RgUn8JAwleGNUdIAZeJuj"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "The Kid",
-        "url": "https://open.spotify.com/album/3lXTfkiozriJgHGcxRRlD5"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Go",
-          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
-        }
-      ],
-      "duration_ms": 213786,
-      "name": "The Kid",
-      "url": "https://open.spotify.com/track/2sQ1usRC33NfoF9xEK52Mn"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/61KoBGeD97zmY9yOQqDEVo"
+        "name": "it is what it is",
+        "url": "https://open.spotify.com/album/0deWXcbtt4YrvsTTnDld3B"
       },
       "artists": [
         {
@@ -1930,7 +2242,7 @@
       ],
       "duration_ms": 218613,
       "name": "Karma",
-      "url": "https://open.spotify.com/track/3LF6MTkvDYOacFQPFVc15x"
+      "url": "https://open.spotify.com/track/6dRycVppXHVkE0HA4eA7Ov"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -1983,22 +2295,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Tapeworms",
-        "url": "https://open.spotify.com/album/1EfIsnaZOJ9FK6cWFg53J8"
-      },
-      "artists": [
-        {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Tapeworms",
-      "url": "https://open.spotify.com/track/1tRqkzDbWCxDq2wBiI5vhm"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21"
       },
@@ -2027,22 +2323,6 @@
       "duration_ms": 212505,
       "name": "480",
       "url": "https://open.spotify.com/track/3UWLOdQnXEVK4CNikztTsp"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Righter",
-        "url": "https://open.spotify.com/album/7p0eKTOpxUkB2SxWDJJ2Nu"
-      },
-      "artists": [
-        {
-          "name": "Julianna Zachariou",
-          "url": "https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO"
-        }
-      ],
-      "duration_ms": 236976,
-      "name": "Righter",
-      "url": "https://open.spotify.com/track/7aX7tlZXkjTfR2fTPtk5uN"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -2223,26 +2503,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "What If? / Leave It",
-        "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/2vadrK0FovrmPSp4b8BSfN"
       },
@@ -2319,22 +2579,6 @@
       "duration_ms": 186453,
       "name": "Dust Bunny",
       "url": "https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 262871,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
       "added_at": "2022-07-01 04:00:00",

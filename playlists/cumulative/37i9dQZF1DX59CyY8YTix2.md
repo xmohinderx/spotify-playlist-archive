@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: 黒子首\(hockrockb\)
 
-514 songs - 1 day 9 hr 11 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+515 songs - 1 day 9 hr 14 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [black moon](https://open.spotify.com/track/5KR6Vzhq40qlVWz75MQdaH) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [swim in the milk](https://open.spotify.com/album/32NWYAXVYLx35KbtHJuyld) | 3:12 | 2022-07-12 | 2022-07-14 |
 | [Bloody Mary](https://open.spotify.com/track/1MQ2qrtlL8rByi9PlecX0H) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Bloody Mary](https://open.spotify.com/album/2w0SXIVuRUC3P5leDHdGDQ) | 4:36 | 2022-06-02 | 2022-07-29 |
 | [Blue boat](https://open.spotify.com/track/3zMeD36TpLGKtRlXvNLR4G) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [Blue boat](https://open.spotify.com/album/0xk0DCPK1OzikB6cMKX9Ja) | 3:48 | 2022-07-14 | 2022-07-20 |
+| [Blue Hawaii](https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Blue Hawaii](https://open.spotify.com/album/2q3X7QPG8bwJH6PWTnkYR6) | 3:38 | 2022-08-04 |  |
 | [Bracing air](https://open.spotify.com/track/4sAaR2qRc52jhS5SlbFOed) | [sumera](https://open.spotify.com/artist/57mUVnAYH1rN3F3bm5lFBt) | [Bracing air](https://open.spotify.com/album/32UdlkgVKV9jZMO0vT073Q) | 2:22 | 2022-06-07 | 2022-06-10 |
 | [Breaking into the Space](https://open.spotify.com/track/4M1P9ArgpfNc5hyGTyTEVk) | [STEREOGIRL](https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL) | [Spirit & Opportunity](https://open.spotify.com/album/6OQ5s8LyOK30yxBdDysZGN) | 2:51 | 2022-05-31 | 2022-07-28 |
 | [Candy Candy Candy](https://open.spotify.com/track/3TrebEANXJrI2pB2MlNY46) | [李鳳](https://open.spotify.com/artist/2LkxO2dowN9uLUMWlGe7Mj) | [Candy Candy Candy](https://open.spotify.com/album/4mnboCYgJLVXRY1MdQwhLC) | 3:02 | 2022-06-23 | 2022-06-27 |
@@ -153,7 +154,7 @@
 | [Saint Anger](https://open.spotify.com/track/5TQPOFSG75V4emyF8fjJ5i) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [C toshiikerumono](https://open.spotify.com/album/0YMnwungrphEtyh8jkH4TE) | 4:21 | 2022-05-26 | 2022-07-20 |
 | [SAKURA BURST](https://open.spotify.com/track/7Bqj9jdgaxttbxVecvlZG3) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [SAKURA BURST](https://open.spotify.com/album/2xlpUnAnG5YBAOqbDPld0z) | 4:23 | 2022-06-30 | 2022-07-04 |
 | [SAKURAドロップス](https://open.spotify.com/track/3bI8jTYxZxSX8u1lYAYBnh) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [SAKURAドロップス / 面影](https://open.spotify.com/album/6WpFtYm4xhwalELWPeAmNx) | 4:41 | 2022-06-02 | 2022-07-27 |
-| [School](https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:50 | 2022-06-30 |  |
+| [School](https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:50 | 2022-06-30 | 2022-08-06 |
 | [Search + Destroy](https://open.spotify.com/track/5hCqYXndamqqxqQQtPvURn) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:49 | 2022-06-07 | 2022-06-30 |
 | [SEE YOU](https://open.spotify.com/track/0yWC5vOa1SbVQfW4OehbmN) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [SEE YOU](https://open.spotify.com/album/2jo0mXv9Z0eNK2nybDHZP0) | 4:47 | 2022-07-26 |  |
 | [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 | 2022-07-28 |  |

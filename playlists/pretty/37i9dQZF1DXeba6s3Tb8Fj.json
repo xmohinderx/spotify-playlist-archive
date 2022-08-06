@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 3760,
+  "num_followers": 3774,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGUwMzFiZTBkMjA4NjUyYjczNTYyM2RiMjI5MGYyOWIw",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGE5MzMxYzZhNGRiNzMzMmFjNmNlZjJkOGFmYjdhMDg2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Elwan",
-        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Tiw\u00e0yyen",
-      "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Kulanjan",
         "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 329866,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Tiw\u00e0yyen",
+      "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tassili (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 253453,
-      "name": "Tenere Taqhim Tossam",
-      "url": "https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Adagh",
         "url": "https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 312333,
       "name": "Aratane N' Adagh",
       "url": "https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Tassili (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 253453,
+      "name": "Tenere Taqhim Tossam",
+      "url": "https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Imidiwan: Companions",
-        "url": "https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL"
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
       },
       "artists": [
         {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 328853,
-      "name": "Tenhert",
-      "url": "https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD"
+      "duration_ms": 197960,
+      "name": "Mississippi-Mali Blues",
+      "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -807,6 +811,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Imidiwan: Companions",
+        "url": "https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 328853,
+      "name": "Tenhert",
+      "url": "https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Tje Ni Mousso",
         "url": "https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 280320,
       "name": "C'Est Comme Ca",
       "url": "https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Kulanjan",
-        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
-        },
-        {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Mississippi-Mali Blues",
-      "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
     },
     {
       "added_at": "2020-12-01 05:01:00",

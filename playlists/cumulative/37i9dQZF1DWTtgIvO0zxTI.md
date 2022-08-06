@@ -2,9 +2,9 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: Danny Ocean
+> Aquí está el sonido urbano de Venezuela\. Cover: Neutro Shorty
 
-78 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
+79 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,10 +39,11 @@
 | [Espero Que Seas Feliz](https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:35 | 2022-03-11 |  |
 | [Flixi Flaxi](https://open.spotify.com/track/23UgOgqI6cmSzCy5denhXU) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Flixi Flaxi](https://open.spotify.com/album/5kIvpNW9CkRnEINlt9xKPT) | 3:28 | 2022-04-08 | 2022-05-14 |
 | [Fuego](https://open.spotify.com/track/18hAN4TYNwXERnzAzZu5Tt) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Fuego](https://open.spotify.com/album/1DtyUnwykOKQ6n0UE1Gj1B) | 3:34 | 2022-03-11 | 2022-04-09 |
-| [Hasta Que Salga el Sol](https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:29 | 2022-07-08 |  |
+| [Hasta Que Salga el Sol](https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:29 | 2022-07-08 | 2022-08-06 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hasta Que Salga el Sol](https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8) | 3:29 | 2022-03-11 | 2022-07-29 |
 | [HP](https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [HP](https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W) | 3:24 | 2022-06-10 |  |
 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2022-03-11 | 2022-07-08 |
+| [Laguna](https://open.spotify.com/track/6QN9glefJXPoy8vPZLiFL0) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Laguna](https://open.spotify.com/album/6HVsbMOf4kXG3KYBa1KOhD) | 3:31 | 2022-08-05 |  |
 | [Lloro :'\(](https://open.spotify.com/track/4t7l6bftv8c7Go12L0q8eQ) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Lloro :'\(](https://open.spotify.com/album/6SSfwDHEIaInwRlnFAYiUR) | 2:36 | 2022-03-11 | 2022-04-09 |
 | [Lo Necesario](https://open.spotify.com/track/586Il7FbvVojIL5UVErkkt) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Akapellah](https://open.spotify.com/artist/6Naxs6HXr5irrzDck6d2Dt) | [Tiempo Mítico](https://open.spotify.com/album/1nABOBtMxTw2gYuBmP9zar) | 5:08 | 2022-05-27 |  |
 | [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 | 2022-04-22 |  |

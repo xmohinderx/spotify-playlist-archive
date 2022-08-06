@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyMTYwMCwwMDAwMDAwMDVmNmI1YmZmMDAxOTkxZjk3NjBiZGMzMjRjZDIxMTUw",
+  "snapshot_id": "MTY1OTYyMTYwMCwwMDAwMDAwMGU2ZTk3MTAzNjcyNTc4MzMwYzZlZjI2Y2M5MGVlNDFl",
   "tracks": [
+    {
+      "added_at": "2022-08-04 14:00:00",
+      "album": {
+        "name": "What I Get for Loving You",
+        "url": "https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 184822,
+      "name": "What I Get for Loving You",
+      "url": "https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd"
+    },
     {
       "added_at": "2022-08-04 14:00:00",
       "album": {

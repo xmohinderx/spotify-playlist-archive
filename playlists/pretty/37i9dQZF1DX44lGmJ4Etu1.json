@@ -1,12 +1,12 @@
 {
   "description": "The Latin Pop hits of yesterday and today all in one place!\n\n",
-  "num_followers": 1133703,
+  "num_followers": 1133714,
   "original_name": "Now & Then Latin Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMDk1MmYwMjBkNzE1NjMwNWYyNzRmNjhiZGIyZjYxZWZm",
+  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMGNhZGMxMDVkZjY4OGY0NDA4YWQ0MDNhMzljMjA1YWJk",
   "tracks": [
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
+        "name": "Qui\u00e9reme Mientras Se Pueda",
+        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Qui\u00e9reme Mientras Se Pueda",
+      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 198706,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
-        "name": "Qui\u00e9reme Mientras Se Pueda",
-        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Qui\u00e9reme Mientras Se Pueda",
-      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "No importa que llueva",
-      "url": "https://open.spotify.com/track/1suTz9wOBk6pF2OAAgKFve"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "No importa que llueva",
+      "url": "https://open.spotify.com/track/1suTz9wOBk6pF2OAAgKFve"
     }
   ],
   "unique_name": "Now & Then Latin Pop",

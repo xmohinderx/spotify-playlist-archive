@@ -1714,6 +1714,24 @@
     },
     {
       "album": {
+        "name": "\u30de\u30c4\u30b1\u30f3EDM",
+        "url": "https://open.spotify.com/album/4v6gJdK7jqwE2AhAoUXjMY"
+      },
+      "artists": [
+        {
+          "name": "Ken Matsudaira",
+          "url": "https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245017,
+      "name": "\u30de\u30c4\u30b1\u30f3EDM",
+      "url": "https://open.spotify.com/track/7IUWKPni1OabRud8VpCotT"
+    },
+    {
+      "album": {
         "name": "\"Pretty Guardian Sailor Moon\" The Super Live Original Soundtrack [Instrumental]",
         "url": "https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY"
       },

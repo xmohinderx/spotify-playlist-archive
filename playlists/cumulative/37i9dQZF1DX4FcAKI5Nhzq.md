@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: YENA
 
-619 songs - 1 day 10 hr 33 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+620 songs - 1 day 10 hr 37 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/track/71ffiCGvOZm7uBYT9Nyg4d) | [Daedo](https://open.spotify.com/artist/0usCrj87bydKRK7KWcCf9p), [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/album/2zQWuOYcx7C4TNTJwz2Nbm) | 3:19 | 2021-07-28 | 2021-09-07 |
 | [Losing You](https://open.spotify.com/track/4OJJ48xIvpbP3lHaCkEIbA) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Losing You](https://open.spotify.com/album/2pA5upussFvf8eQoMUATmI) | 2:58 | 2020-10-13\* | 2020-11-11 |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-12 | 2022-03-25 |
+| [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-08-05 |  |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-02 | 2022-05-25 |
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-17 | 2022-06-30 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-08-05 | 2021-11-12 |

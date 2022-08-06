@@ -1390,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "LALA TOTO",
+        "url": "https://open.spotify.com/album/0FY7JX7rMfPD05zuZtHU47"
+      },
+      "artists": [
+        {
+          "name": "H_art the Band",
+          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150507,
+      "name": "LALA TOTO",
+      "url": "https://open.spotify.com/track/6CUTsIkRmoyMVXPPwnz3Py"
+    },
+    {
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -1989,6 +2007,24 @@
       "duration_ms": 194637,
       "name": "Satisfy My Soul",
       "url": "https://open.spotify.com/track/3R679xi0Ht1FrWtXpAXr6O"
+    },
+    {
+      "album": {
+        "name": "Save My Soul (Who Will Remain?)",
+        "url": "https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY"
+      },
+      "artists": [
+        {
+          "name": "Just a Band",
+          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157740,
+      "name": "Save My Soul (Who Will Remain?)",
+      "url": "https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: HP Boyz
 
-204 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+207 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hoodstar](https://open.spotify.com/track/48v7nBQHC96WLKNDJpbwqx) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [Hoodstar](https://open.spotify.com/album/2vthEHi8PMm7AFpdVjQnhb) | 3:31 | 2022-03-21 | 2022-07-01 |
 | [How Bout Now](https://open.spotify.com/track/3U2ZivkN6koNHUZHwBk8Zd) | [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s), [KiD LaZE](https://open.spotify.com/artist/6aH7GRjtjfnnp9MNBzdq1n), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [How Bout Now](https://open.spotify.com/album/3SJ9P5MbzPznsE99x79Ymi) | 3:02 | 2022-07-28 |  |
 | [How We Livin'](https://open.spotify.com/track/10bGyAjMw61JLTs1ma3jxL) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/3sBHXOVi0l6EIoK03h9ggc) | 3:38 | 2022-03-21 | 2022-06-10 |
+| [Hundred Club](https://open.spotify.com/track/4jBRQpvCwfWLmiassQeD5c) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Hundred Club](https://open.spotify.com/album/1OtAYXbIyPBLi6tCVomvIc) | 2:41 | 2022-08-04 |  |
 | [IndieFlex](https://open.spotify.com/track/7LKEByLWS22oX6UccruFsJ) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz), [Delawou](https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt), [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e) | [IndieFlex](https://open.spotify.com/album/1QTE5RXiL5yZs2BQxOdRar) | 3:36 | 2022-05-26 |  |
 | [Intro](https://open.spotify.com/track/6gbBCKRKrmR86UeTMspR0C) | [IDES](https://open.spotify.com/artist/0QyChNsWMVypkPZn2jf5Sc) | [Intro](https://open.spotify.com/album/00akApRVJnkgzhZU5407UW) | 2:32 | 2022-06-23 | 2022-07-26 |
 | [ISSA PARTY](https://open.spotify.com/track/6j92wmpxkoJqjNWeQnaxid) | [Timba](https://open.spotify.com/artist/0tTjbpF9XFBvI348S6zID8), [Fekz & RHB](https://open.spotify.com/artist/5FuDJyUEBhHkcadyZOTZvZ), [Christian Joseph](https://open.spotify.com/artist/0iE0i5ghV6jDDGNJjtyFid) | [ISSA PARTY](https://open.spotify.com/album/1j09leTHRTaXw3gzgrqNaP) | 2:53 | 2022-03-21 | 2022-05-06 |
@@ -197,6 +198,7 @@
 | [Troublesome](https://open.spotify.com/track/0VC5JJ1DVONoX1tv77nxLm) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M) | [Troublesome](https://open.spotify.com/album/4jSEeA1ramOD61CZT7KlhW) | 3:03 | 2022-03-21 |  |
 | [TRUE](https://open.spotify.com/track/5IqvWuThZk3OZHeo7FJfnw) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [TRUE](https://open.spotify.com/album/3dHPLhmxVB5H2OdDtnKQgE) | 2:45 | 2022-08-04 |  |
 | [U Want More Sir?](https://open.spotify.com/track/236EkzpQgRh15KqngqKarG) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [U Want More Sir?](https://open.spotify.com/album/0wMJWCTt9NbJlSYhgFISDw) | 2:09 | 2022-05-05 | 2022-06-03 |
+| [Underdog](https://open.spotify.com/track/0HHNGLZAJej2RQalyvBZ8M) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Underdog](https://open.spotify.com/album/3fOVdOefDN43WjiLi2m7ZF) | 3:39 | 2022-08-04 |  |
 | [Up The Score](https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Up The Score](https://open.spotify.com/album/5yz40HuTFLi3n5eg2FiQKi) | 2:04 | 2022-06-16 |  |
 | [Very Good Very Nice](https://open.spotify.com/track/59VgQMi1QU0HjIX29BsCa9) | [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [Stee Ferrer](https://open.spotify.com/artist/7o3RhMH0YSp1pP8t3dY2X8), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [Vinsins](https://open.spotify.com/artist/2KKeJajlN1qX34ckCUNnmw) | [Very Good Very Nice](https://open.spotify.com/album/6a4f1rJOPr53EI3RC69Uw3) | 2:24 | 2022-05-12 |  |
 | [Visions](https://open.spotify.com/track/1SwqVZLAsK0iIQUy00Vz4z) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 3:18 | 2022-03-21 | 2022-03-25 |
@@ -212,5 +214,6 @@
 | [WOAH](https://open.spotify.com/track/0VzQP07n5NgOInr8iuk9Gr) | [AJ Curtis](https://open.spotify.com/artist/5wrtj0ptwZ8Z4ZL0w5YLYE) | [WOAH](https://open.spotify.com/album/2lOMrmiYzXyzntqtIct6bM) | 2:22 | 2022-03-21 | 2022-03-25 |
 | [Y U MAD](https://open.spotify.com/track/2Yf3r73NcKFFUCq7wndpy1) | [Nina Lee Kisses](https://open.spotify.com/artist/6FKYu75Gp3JHZte2LUVynB) | [DREAMVIEW](https://open.spotify.com/album/6cBcZcxez5xrax7EujLjKZ) | 2:28 | 2022-06-09 | 2022-07-01 |
 | [Zimbabwe](https://open.spotify.com/track/6YGhqgMMsBCoxX73sEbwKv) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [Zimbabwe](https://open.spotify.com/album/19ymHdgi8uNhHr9N5rLQxk) | 3:14 | 2022-04-28 | 2022-06-24 |
+| [ZIP!](https://open.spotify.com/track/2jnJ0UP0Ba2Og5lBMMJdRK) | [Chiggz](https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J), [ECB](https://open.spotify.com/artist/12qaVHWBtrTQ5KEvYgPQ2v), [Nate G](https://open.spotify.com/artist/4RvlcRTM1zHhPfTYLndVrp) | [ZIP!](https://open.spotify.com/album/2NCLxUOjLbEHi8lQnMP9IF) | 4:25 | 2022-08-04 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 68848,
+  "num_followers": 68862,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNDUxNiwwMDAwMDAwMGEyMzY5NDkwNjY4NGMzZjg2YzA5YjljYzZiNDg0ZjRh",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDU1MTA4MTk4MGJmOTA2YjNmNjExNzgyNTI3OTc0NDY0",
   "tracks": [
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "REFLEXION",
+        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "Comme Papa",
+      "url": "https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Ba L on Bye (Remix)",
         "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 216412,
       "name": "Ba L on Bye (Remix)",
       "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "REFLEXION",
-        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "Comme Papa",
-      "url": "https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "REFLEXION",
-        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Hallyday",
-      "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 400388,
       "name": "Ayizan",
       "url": "https://open.spotify.com/track/7Dy2z4DuyXOcwFBcSY42aX"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "REFLEXION",
+        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Hallyday",
+      "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 265929,
       "name": "Twa Fey",
       "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2022-07-14 21:35:16",

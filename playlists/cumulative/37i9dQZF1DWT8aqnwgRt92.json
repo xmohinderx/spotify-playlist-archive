@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Face2",
+        "url": "https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD"
+      },
+      "artists": [
+        {
+          "name": "LOZAREENA",
+          "url": "https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "Face2",
+      "url": "https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG"
+    },
+    {
+      "album": {
         "name": "Find the truth",
         "url": "https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o"
       },
@@ -2080,6 +2098,24 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30e9\u30fc\u30ea\u30f3\u30b0 \u30d0\u30a4 G-\u30ec\u30b3 (\u5287\u5834\u7248\u300eG\u306e\u30ec\u30b3\u30f3\u30ae\u30b9\u30bf IV\u300f\u300c\u6fc0\u95d8\u306b\u53eb\u3076\u611b\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de)",
         "url": "https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s"
       },
@@ -2163,7 +2199,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 267782,
       "name": "\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS"

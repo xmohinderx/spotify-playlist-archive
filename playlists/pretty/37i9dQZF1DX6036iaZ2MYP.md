@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the global Afro scene\. Cover: Nnelg
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,488 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,572 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 2 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
 | 3 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 |
 | 4 | [Etema](https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp) | [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR) | [Etema](https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb) | 4:30 |
-| 5 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 |
+| 5 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 |
 | 6 | [Malika](https://open.spotify.com/track/7cjlYSoUqWIE9GNStrqrNM) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Malika](https://open.spotify.com/album/1WccS7k1oGP1CMt5ULw1fj) | 2:45 |
 | 7 | [Repeat](https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Repeat](https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY) | 2:39 |
 | 8 | [Agenda](https://open.spotify.com/track/6lnCVR1HeGL7c55x8A29xX) | [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Agenda](https://open.spotify.com/album/4xnnaBJnbYUGtupWT7jwek) | 2:07 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 46 | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ) | 2:45 |
 | 47 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 |
 
-Snapshot ID: `MTY1OTA0NTY2MCwwMDAwMDAwMDRiYzY5MmMyMTVkMTQ4MTI3YTkzZjdiMWM2MGRlMDc3`
+Snapshot ID: `MTY1OTA0NTY2MCwwMDAwMDAwMDA2MTFjMDEyZDc1ZDVkZTcyZDE5Y2QwMTAxMDcwOWZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Rhove
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,912 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,033 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 64 | [FUCK THE INDUSTRY \(feat\. Rondodasosa, Central Cee, Nko\)](https://open.spotify.com/track/0lWbTtEZCeej46pYi4LJMu) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 3:08 |
 | 65 | [Louboutin](https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Louboutin](https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU) | 4:00 |
 | 66 | [ALYX \(feat\. Capo Plaza\)](https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [J](https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO) | 3:03 |
-| 67 | [Italiano Anthem](https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:15 |
-| 68 | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF) | 2:58 |
+| 67 | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF) | 2:58 |
+| 68 | [Italiano Anthem](https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:15 |
 | 69 | [ANSIA NO](https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9) | [FSK SATELLITE](https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH) | [FSK TRAPSHIT REVENGE](https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S) | 2:28 |
 | 70 | [Candy](https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Bovychulo](https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI) | [Non Lo So](https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa) | 2:22 |
 
-Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMDgzMzNmZDBiMmViYzRlM2MzOWJhYWJlODM1MjFlMmUy`
+Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMDg3YTBhNjViODVhYmE1YTk1YjNhMzE5N2QyZmQ4MjM0`

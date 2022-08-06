@@ -1,12 +1,12 @@
 {
   "description": "just chill... respectfully ",
-  "num_followers": 780422,
+  "num_followers": 780726,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg4ODA1NCwwMDAwMDAwMGVkNTc3ZDlmZDhiZGVkNzMxZDY2YzVjM2VlZTRlYzQz",
+  "snapshot_id": "MTY1ODg4ODA1NCwwMDAwMDAwMGM3NDA3OWE3YTA1NDI2YTZjOTdhY2M3OWUwYWQ4ODdl",
   "tracks": [
     {
       "added_at": "2022-06-30 22:18:46",
@@ -475,6 +475,30 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Minus The Bullshit Life's Great",
+        "url": "https://open.spotify.com/album/4oP4LxB36ixn9QydAT4Q45"
+      },
+      "artists": [
+        {
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 226865,
+      "name": "Lock It Up",
+      "url": "https://open.spotify.com/track/1GIKDc28Z95bWSIXgkr3y3"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Flight 99",
         "url": "https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac"
       },
@@ -499,30 +523,6 @@
       "duration_ms": 167142,
       "name": "Flight 99",
       "url": "https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Minus The Bullshit Life's Great",
-        "url": "https://open.spotify.com/album/4oP4LxB36ixn9QydAT4Q45"
-      },
-      "artists": [
-        {
-          "name": "Nascent",
-          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 226865,
-      "name": "Lock It Up",
-      "url": "https://open.spotify.com/track/1GIKDc28Z95bWSIXgkr3y3"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Pronounced McGee",
-        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 310597,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 201933,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 310597,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Valley Hopefuls",
-        "url": "https://open.spotify.com/album/1n6ULeNHEteS5eucGgsUSp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 133152,
-      "name": "Okok (Hibachi)",
-      "url": "https://open.spotify.com/track/44ashym52bERKclJsKt3Db"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Exit",
         "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 196673,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Valley Hopefuls",
+        "url": "https://open.spotify.com/album/1n6ULeNHEteS5eucGgsUSp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 133152,
+      "name": "Okok (Hibachi)",
+      "url": "https://open.spotify.com/track/44ashym52bERKclJsKt3Db"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Yesterday's Tomorrow",
-        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Somehow.",
-      "url": "https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Verbs",
         "url": "https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 213800,
       "name": "Verbs",
       "url": "https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Somehow.",
+      "url": "https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Golden pt. 2 (feat. Mereba)",
         "url": "https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 267400,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "KMS - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "KMS - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Honeycomb",
         "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 204324,
       "name": "I'm a Rock",
       "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "KMS - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "KMS - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Caged Bird",
-        "url": "https://open.spotify.com/album/1jtKoTIOnGlTuw9Vamp0qc"
-      },
-      "artists": [
-        {
-          "name": "Myles Cameron",
-          "url": "https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Caged Bird",
-      "url": "https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "No Romance",
         "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 237235,
       "name": "No Romance",
       "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Caged Bird",
+        "url": "https://open.spotify.com/album/1jtKoTIOnGlTuw9Vamp0qc"
+      },
+      "artists": [
+        {
+          "name": "Myles Cameron",
+          "url": "https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Caged Bird",
+      "url": "https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4"
     },
     {
       "added_at": "2022-06-30 22:18:46",

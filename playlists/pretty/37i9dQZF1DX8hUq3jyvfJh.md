@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mari Fernandez e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,793 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,836 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 15 | [Ex De Ninguém \- Ao Vivo](https://open.spotify.com/track/1ZZJNyNnTXQS0siCpnWNUL) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:31 |
 | 16 | [Fiquei Careta](https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Fiquei Careta](https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk) | 2:23 |
 | 17 | [Ainda Não Tô Pronta \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/0ZBQ5PAD9XjUJOc1VxRQri) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Ainda Não Tô Pronta \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/7h71zpFKYayNlr2sRGSf00) | 2:25 |
-| 18 | [Perigosinha "Louquinha"](https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Perigosinha "Louquinha"](https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3) | 2:37 |
-| 19 | [Me Trata Como Ex \- Ao Vivo](https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Me Trata Como Ex \(Ao Vivo\)](https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ) | 2:44 |
+| 18 | [Me Trata Como Ex \- Ao Vivo](https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Me Trata Como Ex \(Ao Vivo\)](https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ) | 2:44 |
+| 19 | [Perigosinha "Louquinha"](https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Perigosinha "Louquinha"](https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3) | 2:37 |
 | 20 | [Duas Caras](https://open.spotify.com/track/4OXWpVtae6WxWUPKApp66r) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Duas Caras](https://open.spotify.com/album/0kNvywWv6Hf5y0l2p4OBUq) | 2:42 |
 | 21 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
 | 22 | [Eclipse do Meu Coração](https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Eclipse do Meu Coração](https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D) | 3:28 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 34 | [Ponto de Partida](https://open.spotify.com/track/6laXU8ebTKAt4jJ75IybV0) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Retrô Românticas, Pt\. 1](https://open.spotify.com/album/3rlIX4rSRS2Lk4EEuk3zRa) | 2:42 |
 | 35 | [Quero Que Você Se \- Ao vivo](https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Quero Que Você Se \(Ao vivo\)](https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH) | 2:54 |
 | 36 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 |
-| 37 | [Eu Ou Ela \- Ao Vivo](https://open.spotify.com/track/3XX8Zp2pOdQ2VmmzmzoGUK) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia \(Vol\. 2\)](https://open.spotify.com/album/3bc4ZZ7gWZukZvdM2qc6Rt) | 2:44 |
-| 38 | [Amor da Sua Vida \- Ao Vivo](https://open.spotify.com/track/5dvqzCn7FZjtmrrx4VYM3W) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Amando e Sofrendo, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0XRE7Err8k5v17JBekAomd) | 2:50 |
+| 37 | [Amor da Sua Vida \- Ao Vivo](https://open.spotify.com/track/5dvqzCn7FZjtmrrx4VYM3W) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Amando e Sofrendo, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0XRE7Err8k5v17JBekAomd) | 2:50 |
+| 38 | [Eu Ou Ela \- Ao Vivo](https://open.spotify.com/track/3XX8Zp2pOdQ2VmmzmzoGUK) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia \(Vol\. 2\)](https://open.spotify.com/album/3bc4ZZ7gWZukZvdM2qc6Rt) | 2:44 |
 | 39 | [Pra Mim Você é Tudo \(Rapariga\) \[Ao Vivo\]](https://open.spotify.com/track/4Vao4rCPqRNeGFG8IurbLN) | [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO) | [Pra Mim Você é Tudo \(Rapariga\) \[Ao Vivo\]](https://open.spotify.com/album/0l3BT8oObAlDYRysVX0t0m) | 2:54 |
 | 40 | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/track/01O7f0N2slitGFBcuBuIZM) | [Suellen & Francielly](https://open.spotify.com/artist/52WZ6GkSnEZxJ5iZUGBVGm) | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/album/6Oi6FNT4RzOOjKFDBSrXuz) | 2:36 |
 | 41 | [Tantão assim \- Ao vivo](https://open.spotify.com/track/3BQcRwHRHc2iZEmW0IxQZ5) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Tantão assim \(Ao vivo\)](https://open.spotify.com/album/1qtB8uFoOXClCkAwI1jj7X) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
 | 50 | [Eu Não](https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:30 |
 
-Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGYyMjMyZDNjYjg1ZWI0NzMyMjc0ZDdlN2NmNTlkNDVj`
+Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGJjYzc3YjRiOTZiYjA4OWU5ZjFhMzBkM2YxMjNjYzgw`

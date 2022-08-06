@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,581 likes - 144 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,677 likes - 148 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,12 +145,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 135 | [Sense](https://open.spotify.com/track/52oTmaLv8s70zJft348pjy) | [revmal](https://open.spotify.com/artist/0thsoOfTu2qJQQVg5wrG6S), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sense](https://open.spotify.com/album/3rfDVFn4DLafKcjh5tj4lr) | 1:48 |
 | 136 | [off the grid](https://open.spotify.com/track/67ZBo4TkiHsPGVuJDxsXkk) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [off the grid](https://open.spotify.com/album/1uVRWOGqmDWLwfWploSKba) | 2:48 |
 | 137 | [Serenity](https://open.spotify.com/track/4YAs0eBrhNzlrfHXyvs25T) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Serenity](https://open.spotify.com/album/0uMvJwmibtvq8qLUXqddV8) | 2:06 |
-| 138 | [First Blossoms](https://open.spotify.com/track/2ydYzoDJ6zJO8CAx5XVTPB) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [First Blossoms](https://open.spotify.com/album/6fy2dixEx1GmxhN0i2Zhj1) | 2:05 |
-| 139 | [Old Days](https://open.spotify.com/track/5yf2mbyU1UHPut39eAuOCX) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Old Days](https://open.spotify.com/album/4A4ypbUWFAceSJcPKXni70) | 2:18 |
-| 140 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 |
-| 141 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 |
-| 142 | [They Grew Around Her](https://open.spotify.com/track/0SIPvTIbcElBAiuM0E0c4w) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [They Grew Around Her](https://open.spotify.com/album/6TZ8us7ju80yQ56xN6nJ1q) | 2:36 |
-| 143 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
-| 144 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
+| 138 | [duduk](https://open.spotify.com/track/5l2hrRZTPzvxTpiqLYOH4N) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [duduk](https://open.spotify.com/album/1LsXJCniTm4NrKhAGjcjSg) | 2:30 |
+| 139 | [Past Reticence](https://open.spotify.com/track/00ww2dqh7xOhuCB8EcbJDp) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [icey wavs](https://open.spotify.com/artist/5bH4uA7ERJ2A6EIWa7eHwQ) | [Past Reticence](https://open.spotify.com/album/5Suo8oI3CAmlIBS9dqjar7) | 2:27 |
+| 140 | [Steinmetz](https://open.spotify.com/track/2EfrdKFmQNFZw2MRCR1QjI) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Steinmetz](https://open.spotify.com/album/4QZfBtiRjvukoOSmdTuTXT) | 2:16 |
+| 141 | [First Blossoms](https://open.spotify.com/track/2ydYzoDJ6zJO8CAx5XVTPB) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [First Blossoms](https://open.spotify.com/album/6fy2dixEx1GmxhN0i2Zhj1) | 2:05 |
+| 142 | [Old Days](https://open.spotify.com/track/5yf2mbyU1UHPut39eAuOCX) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Old Days](https://open.spotify.com/album/4A4ypbUWFAceSJcPKXni70) | 2:18 |
+| 143 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 |
+| 144 | [Slow Down](https://open.spotify.com/track/1kzYeqzmuHWFGWzhG6R3uJ) | [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Slow Down](https://open.spotify.com/album/51vEhtHYjuIE1wTheYZqJH) | 1:43 |
+| 145 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 |
+| 146 | [They Grew Around Her](https://open.spotify.com/track/0SIPvTIbcElBAiuM0E0c4w) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [They Grew Around Her](https://open.spotify.com/album/6TZ8us7ju80yQ56xN6nJ1q) | 2:36 |
+| 147 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
+| 148 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDJmZjU4MGJjNzZjY2Q5YmQ4ZDg1N2UwNjlhMWY2YWFl`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDYwYzE0Mjg2MWYxZjM5YzE3YzZmOTVmYjc4NzUyMDQw`

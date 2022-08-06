@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the finest of Tamil Indie music!\nCover : Jeevanandhan Ram",
+  "description": "Tune into the finest of Tamil Indie music!\nCover : Vaisagh",
   "name": "Tamil Indie",
   "published_playlist_ids": [
     "2PMncOoQzIIDP1bjPCpxj8"
@@ -309,10 +309,28 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 156521,
       "name": "Aval",
       "url": "https://open.spotify.com/track/310tzK5iTE7LtmVHg3h9ay"
+    },
+    {
+      "album": {
+        "name": "Azhagaai",
+        "url": "https://open.spotify.com/album/6h0Gms0Q7pWShPRYUEZJI7"
+      },
+      "artists": [
+        {
+          "name": "Prezanthi Shanmugavel",
+          "url": "https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234750,
+      "name": "Azhagaai",
+      "url": "https://open.spotify.com/track/1MIPmljysSLID51OCYEVK2"
     },
     {
       "album": {
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 217190,
       "name": "Kadhal Mazhaiyae",
       "url": "https://open.spotify.com/track/05uenVwul3q4H9iaQm4Ohy"
@@ -1367,6 +1385,28 @@
       "duration_ms": 174000,
       "name": "Maaran Ambu",
       "url": "https://open.spotify.com/track/2A5JPLInzNA6jr8ITGzWlN"
+    },
+    {
+      "album": {
+        "name": "Maaya Arivai (Remix)",
+        "url": "https://open.spotify.com/album/3R0rrxE7ZltdYSiBhprJv8"
+      },
+      "artists": [
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        },
+        {
+          "name": "NGM",
+          "url": "https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97385,
+      "name": "Maaya Arivai - Remix",
+      "url": "https://open.spotify.com/track/1AXcnHTuFnoanimGHrSroC"
     },
     {
       "album": {
@@ -2919,6 +2959,32 @@
       "duration_ms": 200250,
       "name": "Un Aruginil Yeno (Original Soundtrack)",
       "url": "https://open.spotify.com/track/4XUkuUTGkLJ16oePH46uOn"
+    },
+    {
+      "album": {
+        "name": "Un Mugavari Thedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4YnabWJDLMt6AfAqDZiIek"
+      },
+      "artists": [
+        {
+          "name": "Sajith MX",
+          "url": "https://open.spotify.com/artist/6uuHL6jAx4p7n1HPHfC8sN"
+        },
+        {
+          "name": "Subhiksha",
+          "url": "https://open.spotify.com/artist/23AyrHkWcliCW5MDMAibj8"
+        },
+        {
+          "name": "Anal Akash",
+          "url": "https://open.spotify.com/artist/0Sc5IvyroAu9MuC9kFGjaR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Un Mugavari Thedi (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/64DY73WJXUkeMnWiVrV7zl"
     },
     {
       "album": {

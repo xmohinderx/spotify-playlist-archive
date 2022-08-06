@@ -4,12 +4,13 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Petite Amie en portada.
 
-129 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
+130 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 | 2022-01-28 |  |
 | [4 del 20](https://open.spotify.com/track/6mVKbQnY3peMr8PovVEtF3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [4 del 20](https://open.spotify.com/album/0iugtNNvaIcTPzV7C7ASqK) | 5:00 | 2022-04-23 | 2022-05-28 |
+| [Acto de Fe](https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Sigilos y Decretos](https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11) | 3:50 | 2022-08-05 |  |
 | [Agua Bendita](https://open.spotify.com/track/1ypw0w1I3jJNlQfcg6CP0y) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Agua Bendita](https://open.spotify.com/album/1uoSSfoTMTOr3TrsrPQXZV) | 4:23 | 2022-04-23 | 2022-07-05 |
 | [Agua Santa](https://open.spotify.com/track/0arH8qrtmayVDnxuySM798) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Agua Santa](https://open.spotify.com/album/0ZPPC5qJzigZ6X7k3dyZ4d) | 4:07 | 2022-04-20 |  |
 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 | 2021-12-17 |  |
@@ -124,7 +125,7 @@
 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 | 2022-03-11 | 2022-07-22 |
 | [Tecolotes](https://open.spotify.com/track/3kGEAWMgqQn78pcktXz2uB) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Tecolotes](https://open.spotify.com/album/243ojdy2kghaCPBSjfxQRt) | 5:00 | 2021-12-17 | 2022-07-23 |
 | [Todo Cuenta](https://open.spotify.com/track/25ayfrtkcSJfE93B8mnhRT) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Primario](https://open.spotify.com/album/2ATnlNdhTGBHX9SYn3UoL0) | 3:52 | 2021-12-17 |  |
-| [Tomar el Sol](https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Lanza Internacional](https://open.spotify.com/album/5MC0RCLUWwbTE4UHGhAtxm) | 5:38 | 2021-12-17 |  |
+| [Tomar el Sol](https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Lanza Internacional](https://open.spotify.com/album/5MC0RCLUWwbTE4UHGhAtxm) | 5:38 | 2021-12-17 | 2022-08-06 |
 | [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 | 2022-02-01 |  |
 | [Un Manhattan](https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Belmont](https://open.spotify.com/album/797ZnganZpmTHcULejYwDt) | 2:48 | 2022-07-13 | 2022-07-30 |
 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 | 2022-07-22 | 2022-07-30 |

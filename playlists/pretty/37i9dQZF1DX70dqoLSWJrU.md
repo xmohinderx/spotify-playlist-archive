@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,189 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,275 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 80 | [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 |
 | 81 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:52 |
 | 82 | [Say It Isn't So](https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Somewhere over the Rainbow](https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy) | 3:13 |
-| 83 | [Mean to Me \(with Teddy Wilson & His Orchestra\) \- Take 1](https://open.spotify.com/track/5iPwWmrRRiAtgmm3WJ8yUm) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 3:05 |
+| 83 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
 | 84 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [It's All Over But The Swingin'](https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP) | 4:40 |
-| 85 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
+| 85 | [Mean to Me \(with Teddy Wilson & His Orchestra\) \- Take 1](https://open.spotify.com/track/5iPwWmrRRiAtgmm3WJ8yUm) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 3:05 |
 | 86 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 |
 | 87 | [I'll Drown In My Tears](https://open.spotify.com/track/3EJ0pqOYSid9bVfyYy0zhm) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol.5 \(1956\-1958\)](https://open.spotify.com/album/53UuPjzjPZdVorCmDewJSI) | 3:11 |
 | 88 | [Something to Remember You By](https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 100 | [You Won't Be Satisfied \(Until You Break My Heart\) \(with Les Brown & His Orchestra\)](https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Les Brown & His Orchestra](https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 3:04 |
 
-Snapshot ID: `MTY1NjUwMDM4OSwwMDAwMDAwMGJhNTQwZGZkNTIzMGYyOGY0Njc4NGZkMTU0YjNhOWY0`
+Snapshot ID: `MTY1NjUwMDM4OSwwMDAwMDAwMDIyZjM0NTdjNDdlMmNiMzI3YzI0ZWE0MjM5MWU2YWMw`

@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-206 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+208 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Chrystal Waters](https://open.spotify.com/track/0STNzJ42S02Ep6mcnwLfMW) | [Astral View](https://open.spotify.com/artist/7pq8kxpU61rnrS73yuK1xF) | [Chrystal Waters](https://open.spotify.com/album/5tNpDpbw7T6GlJOodIAQjO) | 3:08 | 2021-12-17 |  |
 | [City Sun](https://open.spotify.com/track/3cP0lItvdmwHLQsFtTSczu) | [Mochas](https://open.spotify.com/artist/4GimdSN8NMDW7LYdSHtjIH) | [City Sun](https://open.spotify.com/album/6CU4QLegDqC55dF4860RhK) | 2:51 | 2021-12-17 | 2022-05-06 |
 | [Colors Of The Wind](https://open.spotify.com/track/0YL8kXuNOcOF8curSrGOEw) | [Alex Patel](https://open.spotify.com/artist/4e90KIWr9PXRvOsvB7kdnb) | [Colors Of The Wind](https://open.spotify.com/album/1Ta8HPmo20jBMUCyah11oC) | 3:05 | 2021-12-17 |  |
+| [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2022-08-05 |  |
 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 | 2021-12-17 |  |
 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-03-04 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2021-12-17 |  |
@@ -114,7 +115,7 @@
 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 | 2022-07-15 |  |
 | [Moonlight](https://open.spotify.com/track/6SG0JKsZDBmvzsTIREYqT3) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 4:36 | 2021-12-17 |  |
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-03-18 |  |
-| [Morning Dove](https://open.spotify.com/track/20an22hQymQpGUXAc2liBS) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Songs in the Key of Earth, Vol\. 1](https://open.spotify.com/album/0TSj3QARPm9cNkEd6GyjbD) | 2:12 | 2021-12-17 |  |
+| [Morning Dove](https://open.spotify.com/track/20an22hQymQpGUXAc2liBS) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Songs in the Key of Earth, Vol\. 1](https://open.spotify.com/album/0TSj3QARPm9cNkEd6GyjbD) | 2:12 | 2021-12-17 | 2022-08-06 |
 | [Morning Light](https://open.spotify.com/track/5ZMmJeyD62nOdocRvss4rE) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Meditations](https://open.spotify.com/album/0BeOxMxb7pVoCft166u53r) | 3:18 | 2022-01-19 |  |
 | [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 | 2021-12-17 |  |
 | [Mountaintop Birdwalk](https://open.spotify.com/track/7joXZ5D0jFDEzkSsGIgCcy) | [Overdue Soles](https://open.spotify.com/artist/4D9rrvqXdR4y5IA0zJaicG) | [Mountaintop Birdwalk](https://open.spotify.com/album/1KG2rjcesAYUTij1Rp2a0P) | 3:19 | 2022-02-16 |  |
@@ -197,6 +198,7 @@
 | [Tones of Nature](https://open.spotify.com/track/78jPG2b6dRYEn5xtf36TxI) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:54 | 2021-12-17 |  |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-07-08 |  |
 | [True Awakening](https://open.spotify.com/track/0s7Qc2ytTasqhqjA9K2U2S) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Paranormal](https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu) | 3:21 | 2021-12-17 |  |
+| [Tsuki](https://open.spotify.com/track/5511siuhanSUczAZ00LBli) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [Tsuki](https://open.spotify.com/album/0ZHhNoNLZ7xRl6z14zRb7t) | 2:43 | 2022-08-05 |  |
 | [Unto Nothing](https://open.spotify.com/track/5cLtfV0IzXgQmYXC2e6dm1) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Unto Nothing](https://open.spotify.com/album/06eFwXIBHDiut7njFtruKF) | 2:39 | 2021-12-17 |  |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2022-04-13 |  |
 | [Verjongen](https://open.spotify.com/track/7tXeUZJmBp9cngsIziXi9e) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Verjongen](https://open.spotify.com/album/5ope3rhRd1xkWz6Yj3wJGH) | 2:52 | 2021-12-17 |  |

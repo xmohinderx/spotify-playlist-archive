@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,336 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,376 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 32 | [Honky Tonk Train Blues](https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:58 |
 | 33 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
 | 34 | [Boogie Woogie Baby](https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Blues Kingpin](https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3) | 2:19 |
-| 35 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 |
-| 36 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
+| 35 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
+| 36 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 |
 | 37 | [Blue Lamp](https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 3:01 |
 | 38 | [Sue's Boogie](https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP) | [Sue Palmer](https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v) | [Boogie Woogie Motel Swing](https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP) | 2:03 |
 | 39 | [Slider](https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 49 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
 | 50 | [Dollar Bill Boogie](https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA) | [Big Joe Duskin](https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB) | [Cincinnati Stomp](https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz) | 2:26 |
 
-Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMDQ4MjhmNzkxYmY2YjM4NWMzZGZlMTU5YWU0OWJmYmRm`
+Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMDU0NWU3MmYzZjQ0NTM0MDI0M2ExNWU5NGY3MTc4ZTYx`

@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2368929,
+  "num_followers": 2369559,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYzMDI2OSwwMDAwMDAwMDEyZmY5OGQ1NmZjMTc3NzEzNmM3MDdlNzNlNTE2MzAx",
+  "snapshot_id": "MTY1OTcxNDc3OCwwMDAwMDAwMGZjOTg1MWM3NTc1ZjM4ZWVhOTg1ZDg3MGU1MjQ3ZjFm",
   "tracks": [
     {
       "added_at": "2022-08-04 16:23:17",
@@ -39,6 +39,22 @@
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "added_at": "2022-08-05 15:52:58",
+      "album": {
+        "name": "safety",
+        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -217,6 +233,22 @@
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
+      "added_at": "2022-08-05 07:08:00",
+      "album": {
+        "name": "One Year Stand",
+        "url": "https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8"
+    },
+    {
       "added_at": "2022-08-04 16:23:17",
       "album": {
         "name": "IV",
@@ -301,20 +333,36 @@
       "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
-      "added_at": "2022-08-04 16:23:17",
+      "added_at": "2022-08-05 07:08:00",
       "album": {
-        "name": "5am and I Can't Sleep",
-        "url": "https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6"
+        "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
+        "url": "https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu"
       },
       "artists": [
         {
-          "name": "kelz",
-          "url": "https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw"
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
         }
       ],
-      "duration_ms": 327888,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc"
+      "duration_ms": 271952,
+      "name": "\u7231\u7684\u5927\u5df4 (Love Bus)",
+      "url": "https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox"
+    },
+    {
+      "added_at": "2022-08-05 07:08:00",
+      "album": {
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/7FaJ9dTtCmlQHbCkKWZsRk"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 172641,
+      "name": "Welcome To Kookoo Island",
+      "url": "https://open.spotify.com/track/0Y9DRICxOWCErR6Aly5nPV"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -351,6 +399,26 @@
     {
       "added_at": "2022-08-04 16:23:17",
       "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 190433,
+      "name": "Chocolate Hills",
+      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+    },
+    {
+      "added_at": "2022-08-04 16:23:17",
+      "album": {
         "name": "Dumb Daze",
         "url": "https://open.spotify.com/album/1XhSLcdqiYIsjMjc0zPsUa"
       },
@@ -383,6 +451,22 @@
       "duration_ms": 132640,
       "name": "hurt (feat. Somni)",
       "url": "https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH"
+    },
+    {
+      "added_at": "2022-08-05 07:08:00",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Scarlet",
+      "url": "https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -427,26 +511,6 @@
     {
       "added_at": "2022-08-04 16:23:17",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 190433,
-      "name": "Chocolate Hills",
-      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
         "name": "Thanks Again",
         "url": "https://open.spotify.com/album/7xrTBBDHk3tsPLVgQWoqxR"
       },
@@ -459,6 +523,26 @@
       "duration_ms": 210693,
       "name": "Thanks Again",
       "url": "https://open.spotify.com/track/6ilACBUGWBHjHugUdYzhtT"
+    },
+    {
+      "added_at": "2022-08-05 07:08:00",
+      "album": {
+        "name": "Rainbow Tables (feat. Biig Piig)",
+        "url": "https://open.spotify.com/album/2iEDOlUmd5O0SYLdIdwy8M"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 183199,
+      "name": "Rainbow Tables (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/2XpohxcjYvNerUpTrjefcP"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -559,6 +643,22 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+    },
+    {
+      "added_at": "2022-08-04 16:23:17",
+      "album": {
+        "name": "5am and I Can't Sleep",
+        "url": "https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6"
+      },
+      "artists": [
+        {
+          "name": "kelz",
+          "url": "https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw"
+        }
+      ],
+      "duration_ms": 327888,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -783,6 +883,22 @@
       "duration_ms": 202368,
       "name": "Table for Two",
       "url": "https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP"
+    },
+    {
+      "added_at": "2022-08-05 07:08:00",
+      "album": {
+        "name": "Diamond In The Dark",
+        "url": "https://open.spotify.com/album/4C7f4yffO7fdpU9DZJ8zcC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Bless You",
+      "url": "https://open.spotify.com/track/6N95gnRl5ggsEGVM27YkjW"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -1023,6 +1139,22 @@
       "duration_ms": 143681,
       "name": "idc",
       "url": "https://open.spotify.com/track/0wJLHHZerP72pehv0g4RVq"
+    },
+    {
+      "added_at": "2022-08-05 07:08:00",
+      "album": {
+        "name": "Not Mine",
+        "url": "https://open.spotify.com/album/43z1fbbpu0Ja2kDg8t6ZuG"
+      },
+      "artists": [
+        {
+          "name": "Carlos Truly",
+          "url": "https://open.spotify.com/artist/1WxcTbg1M05H3uThDKXKs8"
+        }
+      ],
+      "duration_ms": 200101,
+      "name": "Why Suffer??",
+      "url": "https://open.spotify.com/track/0gfimXIWrkA2n23UMXWYUF"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -2067,30 +2199,6 @@
     {
       "added_at": "2022-08-04 16:23:17",
       "album": {
-        "name": "that's us",
-        "url": "https://open.spotify.com/album/7tmJkPTraTuKBJPxQPp4fY"
-      },
-      "artists": [
-        {
-          "name": "Golden Vessel",
-          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
-        },
-        {
-          "name": "The Nicholas",
-          "url": "https://open.spotify.com/artist/2HOeKK6JSrvz00FoQk0biZ"
-        },
-        {
-          "name": "rei so la",
-          "url": "https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "that's us",
-      "url": "https://open.spotify.com/track/1anxX1NLxxdIjVzomBJK45"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -2411,22 +2519,6 @@
     {
       "added_at": "2022-08-04 16:23:17",
       "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 268979,
-      "name": "Hide and Seek",
-      "url": "https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
         "name": "Supalonely (Lownely)",
         "url": "https://open.spotify.com/album/7lkrgPpSZTMcgNi2yHdQ7E"
       },
@@ -2439,38 +2531,6 @@
       "duration_ms": 199308,
       "name": "Supalonely (Lownely)",
       "url": "https://open.spotify.com/track/0hVZCUZKWsWFU6i5zlRZZr"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/2lx0CfU8V4rhDOCWI9sx5L"
-      },
-      "artists": [
-        {
-          "name": "King Charles",
-          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
-        }
-      ],
-      "duration_ms": 229843,
-      "name": "Feel These Heavy Times",
-      "url": "https://open.spotify.com/track/7Gu3Wb76kCzZKJWr6wd8sG"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
-        "name": "Je t'aime encore",
-        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
-      },
-      "artists": [
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 217230,
-      "name": "Je t'aime encore",
-      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -2491,22 +2551,6 @@
     {
       "added_at": "2022-08-04 16:23:17",
       "album": {
-        "name": "peas",
-        "url": "https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 234645,
-      "name": "peas",
-      "url": "https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
         "name": "Way Up",
         "url": "https://open.spotify.com/album/60nfJFRPMc5mhdDwqPnULw"
       },
@@ -2519,58 +2563,6 @@
       "duration_ms": 177449,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/2dcA5V4ADoZQ7jpJwPsGjK"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
-        "name": "Want U Around (feat. Ruel)",
-        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Want U Around (feat. Ruel)",
-      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
-        "name": "Pang",
-        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 322562,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh"
     }
   ],
   "unique_name": "Chill Vibes",

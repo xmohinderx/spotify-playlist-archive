@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Lou Garcia",
+  "description": "Novidades e destaques do indie nacional. Foto: Nanasai",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 238805,
       "name": "A Fogueira",
       "url": "https://open.spotify.com/track/7fAlzuAQK9JXDqmATf0CVQ"
@@ -192,6 +192,28 @@
     },
     {
       "album": {
+        "name": "Agora Eu Preciso Pagar Contas",
+        "url": "https://open.spotify.com/album/2IBGgqV3XGhtL9dz6PiUsn"
+      },
+      "artists": [
+        {
+          "name": "Valentin",
+          "url": "https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9"
+        },
+        {
+          "name": "Amanda Gabana",
+          "url": "https://open.spotify.com/artist/7GTsKZxpRghgTKeNWKN54i"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191570,
+      "name": "Agora Eu Preciso Pagar Contas",
+      "url": "https://open.spotify.com/track/58xEYZkV8UyFZxTO9UlwVO"
+    },
+    {
+      "album": {
         "name": "Albatroz Azul",
         "url": "https://open.spotify.com/album/4wYBRx8hOzUQiSysTDihpn"
       },
@@ -279,7 +301,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 152616,
       "name": "AMADA",
       "url": "https://open.spotify.com/track/6nEm0lC3exE9EnyZQLFzBQ"
@@ -1010,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Dan\u00e7ando Assim",
+        "url": "https://open.spotify.com/album/5UqBuGZLeKv2Q1yXqFyv73"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Dan\u00e7ando Assim",
+      "url": "https://open.spotify.com/track/5Z05YrmWq85lEae2WUraSH"
+    },
+    {
+      "album": {
         "name": "Todos os conselhos que n\u00e3o segui",
         "url": "https://open.spotify.com/album/2zVPyiDlZdTj5lyyMXVClN"
       },
@@ -1199,6 +1239,28 @@
       "duration_ms": 169489,
       "name": "do avesso",
       "url": "https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5"
+    },
+    {
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/3qyC2kRaHZZ7xPsMp7ChnW"
+      },
+      "artists": [
+        {
+          "name": "Gabi Shima",
+          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
+        },
+        {
+          "name": "Plut\u00e3o J\u00e1 Foi Planeta",
+          "url": "https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192156,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/2lRsKNaA8pmA6zPJvqZnaf"
     },
     {
       "album": {
@@ -1721,7 +1783,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 229920,
       "name": "Hoje \u00e9 Seu Dia",
       "url": "https://open.spotify.com/track/0UyfXjzCrwQuQZc5U90AKJ"
@@ -1873,6 +1935,28 @@
       "duration_ms": 327402,
       "name": "Leds do Jap\u00e3o",
       "url": "https://open.spotify.com/track/7BvivZBQZnRfKUABTyWnwl"
+    },
+    {
+      "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/31LNhs3PMNI7Epfjjs1Wge"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209103,
+      "name": "Leo",
+      "url": "https://open.spotify.com/track/2OXQt8umfFX1MwvrxAmhjp"
     },
     {
       "album": {
@@ -2295,10 +2379,32 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 187628,
       "name": "Mistificar",
       "url": "https://open.spotify.com/track/63cd1HLiFFWrelMezvFyBO"
+    },
+    {
+      "album": {
+        "name": "MONTANHA RUSSA",
+        "url": "https://open.spotify.com/album/4QJTU1v37HrAEc0JlJwReF"
+      },
+      "artists": [
+        {
+          "name": "nat\u00e1lia carreira",
+          "url": "https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX"
+        },
+        {
+          "name": "HENZEE",
+          "url": "https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193658,
+      "name": "MONTANHA RUSSA",
+      "url": "https://open.spotify.com/track/4dpjIj2Mg9Glx2k67yutvz"
     },
     {
       "album": {
@@ -2335,7 +2441,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 218248,
       "name": "M\u00e3ezinha",
       "url": "https://open.spotify.com/track/5lTBK3xacLGrxZBENGm4qt"
@@ -2353,7 +2459,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 228925,
       "name": "Na Beleza da Vida",
       "url": "https://open.spotify.com/track/4MuzCQ8IreSdP8yoQTvRNY"
@@ -2379,7 +2485,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 201019,
       "name": "Nada Acontece",
       "url": "https://open.spotify.com/track/0OceV6izWM1iiT0dxBlmlH"
@@ -3011,7 +3117,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 228644,
       "name": "Phoda",
       "url": "https://open.spotify.com/track/4DSbYPau95Mg4OyqXZMM1G"
@@ -3217,7 +3323,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 207600,
       "name": "Pulsar",
       "url": "https://open.spotify.com/track/75sJgyyoWq8Hz8793E1oIO"
@@ -3239,6 +3345,24 @@
       "duration_ms": 256625,
       "name": "p\u00e9 na areia",
       "url": "https://open.spotify.com/track/2n2NLaRHgCUNIK6vQIyVEu"
+    },
+    {
+      "album": {
+        "name": "Quando",
+        "url": "https://open.spotify.com/album/4b1wNEf2S1mFCfsLFaQTWG"
+      },
+      "artists": [
+        {
+          "name": "Ombu",
+          "url": "https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170148,
+      "name": "Quando",
+      "url": "https://open.spotify.com/track/1wCWq966JTPrEilK0uqqht"
     },
     {
       "album": {
@@ -3293,7 +3417,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 221768,
       "name": "Quem somos n\u00f3s",
       "url": "https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t"
@@ -3697,7 +3821,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 213332,
       "name": "Somos S\u00f3",
       "url": "https://open.spotify.com/track/0djmDwUQSh156s9wuvl4Tt"
@@ -4185,7 +4309,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 231765,
       "name": "Ultraleve",
       "url": "https://open.spotify.com/track/3Rab6Z0ZW6knxay13dEvx7"
@@ -4207,6 +4331,24 @@
       "duration_ms": 231765,
       "name": "Ultraleve",
       "url": "https://open.spotify.com/track/3gzeiDNfU4OwnSmsk3xwCK"
+    },
+    {
+      "album": {
+        "name": "Um Disco Inteiro Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/3p63N0ELjftXsCrariyQPv"
+      },
+      "artists": [
+        {
+          "name": "Nanasai",
+          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161941,
+      "name": "Um Disco Inteiro Sobre Voc\u00ea",
+      "url": "https://open.spotify.com/track/62THnH2BxbSEwZTFlOVomK"
     },
     {
       "album": {
@@ -4337,7 +4479,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 229369,
       "name": "Vale",
       "url": "https://open.spotify.com/track/3RsbQPOPalz26UnLQqBf3v"

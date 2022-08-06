@@ -1,13 +1,81 @@
 {
-  "description": "The Real hip-hop. Cover: Chance The Rapper",
-  "num_followers": 1087433,
+  "description": "The Real hip-hop. Cover: Joey Bada$$",
+  "num_followers": 1087595,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDQ0OTUwNDgzMDFjMjZhNGFhZDRjNmYzMTg1MjU0MTFj",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDVjZWMwYTRhZjZmNTkwNjdkODBlZjYzYjlhNGYyZGUw",
   "tracks": [
+    {
+      "added_at": "2022-07-15 04:06:21",
+      "album": {
+        "name": "Zipcodes",
+        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 177030,
+      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
+    },
+    {
+      "added_at": "2022-07-15 04:06:21",
+      "album": {
+        "name": "Private Valet",
+        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 149074,
+      "name": "Private Valet",
+      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 101040,
+      "name": "This Bitch Matters",
+      "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
+    },
     {
       "added_at": "2022-07-15 04:06:21",
       "album": {
@@ -29,22 +97,6 @@
       "url": "https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI"
     },
     {
-      "added_at": "2022-07-15 04:06:21",
-      "album": {
-        "name": "Zipcodes",
-        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
-    },
-    {
       "added_at": "2022-07-29 04:00:00",
       "album": {
         "name": "In My Pockets",
@@ -59,6 +111,26 @@
       "duration_ms": 159130,
       "name": "In My Pockets",
       "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "48",
+        "url": "https://open.spotify.com/album/1TSUdwvGwAGr93YLi7izZn"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "duration_ms": 159236,
+      "name": "48 (feat. Pink Siifu)",
+      "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -79,22 +151,6 @@
       "duration_ms": 178786,
       "name": "Brand New 911",
       "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
-    },
-    {
-      "added_at": "2022-07-15 04:06:21",
-      "album": {
-        "name": "Private Valet",
-        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 149074,
-      "name": "Private Valet",
-      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
     },
     {
       "added_at": "2022-07-15 04:06:21",
@@ -743,22 +799,6 @@
     {
       "added_at": "2022-06-17 13:38:39",
       "album": {
-        "name": "Gold Mouf (Deluxe)",
-        "url": "https://open.spotify.com/album/5O5tzddmtxljqz3WOwFK00"
-      },
-      "artists": [
-        {
-          "name": "Lute",
-          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
-        }
-      ],
-      "duration_ms": 148695,
-      "name": "Run It Back",
-      "url": "https://open.spotify.com/track/4riI8HuqMYwKHfTlYMp6W8"
-    },
-    {
-      "added_at": "2022-06-17 13:38:39",
-      "album": {
         "name": "A Bar About a Bar",
         "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
       },
@@ -843,22 +883,6 @@
     {
       "added_at": "2022-06-17 13:38:39",
       "album": {
-        "name": "Hollandaise",
-        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Hollandaise",
-      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
-    },
-    {
-      "added_at": "2022-06-17 13:38:39",
-      "album": {
         "name": "Breath Control",
         "url": "https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1"
       },
@@ -911,26 +935,6 @@
       "duration_ms": 180331,
       "name": "Love/Hate",
       "url": "https://open.spotify.com/track/7s535w6NXxctKFuA2nMmjc"
-    },
-    {
-      "added_at": "2022-06-17 13:38:39",
-      "album": {
-        "name": "Cocodrillo Turbo",
-        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Tongpo [Feat. Conway the Machine]",
-      "url": "https://open.spotify.com/track/0onGlO4GD6A9IFbCkHhq6e"
     }
   ],
   "unique_name": "Mind Right",

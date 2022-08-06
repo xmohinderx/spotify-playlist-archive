@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 556629,
       "name": "A Mountain Told Me",
       "url": "https://open.spotify.com/track/3j41oMxuWlmLLDGdIsi8ZF"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 448695,
       "name": "Fragments of Insanity",
       "url": "https://open.spotify.com/track/3wzc6WSnx2HvJLHm5URrU3"
@@ -1449,6 +1449,28 @@
       "duration_ms": 573333,
       "name": "Heaven Eleven",
       "url": "https://open.spotify.com/track/2U3FOnuf7V4D5vcqgrZadj"
+    },
+    {
+      "album": {
+        "name": "Here and Now",
+        "url": "https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jacob Lauing",
+          "url": "https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Here and Now",
+      "url": "https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu"
     },
     {
       "album": {
@@ -2707,7 +2729,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 199104,
       "name": "Scottica",
       "url": "https://open.spotify.com/track/2QuExWpkrLtOKV9fXAtroc"

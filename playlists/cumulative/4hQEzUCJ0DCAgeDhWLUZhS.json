@@ -3112,6 +3112,24 @@
     },
     {
       "album": {
+        "name": "Mansfield 6.0",
+        "url": "https://open.spotify.com/album/4r9gSmwn17jFSZcqcnCyXJ"
+      },
+      "artists": [
+        {
+          "name": "Bad//Dreems",
+          "url": "https://open.spotify.com/artist/54f24706ua34STMhWSzPV7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198046,
+      "name": "Mansfield 6.0",
+      "url": "https://open.spotify.com/track/5lBloZxmRMfkZT8BA7i4CG"
+    },
+    {
+      "album": {
         "name": "Only Revolutions",
         "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
       },

@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-118 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
+119 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [ベイビィ・ポータブル・ロック](https://open.spotify.com/track/7wkGbABPzUfoQqMeuvLtYU) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [30 〜Greatest Self Covers & More!!!〜](https://open.spotify.com/album/4SP9oZxY2ZCGgPGM8dfhIH) | 3:41 | 2022-03-08 |  |
 | [ボカロがライバル☆](https://open.spotify.com/track/2Pt5FS0CjmoXAoomaAMw25) | [Risa Yoshiki](https://open.spotify.com/artist/4T95gnnDhdfRoQnaZLrDF4) | [ペントミノ \(通常盤\)](https://open.spotify.com/album/6WYiPBdA4ABOsv07wKOb56) | 4:14 | 2022-03-08 | 2022-07-29 |
 | [ボカロがライバル☆](https://open.spotify.com/track/2jtqpeoUGEYpuccorSwbMJ) | [Risa Yoshiki](https://open.spotify.com/artist/4T95gnnDhdfRoQnaZLrDF4) | [ボカロがライバル☆](https://open.spotify.com/album/04CT7KfG30ovwHxuokhu40) | 4:14 | 2022-07-12 |  |
+| [マツケンEDM](https://open.spotify.com/track/7IUWKPni1OabRud8VpCotT) | [Ken Matsudaira](https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6) | [マツケンEDM](https://open.spotify.com/album/4v6gJdK7jqwE2AhAoUXjMY) | 4:05 | 2022-08-04 |  |
 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 | 2022-03-08 |  |
 | [モンスターディスコ](https://open.spotify.com/track/2ywX0NwXU9gEbMoK6x2sFn) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [ヒャダイン](https://open.spotify.com/artist/38ViTxLM3iCWNj27wXtYgF) | [モンスターディスコ](https://open.spotify.com/album/2Ui9xGGvuKFnTN0OJFTneK) | 3:15 | 2022-07-12 | 2022-07-29 |
 | [ユーアノッアロン](https://open.spotify.com/track/2ChhFmU1wCP2vTybhespub) | [永野と高城。](https://open.spotify.com/artist/74KFQxfUK4pKaeJvZovg5N) | [れにちゃんWORLD](https://open.spotify.com/album/1FOM4ocBJZgADGPIG55KUm) | 3:39 | 2022-03-08 |  |

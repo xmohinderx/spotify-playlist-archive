@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 4636,
+  "num_followers": 4671,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2MDk2NiwwMDAwMDAwMGNmZjQyOTY2YTc3N2UxZGUzMTJhZTA5MGQ3YjM2M2Yx",
+  "snapshot_id": "MTY1NzI2MDk2NiwwMDAwMDAwMGIxNGVhZjFlYmM0M2MxODM1M2MzMWMxM2RiOTQ0OTQ2",
   "tracks": [
     {
       "added_at": "2022-07-08 06:16:06",
@@ -679,22 +679,18 @@
     {
       "added_at": "2022-07-08 06:16:06",
       "album": {
-        "name": "mojo",
-        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
+        "name": "VELVETMOTH",
+        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
       },
       "artists": [
         {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
         }
       ],
-      "duration_ms": 151880,
-      "name": "LSD (Feat. JUNNY)",
-      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+      "duration_ms": 196250,
+      "name": "CANTSAY",
+      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
     },
     {
       "added_at": "2022-07-08 06:16:06",
@@ -731,18 +727,22 @@
     {
       "added_at": "2022-07-08 06:16:06",
       "album": {
-        "name": "VELVETMOTH",
-        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
+        "name": "mojo",
+        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
       "artists": [
         {
-          "name": "Bryn",
-          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 196250,
-      "name": "CANTSAY",
-      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
+      "duration_ms": 151880,
+      "name": "LSD (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
     },
     {
       "added_at": "2022-07-08 06:16:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIAiOhAAyKX.md) - [plain]
 
 > if bunny is on, you know it's a good perreo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,743 likes - 35 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,308 likes - 35 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

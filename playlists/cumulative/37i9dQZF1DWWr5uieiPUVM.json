@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "\ud83d\ude82  Aqui \u00e9 s\u00f3 o trem caro do trap! Foto: Mc Poze do Rodo",
+  "description": "\ud83d\ude82  Aqui \u00e9 s\u00f3 o trem caro do trap! Foto: Caio Luccas, Tz da Coronel, Dallass, Filipe Ret, Mc Maneirinho, PJ Houdini, Anezzi",
   "name": "Trapperz Brasil",
   "published_playlist_ids": [
     "2bZk5f2KVSoGqtFW20OKam"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 260178,
       "name": "Cerol Finin",
       "url": "https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 139574,
       "name": "Historinha",
       "url": "https://open.spotify.com/track/7byTUdupcQ5dSRd3D9jAQo"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 264057,
       "name": "Na Onda do Gin",
       "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
@@ -3028,6 +3028,32 @@
     },
     {
       "album": {
+        "name": "Tropa do Mais Novo",
+        "url": "https://open.spotify.com/album/1HDwGbuDmbuu8WJG81cCMV"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "Tropa do Mais Novo",
+      "url": "https://open.spotify.com/track/1Afqu53uuGNHKXyCfNIqhW"
+    },
+    {
+      "album": {
         "name": "Tudo do Melhor",
         "url": "https://open.spotify.com/album/0AFvUWJbsl049V5M6De4bk"
       },
@@ -3204,6 +3230,52 @@
     },
     {
       "album": {
+        "name": "Viz\u00e3o de Cria 2",
+        "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306141,
+      "name": "Viz\u00e3o de Cria 2",
+      "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
+    },
+    {
+      "album": {
         "name": "Vlife",
         "url": "https://open.spotify.com/album/47on59OkWHDwxyP2zBjhwd"
       },
@@ -3253,6 +3325,28 @@
       "duration_ms": 160014,
       "name": "Vlife",
       "url": "https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L"
+    },
+    {
+      "album": {
+        "name": "ZIMA",
+        "url": "https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183185,
+      "name": "Vou Falar o Que?",
+      "url": "https://open.spotify.com/track/532c5QACGW10DFZWyNaMKL"
     },
     {
       "album": {

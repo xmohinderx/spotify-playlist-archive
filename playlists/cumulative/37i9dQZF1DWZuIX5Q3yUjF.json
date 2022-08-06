@@ -106,6 +106,28 @@
     },
     {
       "album": {
+        "name": "BACIAMI X 3",
+        "url": "https://open.spotify.com/album/60N7GPtyTUNfWLLhftvfgo"
+      },
+      "artists": [
+        {
+          "name": "Nablito",
+          "url": "https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU"
+        },
+        {
+          "name": "AYSA",
+          "url": "https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "BACIAMI X 3",
+      "url": "https://open.spotify.com/track/0fKIA8OIw7WiJGqXxtlpM1"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ"
       },
@@ -215,6 +237,24 @@
       "duration_ms": 189265,
       "name": "Britney",
       "url": "https://open.spotify.com/track/1sD8E1zVlQRjfUwQsShCvG"
+    },
+    {
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR"
+      },
+      "artists": [
+        {
+          "name": "KIM",
+          "url": "https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90666,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S"
     },
     {
       "album": {
@@ -1078,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "Grazie",
+        "url": "https://open.spotify.com/album/6avdsvWmlitDikFWDECKiT"
+      },
+      "artists": [
+        {
+          "name": "Tatomi",
+          "url": "https://open.spotify.com/artist/0GZSD6FH5YD9xcTLFcqSxv"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223918,
+      "name": "Grazie",
+      "url": "https://open.spotify.com/track/0ZAIqhIbiIxIRCX3YahwK5"
+    },
+    {
+      "album": {
         "name": "Grido (Di Notte)",
         "url": "https://open.spotify.com/album/16aqA0wKV2jEwbeV50ffLw"
       },
@@ -1594,6 +1652,28 @@
     },
     {
       "album": {
+        "name": "Lopsided",
+        "url": "https://open.spotify.com/album/63GCIojAkZYzMOmaEgSksO"
+      },
+      "artists": [
+        {
+          "name": "Erreanderre",
+          "url": "https://open.spotify.com/artist/0P6Qjc8sTum35CofAtFVKw"
+        },
+        {
+          "name": "Madishu",
+          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197248,
+      "name": "Lopsided",
+      "url": "https://open.spotify.com/track/2hfUSLKQk9FNeQoWH4aGgr"
+    },
+    {
+      "album": {
         "name": "MATERIA (TERRA)",
         "url": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302"
       },
@@ -1609,6 +1689,24 @@
       "duration_ms": 244995,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3JNIkNlzpYSVRqRntUVMF0"
+    },
+    {
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/56yCmEHMUqwexcSVetMyQn"
+      },
+      "artists": [
+        {
+          "name": "G-laspada",
+          "url": "https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178434,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/0Ui2KA71Iq5GkXRBFdsRRz"
     },
     {
       "album": {
@@ -1921,6 +2019,32 @@
       "duration_ms": 212769,
       "name": "Odissea / Astronave",
       "url": "https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY"
+    },
+    {
+      "album": {
+        "name": "ORA CHE",
+        "url": "https://open.spotify.com/album/2om36mteBQ9j7xLirdzcjf"
+      },
+      "artists": [
+        {
+          "name": "Calmo",
+          "url": "https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz"
+        },
+        {
+          "name": "Luca Notaro",
+          "url": "https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p"
+        },
+        {
+          "name": "Ugo Crepa",
+          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "ORA CHE",
+      "url": "https://open.spotify.com/track/1xhsbacBkdaTHatjLDfGls"
     },
     {
       "album": {

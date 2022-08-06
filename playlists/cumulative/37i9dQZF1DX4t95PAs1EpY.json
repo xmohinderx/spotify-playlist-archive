@@ -360,6 +360,28 @@
     },
     {
       "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/2B65Sp9UmI1lbXI6Xah9LE"
+      },
+      "artists": [
+        {
+          "name": "im-fi",
+          "url": "https://open.spotify.com/artist/29BIVIqpWY1W4jLq2H0rLe"
+        },
+        {
+          "name": "CHG",
+          "url": "https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76933,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/2UMbqJcD16ZlbvXqBfh4P6"
+    },
+    {
+      "album": {
         "name": "blurred out",
         "url": "https://open.spotify.com/album/77cPsZNnPm0HkcuyRbwJN9"
       },
@@ -3769,6 +3791,24 @@
       "duration_ms": 101333,
       "name": "Sydney, 11PM",
       "url": "https://open.spotify.com/track/2w3PdEwgYWFEU1YOCYyw4x"
+    },
+    {
+      "album": {
+        "name": "Tears of the Forest",
+        "url": "https://open.spotify.com/album/442Pnd7ZHvTp6E49u2n5OZ"
+      },
+      "artists": [
+        {
+          "name": "KioKo",
+          "url": "https://open.spotify.com/artist/1QCUosyjrXG8kXxVpnSRgi"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Tears Of The Forest",
+      "url": "https://open.spotify.com/track/11lgzgiYDe6VJvA0bvKMwy"
     },
     {
       "album": {

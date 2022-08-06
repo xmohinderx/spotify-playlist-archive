@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-159 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
+162 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2022-08-01 |  |
 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 | 2022-08-01 |  |
 | [All Numbers End](https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 1:35 | 2022-08-01 |  |
+| [Another Love](https://open.spotify.com/track/6OfT72cZN67HsBTDbnqsMo) | [Ryan Tenner](https://open.spotify.com/artist/29i15whXYvAclIabh8MwFb) | [Pop Piano Covers](https://open.spotify.com/album/5VsC6hpWCfb3N9GhlPqWIn) | 4:12 | 2022-08-05 |  |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2022-08-01 |  |
 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 | 2022-08-01 |  |
 | [Beyond Imagination](https://open.spotify.com/track/5z40PeXEmVwWes8PQI7oZq) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Beyond Imagination](https://open.spotify.com/album/0se06XbSZrjmsMLnuSFnrt) | 4:31 | 2022-08-01 |  |
@@ -29,6 +30,7 @@
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2022-08-01 |  |
 | [Clearly](https://open.spotify.com/track/55tehuewleUyLqkKuovHkQ) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [The Turning Year](https://open.spotify.com/album/69q5BWCtoQAgoeNxx6kvWB) | 2:29 | 2022-08-01 |  |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2022-08-01 |  |
+| [Come as You Are \(Instrumental Piano\)](https://open.spotify.com/track/3oLNgrUDg40g60n59kksF7) | [Marc Ato](https://open.spotify.com/artist/1kBPD7Me41TQRbDVt866Fy) | [Come as You Are \(Instrumental Piano\)](https://open.spotify.com/album/1sb7tfKYquWZpBT2JPqAhr) | 4:17 | 2022-08-05 |  |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2022-08-01 |  |
 | [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2022-08-01 |  |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-08-01 |  |
@@ -77,6 +79,7 @@
 | [Melts Into Air](https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Melts Into Air](https://open.spotify.com/album/1uRrdwGzAyPUmiS3RRaFDi) | 2:46 | 2022-08-01 |  |
 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 | 2022-08-01 |  |
 | [Minuit](https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC) | [Clémentine Poirier](https://open.spotify.com/artist/0v781ChRVv7d2YR1zDUQOQ) | [Minuit](https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN) | 2:16 | 2022-08-01 |  |
+| [Mmmm Mmmm Mmmm Mmmm](https://open.spotify.com/track/18mZP4bRr7X32gy0YoD4oe) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Mmmm Mmmm Mmmm Mmmm](https://open.spotify.com/album/6UIEYLhTfMIHcKjlisFbZw) | 3:12 | 2022-08-05 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2022-08-01 |  |
 | [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 | 2022-08-01 |  |
 | [Monuments](https://open.spotify.com/track/3UuRldDkQBgFmEkgWG42Ge) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [Monuments](https://open.spotify.com/album/0vq2GgBYof806maqlWvTky) | 2:48 | 2022-08-01 |  |

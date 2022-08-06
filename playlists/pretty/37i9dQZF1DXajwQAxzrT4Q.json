@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 19590,
+  "num_followers": 19624,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMGFlN2E2NDM4N2YyYWE4MWJiMWUwZjRlOTQ5Y2U5MmE2",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMGM3MWNmZTAzZDdmNzkxY2NiOTJmNmY5MWFjN2IwZTNk",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Dancin' On My Own",
-        "url": "https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR"
-      },
-      "artists": [
-        {
-          "name": "Michael Mayo",
-          "url": "https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p"
-        }
-      ],
-      "duration_ms": 99910,
-      "name": "Dancin' On My Own",
-      "url": "https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Jersey Khan",
         "url": "https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 95268,
       "name": "Fuck It up Challenge",
       "url": "https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Dancin' On My Own",
+        "url": "https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR"
+      },
+      "artists": [
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p"
+        }
+      ],
+      "duration_ms": 99910,
+      "name": "Dancin' On My Own",
+      "url": "https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Jimmy Crooks",
-        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
-      },
-      "artists": [
-        {
-          "name": "Tricks",
-          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
-        }
-      ],
-      "duration_ms": 145711,
-      "name": "Jimmy Crooks",
-      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "I Said It's Lilman",
         "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 156577,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Jimmy Crooks",
+        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
+      },
+      "artists": [
+        {
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
+        }
+      ],
+      "duration_ms": 145711,
+      "name": "Jimmy Crooks",
+      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "XENOWRLD",
-        "url": "https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd"
-      },
-      "artists": [
-        {
-          "name": "LilC4",
-          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
-        }
-      ],
-      "duration_ms": 118557,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/39Bldk4gCwPsUQmJTfV3EP"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Bilg",
         "url": "https://open.spotify.com/album/2h03HxIBrxCFOocHnJlW1N"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 164623,
       "name": "Bilg",
       "url": "https://open.spotify.com/track/0teV9KmskEvhm01O37HoUU"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "XENOWRLD",
+        "url": "https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd"
+      },
+      "artists": [
+        {
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
+        }
+      ],
+      "duration_ms": 118557,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/39Bldk4gCwPsUQmJTfV3EP"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1411,6 +1411,22 @@
       "duration_ms": 144000,
       "name": "Crowd Pleaser",
       "url": "https://open.spotify.com/track/0BkkC24F3nWKAS2NyHYsME"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Jersey Vs The World",
+        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
+      },
+      "artists": [
+        {
+          "name": "YK ACE",
+          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
+        }
+      ],
+      "duration_ms": 170015,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1455,22 +1471,6 @@
       "duration_ms": 149747,
       "name": "SLIME PROTOCOL",
       "url": "https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Jersey Vs The World",
-        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
-      },
-      "artists": [
-        {
-          "name": "YK ACE",
-          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
-        }
-      ],
-      "duration_ms": 170015,
-      "name": "Free Me",
-      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/6w0N3GWB9W953LnuJfiHX9"
-      },
-      "artists": [
-        {
-          "name": "DJ Diamond Kuts",
-          "url": "https://open.spotify.com/artist/4jxohej6vGnWYJYA5CNXhV"
-        }
-      ],
-      "duration_ms": 91324,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/0aswI2C8DCUU7xuzKQJdTr"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Beat A Bitch Up Challenge",
         "url": "https://open.spotify.com/album/3Ky1KT0KdbUkpDOSO2QdsA"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 72045,
       "name": "Beat A Bitch Up Challenge",
       "url": "https://open.spotify.com/track/3zl7WoKo2zhYWkbMLHSfXV"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/6w0N3GWB9W953LnuJfiHX9"
+      },
+      "artists": [
+        {
+          "name": "DJ Diamond Kuts",
+          "url": "https://open.spotify.com/artist/4jxohej6vGnWYJYA5CNXhV"
+        }
+      ],
+      "duration_ms": 91324,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/0aswI2C8DCUU7xuzKQJdTr"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1899,18 +1899,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/6EaTdsV2gQWLd8KCa0xlf4"
+        "name": "SHAWTY",
+        "url": "https://open.spotify.com/album/1dochdMLdJsihe9p3WCr3D"
       },
       "artists": [
         {
-          "name": "Rome856",
-          "url": "https://open.spotify.com/artist/4bHzhAqq6fkVqZVcPWKjp1"
+          "name": "Yung Bambi",
+          "url": "https://open.spotify.com/artist/2y8GmZ4zTMAEd5OuenMZdX"
+        },
+        {
+          "name": "Kamiyada+",
+          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+        },
+        {
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
         }
       ],
-      "duration_ms": 121369,
-      "name": "Rock N Roll",
-      "url": "https://open.spotify.com/track/6p3eGwdNH7Psr1mBoHaZVE"
+      "duration_ms": 130500,
+      "name": "SHAWTY (Mvntana Remix)",
+      "url": "https://open.spotify.com/track/41425sATIEwlRMiancX0MS"
     }
   ],
   "unique_name": "Jersey Club Heat",

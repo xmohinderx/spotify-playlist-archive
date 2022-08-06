@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 244933,
       "name": "Anoche So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
@@ -2389,6 +2389,24 @@
       "duration_ms": 250762,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe"
+    },
+    {
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/1g8c8vPNTb4Asmi9dIScYM"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212002,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/3MBYuKoTH5h0PpBu6rbpx8"
     },
     {
       "album": {
@@ -9073,7 +9091,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175218,
       "name": "Lo Que Hoy Quieras",
       "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
@@ -10613,6 +10631,28 @@
       "duration_ms": 251996,
       "name": "Mundo de Cristal",
       "url": "https://open.spotify.com/track/6vV1TLBRd8IeOpQMZNw1ZH"
+    },
+    {
+      "album": {
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "album": {

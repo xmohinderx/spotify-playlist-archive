@@ -4,12 +4,13 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-71 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+72 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [94 Euphoria](https://open.spotify.com/track/5SLK98E79isxDBfRF1rUIJ) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [94 Euphoria](https://open.spotify.com/album/3KNksYI5qVkuofQhBNxmw0) | 3:49 | 2022-05-23 | 2022-07-26 |
-| [AC Press](https://open.spotify.com/track/13rZF5byPbv9PHi8hSpi42) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [AC Press](https://open.spotify.com/album/1TztZFAvUwYjI0EL1OKBL4) | 3:43 | 2022-06-01 |  |
+| [AC Press](https://open.spotify.com/track/13rZF5byPbv9PHi8hSpi42) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [AC Press](https://open.spotify.com/album/1TztZFAvUwYjI0EL1OKBL4) | 3:43 | 2022-06-01 | 2022-08-06 |
+| [Alleviate](https://open.spotify.com/track/0PfJOrtdlLh9FuYTvN1DdN) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Alleviate](https://open.spotify.com/album/4XNbVuMQyvKoIq5FRnTrYD) | 3:31 | 2022-08-05 |  |
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 |  |
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 |  |
 | [Better Than That](https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX) | [Fortuno](https://open.spotify.com/artist/07QJ2IEpirIQN3dlUomBxL) | [Better Than That](https://open.spotify.com/album/503RXKST7zs6k7uoun1NqN) | 2:41 | 2022-04-25 | 2022-07-02 |

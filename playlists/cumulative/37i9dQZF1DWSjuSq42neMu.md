@@ -4,7 +4,7 @@
 
 > todo un mood.
 
-186 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/1YUS9I9MHPt2XFhWNjYXrA)
+187 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/1YUS9I9MHPt2XFhWNjYXrA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bentley](https://open.spotify.com/track/3RGg9W1OyEiRMwu1Qi45dW) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:08 | 2022-03-29 | 2022-04-21 |
 | [BIOL\-101](https://open.spotify.com/track/5FNAn5k6X5zeTg84chzd6c) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [BIOL\-101](https://open.spotify.com/album/2WKMQLwJ93MxJZiUu9iVfD) | 3:45 | 2021-12-14 | 2022-07-29 |
 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 | 2021-12-14 |  |
+| [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 | 2022-07-26 |  |
 | [Buen Rato](https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Fe](https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi) | 3:05 | 2021-12-14 | 2022-06-17 |
 | [BYAK](https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [BYAK](https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC) | 2:28 | 2022-03-29 | 2022-04-20 |
 | [Como Antes](https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Como Antes](https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ) | 2:22 | 2021-12-14 |  |
@@ -102,7 +103,7 @@
 | [Mañanero](https://open.spotify.com/track/21U0Wbps9UZrPrjZDxPtYq) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Mañanero](https://open.spotify.com/album/1DrYNadwai9D9rocbIXu2e) | 3:00 | 2021-12-14 | 2022-07-02 |
 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 | 2021-12-14 | 2022-07-29 |
 | [Matarnos](https://open.spotify.com/track/6oKesgRlWbk6O1idFXV8pp) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Matarnos](https://open.spotify.com/album/0UNenz43sKzc3Q97bT09Vf) | 2:53 | 2022-03-29 | 2022-04-20 |
-| [Me Enamora](https://open.spotify.com/track/1bmm8qIp60aMkozpkPnxNM) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Me Enamora](https://open.spotify.com/album/54eRshVtRKzHwHKGfbRKup) | 3:18 | 2021-12-14 |  |
+| [Me Enamora](https://open.spotify.com/track/1bmm8qIp60aMkozpkPnxNM) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Me Enamora](https://open.spotify.com/album/54eRshVtRKzHwHKGfbRKup) | 3:18 | 2021-12-14 | 2022-08-06 |
 | [Me Extraña](https://open.spotify.com/track/2EYy5e5yDpF8yaxq8rNopo) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:54 | 2021-12-14 |  |
 | [Me Fije](https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Me Fije](https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC) | 3:22 | 2021-12-14 |  |
 | [Me Gustas Natural](https://open.spotify.com/track/4G0Pi1VhIgycBfq5KtP5ZY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Me Gustas Natural](https://open.spotify.com/album/4XSn49wF97s5ERSoQv6dJL) | 2:50 | 2021-12-14 |  |

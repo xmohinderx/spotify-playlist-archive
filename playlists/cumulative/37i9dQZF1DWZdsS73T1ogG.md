@@ -2,9 +2,9 @@
 
 ### [el nuevo urbano](https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG)
 
-> Descubre lo más nuevo del movimiento\. Cover: Sael
+> Descubre lo más nuevo del movimiento\. Cover: paopao
 
-168 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+169 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Diskreto](https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Diskreto](https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd) | 2:57 | 2022-07-01 |  |
 | [Dolía](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 | 2022-07-25 |  |
 | [Duelo](https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Duelo](https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L) | 2:39 | 2022-06-03 | 2022-07-23 |
+| [ea diache](https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:32 | 2022-08-05 |  |
 | [Eclipse Lunar](https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Eclipse Lunar](https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn) | 3:13 | 2022-07-29 |  |
 | [El Contrato](https://open.spotify.com/track/697D7G1ku7EBBfZexW969Y) | [Mathew](https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Moves](https://open.spotify.com/album/1PhxsHwZM7TFcDMup2kCYa) | 3:44 | 2022-03-21 | 2022-04-02 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-04-21 | 2022-07-09 |
@@ -138,7 +139,7 @@
 | [Reaction](https://open.spotify.com/track/755ZYuKkmvxrFm0hSCnff9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Reaction](https://open.spotify.com/album/00NYRqVAD0DNrWIBwNYB48) | 3:06 | 2022-03-21 | 2022-07-02 |
 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-07-25 |  |
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-07-12 | 2022-07-30 |
-| [Se Enamoró de un Reggaetonero](https://open.spotify.com/track/0dlEA0Yhxsd09QWncDvaXF) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Full Discoteka](https://open.spotify.com/album/2BocamJ6jCNKUzUJQ88PRj) | 2:15 | 2022-06-28 |  |
+| [Se Enamoró de un Reggaetonero](https://open.spotify.com/track/0dlEA0Yhxsd09QWncDvaXF) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Full Discoteka](https://open.spotify.com/album/2BocamJ6jCNKUzUJQ88PRj) | 2:15 | 2022-06-28 | 2022-08-06 |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-21 | 2022-07-09 |
 | [Shorty \(with Jamby El Favo\)](https://open.spotify.com/track/0lLQEAzWFs4Lp979xMxMfe) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Shorty \(with Jamby El Favo\)](https://open.spotify.com/album/4aTvD8scpclj5TE2L1QFXG) | 3:21 | 2022-06-03 | 2022-06-29 |
 | [Si Tu Me Busca](https://open.spotify.com/track/7krngwvy6pL3EVgOhDe7zE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Si Tu Me Busca](https://open.spotify.com/album/6SAO7sX4PVuHgFC0nV3FPu) | 4:32 | 2022-04-15 | 2022-05-14 |

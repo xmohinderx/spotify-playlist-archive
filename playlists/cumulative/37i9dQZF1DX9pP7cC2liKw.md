@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-185 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+186 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Pool Party](https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP) | 3:58 | 2022-05-18 |  |
 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 | 2022-06-15 |  |
 | [Pájaro Cenzontle](https://open.spotify.com/track/64nxvGPOjsIeVF99qhcKwn) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/6E3Yb6f93bEEOyAzYwKCIQ) | 3:40 | 2022-01-04 | 2022-06-15 |
+| [Quemonito](https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quemonito](https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb) | 3:40 | 2022-08-05 |  |
 | [Quién Podrá Saberlo \- Novalima Remix](https://open.spotify.com/track/60IwuJJlatAW1JIAFXBJQA) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Quién Podrá Saberlo \(Novalima Remix\)](https://open.spotify.com/album/73jXzGEPuzoYap0ue5VZYA) | 4:16 | 2022-01-04 | 2022-07-29 |
 | [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 | 2022-01-14 | 2022-07-28 |
 | [Rare Happiness](https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Hunch Music](https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV) | 5:51 | 2022-06-15 |  |
@@ -187,7 +188,7 @@
 | [Tzantza](https://open.spotify.com/track/2xixdZ2dxE00bX6A6jV17m) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:50 | 2022-06-15 | 2022-08-04 |
 | [Túnel](https://open.spotify.com/track/4974yRfhueqSPopZgkNnpc) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [De Andén a Andén](https://open.spotify.com/album/5E4yoFUkfybAQnLmiqYOSl) | 5:35 | 2022-01-04 | 2022-05-21 |
 | [Un Canto](https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Un Canto](https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B) | 4:44 | 2022-01-04 | 2022-07-29 |
-| [Urban Birds](https://open.spotify.com/track/1gwZfgadcwtAyeI45vHsyu) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 6:32 | 2022-04-17 |  |
+| [Urban Birds](https://open.spotify.com/track/1gwZfgadcwtAyeI45vHsyu) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 6:32 | 2022-04-17 | 2022-08-06 |
 | [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2022-01-04 | 2022-07-14 |
 | [Voyage](https://open.spotify.com/track/30iCh43omsKboQwN3OEd3Z) | [Tapioca](https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr) | [Voyage](https://open.spotify.com/album/4XJC4gEUO1tIZx2CbIVXbF) | 5:15 | 2022-04-07 | 2022-07-24 |
 | [Xica Xica](https://open.spotify.com/track/1IkN4xIoHRSkk0j5t50S42) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Balance](https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx) | 4:28 | 2022-01-04 |  |

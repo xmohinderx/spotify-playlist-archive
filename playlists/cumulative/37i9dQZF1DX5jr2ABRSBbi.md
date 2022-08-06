@@ -4,7 +4,7 @@
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Markéta Irglová
 
-139 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
+140 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Problems](https://open.spotify.com/track/1KIls6x8qiETtlIycugni0) | [Valerie Mood](https://open.spotify.com/artist/1jG25CmcU9rx0eRDUcM26K) | [SelfSabotage](https://open.spotify.com/album/5CwBDrBH5Q3hBnCcIhiiRK) | 3:25 | 2021-12-07 | 2022-02-02 |
 | [pull the trigger](https://open.spotify.com/track/7KAVS6tR9EXj5nZ53elV20) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:56 | 2022-02-01 | 2022-05-04 |
 | [Půlnoc](https://open.spotify.com/track/4A9L4HX1otUuiE6ZX1eJuu) | [Tereza Balonová](https://open.spotify.com/artist/1kEe7RHajwXs74RkMIbAhq) | [Půlnoc](https://open.spotify.com/album/4khu0PnlvU5K2hN1ZgdOvr) | 3:16 | 2022-04-05 |  |
+| [Restless](https://open.spotify.com/track/6ZXrv1chJHfnFKgGqZtTg9) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP), [Boy Jr.](https://open.spotify.com/artist/7CuIkxF7VfHwKecQzUEGgv) | [Restless](https://open.spotify.com/album/4RoasvIB5pyov16k2jqIdt) | 2:52 | 2022-08-02 |  |
 | [Right Place Wrong Guy](https://open.spotify.com/track/00YbUbfTzwBOnnmvD8rp9p) | [Nykki](https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX) | [Right Place Wrong Guy](https://open.spotify.com/album/4Kun5hAcBGWT4uQsDcn9tT) | 3:16 | 2022-06-30 |  |
 | [Riť](https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y) | 2:59 | 2022-06-30 |  |
 | [Riť](https://open.spotify.com/track/7kwdDoDDM9yon6fA7PqToJ) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/6sTXyVWd5op4bDeWiXhn0K) | 2:59 | 2022-05-31 | 2022-07-29 |

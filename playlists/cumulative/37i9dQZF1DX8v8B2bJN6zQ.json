@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 204193,
       "name": "Fee Fi Fo Fum",
       "url": "https://open.spotify.com/track/4z40VUPWxUtWufaNJ3VPvG"
@@ -1119,6 +1119,32 @@
       "duration_ms": 268346,
       "name": "Matrix Bug",
       "url": "https://open.spotify.com/track/12PL4nFHOV7KxVCfcvSsDM"
+    },
+    {
+      "album": {
+        "name": "Mayas",
+        "url": "https://open.spotify.com/album/6O9KbQWhCCpPPapXiEWIDT"
+      },
+      "artists": [
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        },
+        {
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        },
+        {
+          "name": "DJ Yuuki",
+          "url": "https://open.spotify.com/artist/1L6AI2WBFlbXeG5ZibZSlP"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374645,
+      "name": "Mayas",
+      "url": "https://open.spotify.com/track/7C59TgKNzoPdXdOBjfxJyd"
     },
     {
       "album": {

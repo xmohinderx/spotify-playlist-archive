@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-171 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/5fgwAY73JTriUUqNxbT4r5)
+172 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/5fgwAY73JTriUUqNxbT4r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,8 +160,9 @@
 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 | 2022-05-30 |  |
 | [What the World Needs Now Is Love](https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Close to You](https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA) | 3:10 | 2021-04-07 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2021-04-07 |  |
+| [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 | 2022-05-30 |  |
 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Definitive Soul: Sam & Dave](https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU) | 3:14 | 2021-04-07 | 2022-07-29 |
-| [When Something Is Wrong with My Baby](https://open.spotify.com/track/6nvGeEsHWysTGxy6gnhFP4) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Rhino Hi\-Five: Sam & Dave, Vol\. 2](https://open.spotify.com/album/1Dh18nTSqqjxSCyrzAnIGz) | 3:14 | 2022-05-30 |  |
+| [When Something Is Wrong with My Baby](https://open.spotify.com/track/6nvGeEsHWysTGxy6gnhFP4) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Rhino Hi\-Five: Sam & Dave, Vol\. 2](https://open.spotify.com/album/1Dh18nTSqqjxSCyrzAnIGz) | 3:14 | 2022-05-30 | 2022-08-06 |
 | [Where The Boys Are](https://open.spotify.com/track/1plEmsH26pWSX0WzPchcz1) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [The Collection](https://open.spotify.com/album/5B9weDFlXPPdoxM5HRyreL) | 2:37 | 2022-01-10 | 2022-07-29 |
 | [Where The Boys Are](https://open.spotify.com/track/70UvKFI48DAQ2suS58bu5l) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:37 | 2022-05-30 |  |
 | [Who's Lovin' You](https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 3:55 | 2021-04-07 |  |

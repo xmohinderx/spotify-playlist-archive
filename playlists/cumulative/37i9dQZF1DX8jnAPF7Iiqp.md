@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-150 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/5m1bjYNR2pVMWBRWkLrWBe)
+151 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/5m1bjYNR2pVMWBRWkLrWBe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Devotion \(ft\. Cameron Hayes\)](https://open.spotify.com/track/5TGdeBW6v7BuGYjtiFKwyC) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Devotion \(ft\. Cameron Hayes\)](https://open.spotify.com/album/1GUMG0SjpoP5ulPmB0WJbP) | 3:10 | 2021-12-21 |  |
 | [Division](https://open.spotify.com/track/5nhbj6BKDgXoqnqWw8XHp4) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Division](https://open.spotify.com/album/3CwbKYkIPMaG5Hfjkjtz3H) | 3:47 | 2022-07-05 |  |
 | [Do U?](https://open.spotify.com/track/5fVHnXgkgwChihVXUpAcKs) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Do U?](https://open.spotify.com/album/6chkcjpptWhXEqjhl0ZtAK) | 4:42 | 2021-12-21 | 2022-07-23 |
-| [Dominoes](https://open.spotify.com/track/2XTVCQI1LwJOiwKGA14co2) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Dominoes](https://open.spotify.com/album/6gfAyF4xs5Lx9HP4alQNJq) | 4:12 | 2021-12-21 |  |
+| [Dominoes](https://open.spotify.com/track/2XTVCQI1LwJOiwKGA14co2) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Dominoes](https://open.spotify.com/album/6gfAyF4xs5Lx9HP4alQNJq) | 4:12 | 2021-12-21 | 2022-08-06 |
 | [Don't Need You](https://open.spotify.com/track/474XwXdXLuQRxXxLRVr1YP) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Don't Need You](https://open.spotify.com/album/3ZY0LjEwIHgP9LSSSvf5V9) | 5:19 | 2021-12-21 |  |
 | [Dying Light](https://open.spotify.com/track/5Lsr7AauyHMlMNjQzWb0uH) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Ex Machina](https://open.spotify.com/album/7ojYx4vW64prZ1bZy4r0cB) | 4:41 | 2021-12-21 |  |
 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 | 2021-12-21 |  |
@@ -55,6 +55,7 @@
 | [Futurism](https://open.spotify.com/track/0TzjN3TEKHd5Ewb2OLHpzQ) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Futurism](https://open.spotify.com/album/4TFqV5gUh7qoMhKa2FZBlM) | 5:13 | 2021-12-21 | 2022-06-17 |
 | [Get Serious](https://open.spotify.com/track/7y5TMfJqAvvAKfy6PYB5ma) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Beneath the Surface](https://open.spotify.com/album/05dtnn7yufEGZbfQ8loopK) | 4:13 | 2021-12-21 | 2022-07-29 |
 | [Ghost Notes](https://open.spotify.com/track/6i511YzpgGLgpMfIoAsmJ4) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Ghost Notes](https://open.spotify.com/album/6h53ziQI8USy0s1YpsFCre) | 4:51 | 2021-12-21 | 2022-07-24 |
+| [Glitter](https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Glitter](https://open.spotify.com/album/4xG9AXX6PJpzfVoqb5eqXh) | 2:59 | 2022-07-05 |  |
 | [Gone Sleep](https://open.spotify.com/track/5T7OpBrCobyQSQQpcFF33j) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Gone Sleep](https://open.spotify.com/album/588Obmczl7A6h9SZnPjQ9a) | 3:24 | 2021-12-21 | 2022-07-15 |
 | [Good Life](https://open.spotify.com/track/515OfuSUlr2igB70C83M13) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [Good Life](https://open.spotify.com/album/6vBL5UAlbOy0jFnJk6Dnbc) | 3:07 | 2021-12-21 | 2022-07-20 |
 | [Good to Me](https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Good to Me](https://open.spotify.com/album/46yPP8LYBsQ399RMPl39Ws) | 3:01 | 2021-12-21 |  |

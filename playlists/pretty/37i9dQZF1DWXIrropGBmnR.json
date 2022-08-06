@@ -1,12 +1,12 @@
 {
   "description": "Calm and soothing strings to help you get a good night's rest.",
-  "num_followers": 52048,
+  "num_followers": 52052,
   "original_name": "Strings for Sleeping",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMDA3ODE3NGFmNWE1ZWJjM2VjY2FiMThkYTc3ZmQ4MmFk",
+  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMGYxODE1ZTAxZTczNWUzNTcyMjI3N2RjN2ZjMDEzYjk4",
   "tracks": [
     {
       "added_at": "2022-08-05 00:00:00",
@@ -1275,6 +1275,22 @@
       "duration_ms": 138546,
       "name": "The Waiting Room",
       "url": "https://open.spotify.com/track/4NlKazw9AJdSWSBOPIXWEk"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "nighteveryday",
+        "url": "https://open.spotify.com/album/6PFpxGyzOsrkAcC88eUEHu"
+      },
+      "artists": [
+        {
+          "name": "Ever So So Deep",
+          "url": "https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "nighteveryday",
+      "url": "https://open.spotify.com/track/3D6hyGiGDkOidw2tWTZkAN"
     },
     {
       "added_at": "2022-08-05 00:00:00",

@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-300 songs - 18 hr 28 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+301 songs - 18 hr 33 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Andada Chandada Gombe Naa \(From "Namma Hudugaru"\)](https://open.spotify.com/track/4kipZto8barKZlUTRL0LLi) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Abhimann Roy](https://open.spotify.com/artist/5fyJuumOXQwePtPK9suY88) | [Andada Chandada Gombe Naa \(From "Namma Hudugaru"\)](https://open.spotify.com/album/19jazGVmWF3bbso9R2u6GB) | 3:56 | 2022-07-08 |  |
 | [Angel Angel \(From "Hare Rama Hare Krishna"\)](https://open.spotify.com/track/33TUH8JbkiOwELVLpvrqsq) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Rita](https://open.spotify.com/artist/5IBFFb0fp0qRYH9Set3ISz) | [Angel Angel \(From "Hare Rama Hare Krishna"\)](https://open.spotify.com/album/5vABbOm69COHdLVMoftKft) | 4:27 | 2021-12-21 | 2022-01-04 |
 | [Annayya Annayya](https://open.spotify.com/track/1BVDfqznqgpVQe2S8IOocC) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf) | [Nam Annayya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4uv4boWsopVsf1LQyU9g07) | 4:23 | 2021-12-06 | 2022-02-03 |
+| [Appa Kodadha Kaiya Thuttha \- From "Shavasamskara"](https://open.spotify.com/track/09pBzssHntQ8a32qg8R1uD) | [Anuradha Bhat](https://open.spotify.com/artist/0vbQ1fTz7Ww24mHlhxgMd8), [Supreeth Gandhara](https://open.spotify.com/artist/3I3MfmxdyvqcbtrZpNzD6W) | [Appa Kodadha Kaiya Thuttha \(From "Shavasamskara"\)](https://open.spotify.com/album/6uMyXU0l58jvIXBwfeP9TD) | 4:37 | 2022-08-05 |  |
 | [Ararre Ararre Yeno Salige](https://open.spotify.com/track/6SwDqEAOMBDjvE4BUOj7I2) | [Supriyaa Ram](https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp), [Siddarth Belmannu](https://open.spotify.com/artist/60YUdKepbmyJm0Cmrhqs1g) | [Dear Vikram](https://open.spotify.com/album/3p3KH5LQe5RTSAoVtnOyIl) | 3:47 | 2022-06-27 | 2022-07-16 |
 | [Aregalige Nee \(From "Khasagi Putagalu"\)](https://open.spotify.com/track/3J3XjGUM4ke4IKyvLg63PD) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Raghuram](https://open.spotify.com/artist/7L5VvQ1WinT1TpMqpnfrbv), [Sunidhi Ganesh](https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K) | [Aregalige Nee \(From "Khasagi Putagalu"\)](https://open.spotify.com/album/0Zy8m6RGv9UvKPxXqOuUwD) | 3:00 | 2022-04-27 | 2022-07-19 |
 | [Arere Arere Kanaside Yedure \(From "Bahukrita Vesham"\)](https://open.spotify.com/track/5CPwtPNznf4hByEu54Xncx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Vyshak V Bhargav](https://open.spotify.com/artist/4z5vrxjYgbeE7bdoDstyQk) | [Arere Arere Kanaside Yedure \(From "Bahukrita Vesham"\)](https://open.spotify.com/album/3emm28tdIKUjk4ap9GJAvb) | 3:56 | 2021-12-06 | 2022-03-18 |

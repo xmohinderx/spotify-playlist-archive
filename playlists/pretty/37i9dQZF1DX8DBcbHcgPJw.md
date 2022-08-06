@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: TINI TINI TINI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,901 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,037 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 72 | [Lloviendo Estrellas](https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 2:15 |
 | 73 | [Vamo A Tomar Una](https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Vamo A Tomar Una](https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0) | 2:09 |
 | 74 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 |
-| 75 | [Corazón de Cemento](https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Corazón de Cemento](https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY) | 4:00 |
-| 76 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
-| 77 | [Si Me Llamas](https://open.spotify.com/track/3966kX7ysRx4oKHShvmSYR) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Si Me Llamas](https://open.spotify.com/album/6zQNch9hnRub7vECxKXiye) | 3:28 |
+| 75 | [Si Me Llamas](https://open.spotify.com/track/3966kX7ysRx4oKHShvmSYR) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Si Me Llamas](https://open.spotify.com/album/6zQNch9hnRub7vECxKXiye) | 3:28 |
+| 76 | [Corazón de Cemento](https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Corazón de Cemento](https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY) | 4:00 |
+| 77 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
 | 78 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 |
 | 79 | [El Equivocado](https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 2:44 |
 | 80 | [Que Lloro](https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp) | [Zona Cumbia](https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ) | [Que Lloro](https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq) | 3:20 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 93 | [Déjate Querer](https://open.spotify.com/track/5MBBsIHpiYiqmMbp7OQJcq) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Déjate Querer](https://open.spotify.com/album/4wJBjofsAF8HV04FfwtPyK) | 3:29 |
 | 94 | [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 |
 | 95 | [Una Cumbia](https://open.spotify.com/track/5yQMJ4KDVaTlTQ7lVq14aO) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Una Cumbia](https://open.spotify.com/album/0x5gIzkxBkX890iLnH2oKM) | 2:03 |
-| 96 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 |
-| 97 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
-| 98 | [La Foto](https://open.spotify.com/track/2uRo9meMZUiellRCmE4osu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Chiara Scanzerra](https://open.spotify.com/artist/3ycdNHDlAbsOcgoVUTN3ec) | [La Foto](https://open.spotify.com/album/0AnhGG26unK4mTzFXYCr7k) | 2:08 |
-| 99 | [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 |
-| 100 | [Cerca de Ti](https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Farovi](https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Cerca de Ti](https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA) | 2:25 |
+| 96 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
+| 97 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 |
+| 98 | [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 |
+| 99 | [La Foto](https://open.spotify.com/track/2uRo9meMZUiellRCmE4osu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Chiara Scanzerra](https://open.spotify.com/artist/3ycdNHDlAbsOcgoVUTN3ec) | [La Foto](https://open.spotify.com/album/0AnhGG26unK4mTzFXYCr7k) | 2:08 |
+| 100 | [El Trato \- Remix](https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato \(Remix\)](https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv) | 2:23 |
 
-Snapshot ID: `MTY1OTEzMzUyOSwwMDAwMDAwMDc4YjJhMjEzZDVjZmE4OWFmMjUxYzJhZjEyOWQ3MGIw`
+Snapshot ID: `MTY1OTEzMzUyOSwwMDAwMDAwMDIzNGQ4ZjY0NzRkYTIxNDQ4YWU3ZTJlZDRjNmY5YTQ5`

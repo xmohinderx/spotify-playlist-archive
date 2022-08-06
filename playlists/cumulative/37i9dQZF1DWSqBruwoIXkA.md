@@ -4,7 +4,7 @@
 
 > Somehow, heartbreak feels good in a place like this\. Cover: Lauren Spencer Smith
 
-303 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
+304 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-17 |  |
 | [Her](https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [Sad Bird](https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT) | 3:00 | 2022-05-13 | 2022-07-18 |
 | [Here's Your Perfect](https://open.spotify.com/track/7ranmtPVs7Ckg2WLHO2L0m) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:38 | 2021-12-17 | 2022-07-29 |
+| [Hey Ari](https://open.spotify.com/track/3XA0msNCCQysLnspbnbgw3) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:48 | 2022-08-05 |  |
 | [History](https://open.spotify.com/track/5mWv4ybQXGJ2YmYhOsqImT) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [History](https://open.spotify.com/album/3VGf64WCcsgeQwLJPxl3om) | 2:19 | 2022-05-06 | 2022-05-28 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-01-07 | 2022-04-20 |
 | [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2021-12-17 |  |
@@ -278,7 +279,7 @@
 | [Twenty\-Two](https://open.spotify.com/track/42Jl9YIutlOqAAAAOWGetE) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Twenty\-Two](https://open.spotify.com/album/6XwUfDJzqfYgxo6PSAFUHh) | 3:10 | 2022-05-27 | 2022-06-17 |
 | [Two Week Notice](https://open.spotify.com/track/4Dv0LIwnRPMPCgKJEwEG3c) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Two Week Notice](https://open.spotify.com/album/0hefDitXRWRRoVQ8G9NyzV) | 3:58 | 2021-12-17 | 2022-07-29 |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 | 2022-04-21 |
-| [unbreak](https://open.spotify.com/track/64QMCHiZCgKIq29dHhMScU) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [unbreak](https://open.spotify.com/album/3M1b6iZubPTH0Sj2QMF3qj) | 3:18 | 2021-12-24 |  |
+| [unbreak](https://open.spotify.com/track/64QMCHiZCgKIq29dHhMScU) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [unbreak](https://open.spotify.com/album/3M1b6iZubPTH0Sj2QMF3qj) | 3:18 | 2021-12-24 | 2022-08-06 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-12-17 |  |
 | [uptome](https://open.spotify.com/track/40u74BxSHoLiMFJWjlRpXJ) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Róisin Marie](https://open.spotify.com/artist/0PBwPiIoXnUH4lYEolZkMJ) | [uptome](https://open.spotify.com/album/1opuP5al8bspGA9SpD8Cpu) | 3:58 | 2022-03-14 | 2022-04-16 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-12-17 |  |

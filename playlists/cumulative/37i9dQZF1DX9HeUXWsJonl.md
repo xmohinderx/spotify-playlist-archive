@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-75 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+76 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Lamma](https://open.spotify.com/track/76dTTUyLKgEuKRuImvjlQj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Lamma](https://open.spotify.com/album/2qtvzn4F3p3I7tQcq8xtNF) | 3:25 | 2021-12-30 | 2022-07-12 |
 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 | 2021-12-10 |  |
 | [Ma Nebrach](https://open.spotify.com/track/5KjZ8cJusT3Y1NKbT0QtMA) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [G.G.A.](https://open.spotify.com/artist/7pvvxlzqdqSuBFOq5urhx5) | [Ma Nebrach](https://open.spotify.com/album/5PPzwGXpRP7UPCRLRW7Mb3) | 3:28 | 2021-12-10 | 2022-01-21 |
-| [Ma Nssit](https://open.spotify.com/track/6e0HpF1nCtuek085Jo6R6P) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Ma Nssit](https://open.spotify.com/album/72Cl1FzJTk1oWE3Nt5M6dk) | 3:46 | 2022-06-29 |  |
+| [Ma Nssit](https://open.spotify.com/track/1TV0wz0iAOiPMETEK8ywhl) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Notalgie](https://open.spotify.com/album/6OqhouMSH01qp4CNl1VXYQ) | 3:46 | 2022-07-11 |  |
+| [Ma Nssit](https://open.spotify.com/track/6e0HpF1nCtuek085Jo6R6P) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Ma Nssit](https://open.spotify.com/album/72Cl1FzJTk1oWE3Nt5M6dk) | 3:46 | 2022-06-29 | 2022-08-06 |
 | [Ma Saab](https://open.spotify.com/track/2lvt3ournLiAlPcwkggOVl) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ma Saab](https://open.spotify.com/album/0B6maLCCMJNGbZ83z5hpEa) | 3:35 | 2021-12-10 |  |
 | [Ma3lich](https://open.spotify.com/track/7rmqhAZGOeVNPW8gA1vU1T) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lich](https://open.spotify.com/album/5Sh5EZ5VJoJufLgXZgxfRa) | 4:09 | 2021-12-10 | 2022-07-12 |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |

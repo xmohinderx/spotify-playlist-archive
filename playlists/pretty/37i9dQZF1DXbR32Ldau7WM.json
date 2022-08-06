@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u30af\u30ec\u30a4\u30b8\u30fc\u30b1\u30f3\u30d0\u30f3\u30c9",
-  "num_followers": 237501,
+  "num_followers": 237505,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU3MzAxNSwwMDAwMDAwMDM3ZDhmZWQ1NGZkMzRjNTMxYjI4YzkwYmM4MmM0YzYz",
+  "snapshot_id": "MTY1OTU3MzAxNSwwMDAwMDAwMGUyMDE5MGIxYzFlNTYyZjNlZGFjNjY3Njg1NGFjNGNi",
   "tracks": [
     {
       "added_at": "2022-08-04 00:30:15",
@@ -243,22 +243,18 @@
     {
       "added_at": "2022-08-04 00:30:15",
       "album": {
-        "name": "\u611b\u5f4c\u3005",
-        "url": "https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv"
+        "name": "Bloody Power Fame",
+        "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
       },
       "artists": [
         {
-          "name": "MONGOL800",
-          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
-        },
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 308809,
-      "name": "\u611b\u5f4c\u3005",
-      "url": "https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ"
+      "duration_ms": 238498,
+      "name": "Bloody Power Fame",
+      "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
     },
     {
       "added_at": "2022-08-04 00:30:15",
@@ -279,18 +275,22 @@
     {
       "added_at": "2022-08-04 00:30:15",
       "album": {
-        "name": "Bloody Power Fame",
-        "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
+        "name": "\u611b\u5f4c\u3005",
+        "url": "https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+        },
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 238498,
-      "name": "Bloody Power Fame",
-      "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
+      "duration_ms": 308809,
+      "name": "\u611b\u5f4c\u3005",
+      "url": "https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ"
     },
     {
       "added_at": "2022-08-04 00:30:15",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-08-04 00:30:15",
       "album": {
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+      },
+      "artists": [
+        {
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2022-08-04 00:30:15",
+      "album": {
         "name": "\u661f\u8def (\u307f\u3061)",
         "url": "https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx"
       },
@@ -831,26 +847,6 @@
       "duration_ms": 216760,
       "name": "\u661f\u8def (\u307f\u3061)",
       "url": "https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068"
-    },
-    {
-      "added_at": "2022-08-04 00:30:15",
-      "album": {
-        "name": "Scratch",
-        "url": "https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC"
-      },
-      "artists": [
-        {
-          "name": "TK from Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
-        },
-        {
-          "name": "Koshi Inaba",
-          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
-        }
-      ],
-      "duration_ms": 265420,
-      "name": "Scratch",
-      "url": "https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8"
     }
   ],
   "unique_name": "Big in Japan",

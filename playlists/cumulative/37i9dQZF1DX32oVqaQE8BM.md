@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-362 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+363 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Tranquility](https://open.spotify.com/track/5Jp5ueVGu6zxsHJIkS9hXJ) | [Jam Patong](https://open.spotify.com/artist/1CGV3iDGRAODkPgDGt7Vx4) | [Tranquility](https://open.spotify.com/album/15Rl7noA46kokReSTrs2uU) | 1:57 | 2022-04-15 |  |
 | [Trickling Sensation](https://open.spotify.com/track/23tXQ0uRXmtN5bfDFStTiv) | [Mushhi](https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk) | [Trickling Sensation](https://open.spotify.com/album/1ozf13oslOGNXKGByvlk48) | 2:24 | 2021-11-10 |  |
 | [Tricky Me](https://open.spotify.com/track/0KDLtrb7ElIpuJCPYXiFV6) | [Vibe Vault](https://open.spotify.com/artist/6Cy3QlvDb9R6xrFAlb9Kyj) | [Tricky Me](https://open.spotify.com/album/1yKb5WOx6NypxBwZY9JT8Q) | 2:24 | 2021-11-10 | 2022-07-01 |
+| [Tropical](https://open.spotify.com/track/2hSUN6d9ol5CY1thW0FRMe) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Tropical](https://open.spotify.com/album/0NuHwK3Ccryt0IzizdTbCa) | 2:00 | 2022-08-05 |  |
 | [Turning Point](https://open.spotify.com/track/55Pv2A1kvkkC1bm1iPvK1j) | [Placid Lake](https://open.spotify.com/artist/737kieiSWnYWX7ItdEw76Y) | [Turning Point](https://open.spotify.com/album/11d1hmnrZGXQHM8LSsHXMr) | 2:48 | 2021-11-10 | 2022-07-08 |
 | [Turquoise](https://open.spotify.com/track/6AqS5e8ZVKNSyRpG2BlzXt) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Turquoise](https://open.spotify.com/album/31wcK162UmZWTO64hj9DV2) | 2:36 | 2022-04-15 | 2022-07-08 |
 | [Twigs](https://open.spotify.com/track/4mXIW02IV45ryBCq3HKDnU) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Twigs](https://open.spotify.com/album/50pBVjlXEMrAoNQcjgq6qP) | 2:24 | 2021-11-10 |  |

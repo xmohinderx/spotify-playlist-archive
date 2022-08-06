@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: LATENIGHTJIGGY
 
-125 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
+126 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Pegao](https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Pegao](https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO) | 2:44 | 2022-03-21 | 2022-06-01 |
 | [Perderme](https://open.spotify.com/track/5gLoTFuCSYGuheRnnYNT90) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [Perderme](https://open.spotify.com/album/52hNIVYQtA6228toIURt3w) | 2:55 | 2022-03-21 | 2022-07-29 |
 | [Perderme](https://open.spotify.com/track/6lMW8lLquI5brwfYIVymn8) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [No Pueden Contra Mi](https://open.spotify.com/album/2X7Q5CvyfWbYdGygU1kVZ5) | 2:55 | 2022-07-26 |  |
+| [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 | 2022-08-05 |  |
 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 | 2022-05-09 |  |
 | [Por Ti](https://open.spotify.com/track/3ZuFInBcAYRuRzoresTxCW) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Por Ti](https://open.spotify.com/album/5BcsMa1EAEa2FOEHaMyRf2) | 3:03 | 2022-03-21 | 2022-05-21 |
 | [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-03-21 |  |

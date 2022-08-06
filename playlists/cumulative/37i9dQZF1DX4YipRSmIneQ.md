@@ -4,7 +4,7 @@
 
 > it's a cruel summer ;\)
 
-172 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
+175 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100 Boyfriends](https://open.spotify.com/track/4bIYlBqq2HGHTvLqV9E1f8) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [100 Boyfriends](https://open.spotify.com/album/2AkGZOaHrukP5ei60z8Lqi) | 1:56 | 2022-03-16 | 2022-07-22 |
 | [A.D.I.D.A.S.](https://open.spotify.com/track/6GoS3EXfh4bEtiYq63WU8B) | [Kardano](https://open.spotify.com/artist/5k2flV5csY4gBKGEH8Tfzw), [Melleefresh](https://open.spotify.com/artist/7CxdGFcZV0dgrz4D35aG6o) | [A.D.I.D.A.S.](https://open.spotify.com/album/4PBzUywiNKZrZyzC6YNsNG) | 3:25 | 2022-07-14 | 2022-07-22 |
 | [Adoption](https://open.spotify.com/track/6w9mjUePOy5xocv4walXkX) | [Joey LaBeija](https://open.spotify.com/artist/4u53d3J7G8vqKQYOPotIUJ) | [Adoption](https://open.spotify.com/album/0ZZ0KfdcW35JEmQ4EZUtuR) | 3:14 | 2022-03-16 | 2022-06-25 |
+| [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-08-05 |  |
 | [All Around the World](https://open.spotify.com/track/4l2EVOO4Q7cdxJkJjulu17) | [MISS LUXURY](https://open.spotify.com/artist/0riCbM9Sd6KAQeqhL5rgF2) | [The Bimbo Diaries](https://open.spotify.com/album/0VYNc63d9sBW3kjPnrpqvB) | 2:28 | 2022-06-24 | 2022-07-22 |
 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 | 2022-07-14 |  |
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2022-03-16 | 2022-06-11 |
@@ -45,6 +46,7 @@
 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2022-06-24 | 2022-07-22 |
 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 | 2022-07-14 |  |
 | [Come Check This](https://open.spotify.com/track/3ImnbJHoSy5uUhC0ydBVI9) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Come Check This](https://open.spotify.com/album/6YnEvQjRcWyAAxm7dXNEfs) | 3:11 | 2022-04-11 |  |
+| [Company \- Space Jump Remix](https://open.spotify.com/track/6otnvmboFUhK7aEqtiFa7R) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Space Jump](https://open.spotify.com/artist/5x4PRwuILsUfpYUa84NwTa) | [Company \(Space Jump Remix\)](https://open.spotify.com/album/0mfChmZ7wTBLl9LF2vRXv7) | 5:38 | 2022-08-05 |  |
 | [CRAZY EXPENSIVE](https://open.spotify.com/track/3k65ubsRA5k39oEoj0AhUr) | [Basside](https://open.spotify.com/artist/1Oc8whczB0ya9jgVzx6djF), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [FUCK IT UP](https://open.spotify.com/album/154euZcofIKCcwuRKdouxM) | 3:02 | 2022-03-16 | 2022-06-25 |
 | [Cruel Summer](https://open.spotify.com/track/2J6QxPB7kFgwQbLE2Ip9Ql) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Double Penetration](https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1) | 2:50 | 2022-03-16 | 2022-07-22 |
 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 | 2022-03-16 |  |
@@ -175,6 +177,7 @@
 | [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2022-03-16 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 | 2022-06-24 |  |
 | [WAY2](https://open.spotify.com/track/1k5UHWNfNn2SKlUamQkfFr) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [WAY2](https://open.spotify.com/album/278BInjt42Mw6946myitgd) | 3:21 | 2022-03-16 | 2022-06-18 |
+| [We Back](https://open.spotify.com/track/2iBhkMErE3uUN0h8PEZdB1) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270), [Rileasa Slaves](https://open.spotify.com/artist/6hmC2zCfacf0G0u7jMkBlB) | [We Back](https://open.spotify.com/album/2oFRsgPtTNtWwN4DG0AC2n) | 2:41 | 2022-08-05 |  |
 | [Wet n Wild](https://open.spotify.com/track/2iA8Fx5GsMSeclTgWkQ5QR) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:14 | 2022-05-15 | 2022-06-17 |
 | [What the Girlies Lack](https://open.spotify.com/track/16CYKwsnfK1KVL4Z1CghJW) | [Nattalie Blake](https://open.spotify.com/artist/2QJSx4tM6efojkBDxog9FB) | [What the Girlies Lack](https://open.spotify.com/album/3MbNxkKz4xl0uPOWAbkjj1) | 3:29 | 2022-03-16 | 2022-06-23 |
 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 | 2022-03-16 |  |

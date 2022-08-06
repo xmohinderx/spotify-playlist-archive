@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2010s.",
-  "num_followers": 715363,
+  "num_followers": 715904,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzQwNDAwMCwwMDAwMDAwMDM5NDBlMGY0NGE0NDUyMjQ1MDdmNjRlMzc3YTcyNzNi",
+  "snapshot_id": "MTY1NzQwNDAwMCwwMDAwMDAwMGQ4MDJlMzIwYzYzMzBhNDk5OGQ0NGQ0ZWZhZjliZWI4",
   "tracks": [
     {
       "added_at": "2022-07-09 22:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Wiped Out!",
-        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Daddy Issues",
-      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Wiped Out!",
+        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1847,30 +1847,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "The Weekend (Funk Wav Remix)",
-        "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Funk Wav",
-          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "The Weekend - Funk Wav Remix",
-      "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]",
         "url": "https://open.spotify.com/album/3U1X1wd3lX7EteWYhS2hpT"
       },
@@ -1891,6 +1867,30 @@
       "duration_ms": 202804,
       "name": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",
       "url": "https://open.spotify.com/track/0OI7AFifLSoGzpb8bdBLLV"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "The Weekend (Funk Wav Remix)",
+        "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "The Weekend - Funk Wav Remix",
+      "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 295502,
       "name": "Hello",
       "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2843,22 +2843,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "What a Time To Be Alive",
-        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 174982,
-      "name": "Just You and I",
-      "url": "https://open.spotify.com/track/03x2rVJRFUrvwlfxoHd9Mo"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
       },
@@ -2871,6 +2855,22 @@
       "duration_ms": 212787,
       "name": "I Want You Around",
       "url": "https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "What a Time To Be Alive",
+        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 174982,
+      "name": "Just You and I",
+      "url": "https://open.spotify.com/track/03x2rVJRFUrvwlfxoHd9Mo"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "RIP Indo Hisashi",
         "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
@@ -3267,6 +3251,22 @@
       "duration_ms": 195501,
       "name": "Narcissist (feat. The 1975)",
       "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3415,22 +3415,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -3443,6 +3427,22 @@
       "duration_ms": 221386,
       "name": "Say Love",
       "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3519,22 +3519,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Your Shirt",
-        "url": "https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Your Shirt",
-      "url": "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Favourite Ex",
         "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
       },
@@ -3547,6 +3531,22 @@
       "duration_ms": 201694,
       "name": "Favourite Ex",
       "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Your Shirt",
+        "url": "https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Your Shirt",
+      "url": "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3587,22 +3587,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 230416,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/0ygOBx60exSPPvnI4sS28r"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "portraits",
         "url": "https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT"
       },
@@ -3615,6 +3599,22 @@
       "duration_ms": 170363,
       "name": "shut up",
       "url": "https://open.spotify.com/track/65mPCrY32YMQlBnmWVrKNa"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 230416,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0ygOBx60exSPPvnI4sS28r"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3967,6 +3967,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "Make My Bed",
+        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -3983,22 +3999,6 @@
       "duration_ms": 219066,
       "name": "please",
       "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "Make My Bed",
-        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -4151,22 +4151,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "LA On A Saturday Night",
-        "url": "https://open.spotify.com/album/1f2rFcEFmcze28kd4deeS4"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 195074,
-      "name": "LA On A Saturday Night",
-      "url": "https://open.spotify.com/track/0dbp9YwlGEzXmxavRMgZ4T"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -4179,6 +4163,22 @@
       "duration_ms": 224740,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "LA On A Saturday Night",
+        "url": "https://open.spotify.com/album/1f2rFcEFmcze28kd4deeS4"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 195074,
+      "name": "LA On A Saturday Night",
+      "url": "https://open.spotify.com/track/0dbp9YwlGEzXmxavRMgZ4T"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -4255,22 +4255,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Higher Than Here",
-        "url": "https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 256040,
-      "name": "Too Late For Lullabies",
-      "url": "https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Last Year Was Complicated",
         "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
       },
@@ -4283,6 +4267,22 @@
       "duration_ms": 199520,
       "name": "Chainsaw",
       "url": "https://open.spotify.com/track/5UsW4W8VgHrRLDzXQ9XSpt"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Higher Than Here",
+        "url": "https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Too Late For Lullabies",
+      "url": "https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq"
     }
   ],
   "unique_name": "Soft 10s",

@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marion Raw.",
-  "num_followers": 30021,
+  "num_followers": 30026,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkxMTMzNiwwMDAwMDAwMDkyNmVhMGExYzA1OWQzYWIzNjc2MDcwZDM1NGMxMjdi",
+  "snapshot_id": "MTY1NzkxMTMzNiwwMDAwMDAwMDE4Y2RiZGZmNTcxZDM3NzQ2YzRjOTMzZWE5YWUxODU4",
   "tracks": [
     {
       "added_at": "2022-07-15 18:55:36",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
+        "name": "Rolotas Veraniegas Vol. 4",
+        "url": "https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
         "name": "Arriba Es Abajo",
         "url": "https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 247349,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
-        "name": "Ruido Rosa",
-        "url": "https://open.spotify.com/album/411pxBTJ807CkrGZr2o3N0"
-      },
-      "artists": [
-        {
-          "name": "Ruido Rosa",
-          "url": "https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE"
-        }
-      ],
-      "duration_ms": 185851,
-      "name": "Miedo a Caer",
-      "url": "https://open.spotify.com/track/56flcgaM3MdZS8jnzlabA5"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -527,6 +527,22 @@
       "duration_ms": 224159,
       "name": "Por Tu Bien",
       "url": "https://open.spotify.com/track/2ZYlH2nDsECjJPw51fBHlj"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Ruido Rosa",
+        "url": "https://open.spotify.com/album/411pxBTJ807CkrGZr2o3N0"
+      },
+      "artists": [
+        {
+          "name": "Ruido Rosa",
+          "url": "https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE"
+        }
+      ],
+      "duration_ms": 185851,
+      "name": "Miedo a Caer",
+      "url": "https://open.spotify.com/track/56flcgaM3MdZS8jnzlabA5"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -579,18 +595,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Rolotas Veraniegas Vol. 4",
-        "url": "https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf"
+        "name": "Una Pel\u00edcula",
+        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
       },
       "artists": [
         {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
         }
       ],
-      "duration_ms": 227066,
-      "name": "No Huyas De Mi",
-      "url": "https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx"
+      "duration_ms": 320167,
+      "name": "Una Pel\u00edcula",
+      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -607,22 +623,6 @@
       "duration_ms": 254092,
       "name": "Excursiones",
       "url": "https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
-        "name": "Una Pel\u00edcula",
-        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 320167,
-      "name": "Una Pel\u00edcula",
-      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
-      },
-      "artists": [
-        {
-          "name": "Maria Gabriela Epumer",
-          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
-        }
-      ],
-      "duration_ms": 291280,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Lucy Patan\u00e9",
         "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 169398,
       "name": "Clav\u00edcula",
       "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
+      },
+      "artists": [
+        {
+          "name": "Maria Gabriela Epumer",
+          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
+        }
+      ],
+      "duration_ms": 291280,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Libido",
-        "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Tyrana",
-          "url": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
-        }
-      ],
-      "duration_ms": 175114,
-      "name": "Libido",
-      "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Wed 21",
         "url": "https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 264746,
       "name": "Eras",
       "url": "https://open.spotify.com/track/037RKV3MIa0h2qHDZUR79x"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Tyrana",
+          "url": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
+        }
+      ],
+      "duration_ms": 175114,
+      "name": "Libido",
+      "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Mujer Contra Mujer",
-        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+        "name": "On\u00edrica",
+        "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
       },
       "artists": [
         {
-          "name": "Sandra Y Celeste",
-          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+          "name": "Eva Ryjlen",
+          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
         }
       ],
-      "duration_ms": 229373,
-      "name": "Mujer Contra Mujer",
-      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+      "duration_ms": 223205,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "On\u00edrica",
-        "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
+        "name": "Mujer Contra Mujer",
+        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
       },
       "artists": [
         {
-          "name": "Eva Ryjlen",
-          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
+          "name": "Sandra Y Celeste",
+          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
         }
       ],
-      "duration_ms": 223205,
-      "name": "Shangri-La",
-      "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
+      "duration_ms": 229373,
+      "name": "Mujer Contra Mujer",
+      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
+        "name": "Volar despierto",
+        "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
+      },
+      "artists": [
+        {
+          "name": "Denise Romano",
+          "url": "https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx"
+        }
+      ],
+      "duration_ms": 246357,
+      "name": "Volar despierto",
+      "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
         "name": "Arder",
         "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 218431,
       "name": "Si Me Canso de Callar",
       "url": "https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Acorralar a la Bestia",
-        "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
       "artists": [
         {
-          "name": "Actitud Mar\u00eda Marta",
-          "url": "https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea"
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 331676,
-      "name": "Confusion",
-      "url": "https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj"
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Volar despierto",
-        "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
+        "name": "Acorralar a la Bestia",
+        "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
       },
       "artists": [
         {
-          "name": "Denise Romano",
-          "url": "https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx"
+          "name": "Actitud Mar\u00eda Marta",
+          "url": "https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea"
         }
       ],
-      "duration_ms": 246357,
-      "name": "Volar despierto",
-      "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
+      "duration_ms": 331676,
+      "name": "Confusion",
+      "url": "https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Il Mostro",
-        "url": "https://open.spotify.com/album/7GkXhwNTIWYx2T4A6xaT2j"
-      },
-      "artists": [
-        {
-          "name": "Sol Marianela",
-          "url": "https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD"
-        }
-      ],
-      "duration_ms": 180488,
-      "name": "El Final - Bonus Track",
-      "url": "https://open.spotify.com/track/0rF9dIFqhZzizQWRfJNgsC"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Piel Fina",
         "url": "https://open.spotify.com/album/4W3lgXzDMNcHBi5ZS4QxYY"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Y Lo Dejamos Venir",
-        "url": "https://open.spotify.com/album/3HSsECEEN0ufcFLw30nCap"
+        "name": "Il Mostro",
+        "url": "https://open.spotify.com/album/7GkXhwNTIWYx2T4A6xaT2j"
       },
       "artists": [
         {
-          "name": "Andrea \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n"
+          "name": "Sol Marianela",
+          "url": "https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD"
         }
       ],
-      "duration_ms": 228693,
-      "name": "Vamos Viendo",
-      "url": "https://open.spotify.com/track/6BLNsWM0GsKNBYltVEIe0X"
+      "duration_ms": 180488,
+      "name": "El Final - Bonus Track",
+      "url": "https://open.spotify.com/track/0rF9dIFqhZzizQWRfJNgsC"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1619,6 +1603,22 @@
       "duration_ms": 243722,
       "name": "Proclama",
       "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Y Lo Dejamos Venir",
+        "url": "https://open.spotify.com/album/3HSsECEEN0ufcFLw30nCap"
+      },
+      "artists": [
+        {
+          "name": "Andrea \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Vamos Viendo",
+      "url": "https://open.spotify.com/track/6BLNsWM0GsKNBYltVEIe0X"
     }
   ],
   "unique_name": "Rockeras",

@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-101 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
+103 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/0J4ltLwYQP6kyTy8JvmH9K) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Farrah Galbi Aljadeed \(Habibi Funk 009\)](https://open.spotify.com/album/3yPPozyWOkJcry3Ms86kEi) | 5:01 | 2021-12-09 | 2022-07-29 |
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/26vTeYgVVVqNwZLfOicw9p) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 5:01 | 2022-07-28 |  |
 | [Fawda \| فوضي](https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Dj Reo](https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl) | [Fawda \| فوضي](https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr) | 4:15 | 2022-07-29 |  |
+| [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 | 2022-08-04 |  |
 | [Gana El Baby](https://open.spotify.com/track/1skMZgzGSwvim3fqlL2bAW) | [Kamal Tarbas](https://open.spotify.com/artist/7k2jLu8f7ZTFNFfSikL3hK) | [Gana El Baby](https://open.spotify.com/album/2Q8ccrpPej3euPH2DAcKTc) | 7:10 | 2022-07-29 | 2022-08-02 |
 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 | 2022-07-29 |  |
 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 | 2021-12-09 |  |
@@ -97,16 +98,17 @@
 | [Taban Ahwak](https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 6:31 | 2021-12-09 |  |
 | [That's Love](https://open.spotify.com/track/5tI34BaM6pEPl2l0fm4jga) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [The Good Fight](https://open.spotify.com/album/2Il6nG7cY7C7mRax2KqPtL) | 4:05 | 2022-07-28 | 2022-07-30 |
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2021-12-09 |  |
-| [Waraga](https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [O'd the EP](https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I) | 5:13 | 2021-12-09 |  |
+| [Waraga](https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [O'd the EP](https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I) | 5:13 | 2021-12-09 | 2022-08-06 |
 | [Warm Pants](https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Warm Pants](https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN) | 5:14 | 2021-12-09 |  |
 | [Ya Dunya](https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 7:11 | 2021-12-09 | 2022-07-29 |
 | [Ya Sudan \- Alive At Spacebomb Studios](https://open.spotify.com/track/1YpnoEzbd883QqxoV7BkcE) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Ya Sudan \(Alive At Spacebomb Studios\)](https://open.spotify.com/album/2Dp2bjaqbtGWdhV2v2kXeU) | 3:09 | 2021-12-09 | 2022-07-23 |
 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 | 2021-12-09 | 2022-07-29 |
 | [أبوي الشيخ](https://open.spotify.com/track/2MWqdeZ3ZOtGJfyk2l2zhw) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أبوي الشيخ](https://open.spotify.com/album/0XpBJBDh0CE3lWPhFeO5kJ) | 3:02 | 2022-07-13 |  |
 | [أهل العمار](https://open.spotify.com/track/5w4ei3ImB3MjVIhyXWDbYU) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار](https://open.spotify.com/album/7jCvs21LFCE7FrXFgs7vv9) | 3:47 | 2022-07-29 |  |
-| [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 | 2022-07-29 |  |
+| [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 | 2022-07-29 | 2022-08-06 |
 | [النار ولعت](https://open.spotify.com/track/2mvK1TlgqapzTkPoYnv7Px) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت](https://open.spotify.com/album/46sQoHYjvUTY36S6zb2Iy0) | 1:19 | 2022-07-13 |  |
 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 | 2021-12-09 | 2022-07-29 |
+| [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 | 2022-08-04 |  |
 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 | 2022-06-30 |  |
 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 | 2021-12-09 |  |
 

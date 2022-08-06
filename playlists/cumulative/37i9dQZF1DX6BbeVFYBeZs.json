@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Albarrac\u00edn",
+        "url": "https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102360,
+      "name": "Albarrac\u00edn",
+      "url": "https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv"
+    },
+    {
+      "album": {
         "name": "Amarilla",
         "url": "https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk"
       },

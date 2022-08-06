@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-119 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
+120 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Infatuated](https://open.spotify.com/track/0EdayFT9VybIDXZFBUC2xr) | [Miakie](https://open.spotify.com/artist/5WO5xcjv5KarC7RdXbZ1fV) | [Infatuated](https://open.spotify.com/album/2RfEfdCsimNYZiUnE6utnA) | 4:09 | 2022-06-02 |  |
 | [Into You](https://open.spotify.com/track/4PHocLRjCevpTpu5q6c25M) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:55 | 2022-06-02 | 2022-07-22 |
 | [Into Your Life](https://open.spotify.com/track/3M9lOw3yCJFDdMDOlD6qin) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Love Levitates](https://open.spotify.com/album/6K81YVEBTnB8y2Qxj3w6Oa) | 3:06 | 2022-06-02 |  |
+| [Jasmine](https://open.spotify.com/track/25AouMLMx284p5h06BcYBH) | [MOHI](https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R) | [Jasmine](https://open.spotify.com/album/6hvqJBXUe6Zgd8yfL6zI3r) | 3:29 | 2022-08-04 |  |
 | [Joyride](https://open.spotify.com/track/3kWYgDFiWcMYnh7YmXqxRJ) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Works](https://open.spotify.com/album/78mR2PxX3MBzGA7Amx8aef) | 3:15 | 2022-06-02 |  |
 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 | 2022-06-23 |  |
 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 | 2022-07-07 |  |

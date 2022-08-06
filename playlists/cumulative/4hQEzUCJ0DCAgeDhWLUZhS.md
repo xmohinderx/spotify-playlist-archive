@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-312 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+313 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-01-14 |  |
 | [Love's Gone Bad](https://open.spotify.com/track/2e5eb5o3p22fvSE2NPVK9c) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Love's Gone Bad](https://open.spotify.com/album/2xHkm2OzBEhf3tq8SdollZ) | 3:10 | 2020-10-10\* | 2022-03-18 |
 | [Low Season](https://open.spotify.com/track/2tH3benptXyVroFD3ePCcO) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Low Season](https://open.spotify.com/album/4WdJnzEmF2VOuT9eGb2EVX) | 2:37 | 2020-10-10\* | 2021-02-25 |
+| [Mansfield 6.0](https://open.spotify.com/track/5lBloZxmRMfkZT8BA7i4CG) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Mansfield 6.0](https://open.spotify.com/album/4r9gSmwn17jFSZcqcnCyXJ) | 3:18 | 2022-08-05 |  |
 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 | 2020-10-10\* | 2021-02-25 |
 | [Meet Me on the Roof](https://open.spotify.com/track/3YCUPKddcFr4s6iL4mj6Xy) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:39 | 2020-10-10\* | 2021-05-13 |
 | [Mercury in Retrograde](https://open.spotify.com/track/6PT1dLDHk9BaVwFG74pomG) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [SOUND & FURY](https://open.spotify.com/album/2ITJBRqMwZ0luWBnnZQ4Hq) | 4:31 | 2020-10-10\* | 2021-02-25 |

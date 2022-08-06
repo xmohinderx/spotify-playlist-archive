@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-91 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
+92 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Downtown \(feat\. Pri Pach\)](https://open.spotify.com/track/6rZGPEu0NYFSvwLtuFz88J) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Downtown \(feat\. Pri Pach\)](https://open.spotify.com/album/2Eyqhq9VjtVsMYdq7dpFQS) | 2:40 | 2021-12-17 | 2022-04-29 |
 | [Dull Boy](https://open.spotify.com/track/2TRgLCc0jXyj1lbMbzKTWI) | [hollywhaaat](https://open.spotify.com/artist/2mP5CeI6PYuKIAav3iVsOQ), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Dull Boy](https://open.spotify.com/album/51iWEjaCOxStFyZH3nZpHv) | 3:22 | 2021-12-17 | 2022-03-18 |
 | [F Soft Shit](https://open.spotify.com/track/6RAwNr9AiFW97j59yQpIfw) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [F Soft Shit](https://open.spotify.com/album/06Odu8Q6H2MSyvNamQnLSl) | 2:29 | 2021-12-17 | 2022-03-26 |
-| [Fee Fi Fo Fum](https://open.spotify.com/track/4z40VUPWxUtWufaNJ3VPvG) | [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2), [Hugo Doche](https://open.spotify.com/artist/2JejalV9S2tSy4uk3o3aiv), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh) | [Fee Fi Fo Fum](https://open.spotify.com/album/1cqAANGm5N0ObEb7Iqydde) | 3:24 | 2021-12-17 |  |
+| [Fee Fi Fo Fum](https://open.spotify.com/track/4z40VUPWxUtWufaNJ3VPvG) | [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2), [Hugo Doche](https://open.spotify.com/artist/2JejalV9S2tSy4uk3o3aiv), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh) | [Fee Fi Fo Fum](https://open.spotify.com/album/1cqAANGm5N0ObEb7Iqydde) | 3:24 | 2021-12-17 | 2022-08-06 |
 | [Feel Your Soul](https://open.spotify.com/track/1zX7K6qmUKaDFhfTru79gF) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Browk](https://open.spotify.com/artist/5VSox4cXnqIAxhJ4iJifSo), [Jesus Luz](https://open.spotify.com/artist/5SRrRUx9kNNtPhAwWSJPGr) | [Feel Your Soul](https://open.spotify.com/album/6vrF9cwQfdxK14ItoaLbjN) | 2:24 | 2021-12-17 |  |
 | [Freak](https://open.spotify.com/track/6wZD3wwSe15cxUty6l5HPP) | [Undercue](https://open.spotify.com/artist/6BOGvgcLBptl2fGVXl93zk), [Hotweiller'S](https://open.spotify.com/artist/05PtQi4kXRQFPh1DOJkzce) | [Freak](https://open.spotify.com/album/1wSFyZNPmxrP7MF3ObmMAE) | 3:07 | 2021-12-17 |  |
 | [From the Jungle \- Original Mix](https://open.spotify.com/track/2BfEOtR3ZBZeVHBZr41OGC) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH) | [From the Jungle](https://open.spotify.com/album/2PTssqj1PE6Lj242tlyL0G) | 4:57 | 2022-04-29 |  |
@@ -59,6 +59,7 @@
 | [Lost Cowboys](https://open.spotify.com/track/3W09VqxOJ4CcClolPt8kcQ) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Lost Cowboys](https://open.spotify.com/album/6dhN2wvlW1B9ajT25F6A0i) | 3:23 | 2021-12-17 |  |
 | [Make You](https://open.spotify.com/track/4d2SccLvVXfRqghqBF37qM) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx), [Lowez](https://open.spotify.com/artist/0IPHMD0lKVQPmMdGjfWTwb) | [Make You](https://open.spotify.com/album/2PEKoE2Irzy2YrOaSEBSf6) | 3:10 | 2021-12-17 |  |
 | [Matrix Bug](https://open.spotify.com/track/12PL4nFHOV7KxVCfcvSsDM) | [Sterium](https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Matrix Bug](https://open.spotify.com/album/3L2NZnqEuDQRaFcn3BU726) | 4:28 | 2021-12-17 |  |
+| [Mayas](https://open.spotify.com/track/7C59TgKNzoPdXdOBjfxJyd) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [DJ Yuuki](https://open.spotify.com/artist/1L6AI2WBFlbXeG5ZibZSlP) | [Mayas](https://open.spotify.com/album/6O9KbQWhCCpPPapXiEWIDT) | 6:14 | 2022-08-05 |  |
 | [McLovin](https://open.spotify.com/track/1oSSriyVC0PHUNcfkoSMyK) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [McLovin](https://open.spotify.com/album/2cwAoPtumKl03bx9q6y26a) | 3:29 | 2021-12-17 |  |
 | [Mind Control](https://open.spotify.com/track/2omGDi7r9x4nMMYMdDTu5j) | [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Mind Control](https://open.spotify.com/album/1RVUXJWDqtxbGwXlhPiOrU) | 4:00 | 2021-12-17 |  |
 | [Move](https://open.spotify.com/track/4PNbyXDTrkNzrVuVz35o3p) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Move](https://open.spotify.com/album/701NIOuSdFkNVkYDESPEWa) | 2:56 | 2021-12-17 | 2022-07-09 |

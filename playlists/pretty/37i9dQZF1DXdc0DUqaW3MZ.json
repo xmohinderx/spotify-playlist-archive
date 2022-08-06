@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 278800,
+  "num_followers": 278943,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDI4Yzk5MjVhMjllNjUxMjQ3NWU5Zjc1MWQ0NzIwZTdm",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGY3ODYzNzVlZDU0Yjk5Yjc4YmY4YzhlOTE2ZjllN2Ux",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -655,6 +655,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Look Easy",
+        "url": "https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 165219,
+      "name": "Look Easy",
+      "url": "https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Look Easy",
-        "url": "https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 165219,
-      "name": "Look Easy",
-      "url": "https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "La Linda",
-        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 251053,
-      "name": "Even If It Hurts",
-      "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/1HXbty0Qf4fnZR4l72UqnR"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6Lxi9O5CWRgjrqvWdbn2lT"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "La Linda",
+        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 251053,
+      "name": "Even If It Hurts",
+      "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
       },
@@ -979,6 +959,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 239178,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Hot In Herre",
+        "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1027,22 +1043,6 @@
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Hot In Herre",
-        "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW"
-      },
-      "artists": [
-        {
-          "name": "Becca Hatch",
-          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 221217,
       "name": "Super Good Times",
       "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"
     },
     {
       "added_at": "2022-06-20 14:19:42",

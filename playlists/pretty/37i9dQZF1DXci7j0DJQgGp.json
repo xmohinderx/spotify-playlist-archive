@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1801539,
+  "num_followers": 1801571,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2NTgxMiwwMDAwMDAwMGJlMDYyODBiOTg3NzAxOWI5Njk5ZTU3N2FmYjYzNjE2",
+  "snapshot_id": "MTY1OTM2NTgxMiwwMDAwMDAwMDIzNjFlYTUzYTE5ZTM3MTlhNWU4ZDNlZDY1NjZhYWY0",
   "tracks": [
     {
       "added_at": "2022-08-01 14:56:52",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Through The Echoes / Lose It",
-        "url": "https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 221245,
-      "name": "Through The Echoes",
-      "url": "https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Through The Echoes / Lose It",
+        "url": "https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 221245,
+      "name": "Through The Echoes",
+      "url": "https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Summer's Over",
-        "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        },
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Summer's Over",
-      "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Summer's Over",
+        "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Summer's Over",
+      "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Curls",
-        "url": "https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup"
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
+        "name": "Curls",
+        "url": "https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -807,22 +823,6 @@
       "duration_ms": 317933,
       "name": "She Treats Me Well",
       "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "McKenzie",
-      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "Pretty Pictures",
-      "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 200946,
       "name": "It Ain\u2019t Easy",
       "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "Pretty Pictures",
+      "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
-        "name": "Rocky Trail",
-        "url": "https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 210377,
-      "name": "Rocky Trail",
-      "url": "https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
         "name": "97 Avalon",
         "url": "https://open.spotify.com/album/1J7dujPQV4tAQpObLon2hb"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 364333,
       "name": "97 Avalon",
       "url": "https://open.spotify.com/track/37f1s7mlrRXKoHmFn53wmY"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
+        "name": "Rocky Trail",
+        "url": "https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 210377,
+      "name": "Rocky Trail",
+      "url": "https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
+        "name": "First To Love",
+        "url": "https://open.spotify.com/album/2gH9deiCoLCJoHPhdn9IRt"
+      },
+      "artists": [
+        {
+          "name": "Maia Friedman",
+          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
+        }
+      ],
+      "duration_ms": 278685,
+      "name": "First to Love",
+      "url": "https://open.spotify.com/track/0H9e3haW0exM6GkB1zkYoa"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
         "name": "(watch my moves)",
         "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 194053,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
-        "name": "First To Love",
-        "url": "https://open.spotify.com/album/2gH9deiCoLCJoHPhdn9IRt"
-      },
-      "artists": [
-        {
-          "name": "Maia Friedman",
-          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
-        }
-      ],
-      "duration_ms": 278685,
-      "name": "First to Love",
-      "url": "https://open.spotify.com/track/0H9e3haW0exM6GkB1zkYoa"
     },
     {
       "added_at": "2022-08-01 14:56:52",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-08-01 14:56:52",
       "album": {
+        "name": "First High",
+        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
+    },
+    {
+      "added_at": "2022-08-01 14:56:52",
+      "album": {
         "name": "Holy Smokes Future Jokes",
         "url": "https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2022-08-01 14:56:52",
-      "album": {
-        "name": "First High",
-        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

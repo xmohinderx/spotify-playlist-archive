@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Calliope",
+        "url": "https://open.spotify.com/album/0mfDJ8H14pyrzKVa0Oe5Zc"
+      },
+      "artists": [
+        {
+          "name": "Arlette Leduc",
+          "url": "https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176032,
+      "name": "Calliope",
+      "url": "https://open.spotify.com/track/6eMGauOwocBkrNs1XCyXxN"
+    },
+    {
+      "album": {
         "name": "Callisto",
         "url": "https://open.spotify.com/album/0sXa6aFkcLQftp8F5CIicF"
       },
@@ -887,6 +905,24 @@
       "duration_ms": 170810,
       "name": "Empfidlich",
       "url": "https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq"
+    },
+    {
+      "album": {
+        "name": "Ending In Mist",
+        "url": "https://open.spotify.com/album/6YPKQpMvioaOTpIyx5AZA3"
+      },
+      "artists": [
+        {
+          "name": "Atlentea",
+          "url": "https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "Ending In Mist",
+      "url": "https://open.spotify.com/track/1EARYCS97kPiVGEf0wMhQt"
     },
     {
       "album": {
@@ -3101,6 +3137,24 @@
       "duration_ms": 180079,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS"
+    },
+    {
+      "album": {
+        "name": "Tenksom",
+        "url": "https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Tenksom",
+      "url": "https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm"
     },
     {
       "album": {

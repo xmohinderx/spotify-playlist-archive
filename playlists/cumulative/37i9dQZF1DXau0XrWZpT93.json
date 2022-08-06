@@ -1040,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "Second Sleep",
+        "url": "https://open.spotify.com/album/54DvTHvJ5QG5c0F7B5YAZe"
+      },
+      "artists": [
+        {
+          "name": "S. Salter",
+          "url": "https://open.spotify.com/artist/1rr2n5xm79tKtt2vAANMGB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218405,
+      "name": "Second Sleep",
+      "url": "https://open.spotify.com/track/6pGsdGElugsC8HygWqcSSK"
+    },
+    {
+      "album": {
         "name": "Ser A Ti",
         "url": "https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB"
       },

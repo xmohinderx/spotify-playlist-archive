@@ -4,7 +4,7 @@
 
 > Tracks popping off in the global Afro scene\. Cover: Nnelg
 
-51 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
+52 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-07-13 |  |
 | [Chargie](https://open.spotify.com/track/2eLet5XRO46EQKV0RWEEWB) | [Hillzy](https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta) | [Chargie](https://open.spotify.com/album/7lXLVvdp3ZLmjRqQVs3W7P) | 2:53 | 2022-07-13 |  |
 | [Chinese Love](https://open.spotify.com/track/2sZscIjAuI5lHij4rZtAXw) | [OmartheDJ](https://open.spotify.com/artist/5sNGkZWv63hDMrDr3STNkL), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Chinese Love](https://open.spotify.com/album/0jciYguZcoz3V0B6NlOCSA) | 3:05 | 2022-07-13 |  |
-| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-13 |  |
+| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-07-28 |  |
+| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-13 | 2022-08-06 |
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-07-13 |  |
 | [Curvy Waistline](https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Ghana Must Go](https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi) | 3:00 | 2022-07-28 |  |
 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-07-13 |  |

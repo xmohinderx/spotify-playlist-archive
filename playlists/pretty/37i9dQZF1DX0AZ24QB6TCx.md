@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,147 likes - 70 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,280 likes - 70 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 28 | [5 Seconds Before Sunrise](https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL) | [VER:WEST](https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [5 Seconds Before Sunrise](https://open.spotify.com/album/1K2ATTJF7dA45WWBAHs4md) | 4:35 |
 | 29 | [Agua Aí](https://open.spotify.com/track/3r5DaDExfV6cgC0yZuCNNs) | [Ito Cekaj](https://open.spotify.com/artist/5DEN3iQQmhuBVsZ2va0oxU), [Rasange](https://open.spotify.com/artist/4eSxet2grrJIB69nnoon0h) | [Poseidon's Serenade](https://open.spotify.com/album/5aw8wyaElzO2NFtGs8PDE3) | 6:08 |
 | 30 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 |
-| 31 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 |
-| 32 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
-| 33 | [Wellenlänge](https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Wellenlänge](https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm) | 3:38 |
+| 31 | [Wellenlänge](https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Wellenlänge](https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm) | 3:38 |
+| 32 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 |
+| 33 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
 | 34 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
 | 35 | [Killing Time](https://open.spotify.com/track/3Qgr5fOPZ0ug2kt6yfP7oX) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX) | 5:32 |
 | 36 | [Yuregine Deprem](https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Yuregine Deprem](https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99) | 3:47 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 48 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
 | 49 | [HAYII](https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII](https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za) | 7:39 |
 | 50 | [Quarantine \- Original](https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS) | [Ante Perry](https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW) | [Quarantine](https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy) | 5:33 |
-| 51 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
-| 52 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 |
+| 51 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 |
+| 52 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
 | 53 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 54 | [The Tribe](https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [The Tribe](https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk) | 8:28 |
 | 55 | [La Veleta](https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Made of Wood](https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW) | 6:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 70 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 |
 
-Snapshot ID: `MTY1NTQ3OTgwMSwwMDAwMDAwMGZmZjQ0MTg0ODU4NzUwYjlhNjQzZmFiYTE1YTJkZjIy`
+Snapshot ID: `MTY1NTQ3OTgwMSwwMDAwMDAwMGEyYjUzMzk5ODMzZGU3OWY2ZDUzY2E4MWUwYWIwZjU0`

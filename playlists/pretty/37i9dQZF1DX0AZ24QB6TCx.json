@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 263147,
+  "num_followers": 263280,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQ3OTgwMSwwMDAwMDAwMGZmZjQ0MTg0ODU4NzUwYjlhNjQzZmFiYTE1YTJkZjIy",
+  "snapshot_id": "MTY1NTQ3OTgwMSwwMDAwMDAwMGEyYjUzMzk5ODMzZGU3OWY2ZDUzY2E4MWUwYWIwZjU0",
   "tracks": [
     {
       "added_at": "2022-06-17 15:30:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
+        "name": "Wellenl\u00e4nge",
+        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Wellenl\u00e4nge",
+      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
         "name": "High On Beat",
         "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 467086,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
-        "name": "Wellenl\u00e4nge",
-        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Wellenl\u00e4nge",
-      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
+        "name": "I Won't Be",
+        "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
+      },
+      "artists": [
+        {
+          "name": "NIHILS",
+          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
+        }
+      ],
+      "duration_ms": 212596,
+      "name": "I Won't Be",
+      "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
         "name": "Home (Remixes)",
         "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
-        "name": "I Won't Be",
-        "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
-      },
-      "artists": [
-        {
-          "name": "NIHILS",
-          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
-        }
-      ],
-      "duration_ms": 212596,
-      "name": "I Won't Be",
-      "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
     },
     {
       "added_at": "2022-06-17 15:30:00",

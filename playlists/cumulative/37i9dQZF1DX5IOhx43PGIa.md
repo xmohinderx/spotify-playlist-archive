@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-252 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+253 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [HERO JOURNEY](https://open.spotify.com/track/6wvCOyMGMYSUfRQkQf3v25) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY](https://open.spotify.com/album/42zAFph6t4rfdgHlm7fZSG) | 1:54 | 2022-07-22 | 2022-07-28 |
 | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/album/3dbLBkeSvzwDE5tVt662sZ) | 1:54 | 2022-07-22 |  |
 | [HIDE & SICK](https://open.spotify.com/track/5cRbsnOSpH72PKIinDLzfD) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [HIDE & SICK](https://open.spotify.com/album/6iNdLokKROwqKnHtgOt3bO) | 3:25 | 2022-05-27 |  |
+| [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-05 |  |
 | [holly's ego](https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [blood lotus diary](https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK) | 3:16 | 2022-05-27 |  |
 | [Honest](https://open.spotify.com/track/7D43qtE2NSNZOZ9NTYWM0X) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Honest](https://open.spotify.com/album/6izPzxURr7qQhbauoNlfyB) | 3:19 | 2022-05-27 | 2022-07-28 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-27 |  |
@@ -212,7 +213,7 @@
 | [social anxiety](https://open.spotify.com/track/7vdTmNVBvv7SXVk8WAsN7l) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [social anxiety](https://open.spotify.com/album/7fDqFxWbSym5KDEL32HWhc) | 1:31 | 2022-05-27 | 2022-07-28 |
 | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/album/4ItcJtnRE5VsN9jJVk9CRA) | 4:10 | 2022-05-27 |  |
 | [Somehow We Lost It All](https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Somehow We Lost It All](https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4) | 2:59 | 2022-07-22 |  |
-| [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 | 2022-05-27 |  |
+| [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 | 2022-05-27 | 2022-08-06 |
 | [Spirits](https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spirits](https://open.spotify.com/album/546Fl3Gns3Fttgm5bdRO1Y) | 3:14 | 2022-05-27 | 2022-06-25 |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-05-27 |  |
 | [SPOILED BITCH](https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SPOILED BITCH](https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53) | 2:20 | 2022-05-27 | 2022-08-03 |

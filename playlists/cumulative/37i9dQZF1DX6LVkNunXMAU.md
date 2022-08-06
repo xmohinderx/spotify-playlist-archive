@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Pau Laggies.
 
-116 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
+117 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,10 +75,11 @@
 | [miel <3](https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [miel <3](https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw) | 3:23 | 2022-05-20 |  |
 | [Mira Niñita](https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Mira Niñita](https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau) | 4:28 | 2022-05-20 |  |
 | [Monster](https://open.spotify.com/track/6r63gGBlSTMalmugaHVcQY) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Monster](https://open.spotify.com/album/6i9PApaQGHP09y8gR2cWHV) | 3:07 | 2022-05-20 | 2022-07-16 |
-| [Moscatel](https://open.spotify.com/track/5IYHGE2mA0cydIhNUVLuTb) | [MALAiiERBA](https://open.spotify.com/artist/7yWlhqRKWnbmQ0eW0i1TKu) | [Moscatel](https://open.spotify.com/album/3D8TTfMJ4ydMlmUlUeHiL4) | 2:16 | 2022-05-20 |  |
+| [Moscatel](https://open.spotify.com/track/5IYHGE2mA0cydIhNUVLuTb) | [MALAiiERBA](https://open.spotify.com/artist/7yWlhqRKWnbmQ0eW0i1TKu) | [Moscatel](https://open.spotify.com/album/3D8TTfMJ4ydMlmUlUeHiL4) | 2:16 | 2022-05-20 | 2022-08-06 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 | 2022-05-20 | 2022-07-16 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-05-20 |  |
 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 | 2022-05-20 |  |
+| [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 | 2022-08-05 |  |
 | [Ni Modo](https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Ni Modo](https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203) | 2:15 | 2022-05-20 |  |
 | [Ni Una Cosa Ni la Otra](https://open.spotify.com/track/41qlbgS7KPPiuvJ29pRW6Y) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Ni Una Cosa Ni La Otra](https://open.spotify.com/album/6mRskuWBiKC2L4kHAdsqSX) | 4:31 | 2022-05-20 | 2022-07-16 |
 | [Niña](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Niña](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 | 2022-05-20 |  |

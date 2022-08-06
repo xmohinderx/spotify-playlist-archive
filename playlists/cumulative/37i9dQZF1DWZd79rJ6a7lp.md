@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-643 songs - 1 day 8 hr 49 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+644 songs - 1 day 8 hr 52 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Med slutna ögon](https://open.spotify.com/track/6RuFOroO9VO0aMGEzirLHk) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Med slutna ögon](https://open.spotify.com/album/1gdvbmTLrFC8FwXdgtOCEg) | 2:13 | 2020-10-20\* |  |
 | [Meet Me At Sundown](https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Meet Me At Sundown](https://open.spotify.com/album/1pNSmEmqhgPi5RrEjWqMLZ) | 3:05 | 2022-06-16 |  |
 | [Mellow Mountain](https://open.spotify.com/track/0GRKy1mrOocvoIEkVbtkSI) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow Mountain](https://open.spotify.com/album/02JiI8N8HBuoTWwR624r7v) | 3:17 | 2021-10-23 |  |
+| [Merikarp](https://open.spotify.com/track/1SucXU3xTOCyBAAqE22E8B) | [Fabien Tamm](https://open.spotify.com/artist/2V39QR1IlcAPJjdsrdz2pM) | [Merikarp](https://open.spotify.com/album/5hY826Klpc0SSULaKdylI1) | 2:34 | 2022-08-05 |  |
 | [Messages](https://open.spotify.com/track/7vDowfH8q4mCTn7BajjTdx) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Breathing In](https://open.spotify.com/album/0YxKTZJYG1ZEb7FfYIjr0S) | 3:09 | 2020-12-04 | 2021-03-14 |
 | [Midst of Everything](https://open.spotify.com/track/2UScMXkAslXCfMcRx2Wlr7) | [Tora Summer](https://open.spotify.com/artist/59RVWpGZwBN5H2S4yHsxD9) | [Midst of Everything](https://open.spotify.com/album/1RmiiLCKVetsg26CP2b9wM) | 2:46 | 2021-11-10 |  |
 | [Migla](https://open.spotify.com/track/0AY2x7N94uTmkYruyZDPKu) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Migla](https://open.spotify.com/album/1ImyklVXN9AtfPPDfRNYEH) | 2:00 | 2021-10-30 |  |

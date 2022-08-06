@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: El De La Guitarra",
+  "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: Herencia de Patrones",
   "name": "Corridos 2022",
   "published_playlist_ids": [
     "6mIhFs7U6KoLfn5GxVWgA4"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 187478,
       "name": "Belico Y Tenebroso",
       "url": "https://open.spotify.com/track/49lu1CnlMDb1ZxMUShXooE"
@@ -345,6 +345,28 @@
       "duration_ms": 172338,
       "name": "Bien Motivados",
       "url": "https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k"
+    },
+    {
+      "album": {
+        "name": "Billete Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163940,
+      "name": "Billete Grande (En Vivo)",
+      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
       "album": {
@@ -907,7 +929,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 193187,
       "name": "El Chikillo Mafias - En Vivo",
       "url": "https://open.spotify.com/track/4zq7CTQNv37v2ghRWrTh2t"
@@ -2047,6 +2069,24 @@
       "duration_ms": 136534,
       "name": "Es Morir O Matar",
       "url": "https://open.spotify.com/track/4wkYpQmtbxy6OyWO0S1kDg"
+    },
+    {
+      "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
     },
     {
       "album": {
@@ -3448,6 +3488,24 @@
     },
     {
       "album": {
+        "name": "Mr. Seal the Deal",
+        "url": "https://open.spotify.com/album/0onvZ8hmwRKN7NgwmHVuPH"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270971,
+      "name": "Mr. Seal the Deal",
+      "url": "https://open.spotify.com/track/0HIIT1vaPTt5CuYZ74sonO"
+    },
+    {
+      "album": {
         "name": "No Era Malo Yo Fui Amigo",
         "url": "https://open.spotify.com/album/6LqBDFM1hFJD9cyha6sKfN"
       },
@@ -3645,7 +3703,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 124766,
       "name": "Pasos Lentos",
       "url": "https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe"
@@ -4065,7 +4123,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174432,
       "name": "Si Me Ven",
       "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
@@ -4206,6 +4264,24 @@
     },
     {
       "album": {
+        "name": "Soy Israel",
+        "url": "https://open.spotify.com/album/4S8J3omsOlq7mxKUSvD36U"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222679,
+      "name": "Soy Israel",
+      "url": "https://open.spotify.com/track/43vHcdLF4XjNLM99NkdVYu"
+    },
+    {
+      "album": {
         "name": "Soy Su Daddy",
         "url": "https://open.spotify.com/album/1traqIWsxJwyCfuxDjdv3W"
       },
@@ -4257,7 +4333,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 137697,
       "name": "Tirando El Rol",
       "url": "https://open.spotify.com/track/5ZtQ41JzNrJDIWNVuvBnnY"
@@ -4435,7 +4511,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 178904,
       "name": "Voy a Mi Paso",
       "url": "https://open.spotify.com/track/75daErwWpFQEjUqIMFEsOY"

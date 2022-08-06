@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,068 likes - 89 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,127 likes - 89 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 11 | [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 |
 | 12 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 13 | [Desert Niñas](https://open.spotify.com/track/4Fyd2PkpGorYbgcMmgAONh) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7), [Aidy Dee](https://open.spotify.com/artist/4tMJnV74U5Wa51DZk91Nvz) | [Desert Niñas](https://open.spotify.com/album/3FabWVh5C4jaEtJAZa7gjR) | 2:41 |
-| 14 | [Desértico](https://open.spotify.com/track/6eTtks8qtmshX0HGjWk28v) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/0mloTUqmpH2WzwpdkXN7rS) | 3:41 |
+| 14 | [Desértico](https://open.spotify.com/track/36tR2PtULkfUDaYZufUE1W) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/3R8phbfheU9iJ1LYQJymZT) | 3:41 |
 | 15 | [Eyeliner de Katana](https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Eyeliner de Katana](https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW) | 2:01 |
 | 16 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
 | 17 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 88 | [No Estoy](https://open.spotify.com/track/2WkJqdOBHuGi44d8dnSHuK) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Estoy](https://open.spotify.com/album/0LiFjBoSemLpzSCOsGXTOF) | 3:58 |
 | 89 | [Me Voy](https://open.spotify.com/track/5vx06yKyMpmgLfTeq7vv9K) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Jess Puente](https://open.spotify.com/artist/7A5Nk3dHjJheI5Zga7fSE6), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Me Voy](https://open.spotify.com/album/6JeUFhsLRJtKOLG5qQEHbJ) | 3:25 |
 
-Snapshot ID: `MTY1OTU0Mjg5MywwMDAwMDAwMDM4ZmM0MTNlNDNmZTRhMTU5MjRlYTUzZmM3NDY5NDhm`
+Snapshot ID: `MTY1OTU0Mjg5MywwMDAwMDAwMGZmN2RlNGM1ZDNmMjY1NzcyYTEzYmI3NWRiYmU1MDdi`

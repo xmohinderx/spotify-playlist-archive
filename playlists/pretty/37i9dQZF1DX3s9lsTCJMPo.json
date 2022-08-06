@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 39624,
+  "num_followers": 39687,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGVkYzBkMDAzNGExNjY4OTFhOTJkOGEyMGY2M2M0MzZk",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDhiZTdhOTYyZDgwYWZkM2MzYmU4M2Q3NzA4MWY5OTdh",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Forever Vol.1",
         "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 365240,
       "name": "Sugar Bum Bum",
       "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Just for You",
-        "url": "https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh"
-        }
-      ],
-      "duration_ms": 338053,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 197293,
       "name": "Breathless (feat. Blaxx)",
       "url": "https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Just for You",
+        "url": "https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh"
+        }
+      ],
+      "duration_ms": 338053,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D"
     },
     {
       "added_at": "2022-02-24 18:00:00",

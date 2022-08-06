@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Unique versions of hit songs by other artists.  Cover: Garth Brooks and Trisha Yearwood",
+  "description": "Unique versions of hit songs by other artists. Cover: Ashley McBryde",
   "name": "Country Covers",
   "published_playlist_ids": [
     "5FG6pwctW4uulQzMoAra0G"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 251960,
       "name": "Bartender's Blues",
       "url": "https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 247765,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
@@ -3332,6 +3332,24 @@
     },
     {
       "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Seminole Wind",
+      "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
+    },
+    {
+      "album": {
         "name": "Uncovered",
         "url": "https://open.spotify.com/album/5hs99gvzSISGOEmncgy853"
       },
@@ -3593,6 +3611,24 @@
       "duration_ms": 202582,
       "name": "Storms Never Last",
       "url": "https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa"
+    },
+    {
+      "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Straight Tequila Night",
+      "url": "https://open.spotify.com/track/6rM6byRRxL2BZEKJ4UMNBl"
     },
     {
       "album": {

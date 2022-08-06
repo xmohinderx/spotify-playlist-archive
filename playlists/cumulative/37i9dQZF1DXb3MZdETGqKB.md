@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Dylan Triplett
 
-138 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+140 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [NEVER TELL ME THE ODDS](https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [NEVER TELL ME THE ODDS](https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH) | 2:42 | 2022-05-06 |  |
 | [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/track/3aUbp8mH1JiPU1ces1S68Q) | [Joanna Cooke](https://open.spotify.com/artist/7EyKy53TsVFLJFZFyYzBZQ) | [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/album/5ppDYA1ypWs96XBhPq9tXx) | 4:25 | 2021-10-29 |  |
 | [NOT A GOOD MAN WALKING](https://open.spotify.com/track/679ZxPQna36dJmMRvhFwU9) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [NOT A GOOD MAN WALKING](https://open.spotify.com/album/3BXZGAUiUVPOygUqn8meVI) | 2:56 | 2022-03-04 |  |
-| [Not the Blues Again](https://open.spotify.com/track/5hfrnLlkK3Q8sRja0GVlXc) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Not the Blues Again](https://open.spotify.com/album/2FRKxEkUPDkztNFpCWovqv) | 3:09 | 2022-07-29 |  |
+| [Not the Blues Again](https://open.spotify.com/track/5hfrnLlkK3Q8sRja0GVlXc) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Not the Blues Again](https://open.spotify.com/album/2FRKxEkUPDkztNFpCWovqv) | 3:09 | 2022-07-29 | 2022-08-06 |
 | [On Fire Like Zsa Zsa](https://open.spotify.com/track/1jkRCIT4lbw927QNmt0NGh) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 3:21 | 2021-02-05 | 2022-03-26 |
 | [OZARK](https://open.spotify.com/track/7nAcaH62CEDb4naXyoomJU) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [OZARK](https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6) | 3:44 | 2021-05-14 | 2022-05-07 |
 | [Parade](https://open.spotify.com/track/4ohUVFem8xKnnnvGz1cpIG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Parade](https://open.spotify.com/album/7oufinnYn55dYyMTss0KmB) | 2:16 | 2021-03-09 | 2022-03-26 |
@@ -121,6 +121,7 @@
 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-04-08 |  |
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-06-19 |
 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 | 2022-05-06 |  |
+| [Sweet Hitchhiker](https://open.spotify.com/track/48ElMRo9c1HlS23AuHMRVS) | [Tommy Womack](https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje) | [30 Years Shot To Hell: A Tommy Womack Anthology](https://open.spotify.com/album/62wREHeyhnAmDMkc4oZlgS) | 3:25 | 2022-08-05 |  |
 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 | 2022-03-25 | 2022-06-19 |
 | [Talk To You](https://open.spotify.com/track/61PCdbwmjg5LwyIBvcuQGe) | [Dennis Johnson](https://open.spotify.com/artist/4q4GIOKuoGbaa9nkroBWjF) | [Talk To You](https://open.spotify.com/album/0koP38sKFmgO6GNRXM87MT) | 3:23 | 2022-05-20 |  |
 | [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 | 2022-04-29 |  |
@@ -140,6 +141,7 @@
 | [Waste of a Pretty Face](https://open.spotify.com/track/4IpuYe7tPM0VasiAzigXff) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Waste of a Pretty Face](https://open.spotify.com/album/1gcgGlZKyAH4YuJTR7hqcO) | 2:38 | 2021-05-28 | 2022-05-07 |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 |  |
 | [What A Life](https://open.spotify.com/track/5du3Ypki8pqdygkoHZnTsd) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [What A Life](https://open.spotify.com/album/1W1PdT8nTmx1qO8poarynl) | 3:02 | 2021-02-05 | 2022-03-26 |
+| [What's Real](https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [What's Real](https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF) | 4:08 | 2022-08-05 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 |  |
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 |  |
 | [Wolves All Around Me](https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE) | [Hebron Shane](https://open.spotify.com/artist/3wVOcyphZAxmjMtasFzsJ2) | [Wolves All Around Me](https://open.spotify.com/album/4K7QDZ8Fldny1DYn9C5nbN) | 3:27 | 2021-03-19 | 2022-03-26 |

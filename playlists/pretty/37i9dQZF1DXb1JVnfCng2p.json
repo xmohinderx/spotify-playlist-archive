@@ -1,12 +1,12 @@
 {
   "description": "Get ready for dinner with some upbeat, cool, funky and cooking jazz.",
-  "num_followers": 17516,
+  "num_followers": 17538,
   "original_name": "Cooking Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUwMDk5MSwwMDAwMDAwMDQzMjk1OGE5Y2I5MjIxYTdiMGI1OTExNmU3YWU0NDdm",
+  "snapshot_id": "MTY1NjUwMDk5MSwwMDAwMDAwMGM0MDczM2M1YWY0ZmM1MDhlM2JhNzdmY2Y2ZGYxZTE2",
   "tracks": [
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Today And Now",
-        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
-        }
-      ],
-      "duration_ms": 383986,
-      "name": "Go Li'l Liza",
-      "url": "https://open.spotify.com/track/0t96Je3ofeUXyi6UbX3J8w"
-    },
-    {
-      "added_at": "2022-06-29 11:09:51",
-      "album": {
         "name": "Nigeria",
         "url": "https://open.spotify.com/album/0Y6W91kVInjDUUluGVDHej"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 622173,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/1upMiZ1Aj4sGgZPSNqfxxs"
+    },
+    {
+      "added_at": "2022-06-29 11:09:51",
+      "album": {
+        "name": "Today And Now",
+        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 383986,
+      "name": "Go Li'l Liza",
+      "url": "https://open.spotify.com/track/0t96Je3ofeUXyi6UbX3J8w"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
+        "name": "A Jazz Message",
+        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Art Blakey Quartet",
+          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
         }
       ],
-      "duration_ms": 217960,
-      "name": "I Wished On The Moon - Stereo Version",
-      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
+      "duration_ms": 440093,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/1Omb3itM2gJlnciYRElXTe"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "A Jazz Message",
-        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
+        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
       "artists": [
         {
-          "name": "Art Blakey Quartet",
-          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 440093,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/1Omb3itM2gJlnciYRElXTe"
+      "duration_ms": 217960,
+      "name": "I Wished On The Moon - Stereo Version",
+      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1259,7 +1259,7 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Introducing",
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
       "artists": [
@@ -1269,7 +1269,7 @@
         }
       ],
       "duration_ms": 293960,
-      "name": "The Boy Next Door - Rudy Van Gelder Edition/Digital Remaster/2006",
+      "name": "The Boy Next Door - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2LDSQ8nOGsDSrN9QcZLf5K"
     },
     {
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+        "name": "Prestige Profiles: The Red Garland Quintets",
+        "url": "https://open.spotify.com/album/6kPI8zbuB9RVQipFoHDEIC"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Cedar Walton",
+          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+      "duration_ms": 304440,
+      "name": "Ugetsu",
+      "url": "https://open.spotify.com/track/0VgHzSgToRlNw0JAFszeWb"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Prestige Profiles: The Red Garland Quintets",
-        "url": "https://open.spotify.com/album/6kPI8zbuB9RVQipFoHDEIC"
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
       },
       "artists": [
         {
-          "name": "Cedar Walton",
-          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 304440,
-      "name": "Ugetsu",
-      "url": "https://open.spotify.com/track/0VgHzSgToRlNw0JAFszeWb"
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "McCoy Tyner Plays Ellington",
-        "url": "https://open.spotify.com/album/0oaA1qdVdWGmNYW2D1js9z"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 273560,
-      "name": "Searchin'",
-      "url": "https://open.spotify.com/track/5o88f39bZrfk7auiBaSm0r"
-    },
-    {
-      "added_at": "2022-06-29 11:09:51",
-      "album": {
         "name": "Doin' Allright",
         "url": "https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 559160,
       "name": "I Was Doing All Right - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
       "url": "https://open.spotify.com/track/6gwhLRiUACnJYUrWRTWdlD"
+    },
+    {
+      "added_at": "2022-06-29 11:09:51",
+      "album": {
+        "name": "McCoy Tyner Plays Ellington",
+        "url": "https://open.spotify.com/album/0oaA1qdVdWGmNYW2D1js9z"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 273560,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/5o88f39bZrfk7auiBaSm0r"
     },
     {
       "added_at": "2022-06-29 11:09:51",

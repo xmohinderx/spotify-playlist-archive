@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-282 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+283 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [First Place](https://open.spotify.com/track/0oJpKkNS2xAok3jwhWfSPe) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [LAX2DUBAI](https://open.spotify.com/album/2ISpqgsjma0X7KXDM7Jxo3) | 2:27 | 2021-09-10 |  |
 | [Flat White](https://open.spotify.com/track/0mYa84l8DIuB1CswDu0QGJ) | [BLVCK SWVN](https://open.spotify.com/artist/7o8BqNiJ2bgXRCNgTB5SGv) | [Flat White](https://open.spotify.com/album/2c3e4L6Jy7aIhVZzL3P8Mc) | 4:50 | 2021-08-26 | 2022-05-14 |
 | [Flavor](https://open.spotify.com/track/2P58o9JbLYOV5adMOrh4WH) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Bad Sign](https://open.spotify.com/album/1kmLwJZxVRqG2ntTzZYD22) | 2:09 | 2021-04-26\* | 2021-08-26 |
+| [fleeting thoughts](https://open.spotify.com/track/2VJwLNwRtzLR5YgD4Qp21U) | [trees](https://open.spotify.com/artist/1NJKdtvnP2T0P97URYd5d5) | [fleeting thoughts](https://open.spotify.com/album/0cCQNtgn1IqTjcfkSyOvoK) | 3:28 | 2022-08-05 |  |
 | [Flow Killer](https://open.spotify.com/track/4VSpmMFM9wnjJgbMNFyis9) | [Cris Luke](https://open.spotify.com/artist/3rWSBTTVA1lFOu9hKrLaCp) | [Freestyle Beats, Vol\. 2](https://open.spotify.com/album/2Qwc3sooou8N4HAMKuNJny) | 3:20 | 2022-04-08 | 2022-07-29 |
 | [Flow Killer](https://open.spotify.com/track/6bcVS1yb7iKMaKGZeNhOnI) | [Cris Luke](https://open.spotify.com/artist/3rWSBTTVA1lFOu9hKrLaCp) | [Freestyle Beats, Vol.2](https://open.spotify.com/album/03MPyUrOpCGRdxtsy0WBzJ) | 3:20 | 2022-07-29 |  |
 | [Floweristic](https://open.spotify.com/track/6pKRvIqBqR11TwVeHQLfcH) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:57 | 2021-04-26\* | 2022-05-14 |

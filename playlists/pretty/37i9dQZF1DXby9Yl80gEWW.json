@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 26622,
+  "num_followers": 26675,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNjc3MCwwMDAwMDAwMGRlZmNlNGQyNTgwMDc1YTEyOTA3M2MzMmZjZGYxM2E1",
+  "snapshot_id": "MTY1OTEwNjc3MCwwMDAwMDAwMGJhN2ViOWU0ZTBlODRmMTQ4NjlmODgyYzRmOGYxOTg4",
   "tracks": [
     {
       "added_at": "2022-07-29 14:59:30",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
+        "name": "Finch In The Pantry",
+        "url": "https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg"
       },
       "artists": [
         {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "The Arcadian Wild",
+          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Bombshell",
-      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
+      "duration_ms": 231098,
+      "name": "Finch In The Pantry",
+      "url": "https://open.spotify.com/track/3A9Ko23awcO4gL0a9RTesh"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -279,18 +279,18 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Finch In The Pantry",
-        "url": "https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg"
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
       },
       "artists": [
         {
-          "name": "The Arcadian Wild",
-          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 231098,
-      "name": "Finch In The Pantry",
-      "url": "https://open.spotify.com/track/3A9Ko23awcO4gL0a9RTesh"
+      "duration_ms": 202066,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "The Muscle Shoals Recordings",
-        "url": "https://open.spotify.com/album/2QOn9dnvjzhGZoH90eCFYI"
-      },
-      "artists": [
-        {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
-        }
-      ],
-      "duration_ms": 167320,
-      "name": "California Chainshaw",
-      "url": "https://open.spotify.com/track/2V0iY3RWF0AngxKR5ZJA8c"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 198478,
       "name": "Crooked Mind",
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "The Muscle Shoals Recordings",
+        "url": "https://open.spotify.com/album/2QOn9dnvjzhGZoH90eCFYI"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "California Chainshaw",
+      "url": "https://open.spotify.com/track/2V0iY3RWF0AngxKR5ZJA8c"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Ahoy!",
-        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 164613,
-      "name": "Squirrel of Possibility",
-      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Cumberland Gap",
         "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 68725,
       "name": "Cumberland Gap",
       "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Ahoy!",
+        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 164613,
+      "name": "Squirrel of Possibility",
+      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -779,30 +779,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Charm School (feat. Billy Strings & Chris Thile)",
-        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 483442,
-      "name": "Charm School (feat. Billy Strings & Chris Thile)",
-      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Nickel Creek",
         "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 154946,
       "name": "Peace Behind the Bridge",
       "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Charm School (feat. Billy Strings & Chris Thile)",
+        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 483442,
+      "name": "Charm School (feat. Billy Strings & Chris Thile)",
+      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -907,42 +907,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        },
-        {
-          "name": "Mark Schatz",
-          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "See Rock City",
-      "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Gravity's Our Enemy",
         "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
@@ -975,6 +939,22 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "Foggy Mountain Breakdown",
+        "url": "https://open.spotify.com/album/7A7mOaNTG7wEFetXhC8Hdm"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Orange Blossom Special",
+      "url": "https://open.spotify.com/track/62LJqunG21MXeQr4pUf6Pb"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "From Sea To Sky",
         "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
       },
@@ -991,18 +971,38 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Foggy Mountain Breakdown",
-        "url": "https://open.spotify.com/album/7A7mOaNTG7wEFetXhC8Hdm"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
       "artists": [
         {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        },
+        {
+          "name": "Mark Schatz",
+          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
         }
       ],
-      "duration_ms": 176240,
-      "name": "Orange Blossom Special",
-      "url": "https://open.spotify.com/track/62LJqunG21MXeQr4pUf6Pb"
+      "duration_ms": 243973,
+      "name": "See Rock City",
+      "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+        "name": "Aesop Mountain",
+        "url": "https://open.spotify.com/album/7DJIYczo0iFkxAuMmsBVDd"
       },
       "artists": [
         {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+      "duration_ms": 208280,
+      "name": "Aesop Mountain",
+      "url": "https://open.spotify.com/track/46rDdtMN5rzMDp6UiIpg4Q"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1087,6 +1087,22 @@
       "duration_ms": 217946,
       "name": "Fiddler's Dream",
       "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+      },
+      "artists": [
+        {
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Leaving Cottondale",
-      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "58957: The Bluegrass Guitar Collection",
         "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
       "artists": [
         {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
         }
       ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
+      "duration_ms": 156600,
+      "name": "Leaving Cottondale",
+      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1203,6 +1203,22 @@
       "duration_ms": 186333,
       "name": "Clinch Mountain Backstep",
       "url": "https://open.spotify.com/track/2cuiVudXWJarK8wGVWCOVQ"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Aesop Mountain",
-        "url": "https://open.spotify.com/album/7DJIYczo0iFkxAuMmsBVDd"
-      },
-      "artists": [
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Aesop Mountain",
-      "url": "https://open.spotify.com/track/46rDdtMN5rzMDp6UiIpg4Q"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Squirrelville",
         "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 281386,
       "name": "Squirrelville",
       "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Into My Own",
+        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 306059,
+      "name": "Overton Waltz",
+      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1295,22 +1311,6 @@
       "duration_ms": 257939,
       "name": "Battersea Skillet Liquor",
       "url": "https://open.spotify.com/track/0Ca4WeIIiJrgapaPF1j2WK"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Into My Own",
-        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 306059,
-      "name": "Overton Waltz",
-      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "Doc & Merle Watson's Guitar Album",
         "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
       },
@@ -1427,74 +1443,6 @@
       "duration_ms": 233000,
       "name": "It's A String Thing",
       "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Eight String Swing",
-        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
-      },
-      "artists": [
-        {
-          "name": "Mike Auldridge",
-          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Bluegrass Boogie",
-      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "40 West",
-      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Banjophony",
-        "url": "https://open.spotify.com/album/24ml3GJq31D5xL5IqKENzH"
-      },
-      "artists": [
-        {
-          "name": "Damien O'Kane",
-          "url": "https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK"
-        },
-        {
-          "name": "Ron Block",
-          "url": "https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ"
-        }
-      ],
-      "duration_ms": 246357,
-      "name": "Waiting for Erin",
-      "url": "https://open.spotify.com/track/3KcLU9b2efCbtexlwWPoJI"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1535,6 +1483,38 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "Eight String Swing",
+        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
+      },
+      "artists": [
+        {
+          "name": "Mike Auldridge",
+          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Bluegrass Boogie",
+      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "40 West",
+      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "Moonbeam",
         "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 184466,
       "name": "Moonbeam",
       "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Banjophony",
+        "url": "https://open.spotify.com/album/24ml3GJq31D5xL5IqKENzH"
+      },
+      "artists": [
+        {
+          "name": "Damien O'Kane",
+          "url": "https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK"
+        },
+        {
+          "name": "Ron Block",
+          "url": "https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ"
+        }
+      ],
+      "duration_ms": 246357,
+      "name": "Waiting for Erin",
+      "url": "https://open.spotify.com/track/3KcLU9b2efCbtexlwWPoJI"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1623,30 +1623,18 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Short Trip Home",
-        "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
+        "name": "Hurricane Clarice",
+        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
       },
       "artists": [
         {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        },
-        {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
-        },
-        {
-          "name": "Mike Marshall",
-          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Allison de Groot & Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
         }
       ],
-      "duration_ms": 244706,
-      "name": "If I Knew - Instrumental",
-      "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
+      "duration_ms": 189061,
+      "name": "Nancy Blevins",
+      "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1683,6 +1671,34 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "Short Trip Home",
+        "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
+      },
+      "artists": [
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Mike Marshall",
+          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "If I Knew - Instrumental",
+      "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "My Place in the Sun",
         "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 226306,
       "name": "Whiskerhead Goes to Leningrad",
       "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Hurricane Clarice",
-        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
-      },
-      "artists": [
-        {
-          "name": "Allison de Groot & Tatiana Hargreaves",
-          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
-        }
-      ],
-      "duration_ms": 189061,
-      "name": "Nancy Blevins",
-      "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "Banjo Man",
+        "url": "https://open.spotify.com/album/7B2u2hjEQowl7eBkCNwgHz"
+      },
+      "artists": [
+        {
+          "name": "Bill Emerson",
+          "url": "https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Good to Go",
+      "url": "https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "Now They Are Four",
         "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
       },
@@ -1879,22 +1895,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Banjo Man",
-        "url": "https://open.spotify.com/album/7B2u2hjEQowl7eBkCNwgHz"
-      },
-      "artists": [
-        {
-          "name": "Bill Emerson",
-          "url": "https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Good to Go",
-      "url": "https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "30 Turkeys",
         "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
@@ -1907,22 +1907,6 @@
       "duration_ms": 140970,
       "name": "30 Turkeys",
       "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "No Apologies",
-        "url": "https://open.spotify.com/album/6xFyECGZSqq5HSJr1iHCdT"
-      },
-      "artists": [
-        {
-          "name": "Jim Vancleve",
-          "url": "https://open.spotify.com/artist/3X65bj5nJ6AUMp2hymccdR"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Fall Creek Falls",
-      "url": "https://open.spotify.com/track/31OASoQ8HPlyFG5vw2jtQs"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1963,6 +1947,22 @@
       "duration_ms": 229480,
       "name": "EMD",
       "url": "https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "No Apologies",
+        "url": "https://open.spotify.com/album/6xFyECGZSqq5HSJr1iHCdT"
+      },
+      "artists": [
+        {
+          "name": "Jim Vancleve",
+          "url": "https://open.spotify.com/artist/3X65bj5nJ6AUMp2hymccdR"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Fall Creek Falls",
+      "url": "https://open.spotify.com/track/31OASoQ8HPlyFG5vw2jtQs"
     },
     {
       "added_at": "2022-07-29 14:59:30",

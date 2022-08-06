@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
 
-360 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+361 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aller](https://open.spotify.com/track/2X7X0jEaVxzxQPanxDYsxT) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 2:58 | 2021-01-03\* | 2021-11-27 |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-06 |  |
 | [Antigone](https://open.spotify.com/track/0UQJ65R4FUj1QEo89YSyBB) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Antigone](https://open.spotify.com/album/72vqXDeb3HzWgbG7Dbx5Pb) | 3:36 | 2021-05-04 | 2022-07-29 |
+| [Antigone](https://open.spotify.com/track/3gQrNbDCkxplgLJOQA8NJ7) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Antigone](https://open.spotify.com/album/3jVJxDHxlxY1UyaDPSS9CL) | 3:36 | 2022-07-08 |  |
 | [Appelle\-moi](https://open.spotify.com/track/3gGA2wHqIwip7i1XclXuKH) | [Véronique Trudel](https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK) | [Appelle\-moi](https://open.spotify.com/album/4lOU01m2Y2XkoVt8o9eMER) | 2:21 | 2021-04-04 | 2021-05-08 |
 | [Appropriation culturelle](https://open.spotify.com/track/2BQHeP5BLPpkEOlEv5CTVD) | [Navet Confit](https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D) | [Engagement, Lutte, Clan et Respect](https://open.spotify.com/album/5XhvCnXCEABGZeUoEkFv5t) | 5:37 | 2021-01-21 | 2021-11-19 |
 | [Après l'hiver](https://open.spotify.com/track/4qhO29pgBSBxOwZSpO5RQC) | [Véronique Trudel](https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK) | [Après l'hiver](https://open.spotify.com/album/3USD6naxmACbrfRGb76QKS) | 3:45 | 2021-01-03\* | 2022-07-20 |
@@ -153,7 +154,7 @@
 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/3MnFHWYVWEZjkfU58VgZrz) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [L'île à vingt\-cinq sous](https://open.spotify.com/album/4CMheRrzMJZI0bp7HBaBpB) | 3:33 | 2021-01-03\* | 2022-01-08 |
 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 | 2022-01-07 |  |
 | [La cabane \- Édit radio 2019](https://open.spotify.com/track/5kjI0AyV7R5B1zpEULRmGx) | [Soul & Sister](https://open.spotify.com/artist/6FKmH1yrlnresuuvHdY2lh) | [Soul & Sister \- EP](https://open.spotify.com/album/4gMf584x1lIKpnPrs7xHOK) | 3:12 | 2021-01-15 | 2022-07-28 |
-| [La cascade](https://open.spotify.com/track/2E9Tg1mtfo0JIOnca3JWm6) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:09 | 2022-06-10 |  |
+| [La cascade](https://open.spotify.com/track/2E9Tg1mtfo0JIOnca3JWm6) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:09 | 2022-06-10 | 2022-08-06 |
 | [La couleur du vent](https://open.spotify.com/track/6nfD0dsDhOePkShWpABOKh) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Au premier tour de l'évidence](https://open.spotify.com/album/5ZGmH9Byd2dddSLWZbHLL8) | 3:49 | 2022-02-11 | 2022-06-21 |
 | [La Fille qui Chante](https://open.spotify.com/track/6g3aFXb3tFJR3iSkiDS3ci) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 4:33 | 2021-01-30 | 2021-05-03 |
 | [La flamme](https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [La flamme](https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS) | 3:54 | 2021-01-03\* | 2022-07-27 |

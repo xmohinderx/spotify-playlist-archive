@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Ondara",
+  "description": "Keep your finger on the pulse of Americana. Cover: Larkin Poe",
   "name": "The Pulse of Americana",
   "published_playlist_ids": [
     "1H5Sok0MEuwSOB35Thab6M"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 139343,
       "name": "Ain't That Lovin' You",
       "url": "https://open.spotify.com/track/1x2Xc6lGnIouQyclbttjC6"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 285240,
       "name": "Atomized",
       "url": "https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t"
@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245889,
+      "name": "Blood Harmony",
+      "url": "https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72"
+    },
+    {
+      "album": {
         "name": "Bombs Away b/w Paint This Town",
         "url": "https://open.spotify.com/album/4DKp4i0VM9Sp9OOAfsUGmc"
       },
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 218749,
       "name": "Borrowed Time",
       "url": "https://open.spotify.com/track/7vkh4rlJZnuQjw1bDCnyU4"
@@ -821,6 +839,28 @@
       "duration_ms": 303593,
       "name": "Broken Horses",
       "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "album": {
+        "name": "Buffet Days",
+        "url": "https://open.spotify.com/album/272cuK8kjbVwLnIl41N4rx"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        },
+        {
+          "name": "Carl Broemel",
+          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Buffet Days",
+      "url": "https://open.spotify.com/track/1Y7XrntbqWMMR2Rm6HLnG4"
     },
     {
       "album": {
@@ -1139,7 +1179,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 240173,
       "name": "Cool Down",
       "url": "https://open.spotify.com/track/3N2fen9204mhF0n2nojghp"
@@ -1853,7 +1893,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 214747,
       "name": "Get It \u2018Fore It\u2019s Gone",
       "url": "https://open.spotify.com/track/0yEK6lJ4hZw1mx2nIQ5i66"
@@ -2225,7 +2265,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 188196,
       "name": "Hellbent For Leather",
       "url": "https://open.spotify.com/track/5Xt2Syl11aWO4EPGJP7cVn"
@@ -2301,6 +2341,24 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/6lJ6Tbyfhd4mKMSQOIxzJV"
+    },
+    {
+      "album": {
+        "name": "Holy Water Hangover",
+        "url": "https://open.spotify.com/album/5SWUKAmpFCPSlQcHq4nFI9"
+      },
+      "artists": [
+        {
+          "name": "Butch Walker",
+          "url": "https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202776,
+      "name": "Holy Water Hangover",
+      "url": "https://open.spotify.com/track/0eSwwBWKoxbAje61SkGhKn"
     },
     {
       "album": {
@@ -2457,7 +2515,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 218357,
       "name": "How to Love",
       "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
@@ -2595,6 +2653,24 @@
       "duration_ms": 181269,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo"
+    },
+    {
+      "album": {
+        "name": "I'm Just a Clown",
+        "url": "https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "I'm Just a Clown",
+      "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
     },
     {
       "album": {
@@ -2761,7 +2837,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 272346,
       "name": "Jazz on the Autobahn",
       "url": "https://open.spotify.com/track/0X7PaSl2RFGQYTRzTmC8Xf"
@@ -2997,7 +3073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 279065,
       "name": "Laurie Rolled Me a J",
       "url": "https://open.spotify.com/track/2tvhVwzotuuzmRRvbUi6Rb"
@@ -3134,6 +3210,24 @@
     },
     {
       "album": {
+        "name": "Long, Long Year",
+        "url": "https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8"
+      },
+      "artists": [
+        {
+          "name": "Chris Shiflett",
+          "url": "https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259077,
+      "name": "Long, Long Year",
+      "url": "https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T"
+    },
+    {
+      "album": {
         "name": "Love Is Selfish",
         "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
       },
@@ -3149,6 +3243,24 @@
       "duration_ms": 172885,
       "name": "Love Is Selfish",
       "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
+    },
+    {
+      "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227346,
+      "name": "Low Dog Blues",
+      "url": "https://open.spotify.com/track/07Xkk56uB6HfGekcA5N8wn"
     },
     {
       "album": {
@@ -3564,6 +3676,46 @@
     },
     {
       "album": {
+        "name": "On The Ranch",
+        "url": "https://open.spotify.com/album/5YTaHXkz05dmQdFVbB1JiS"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "On The Ranch",
+      "url": "https://open.spotify.com/track/0mHgo4idHJkSRsv1z7Tuje"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226710,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "album": {
         "name": "Orphan Child",
         "url": "https://open.spotify.com/album/4SyrS57R0V9jB7LB1ty6Qw"
       },
@@ -3694,6 +3846,42 @@
     },
     {
       "album": {
+        "name": "Paranoid Heart",
+        "url": "https://open.spotify.com/album/4nVAHT3ACZ5wgk6lzpLRzK"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192670,
+      "name": "Paranoid Heart",
+      "url": "https://open.spotify.com/track/3ZUsOcc2xcgSXDMWx1zned"
+    },
+    {
+      "album": {
+        "name": "Parted Ways (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7gKmiv8ycRmJMpgSGv9Ye4"
+      },
+      "artists": [
+        {
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303836,
+      "name": "Parted Ways (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4Xt5uvZALmrSKxcKNySPag"
+    },
+    {
+      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
       },
@@ -3799,7 +3987,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 219954,
       "name": "Pink Sky",
       "url": "https://open.spotify.com/track/067mB5gMI3BhrtPfLutzFm"
@@ -4227,7 +4415,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 201626,
       "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)",
       "url": "https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh"
@@ -4509,7 +4697,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 253253,
       "name": "Stand For Myself",
       "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
@@ -4707,7 +4895,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 198933,
       "name": "Sweet Little Girl",
       "url": "https://open.spotify.com/track/0Bd15LI6hSJLivjObLO6F6"
@@ -4885,7 +5073,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 218059,
       "name": "The Good Old Days",
       "url": "https://open.spotify.com/track/1svbMmmtcEyriimgAew0Xj"
@@ -5098,6 +5286,24 @@
     },
     {
       "album": {
+        "name": "The Way I Oughta Go",
+        "url": "https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250694,
+      "name": "The Way I Oughta Go",
+      "url": "https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU"
+    },
+    {
+      "album": {
         "name": "Carry Me Home",
         "url": "https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ"
       },
@@ -5277,7 +5483,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 227135,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl"
@@ -5537,7 +5743,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 268032,
       "name": "Wheel",
       "url": "https://open.spotify.com/track/6UXxzA4wX5qjteuBzMXrj6"
@@ -5649,7 +5855,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 169813,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/5YmEX0jmnkxNNg8vJsvbPN"
@@ -5733,6 +5939,24 @@
       "duration_ms": 194602,
       "name": "Wouldn't Know You",
       "url": "https://open.spotify.com/track/1qSjMi8VqbytnNdEkYs6PL"
+    },
+    {
+      "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179013,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/6BSPlPR4Pxz6WnUIBlrWWQ"
     },
     {
       "album": {

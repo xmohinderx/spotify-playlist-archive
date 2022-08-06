@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-140 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+142 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Innkeepers](https://open.spotify.com/track/1uFWx7FlhhgmBoTTqGAq8Y) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS) | 4:08 | 2022-01-21 | 2022-04-29 |
 | [Jealous of Birds](https://open.spotify.com/track/5A6k7MKg3gUMwT1Z9TCRKb) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Jealous of Birds](https://open.spotify.com/album/3b1uVZTRJF71DRH1qhEEUG) | 3:12 | 2021-04-19 |  |
 | [Jealous Of Birds](https://open.spotify.com/track/6nuoNN62XI74sF1MehARgZ) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Jealous Of Birds](https://open.spotify.com/album/1wvJvb2k412nebCXAsNuMW) | 3:12 | 2021-04-19 | 2022-07-29 |
-| [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 | 2021-07-09 |  |
+| [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 | 2021-07-09 | 2022-08-06 |
 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 | 2022-04-22 |  |
 | [Landslide](https://open.spotify.com/track/4PxDI6s8o1oXyGxaOO7AHO) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Landslide](https://open.spotify.com/album/0eSZDWoQtDYJqkZb0MDJIR) | 2:50 | 2021-04-19 | 2022-04-29 |
 | [Leave the Pieces \- The Campfire Sessions](https://open.spotify.com/track/5ba3IQJQV5WI4SwtC0ePvD) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Leave the Pieces \(The Campfire Sessions\)](https://open.spotify.com/album/5Umb24lg8mJWCLBTUjfo2d) | 3:43 | 2021-04-19 |  |
@@ -59,6 +59,7 @@
 | [Looks Like Me \- Piano Acoustic](https://open.spotify.com/track/256ArsGaVttMIF56zoSzT9) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me \(Acoustic\)](https://open.spotify.com/album/47bsK3xszAvwlsfp0KubZS) | 3:05 | 2021-11-26 |  |
 | [Loretta](https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6) | 2:56 | 2022-03-18 |  |
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-03-18 | 2022-07-29 |
+| [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 |  |
 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 | 2022-03-18 |  |
 | [make believe](https://open.spotify.com/track/6btp8C9tzrkVPFzwIhOByv) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [make believe](https://open.spotify.com/album/4v5FIKvi2HgnjJxmsBzJl4) | 2:31 | 2021-04-19 | 2022-07-29 |
 | [make believe](https://open.spotify.com/track/7xPMgzG0gtBPBmaEDVhblh) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [can't say we didn't try](https://open.spotify.com/album/7nucvlUXMw1LYrgb5YFwtF) | 2:31 | 2021-04-19 |  |
@@ -119,7 +120,7 @@
 | [The Trouble with Wanting](https://open.spotify.com/track/3UCFF2DMI2rbjusEuXHr5O) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:55 | 2021-04-19 | 2022-07-29 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2021-04-19 |  |
 | [The Way I](https://open.spotify.com/track/1VWjNt0izeh214tH5Ghn1v) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Oklahoma](https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy) | 3:22 | 2021-04-19 | 2022-04-29 |
-| [The Wire](https://open.spotify.com/track/2htzEakktoAB6bxDtA6iQi) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [The Wire](https://open.spotify.com/album/5uGY2LlTNOED1mwx8alln1) | 3:06 | 2021-10-22 |  |
+| [The Wire](https://open.spotify.com/track/2htzEakktoAB6bxDtA6iQi) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [The Wire](https://open.spotify.com/album/5uGY2LlTNOED1mwx8alln1) | 3:06 | 2021-10-22 | 2022-08-06 |
 | [The Years](https://open.spotify.com/track/5ppLTSYuW2XRUXRrtHO72z) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/38IhoHvSsheHtFlofWm8Kw) | 3:39 | 2022-04-08 |  |
 | [There You Are](https://open.spotify.com/track/0djPvkGasHhmWE61SVL5ZN) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [There You Are](https://open.spotify.com/album/1YcpaKi4ReJl7sFZGDazdd) | 3:05 | 2021-04-19 |  |
 | [There You Are](https://open.spotify.com/track/6PD7iSh23einHGUSxySwfR) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [There You Are](https://open.spotify.com/album/2XATcnL3lJFJPqGFj7Dmhl) | 3:05 | 2021-04-19 | 2022-07-29 |
@@ -133,6 +134,7 @@
 | [True Believer](https://open.spotify.com/track/7MU641dWQo8zzExfQD7HW0) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [True Believer](https://open.spotify.com/album/5JSL79s5wVIDQeIy2xI05Z) | 3:15 | 2021-04-19 |  |
 | [True Love](https://open.spotify.com/track/7sigUoQGHreBIG14Rn7LGp) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [Break Your Crowns](https://open.spotify.com/album/3GFaakqzHGqLPB2er6noUD) | 3:23 | 2021-04-19 |  |
 | [True North](https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 2:17 | 2022-04-29 |  |
+| [Trust in the Blue](https://open.spotify.com/track/0fzpLt2rI73GWQSiMfHs7w) | [Ram Dass](https://open.spotify.com/artist/0qXTvVI7Tgb1eA1fTgdxGk) | [Trust in the Blue](https://open.spotify.com/album/77dYW0aAyRB2Nevl1SLgk8) | 3:20 | 2022-08-05 |  |
 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 | 2022-03-18 |  |
 | [Universe](https://open.spotify.com/track/39xLmel5EtdwNhLlckj1TN) | [Hudson Moore](https://open.spotify.com/artist/26iVzd80yAXJjZlsrshRjQ) | [Universe](https://open.spotify.com/album/5Of0tnCeK1LKLjNBeziUX1) | 3:09 | 2021-04-19 |  |
 | [Waiting on a Ring](https://open.spotify.com/track/4U1pG0MZYc9OlPdpBx9Y3U) | [Roxan](https://open.spotify.com/artist/1oF4o7vpha3pVOrkH8KAT8) | [Waiting on a Ring](https://open.spotify.com/album/7p6FLb35eS8doM6Ndia7TN) | 2:33 | 2021-04-19 |  |

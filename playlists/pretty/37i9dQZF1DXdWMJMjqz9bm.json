@@ -1,13 +1,49 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: Nicky Youre",
-  "num_followers": 164312,
+  "num_followers": 164470,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1NjgwMSwwMDAwMDAwMGY2ZjczM2UzM2JhMWVkMDNiM2E2YTk3M2YzODgxZDVm",
+  "snapshot_id": "MTY1OTY4MTg0MCwwMDAwMDAwMDU2MTVjNzY3N2NkZGU4ODU2MWFhY2FkZWNiZDVmYTUx",
   "tracks": [
+    {
+      "added_at": "2022-08-05 06:44:00",
+      "album": {
+        "name": "Alley-Oop",
+        "url": "https://open.spotify.com/album/0OJLq8CREfpFv87oUACfF4"
+      },
+      "artists": [
+        {
+          "name": "Dazy Chain",
+          "url": "https://open.spotify.com/artist/2gHF2JSNXKMMTfF1mQxEK9"
+        },
+        {
+          "name": "Lone Waves",
+          "url": "https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Alley-Oop",
+      "url": "https://open.spotify.com/track/00lroakMBzkEPKCt2eNfrf"
+    },
+    {
+      "added_at": "2022-08-05 06:44:00",
+      "album": {
+        "name": "age tape 7",
+        "url": "https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "starstruck",
+      "url": "https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9"
+    },
     {
       "added_at": "2022-08-03 19:30:46",
       "album": {
@@ -65,6 +101,22 @@
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
+      "added_at": "2022-08-05 06:44:00",
+      "album": {
+        "name": "I Literally Never Think About You",
+        "url": "https://open.spotify.com/album/3dSrqg19hoTFp8AeI7MEeX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 175590,
+      "name": "I Literally Never Think About You",
+      "url": "https://open.spotify.com/track/2HMxow43AQQGcsMoi0YEcq"
+    },
+    {
       "added_at": "2022-07-22 06:39:00",
       "album": {
         "name": "I Love Life, Thank You",
@@ -105,6 +157,22 @@
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
+      "added_at": "2022-08-05 06:44:00",
+      "album": {
+        "name": "PAY ATTENTION",
+        "url": "https://open.spotify.com/album/3Jt0ysuRqkGLqZ94NUv9iO"
+      },
+      "artists": [
+        {
+          "name": "Luken",
+          "url": "https://open.spotify.com/artist/5My5zbBpSGJBOQGyCaAVCE"
+        }
+      ],
+      "duration_ms": 127346,
+      "name": "PAY ATTENTION",
+      "url": "https://open.spotify.com/track/7h74fcrF3X8tHrATyM4Wx3"
+    },
+    {
       "added_at": "2022-07-11 17:06:22",
       "album": {
         "name": "LYSA",
@@ -119,6 +187,26 @@
       "duration_ms": 157047,
       "name": "LYSA",
       "url": "https://open.spotify.com/track/5FZsAaTNEEz5LNBO0bcIZv"
+    },
+    {
+      "added_at": "2022-08-05 06:44:00",
+      "album": {
+        "name": "No Problem",
+        "url": "https://open.spotify.com/album/4Ozr50NBP57HTmb8IV5oL9"
+      },
+      "artists": [
+        {
+          "name": "Skizzy Mars",
+          "url": "https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/4x4APDqOrIjskTIJCd1pgp"
     },
     {
       "added_at": "2022-07-22 06:39:00",
@@ -155,22 +243,6 @@
       "duration_ms": 297404,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
-    },
-    {
-      "added_at": "2022-07-15 13:50:15",
-      "album": {
-        "name": "Zipcodes",
-        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -253,6 +325,38 @@
       "url": "https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC"
     },
     {
+      "added_at": "2022-08-05 06:44:00",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "added_at": "2022-08-05 06:44:00",
+      "album": {
+        "name": "Hablot Brown",
+        "url": "https://open.spotify.com/album/0m0bo1CSzebkmFL486kMZY"
+      },
+      "artists": [
+        {
+          "name": "Hablot Brown",
+          "url": "https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/5geQsvsLNaEF7e8AJORdMd"
+    },
+    {
       "added_at": "2022-07-05 14:49:37",
       "album": {
         "name": "age tape 5",
@@ -305,20 +409,24 @@
       "url": "https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2022-08-05 06:44:00",
       "album": {
-        "name": "Man On The Moon: The End Of Day (Deluxe)",
-        "url": "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3"
+        "name": "PRADA ME",
+        "url": "https://open.spotify.com/album/5KbRQhHI3WZVr9DaIjPd3z"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "RILEY",
+          "url": "https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
         }
       ],
-      "duration_ms": 210893,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk"
+      "duration_ms": 192198,
+      "name": "PRADA ME",
+      "url": "https://open.spotify.com/track/3LCpL8sZLGBNw7KwzDyHwE"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -335,26 +443,6 @@
       "duration_ms": 128156,
       "name": "My Shit",
       "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Walk Around",
-        "url": "https://open.spotify.com/album/6UUugVOt7WnPXz3Oy1357L"
-      },
-      "artists": [
-        {
-          "name": "Double A-Ron",
-          "url": "https://open.spotify.com/artist/4F2fO13keDtQ3zYtKpxlua"
-        },
-        {
-          "name": "Jdillon",
-          "url": "https://open.spotify.com/artist/5eNYvtpRb5v6pA7cAj6EeT"
-        }
-      ],
-      "duration_ms": 132705,
-      "name": "Walk Around",
-      "url": "https://open.spotify.com/track/6WFW82dzsdevDzS2zAle04"
     },
     {
       "added_at": "2022-07-05 14:49:37",

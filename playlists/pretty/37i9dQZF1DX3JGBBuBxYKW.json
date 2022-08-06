@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Soledad & Natalie Perez.",
-  "num_followers": 74036,
+  "num_followers": 74059,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDI1MDc5YmRjNjU0N2M0YzU3N2I2MTc5N2FhZTFmZWRl",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDNjMGYxNTI3M2ZkMmVkMzFjNjc0MWQ0ZDk5ZDQ3ZWNj",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Las Solteras",
-        "url": "https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 200286,
-      "name": "Las Solteras",
-      "url": "https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 217190,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Las Solteras",
+        "url": "https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "duration_ms": 200286,
+      "name": "Las Solteras",
+      "url": "https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -875,22 +875,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Dos Infieles",
-        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
       "artists": [
         {
-          "name": "Lumila",
-          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Dos Infieles",
-      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
+      "duration_ms": 222361,
+      "name": "No Te Ir\u00e1s",
+      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -931,18 +927,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+        "name": "Dos Infieles",
+        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Lumila",
+          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 222361,
-      "name": "No Te Ir\u00e1s",
-      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
+      "duration_ms": 224573,
+      "name": "Dos Infieles",
+      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
     },
     {
       "added_at": "2022-07-08 03:00:00",

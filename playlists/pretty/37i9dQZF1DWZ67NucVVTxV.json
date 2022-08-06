@@ -1,13 +1,29 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 8895,
+  "num_followers": 8930,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMGE1MzIxOTM2ZTEzYzUxYjk1NjI1OWQzM2RlZDE4ZjMw",
+  "snapshot_id": "MTY1OTY4NTU5MiwwMDAwMDAwMDEzNWIyNTYzMzFkMzIyYjIwZGM1ZGM5NzUxM2MyY2Nm",
   "tracks": [
+    {
+      "added_at": "2022-07-25 06:25:03",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
     {
       "added_at": "2022-07-14 23:00:00",
       "album": {
@@ -29,20 +45,40 @@
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
-      "added_at": "2022-06-13 13:24:38",
+      "added_at": "2022-06-03 03:55:07",
       "album": {
-        "name": "Adulthood Anthem",
-        "url": "https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky"
+        "name": "Come & Go (Black Sherif Remix)",
+        "url": "https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht"
       },
       "artists": [
         {
-          "name": "Lad\u00e9",
-          "url": "https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1"
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 164271,
-      "name": "Adulthood Anthem",
-      "url": "https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ"
+      "duration_ms": 179580,
+      "name": "Come & Go - Black Sherif Remix",
+      "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU"
+      },
+      "artists": [
+        {
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+        }
+      ],
+      "duration_ms": 180715,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB"
     },
     {
       "added_at": "2022-03-03 23:00:00",
@@ -89,6 +125,22 @@
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
     },
     {
+      "added_at": "2022-08-05 07:46:32",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 139171,
+      "name": "Timoti",
+      "url": "https://open.spotify.com/track/1HG9yS1bhOSsrUoHdUEnbW"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Propeller (feat. Dave & BNXN)",
@@ -113,36 +165,20 @@
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
-      "added_at": "2022-07-25 06:25:03",
+      "added_at": "2022-02-17 23:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Try",
+        "url": "https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU"
-      },
-      "artists": [
-        {
-          "name": "T DOLLAR",
-          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
-        }
-      ],
-      "duration_ms": 180715,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB"
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4"
     },
     {
       "added_at": "2021-10-01 05:40:45",
@@ -165,24 +201,20 @@
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
-      "added_at": "2022-06-03 03:55:07",
+      "added_at": "2022-08-05 07:46:32",
       "album": {
-        "name": "Come & Go (Black Sherif Remix)",
-        "url": "https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht"
+        "name": "New Born Fela",
+        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
       },
       "artists": [
         {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 179580,
-      "name": "Come & Go - Black Sherif Remix",
-      "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
+      "duration_ms": 129807,
+      "name": "New Born Fela",
+      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
     },
     {
       "added_at": "2021-07-05 06:40:30",
@@ -237,22 +269,6 @@
       "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
     },
     {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4"
-    },
-    {
       "added_at": "2022-07-22 04:30:31",
       "album": {
         "name": "Kenkele",
@@ -271,6 +287,22 @@
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
+    },
+    {
+      "added_at": "2022-06-13 13:24:38",
+      "album": {
+        "name": "Adulthood Anthem",
+        "url": "https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky"
+      },
+      "artists": [
+        {
+          "name": "Lad\u00e9",
+          "url": "https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1"
+        }
+      ],
+      "duration_ms": 164271,
+      "name": "Adulthood Anthem",
+      "url": "https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -325,6 +357,22 @@
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
     },
     {
+      "added_at": "2022-08-05 07:46:32",
+      "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6U6xSPl0jp99LrivxaMrfs"
+      },
+      "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        }
+      ],
+      "duration_ms": 159683,
+      "name": "Simple Life",
+      "url": "https://open.spotify.com/track/0ZsAXyNxVMlLYMM7TbdOPR"
+    },
+    {
       "added_at": "2021-07-05 06:40:30",
       "album": {
         "name": "Twice As Tall",
@@ -355,26 +403,6 @@
       "duration_ms": 185000,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Superstar (Re-Up)",
-        "url": "https://open.spotify.com/album/3IizzkPu9gICSo6mUnMe9Y"
-      },
-      "artists": [
-        {
-          "name": "Melon",
-          "url": "https://open.spotify.com/artist/1nMR9WBk7bWLnAqz5MoVGs"
-        },
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Superstar (Re-Up)",
-      "url": "https://open.spotify.com/track/0cBkD7gWJizeBIT2MR411t"
     },
     {
       "added_at": "2022-07-13 06:32:10",
@@ -465,6 +493,26 @@
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
+      "added_at": "2022-08-05 07:46:32",
+      "album": {
+        "name": "The Unbroken",
+        "url": "https://open.spotify.com/album/42i9e2ejdzOAyBCG0oRSzO"
+      },
+      "artists": [
+        {
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+        },
+        {
+          "name": "Akan",
+          "url": "https://open.spotify.com/artist/7baoHltUTBKIDzzHLJ1aXT"
+        }
+      ],
+      "duration_ms": 274951,
+      "name": "Accra (feat. Akan)",
+      "url": "https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Boy Alone",
@@ -495,22 +543,6 @@
       "duration_ms": 193199,
       "name": "Never Stopped",
       "url": "https://open.spotify.com/track/7dkfbGHwMS6rt26cda0BUY"
-    },
-    {
-      "added_at": "2022-07-22 04:30:31",
-      "album": {
-        "name": "ATOM",
-        "url": "https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Weekenjoyment",
-      "url": "https://open.spotify.com/track/3eDN2mOgfKDdYkWGHsvbFj"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -609,50 +641,6 @@
       "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Born (Remix) [feat. Cashh & King Promise]",
-        "url": "https://open.spotify.com/album/5c2opaEOTa8gn5Ufinm3H1"
-      },
-      "artists": [
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
-          "name": "Cashh",
-          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 167017,
-      "name": "Born (Remix) [feat. Cashh & King Promise]",
-      "url": "https://open.spotify.com/track/6ztz7MysNjHec8CHmigWDp"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Bigger Than Life",
-        "url": "https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Bigger Than Life",
-      "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Love, Damini",
@@ -673,38 +661,6 @@
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "King of Melodies",
-        "url": "https://open.spotify.com/album/1ifp91N2jYTmlLqT1Su4ma"
-      },
-      "artists": [
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
-        }
-      ],
-      "duration_ms": 164779,
-      "name": "Bonsam Dollar",
-      "url": "https://open.spotify.com/track/4JiMqXP10Z37OscLQgUbzZ"
-    },
-    {
-      "added_at": "2022-07-22 04:30:31",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/6sP1bUcEMPD5EjUT90xpKU"
-      },
-      "artists": [
-        {
-          "name": "May D",
-          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
-        }
-      ],
-      "duration_ms": 166434,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/462XmGTnwXX23ZzHf4WWx7"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Get My Money Right",
@@ -719,22 +675,6 @@
       "duration_ms": 177088,
       "name": "Get My Money Right",
       "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Don't Call My Phone",
-        "url": "https://open.spotify.com/album/64RbcLiK3CJmDNDoeDVhPE"
-      },
-      "artists": [
-        {
-          "name": "Eclipse Nkasi",
-          "url": "https://open.spotify.com/artist/5W0ju8WxXttippwJWclXj4"
-        }
-      ],
-      "duration_ms": 169116,
-      "name": "Don't Call My Phone",
-      "url": "https://open.spotify.com/track/2frdXuJDGCVQPwz3H8aq28"
     },
     {
       "added_at": "2022-03-29 06:00:24",
@@ -825,26 +765,6 @@
       "url": "https://open.spotify.com/track/2If4yVXLFbGksTtbn260Se"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "Stand Strong (feat. Sunday Service Choir)",
-        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 182791,
-      "name": "Stand Strong (feat. Sunday Service Choir)",
-      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Billing",
@@ -907,22 +827,6 @@
       "duration_ms": 209264,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/3vWfYFzMoHkioV6sx35n6L"
-    },
-    {
-      "added_at": "2022-07-22 09:55:34",
-      "album": {
-        "name": "ONIPA",
-        "url": "https://open.spotify.com/album/7CG7pUu4tJwzO20syeUcrb"
-      },
-      "artists": [
-        {
-          "name": "Vondee",
-          "url": "https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "ONIPA",
-      "url": "https://open.spotify.com/track/2KKwU8ObJcEGD5pnFZzbcI"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -1381,26 +1285,6 @@
       "url": "https://open.spotify.com/track/6N9GrK3OSdZPgiFnXEnucr"
     },
     {
-      "added_at": "2022-04-07 23:00:00",
-      "album": {
-        "name": "Fit",
-        "url": "https://open.spotify.com/album/2lOpfxIDLxNywuvmfYPxIH"
-      },
-      "artists": [
-        {
-          "name": "Kreptismenace",
-          "url": "https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Fit",
-      "url": "https://open.spotify.com/track/4uMaERdYKmWCTpbTSlwHPh"
-    },
-    {
       "added_at": "2022-02-17 23:00:00",
       "album": {
         "name": "MMM (feat. MohBad & Rexxie)",
@@ -1529,22 +1413,6 @@
       "url": "https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM"
     },
     {
-      "added_at": "2022-04-07 23:00:00",
-      "album": {
-        "name": "Can't Stop Me",
-        "url": "https://open.spotify.com/album/7gfBnv1pWY6a3JLceiXeAE"
-      },
-      "artists": [
-        {
-          "name": "badthesoundboy",
-          "url": "https://open.spotify.com/artist/39xSEItKpV8z7fhtLn5lRI"
-        }
-      ],
-      "duration_ms": 138907,
-      "name": "Can't Stop Me",
-      "url": "https://open.spotify.com/track/4goMPS6RIikE3MmfrUYVrj"
-    },
-    {
       "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Ride For Me",
@@ -1595,46 +1463,6 @@
       "duration_ms": 170187,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/4frYjcru01K8WkQZYc3KqX"
-    },
-    {
-      "added_at": "2022-06-03 03:55:07",
-      "album": {
-        "name": "Expensive OG",
-        "url": "https://open.spotify.com/album/75UAX3c5Ahb7offUmPHyqB"
-      },
-      "artists": [
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
-        }
-      ],
-      "duration_ms": 222148,
-      "name": "Expensive OG",
-      "url": "https://open.spotify.com/track/2uouDmVWCi9IlxG8x7O7VR"
-    },
-    {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
-        "url": "https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Bella Alubo",
-          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
-        }
-      ],
-      "duration_ms": 232661,
-      "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
-      "url": "https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i"
     },
     {
       "added_at": "2022-04-28 23:00:00",

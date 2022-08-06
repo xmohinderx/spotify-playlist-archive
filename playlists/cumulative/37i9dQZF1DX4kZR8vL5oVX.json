@@ -872,6 +872,24 @@
     },
     {
       "album": {
+        "name": "C'est chelou",
+        "url": "https://open.spotify.com/album/1b1nMEfygA0ri4WF5V9NcB"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196039,
+      "name": "C'est chelou",
+      "url": "https://open.spotify.com/track/6pgH24QHnJF9vS10Un52z7"
+    },
+    {
+      "album": {
         "name": "C'est mort",
         "url": "https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP"
       },

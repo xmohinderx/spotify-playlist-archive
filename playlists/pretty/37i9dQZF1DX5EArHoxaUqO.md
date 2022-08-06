@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 24 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 681 likes - 24 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

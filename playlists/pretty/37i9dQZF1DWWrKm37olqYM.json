@@ -1,6 +1,6 @@
 {
   "description": "The raw, bass-trembling energy of Baltimore Club. A selection of classic and new tracks. Cover: Rican Da Menace",
-  "num_followers": 11600,
+  "num_followers": 11613,
   "original_name": "Baltimore Club",
   "owner": {
     "name": "Spotify",
@@ -1056,12 +1056,12 @@
       },
       "artists": [
         {
-          "name": "Rod Lee",
-          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
-        },
-        {
           "name": "DJ Class",
           "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        },
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
         }
       ],
       "duration_ms": 186906,
@@ -1078,6 +1078,10 @@
         {
           "name": "KW Griff",
           "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
+        },
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
         }
       ],
       "duration_ms": 146813,

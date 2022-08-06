@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Coheed and Cambria",
+  "description": "For the Hard Rock and full volume lovers. Cover: Muse",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 272720,
       "name": "Black Phoenix",
       "url": "https://open.spotify.com/track/7uy1wXlIw0IjGOS6wKlpGs"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 265500,
       "name": "Hot Mess",
       "url": "https://open.spotify.com/track/2rHM0Z7AOHN4FiDMfvpqwW"
@@ -2122,6 +2122,24 @@
     },
     {
       "album": {
+        "name": "Kill Or Be Killed",
+        "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299060,
+      "name": "Kill Or Be Killed",
+      "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
+    },
+    {
+      "album": {
         "name": "Ego Trip",
         "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },
@@ -2378,6 +2396,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243977,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc"
+    },
+    {
+      "album": {
         "name": "Generation Mind",
         "url": "https://open.spotify.com/album/6UGcYx1XfJH0oUikg4ytrq"
       },
@@ -2589,7 +2625,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 325135,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/7zFx8H6whkcPEm2a1hPrck"
@@ -3219,7 +3255,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 215362,
       "name": "Rotoscope",
       "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
@@ -3277,6 +3313,24 @@
       "duration_ms": 184636,
       "name": "Save Me from Myself",
       "url": "https://open.spotify.com/track/72JETKVAqfC7yX09OvfYOm"
+    },
+    {
+      "album": {
+        "name": "Feel This",
+        "url": "https://open.spotify.com/album/1KRDInixnT3AO7K6HQkKty"
+      },
+      "artists": [
+        {
+          "name": "Crobot",
+          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/3YLbIF9J9jtbmIeuBvzN4j"
     },
     {
       "album": {
@@ -3723,7 +3777,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 257903,
       "name": "tear gas",
       "url": "https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF"
@@ -3871,6 +3925,42 @@
       "duration_ms": 267971,
       "name": "The Devil Comes with a Smile",
       "url": "https://open.spotify.com/track/17qb0QIL1YFUzrXyfH4E3A"
+    },
+    {
+      "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "album": {
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
     },
     {
       "album": {
@@ -4037,6 +4127,24 @@
       "duration_ms": 176306,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/6WUgfVk8ls7zPs3O49y7Cx"
+    },
+    {
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
       "album": {
@@ -4779,7 +4887,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"

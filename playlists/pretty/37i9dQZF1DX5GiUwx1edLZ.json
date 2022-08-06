@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 272869,
+  "num_followers": 272879,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0Mjk1MiwwMDAwMDAwMDdjNjZlNWEzM2IzNWRlODhhMmQ0NWYzYzMwY2U3NDYy",
+  "snapshot_id": "MTY1NjM0Mjk1MiwwMDAwMDAwMGM0YTU4ZWViYjE5ZmRjNWQzNjVjY2I4MzZjODViNDIz",
   "tracks": [
     {
       "added_at": "2022-06-27 15:15:52",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
         "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 191327,
       "name": "By Your Side (feat. Tom Grennan) - Acoustic",
       "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1207,26 +1207,26 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
-        "name": "Brand New Machine",
-        "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
+        "name": "Feel Good (feat. Daya) [Acoustic]",
+        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "Abigail Wyles",
-          "url": "https://open.spotify.com/artist/67vBB5vAKwEW9YZUgU8YRx"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 238640,
-      "name": "What Is Right",
-      "url": "https://open.spotify.com/track/0kmnAeHOhccNv6cCRj1wks"
+      "duration_ms": 239772,
+      "name": "Feel Good (feat. Daya) - Acoustic",
+      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1251,26 +1251,26 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
-        "name": "Feel Good (feat. Daya) [Acoustic]",
-        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
+        "name": "Brand New Machine",
+        "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         },
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         },
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Abigail Wyles",
+          "url": "https://open.spotify.com/artist/67vBB5vAKwEW9YZUgU8YRx"
         }
       ],
-      "duration_ms": 239772,
-      "name": "Feel Good (feat. Daya) - Acoustic",
-      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
+      "duration_ms": 238640,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/0kmnAeHOhccNv6cCRj1wks"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1311,6 +1311,26 @@
       "duration_ms": 184000,
       "name": "I Wish (feat. Mabel) - Acoustic",
       "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
+        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
+        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
+      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1371,22 +1391,6 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
       },
@@ -1399,6 +1403,22 @@
       "duration_ms": 364392,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/0csgmo2EUovO4VB21Jgc37"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1447,26 +1467,6 @@
       "duration_ms": 216339,
       "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
       "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
-        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
-        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 205159,
-      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
-      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
+        "name": "Leave The World Behind",
+        "url": "https://open.spotify.com/album/5uV7LdCwpYY8YWSglxoi24"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Leave The World Behind",
+      "url": "https://open.spotify.com/track/5baBmxsbZqUYCZ6Mgo1txk"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
         "name": "Crazy (Remixes - Pt. 1)",
         "url": "https://open.spotify.com/album/63oRa4RTNrXMMlyNWsHHcO"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 171743,
       "name": "Crazy - Acoustic Version",
       "url": "https://open.spotify.com/track/5HhEkkAFcGMYLQbF6GUa6C"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
-        "name": "Leave The World Behind",
-        "url": "https://open.spotify.com/album/5uV7LdCwpYY8YWSglxoi24"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Leave The World Behind",
-      "url": "https://open.spotify.com/track/5baBmxsbZqUYCZ6Mgo1txk"
     },
     {
       "added_at": "2022-06-27 15:15:52",

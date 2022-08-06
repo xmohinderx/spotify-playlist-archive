@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-288 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+292 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2022-05-20 |  |
 | [Break](https://open.spotify.com/track/0r9lZcq4khAYHolIT4IAGr) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [Break](https://open.spotify.com/album/0MBfs6wwiujJjBJvIFLuw6) | 1:55 | 2022-05-20 | 2022-07-08 |
 | [Bronco](https://open.spotify.com/track/6guKuoVFVI7s1VTZqjHk3K) | [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5) | [Bronco](https://open.spotify.com/album/6XqkrUjPorwLnmy3rEj0k1) | 1:36 | 2022-06-24 |  |
+| [Bubbles Around Me](https://open.spotify.com/track/6qrCkyPOQBFe2V0Aer2cWX) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Bubbles Around Me](https://open.spotify.com/album/4ox8valqKzDIg24FylVzXC) | 2:33 | 2022-08-05 |  |
 | [Buda Nights](https://open.spotify.com/track/27VtLMIpNopyAezShebYCF) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU), [deciseeo](https://open.spotify.com/artist/74j5kSzqn9oJohyTUMmGZB) | [Buda Nights](https://open.spotify.com/album/5j9EPMmck4PWNp7FsfoNdP) | 2:37 | 2022-05-20 |  |
 | [cab driver](https://open.spotify.com/track/5SjIaEZGCRBppzTGLMRObw) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [cab driver](https://open.spotify.com/album/0zdts9MVKHAoQ7OqkFt39z) | 2:36 | 2022-05-20 |  |
 | [Calicall](https://open.spotify.com/track/7s7cgU5RJ3vhWp1ZYRr8UR) | [Monkey Larsson](https://open.spotify.com/artist/1NNMXNmMeMap4smySFZTLk) | [Calicall](https://open.spotify.com/album/7f0iQN9EVtjX2qzBTJM0lO) | 1:38 | 2022-05-20 | 2022-06-10 |
@@ -113,6 +114,7 @@
 | [Halflife](https://open.spotify.com/track/1R02qM89MHLikDdUF2TlGo) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Changes in Time](https://open.spotify.com/album/3UpsBQyvhgxvTk8YVlTetN) | 3:26 | 2022-07-27 |  |
 | [hangover](https://open.spotify.com/track/3Aj99QBnPuowk3n6bkFciI) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [hangover](https://open.spotify.com/album/6k7G39ATeXkoPjsU3rAEZ8) | 1:49 | 2022-05-20 |  |
 | [Hazy Days](https://open.spotify.com/track/5a4yFujtkeeVN3xHP0unSB) | [Ekolon](https://open.spotify.com/artist/5eRacV1s1AkqWd8Fo8inSW) | [Hazy Days](https://open.spotify.com/album/48lKvWCTFcwosC8FRuWbYh) | 1:37 | 2022-05-20 | 2022-06-10 |
+| [Hidden Path](https://open.spotify.com/track/3JcjNkPYzunshzSf4Pr2cq) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Faded](https://open.spotify.com/album/1nZOU4sLTLXDz0RaTE1yPy) | 2:47 | 2022-08-05 |  |
 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 | 2022-05-20 |  |
 | [high time](https://open.spotify.com/track/2Ff29LxXQoyc0CyqG4sojY) | [maja andino](https://open.spotify.com/artist/4zGvgGIRSFQmOjfLG5qQuh) | [high time](https://open.spotify.com/album/7flAMRCpxH9MBOUug8lacr) | 1:28 | 2022-05-20 |  |
 | [hiraeth](https://open.spotify.com/track/5mmuH8pMKMH2LxoTarovTL) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [hiraeth](https://open.spotify.com/album/2FzLX0mQtTxDFfN7Z2bSG7) | 1:33 | 2022-05-20 |  |
@@ -184,6 +186,7 @@
 | [Nightcap](https://open.spotify.com/track/4IcvQehCaRync2poO239V4) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:26 | 2022-05-20 |  |
 | [Nightfall](https://open.spotify.com/track/3Ogra1a0VmoUwsxHUOmbZw) | [Draw Beats](https://open.spotify.com/artist/36JWIw87ka7WsPRMBLGB3F) | [Nightfall](https://open.spotify.com/album/46UFnbPeIvmRGZc82h13zf) | 3:14 | 2022-06-17 |  |
 | [Nightfall](https://open.spotify.com/track/5PZcZPU445s16dA2PF8Bo7) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Nightfall](https://open.spotify.com/album/32D8bFNMzpZ6arO7zqBi3d) | 2:10 | 2022-05-20 |  |
+| [Nightlife](https://open.spotify.com/track/7Mf3lT7iOoBckLovLYR4me) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Nightlife](https://open.spotify.com/album/3jg7PqzDvVpYXHVBiTEuSg) | 2:28 | 2022-08-05 |  |
 | [no capuccino](https://open.spotify.com/track/1E7OUtZolsHcNCvn2JFKwS) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [fin alley](https://open.spotify.com/album/10VoNIPKgsTtrpV5hJtNPj) | 2:01 | 2022-05-20 |  |
 | [Nocturne](https://open.spotify.com/track/1bHV89KOaMMAHn9DGbpn0i) | [Digimazz](https://open.spotify.com/artist/0r4jxyuYzVGceiKpA9188p) | [Nocturne](https://open.spotify.com/album/0c95UQZbAT5ulrcizxI3xI) | 2:16 | 2022-05-20 |  |
 | [Northern Lights](https://open.spotify.com/track/0PFMhSR3vDrxaMA4m1DPdO) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Northern Lights](https://open.spotify.com/album/5HixHcyUxBR10KBYvAGXfi) | 2:22 | 2022-05-20 |  |
@@ -238,6 +241,7 @@
 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 | 2022-05-20 |  |
 | [Segundi](https://open.spotify.com/track/2nxl8OxEJVrQLpUGFiYiqo) | [Fuzl](https://open.spotify.com/artist/4PcJcSL24JeqLoQla78EPA), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Segundi](https://open.spotify.com/album/5M16glnrF2da7Wcl7xr9V7) | 2:44 | 2022-05-20 |  |
 | [Serene](https://open.spotify.com/track/7c5AVhL9bDKTrSsaYDHNpW) | [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Serene](https://open.spotify.com/album/1jgDDthw4uOqZRxNwYkZ4o) | 1:58 | 2022-05-20 |  |
+| [Shala](https://open.spotify.com/track/6fP9jLkiUxZ4NIFUDDLCK4) | [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li), [Layandar](https://open.spotify.com/artist/3SE9JR8Ors7GGbUWHYjgsv) | [Shala](https://open.spotify.com/album/1G7G6StRY16dbgtufoS1oY) | 2:12 | 2022-08-05 |  |
 | [Shinrin\-yoku](https://open.spotify.com/track/2ByA0nEhebx6CD22wMmGM7) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Shinrin\-yoku](https://open.spotify.com/album/0IOnDUjJlSqQ1Vy9x6Vbfq) | 1:56 | 2022-05-20 |  |
 | [Side Focus](https://open.spotify.com/track/3bXjePJ9oGJJ4pt7U9yWw6) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Magic City](https://open.spotify.com/album/4v2xg0Vq1c9JHDwTygsHdN) | 1:55 | 2022-05-20 |  |
 | [silk umbrella](https://open.spotify.com/track/6AGzhBwJugJ1koUC5PcVcM) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [silk umbrella](https://open.spotify.com/album/1SSIOoSuWglZbaZ0S266Nt) | 1:46 | 2022-05-20 |  |

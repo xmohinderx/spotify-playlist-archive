@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Sael",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: paopao",
   "name": "el nuevo urbano",
   "published_playlist_ids": [
     "1VeWyX96wAd9PwEhX7cbqr"
@@ -915,6 +915,28 @@
       "duration_ms": 159218,
       "name": "Duelo",
       "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
+    },
+    {
+      "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "ea diache",
+      "url": "https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u"
     },
     {
       "album": {
@@ -2787,7 +2809,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 135967,
       "name": "Se Enamor\u00f3 de un Reggaetonero",
       "url": "https://open.spotify.com/track/0dlEA0Yhxsd09QWncDvaXF"

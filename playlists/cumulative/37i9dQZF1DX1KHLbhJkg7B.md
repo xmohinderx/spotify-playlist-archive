@@ -2,9 +2,9 @@
 
 ### [Country Covers](https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B)
 
-> Unique versions of hit songs by other artists\.  Cover: Garth Brooks and Trisha Yearwood
+> Unique versions of hit songs by other artists\. Cover: Ashley McBryde
 
-246 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+248 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Anymore](https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5) | [Will Dempsey](https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd) | [Anymore](https://open.spotify.com/album/5DfR3WXx0ior8OriOD9cK1) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [Back in the High Life Again](https://open.spotify.com/track/1wfBLVzNoH2pQEeydZAs6N) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 4:40 | 2021-12-10 | 2022-07-23 |
 | [Banana Pancakes](https://open.spotify.com/track/7B1qzMdyg0NnqNmRCLqbRs) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:36 | 2021-12-10 | 2022-07-13 |
-| [Bartender's Blues](https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 4:11 | 2021-12-10 |  |
+| [Bartender's Blues](https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 4:11 | 2021-12-10 | 2022-08-06 |
 | [Because Of You](https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Reba Duets](https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL) | 3:43 | 2021-12-10 |  |
 | [Best Of You](https://open.spotify.com/track/7tVn9cFAt6tUYMyfETwbab) | [Rick Monroe and The Hitmen](https://open.spotify.com/artist/67VBNCfGT2EPGiViUNcJS3) | [Best Of You](https://open.spotify.com/album/1KixnOQFsdbvOWqxEdwdVn) | 4:00 | 2022-03-25 | 2022-04-20 |
 | [Big Love](https://open.spotify.com/track/2bBDdsNOksX2mS53aSm6tY) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Big Love](https://open.spotify.com/album/67bDcxrb2epJ9ZFDhN9KKQ) | 4:13 | 2021-12-10 | 2022-07-22 |
@@ -86,7 +86,7 @@
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/0zjJk9nPRn5WnWd0N7umq3) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [Grandpa \(Tell Me 'bout the Good Old Days\)](https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Grandpa \(Tell Me 'bout the Good Old Days\)](https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD) | 3:45 | 2022-02-18 |  |
 | [Gravity](https://open.spotify.com/track/50bl0NTA9dEgHCQmgZ4mgh) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Continuum Project](https://open.spotify.com/album/7ljTrfut56dtqVFM3nDmyI) | 4:24 | 2022-01-07 | 2022-07-29 |
-| [Hallelujah](https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Hallelujah](https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS) | 4:07 | 2021-12-10 |  |
+| [Hallelujah](https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Hallelujah](https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS) | 4:07 | 2021-12-10 | 2022-08-06 |
 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 | 2021-12-10 |  |
 | [Handsomer](https://open.spotify.com/track/0T6y71ITwHF0Ab4fqoz9nr) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Handsomer](https://open.spotify.com/album/639QBBCG2rzXg2nOOOPwS3) | 2:17 | 2022-07-08 | 2022-07-29 |
 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 | 2021-12-10 |  |
@@ -184,6 +184,7 @@
 | [Rocket Man](https://open.spotify.com/track/2SKSUxtD60P62m9sG6QUhL) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 4:47 | 2021-12-10 |  |
 | [Run](https://open.spotify.com/track/2RRUtmzxskvu9dPAJqVX6M) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [ENZI](https://open.spotify.com/artist/61sy3aPmHy18yg0Bjp8s8L) | [Run](https://open.spotify.com/album/6z3nq9k1HgzzvNPxek9pOn) | 4:47 | 2022-04-01 | 2022-06-13 |
 | [Seminole Wind](https://open.spotify.com/track/5W8AbCPIxgy6sJ29OjAV7G) | [American Young](https://open.spotify.com/artist/5qgwXZgnJnxS83T5CtqkLg) | [Seminole Wind](https://open.spotify.com/album/1lFm9MeyQcuCZiu5szg6Dv) | 3:36 | 2021-12-10 | 2022-07-29 |
+| [Seminole Wind](https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 4:38 | 2022-08-05 |  |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Uncovered](https://open.spotify.com/album/5hs99gvzSISGOEmncgy853) | 3:30 | 2021-12-10 |  |
 | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 | 2021-12-10 |  |
 | [Should've Been A Cowboy](https://open.spotify.com/track/7c20lA9sS4c5CeulMOSAZt) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Should've Been A Cowboy](https://open.spotify.com/album/4qU7lxvipvrDnPVfydiiaH) | 3:35 | 2022-03-11 | 2022-07-26 |
@@ -198,6 +199,7 @@
 | [Stay](https://open.spotify.com/track/2WS83LPXX6angsFsmUHies) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Stay](https://open.spotify.com/album/4RQynGVaqBsnvntk8Dap5r) | 4:48 | 2022-03-25 | 2022-04-15 |
 | [Stay](https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n) | 3:45 | 2022-07-29 |  |
 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 | 2022-04-15 | 2022-07-12 |
+| [Straight Tequila Night](https://open.spotify.com/track/6rM6byRRxL2BZEKJ4UMNBl) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:23 | 2022-08-05 |  |
 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2021-12-10 |  |
 | [Streets of Bakersfield](https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Buenas Noches From a Lonely Room](https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx) | 2:48 | 2021-12-10 |  |
 | [Stuck in the Middle](https://open.spotify.com/track/73t1lXdxQNxiPbPAQPzCu4) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Speed of Life](https://open.spotify.com/album/3MjcswHYmTHkQYkTbfG9je) | 3:42 | 2022-01-07 | 2022-07-20 |

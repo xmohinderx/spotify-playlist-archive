@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Standly & Cris Mj.",
+  "description": "Este Flow tiene otro Flow. Foto: Harry Nach.",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 187826,
       "name": "A Escondidas",
       "url": "https://open.spotify.com/track/7iOns39ZyM38mks8uzzYyn"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 188992,
       "name": "A Lo Mat\u00f3n",
       "url": "https://open.spotify.com/track/7vxnJ22SO4yVdjbhI7pbe5"
@@ -268,6 +268,24 @@
     },
     {
       "album": {
+        "name": "Callate Perro",
+        "url": "https://open.spotify.com/album/6bSLNCEtz7VzMkUHUXw6oh"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190406,
+      "name": "Callate Perro",
+      "url": "https://open.spotify.com/track/2dx4GBIrGZdgOpJW1H5hzg"
+    },
+    {
+      "album": {
         "name": "Calle y Pistola",
         "url": "https://open.spotify.com/album/2rMOOoHNbnz9cw4WrZP2fV"
       },
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 615775,
       "name": "Dale Corte 2",
       "url": "https://open.spotify.com/track/2ckdNqJv6NLbzYz80M8dby"
@@ -732,6 +750,28 @@
     },
     {
       "album": {
+        "name": "Pa los Satiros, Vol. 1",
+        "url": "https://open.spotify.com/album/3lrehR76ZVIXv6Osss20qt"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Encima de Mi",
+      "url": "https://open.spotify.com/track/7qHH0VoBxzBF6NsCOpR9Xx"
+    },
+    {
+      "album": {
         "name": "Envidia",
         "url": "https://open.spotify.com/album/4zUUfnRuxLcbL174S076Ck"
       },
@@ -809,6 +849,28 @@
       "duration_ms": 222693,
       "name": "ESE CULITO",
       "url": "https://open.spotify.com/track/4ezUYRDJUiLuupER93nkiX"
+    },
+    {
+      "album": {
+        "name": "Experimento 01",
+        "url": "https://open.spotify.com/album/0TD1YrV99XSu9wwRxe0MEa"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Experimento 01",
+      "url": "https://open.spotify.com/track/25yOopxmGC67836N4POHBg"
     },
     {
       "album": {
@@ -991,7 +1053,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 156096,
       "name": "Full Pioli (feat. Best)",
       "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
@@ -1231,7 +1293,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 165047,
       "name": "La Gata",
       "url": "https://open.spotify.com/track/79maEGHcaiZ3aIVPFZb9QF"
@@ -2271,10 +2333,40 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 191887,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/3z3mBsF91nCTTOKlUIedCz"
+    },
+    {
+      "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "PERDON TOI EN DINERO",
+      "url": "https://open.spotify.com/track/2d75kmyVQm1L7Lasq0Hdkz"
     },
     {
       "album": {
@@ -2430,6 +2522,28 @@
     },
     {
       "album": {
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/7GKgYZStXWPFktJBrH3bVM"
+      },
+      "artists": [
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197015,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/3y8stkhKVX4cFf66yr9QCw"
+    },
+    {
+      "album": {
         "name": "Que se hace",
         "url": "https://open.spotify.com/album/288IcGKjznBhxBgDjQsT8J"
       },
@@ -2453,6 +2567,28 @@
     {
       "album": {
         "name": "Que Sera",
+        "url": "https://open.spotify.com/album/7xAVDUHnak5fdseBm5k8DQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Got",
+          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
+        },
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190022,
+      "name": "Que Sera",
+      "url": "https://open.spotify.com/track/4jEHs92Q6OtmZZwRyHKpa5"
+    },
+    {
+      "album": {
+        "name": "Que Sera",
         "url": "https://open.spotify.com/album/279y1HPzeH4upJAAaUMWbp"
       },
       "artists": [
@@ -2463,7 +2599,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 180610,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/0s3EXMb8Wk2u46Fuhk3O2e"
@@ -2547,7 +2683,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 182758,
       "name": "Sakalakashanga",
       "url": "https://open.spotify.com/track/6Eclvq2hFXEJ83meyFDze0"
@@ -3081,6 +3217,32 @@
       "duration_ms": 182421,
       "name": "Traje Tusi",
       "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
+    },
+    {
+      "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Savage Kreamly",
+          "url": "https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168226,
+      "name": "TU MANUAL",
+      "url": "https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM"
     },
     {
       "album": {

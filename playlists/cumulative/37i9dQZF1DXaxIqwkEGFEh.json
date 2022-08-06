@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: Youngboy Never Broke Again",
+  "description": "Strictly for the streets. Cover: Nardo Wick",
   "name": "Out The Mud",
   "published_playlist_ids": [
     "3r6cVrxrflkSADgDVjasQD"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 161812,
       "name": "Ceiling Fan Crew",
       "url": "https://open.spotify.com/track/1lZLnFmlxYKVZMvhXupLtV"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 131213,
       "name": "Detroit Flow",
       "url": "https://open.spotify.com/track/6UcMwp8oE6BbdfAbF7U7CU"
@@ -2053,7 +2053,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 185627,
       "name": "Exit 5 Flow",
       "url": "https://open.spotify.com/track/6m1OHfpxx0vqkyy9F2vUnc"
@@ -3358,6 +3358,28 @@
     },
     {
       "album": {
+        "name": "I Told Her (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/1llYHboVMsUMORLIq5CssO"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142759,
+      "name": "I Told Her (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6PF4penvueXSemUAILV3Bd"
+    },
+    {
+      "album": {
         "name": "I'm Back",
         "url": "https://open.spotify.com/album/4UYkjiSBotywZsgvaWhdvt"
       },
@@ -3483,6 +3505,28 @@
       "duration_ms": 123750,
       "name": "Ice Cream (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
+    },
+    {
+      "album": {
+        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177030,
+      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
     },
     {
       "album": {
@@ -3622,6 +3666,24 @@
     },
     {
       "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/1p0BcIePXAd65ouic9XrLT"
+    },
+    {
+      "album": {
         "name": "Keep Dissing 2 (with Lil Durk)",
         "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
       },
@@ -3743,7 +3805,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 189108,
       "name": "Know What I Mean (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/71xqVqbq6gJ80NFykenGAe"
@@ -3849,6 +3911,24 @@
       "duration_ms": 119588,
       "name": "Let's Talk Facts (feat. Rowdy Rebel)",
       "url": "https://open.spotify.com/track/35CTK4SPjABOfbAZShfWYA"
+    },
+    {
+      "album": {
+        "name": "Life of A Trapper",
+        "url": "https://open.spotify.com/album/4Phux4aSBqwixjjihqxwC8"
+      },
+      "artists": [
+        {
+          "name": "Blacc Zacc",
+          "url": "https://open.spotify.com/artist/2VdDGrsKkzCfR9AG6w5O92"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169858,
+      "name": "Life Of A Trapper",
+      "url": "https://open.spotify.com/track/5sshmGnoASDUQx3WbAx7VI"
     },
     {
       "album": {
@@ -4339,7 +4419,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 144000,
       "name": "MilTroit (feat. Lakeyah)",
       "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
@@ -6532,6 +6612,28 @@
     },
     {
       "album": {
+        "name": "Slide (Ft. 21 Savage / Remix)",
+        "url": "https://open.spotify.com/album/2R8xL4YlMBUYBDqEyhX50g"
+      },
+      "artists": [
+        {
+          "name": "Madmarcc",
+          "url": "https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155135,
+      "name": "Slide (Ft. 21 Savage / Remix)",
+      "url": "https://open.spotify.com/track/3479IDKcKrsY7JDZjNXfHW"
+    },
+    {
+      "album": {
         "name": "B.I.B.L.E.",
         "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
       },
@@ -6551,6 +6653,24 @@
       "duration_ms": 146699,
       "name": "Slime Them (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/15PbmOjutHh9O5IRp5yW6Z"
+    },
+    {
+      "album": {
+        "name": "Small Town Hero",
+        "url": "https://open.spotify.com/album/7JMaVgvy39sZ61TbSwSXQg"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177236,
+      "name": "Small Town Hero",
+      "url": "https://open.spotify.com/track/4SlGKw0aicsh5fmVKsVEU2"
     },
     {
       "album": {
@@ -6965,7 +7085,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 113684,
       "name": "Street Signs",
       "url": "https://open.spotify.com/track/1tu6h8NPmeS4q2RRpEGjT8"
@@ -7195,7 +7315,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 128078,
       "name": "The Biggest Dookie",
       "url": "https://open.spotify.com/track/4EbVMIPdmOl7q14twrYF5H"
@@ -7684,6 +7804,42 @@
     },
     {
       "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Umm Hmm",
+      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
+    },
+    {
+      "album": {
+        "name": "Up There",
+        "url": "https://open.spotify.com/album/29hfwE0CF1DUhaXv6rbUih"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Up There",
+      "url": "https://open.spotify.com/track/1WNqjTgA1Km06ql7EpNAiM"
+    },
+    {
+      "album": {
         "name": "Us vs. Them (feat. Gucci Mane)",
         "url": "https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls"
       },
@@ -7955,7 +8111,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 150370,
       "name": "War (with Hunxho & Lil Darius)",
       "url": "https://open.spotify.com/track/2NO9monMXdXurn8SwUjMhe"
@@ -7995,6 +8151,28 @@
       "duration_ms": 105931,
       "name": "War With Whoever",
       "url": "https://open.spotify.com/track/5xiXNf6CYYUBbxi6l8iMHk"
+    },
+    {
+      "album": {
+        "name": "We Droppin' (feat. PGF Nuk)",
+        "url": "https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        },
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158987,
+      "name": "We Droppin' (feat. PGF Nuk)",
+      "url": "https://open.spotify.com/track/7LkIkjlWgXYIHgWW0DHsSg"
     },
     {
       "album": {
@@ -8047,7 +8225,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 217815,
       "name": "We Set The Trends (feat. Migos & \u200eJuelz Santana) - Remix",
       "url": "https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi"

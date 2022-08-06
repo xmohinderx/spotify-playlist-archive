@@ -2,12 +2,13 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Hugo & Guilherme
+> O melhor do sertanejo em uma só playlist! Foto: Marília Mendonça
 
-86 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+87 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 | 2022-08-05 |  |
 | [50 por Cento](https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [50 por Cento](https://open.spotify.com/album/0rSMQjWcNv9A4zD0XnTFR0) | 2:56 | 2022-03-18 | 2022-05-14 |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [A Maior Saudade \(Ao Vivo\)](https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW) | 3:10 | 2021-12-31 |  |
 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 | 2022-02-11 |  |
@@ -73,7 +74,7 @@
 | [PERIGO NOTURNO \- Ao Vivo](https://open.spotify.com/track/4IX43MpJlpxzRMLb9QayrJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY ALAMEDA BRUNA SANTANA \(Ao Vivo\)](https://open.spotify.com/album/49CJLfc1GJNjhMb7C7l9Ve) | 3:21 | 2022-07-08 |  |
 | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/track/0MKd4uZd8Ag8qyReZBTarP) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/album/60SAVsrvuAcIBAyqNxPOLP) | 3:05 | 2022-06-03 |  |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-12-31 |  |
-| [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 | 2022-01-07 |  |
+| [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 | 2022-01-07 | 2022-08-06 |
 | [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 | 2021-12-31 |  |
 | [Sorte \- Ao Vivo](https://open.spotify.com/track/2SwE42tEBphHOejzZ9rKRa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Sorte \(Ao Vivo\)](https://open.spotify.com/album/1KOI7qxsWY35YPZALo2oTA) | 3:06 | 2021-12-31 | 2022-05-20 |
 | [Só Não Divulga](https://open.spotify.com/track/3HquWF2pZmWYu3WAEP9Heb) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Só Não Divulga](https://open.spotify.com/album/007jctHYAC50QpRyU3Cnj2) | 2:40 | 2021-12-31 | 2022-03-18 |

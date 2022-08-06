@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-467 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+468 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Plant Based](https://open.spotify.com/track/5sZYbMFFIS4raZVntbfOfZ) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Plant Based](https://open.spotify.com/album/2Ep5JJmZhnzaWMK1K33QX2) | 1:57 | 2022-07-29 |  |
 | [Plump](https://open.spotify.com/track/6xCoZQNLgnJTYuOxbYlqC5) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:09 | 2022-04-15 |  |
 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 | 2022-04-15 |  |
+| [Poolside](https://open.spotify.com/track/6CY364GXE5gEMnQch6KGF4) | [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa) | [Poolside](https://open.spotify.com/album/7IERaPp1czfhKdTywV3OT2) | 2:22 | 2022-08-05 |  |
 | [Poolside Paloma](https://open.spotify.com/track/6RT9KtVu77MV39pdvpcwtP) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Poolside Paloma](https://open.spotify.com/album/7AyNS9jUEMQcgJQYiuoWlU) | 2:30 | 2022-07-29 |  |
 | [Portal Beach](https://open.spotify.com/track/5eGudVjKBBSQNDQRF6lf0T) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Portal Beach](https://open.spotify.com/album/1UEX9mXlmtAJoMpFm1C2hD) | 2:15 | 2022-04-15 | 2022-07-22 |
 | [Positive Vibes](https://open.spotify.com/track/0VrZZ4GWTRa8TXJulbzJ6U) | [Opal Fangs](https://open.spotify.com/artist/4WXavKtmJD4UsjSTHIwZrZ) | [Positive Vibes](https://open.spotify.com/album/075pLxefaNgm93o7v9K7kC) | 1:31 | 2022-04-15 |  |

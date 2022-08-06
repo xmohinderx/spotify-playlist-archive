@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-192 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+193 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2022-04-15 |  |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-15 |  |
 | [Flickering](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Flickering](https://open.spotify.com/album/6WrJfmSsT3SkOajiVX54Ym) | 2:41 | 2022-04-15 |  |
+| [Flower Burst](https://open.spotify.com/track/7oxc43kWwv1v2Q7N5QQQyX) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Flower Burst](https://open.spotify.com/album/3kBpoP2x8YAOZC3TYWdgPC) | 3:23 | 2022-07-29 |  |
 | [For The First Time](https://open.spotify.com/track/3aIv0tjMJqDzONyBFtUa9g) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [For The First Time](https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4) | 3:17 | 2022-04-15 |  |
 | [Forest Run](https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Forest Run](https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5) | 1:57 | 2022-04-15 | 2022-05-27 |
 | [Free](https://open.spotify.com/track/47DcKTZGe8PKTr8B64bgZM) | [DANEGIAN](https://open.spotify.com/artist/2k1h6uRnsiIMNavFowk5hc) | [Free](https://open.spotify.com/album/7uhejgr38JOpUCH43v0hkz) | 2:19 | 2022-04-15 |  |

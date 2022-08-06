@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,659 likes - 60 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,785 likes - 60 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 39 | [Dance Pe Chance](https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 4:21 |
 | 40 | [Hum to Deewane Huye \(From "Baadshah"\)](https://open.spotify.com/track/5qG6jYnBmGMdKS1WiZBgj5) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Sensational Duets \(Abhijeet & Alka Yagnik\)](https://open.spotify.com/album/2oUWSHubOyXXSFN7gzLlkq) | 7:00 |
 | 41 | [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:48 |
-| 42 | [Ae Mere Humsafar](https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:33 |
-| 43 | [Yeh Hum Aa Gaye Hain Kahaan](https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:43 |
+| 42 | [Yeh Hum Aa Gaye Hain Kahaan](https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:43 |
+| 43 | [Ae Mere Humsafar](https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:33 |
 | 44 | [Nenjinile \(From "Uyire"\)](https://open.spotify.com/track/0LT9Ac2e9ngk14UIYTeich) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Hits of A.R.Rahman Isai Saral](https://open.spotify.com/album/5C4IT7eoAtWIfkDVvmsq7o) | 5:02 |
 | 45 | [Safar \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/4BH3FzJwNvjDpL8J78NMYM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Safar \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/3dBqhNT7SK4Er8MXsBu1JI) | 6:05 |
 | 46 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 59 | [Tujhe Dekha To \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:03 |
 | 60 | [Just Go to Hell Dil](https://open.spotify.com/track/3CtiRUKVB9X2wi1ZMdaymY) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 5:35 |
 
-Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMDhjMTA2YmI1MmRkZWZlODY3MmU2YzdkMTRkNmMyMzQ3`
+Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMDkxNzE4NGU1ZjA5NzVjYTAwZGM1Yzc1NWQwNmNmZDMy`

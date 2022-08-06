@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-176 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+177 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Chill or Be Chilled](https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's the Sky](https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S) | 3:43 | 2022-01-17 | 2022-07-29 |
 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 | 2021-12-27 | 2022-07-03 |
 | [Consequences](https://open.spotify.com/track/6yLOYaqyHjHBiAIGwEj1Xt) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR) | 3:56 | 2021-12-27 | 2022-07-27 |
+| [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 | 2022-08-01 |  |
 | [Cruising](https://open.spotify.com/track/7C90grbsFHtsmGac0clKhm) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/5m0YhT07QfRVhcnjGmrBZS) | 5:38 | 2021-12-27 | 2022-07-12 |
 | [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 | 2022-05-23 | 2022-07-29 |
 | [Down Here On The Ground](https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Let's Get Away](https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD) | 3:25 | 2022-07-11 | 2022-07-25 |
@@ -103,7 +104,7 @@
 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 | 2022-01-10 |  |
 | [Let's Get Serious](https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Let's Get Serious](https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj) | 4:06 | 2021-12-27 | 2022-07-29 |
 | [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2022-07-18 |  |
-| [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 | 2021-12-27 |  |
+| [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 | 2021-12-27 | 2022-08-06 |
 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 | 2022-07-18 |  |
 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 | 2021-12-27 | 2022-07-29 |
 | [Listen to This](https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:13 | 2021-12-27 | 2022-05-12 |

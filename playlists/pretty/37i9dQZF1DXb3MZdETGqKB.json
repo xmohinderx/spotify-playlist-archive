@@ -1,12 +1,12 @@
 {
   "description": "All new, all blues. Cover: Dylan Triplett",
-  "num_followers": 119956,
+  "num_followers": 119992,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGIzYjk1ZTM0MTg4NDJkY2UyYWFkNmU5OWU2OWExYmEz",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDQzMjY2NzljMDI5NmMxZDhiNzcyNDM2ZmFhMjhjN2Iy",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/6cruucEwiXCf6exdPLYN9n"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "We Need To Talk About It",
+        "url": "https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 173678,
+      "name": "We Need To Talk About It",
+      "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "State of Mind",
@@ -133,40 +149,20 @@
       "url": "https://open.spotify.com/track/72jNvtgMO1NuNFu37h9019"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
+      "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Not the Blues Again",
-        "url": "https://open.spotify.com/album/2FRKxEkUPDkztNFpCWovqv"
+        "name": "What's Real",
+        "url": "https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF"
       },
       "artists": [
         {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+          "name": "Drew Foust",
+          "url": "https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE"
         }
       ],
-      "duration_ms": 189807,
-      "name": "Not the Blues Again",
-      "url": "https://open.spotify.com/track/5hfrnLlkK3Q8sRja0GVlXc"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "We Need To Talk About It",
-        "url": "https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 173678,
-      "name": "We Need To Talk About It",
-      "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
+      "duration_ms": 248051,
+      "name": "What's Real",
+      "url": "https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -247,6 +243,22 @@
       "duration_ms": 155449,
       "name": "Yada Yada",
       "url": "https://open.spotify.com/track/2IXvJ4KQFzo1TnqMgTk12w"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "30 Years Shot To Hell: A Tommy Womack Anthology",
+        "url": "https://open.spotify.com/album/62wREHeyhnAmDMkc4oZlgS"
+      },
+      "artists": [
+        {
+          "name": "Tommy Womack",
+          "url": "https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Sweet Hitchhiker",
+      "url": "https://open.spotify.com/track/48ElMRo9c1HlS23AuHMRVS"
     },
     {
       "added_at": "2022-06-24 04:02:00",

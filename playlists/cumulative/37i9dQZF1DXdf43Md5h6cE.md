@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-70 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+72 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Forms](https://open.spotify.com/track/1bOHmmrh740p2MfJTs7kyw) | [Cardamom](https://open.spotify.com/artist/6GE1lOueuEqo5mZhGNrEOl) | [Forms](https://open.spotify.com/album/4zJyzTHbVAZOYfX8kXlGPO) | 3:00 | 2022-05-19 |  |
 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 | 2022-07-08 |  |
 | [Ghost](https://open.spotify.com/track/1W2wqz5nQEafZZWXbESetq) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Oumuamua](https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ) | 3:04 | 2022-05-19 |  |
+| [glowing aura](https://open.spotify.com/track/2Oln7IKNcflZzS8Z9WMj5f) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/1stXAsb8qN1pDW5FLj1Kd9) | 3:29 | 2022-08-05 |  |
 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2022-05-19 |  |
 | [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 | 2022-05-19 |  |
 | [Horizon](https://open.spotify.com/track/5WgwDJDSy2nxuV3iHlMXS4) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Compassberg](https://open.spotify.com/album/3r8FRtio1GfcpTW70YDt97) | 4:05 | 2022-05-19 |  |
@@ -52,6 +53,7 @@
 | [Moon of the Crusted Snow](https://open.spotify.com/track/2z0xcVWiSp0GBZ7YMHUu89) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 6:33 | 2022-05-19 |  |
 | [Morning Repose](https://open.spotify.com/track/0X32YnznPuE9Ass1qQMM0m) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:46 | 2022-07-08 |  |
 | [Narrative Forms](https://open.spotify.com/track/506TffN7fJgYBfrtXhfhq4) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 4:35 | 2022-05-19 |  |
+| [Nebula](https://open.spotify.com/track/0U4ueXuj5RV1szpREx3ow0) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Nebula](https://open.spotify.com/album/1zXUiNnIWZdgVQ0EacLlQe) | 3:17 | 2022-08-05 |  |
 | [Night Atmospheres](https://open.spotify.com/track/4A8XgsY1Jc0DhlkQdCFvPm) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:42 | 2022-05-19 |  |
 | [Nightime](https://open.spotify.com/track/6jrUeg6RAa2Nd9bXTFfi1W) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 10:58 | 2022-05-19 |  |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2022-05-19 |  |

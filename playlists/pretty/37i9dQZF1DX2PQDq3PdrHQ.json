@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats for a restful night's sleep.",
-  "num_followers": 37700,
+  "num_followers": 38019,
   "original_name": "lofi sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMDI5ZjIzNjZiOTg2OTAxZGQyMDNmYTc3MDY3ZWE1MTNi",
+  "snapshot_id": "MTY1OTY1NzYwMCwwMDAwMDAwMDMzYjAxODliODQzMzkwNzFiNWRlN2Q4MTRlMzIwMjBj",
   "tracks": [
     {
       "added_at": "2022-08-05 00:00:00",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2022-08-05 00:00:00",
       "album": {
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/0HBJZGo9r9xT0Dlhu6xcEh"
+      },
+      "artists": [
+        {
+          "name": "drmycat",
+          "url": "https://open.spotify.com/artist/50gpOabMr60yHviIA8gNY6"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/0tgOSi0Ew7wPIm1TyA3YPJ"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
         "name": "Alone Song",
         "url": "https://open.spotify.com/album/1qTC5cen3FvxNKbZrbDIi0"
       },
@@ -2539,6 +2555,22 @@
       "duration_ms": 106736,
       "name": "Alone Song",
       "url": "https://open.spotify.com/track/12As3DWc88rRynvYElu7dl"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "House In The Woods (Lofi Hip Hop)",
+        "url": "https://open.spotify.com/album/0OZV3Pb0KOBGJxrYuQTKS9"
+      },
+      "artists": [
+        {
+          "name": "lofi geek",
+          "url": "https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU"
+        }
+      ],
+      "duration_ms": 186162,
+      "name": "House In The Woods",
+      "url": "https://open.spotify.com/track/3NxT1NVQA8w1hzSIratjYn"
     },
     {
       "added_at": "2022-08-05 00:00:00",
@@ -3347,6 +3379,66 @@
       "duration_ms": 128000,
       "name": "Sierra",
       "url": "https://open.spotify.com/track/1R5Oz0TO2zySLac0BMtzqn"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "Textiles",
+        "url": "https://open.spotify.com/album/5787GRQnfsLxaCJ2QkhZu5"
+      },
+      "artists": [
+        {
+          "name": "m\u0117lyna",
+          "url": "https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ"
+        },
+        {
+          "name": "Drunk Urameshi",
+          "url": "https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Textiles",
+      "url": "https://open.spotify.com/track/35xxjmTZntxVJ4Roaz8qdC"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "things will get easier",
+        "url": "https://open.spotify.com/album/7JMc21cwjvArh0QrFhCEAG"
+      },
+      "artists": [
+        {
+          "name": "steenhoff",
+          "url": "https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi"
+        },
+        {
+          "name": "hushfall",
+          "url": "https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47"
+        }
+      ],
+      "duration_ms": 117911,
+      "name": "things will get easier",
+      "url": "https://open.spotify.com/track/5vBs5CbT4Vl9Hji88GpXJy"
+    },
+    {
+      "added_at": "2022-08-05 00:00:00",
+      "album": {
+        "name": "cushion",
+        "url": "https://open.spotify.com/album/1AJyWCPIHi2t5HZnuAGB7L"
+      },
+      "artists": [
+        {
+          "name": "Milkz",
+          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "cushion",
+      "url": "https://open.spotify.com/track/6R1YDJok4JBFMKz70S1YPS"
     },
     {
       "added_at": "2022-08-05 00:00:00",

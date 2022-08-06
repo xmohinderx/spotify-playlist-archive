@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,879 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,892 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 33 | [Early in the Morning](https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:40 |
 | 34 | [When You Touch Me](https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:57 |
 | 35 | [I'll Wait](https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Ultraglide In Black](https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z) | 3:00 |
-| 36 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
-| 37 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
+| 36 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
+| 37 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
 | 38 | [You'll Be Sorry Now](https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Beware the Ides of March](https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV) | 2:11 |
 | 39 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
 | 40 | [Summer Sun Blues](https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:37 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 48 | [Michigan Blues](https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP) | [The Hentchmen](https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh) | [Broad Appeal](https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx) | 2:10 |
 | 49 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 |
 
-Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMDgxMGQ4ODc2ZDZkZjIyN2YwZTY5MzgzY2QxZGZkMzUz`
+Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMDAzNmYzYzA3Yzg4YThhNjkxNGU5YTc1M2IxZjI0OWJi`

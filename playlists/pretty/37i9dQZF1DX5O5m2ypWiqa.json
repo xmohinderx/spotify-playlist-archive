@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda en portada. ",
-  "num_followers": 1455318,
+  "num_followers": 1456009,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMGZjZmRmYjUyMmM0ZDg5NDNlZTFiYWU5ODc0ZGE2MDk4",
+  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMGQ2YmE2OWYwODA5NTRlNWQ1NTZmZmZkMzgyODUwOTRi",
   "tracks": [
     {
       "added_at": "2022-06-20 21:21:51",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
     },
     {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "Yo No Canto Pero Lo Intentamos",
+        "url": "https://open.spotify.com/album/3M0CcOWFI6hwxNB8gr03hm"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 197122,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/0TE6IiCnzQdFTwnWZ84JOq"
+    },
+    {
       "added_at": "2022-07-18 22:56:48",
       "album": {
         "name": "Juro por Dios (En Vivo)",
@@ -955,22 +971,6 @@
       "duration_ms": 202005,
       "name": "Juro por Dios - En Vivo",
       "url": "https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "Yo No Canto Pero Lo Intentamos",
-        "url": "https://open.spotify.com/album/3M0CcOWFI6hwxNB8gr03hm"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 197122,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/0TE6IiCnzQdFTwnWZ84JOq"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
+        "name": "Vuelvo A Nacer",
+        "url": "https://open.spotify.com/album/0NiJIxwdkuvfE3YmqZyYpw"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Me Pego La Gana",
+      "url": "https://open.spotify.com/track/7KHnN8FA0KBbeZXS2iJfMN"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
         "name": "Volver\u00e9 a Amar",
         "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 177440,
       "name": "La M\u00e1s Deseada",
       "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Vuelvo A Nacer",
-        "url": "https://open.spotify.com/album/0NiJIxwdkuvfE3YmqZyYpw"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
       "artists": [
         {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Me Pego La Gana",
-      "url": "https://open.spotify.com/track/7KHnN8FA0KBbeZXS2iJfMN"
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2021-12-09 18:03:27",

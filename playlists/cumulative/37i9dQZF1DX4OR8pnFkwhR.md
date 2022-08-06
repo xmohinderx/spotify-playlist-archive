@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ao
 
-335 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+338 songs - 20 hr 31 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Our Moon \- feat\. London Lawhon](https://open.spotify.com/track/415TXcyD71rjZrOgrfa5o3) | [ArrowArrow](https://open.spotify.com/artist/6f6aiorf7uXCX4qDTDRTIv) | [Our Moon \(feat\. London Lawhon\)](https://open.spotify.com/album/5tRYMPoFkm3thb7JemPGOf) | 2:54 | 2022-04-27 | 2022-05-18 |
 | [Over Now](https://open.spotify.com/track/19VskVnejF7oVZPDXgWjeK) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Tide Pool](https://open.spotify.com/album/2zagOQicdXPVl65hpGJu43) | 3:27 | 2022-02-17 | 2022-03-09 |
 | [Over You](https://open.spotify.com/track/4ZEHtHqeqfG4aowWSQzjdN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Over You](https://open.spotify.com/album/1DNguuAPVEc1haCbvCowGv) | 3:58 | 2022-07-26 |  |
+| [oyasumi](https://open.spotify.com/track/1Niskql6jtIvQd1YOT0xS2) | [Takeshi Hamabe](https://open.spotify.com/artist/3q8VJeubJWKiRO0hw9tGhp), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [oyasumi](https://open.spotify.com/album/2dTrVXQxJUcjV41vUr6xL4) | 3:31 | 2022-08-04 |  |
 | [PaBodance \- NamitoW Remix](https://open.spotify.com/track/7s8hFtm0Dh6ZsTh4VJrixH) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ), [NamitoW](https://open.spotify.com/artist/0YFwbBZlDAcYlg2GCVnoZr) | [PaBodance \(NamitoW Remix\)](https://open.spotify.com/album/4ULNHuZbaNW6GRB5PNGTH4) | 3:31 | 2022-02-22 | 2022-03-30 |
 | [Pages \(feat\. Xin\)](https://open.spotify.com/track/29eyvdeqiue1vHQg2uprMB) | [LodiLodi](https://open.spotify.com/artist/2mvDRTAF1tLXniM3L2iwvb), [Xin](https://open.spotify.com/artist/3iMKRpTz1tnL15FaSV5XOd) | [Pages \(feat\. Xin\)](https://open.spotify.com/album/74c2vG8p3OUy9Peyd3V6f8) | 3:06 | 2022-05-31 | 2022-07-27 |
 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 | 2022-04-05 | 2022-05-11 |
@@ -146,6 +147,8 @@
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-07-28 |  |
 | [Scent of home](https://open.spotify.com/track/1zWvRXh2Mn9aN9rstdelIP) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Scent of home](https://open.spotify.com/album/6iBoeNxGMFOTeX3ANDBjDR) | 3:26 | 2022-06-01 | 2022-06-22 |
 | [School](https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:50 | 2022-06-30 | 2022-07-13 |
+| [shame](https://open.spotify.com/track/36pWB023d8A7lcpM9vG4G9) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [shame](https://open.spotify.com/album/2W8p3i2gNs6lt5BC6EA8Mh) | 3:26 | 2022-08-04 |  |
+| [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 |  |
 | [small talk](https://open.spotify.com/track/0HoMxHkUCFEGpJ6IVML8XO) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ) | [small talk](https://open.spotify.com/album/5bG9WMj67816n2pprdIgc0) | 4:25 | 2022-02-22 | 2022-03-30 |
 | [Small World](https://open.spotify.com/track/0wRayZpIP9rv3gGz3jQPlp) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Small World](https://open.spotify.com/album/1pPlX9beCj4fdbNYeqD7kH) | 4:42 | 2022-03-01 | 2022-05-11 |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-02 |  |

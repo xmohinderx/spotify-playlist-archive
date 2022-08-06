@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/4C5MzTipU7oYSj3KnXYrwu"
+      },
+      "artists": [
+        {
+          "name": "Shape Of Our Dreams",
+          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215616,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/52KobVe0PXvMMU9ESnAkXd"
+    },
+    {
+      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4giZPgt3uuaszEfzqVinT7"
       },
@@ -369,6 +387,24 @@
       "duration_ms": 218835,
       "name": "Falling Rivers",
       "url": "https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq"
+    },
+    {
+      "album": {
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Martins",
+          "url": "https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/7aVZPC2jGVBNQ67laOUowW"
     },
     {
       "album": {
@@ -891,7 +927,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 177957,
       "name": "ouma",
       "url": "https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS"

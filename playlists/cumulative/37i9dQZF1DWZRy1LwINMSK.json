@@ -2456,6 +2456,32 @@
     },
     {
       "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Savage Kreamly",
+          "url": "https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168226,
+      "name": "TU MANUAL",
+      "url": "https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM"
+    },
+    {
+      "album": {
         "name": "De Menor The Mixtape",
         "url": "https://open.spotify.com/album/3LCwivmmmk4nW0yazWyYsO"
       },

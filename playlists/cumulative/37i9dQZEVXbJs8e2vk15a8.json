@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
         "name": "BTBT (feat. DeVita)",
         "url": "https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3"
       },
@@ -2182,6 +2200,24 @@
     },
     {
       "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
+    },
+    {
+      "album": {
         "name": "Janguear",
         "url": "https://open.spotify.com/album/0avtDgptooU907C1WZKXKS"
       },
@@ -2510,6 +2546,24 @@
     },
     {
       "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
+    },
+    {
+      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -2565,7 +2619,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 196044,
       "name": "Like Wooh Wooh",
       "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
@@ -4213,7 +4267,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 145716,
       "name": "Plug",
       "url": "https://open.spotify.com/track/74SYp4GFxYqEBtt1BiwJWZ"
@@ -4969,7 +5023,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 196540,
       "name": "Sour Grapes",
       "url": "https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M"
@@ -5311,7 +5365,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 215076,
       "name": "Tequila y Lim\u00f3n",
       "url": "https://open.spotify.com/track/4nwwtB3VG12feSnOGv9Ogc"
@@ -5951,7 +6005,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 160639,
       "name": "Wacha Loca",
       "url": "https://open.spotify.com/track/2y3Bbr5MAmoVbLYuOBmQBQ"

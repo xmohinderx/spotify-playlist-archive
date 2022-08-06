@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 ### [Ripple Effect:  Midwest](https://open.spotify.com/playlist/37i9dQZF1DX9Xlyj8WKw1E)
 
-> Midwest music breaking waves\. PGF NUK
+> Midwest music breaking waves\. Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,189 likes - 57 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,196 likes - 57 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 29 | [War Cries](https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [War Cries](https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6) | 2:29 |
 | 30 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
 | 31 | [Step 1 \(with Offset\)](https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Step 1](https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf) | 2:57 |
-| 32 | [Walk](https://open.spotify.com/track/1AhsFz02X7WPTUzWym9Tam) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Keara Alyse](https://open.spotify.com/artist/02H48vsx5HKCncQp9pJRya), [DJ Yung 1](https://open.spotify.com/artist/4DhI0jf08AoCtHTKkt1PTD) | [Walk](https://open.spotify.com/album/5UsPv8xhVsRB7htl7Bc6qj) | 2:41 |
+| 32 | [Walk](https://open.spotify.com/track/1AhsFz02X7WPTUzWym9Tam) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Keara Alyse](https://open.spotify.com/artist/02H48vsx5HKCncQp9pJRya), [DJ Yung 1](https://open.spotify.com/artist/3eJ6V6TUhy1oI1hfTltu04) | [Walk](https://open.spotify.com/album/5UsPv8xhVsRB7htl7Bc6qj) | 2:41 |
 | 33 | [TMU](https://open.spotify.com/track/3U0nwooGsleGUL2eKbHkBi) | [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [TMU](https://open.spotify.com/album/4r59UKHr0EXYQJhawVE7X4) | 2:08 |
 | 34 | [EBT](https://open.spotify.com/track/0gWNq0lLP0C10Fv059l6Yn) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Detroit Raised Me](https://open.spotify.com/album/1VSgHchOjhzuYMR9HdV3SC) | 3:16 |
 | 35 | [Dark Man X](https://open.spotify.com/track/7CG8yhP3ybtiNsZjfyjOv0) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Jerreau](https://open.spotify.com/artist/1xMXwKQhYLclPctEzpm4nr) | [Praise & Worship](https://open.spotify.com/album/09AhjqYpkeVim8uln6uD5U) | 2:52 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 56 | [Best Side \(Deluxe Version\)](https://open.spotify.com/track/4KkJRNMtyzZNA38SbPpOUb) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Buddaflywolf](https://open.spotify.com/artist/4GpWl0xyRezdDw2q2J365r) | [Dangerous \(Deluxe Edition\)](https://open.spotify.com/album/57B9Y6aPOvsBg4bAHyydN4) | 2:41 |
 | 57 | [The Present Is a Gift](https://open.spotify.com/track/6Lp5QVSsAFVX3tSdQXmWG0) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [The Present Is a Gift](https://open.spotify.com/album/1a3P5dc4h5NHeMd2PR1Rnz) | 3:42 |
 
-Snapshot ID: `MTY1OTM2NDA5MCwwMDAwMDAwMDBlODdkMTc5MTA1OWIzOWQ2MTc3NTQ1ODEwNDNlYmEx`
+Snapshot ID: `MTY1OTcxNDQ2OCwwMDAwMDAwMGZhMzMzM2E5OTA2ZWZlODliZDcxN2IzNjQ0N2I3YjE2`

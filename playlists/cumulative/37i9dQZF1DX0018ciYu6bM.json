@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: BTS",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: NAYEON",
   "name": "KimBops!",
   "published_playlist_ids": [
     "2ZS5sBUg2D7ThTAofFyjhj"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+    },
+    {
+      "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
       },
@@ -206,6 +224,24 @@
     },
     {
       "album": {
+        "name": "WE NEED LOVE",
+        "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "BEAUTIFUL MONSTER",
+      "url": "https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L"
+    },
+    {
+      "album": {
         "name": "Head In The Clouds Forever",
         "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
       },
@@ -239,7 +275,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 226773,
       "name": "Better Than Birthday",
       "url": "https://open.spotify.com/track/5IfGBdAnVcrRZ43ABAgu9A"
@@ -257,7 +293,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 185508,
       "name": "Beyond My Dreams",
       "url": "https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth"
@@ -481,7 +517,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 212687,
       "name": "BUT YOU",
       "url": "https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv"
@@ -607,7 +643,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 168146,
       "name": "CLASSY",
       "url": "https://open.spotify.com/track/7LEupZwTQBhbvvHmxttUeP"
@@ -665,7 +701,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 216225,
       "name": "Color Me (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw"
@@ -965,7 +1001,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 201613,
       "name": "Drive",
       "url": "https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP"
@@ -1127,7 +1163,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 177373,
       "name": "Flip That",
       "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
@@ -1527,7 +1563,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 231426,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/4oqx4yqCwbudGYhgb7cqC5"
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 199920,
       "name": "Love Theory",
       "url": "https://open.spotify.com/track/1dmi9lVthTKjuemmO8ucWm"
@@ -1777,7 +1813,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 185000,
       "name": "Love, Maybe",
       "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
@@ -1979,6 +2015,24 @@
       "duration_ms": 186106,
       "name": "Melting",
       "url": "https://open.spotify.com/track/5wAbvhL5cCWPA08wsL5jPK"
+    },
+    {
+      "album": {
+        "name": "Mixtape : Time Out",
+        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175293,
+      "name": "Mixtape : Time Out",
+      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
     },
     {
       "album": {
@@ -2604,6 +2658,24 @@
     },
     {
       "album": {
+        "name": "SMARTPHONE",
+        "url": "https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198586,
+      "name": "SMARTPHONE",
+      "url": "https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY"
+    },
+    {
+      "album": {
         "name": "Street Man Fighter Original Vol.1",
         "url": "https://open.spotify.com/album/64RwgplkeOHLK04rkdf9Fq"
       },
@@ -2615,7 +2687,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 136733,
       "name": "SMF (Prod. Czaer)",
       "url": "https://open.spotify.com/track/2RwFM3urdm9MhkZek5G8aH"
@@ -2857,7 +2929,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 178306,
       "name": "Stupid Cool",
       "url": "https://open.spotify.com/track/2fvo8mpaPBkKabJXkd45GU"
@@ -2879,7 +2951,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 192493,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
@@ -3201,7 +3273,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 181280,
       "name": "Tuning In To You",
       "url": "https://open.spotify.com/track/0Xpc3mahBga9f9fAcFK6W4"

@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 20296,
+  "num_followers": 20314,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGJiNzRjYmJiNmU4YzdlNWYyNGI1NDM2Y2IyNDJhMjhk",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDA0ZGI3NDEwZTM5MzViYTI0M2Q4M2IxNzIzNjAyM2Y2",
   "tracks": [
     {
       "added_at": "2022-02-10 23:02:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",
-        "url": "https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 326266,
-      "name": "Bring It on Home to Me - Live at the Harlem Square Club, Miami, FL - January 1963",
-      "url": "https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Black Pumas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 344053,
       "name": "OCT 33 - Live In Studio",
       "url": "https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",
+        "url": "https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 326266,
+      "name": "Bring It on Home to Me - Live at the Harlem Square Club, Miami, FL - January 1963",
+      "url": "https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Floacism \"Live\"",
+        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
+      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
       },
@@ -695,26 +711,6 @@
       "duration_ms": 361000,
       "name": "The Sweetest Taboo - Live",
       "url": "https://open.spotify.com/track/7iQv3X7TtjxJ5K6vw8Jwu1"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Compared to What",
-        "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harris",
-          "url": "https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4"
-        },
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
-        }
-      ],
-      "duration_ms": 523333,
-      "name": "Compared to What - Live",
-      "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -735,18 +731,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Floacism \"Live\"",
-        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
+        "name": "Compared to What",
+        "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
       },
       "artists": [
         {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+          "name": "Eddie Harris",
+          "url": "https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
         }
       ],
-      "duration_ms": 269040,
-      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
-      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
+      "duration_ms": 523333,
+      "name": "Compared to What - Live",
+      "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Alive In America",
-        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Peg - Live",
-      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Natural Wonder",
         "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 246866,
       "name": "I Wish - Live/1995",
       "url": "https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Alive In America",
+        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Peg - Live",
+      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 469625,
-      "name": "Black Man In A White World - Live From Spotify London",
-      "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Lalah Hathaway Live!",
         "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 236933,
       "name": "Little Ghetto Boy (Radio Edit)",
       "url": "https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 469625,
+      "name": "Black Man In A White World - Live From Spotify London",
+      "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        }
-      ],
-      "duration_ms": 191611,
-      "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
-      "url": "https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Live From San Francisco",
         "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 295306,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        }
+      ],
+      "duration_ms": 191611,
+      "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
+      "url": "https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Live With Orchestra And Special Guests",
         "url": "https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 331120,
       "name": "Good Morning Heartache (feat. Jill Scott) - Live Audio from The Wilshire Theatre",
       "url": "https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York",
+      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
-        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "These Arms Of Mine",
-      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "The Womack Live",
         "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 366773,
       "name": "California Dreamin' - Live In Hollywood / 1968",
       "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
+        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "These Arms Of Mine",
+      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
     }
   ],
   "unique_name": "Soul Live",

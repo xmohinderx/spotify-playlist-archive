@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-786 songs - 1 day 12 hr 49 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+787 songs - 1 day 12 hr 52 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,7 +715,8 @@
 | [ТЕЛЕФОН](https://open.spotify.com/track/3rSWpGXQtUssrq3F31S3Ka) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:05 | 2021-07-18 | 2021-07-20 |
 | [ТЕНИ ХИРОСИМЫ](https://open.spotify.com/track/5U3pRVdrfpn4SZq2Iwmq0q) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [ТЕНИ ХИРОСИМЫ](https://open.spotify.com/album/4ooEs2XkTU17xhnnbY3CG2) | 2:14 | 2021-09-05 | 2021-10-14 |
 | [Тень](https://open.spotify.com/track/3BFEi4AfcmFeKvrWuFtMAH) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:03 | 2021-12-04 | 2021-12-05 |
-| [ТОЛПЫ КРИЧАТ](https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [ТОЛПЫ КРИЧАТ](https://open.spotify.com/album/3RcaQ8cYOVRS1PkjUZYtSI) | 2:05 | 2021-09-30 |  |
+| [Тесно](https://open.spotify.com/track/32KaMkGx3AZPQcHd8suXCb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B) | [Тесно](https://open.spotify.com/album/2N4ty17KyISqTHuoz1fj2v) | 2:12 | 2022-08-05 |  |
+| [ТОЛПЫ КРИЧАТ](https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [ТОЛПЫ КРИЧАТ](https://open.spotify.com/album/3RcaQ8cYOVRS1PkjUZYtSI) | 2:05 | 2021-09-30 | 2022-08-06 |
 | [тпм](https://open.spotify.com/track/2UxHaQdCaLxLMsVWOHg72M) | [КОСМОНАВТОВ НЕТ](https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ) | [1+1=11](https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI) | 1:22 | 2022-01-12 | 2022-01-26 |
 | [Трап Дом](https://open.spotify.com/track/5GBH3zfuxFmOuZ2mf1IXos) | [THRILL PILL](https://open.spotify.com/artist/3pONzjQKqFrh3zTQBTMeWd), [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Трап Дом](https://open.spotify.com/album/7zHyc7Gygs8r8koLNbgvuc) | 3:16 | 2021-05-15 | 2021-05-16 |
 | [Трап Трап](https://open.spotify.com/track/7FUzvOhDj64gFgjex5St3Y) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [ФИЗИКАЛ ПЭЙН](https://open.spotify.com/album/4VHQ2F7qM3w2M7WiWYH9Jx) | 2:09 | 2021-05-30 | 2021-07-25 |

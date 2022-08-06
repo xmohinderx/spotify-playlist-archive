@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1335471,
+  "num_followers": 1335445,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDYyMzUxNGU5OWQ3ZTNmNmQ4ODc0ZTExZjBlM2ZhN2Fm",
+  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDJjMjQ5OWUxM2NjM2IzN2U3ZjhhYWQ2MTc3MmJiMmE1",
   "tracks": [
     {
       "added_at": "2022-04-15 16:56:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Year of the Cartographer",
         "url": "https://open.spotify.com/album/4xS4qxWSBVXOdqUaClBkW2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 167413,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Fickle Heart",
         "url": "https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 201116,
       "name": "Fickle Heart",
       "url": "https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Big Bend (An Original Soundtrack for Public Television)",
-        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 125408,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Emily Alone",
-        "url": "https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX"
+        "name": "Big Bend (An Original Soundtrack for Public Television)",
+        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 220189,
-      "name": "Shadow Bloom",
-      "url": "https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT"
+      "duration_ms": 125408,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1203,6 +1187,22 @@
       "duration_ms": 149607,
       "name": "Stanley Park (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/1cyhegb61PppegILkP2qch"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Emily Alone",
+        "url": "https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 220189,
+      "name": "Shadow Bloom",
+      "url": "https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "La Lune",
-        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "In My Garden",
         "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 226880,
       "name": "Little More Time",
       "url": "https://open.spotify.com/track/44yqXBoQ7KV3jZdvGUiAex"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "La Lune",
+        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "God I Hope This Year Is Better Than the Last",
+        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 198313,
       "name": "Ain't No Grave (Sparse)",
       "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "God I Hope This Year Is Better Than the Last",
-        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 236849,
-      "name": "God I Hope This Year Is Better Than The Last",
-      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
+        "name": "Gems and Bones",
+        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
       },
       "artists": [
         {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+          "name": "The Woodlands",
+          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
         }
       ],
-      "duration_ms": 317266,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
+      "duration_ms": 256640,
+      "name": "Long Lost Century",
+      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
     }
   ],
   "unique_name": "Evening Acoustic",

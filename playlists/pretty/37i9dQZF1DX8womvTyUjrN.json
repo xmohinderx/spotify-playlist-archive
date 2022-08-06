@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Pau Laggies",
-  "num_followers": 257071,
+  "num_followers": 257144,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAyMjUzMiwwMDAwMDAwMDkyOTM3OTJjZTg0NWE0NmE1MDVlZWQxYzJlMDI0NzRl",
+  "snapshot_id": "MTY1OTAyMjUzMiwwMDAwMDAwMGY3OWZjNGQ0NmVlZDA1NTM5MDg4MzY5Y2EyOTQ2NjYy",
   "tracks": [
     {
       "added_at": "2022-07-28 15:35:32",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-07-28 15:35:32",
       "album": {
+        "name": "PAELLA",
+        "url": "https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM"
+      },
+      "artists": [
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        }
+      ],
+      "duration_ms": 182753,
+      "name": "PAELLA",
+      "url": "https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW"
+    },
+    {
+      "added_at": "2022-07-28 15:35:32",
+      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/128JK5zcSwTC1kSNvQqCbS"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 179805,
       "name": "Solos",
       "url": "https://open.spotify.com/track/7vEPWsovwnkHa2fN5I3tST"
-    },
-    {
-      "added_at": "2022-07-28 15:35:32",
-      "album": {
-        "name": "PAELLA",
-        "url": "https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM"
-      },
-      "artists": [
-        {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
-        }
-      ],
-      "duration_ms": 182753,
-      "name": "PAELLA",
-      "url": "https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW"
     },
     {
       "added_at": "2022-07-28 15:35:32",

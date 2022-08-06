@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-303 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+305 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Chill Day](https://open.spotify.com/track/5OcOe5TzjRmq7c40QwD0Dz) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Chill Day](https://open.spotify.com/album/3s66orZ9ESKD4dWGEGKxze) | 2:40 | 2022-04-08 |  |
 | [Chillin'](https://open.spotify.com/track/54G7nglEzYJdrIfCcur3El) | [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [From Above](https://open.spotify.com/album/7AzyGdeuLj3yYOMgCahejP) | 2:08 | 2021-11-11 |  |
 | [Chips](https://open.spotify.com/track/2cXdC5qNqc5Gk0X6JtjUqH) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Chips & Dip](https://open.spotify.com/album/1wIX39AruT1zSwkSldKSQR) | 1:30 | 2021-11-11 | 2022-05-20 |
+| [Chorozinho](https://open.spotify.com/track/209NUwzoKrI55HWQlNgLZ6) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Chorozinho](https://open.spotify.com/album/31E8HYZ2bBPm3nrzV3Meko) | 2:15 | 2022-08-05 |  |
 | [City Beatbox](https://open.spotify.com/track/55G7LzvJNYZJiPFitg1g4y) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [City Beatbox](https://open.spotify.com/album/376zKL3VyAGdByEgktt1td) | 1:58 | 2021-11-11 |  |
 | [Cobblestone](https://open.spotify.com/track/66DEOiQSYkFl30qIcR5pbr) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Cobblestone](https://open.spotify.com/album/1jOQBeQ24Yn3hSLWgB9gAZ) | 1:40 | 2021-11-11 |  |
 | [cold fizzies](https://open.spotify.com/track/0Tstl9VZP9x3FvSC3CcTNI) | [rolla skates](https://open.spotify.com/artist/4QSJisGHde3JpGjDHZ8czQ) | [cold fizzies](https://open.spotify.com/album/6rccqvf6mYKTpBh0kkUVsn) | 2:14 | 2021-11-11 |  |
@@ -74,6 +75,7 @@
 | [El Patrón](https://open.spotify.com/track/7pAcgWT8D6risFfsR0JSPe) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [El Patrón](https://open.spotify.com/album/1TGOGVKxbBB3AvSEw0qaky) | 1:40 | 2022-04-15 |  |
 | [Evergreen](https://open.spotify.com/track/5goFbQsBMTVrM5eSut1z4n) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Evergreen](https://open.spotify.com/album/1iEgVGsC5EfUFMVYSYJhUh) | 2:13 | 2022-07-01 |  |
 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 | 2021-11-11 |  |
+| [Faith Basket](https://open.spotify.com/track/7bjJRSF3xts6D99aJ5DN1X) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Faith Basket](https://open.spotify.com/album/2kSlxWw2YAZqwp69iSHy9s) | 1:15 | 2022-08-05 |  |
 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 | 2021-11-11 |  |
 | [Fantasy](https://open.spotify.com/track/602YfZUMO4FM5NcEzKf3SL) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Fantasy](https://open.spotify.com/album/2KHytBna06YLkLBK0tVmKR) | 2:29 | 2022-05-13 |  |
 | [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 | 2021-11-11 |  |

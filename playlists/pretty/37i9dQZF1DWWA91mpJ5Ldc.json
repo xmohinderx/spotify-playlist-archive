@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 100947,
+  "num_followers": 100974,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1ODgwMCwwMDAwMDAwMDQ0NjU3MzdlOGYzNTljNmJjZDA5YWNiNWQ4NjBmYWI0",
+  "snapshot_id": "MTY1ODQ1ODgwMCwwMDAwMDAwMGRmNjA5ZjE2ZmExOTUzY2Y0NGVkYmE1YmFhYTdmNTRk",
   "tracks": [
     {
       "added_at": "2022-07-22 03:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-07-22 03:00:00",
       "album": {
-        "name": "Pra todas as mulheres",
-        "url": "https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ"
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         }
       ],
-      "duration_ms": 168251,
-      "name": "Pra todas as mulheres",
-      "url": "https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K"
+      "duration_ms": 217110,
+      "name": "Onde Estar\u00e1",
+      "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
     },
     {
       "added_at": "2022-07-22 03:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-07-22 03:00:00",
       "album": {
-        "name": "Nonsense, Vol. 1",
-        "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
+        "name": "Pra todas as mulheres",
+        "url": "https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ"
       },
       "artists": [
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 217110,
-      "name": "Onde Estar\u00e1",
-      "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
+      "duration_ms": 168251,
+      "name": "Pra todas as mulheres",
+      "url": "https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K"
     },
     {
       "added_at": "2022-07-22 03:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-07-22 03:00:00",
       "album": {
-        "name": "Andar Sozinho (feat. J\u00e3o)",
-        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Andar Sozinho (feat. J\u00e3o)",
-      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
-    },
-    {
-      "added_at": "2022-07-22 03:00:00",
-      "album": {
         "name": "Existe Amor",
         "url": "https://open.spotify.com/album/0SeIP7LbyFTNlmdFKH8zHi"
       },
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2022-07-22 03:00:00",
       "album": {
+        "name": "Andar Sozinho (feat. J\u00e3o)",
+        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Andar Sozinho (feat. J\u00e3o)",
+      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
         "name": "Sem Medo",
         "url": "https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA"
       },
@@ -1043,6 +1043,38 @@
       "duration_ms": 252373,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "Outono",
+        "url": "https://open.spotify.com/album/0PkdWfglmXqNY79Xr7oUwQ"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 198314,
+      "name": "Cores",
+      "url": "https://open.spotify.com/track/3zSoilgYEL3ORqtuLKUFkq"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Choror\u00f4",
+      "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
     },
     {
       "added_at": "2022-07-22 03:00:00",
@@ -1079,38 +1111,6 @@
       "duration_ms": 200608,
       "name": "Fim do Horizonte",
       "url": "https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX"
-    },
-    {
-      "added_at": "2022-07-22 03:00:00",
-      "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Choror\u00f4",
-      "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
-    },
-    {
-      "added_at": "2022-07-22 03:00:00",
-      "album": {
-        "name": "Outono",
-        "url": "https://open.spotify.com/album/0PkdWfglmXqNY79Xr7oUwQ"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 198314,
-      "name": "Cores",
-      "url": "https://open.spotify.com/track/3zSoilgYEL3ORqtuLKUFkq"
     }
   ],
   "unique_name": "Cozinhando em Casa",

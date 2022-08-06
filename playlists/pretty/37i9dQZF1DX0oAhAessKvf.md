@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,597 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,652 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 5 | [Dame Tu Cosita](https://open.spotify.com/track/5tq6gO0LuNjmo9SRT1UcMv) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Dame Tu Cosita](https://open.spotify.com/album/1a82dRyyxsHvpzcpIDUtqT) | 2:32 |
 | 6 | [Vacilon](https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Boricua Reggaeton Clasicos de Barrio, Vol\. 1](https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl) | 2:30 |
 | 7 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2XRqhe4lmCQVaUWawR5wRo) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:21 |
-| 8 | [Me Acuerdo](https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [VICO\-C Digital Collection 1987\-2007](https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi) | 5:59 |
+| 8 | [Quieren](https://open.spotify.com/track/43TErmq7idspaUOjRvaBDH) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 3:42 |
 | 9 | [Felina](https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [A La Reconquista](https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv) | 3:36 |
 | 10 | [Go Pato](https://open.spotify.com/track/3aHjc7Ib2aXtfz23bCPz7j) | [Pato Banton](https://open.spotify.com/artist/0cpt0xebTXatYk3KvnrU9m) | [Universal Love](https://open.spotify.com/album/4poltWgc6sylGnlpgxEZ3c) | 4:37 |
 | 11 | [Papi Chulo](https://open.spotify.com/track/1f2AyplMMO29MHBkjfFRmc) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 2:55 |
 | 12 | [Amor Con la Ropa](https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Nueva Generación](https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl) | 2:11 |
-| 13 | [Quieren](https://open.spotify.com/track/43TErmq7idspaUOjRvaBDH) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 3:42 |
+| 13 | [Me Acuerdo](https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [VICO\-C Digital Collection 1987\-2007](https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi) | 5:59 |
 | 14 | [Me La Explota Feat\. Yankee](https://open.spotify.com/track/2cH8koRSDXBsvfEbeKcs9N) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:18 |
 | 15 | [Latigazo](https://open.spotify.com/track/3c5sB8wjUpxJKKDaRrdGAH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cangri.com](https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk) | 2:31 |
 | 16 | [Pase Lo Que Pase](https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Jeanette](https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
 | 75 | [Persígueme](https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:41 |
 
-Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDIyMjBkMmQxMjYwZDMwZTkwNjkwMDg1NmYzNzE0MDg0`
+Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMGM2NzJjNDE1M2Y0N2Y2NWJkY2ZhYzZmZjJlMjQwMWZj`

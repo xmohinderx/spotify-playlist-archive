@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose
 
-487 songs - 1 day 13 hr 40 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+488 songs - 1 day 13 hr 43 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [The Final Sacrifice](https://open.spotify.com/track/4cScKIcfk0H7Awz0Yugsa2) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Final Sacrifice](https://open.spotify.com/album/2xJzhdiI0vskP79u3CYHMR) | 5:03 | 2021-05-21 | 2022-01-08 |
 | [The Fire and the Sinner](https://open.spotify.com/track/7n5VVe0Sya3ZeM3DcZqvs5) | [Timo Tolkki’s Avalon](https://open.spotify.com/artist/6UkYfNV9Y4kp00UT4D2djV), [Jake E.](https://open.spotify.com/artist/0Q29XLn4nejBlTmouEUeOO), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [The Fire and the Sinner](https://open.spotify.com/album/39dyo9LI63I2Wn4lDsBvyk) | 3:05 | 2021-05-14 | 2021-06-11 |
 | [The Gospel of Judas](https://open.spotify.com/track/5fDfOivURFfaa91vz5W2Eh) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Gospel of Judas](https://open.spotify.com/album/4kl8qGOuNY1TKWCe6XVxiy) | 4:05 | 2021-07-04 | 2022-03-23 |
+| [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 | 2022-08-05 |  |
 | [The Hawthorn](https://open.spotify.com/track/1Kyu2V8kxobYLdGHVrrmFU) | [Cruachan](https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH) | [The Hawthorn](https://open.spotify.com/album/0rhNvRLBxdsDYjrRotRsuW) | 4:59 | 2020-11-29\* | 2021-11-20 |
 | [The Inevitable End](https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Inevitable End](https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0) | 4:01 | 2022-07-13 | 2022-07-30 |
 | [The Keeper](https://open.spotify.com/track/41tlP5zUoBL8Zca4EGUiPv) | [Solarus](https://open.spotify.com/artist/1uyqmZqACSHV00vIFCsALU) | [A Dance With Tragedy](https://open.spotify.com/album/62vkQQ6Y4eVH0udX8eBxKA) | 5:40 | 2021-12-17 | 2022-04-23 |

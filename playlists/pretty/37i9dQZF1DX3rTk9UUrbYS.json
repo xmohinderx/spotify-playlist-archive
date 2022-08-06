@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 34055,
+  "num_followers": 34073,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMDdkYjU0OTNiMjU5OTE4MjY1OTQ1ZjcyOTNlOGU2OWY0",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMGIwN2FjMzI0ZDNlYTg4MTE4Y2M4ODhiY2E2MWY5MGE0",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -93,6 +93,38 @@
       "url": "https://open.spotify.com/track/7a7dP4fURwyN3iMnjft2km"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Point Of Departure (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 736600,
+      "name": "Refuge - Rudy Van Gelder Edition/1999 Remaster",
+      "url": "https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Thembi",
+        "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Agora Aqui",
@@ -117,36 +149,20 @@
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Thembi",
-        "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy"
+        "name": "Bugatti (\u00e9tude)",
+        "url": "https://open.spotify.com/album/3judRd8KJgyP9NVUDdGLJl"
       },
       "artists": [
         {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+          "name": "Jameszoo",
+          "url": "https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8"
         }
       ],
-      "duration_ms": 312626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Point Of Departure (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 736600,
-      "name": "Refuge - Rudy Van Gelder Edition/1999 Remaster",
-      "url": "https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP"
+      "duration_ms": 254560,
+      "name": "Bugatti (\u00e9tude)",
+      "url": "https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -167,22 +183,6 @@
       "duration_ms": 122142,
       "name": "Kasumi",
       "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Bugatti (\u00e9tude)",
-        "url": "https://open.spotify.com/album/3judRd8KJgyP9NVUDdGLJl"
-      },
-      "artists": [
-        {
-          "name": "Jameszoo",
-          "url": "https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Bugatti (\u00e9tude)",
-      "url": "https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -265,20 +265,20 @@
       "url": "https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "New York Is Now",
-        "url": "https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy"
+        "name": "The Art of It",
+        "url": "https://open.spotify.com/album/06z73O9eHCki1W0obK08yA"
       },
       "artists": [
         {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+          "name": "Piano Duo Trio",
+          "url": "https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y"
         }
       ],
-      "duration_ms": 378666,
-      "name": "Round Trip",
-      "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
+      "duration_ms": 969642,
+      "name": "Roar of the Lyons",
+      "url": "https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb"
     },
     {
       "added_at": "2020-11-06 04:01:00",
@@ -295,6 +295,22 @@
       "duration_ms": 369172,
       "name": "Dub Ting",
       "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "New York Is Now",
+        "url": "https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 378666,
+      "name": "Round Trip",
+      "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -337,22 +353,6 @@
       "url": "https://open.spotify.com/track/1aAoU8KcgP5JQSkuWML8xG"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "The Art of It",
-        "url": "https://open.spotify.com/album/06z73O9eHCki1W0obK08yA"
-      },
-      "artists": [
-        {
-          "name": "Piano Duo Trio",
-          "url": "https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y"
-        }
-      ],
-      "duration_ms": 969642,
-      "name": "Roar of the Lyons",
-      "url": "https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Arms & Hands",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "The Piano Equation",
-        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        }
-      ],
-      "duration_ms": 314786,
-      "name": "Piano Equation",
-      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Random Dances and (A)tonalities",
         "url": "https://open.spotify.com/album/3v6dasC9ywop1Kc9oPajzW"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 344640,
       "name": "Joe Btfsplk",
       "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "The Piano Equation",
+        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        }
+      ],
+      "duration_ms": 314786,
+      "name": "Piano Equation",
+      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -493,20 +493,20 @@
       "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2020-10-23 19:03:00",
       "album": {
-        "name": "Alexander Hawkins Trio",
-        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
+        "name": "Supersense",
+        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
       },
       "artists": [
         {
-          "name": "Alexander Hawkins",
-          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
+          "name": "Steph Richards",
+          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
         }
       ],
-      "duration_ms": 329760,
-      "name": "One Tree Found",
-      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
+      "duration_ms": 221520,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
     },
     {
-      "added_at": "2020-10-23 19:03:00",
+      "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Supersense",
-        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
+        "name": "Alexander Hawkins Trio",
+        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
       },
       "artists": [
         {
-          "name": "Steph Richards",
-          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
+          "name": "Alexander Hawkins",
+          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Canopy",
-      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
+      "duration_ms": 329760,
+      "name": "One Tree Found",
+      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -773,50 +773,6 @@
       "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Circle Down",
-        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
-      },
-      "artists": [
-        {
-          "name": "Chad Taylor",
-          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
-        },
-        {
-          "name": "Angelica Sanchez",
-          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
-        },
-        {
-          "name": "Chris Lightcap",
-          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
-        }
-      ],
-      "duration_ms": 359466,
-      "name": "Box Step",
-      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Ljubljana",
-        "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
-      },
-      "artists": [
-        {
-          "name": "Mats Gustafson",
-          "url": "https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u"
-        },
-        {
-          "name": "Craig Taborn",
-          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
-        }
-      ],
-      "duration_ms": 1224332,
-      "name": "The Eyes Moving. Slowly.",
-      "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
-    },
-    {
       "added_at": "2020-10-02 04:02:00",
       "album": {
         "name": "On Common Ground",
@@ -839,6 +795,50 @@
       "duration_ms": 476000,
       "name": "Equation",
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Ljubljana",
+        "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
+      },
+      "artists": [
+        {
+          "name": "Mats Gustafson",
+          "url": "https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u"
+        },
+        {
+          "name": "Craig Taborn",
+          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+        }
+      ],
+      "duration_ms": 1224332,
+      "name": "The Eyes Moving. Slowly.",
+      "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Circle Down",
+        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
+      },
+      "artists": [
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Angelica Sanchez",
+          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
+        },
+        {
+          "name": "Chris Lightcap",
+          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
+        }
+      ],
+      "duration_ms": 359466,
+      "name": "Box Step",
+      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -923,46 +923,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Captain Black",
-        "url": "https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX"
+        "name": "Zebulon",
+        "url": "https://open.spotify.com/album/1fnzZglampHKANe3S2MT4l"
       },
       "artists": [
         {
-          "name": "Orrin Evans",
-          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
-        },
-        {
-          "name": "Ralph Bowen",
-          "url": "https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX"
-        },
-        {
-          "name": "Tim Warfield",
-          "url": "https://open.spotify.com/artist/6HliM51Oq8IMwZKXQbJr7v"
-        },
-        {
-          "name": "Antonio Hart",
-          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
-        },
-        {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
-        },
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        },
-        {
-          "name": "Rodney Whitaker",
-          "url": "https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv"
-        },
-        {
-          "name": "Ralph Peterson",
-          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+          "name": "Peter Evans",
+          "url": "https://open.spotify.com/artist/3js0AfR1xKDKNWyCMi1FM3"
         }
       ],
-      "duration_ms": 468600,
-      "name": "Explain It To Me",
-      "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
+      "duration_ms": 937720,
+      "name": "Broken Cycles",
+      "url": "https://open.spotify.com/track/0wnIDv8Za64PpMPK08z3Jk"
     }
   ],
   "unique_name": "Avant-Jazz",

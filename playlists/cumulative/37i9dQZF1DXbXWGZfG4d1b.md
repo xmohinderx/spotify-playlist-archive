@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-357 songs - 21 hr 15 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+358 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alright](https://open.spotify.com/track/4CPQQFfIbkeZCYBrayDe8U) | [El Perrodiablo](https://open.spotify.com/artist/76X8p2EEoEJmDhgzLExcbZ) | [Epílogo](https://open.spotify.com/album/7zEA6AWDyBwtAgFbVswjgt) | 4:09 | 2022-07-15 | 2022-07-21 |
 | [Amorestream](https://open.spotify.com/track/36Pq4Q9JAmPrrKVXcOypEM) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Amorestream](https://open.spotify.com/album/046EjpYevPhRy74d8c9y5T) | 4:09 | 2022-07-01 | 2022-07-26 |
 | [Amuleto](https://open.spotify.com/track/6EAN9mfCYKzQx4AWoKhNJT) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/3Tu4K48pBVeOWJI65Te4jy) | 3:34 | 2022-06-03 | 2022-07-19 |
-| [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 |  |
+| [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 | 2022-08-06 |
 | [Ariel](https://open.spotify.com/track/4SFBLZPnrpIJJN5CDuJIKF) | [Tripulación de Osos](https://open.spotify.com/artist/3HpM2k1tJNzverenUeTj0l) | [Ariel](https://open.spotify.com/album/3Gi0izlniY0VMiR5Kybldn) | 3:32 | 2022-07-01 | 2022-07-27 |
 | [Astros](https://open.spotify.com/track/6jt1P2x8sjmh4oqABT6Qni) | [Lenguas Vivas](https://open.spotify.com/artist/5HyHc3I5ZThbCB1BWckosT) | [Astros](https://open.spotify.com/album/1RlCfBba89NET7V2tyvory) | 2:54 | 2022-07-01 | 2022-07-08 |
 | [Atlántida](https://open.spotify.com/track/6JCAu0nt4HFMAEvdFLHQvW) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Atlántida](https://open.spotify.com/album/7kWcGPdxlEhJk9liwvUPUF) | 4:03 | 2022-06-03 | 2022-07-28 |
@@ -274,6 +274,7 @@
 | [PIYAMAPARY](https://open.spotify.com/track/5Hn5ZjIOpIcUs6csVGFc2d) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [NADIR](https://open.spotify.com/artist/7cWSMkLz0GgI72r8OWUrEC) | [PIYAMAPARY](https://open.spotify.com/album/40cZpwYEqi3l8D7JlCccZz) | 2:41 | 2022-07-01 | 2022-07-12 |
 | [Pizza](https://open.spotify.com/track/25ozvB4exLomeSMNCKHxM6) | [Las Piñas](https://open.spotify.com/artist/7zKaxLmOXQAoSqtu2Ck93e) | [Espanto Caribe](https://open.spotify.com/album/5oWKNvRZJ9616naxtq9OgZ) | 1:28 | 2022-06-03 | 2022-07-27 |
 | [Plantas Negras](https://open.spotify.com/track/1e3MJffTvLGxQSPBRj9Zs9) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/56QgvZNpKS8L7sVkDQyfYW) | 3:24 | 2022-07-01 | 2022-07-29 |
+| [Plantas Negras](https://open.spotify.com/track/4WfgAerrEu6fFl8g1LBX3f) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 3:24 | 2022-07-15 |  |
 | [Poca Cosa](https://open.spotify.com/track/7uQeAEzbhsTvOSxsgFuAaO) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Nos Vamos a Morir de Hacer Estrategias de Amor](https://open.spotify.com/album/3SWp2qtW6x37FWzfpeZzVO) | 2:10 | 2022-07-01 |  |
 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 | 2022-07-01 |  |
 | [Polvo de Estrellas](https://open.spotify.com/track/4LDHQIpRkjQkmmmgMd1lsy) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Polvo de Estrellas](https://open.spotify.com/album/29wM86WH6LmH3F7AtQN3Eh) | 2:15 | 2022-06-03 | 2022-07-29 |

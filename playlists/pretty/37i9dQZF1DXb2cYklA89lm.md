@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,191 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,282 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 9 | [Dig Up Her Bones](https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [American Psycho](https://open.spotify.com/album/636aBJi9ifGPSPacQ0fYCF) | 3:01 |
 | 10 | [End of the World](https://open.spotify.com/track/7z4DarPmWybFV4LUgx2Bot) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [MODERN ARTillery \(U.S\. Version\)](https://open.spotify.com/album/19tTQZGysI1NfLDD9wWjrP) | 3:36 |
 | 11 | [Voices of the Dead](https://open.spotify.com/track/2RugXdJxSYwxavuNiBrTVN) | [Calabrese](https://open.spotify.com/artist/6mPxn8ImLflIQ8bYihQMFp) | [The Traveling Vampire Show](https://open.spotify.com/album/2GPQQsJWPxf4M5LQObwluC) | 2:42 |
-| 12 | [Mayhem](https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:46 |
-| 13 | [Nature Calls](https://open.spotify.com/track/1p1RgiJTvoaWFnkM1M0JFH) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino](https://open.spotify.com/album/3ikzXiKu90dwjhX3kz6gWV) | 3:48 |
+| 12 | [Nature Calls](https://open.spotify.com/track/1p1RgiJTvoaWFnkM1M0JFH) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino](https://open.spotify.com/album/3ikzXiKu90dwjhX3kz6gWV) | 3:48 |
+| 13 | [Mayhem](https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:46 |
 | 14 | [Mind Control](https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB) | [Snash](https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4) | [Mind Control](https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0) | 2:14 |
 | 15 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 |
 | 16 | [Victory Lap](https://open.spotify.com/track/1vVF4BT9Khi5wuO9fwBMj3) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Rev](https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL) | 3:23 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 27 | [Gargoyles Over Copenhagen](https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 3:56 |
 | 28 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 |
 | 29 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 |
-| 30 | [Red Sky](https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Red Sky](https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI) | 3:13 |
-| 31 | [Stars Are Falling](https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii) | [The Rosedales](https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU) | [Stereoghost](https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l) | 4:03 |
+| 30 | [Stars Are Falling](https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii) | [The Rosedales](https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU) | [Stereoghost](https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l) | 4:03 |
+| 31 | [Red Sky](https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Red Sky](https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI) | 3:13 |
 | 32 | [Beyond The Veil](https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 2:38 |
 | 33 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
 | 34 | [Hellbound Heart](https://open.spotify.com/track/44qkYytrjp1w9Dy1Q4kGEV) | [Stellar Corpses](https://open.spotify.com/artist/1hw7xcATBmW7H2Ub7MRk7J), [Jimmy Calabrese](https://open.spotify.com/artist/6KoBsgEcgUi4hUkVZiAgiH) | [Hellbound Heart](https://open.spotify.com/album/7nLqF6LpGmCJD74orPRgrP) | 3:46 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 41 | [Formula 666](https://open.spotify.com/track/0AniATpGL5KElCpak9n05M) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Formula 666](https://open.spotify.com/album/0Fd5terpOdaXIzlV5tn6Qd) | 3:36 |
 | 42 | [Johnny Got A Boom Boom](https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H) | 2:59 |
 | 43 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
-| 44 | [In the Middle of the Night](https://open.spotify.com/track/1PV7W1c2eQzxgPepe0yFnO) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/76Q0H0ikqxqaEl23HI5MBx) | 3:07 |
-| 45 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
+| 44 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
+| 45 | [In the Middle of the Night](https://open.spotify.com/track/1PV7W1c2eQzxgPepe0yFnO) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/76Q0H0ikqxqaEl23HI5MBx) | 3:07 |
 | 46 | [Come A Little Closer](https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Big City Lights](https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi) | 2:58 |
 | 47 | [Rockin' at the House of Strange](https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Power of 3](https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y) | 3:01 |
-| 48 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
+| 48 | [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 |
 | 49 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
-| 50 | [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 |
+| 50 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDA3ZjA4MGUzYmE2YzkzNTUxM2E5MTc5YWI5MjFjYTU1`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDU0YThkNGRiYmMyMTE2MGZiYmQwN2M1OGQ5ZTBiMGUy`

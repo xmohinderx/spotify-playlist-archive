@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: DOMi & JD BECK",
+  "description": "Genre-less. Quality first always. Cover: KAYTRANADA",
   "name": "POLLEN",
   "published_playlist_ids": [
     "0satjjBJ2wfilttyMYfCS7"
@@ -4023,7 +4023,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 286133,
       "name": "Blood In The Snow",
       "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
@@ -5556,6 +5556,28 @@
     },
     {
       "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162222,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+    },
+    {
+      "album": {
         "name": "Cellular",
         "url": "https://open.spotify.com/album/1JpDsmohLOOjcdJxPBBYcp"
       },
@@ -6107,7 +6129,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 411818,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/47aSZv8FWDnGRtWnFItGzT"
@@ -6317,7 +6339,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 224874,
       "name": "Come For Me",
       "url": "https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU"
@@ -11382,6 +11404,28 @@
     },
     {
       "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163021,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
+    },
+    {
+      "album": {
         "name": "FEET OF CLAY (Deluxe)",
         "url": "https://open.spotify.com/album/1RWgm4YvRL0YN1iX1Mto7b"
       },
@@ -12209,6 +12253,28 @@
       "duration_ms": 187059,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
+    },
+    {
+      "album": {
+        "name": "Pigeons & Planes & Big.Ass.Kids present: See You Next Year",
+        "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
+      },
+      "artists": [
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152116,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/4LEjWglTBWv0YVZ64CepPO"
     },
     {
       "album": {
@@ -13941,6 +14007,28 @@
       "duration_ms": 187626,
       "name": "I Like",
       "url": "https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT"
+    },
+    {
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263360,
+      "name": "I Love You More Than You Know (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
     },
     {
       "album": {
@@ -16397,7 +16485,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 179674,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
@@ -20737,7 +20825,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
@@ -21213,6 +21301,28 @@
     {
       "album": {
         "name": "Patience",
+        "url": "https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257424,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV"
+    },
+    {
+      "album": {
+        "name": "Patience",
         "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
       },
       "artists": [
@@ -21241,7 +21351,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 159852,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/7qLrWXTgPdE2Sw3zTnhe67"
@@ -22539,6 +22649,28 @@
       "duration_ms": 296461,
       "name": "Rain On Me",
       "url": "https://open.spotify.com/track/0xmB1LYDQFjkvERTFvM3SJ"
+    },
+    {
+      "album": {
+        "name": "Rainbow Tables (feat. Biig Piig)",
+        "url": "https://open.spotify.com/album/2iEDOlUmd5O0SYLdIdwy8M"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183199,
+      "name": "Rainbow Tables (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/2XpohxcjYvNerUpTrjefcP"
     },
     {
       "album": {
@@ -25886,6 +26018,32 @@
     },
     {
       "album": {
+        "name": "Spinal Tap",
+        "url": "https://open.spotify.com/album/1WmKwevODNmF9wJ1fxQ5LD"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        },
+        {
+          "name": "Deem Spencer",
+          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
+        },
+        {
+          "name": "Michael Wolever",
+          "url": "https://open.spotify.com/artist/4UegsLqcGpx2enxOUqmOyH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208053,
+      "name": "Spinal Tap",
+      "url": "https://open.spotify.com/track/4sKEEaJdIlz9M5OOD63gEe"
+    },
+    {
+      "album": {
         "name": "stabilise",
         "url": "https://open.spotify.com/album/2wIJzUunJf3KBBPEofINvS"
       },
@@ -27945,7 +28103,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 145750,
       "name": "The One",
       "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
@@ -29623,7 +29781,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 157000,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/3N39a63azXQRQ4S9tGVtGb"
@@ -30091,7 +30249,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 126151,
       "name": "Web",
       "url": "https://open.spotify.com/track/4C79MQWKw9ov99q8AXXBpe"
@@ -30406,24 +30564,6 @@
     },
     {
       "album": {
-        "name": "Where Is My Mind?",
-        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "date_added": "2021-03-14",
-      "date_added_asterisk": false,
-      "date_removed": "2021-03-16",
-      "duration_ms": 177260,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
-    },
-    {
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -30441,8 +30581,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224933,
-      "name": "Where I\u2019m From (feat. Mereba)",
+      "name": "Where I'm From (feat. Mereba)",
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
+    },
+    {
+      "album": {
+        "name": "Where Is My Mind?",
+        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2021-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2021-03-16",
+      "duration_ms": 177260,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
     },
     {
       "album": {
@@ -30563,7 +30721,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 162379,
       "name": "Who Am I But Someone",
       "url": "https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA"

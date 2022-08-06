@@ -4,7 +4,7 @@
 
 > Calm and soothing strings to help you get a good night's rest.
 
-97 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
+98 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Mountain Air](https://open.spotify.com/track/54LsIqgJOq467bsDXbiWmQ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Inertia](https://open.spotify.com/album/3xndhuJEb6m6IkSMMJ6myo) | 3:33 | 2022-01-06 |  |
 | [Moviente](https://open.spotify.com/track/350a3WXUZomHtuJE7CZE5n) | [Cuarteto El Huenoa](https://open.spotify.com/artist/5xDfmx38ewoEqGS9Yqg0fh) | [Moviente](https://open.spotify.com/album/2zeMdNMdmCJieRB9EOUYzA) | 1:58 | 2022-01-06 |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 |  |
+| [nighteveryday](https://open.spotify.com/track/3D6hyGiGDkOidw2tWTZkAN) | [Ever So So Deep](https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw) | [nighteveryday](https://open.spotify.com/album/6PFpxGyzOsrkAcC88eUEHu) | 2:46 | 2022-08-05 |  |
 | [Nine Times around the Heart](https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 2:57 | 2022-01-06 |  |
 | [Nueva Palmira](https://open.spotify.com/track/0tIAcKnDwJCR1Miow9mqPM) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 1:28 | 2022-01-06 |  |
 | [Oak Shade](https://open.spotify.com/track/2K17IbJaE2A5XsB642I5LZ) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Oak Shade](https://open.spotify.com/album/6IKJo0CNMr8boHjgHc89Gt) | 3:08 | 2022-08-05 |  |

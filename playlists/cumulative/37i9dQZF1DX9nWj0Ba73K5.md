@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Josh Kerr
 
-201 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+204 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2022-01-01 |  |
 | [Jesus Take the Wheel](https://open.spotify.com/track/2uNdFwTYXDzAahBUeURWLJ) | [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Live from the Archives of 650am Wsm \- Volume 1](https://open.spotify.com/album/2fB9vCOs2bHnLkZGHcJzEY) | 3:40 | 2022-01-01 |  |
 | [John Cougar, John Deere, John 3:16](https://open.spotify.com/track/0diBrA66034Rcq9foo6j1A) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 2:55 | 2022-01-01 |  |
+| [Just Another](https://open.spotify.com/track/2ryIpNbjhd9W25bG7JdPVK) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Just Another](https://open.spotify.com/album/5f67HsDD8QPuzqh1oJRltm) | 3:13 | 2022-08-05 |  |
 | [Just For Us](https://open.spotify.com/track/0F33vsMY4cjnpiU4jPz7w0) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [Lost & Found](https://open.spotify.com/album/7qVTM1a4k90QERoj0fTIgQ) | 3:36 | 2022-01-01 |  |
 | [Just Like It Matters](https://open.spotify.com/track/3vOfgOCTf5KdMM8SYbuwl5) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:44 | 2022-01-01 |  |
 | [Just Tell Me](https://open.spotify.com/track/5LgmjIU908hABiSPk3Ibuy) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 3:12 | 2022-01-01 |  |
@@ -109,6 +110,7 @@
 | [Livin' the Dream](https://open.spotify.com/track/5jjR1D16p3FrJ5fQKuLuTX) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:03 | 2022-01-01 |  |
 | [Lonely Ain't So Lonely](https://open.spotify.com/track/6HydPGV0coZ4LIyFSzitXE) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [I Am Now](https://open.spotify.com/album/6ajKwHKtUDhGI4Wnh8Ezx9) | 3:32 | 2022-01-01 |  |
 | [Lonely Side of Town](https://open.spotify.com/track/0Z0rkYiQUVrt5ZratxTHP6) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 3:00 | 2022-01-01 |  |
+| [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 | 2022-08-05 |  |
 | [Love Again](https://open.spotify.com/track/6iUloUfQZyNj8v6qclDuKT) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:07 | 2022-01-01 |  |
 | [Mississippi You're On My Mind](https://open.spotify.com/track/7icWxaCLDCsp92vubx8FaM) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [AKA Nobody](https://open.spotify.com/album/0WfNRbv8QsT9LMLvi3d5hP) | 3:21 | 2022-01-01 |  |
 | [Money on You](https://open.spotify.com/track/5Ve2gI5W6UBhgtA6iceg3v) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Money on You \- EP](https://open.spotify.com/album/4St7iaXEzZFuADDeMd24Co) | 2:48 | 2022-01-01 |  |
@@ -146,6 +148,7 @@
 | [Setting the World on Fire \(feat\. Josh Osborne\)](https://open.spotify.com/track/0no4JGUGADpduYExUgiizp) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:17 | 2022-01-01 |  |
 | [She Let Herself Go](https://open.spotify.com/track/7i9lx2znzB7zREJhhUzyjV) | [Dean Dillon](https://open.spotify.com/artist/6TaRQZ726me3yOu1f2glVH) | [Dylyn](https://open.spotify.com/album/42n6SYRT9TRdi4ul40vIpY) | 3:24 | 2022-01-01 |  |
 | [Single Wide Dreamer](https://open.spotify.com/track/0TTne50yeMlIWkxe48rm2f) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Single Wide Dreamer](https://open.spotify.com/album/368ZJJfNJ4ZukWVDzFqE37) | 3:32 | 2022-04-08 |  |
+| [Skyscraper](https://open.spotify.com/track/0nFbI2dtyCWCcCQ2m3Lu9y) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Skyscraper](https://open.spotify.com/album/1FsCxosjELrzpcwILUTUQm) | 3:06 | 2022-08-05 |  |
 | [Small Town Boy](https://open.spotify.com/track/7I4ltRsC1sJTAkzETXbTCP) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Ben Hayslip](https://open.spotify.com/artist/2yM8mv9zLSVq33FPYRLnn6) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:20 | 2022-01-01 |  |
 | [Smokin' and Drinkin' \(feat\. Natalie Hemby\)](https://open.spotify.com/track/2bFcHKnxNL5nojlysWlcvl) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 4:06 | 2022-01-01 |  |
 | [Some Things Happen](https://open.spotify.com/track/25IU8KLCfdDuTTdf6XzIhO) | [Luke Dick](https://open.spotify.com/artist/5QPfnUFtAHVNdqmJHpJmTg) | [Some Things Happen](https://open.spotify.com/album/6ZWd7y6e7u5zLZmf61SOtU) | 2:48 | 2022-01-01 |  |

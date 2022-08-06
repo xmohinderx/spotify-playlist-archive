@@ -1448,6 +1448,44 @@
     },
     {
       "album": {
+        "name": "this is what love is",
+        "url": "https://open.spotify.com/album/5KAMiXABUYhHcV15pfJ4w4"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "James Southall",
+          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
+        },
+        {
+          "name": "Thomas Gould",
+          "url": "https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk"
+        },
+        {
+          "name": "David O\u2019Leary",
+          "url": "https://open.spotify.com/artist/3kuJnjb3NR5NO0iptFuchB"
+        },
+        {
+          "name": "Rachel Roberts",
+          "url": "https://open.spotify.com/artist/1kO1prL8GSAOJYecFt0pzw"
+        },
+        {
+          "name": "Richard Harwood",
+          "url": "https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180180,
+      "name": "this is what love is",
+      "url": "https://open.spotify.com/track/2lVIRDMd7dgwMAwzM824Dz"
+    },
+    {
+      "album": {
         "name": "Traitor [arr. String Quartet (inspired by Bridgerton)]",
         "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
       },

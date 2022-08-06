@@ -1,13 +1,65 @@
 {
   "description": "The best new music from the wide world of punk. Cover: WHOKILLEDXIX",
-  "num_followers": 264155,
+  "num_followers": 264341,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMDdkYWZlNDk0YzJmZTBkZDUxOWFkMWQ4NGMwOTJmY2Q0",
+  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMGUxN2IyOTg3YTdiZjc1YTYxZmQzOTdmYTZmZTIzNWVh",
   "tracks": [
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "ATTENTION!",
+        "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 161697,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Never Look Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 192415,
+      "name": "Here In Your Bedroom (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/0eOKxLySILR9x85cknejae"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "FAMOUS ON THE INTERNET",
+        "url": "https://open.spotify.com/album/4SKKceJCjDXlUx8NG3UHHG"
+      },
+      "artists": [
+        {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        }
+      ],
+      "duration_ms": 174051,
+      "name": "FAMOUS ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2Bv5kb0dgXjWMu0kujn0TD"
+    },
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
@@ -23,6 +75,22 @@
       "duration_ms": 160286,
       "name": "FUK IT",
       "url": "https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 181797,
+      "name": "Raised By Wolves",
+      "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -47,6 +115,42 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "The King and Queen of Gasoline",
+      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Date With Death",
+        "url": "https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA"
+      },
+      "artists": [
+        {
+          "name": "Paris Shadows",
+          "url": "https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT"
+        },
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
+        }
+      ],
+      "duration_ms": 119215,
+      "name": "Date With Death",
+      "url": "https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "Monkey Mind",
         "url": "https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW"
       },
@@ -59,6 +163,54 @@
       "duration_ms": 138703,
       "name": "Monkey Mind",
       "url": "https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/4qjXIB3RXqHXgMlRpuSGtn"
+      },
+      "artists": [
+        {
+          "name": "Masked Man",
+          "url": "https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5"
+        }
+      ],
+      "duration_ms": 153796,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/4b15dejUsgkM2UqDpMOoUc"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "New Ruin",
+        "url": "https://open.spotify.com/album/7C9cX1cxSbHnzGPBQVQfeG"
+      },
+      "artists": [
+        {
+          "name": "The Flatliners",
+          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "It'll Hurt",
+      "url": "https://open.spotify.com/track/1gaVMd4SNDKJLKNfMnhd8R"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Eugene",
+        "url": "https://open.spotify.com/album/0WtyEWiFm9IWQ9pXBopnOH"
+      },
+      "artists": [
+        {
+          "name": "Press Club",
+          "url": "https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG"
+        }
+      ],
+      "duration_ms": 192936,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/0IDM4UxzlulbTqSDoMY1Sn"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -91,6 +243,22 @@
       "duration_ms": 172816,
       "name": "Call Me on the Way Home",
       "url": "https://open.spotify.com/track/7jYqFflmnsOI04fp3gS6fL"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Please Don't Think About Tomorrow",
+        "url": "https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "City",
+      "url": "https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO"
     },
     {
       "added_at": "2022-08-04 23:00:00",

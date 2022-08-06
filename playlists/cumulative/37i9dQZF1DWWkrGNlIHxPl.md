@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-190 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+192 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Can't Decide](https://open.spotify.com/track/6LO5PBp7goiKDYoWZTcF84) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil](https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG) | 1:52 | 2022-03-03 | 2022-07-18 |
 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 | 2021-12-16 | 2022-04-09 |
 | [Champion](https://open.spotify.com/track/39pxdsIduDagORLDxf7sUI) | [Sammy Shiblaq](https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG) | [Champion](https://open.spotify.com/album/6LCLAYG6WcClrd3t1f39gw) | 2:27 | 2021-12-16 | 2022-01-10 |
-| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-07 |  |
+| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-08-02 |  |
+| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-07 | 2022-08-06 |
 | [D4M](https://open.spotify.com/track/4jkP3gAU9o4ZcDDk4JRFdr) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 4:04 | 2021-12-16 | 2022-03-08 |
 | [Damaged Feelings](https://open.spotify.com/track/4qZe0XLKkEuNS1JS3xHKVI) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Damaged Feelings](https://open.spotify.com/album/7ArpHBuiW0jpHrG8tKdIVx) | 3:17 | 2021-12-16 |  |
 | [Damn Son](https://open.spotify.com/track/6EVVPT2x5Ow5bNmoZagZO6) | [Sammy Shiblaq](https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG) | [Damn Son](https://open.spotify.com/album/7toSxaZza0RCvR3c9Tvuhq) | 2:33 | 2021-12-16 |  |
@@ -163,6 +164,7 @@
 | [Somewave](https://open.spotify.com/track/5UdK4jJ7qcY8wU4d9kpits) | [Zeyada](https://open.spotify.com/artist/2UJIKiHl019qoazIKbax7D) | [Somewave](https://open.spotify.com/album/6JH0QKxS6ygJqS3zTsoiHk) | 3:01 | 2021-12-16 | 2022-06-07 |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2021-12-16 |  |
 | [Stay With Me](https://open.spotify.com/track/2AvO9mnoHTP8HYWlhdr5lZ) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g) | [Stay With Me](https://open.spotify.com/album/5o6vVz0YWB9d6ywjttH6XZ) | 2:59 | 2021-12-16 |  |
+| [Stories](https://open.spotify.com/track/6EnWKtxRzUIeXTQLhCYI2X) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/4xVlft0ERbRUNHT4ahNheZ) | 2:58 | 2022-08-02 |  |
 | [Styla Jamaiki](https://open.spotify.com/track/1ontuN6ddlysEYXzoYkLID) | [ARXP Cartel](https://open.spotify.com/artist/62rWseD8dlUp2w77shBrD1), [Eslam Jawaad](https://open.spotify.com/artist/3y7vb47gzj692Slqa8cKbv), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Styla Jamaiki](https://open.spotify.com/album/601BizZRIf2pr5QsnR6gDA) | 4:05 | 2022-06-23 |  |
 | [Summer Rain](https://open.spotify.com/track/4MOUAKzdy6wa2AJHuuxIi8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Summer Rain](https://open.spotify.com/album/6I3925ZMh8gJ4rSTovgSDp) | 3:20 | 2021-12-16 |  |
 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 608058,
+  "num_followers": 608221,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyNzIyOSwwMDAwMDAwMDRkYmQxMzE3NDAzMzkyZjk3NzNhODUzM2RhMmU1OTBi",
+  "snapshot_id": "MTY1NzcyNzIyOSwwMDAwMDAwMDhmNzg2ZTkyOWM0YjlmYThmZjc2MzIzYWExNzVkNzdk",
   "tracks": [
     {
       "added_at": "2022-05-09 03:18:01",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "\u201dZamba Puta\u201d",
+        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "T\u00fa S\u00ed Sabes Quererme",
         "url": "https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 268280,
       "name": "T\u00fa S\u00ed Sabes Quererme",
       "url": "https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "\u201dZamba Puta\u201d",
-        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Playita en tu mar",
-        "url": "https://open.spotify.com/album/1FR1nrtvMKY4Zr4v2FbFyD"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Pinz\u00f3n",
-          "url": "https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6"
-        },
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Playita en tu mar",
-      "url": "https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Shulaguapa",
         "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 187253,
       "name": "Shulaguapa",
       "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Playita en tu mar",
+        "url": "https://open.spotify.com/album/1FR1nrtvMKY4Zr4v2FbFyD"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Pinz\u00f3n",
+          "url": "https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6"
+        },
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Playita en tu mar",
+      "url": "https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO"
     },
     {
       "added_at": "2022-01-14 04:35:18",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/1NU1H9woXBAeu31yHSrw6u"
     },
     {
-      "added_at": "2022-02-18 18:50:25",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "La Cura",
@@ -1417,6 +1401,22 @@
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
+      "added_at": "2022-02-18 18:50:25",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Drama",
@@ -1431,6 +1431,22 @@
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
       "artists": [
         {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1487,18 +1503,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
         }
       ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+      "duration_ms": 206284,
+      "name": "Mojo",
+      "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1547,26 +1567,6 @@
       "duration_ms": 272799,
       "name": "Amor Entre Mujer",
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 206284,
-      "name": "Mojo",
-      "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1633,38 +1633,6 @@
       "url": "https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Ricoc\u00f3",
-        "url": "https://open.spotify.com/album/3HkYSwb1uewdVgpsKN2etL"
-      },
-      "artists": [
-        {
-          "name": "\u00d8 Suave",
-          "url": "https://open.spotify.com/artist/01vBq5MohZmlTE7W9oavib"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Ricoc\u00f3",
-      "url": "https://open.spotify.com/track/0VQr4Bv3aRRK2ybbN2n5xG"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "La F\u00f3rmula del Mambo",
-        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
-    },
-    {
       "added_at": "2022-01-04 01:50:46",
       "album": {
         "name": "Easy and Tropical Machine",
@@ -1679,6 +1647,22 @@
       "duration_ms": 236200,
       "name": "Cumbia Reggae",
       "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Ricoc\u00f3",
+        "url": "https://open.spotify.com/album/3HkYSwb1uewdVgpsKN2etL"
+      },
+      "artists": [
+        {
+          "name": "\u00d8 Suave",
+          "url": "https://open.spotify.com/artist/01vBq5MohZmlTE7W9oavib"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Ricoc\u00f3",
+      "url": "https://open.spotify.com/track/0VQr4Bv3aRRK2ybbN2n5xG"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1703,6 +1687,22 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "La F\u00f3rmula del Mambo",
+        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
     },
     {
       "added_at": "2022-02-25 03:00:34",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Luna de Plata (Versi\u00f3n Latina)",
-        "url": "https://open.spotify.com/album/12JSUaQHliJdddn5XcsLSN"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 281860,
-      "name": "Luna de Plata - Versi\u00f3n Latina",
-      "url": "https://open.spotify.com/track/2kQHVqfTIO5SyWswMK57LW"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Ya No Te Quiero",
         "url": "https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 224293,
       "name": "Ya No Te Quiero",
       "url": "https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Luna de Plata (Versi\u00f3n Latina)",
+        "url": "https://open.spotify.com/album/12JSUaQHliJdddn5XcsLSN"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 281860,
+      "name": "Luna de Plata - Versi\u00f3n Latina",
+      "url": "https://open.spotify.com/track/2kQHVqfTIO5SyWswMK57LW"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Helado de Mango",
-        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Helado de Mango",
-      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
         "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 222000,
       "name": "Gar\u00faa (Sabor a Querer)",
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Helado de Mango",
+        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Helado de Mango",
+      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2021-10-20 20:06:54",

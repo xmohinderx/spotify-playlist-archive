@@ -1742,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "The Future's Neon",
+        "url": "https://open.spotify.com/album/42Tb9duEfbuP9U3vBq5rkJ"
+      },
+      "artists": [
+        {
+          "name": "CJ Solar",
+          "url": "https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212730,
+      "name": "Long Nights",
+      "url": "https://open.spotify.com/track/1zoYCUSLQkVR1MkkUJMnoI"
+    },
+    {
+      "album": {
         "name": "Lowdown & Lonesome",
         "url": "https://open.spotify.com/album/7CwnSqmzKopo0pmwYCPSwz"
       },
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 210239,
       "name": "Rambler - Bonus Track",
       "url": "https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD"

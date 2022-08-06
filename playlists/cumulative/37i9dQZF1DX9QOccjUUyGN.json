@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 129287,
       "name": "Cora\u00e7\u00e3o Bandido",
       "url": "https://open.spotify.com/track/7uP52LD0IufCPe49CVolqh"
@@ -1659,6 +1659,28 @@
       "duration_ms": 170000,
       "name": "Luneta",
       "url": "https://open.spotify.com/track/7LIti6cp8qgo3kBT4a0LEY"
+    },
+    {
+      "album": {
+        "name": "Marca de Batom",
+        "url": "https://open.spotify.com/album/101L31d4cOuJ58zGVhLjGJ"
+      },
+      "artists": [
+        {
+          "name": "Tizi Kilates",
+          "url": "https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE"
+        },
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153365,
+      "name": "Marca de Batom",
+      "url": "https://open.spotify.com/track/6xOW9fUzrIsGS3M0b52PEf"
     },
     {
       "album": {
@@ -2689,7 +2711,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 151428,
       "name": "Red Amarelo E Gin",
       "url": "https://open.spotify.com/track/7G2wejUD0vRvd9w6yh4A4C"
@@ -2793,6 +2815,28 @@
       "duration_ms": 240000,
       "name": "Revoada dos Mlk",
       "url": "https://open.spotify.com/track/2nWfv0t5r6JEVds7rscEl6"
+    },
+    {
+      "album": {
+        "name": "RJ SP (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1YU1MypztF7lzrfStB9doU"
+      },
+      "artists": [
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        },
+        {
+          "name": "Jojo Maronttinni",
+          "url": "https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "RJ SP (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2pSxlMADdtco1Yd5OYyhEn"
     },
     {
       "album": {
@@ -3119,8 +3163,8 @@
           "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         },
         {
-          "name": "Caio Paiva",
-          "url": "https://open.spotify.com/artist/7BwaJ45yO5Fba5d9S65DfT"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
       "date_added": "2022-07-15",

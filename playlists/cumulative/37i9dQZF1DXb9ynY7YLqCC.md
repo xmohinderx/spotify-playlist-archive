@@ -4,7 +4,7 @@
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-155 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/4rbybKMGrwMGLce2LU8aOy)
+156 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/4rbybKMGrwMGLce2LU8aOy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 | 2022-04-01 | 2022-07-29 |
 | [Cuando Me Muera](https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame \(Demo\)](https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv) | 2:06 | 2022-04-01 |  |
 | [Dale!](https://open.spotify.com/track/1zcbbI6C3RAziKuIpJPVEM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Dale!](https://open.spotify.com/album/6kjshhKSAHlVakwIgK2R15) | 5:10 | 2022-07-08 | 2022-07-22 |
+| [Dale!](https://open.spotify.com/track/1xfJQWdr43FJNdRn7Fr9pI) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Código Genético](https://open.spotify.com/album/1UUYlFcoM5lNaDVjrlfhUt) | 5:10 | 2022-07-08 |  |
 | [De La Guitarra](https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 5:12 | 2022-04-01 | 2022-07-29 |
 | [De la Guitarra \- En Vivo Luna Park](https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 5:11 | 2022-04-01 | 2022-07-25 |
 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 | 2022-04-01 |  |
@@ -52,7 +53,7 @@
 | [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 | 2022-04-01 |  |
 | [Esta Noche Hay Rock And Roll](https://open.spotify.com/track/4FtGxCVUJw512ROG96pTVA) | [Viticus](https://open.spotify.com/artist/7ncoZ68e892tLhd9EBFGuI) | [Super](https://open.spotify.com/album/3ev3Z7RedMrIFQWy01wld4) | 4:28 | 2022-07-08 | 2022-07-28 |
 | [Esta Saliendo El Sol](https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:08 | 2022-04-01 | 2022-07-29 |
-| [Estampita](https://open.spotify.com/track/3vaV6ERdDONqCzXvqxuutE) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Estampita](https://open.spotify.com/album/6Z1DpEiOF3BMj67ZukNgSL) | 4:44 | 2022-04-01 |  |
+| [Estampita](https://open.spotify.com/track/3vaV6ERdDONqCzXvqxuutE) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Estampita](https://open.spotify.com/album/6Z1DpEiOF3BMj67ZukNgSL) | 4:44 | 2022-04-01 | 2022-08-06 |
 | [Flor Negra](https://open.spotify.com/track/3sGzjvYXTtzAN3H7cNT44x) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Tan Real](https://open.spotify.com/album/6QxVFqp00szxBuuGBrESys) | 3:15 | 2022-04-01 | 2022-07-29 |
 | [Flores Secas](https://open.spotify.com/track/2pHU8MnJRkDOLqQBgoyOE5) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Talismán](https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO) | 3:51 | 2022-04-01 | 2022-07-21 |
 | [Fuego \- En Vivo Luna Park](https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Fuego \(En Vivo Luna Park\)](https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA) | 4:46 | 2022-04-01 | 2022-07-29 |
@@ -72,7 +73,7 @@
 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 | 2022-04-01 | 2022-07-29 |
 | [Lo Frágil De La Locura](https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:19 | 2022-04-01 | 2022-07-29 |
 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/5gkNiqB4WzDX9pCHuCLgSa) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Como Evitar Que Sangremos](https://open.spotify.com/album/6Fj8T0XaCuwMkz0hUqX2Vd) | 5:13 | 2022-07-08 | 2022-07-28 |
-| [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 | 2022-04-01 | 2022-08-04 |
+| [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 | 2022-04-01 |  |
 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 | 2022-04-01 |  |
 | [Luna](https://open.spotify.com/track/4D5nVZMNE9vjWtIYzYIKaR) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Código de Barras](https://open.spotify.com/album/1banfoBhLiQH0mhSJK54xS) | 4:34 | 2022-04-01 | 2022-07-29 |
 | [Magdalena](https://open.spotify.com/track/3FgrJJyC7s6bjH6sUsRC3p) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Asuntos de Familia](https://open.spotify.com/album/7hOtFZWs2fzBeowpBzNvEn) | 4:15 | 2022-04-01 | 2022-07-29 |
@@ -91,7 +92,7 @@
 | [No Se Llama Amor](https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi Para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:05 | 2022-04-01 |  |
 | [No Te Quiero Acá](https://open.spotify.com/track/4WjusPB7o16IVXU6CMrNnY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 3:34 | 2022-07-08 | 2022-07-24 |
 | [Normal](https://open.spotify.com/track/5V1e6P17bGnUn5wg2FrUUn) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Normal](https://open.spotify.com/album/471I41BsbiGbxbCPWJZEYg) | 3:55 | 2022-04-01 | 2022-07-06 |
-| [Nunca me enseñaste](https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 3:28 | 2022-04-01 |  |
+| [Nunca me enseñaste](https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 3:28 | 2022-04-01 | 2022-08-06 |
 | [Nunca Quise \- En Vivo Luna Park](https://open.spotify.com/track/101iy0A0T20E8D8Gi1HLiR) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra \(15 Aniversario \- Remasterizado\)](https://open.spotify.com/album/6lwEfjAV0TPNUQxrnoDbF1) | 4:39 | 2022-04-01 | 2022-07-16 |
 | [Oda a la Sin Nombre](https://open.spotify.com/track/0iZI1vKI4dTBofmpav5nV3) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Atraves del Mar de los Sargazos](https://open.spotify.com/album/6jWuKj7C4cscftBl9HdAA2) | 4:32 | 2022-04-01 | 2022-07-29 |
 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 | 2022-07-08 |  |

@@ -236,6 +236,32 @@
     },
     {
       "album": {
+        "name": "The Warriorr (Tamil)",
+        "url": "https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237235,
+      "name": "Bullet Song",
+      "url": "https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu"
+    },
+    {
+      "album": {
         "name": "Doctor (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7sVOaTioI70p4A36YtSDbY"
       },
@@ -542,6 +568,28 @@
     },
     {
       "album": {
+        "name": "Kanja Poovu Kannala (From \"Viruman\")",
+        "url": "https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237558,
+      "name": "Kanja Poovu Kannala (From \"Viruman\")",
+      "url": "https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz"
+    },
+    {
+      "album": {
         "name": "Kutty Pattas",
         "url": "https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs"
       },
@@ -829,7 +877,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 256500,
       "name": "Nenjame",
       "url": "https://open.spotify.com/track/6bUHZRZ4YpVxB1RWrPH5dh"
@@ -1365,7 +1413,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 205714,
       "name": "Top Tucker",
       "url": "https://open.spotify.com/track/3ibDXkPA4Ijz24UxbFcNMi"

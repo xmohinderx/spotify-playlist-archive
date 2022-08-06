@@ -1778,6 +1778,28 @@
     },
     {
       "album": {
+        "name": "Never Ever",
+        "url": "https://open.spotify.com/album/6T9fRYlghCWbqTSqZE5UES"
+      },
+      "artists": [
+        {
+          "name": "Idiot Pop",
+          "url": "https://open.spotify.com/artist/6t8D7bjh5Tk8aGBeSJ4RoP"
+        },
+        {
+          "name": "TORAT",
+          "url": "https://open.spotify.com/artist/4l0gZLsSqaiocM9lXBBX58"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/7hRa263NxqoPk3DuupeG6R"
+    },
+    {
+      "album": {
         "name": "Night Session",
         "url": "https://open.spotify.com/album/1h14fgwVDelTabJJkPlWTn"
       },
@@ -2355,6 +2377,24 @@
       "duration_ms": 220001,
       "name": "Secret Ceremony",
       "url": "https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV"
+    },
+    {
+      "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192484,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd"
     },
     {
       "album": {

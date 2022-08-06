@@ -2,9 +2,9 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Remembering Sidhu Moose Wala.
+> Ultimate 101 Punjabi hits with AP Dhillon
 
-124 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+125 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2022-05-29 |  |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2022-06-01 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-05-29 |  |
-| [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 |  |
+| [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 | 2022-08-06 |
 | [Fate](https://open.spotify.com/track/52XpQt2fDLozI4qlhYvWl0) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 2:50 | 2022-05-29 |  |
 | [Feelinga](https://open.spotify.com/track/2DzEnsDbTLHwPuIMAB2z0P) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Adhi Tape](https://open.spotify.com/album/5oQenRXHToaoAFJnIbOV5Y) | 3:08 | 2022-05-29 |  |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2022-05-29 |  |
@@ -108,6 +108,7 @@
 | [Sohne Lagde](https://open.spotify.com/track/0ydyIEJ02X3kcZ6Bop6sHO) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Sohne Lagde](https://open.spotify.com/album/7CewDXnhuGm4zkEcmKZQvy) | 3:29 | 2022-05-29 |  |
 | [SPACESHIP](https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:04 | 2022-05-29 |  |
 | [Street Style](https://open.spotify.com/track/4RULn5FlCuqIFSreEVp2Lb) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Street Style](https://open.spotify.com/album/1vLiDlDZ2rUAzvorR7Fhp9) | 2:38 | 2022-08-01 |  |
+| [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2022-08-05 |  |
 | [Sun Fer](https://open.spotify.com/track/44s5YGWmZoz9rKaEBXmXXp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Sun Fer](https://open.spotify.com/album/0EoFnRd8PVnKQJISZIom8Y) | 3:12 | 2022-05-29 |  |
 | [SYL](https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [SYL](https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu) | 4:09 | 2022-06-23 |  |
 | [Talja](https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:12 | 2022-05-29 |  |

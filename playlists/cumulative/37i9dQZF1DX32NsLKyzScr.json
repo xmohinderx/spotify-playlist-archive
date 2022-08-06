@@ -7537,7 +7537,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 161035,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
@@ -8333,7 +8333,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 210476,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV"
@@ -14110,6 +14110,28 @@
     },
     {
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
       },
@@ -17449,6 +17471,32 @@
       "duration_ms": 208524,
       "name": "Werk That",
       "url": "https://open.spotify.com/track/73MsDgEcfgmM3lAPRygPS8"
+    },
+    {
+      "album": {
+        "name": "What A Life (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171547,
+      "name": "What A Life (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
     },
     {
       "album": {

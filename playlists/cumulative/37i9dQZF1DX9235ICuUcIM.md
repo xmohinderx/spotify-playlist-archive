@@ -4,7 +4,7 @@
 
 > A llorar a la llorería.
 
-172 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/1GTPbLWs0Myry7A8Uji2qx)
+174 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/1GTPbLWs0Myry7A8Uji2qx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Fuimos Amor](https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 4:09 | 2022-01-07 | 2022-07-29 |
 | [Gracias A Ti](https://open.spotify.com/track/41k2uNbjNzjUTmwvpw1kK8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Gracias A Ti](https://open.spotify.com/album/5SqgyIuq6nnGDn2QYAu8I8) | 2:15 | 2022-01-26 | 2022-04-17 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-01-07 |  |
-| [Himno De La Depresión](https://open.spotify.com/track/2xrYbLEt7afkElgIBXmYUU) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Himno De La Depresión](https://open.spotify.com/album/3FvZZfCYtfb8TBQAtkHlrH) | 4:00 | 2022-01-07 |  |
+| [Himno De La Depresión](https://open.spotify.com/track/2xrYbLEt7afkElgIBXmYUU) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Himno De La Depresión](https://open.spotify.com/album/3FvZZfCYtfb8TBQAtkHlrH) | 4:00 | 2022-01-07 | 2022-08-06 |
 | [Honey, No Estás](https://open.spotify.com/track/1E6QpX1YCNfyXtZ4e6HUuS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/2DKRDBbJUMsolMv7mu9epd) | 3:26 | 2022-01-07 | 2022-07-29 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-06-02 |  |
 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 | 2022-03-25 | 2022-04-21 |
@@ -128,6 +128,7 @@
 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 | 2022-03-25 | 2022-05-11 |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-04-06 |  |
 | [Sayonara](https://open.spotify.com/track/3mbRkOQDQZSJobcvhYpvdT) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Sayonara](https://open.spotify.com/album/1gcaeZk3wr3ysqQFoXjp2r) | 3:55 | 2022-01-07 | 2022-06-29 |
+| [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 | 2022-08-05 |  |
 | [Secreto de cuatro paredes \- Acoustic](https://open.spotify.com/track/7xjBDln5bwCNcqWpGzYk3Y) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP), [MemoDz](https://open.spotify.com/artist/36oVDZLr9ROLk0pTLwRmUj) | [Secreto de cuatro paredes \(Acoustic\)](https://open.spotify.com/album/2daH3BSfGuBwS6dQeAjPR3) | 2:13 | 2022-01-07 | 2022-01-25 |
 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 | 2022-01-07 | 2022-07-28 |
 | [Ser tu depresión \(acústica\)](https://open.spotify.com/track/4TkPskOsVY7j798xZwIZ5M) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Ser tu depresión \(acústica\)](https://open.spotify.com/album/5zJJcQLJlb7vtoPm4M0PFg) | 3:16 | 2022-03-25 | 2022-04-20 |
@@ -142,6 +143,7 @@
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2022-03-25 |  |
 | [Sorry](https://open.spotify.com/track/2DyCLtTrd9f2DRRDq1ngJx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq) | 3:40 | 2022-03-25 | 2022-04-21 |
 | [Sorry](https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:40 | 2022-06-02 |  |
+| [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-08-05 |  |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-04-06 | 2022-07-27 |
 | [Soñar Contigo](https://open.spotify.com/track/0Z8c7bgYXsHvKDJ2eLUBXV) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo de Dos](https://open.spotify.com/album/0wQiLJAm15W5IVKks3Rvqg) | 2:47 | 2022-01-07 | 2022-07-29 |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2022-03-25 |  |
@@ -161,7 +163,7 @@
 | [Tierra Lejana](https://open.spotify.com/track/1NSU3JeZrClnWlhlnzPZZF) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tierra Lejana](https://open.spotify.com/album/6YxISPw4AT6G1PKzeLJk4K) | 2:43 | 2022-02-18 | 2022-05-02 |
 | [Tqm](https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Tqm](https://open.spotify.com/album/46iWmNM0KiEGVCR1crEO6Q) | 3:36 | 2022-01-07 | 2022-07-28 |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2022-06-02 |  |
-| [Turn Back Time](https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Turn Back Time](https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK) | 3:43 | 2022-06-02 |  |
+| [Turn Back Time](https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Turn Back Time](https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK) | 3:43 | 2022-06-02 | 2022-08-06 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-05-06 |  |
 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 | 2022-01-26 | 2022-04-19 |
 | [Vete](https://open.spotify.com/track/1KIt07Xn6PVFVEyQnwCyCt) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 2:03 | 2022-01-07 | 2022-07-29 |

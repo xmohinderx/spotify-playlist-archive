@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,542 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,589 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,19 +59,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 49 | [Nós](https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Nós](https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz) | 4:38 |
 | 50 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 | 51 | [1100 Cegonhas](https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [1100 Cegonhas](https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy) | 3:55 |
-| 52 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
-| 53 | [Lucy Lucy](https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 3:13 |
+| 52 | [Lucy Lucy](https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 3:13 |
+| 53 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
 | 54 | [Tu Não Sabes](https://open.spotify.com/track/3SCLg9qcpLlwP0D6GV8uIp) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Tu Não Sabes](https://open.spotify.com/album/3wcBnAfGTwOUbhOI4YTdlG) | 4:11 |
-| 55 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
-| 56 | [Bossy](https://open.spotify.com/track/45cbUgJwFXYPN3tURnSH2l) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bossy](https://open.spotify.com/album/5QlvEKeqaZJjSa3Z9tmCzI) | 2:46 |
+| 55 | [Bossy](https://open.spotify.com/track/45cbUgJwFXYPN3tURnSH2l) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bossy](https://open.spotify.com/album/5QlvEKeqaZJjSa3Z9tmCzI) | 2:46 |
+| 56 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 57 | [Perseus](https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Perseus](https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ) | 3:34 |
 | 58 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
 | 59 | [Nunca Tive Bem](https://open.spotify.com/track/6HbOwNPeSGIWgUaKfVcDbf) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Nunca Tive Bem](https://open.spotify.com/album/6HRgRCbY56jXxVZJ1y3O2H) | 3:33 |
 | 60 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
 | 61 | [Deixar Rolar](https://open.spotify.com/track/44mIQZqtFSzBhm4lfivYyF) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Deixar Rolar](https://open.spotify.com/album/3GqwReTKFEXIEhXko2DxYD) | 3:53 |
-| 62 | [Bússola](https://open.spotify.com/track/5WJDT0RGxHU8vqpC7MkMfp) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bússola](https://open.spotify.com/album/0iPTEOxwY2UxHaICodmx55) | 4:32 |
-| 63 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
+| 62 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
+| 63 | [Bússola](https://open.spotify.com/track/5WJDT0RGxHU8vqpC7MkMfp) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bússola](https://open.spotify.com/album/0iPTEOxwY2UxHaICodmx55) | 4:32 |
 | 64 | [Última Noite](https://open.spotify.com/track/0azjYhx3vaByBQfcvrq8BC) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Vale D´judeus](https://open.spotify.com/album/3R9nwoCU3HQEe2lDZZVJFx) | 3:03 |
 | 65 | [Dona da Minha Boca](https://open.spotify.com/track/0AnG23OiIeHVToB7G5yyeT) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Dona da Minha Boca](https://open.spotify.com/album/1k8Myokrv7rkGaUPWqVuNi) | 3:24 |
 
-Snapshot ID: `MTY1NzAxMDEyOSwwMDAwMDAwMGJkYjVhNTJmMjdkZjI2MjU5YmU4NWQxZGI3OWU0ZmM2`
+Snapshot ID: `MTY1NzAxMDEyOSwwMDAwMDAwMGQ5Y2E4YzE3MTZjNjU4YWIyMjY1ZTNiNWE0NmQ3OWM4`

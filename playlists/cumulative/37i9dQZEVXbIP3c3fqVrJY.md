@@ -4,12 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-700 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
+701 songs - 1 day 12 hr 0 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Ne\)potřebuju tě](https://open.spotify.com/track/7sX4x81OuCCtagTwAWyP3A) | [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW) | [Album, co mi změnilo život](https://open.spotify.com/album/4NybXmmponlJSA5JnjXaae) | 3:02 | 2022-06-30 | 2022-07-02 |
-| [13\. komnata](https://open.spotify.com/track/302zIkWq3gT9BEorlYcgXU) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Jsem v pohodě, sem v prdeli.](https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr) | 2:46 | 2021-08-01 |  |
+| [13\. komnata](https://open.spotify.com/track/302zIkWq3gT9BEorlYcgXU) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Jsem v pohodě, sem v prdeli.](https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr) | 2:46 | 2021-08-01 | 2022-08-06 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-09-09 | 2021-11-09 |
 | [22 dní](https://open.spotify.com/track/5u5iANSXzVAsztBRXWkxvC) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr) | [Nemoderný chalan](https://open.spotify.com/album/4VfrOGVPKm4MpXSwGMICz6) | 3:42 | 2021-11-12 | 2021-11-17 |
 | [300](https://open.spotify.com/track/23OAiybX9oRT6OqNd65pLf) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 2:22 | 2022-02-26 | 2022-03-07 |
@@ -608,6 +608,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-10-31 | 2022-05-04 |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2021-10-24 | 2021-10-31 |
 | [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 | 2022-05-08 | 2022-05-10 |
+| [Tracey](https://open.spotify.com/track/7BGMmJpT7edoZ9HTxuL3x4) | [AJ Brix](https://open.spotify.com/artist/5qKmIjDNBJlvOEh95CDmsI) | [Tracey](https://open.spotify.com/album/6FeuQ9klbWSfmXUTtiI4ks) | 2:40 | 2022-08-05 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-25 | 2021-06-03 |
 | [TRAPPIN LONELY](https://open.spotify.com/track/2wzELRaOAvUjhJoSkcJTKT) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [TRAPPIN LONELY](https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn) | 2:26 | 2022-05-30 | 2022-06-13 |
 | [Tsunami](https://open.spotify.com/track/5op1X8TfWNUmJnwRzCQ3qL) | [DIVOKEJ BILL](https://open.spotify.com/artist/2e3fdJ9ezTUu9Yj9f7XU08) | [Tsunami](https://open.spotify.com/album/0gXODlKiW9gHtf6WYfxn5h) | 3:18 | 2021-10-04 | 2022-05-03 |

@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 176640,
       "name": "1, 2 Step (Supersonic)",
       "url": "https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp"
@@ -5894,6 +5894,28 @@
     },
     {
       "album": {
+        "name": "Die For",
+        "url": "https://open.spotify.com/album/4mFf0nwVqqJGHC8UCnU5Fr"
+      },
+      "artists": [
+        {
+          "name": "Axel Blaze",
+          "url": "https://open.spotify.com/artist/1L9MiTxPnQhSgTRC7ZKsEF"
+        },
+        {
+          "name": "GLN",
+          "url": "https://open.spotify.com/artist/20MZ39LxRBX2PtN6DgegqU"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141774,
+      "name": "Die For",
+      "url": "https://open.spotify.com/track/2cGVq1Ax5ZxmRMJo5T3hYH"
+    },
+    {
+      "album": {
         "name": "Etiquette Selects",
         "url": "https://open.spotify.com/album/4BcX1yo6b4Id7oXlKOBBfs"
       },
@@ -11619,6 +11641,32 @@
       "duration_ms": 185522,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
+    },
+    {
+      "album": {
+        "name": "I Love U",
+        "url": "https://open.spotify.com/album/53lFPvWqDIuuQKi1PkAMnh"
+      },
+      "artists": [
+        {
+          "name": "The Jost",
+          "url": "https://open.spotify.com/artist/0hdw15tnRn4loYk9aXEKul"
+        },
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "Wonder Wrld",
+          "url": "https://open.spotify.com/artist/3THe19DxADSkp9MQnkQXRO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178515,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/5FHZt3djJXOzZRQiTl2S4Y"
     },
     {
       "album": {
@@ -25099,7 +25147,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 156480,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"

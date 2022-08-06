@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-125 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+127 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dicen](https://open.spotify.com/track/16Lmm7ei1syfXTZIYj5FpY) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [A Veces](https://open.spotify.com/album/1SfElzQ1tIOxyXZmXjLuX9) | 2:58 | 2022-03-03 |  |
 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 | 2022-03-03 |  |
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-03-03 |  |
+| [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/track/59DQVi45MItdwdyBP4A7dg) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Luis Orlandini](https://open.spotify.com/artist/5fTpeqnj9uWvbqwQiUo3PW), [Raimundo Luco](https://open.spotify.com/artist/5tF1ThzwEZEjowMN64pfbY) | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/album/31M8OK3WgX3VrNCmijGZMk) | 4:39 | 2022-08-05 |  |
 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 | 2022-03-03 |  |
 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 | 2022-03-03 |  |
 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 | 2022-03-03 | 2022-07-22 |
@@ -60,6 +61,7 @@
 | [Grande sonata, MS 3\. II\. Romance \- Più tosto Largo, Amorosamente](https://open.spotify.com/track/5t5gLPTHxS72odJk4MhDIl) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Grande sonata, MS 3\. II\. Romance \- Più tosto Largo, Amorosamente](https://open.spotify.com/album/3EsiCjBLa9Y7LBWE7M0k2v) | 3:17 | 2022-07-01 |  |
 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 | 2022-03-03 |  |
 | [Imelda´s Waltz](https://open.spotify.com/track/34o79IeA5dfhTSlgo6VpEu) | [Celia Linde](https://open.spotify.com/artist/12Sdhg5Y9l75czgzGyMD34) | [Shades in Blue](https://open.spotify.com/album/52NKtIOuEqvvlBN43G9Vz5) | 2:38 | 2022-03-03 | 2022-07-15 |
+| [Inner Voice \(No\. 22, Op\. 60, Fernando Sor\)](https://open.spotify.com/track/18ugxbAguZ6WO8wFH4N09o) | [Ricardo Alves Pereira](https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF) | [Inner Voice \(No\. 22, Op\. 60, Fernando Sor\)](https://open.spotify.com/album/7IB63paiCeP51YdFpybriM) | 2:15 | 2022-08-05 |  |
 | [Insensatez](https://open.spotify.com/track/6PRHDUdclcUgzAZIfVy8Od) | [Irio De Paula](https://open.spotify.com/artist/6KofdGpuwBcATTer4Nrcbj), [Renato Sellani](https://open.spotify.com/artist/2NFBhaDMwwy87iAzsfjG90) | [Delicatessen](https://open.spotify.com/album/7iau3Oms7IyeSLlTW09uvk) | 4:14 | 2022-03-03 | 2022-07-15 |
 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 | 2022-03-03 |  |
 | [Karleken \(arr\. for guitar and double bass\): Kärleken](https://open.spotify.com/track/7076W3oIAwyydfx4WMU5sJ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/69YsaSWpIzKGe85DuTtKw2) | 4:16 | 2022-07-29 |  |

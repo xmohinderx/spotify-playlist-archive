@@ -1,12 +1,12 @@
 {
   "description": "The Corridos of yesterday and today all in one place!",
-  "num_followers": 20576,
+  "num_followers": 20611,
   "original_name": "Now & Then Corridos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDljOGNlZDc4NzU5OWIyNDY2ODQ5MmFiNWFjNDA4YTlh",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDRkNDY1NmQzMmJmOWE0MjQ0OWI3Y2QzNDQxNTM0MmQ1",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 163191,
-      "name": "Mis Tres Animales",
-      "url": "https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Corridos Belicos",
         "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 177057,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 163191,
+      "name": "Mis Tres Animales",
+      "url": "https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p"
     },
     {
       "added_at": "2022-01-01 08:00:00",

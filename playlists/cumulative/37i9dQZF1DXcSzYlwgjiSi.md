@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-187 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
+188 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [NO SAD SONGS](https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:52 | 2022-07-22 |  |
 | [No Shade](https://open.spotify.com/track/1qD3k0gSDVJNw4laVAIqjp) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Got No Choice](https://open.spotify.com/album/1529CgDLI704QwWw5A5OFS) | 2:48 | 2021-10-15 |  |
 | [No Shoes, No Shirt, No Problems](https://open.spotify.com/track/4LZqNiZHiQvGLlt0RkXtqt) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 3:29 | 2021-06-18 |  |
+| [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 | 2022-08-05 |  |
 | [On The Water](https://open.spotify.com/track/3axlolsPT9rh65MRDnjM7i) | [Stephen Carey](https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1) | [On The Water](https://open.spotify.com/album/72U9UOAX47zFWMBHF0ZX5X) | 2:31 | 2022-07-22 |  |
 | [One Day](https://open.spotify.com/track/3Vzj3XBPoC4wHvuOR39jD0) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [One Day](https://open.spotify.com/album/71dZ9LHhvH06KuSYoeRgJP) | 2:45 | 2021-06-18 | 2022-06-22 |
 | [One Margarita](https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [One Margarita](https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw) | 3:13 | 2021-06-18 |  |

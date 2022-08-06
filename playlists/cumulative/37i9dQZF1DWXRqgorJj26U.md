@@ -2,7 +2,7 @@
 
 ### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
-> Rock legends & epic songs that continue to inspire generations\. Celebrating 35 years of Appetite for Destruction.
+> Rock legends & epic songs that continue to inspire generations.
 
 280 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/0QZOz4xhBHfQBRKVMnekpO)
 

@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 192951,
       "name": "1x1",
       "url": "https://open.spotify.com/track/3E25cZhRlHVWrmfstuc9H9"
@@ -503,6 +503,24 @@
       "duration_ms": 180596,
       "name": "Annabel",
       "url": "https://open.spotify.com/track/4YFNB1J1F6eOAjBlpMq8xY"
+    },
+    {
+      "album": {
+        "name": "Another Mile",
+        "url": "https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Another Mile",
+      "url": "https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu"
     },
     {
       "album": {
@@ -1604,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "Catching Fire",
+        "url": "https://open.spotify.com/album/0I3SV9aqIY2kNOHEdgEG2Q"
+      },
+      "artists": [
+        {
+          "name": "Lost Saints",
+          "url": "https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175834,
+      "name": "Catching Fire",
+      "url": "https://open.spotify.com/track/2jDMfJiwAzJKl1a1X4anEg"
+    },
+    {
+      "album": {
         "name": "Cemetery",
         "url": "https://open.spotify.com/album/0eZ76ujy2aLYB2vIZ2Je5o"
       },
@@ -1745,7 +1781,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 193213,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/2uUqkcfTGagq9ZRdd5YYpw"
@@ -2070,6 +2106,24 @@
     },
     {
       "album": {
+        "name": "Hay is for Horses",
+        "url": "https://open.spotify.com/album/77bFNeeZ1Z2vQvCSZOWkm1"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175098,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/1k6se62N5i3mQCqQYnaBQh"
+    },
+    {
+      "album": {
         "name": "Cowboy Killer",
         "url": "https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf"
       },
@@ -2089,6 +2143,24 @@
       "duration_ms": 132506,
       "name": "Cowboy Killer",
       "url": "https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd"
+    },
+    {
+      "album": {
+        "name": "Cowboy with a Little Soul",
+        "url": "https://open.spotify.com/album/5t8cESz4vcwiakgOxiiQ66"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lay",
+          "url": "https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165603,
+      "name": "Cowboy with a Little Soul",
+      "url": "https://open.spotify.com/track/3iuT9exJOKIpA0ZHyB27QX"
     },
     {
       "album": {
@@ -3036,6 +3108,28 @@
     },
     {
       "album": {
+        "name": "Every Beer Every Bar",
+        "url": "https://open.spotify.com/album/1xpJh1XNYDywg4t8mGpS1F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Day",
+          "url": "https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA"
+        },
+        {
+          "name": "Zack Dyer",
+          "url": "https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Every Beer Every Bar",
+      "url": "https://open.spotify.com/track/66kkbT3TzR2SHGJNN2xFfR"
+    },
+    {
+      "album": {
         "name": "Every Last Little Bit",
         "url": "https://open.spotify.com/album/34dNvUJxxGTKbo2OGMT2oz"
       },
@@ -3351,7 +3445,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 186961,
       "name": "First Rodeo",
       "url": "https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO"
@@ -4049,6 +4143,24 @@
       "duration_ms": 181413,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA"
+    },
+    {
+      "album": {
+        "name": "Good With Goodbye",
+        "url": "https://open.spotify.com/album/3OLTWRdw4nutaxCcG6ftLN"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219253,
+      "name": "Good With Goodbye",
+      "url": "https://open.spotify.com/track/3vBgdeUMy4aWxOYKyQDUcm"
     },
     {
       "album": {
@@ -4880,6 +4992,42 @@
     },
     {
       "album": {
+        "name": "History Repeats",
+        "url": "https://open.spotify.com/album/6ohj3dFAJb2R2HlEwQPtjH"
+      },
+      "artists": [
+        {
+          "name": "Josh Gracin",
+          "url": "https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226531,
+      "name": "History Repeats",
+      "url": "https://open.spotify.com/track/0ucLZT4jED0aWgnIAiRbvn"
+    },
+    {
+      "album": {
+        "name": "Hitting Your Friends Up",
+        "url": "https://open.spotify.com/album/2a1MSTd8WxHLkAaPFGL7YJ"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190155,
+      "name": "Hitting Your Friends Up",
+      "url": "https://open.spotify.com/track/5uMFM4LAGy1rcgS9YrVTgq"
+    },
+    {
+      "album": {
         "name": "Madeline Edwards",
         "url": "https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd"
       },
@@ -5043,6 +5191,24 @@
       "duration_ms": 211285,
       "name": "Horseshoes and Hand Grenades",
       "url": "https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt"
+    },
+    {
+      "album": {
+        "name": "Maury County Line",
+        "url": "https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188736,
+      "name": "How It Oughta Be",
+      "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
     },
     {
       "album": {
@@ -5940,6 +6106,24 @@
     },
     {
       "album": {
+        "name": "It Only Takes One",
+        "url": "https://open.spotify.com/album/0CWYQOypJsplWjMvGr8AwA"
+      },
+      "artists": [
+        {
+          "name": "Brandon Ray",
+          "url": "https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182869,
+      "name": "It Only Takes One",
+      "url": "https://open.spotify.com/track/0iVLvmbHAXTKBOoD4ZuVgd"
+    },
+    {
+      "album": {
         "name": "Welcome to Prairieville",
         "url": "https://open.spotify.com/album/77lZUyDWJpUGZpWoKvo5gT"
       },
@@ -6048,6 +6232,24 @@
     },
     {
       "album": {
+        "name": "Just 4 July",
+        "url": "https://open.spotify.com/album/3pQUs4KGJ81EkWfM57TZ1m"
+      },
+      "artists": [
+        {
+          "name": "Sykamore",
+          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Just 4 July",
+      "url": "https://open.spotify.com/track/68pMoYD0qI20cSuakhGYSe"
+    },
+    {
+      "album": {
         "name": "So Much / Just a Little",
         "url": "https://open.spotify.com/album/3bJp0DUTNajsYbeNhlkjOH"
       },
@@ -6081,6 +6283,24 @@
       "duration_ms": 193000,
       "name": "Just Add You",
       "url": "https://open.spotify.com/track/2hHUhJVy0NuvTtacGOFCvL"
+    },
+    {
+      "album": {
+        "name": "Just Another",
+        "url": "https://open.spotify.com/album/5f67HsDD8QPuzqh1oJRltm"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Just Another",
+      "url": "https://open.spotify.com/track/2ryIpNbjhd9W25bG7JdPVK"
     },
     {
       "album": {
@@ -6311,10 +6531,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 182840,
       "name": "Lay Down With You",
       "url": "https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1"
+    },
+    {
+      "album": {
+        "name": "Livin' My Best Life",
+        "url": "https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Leave Her Alone",
+      "url": "https://open.spotify.com/track/5SIUzPiJGiWVkbMNR5Hiym"
     },
     {
       "album": {
@@ -7015,7 +7253,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 168722,
       "name": "Love You Too (feat. Ashley Cooke)",
       "url": "https://open.spotify.com/track/5lLfoISXBHCOdiOCNgS49Z"
@@ -7105,7 +7343,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 180493,
       "name": "Make A Little Room",
       "url": "https://open.spotify.com/track/18nf9gxof6z2NAj55QNd3z"
@@ -7123,7 +7361,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 189989,
       "name": "Make the Best Memories",
       "url": "https://open.spotify.com/track/6Z2vjMFWw0s4pPiyOd8qhw"
@@ -7877,7 +8115,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 177283,
       "name": "New Bartender",
       "url": "https://open.spotify.com/track/5uY8LuoMPdC0JVJ4Q1FDXa"
@@ -8245,6 +8483,24 @@
       "duration_ms": 204010,
       "name": "NVM",
       "url": "https://open.spotify.com/track/5yMxjnzk9Ki0OQEpPtUA7V"
+    },
+    {
+      "album": {
+        "name": "Off The Deep End",
+        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196499,
+      "name": "Off The Deep End",
+      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
     },
     {
       "album": {
@@ -8955,7 +9211,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 214333,
       "name": "Queen of Daytona Beach",
       "url": "https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz"
@@ -9146,6 +9402,24 @@
     },
     {
       "album": {
+        "name": "Might As Well Be Me",
+        "url": "https://open.spotify.com/album/01TawJNLkimHYsWTrhajP3"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175606,
+      "name": "Red Round Here",
+      "url": "https://open.spotify.com/track/0R5Jp9c0sYcCfu42Q1VPXC"
+    },
+    {
+      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/1nXJgyl7rgOr3Om8M7cIf5"
       },
@@ -9295,7 +9569,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 181341,
       "name": "Rollin' Stone (feat. Drew Parker & Tyler Booth)",
       "url": "https://open.spotify.com/track/1tBFgkJH0DM0HhqIEbVwyB"
@@ -9562,6 +9836,24 @@
     },
     {
       "album": {
+        "name": "She Ain't That Girl",
+        "url": "https://open.spotify.com/album/2DX89CZhyAHjSlFeTSda8j"
+      },
+      "artists": [
+        {
+          "name": "Tainted Lyric",
+          "url": "https://open.spotify.com/artist/2BiELkFkvJAaCy7ewkk0Ns"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206633,
+      "name": "She Ain't That Girl",
+      "url": "https://open.spotify.com/track/1SXFg2fhv7dBEGrYvt4oBW"
+    },
+    {
+      "album": {
         "name": "She Don't Know",
         "url": "https://open.spotify.com/album/0zJHPS083IYpj5HunA3eha"
       },
@@ -9645,7 +9937,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 197509,
       "name": "She's On It",
       "url": "https://open.spotify.com/track/5ImWIX3cFFtj5e3dkyKgs0"
@@ -9779,6 +10071,24 @@
       "duration_ms": 232333,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/37cgzhQTxeh0qWnuE5y3iu"
+    },
+    {
+      "album": {
+        "name": "Slow Down Sunrise",
+        "url": "https://open.spotify.com/album/4sU7v920pDs01u7d8f6sSg"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Slow Down Sunrise",
+      "url": "https://open.spotify.com/track/1rLVgXU6V6BnTu1PtjmNlc"
     },
     {
       "album": {
@@ -10191,6 +10501,24 @@
       "duration_ms": 198294,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/1yOBqAKdg3rDOqSsGW8Ptg"
+    },
+    {
+      "album": {
+        "name": "SPF Me",
+        "url": "https://open.spotify.com/album/4pTUM4Wo9aIpM9GACV9fVg"
+      },
+      "artists": [
+        {
+          "name": "Renee Blair",
+          "url": "https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174179,
+      "name": "SPF Me",
+      "url": "https://open.spotify.com/track/4oLKiCi8yfllJ0UK1A2IMt"
     },
     {
       "album": {
@@ -10904,6 +11232,24 @@
     },
     {
       "album": {
+        "name": "THE LITTLE THINGS",
+        "url": "https://open.spotify.com/album/2ZMQtJp9Slw5uKYWnCgpSV"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177657,
+      "name": "THE LITTLE THINGS",
+      "url": "https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf"
+    },
+    {
+      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/6wov4VT1SISOjSq3HTOoeJ"
       },
@@ -11362,6 +11708,28 @@
     },
     {
       "album": {
+        "name": "Told You I Could Drink (feat. Lady A)",
+        "url": "https://open.spotify.com/album/1TKT3I8FZypWW2EgJUjFnc"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236990,
+      "name": "Told You I Could Drink (feat. Lady A)",
+      "url": "https://open.spotify.com/track/1Jx6yQQ8g0MyBR8KlviCr0"
+    },
+    {
+      "album": {
         "name": "Tomorrow Me",
         "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
       },
@@ -11377,6 +11745,28 @@
       "duration_ms": 208733,
       "name": "Tomorrow Me",
       "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
+    },
+    {
+      "album": {
+        "name": "Tonight I Need You",
+        "url": "https://open.spotify.com/album/2SMMppv2SGJ3CrieT2N0oz"
+      },
+      "artists": [
+        {
+          "name": "Mason Horne",
+          "url": "https://open.spotify.com/artist/341ntJveJBpKhKj316dttw"
+        },
+        {
+          "name": "Taylor Austin Dye",
+          "url": "https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198199,
+      "name": "Tonight I Need You",
+      "url": "https://open.spotify.com/track/1X35vAv8UkaCx7iuu0gRfd"
     },
     {
       "album": {
@@ -11979,6 +12369,24 @@
       "duration_ms": 156214,
       "name": "What Do We Do Now?",
       "url": "https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT"
+    },
+    {
+      "album": {
+        "name": "What I Get for Loving You",
+        "url": "https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184822,
+      "name": "What I Get for Loving You",
+      "url": "https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd"
     },
     {
       "album": {
@@ -12923,6 +13331,24 @@
       "duration_ms": 204586,
       "name": "You Ain't",
       "url": "https://open.spotify.com/track/77kWKyup18gck9LhKkvY7K"
+    },
+    {
+      "album": {
+        "name": "You Being You",
+        "url": "https://open.spotify.com/album/25U5I9iFVue5WtnVgojdTu"
+      },
+      "artists": [
+        {
+          "name": "Steve Moakler",
+          "url": "https://open.spotify.com/artist/63t3EqMeymxd4CM85RqsCd"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177066,
+      "name": "You Being You",
+      "url": "https://open.spotify.com/track/0kqhph13kXuT8sY0g7cC4q"
     },
     {
       "album": {

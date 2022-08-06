@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,130 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,192 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 63 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 |
 | 64 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
 | 65 | [Moonlit and Devious](https://open.spotify.com/track/01hcQ2RByLTyvoJ0EuejFA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Moonlit and Devious](https://open.spotify.com/album/5S9XXlP7dHIcK9mZNnzqAr) | 5:03 |
-| 66 | [The Touch](https://open.spotify.com/track/5uUv74gkYBFYMGkS0D4cuW) | [Cathy Davey](https://open.spotify.com/artist/1HwEmZUm1VIh3VLmyMLa3g) | [The Nameless \(expanded edition\)](https://open.spotify.com/album/2gOdx3I0TgGLYynQmR876n) | 3:56 |
-| 67 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 |
+| 66 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 |
+| 67 | [The Touch](https://open.spotify.com/track/5uUv74gkYBFYMGkS0D4cuW) | [Cathy Davey](https://open.spotify.com/artist/1HwEmZUm1VIh3VLmyMLa3g) | [The Nameless \(expanded edition\)](https://open.spotify.com/album/2gOdx3I0TgGLYynQmR876n) | 3:56 |
 | 68 | [Should I Stay Or Should I Go \- From The TV Show "Wicked City"](https://open.spotify.com/track/04wrnpT0QumuU3GPWbf0VV) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Should I Stay Or Should I Go \(From The TV Show "Wicked City"\)](https://open.spotify.com/album/1ivkZkfGqLU1Rf8E92hxwf) | 4:03 |
 | 69 | [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 |
 | 70 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
 
-Snapshot ID: `MTY1ODQ1NTg3NCwwMDAwMDAwMGU5NmU5M2I0YWY2NDUyOGEwY2MwYWI4ZDg0MTAyMzQ4`
+Snapshot ID: `MTY1ODQ1NTg3NCwwMDAwMDAwMDMwMGRhOGUwN2NhNGIyYzFkYjQzZjE2MzNkOGMwZjFk`

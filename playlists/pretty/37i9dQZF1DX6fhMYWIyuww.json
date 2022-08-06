@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 81612,
+  "num_followers": 81721,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGYyY2E5NzUyZDcxZDllOWUwNzRiYTA3OTYwMGRmZTA5",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDkwODJjMmQzNjgzODZmNTdkMWQ1MjM0NjI4NjFjZWQ3",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -399,6 +399,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Somebody's Baby",
+      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "A Rock And Roll Alternative",
         "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 221386,
       "name": "Time for Me to Fly",
       "url": "https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
-        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Somebody's Baby",
-      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+        "name": "Some Things Don't Come Easy",
+        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
       },
       "artists": [
         {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
         }
       ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
+      "duration_ms": 172240,
+      "name": "We'll Never Have to Say Goodbye Again - Single Version",
+      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Some Things Don't Come Easy",
-        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
       },
       "artists": [
         {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
         }
       ],
-      "duration_ms": 172240,
-      "name": "We'll Never Have to Say Goodbye Again - Single Version",
-      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
     },
     {
+      "added_at": "2022-03-31 19:29:02",
+      "album": {
+        "name": "Dr. Heckle & Mr. Jive",
+        "url": "https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Love Is the Answer",
+      "url": "https://open.spotify.com/track/2jto2mk883akXynLqkdung"
+    },
+    {
       "added_at": "2022-06-29 18:13:00",
       "album": {
         "name": "Moonlight Feels Right",
@@ -859,22 +875,6 @@
       "duration_ms": 267800,
       "name": "Another Park, Another Sunday",
       "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
-    },
-    {
-      "added_at": "2022-03-31 19:29:02",
-      "album": {
-        "name": "Dr. Heckle & Mr. Jive",
-        "url": "https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Love Is the Answer",
-      "url": "https://open.spotify.com/track/2jto2mk883akXynLqkdung"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -987,22 +987,6 @@
       "duration_ms": 191093,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Rhino Hi-Five: England Dan & John Ford Coley",
-        "url": "https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 281293,
-      "name": "Love Is the Answer - Single Version",
-      "url": "https://open.spotify.com/track/7xKGghZ59EGUT0Ft9BRVMr"
     },
     {
       "added_at": "2022-01-26 21:27:23",
@@ -1295,6 +1279,22 @@
       "duration_ms": 196986,
       "name": "Baby I Need Your Lovin'",
       "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Essential Air Supply",
+        "url": "https://open.spotify.com/album/1szGVsmiZJRyOAGOVk0mCY"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Don't Turn Me Away",
+      "url": "https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5"
     }
   ],
   "unique_name": "Free & Easy",

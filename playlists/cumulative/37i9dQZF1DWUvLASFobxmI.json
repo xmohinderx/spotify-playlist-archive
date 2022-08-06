@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Amandote",
+        "url": "https://open.spotify.com/album/1WPvIsp1abq1FA6uMZR0M1"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167230,
+      "name": "Amandote",
+      "url": "https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx"
+    },
+    {
+      "album": {
         "name": "Amores Van Y Vienen",
         "url": "https://open.spotify.com/album/3weBqrWdVBAhh1BS0plpXK"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 190453,
       "name": "Aunque Sea En Silencio (Cuatro Paredes)",
       "url": "https://open.spotify.com/track/6tO7GuXst1F2L5Hppk8UgB"
@@ -157,6 +175,24 @@
       "duration_ms": 145906,
       "name": "Bajo Mil Llaves",
       "url": "https://open.spotify.com/track/2UnVe9XBmhrCi63CQVugfL"
+    },
+    {
+      "album": {
+        "name": "Bola De Envidiosos",
+        "url": "https://open.spotify.com/album/5G4dgSw1uii6SvLTofW2AQ"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143146,
+      "name": "Bola De Envidiosos",
+      "url": "https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S"
     },
     {
       "album": {
@@ -315,7 +351,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 189789,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
@@ -466,6 +502,24 @@
     },
     {
       "album": {
+        "name": "El Callado",
+        "url": "https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "El Callado",
+      "url": "https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3"
+    },
+    {
+      "album": {
         "name": "El Canelo",
         "url": "https://open.spotify.com/album/4GvvGYS3KFaNqwh9UXnaP7"
       },
@@ -571,7 +625,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 208212,
       "name": "El del Corvette",
       "url": "https://open.spotify.com/track/1Sc2tm7aeKp7HeP54metL0"
@@ -697,7 +751,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 168233,
       "name": "El Mayor",
       "url": "https://open.spotify.com/track/1O6V373NcGqZ27jpCtGdsP"
@@ -737,6 +791,50 @@
       "duration_ms": 191751,
       "name": "El Que a Ti Te Gusta",
       "url": "https://open.spotify.com/track/5drpITkUIpFNfuP2eCWAz4"
+    },
+    {
+      "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "album": {
+        "name": "El Rey Del Desierto",
+        "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "El Rey Del Desierto",
+      "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
     },
     {
       "album": {
@@ -1199,7 +1297,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 191232,
       "name": "La Vieja Escuela",
       "url": "https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F"
@@ -1275,7 +1373,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 185179,
       "name": "Levantando Polvadera",
       "url": "https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG"
@@ -1329,7 +1427,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 208890,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/4XhjEwjPhK30lJO5f9bQkU"
@@ -1484,6 +1582,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Muerto Que Vivo",
+        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213221,
+      "name": "M\u00e1s Muerto Que Vivo",
+      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
+    },
+    {
+      "album": {
         "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
         "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
       },
@@ -1614,6 +1734,24 @@
     },
     {
       "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "album": {
         "name": "Nuestra Profec\u00eda",
         "url": "https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n"
       },
@@ -1629,6 +1767,24 @@
       "duration_ms": 167866,
       "name": "Nuestra Profec\u00eda",
       "url": "https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9"
+    },
+    {
+      "album": {
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208049,
+      "name": "Ojala y te animes",
+      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     },
     {
       "album": {
@@ -2073,7 +2229,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 190333,
       "name": "Si Nos Faltara Amor",
       "url": "https://open.spotify.com/track/0Wdz2Awms2UVvl1tf05iYN"
@@ -2221,7 +2377,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 183800,
       "name": "Sue\u00f1o Guajiro",
       "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
@@ -2261,6 +2417,24 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+    },
+    {
+      "album": {
+        "name": "Te Amar\u00e9 M\u00e1s",
+        "url": "https://open.spotify.com/album/2d7b3fXbYvWpBDuIyPbAS9"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Te Amar\u00e9 M\u00e1s",
+      "url": "https://open.spotify.com/track/4i7s10avxVqIdMERsS996a"
     },
     {
       "album": {

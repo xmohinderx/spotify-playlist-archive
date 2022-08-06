@@ -1544,6 +1544,24 @@
     },
     {
       "album": {
+        "name": "Gravity (Special Edition)",
+        "url": "https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209502,
+      "name": "Only in the Dark",
+      "url": "https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX"
+    },
+    {
+      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },

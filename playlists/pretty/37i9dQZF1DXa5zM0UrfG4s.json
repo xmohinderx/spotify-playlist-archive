@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
-  "num_followers": 86629,
+  "num_followers": 86688,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDE4Yjc3MmRiYWQ3ZmEyZDJkZDI0MWJmYmJjODhmNGIx",
+  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDBiZGQ4YTc0NGRkNTE1M2YzYWNhMzBjZTg4MGNhYjBj",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -575,18 +575,22 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Du kan inte f\u00e5 min \u00f6l",
-        "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
+        "name": "Eventyr",
+        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
       "artists": [
         {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 136100,
-      "name": "Du kan inte f\u00e5 min \u00f6l",
-      "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
+      "duration_ms": 147600,
+      "name": "Eventyr",
+      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -607,22 +611,18 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Eventyr",
-        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
+        "name": "Du kan inte f\u00e5 min \u00f6l",
+        "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Eventyr",
-      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+      "duration_ms": 136100,
+      "name": "Du kan inte f\u00e5 min \u00f6l",
+      "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
-        "url": "https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
-      "url": "https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
         "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 140245,
       "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
       "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
+        "url": "https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
+      "url": "https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Supa",
-        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "Supa",
-      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
         "url": "https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 129453,
       "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
       "url": "https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Supa",
+        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "Supa",
+      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
     },
     {
       "added_at": "2022-08-04 22:01:00",

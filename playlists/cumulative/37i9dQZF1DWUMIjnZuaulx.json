@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Tamela Mann",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Jonathan McReynolds",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 277994,
       "name": "Am\u00e9n (with Kirk Franklin)",
       "url": "https://open.spotify.com/track/45Ni3jzatASbwFJFBAHiM9"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 469797,
       "name": "Dependable (feat. Darrel Walls & Chandler Moore) - Live Version",
       "url": "https://open.spotify.com/track/4ULea2qGmXZmKtoTlE4jpv"
@@ -709,6 +709,24 @@
       "duration_ms": 384973,
       "name": "Do It Now (feat. Dominique Thompson)",
       "url": "https://open.spotify.com/track/7nWkd4MCZS89qDOc5zGfbf"
+    },
+    {
+      "album": {
+        "name": "Done It For Me",
+        "url": "https://open.spotify.com/album/3gHHdq3vociqzqFllMMFdU"
+      },
+      "artists": [
+        {
+          "name": "Josh Copeland",
+          "url": "https://open.spotify.com/artist/03g32kjZ1CsP35h9HYPesz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202951,
+      "name": "Done It For Me",
+      "url": "https://open.spotify.com/track/0D05cnjGXNHVRDdeNGYubI"
     },
     {
       "album": {
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 230382,
       "name": "Jump Ship - Live",
       "url": "https://open.spotify.com/track/5tfxw0QXyytTKAUAtxVG57"
@@ -3120,6 +3138,32 @@
     },
     {
       "album": {
+        "name": "TENT REVIVAL (feat. D'Nar)",
+        "url": "https://open.spotify.com/album/76kz6M6P3vyw0r83q9SOJk"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "D'Nar",
+          "url": "https://open.spotify.com/artist/6WRb0UlH4FZ3Hpt2YlMKbA"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "TENT REVIVAL (feat. D'Nar)",
+      "url": "https://open.spotify.com/track/6JYxR5RRCfFovvn0nArCbq"
+    },
+    {
+      "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/2q0V47HUyl2owPU4prhlpj"
       },
@@ -3831,6 +3875,24 @@
       "duration_ms": 218000,
       "name": "You're Coming Out",
       "url": "https://open.spotify.com/track/68oy8qZSZt6O7Pxmr0KGRm"
+    },
+    {
+      "album": {
+        "name": "Your World",
+        "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196830,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx"

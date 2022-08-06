@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p?si=q0vJwxXwRCOr7B0n66OzUA\" > Jae5 </a>, <a href=\"https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK?si=MGmorvkESEy2IEuQBNsnfA\" > Dave </a> and <a href=\"https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=5pgDQyLCSx62BCzPvuporQ\" > BNXN </a>",
-  "num_followers": 5711,
+  "num_followers": 5731,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMGQ3ZmY5YmFhOTYzNjQ0OGE1ZTA5OTkxMTYyMWE0YjM3",
+  "snapshot_id": "MTY1OTY4MzI3MSwwMDAwMDAwMGVjOWMzZmZiYjY4NzNmMmI1ZTUyZjRmNjIxMzZjZmFk",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -51,6 +51,50 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 175677,
+      "name": "Toni-Ann Singh (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
+    },
+    {
+      "added_at": "2022-08-05 07:07:51",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 232155,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -141,6 +185,26 @@
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
+      "added_at": "2022-08-05 07:07:51",
+      "album": {
+        "name": "In Da Car",
+        "url": "https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "duration_ms": 258320,
+      "name": "In Da Car",
+      "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
+    },
+    {
       "added_at": "2022-07-21 23:00:00",
       "album": {
         "name": "Nowhere To Hide",
@@ -185,6 +249,34 @@
       "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
     },
     {
+      "added_at": "2022-08-05 07:07:51",
+      "album": {
+        "name": "LORD FORGIVE ME",
+        "url": "https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Catch Me If You Can",
@@ -203,6 +295,26 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "added_at": "2022-08-05 07:07:51",
+      "album": {
+        "name": "Sounds of My World (Deluxe)",
+        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 152523,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -261,6 +373,34 @@
       "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
     },
     {
+      "added_at": "2022-08-05 07:07:51",
+      "album": {
+        "name": "One Light (feat. BLEU) [Remix]",
+        "url": "https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g"
+      },
+      "artists": [
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        },
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BLEU",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "One Light (feat. BLEU) - Remix",
+      "url": "https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Love, Damini",
@@ -305,6 +445,26 @@
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
     },
     {
+      "added_at": "2022-08-05 07:07:51",
+      "album": {
+        "name": "Dime Porque Remix (feat. Skales)",
+        "url": "https://open.spotify.com/album/2HGwmQxiM1QmR4DPPeyofp"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "duration_ms": 181176,
+      "name": "Dime Porque Remix (feat. Skales)",
+      "url": "https://open.spotify.com/track/3NticFDBORirt6ls863j8j"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Big Conspiracy",
@@ -345,26 +505,6 @@
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Anloga Junction",
-        "url": "https://open.spotify.com/album/58oROGFaWG6LUlfktncZ9C"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Nominate",
-      "url": "https://open.spotify.com/track/17w34M5Uam8PTahTUUY97q"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -383,26 +523,6 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Wickedest (feat. Haile)",
-        "url": "https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Haile",
-          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
-        }
-      ],
-      "duration_ms": 195976,
-      "name": "Wickedest (feat. Haile)",
-      "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -425,6 +545,30 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
+      "added_at": "2022-08-05 07:07:51",
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/3lGzBNpRtYxEyr9HQtPPcL"
+      },
+      "artists": [
+        {
+          "name": "Yung Alpha",
+          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
+        },
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        },
+        {
+          "name": "Tha Rift",
+          "url": "https://open.spotify.com/artist/7fEi8ewyfKEonfDoJtebVt"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/0JuDItXFBAvPlsHM5LoxZS"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Energy (Stay Far Away)",
@@ -443,26 +587,6 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 175677,
-      "name": "Toni-Ann Singh (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -617,38 +741,6 @@
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
     },
     {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Under Attack (Africa Remix)",
-        "url": "https://open.spotify.com/album/2eqMjMATKt717tpn23peyZ"
-      },
-      "artists": [
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Yaw Tog",
-          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
-        },
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Under Attack - African Remix",
-      "url": "https://open.spotify.com/track/7DFsckyFBqXlEDy1n3Hvuq"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Truth Be Told",
@@ -709,26 +801,6 @@
       "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Unload",
-        "url": "https://open.spotify.com/album/7iY32OXu7HCehUpG7lC7jP"
-      },
-      "artists": [
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 230059,
-      "name": "Unload",
-      "url": "https://open.spotify.com/track/0be1HYcKx12wNtKMV8u9RE"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Beauty In The Madness",
@@ -751,30 +823,6 @@
       "duration_ms": 223668,
       "name": "Beauty In The Madness",
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Wildheart",
-        "url": "https://open.spotify.com/album/7BPQFA64VEvFmGKrGTSJRz"
-      },
-      "artists": [
-        {
-          "name": "Stylolive",
-          "url": "https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ"
-        },
-        {
-          "name": "Blaq Pages",
-          "url": "https://open.spotify.com/artist/0TvqXK5QXVEf8d2jjrYrCo"
-        },
-        {
-          "name": "MXKA",
-          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
-        }
-      ],
-      "duration_ms": 166627,
-      "name": "Wildheart",
-      "url": "https://open.spotify.com/track/5C6RG2vAPbp4daO6J9cK2G"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -848,7 +896,7 @@
       "added_at": "2022-07-08 06:09:58",
       "album": {
         "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD"
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
       "artists": [
         {
@@ -862,7 +910,7 @@
       ],
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D"
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1463,26 +1511,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Spirit (feat. Wale)",
-        "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
-      },
-      "artists": [
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 253178,
-      "name": "Spirit (feat. Wale)",
-      "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -1655,26 +1683,6 @@
       "duration_ms": 159250,
       "name": "Loved By You (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "EDNA (Deluxe)",
-        "url": "https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Siberia (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv"
     },
     {
       "added_at": "2022-06-30 23:00:00",

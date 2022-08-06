@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Ayleen Valentine, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,189 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,257 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 49 | [Talk](https://open.spotify.com/track/04NmR6zVBGLCahRkyIVozW) | [S\. Raekwon](https://open.spotify.com/artist/13O0dF37al4XD57GenV5wC) | [Talk](https://open.spotify.com/album/4kaAovsaETzlC0gdcnU57D) | 1:59 |
 | 50 | [Cul De Sac](https://open.spotify.com/track/5eF8RJIC08TOyTc3Yg3teX) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [Cul De Sac](https://open.spotify.com/album/1T0Kj1mePC8yYD9U7qHe6r) | 4:21 |
 | 51 | [COMING OF AGE](https://open.spotify.com/track/5H9G4YEjyfsSYi96C4GNcj) | [WABANSIA](https://open.spotify.com/artist/4vxmF1VtcKMAWRCJ7K1zU8), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tvvin](https://open.spotify.com/artist/22vWZdKEKpk9p0LR8JlBzO), [Cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc) | [COMING OF AGE](https://open.spotify.com/album/69nN4jsVINlQWBkAi3NMxH) | 2:50 |
-| 52 | [Karma](https://open.spotify.com/track/3LF6MTkvDYOacFQPFVc15x) | [Julia Bhatt](https://open.spotify.com/artist/36gYC6OhU5Rn3RiPUXom22) | [Karma](https://open.spotify.com/album/61KoBGeD97zmY9yOQqDEVo) | 3:38 |
+| 52 | [Karma](https://open.spotify.com/track/6dRycVppXHVkE0HA4eA7Ov) | [Julia Bhatt](https://open.spotify.com/artist/36gYC6OhU5Rn3RiPUXom22) | [it is what it is](https://open.spotify.com/album/0deWXcbtt4YrvsTTnDld3B) | 3:38 |
 | 53 | [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 |
 | 54 | [new socks & a meal](https://open.spotify.com/track/469iGxcwTteAOXoSXV7ef7) | [ivy.](https://open.spotify.com/artist/3wRra8nKWFrFBTKhCHjsyr) | [new socks & a meal](https://open.spotify.com/album/1UUPD4Hwg0HeuxLpSZ0siV) | 1:45 |
 | 55 | [JUST A FRIEND](https://open.spotify.com/track/36LhRqsiN9nh2R2uRw2okl) | [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs), [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2), [Max Leonard](https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew) | [JUST A FRIEND](https://open.spotify.com/album/5dvbtgle6QcXWclKh8fDwY) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 69 | [Start To Breathe](https://open.spotify.com/track/2o8YkLtvVagI1ODecSRT57) | [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Start To Breathe](https://open.spotify.com/album/3qCeUd5yX2cGIY9xBvwo2s) | 4:21 |
 | 70 | [twentyone](https://open.spotify.com/track/1VohwuTMRDmNLxZeJKdCsn) | [Ben Ohr](https://open.spotify.com/artist/4RTUllFdPttQHfthpDXKoG) | [twentyone](https://open.spotify.com/album/6XPoIFRZlNSvdNKJ9Mq60Q) | 3:39 |
 
-Snapshot ID: `MTY1OTY0OTgwNSwwMDAwMDAwMDE0NzFmYjM4M2ExMDdlYWQyODBlNzUzMGFlMGE4OGRl`
+Snapshot ID: `MTY1OTY0OTgwNSwwMDAwMDAwMDMwNWMyMjk1MmI4YTU5ODk4YjAwNWU3NGIxODc5NDBk`

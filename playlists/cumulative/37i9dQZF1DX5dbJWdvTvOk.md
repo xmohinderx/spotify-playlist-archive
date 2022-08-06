@@ -4,13 +4,14 @@
 
 > Canciones instrumentales de guitarra.
 
-139 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+140 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mano](https://open.spotify.com/track/3I543eAVQG6u3Sm9k4PLAM) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [De Mano A Mano](https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ) | 2:40 | 2022-07-15 |  |
 | [A Sign of Solace](https://open.spotify.com/track/6IUMwWcgrdKyK58XBFWwGC) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [A Sign of Solace](https://open.spotify.com/album/2CzXhWYQjtElo9hHjqHh2F) | 2:49 | 2022-07-15 |  |
 | [Across](https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind Vol.5](https://open.spotify.com/album/6o7WSuz1KmcL6PtxrvgSqd) | 2:06 | 2022-07-15 |  |
+| [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 |  |
 | [am Marienplatz](https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py) | [Alexander Wurzler](https://open.spotify.com/artist/25W6u2VnVVME6ZEMSn9Kfa) | [Morgenstund](https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5) | 2:49 | 2022-07-15 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2022-07-15 |  |
 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 | 2022-07-15 |  |

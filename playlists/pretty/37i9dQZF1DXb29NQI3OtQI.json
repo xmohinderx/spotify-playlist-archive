@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 107966,
+  "num_followers": 108123,
   "original_name": "00s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcyMDg2NiwwMDAwMDAwMGJiMDZmOWIzYzJhYjg0OGRmMWQ2MTRjMDUwYTBhYTMz",
+  "snapshot_id": "MTY1NDcyMDg2NiwwMDAwMDAwMGY1ODUxOTUyN2M4MjcyY2YyNWVlNTU4ZmViOWIwMDc4",
   "tracks": [
     {
       "added_at": "2021-03-23 14:07:08",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2021-03-23 14:07:08",
       "album": {
-        "name": "Red Carpet Massacre",
-        "url": "https://open.spotify.com/album/7a1fHsFj4oYVkMtYMzjOXy"
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
         }
       ],
-      "duration_ms": 339933,
-      "name": "Falling Down (feat. Justin Timberlake)",
-      "url": "https://open.spotify.com/track/3DouEusx0IYHCPhTQcpFJo"
+      "duration_ms": 229706,
+      "name": "This Is A Call",
+      "url": "https://open.spotify.com/track/6g1lAe0by2tNDHrjpFeQ47"
     },
     {
       "added_at": "2021-03-23 14:07:08",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2021-03-23 14:07:08",
       "album": {
-        "name": "Phenomenon",
-        "url": "https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM"
+        "name": "Red Carpet Massacre",
+        "url": "https://open.spotify.com/album/7a1fHsFj4oYVkMtYMzjOXy"
       },
       "artists": [
         {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 229706,
-      "name": "This Is A Call",
-      "url": "https://open.spotify.com/track/6g1lAe0by2tNDHrjpFeQ47"
+      "duration_ms": 339933,
+      "name": "Falling Down (feat. Justin Timberlake)",
+      "url": "https://open.spotify.com/track/3DouEusx0IYHCPhTQcpFJo"
     },
     {
       "added_at": "2021-03-23 14:07:08",

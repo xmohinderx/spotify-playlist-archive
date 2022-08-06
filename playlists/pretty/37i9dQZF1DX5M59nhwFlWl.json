@@ -1,12 +1,12 @@
 {
   "description": "That unbridled, unholy, loud and dirty 90s rock goodness you know you love",
-  "num_followers": 101992,
+  "num_followers": 102056,
   "original_name": "Cranked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzY4MCwwMDAwMDAwMGU4MDFkZGJkYjYyM2IzY2U3YzlmNzA3YWVmN2U0MDk5",
+  "snapshot_id": "MTY1NjUyNzY4MCwwMDAwMDAwMDhiYTBhNzNmYzZhY2YyZTg0ZjI4YjFiOTM3ZDE4ZWEz",
   "tracks": [
     {
       "added_at": "2022-06-29 18:33:46",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "So Much For The Afterglow",
-        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Father Of Mine",
-      "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "As Good As Dead",
         "url": "https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 222960,
       "name": "Bound For The Floor",
       "url": "https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "So Much For The Afterglow",
+        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Father Of Mine",
+      "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
     },
     {
       "added_at": "2022-06-29 18:33:46",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Kerosene Hat",
-        "url": "https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO"
-      },
-      "artists": [
-        {
-          "name": "Cracker",
-          "url": "https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6"
-        }
-      ],
-      "duration_ms": 276131,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 326666,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Kerosene Hat",
+        "url": "https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO"
+      },
+      "artists": [
+        {
+          "name": "Cracker",
+          "url": "https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6"
+        }
+      ],
+      "duration_ms": 276131,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX"
     },
     {
       "added_at": "2022-06-29 18:33:46",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Clumsy",
-        "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Superman's Dead",
-      "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "American Standard",
         "url": "https://open.spotify.com/album/4IWy4QGftrQZLLvN6Dq4Lm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 230800,
       "name": "Water's Edge",
       "url": "https://open.spotify.com/track/0pvmUroOxa5sBu9wINCbI9"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Clumsy",
+        "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Superman's Dead",
+      "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
     },
     {
       "added_at": "2022-06-29 18:33:46",

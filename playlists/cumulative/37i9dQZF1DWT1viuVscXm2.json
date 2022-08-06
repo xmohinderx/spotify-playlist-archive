@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 233306,
       "name": "AMOR, AMOR, AMOR",
       "url": "https://open.spotify.com/track/4yhOnSd2dwD43xMWREnV9m"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 209614,
       "name": "Camina (Suave y Elegante)",
       "url": "https://open.spotify.com/track/1fi9cZSvHWP7z6N8HihILu"
@@ -1398,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
+    },
+    {
+      "album": {
         "name": "Grupo Play (La poes\u00eda musical)",
         "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
       },
@@ -1413,6 +1431,28 @@
       "duration_ms": 192186,
       "name": "Llora me llama",
       "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
+    },
+    {
+      "album": {
+        "name": "Llorar\u00e1s M\u00e1s de 10 Veces",
+        "url": "https://open.spotify.com/album/5NmYayaP0sr0anmXO9D8hz"
+      },
+      "artists": [
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210357,
+      "name": "Llorar\u00e1s M\u00e1s de 10 Veces",
+      "url": "https://open.spotify.com/track/10VUJfqV8GGuJovH0x9Q4e"
     },
     {
       "album": {
@@ -1730,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "Negra Caderona",
+        "url": "https://open.spotify.com/album/6eKerB5MySf2QISRA5AYJy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248764,
+      "name": "Negra Caderona",
+      "url": "https://open.spotify.com/track/0qSmxnzk8yAONBAiuNppJu"
+    },
+    {
+      "album": {
         "name": "No Llores",
         "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
       },
@@ -1993,7 +2051,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 222916,
       "name": "Pensando Record\u00e9",
       "url": "https://open.spotify.com/track/7E4wX37s5Kf2wIFpntbcvz"

@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 23467,
+  "num_followers": 23518,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3Nzk4NywwMDAwMDAwMDZmNjRkZWM5NDA0Njg5ZmUyZmFkZDcxY2VmZDAyMThh",
+  "snapshot_id": "MTY1OTQ3Nzk4NywwMDAwMDAwMGE2MzM2NzY5YTE2ZTAxMTQ5MGY5OTllMmE3MDkxNjA2",
   "tracks": [
     {
       "added_at": "2021-10-05 16:26:53",
@@ -599,6 +599,22 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "Bailando Lento",
+        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Bailando Lento",
+      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "Sorpresa",
         "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 255227,
       "name": "Aguaepanela Fant\u00e1stica",
       "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Bailando Lento",
-        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Bailando Lento",
-      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
       "added_at": "2022-04-20 18:21:19",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez"
     },
     {
-      "added_at": "2022-04-09 05:14:33",
-      "album": {
-        "name": "Tu Color",
-        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
-    },
-    {
       "added_at": "2022-02-24 20:09:48",
       "album": {
         "name": "Sentimiento",
@@ -799,6 +783,22 @@
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
+    },
+    {
+      "added_at": "2022-04-09 05:14:33",
+      "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
     },
     {
       "added_at": "2022-03-11 03:39:07",
@@ -1193,26 +1193,6 @@
       "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Alianza Atl\u00e1ntica",
-        "url": "https://open.spotify.com/album/4ONpoZmgTyWotFTv79FOVT"
-      },
-      "artists": [
-        {
-          "name": "Los Pilotos",
-          "url": "https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/0r8cjqflsgnXmXg5lzbprp"
-        }
-      ],
-      "duration_ms": 269525,
-      "name": "El Ciclo de las Mareas",
-      "url": "https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G"
-    },
-    {
       "added_at": "2022-04-12 02:37:18",
       "album": {
         "name": "New Latam Beats from Mexico Curated by Diguital Trip",
@@ -1231,6 +1211,26 @@
       "duration_ms": 434406,
       "name": "Kiss the frog",
       "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Alianza Atl\u00e1ntica",
+        "url": "https://open.spotify.com/album/4ONpoZmgTyWotFTv79FOVT"
+      },
+      "artists": [
+        {
+          "name": "Los Pilotos",
+          "url": "https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/0r8cjqflsgnXmXg5lzbprp"
+        }
+      ],
+      "duration_ms": 269525,
+      "name": "El Ciclo de las Mareas",
+      "url": "https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G"
     },
     {
       "added_at": "2021-11-10 05:48:01",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "Coidar dunhas Colmeas",
+        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9boa",
+          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
+        }
+      ],
+      "duration_ms": 238069,
+      "name": "Coidar dunhas Colmeas",
+      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "El Cabr\u00f3n",
         "url": "https://open.spotify.com/album/3408tnJWJPhB79M3m1wJnq"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 222333,
       "name": "El Cabr\u00f3n - Radio Edit",
       "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Coidar dunhas Colmeas",
-        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9boa",
-          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
-        }
-      ],
-      "duration_ms": 238069,
-      "name": "Coidar dunhas Colmeas",
-      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
-      "added_at": "2022-01-21 16:05:39",
-      "album": {
-        "name": "Plata y Coral",
-        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 240491,
-      "name": "Plata y Coral",
-      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Frutas",
@@ -1587,6 +1571,22 @@
       "duration_ms": 259741,
       "name": "Frutas",
       "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
+    },
+    {
+      "added_at": "2022-01-21 16:05:39",
+      "album": {
+        "name": "Plata y Coral",
+        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 240491,
+      "name": "Plata y Coral",
+      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG"
     },
     {
+      "added_at": "2022-01-13 00:41:05",
+      "album": {
+        "name": "Miel de Aguacate",
+        "url": "https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ"
+      },
+      "artists": [
+        {
+          "name": "Bicho Blanco",
+          "url": "https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw"
+        }
+      ],
+      "duration_ms": 237745,
+      "name": "Miel de Aguacate",
+      "url": "https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Ofrenda Remixes",
@@ -1691,22 +1707,6 @@
       "duration_ms": 201600,
       "name": "Vayay\u00f3 - Jiony Remix",
       "url": "https://open.spotify.com/track/63Ey7CXax01hC8niuvTVhE"
-    },
-    {
-      "added_at": "2022-01-13 00:41:05",
-      "album": {
-        "name": "Miel de Aguacate",
-        "url": "https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ"
-      },
-      "artists": [
-        {
-          "name": "Bicho Blanco",
-          "url": "https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw"
-        }
-      ],
-      "duration_ms": 237745,
-      "name": "Miel de Aguacate",
-      "url": "https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi"
     },
     {
       "added_at": "2021-10-05 16:26:53",

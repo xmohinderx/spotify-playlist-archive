@@ -4,7 +4,7 @@
 
 > entering my reputation era 🐍
 
-222 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
+223 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Meant to be Yours](https://open.spotify.com/track/6zQPRiKYLdpAIn5HDtzDYc) | [Jamie Muscato](https://open.spotify.com/artist/5uJiTfwUrMiaGG1PwuKCp3), [Original West End Cast of Heathers](https://open.spotify.com/artist/4WK6ZRLcS2beZfrDoNvjK7) | [Heathers the Musical \(Original West End Cast Recording\)](https://open.spotify.com/album/6r3jhI1kXM7NkEDowpkxOU) | 3:30 | 2022-02-23 | 2022-07-29 |
 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 | 2022-02-18 | 2022-02-26 |
 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 | 2022-07-18 |  |
+| [Michelle](https://open.spotify.com/track/3bTzAFtvHyDWJcIyTQijGO) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/08VQWx0GZFqmUgRtGPntdg) | 3:34 | 2022-01-27 |  |
 | [Michelle](https://open.spotify.com/track/48rZVgAGm0OlbbxjikCpqm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:34 | 2022-01-27 | 2022-07-29 |
 | [Money](https://open.spotify.com/track/6FjfHnDM6YGSLMBmCX1yXl) | [Ayla D'lyla](https://open.spotify.com/artist/1gtS3u4J43CYspyLmJAJu5) | [Money](https://open.spotify.com/album/4vCFA40in0IrEpRRonvweD) | 3:41 | 2022-03-18 | 2022-07-23 |
 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 | 2022-01-27 | 2022-07-16 |
@@ -185,7 +186,7 @@
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2022-01-27 | 2022-07-29 |
 | [Smile](https://open.spotify.com/track/2f5IZC0qm02BOmKp5rbZgU) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Birds of Prey: The Album](https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI) | 2:37 | 2022-01-27 | 2022-04-21 |
 | [Smoke Hole \- Edit](https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Smoke Hole](https://open.spotify.com/album/1TJpngFnTnOBmFbl1FqyOK) | 2:47 | 2022-01-27 | 2022-05-25 |
-| [Sociopath](https://open.spotify.com/track/0xx5CXMss5CFv2GPkg97aC) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Sociopath](https://open.spotify.com/album/1ULTtkDHtkueGlH7isNkAl) | 3:24 | 2022-01-27 |  |
+| [Sociopath](https://open.spotify.com/track/0xx5CXMss5CFv2GPkg97aC) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Sociopath](https://open.spotify.com/album/1ULTtkDHtkueGlH7isNkAl) | 3:24 | 2022-01-27 | 2022-08-06 |
 | [Somebody I Fucked Once](https://open.spotify.com/track/1TLgTsRiX4P55KUOOGjYHu) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe\)](https://open.spotify.com/album/7JpzGCHmVPWG9zvBdexIqd) | 3:04 | 2022-01-27 | 2022-07-29 |
 | [Somebody's Watching Me](https://open.spotify.com/track/7aeGKqZ3oURYO7p793BBW1) | [Madelyn Darling](https://open.spotify.com/artist/1j60AcfVBF5WUmGWfhFIel) | [Somebody's Watching Me](https://open.spotify.com/album/6brAY6PpIXJXtrgpACy5XZ) | 3:46 | 2022-01-27 | 2022-04-20 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-28 |  |

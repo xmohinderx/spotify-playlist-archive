@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-94 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+95 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Island of Heaven](https://open.spotify.com/track/0N3chwzAmCThKkFm6Hx6Y7) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Island of Heaven](https://open.spotify.com/album/7rRPMkwHsePa5fKYfb9zOW) | 3:21 | 2021-12-10 |  |
 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 | 2021-12-10 |  |
 | [Juntos en Tu Cama](https://open.spotify.com/track/4g7ZMgMMZA2WPpnaeNK80l) | [8 Segundos](https://open.spotify.com/artist/5f5Wlazt9jmI75fK5nPpd6) | [Vaquero Arrepentido](https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI) | 2:57 | 2021-12-10 |  |
+| [Just a Bordertown](https://open.spotify.com/track/1PiBlXOdXaoA9sZ3qSv3kD) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Just a Bordertown](https://open.spotify.com/album/3UsuIICuP8aR1QwqJhCsWt) | 3:28 | 2022-08-05 |  |
 | [La Bamba](https://open.spotify.com/track/0dJUbqKkP9EwuBtyLeQWHt) | [Jake Hoot](https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7), [Ricky Duran](https://open.spotify.com/artist/1C18TJ6Co8ihwnIUYbrfiy) | [La Bamba](https://open.spotify.com/album/48s9qikZZvbEhVX1tdWc5R) | 3:13 | 2021-12-10 | 2022-07-29 |
 | [La Bamba](https://open.spotify.com/track/25oidgdkH3NlGpJtDV7ujD) | [Jake Hoot](https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7), [Ricky Duran](https://open.spotify.com/artist/1C18TJ6Co8ihwnIUYbrfiy) | [La Bamba](https://open.spotify.com/album/7cve9lcdp9KQUpbbaj8Mlp) | 3:13 | 2022-07-08 |  |
 | [La Conoci en un Rodeo](https://open.spotify.com/track/5DNjj4JB73raxizHergZZZ) | [Lico Ochoa](https://open.spotify.com/artist/6qGC90DZp2CJj8yW2hzEEr) | [La Conoci en un Rodeo](https://open.spotify.com/album/0cysbWhtKWMyR4n8u5tNtv) | 3:55 | 2021-12-10 |  |

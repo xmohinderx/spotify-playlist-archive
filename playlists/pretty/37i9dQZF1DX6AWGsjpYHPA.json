@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 81563,
+  "num_followers": 81688,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQzNTQzMiwwMDAwMDAwMDAxYTUzNjI3ZTI5MTk5ZTdlYzljOGE5NzAyNDY3NGMz",
+  "snapshot_id": "MTY1ODQzNTQzMiwwMDAwMDAwMGU2Yjg4NDVlM2RiYTQ3NmFkYTJmZTFkZTE0Njg3MDUw",
   "tracks": [
     {
       "added_at": "2022-07-21 20:30:32",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 235493,
       "name": "Mad (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/22DHmfJa31hKpc2Lg0gVBV"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "Mordechai Remixes",
         "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 195604,
       "name": "Dearest Alfred (MyJoy)",
       "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "Szikra",
-        "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
-      },
-      "artists": [
-        {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
-        }
-      ],
-      "duration_ms": 401573,
-      "name": "Szikra",
-      "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Szikra",
+        "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "duration_ms": 401573,
+      "name": "Szikra",
+      "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "Imagineering",
-        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Imagineering",
-      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "Your Queen Is A Reptile",
         "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 314693,
       "name": "My Queen Is Albertina Sisulu",
       "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Imagineering",
+        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Imagineering",
+      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
+        "name": "And Groove",
+        "url": "https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 205785,
+      "name": "And Groove - Edit",
+      "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
         "name": "London. Paris. Berlin.",
         "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 245200,
       "name": "London. Paris. Berlin.",
       "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "And Groove",
-        "url": "https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 205785,
-      "name": "And Groove - Edit",
-      "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
         "name": "Afro-Harping",
         "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 384986,
       "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
       "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
     },
     {
       "added_at": "2022-06-24 00:45:24",

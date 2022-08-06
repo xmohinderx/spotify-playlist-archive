@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Francis Mercier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,848 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,862 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 59 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
 | 60 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
 | 61 | [Eskize Mwen \- Raboday Mix](https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg) | [Josh X](https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc), [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [Raboday](https://open.spotify.com/artist/12f0pjdXUGmZ0c38TVmvEc) | [Eskize Mwen](https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE) | 3:14 |
-| 62 | [Ba L on Bye \(Remix\)](https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Ba L on Bye \(Remix\)](https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH) | 3:36 |
-| 63 | [Comme Papa](https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 3:40 |
+| 62 | [Comme Papa](https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 3:40 |
+| 63 | [Ba L on Bye \(Remix\)](https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Ba L on Bye \(Remix\)](https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH) | 3:36 |
 | 64 | [Fanm Chè](https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Trap King](https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK) | 3:06 |
 | 65 | [Oh Mama](https://open.spotify.com/track/6O1JbI2vepUE3dg5XKkHYi) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 2:34 |
 | 66 | [Designa](https://open.spotify.com/track/7d3wIcVooCbZ02cUlhNrZR) | [Gio\-K](https://open.spotify.com/artist/7cnGhb65N4hiSdJ2QWdGxI), [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [Designa](https://open.spotify.com/album/5SqfQYstMm4D1xi8qVDXt0) | 2:35 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 89 | [Bout Konpa \- Original Mix](https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M) | [DZgot](https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala) | [La Vibe Tropicale EP](https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH) | 3:50 |
 | 90 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
 | 91 | [Zeptima](https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Zeptima](https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a) | 4:01 |
-| 92 | [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 |
-| 93 | [Ayizan](https://open.spotify.com/track/7Dy2z4DuyXOcwFBcSY42aX) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy) | 6:40 |
+| 92 | [Ayizan](https://open.spotify.com/track/7Dy2z4DuyXOcwFBcSY42aX) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy) | 6:40 |
+| 93 | [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 |
 | 94 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
-| 95 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
-| 96 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
+| 95 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
+| 96 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
 | 97 | [Only You](https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD) | [KeyAra](https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6), [KOLO](https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Only You](https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7) | 3:17 |
 | 98 | [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 |
 | 99 | [Baby Who](https://open.spotify.com/track/0BNZpLxBQFNgJTXhGmZEbs) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 3:07 |
 | 100 | [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 |
 
-Snapshot ID: `MTY1NzgzNDUxNiwwMDAwMDAwMGEyMzY5NDkwNjY4NGMzZjg2YzA5YjljYzZiNDg0ZjRh`
+Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDU1MTA4MTk4MGJmOTA2YjNmNjExNzgyNTI3OTc0NDY0`

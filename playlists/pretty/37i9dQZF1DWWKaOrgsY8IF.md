@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,687 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,718 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 53 | [El Equivocado](https://open.spotify.com/track/6yCrxyjQxkdYpNexoNixK2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trece](https://open.spotify.com/album/17iAbw8ZsuixaaATKdBIEB) | 3:39 |
 | 54 | [High](https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [High](https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2) | 3:07 |
 | 55 | [La Lá](https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:17 |
-| 56 | [DOSIS](https://open.spotify.com/track/0cDumxvNKhydP1Cmon2S6E) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [DOSIS](https://open.spotify.com/album/0gTAsJ7rKWbnHrZg8mOHVV) | 3:39 |
-| 57 | [Bésame](https://open.spotify.com/track/2qON8SpeBDBSoWCvDKuwbU) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bésame](https://open.spotify.com/album/4RvfXzwyyTmAGfjW4WFAsE) | 3:20 |
+| 56 | [Bésame](https://open.spotify.com/track/2qON8SpeBDBSoWCvDKuwbU) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bésame](https://open.spotify.com/album/4RvfXzwyyTmAGfjW4WFAsE) | 3:20 |
+| 57 | [DOSIS](https://open.spotify.com/track/0cDumxvNKhydP1Cmon2S6E) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [DOSIS](https://open.spotify.com/album/0gTAsJ7rKWbnHrZg8mOHVV) | 3:39 |
 | 58 | [Si por mi fuera](https://open.spotify.com/track/3c7U2Kj8YL8BquVmEhybCR) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Si por mi fuera](https://open.spotify.com/album/10Biiwr7Gd6dsEd4VgvFaZ) | 3:28 |
 | 59 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 | 60 | [Me Equivocaré](https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Me Equivocaré](https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b) | 2:32 |
 
-Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMGY4ODAyZDM5MmZjNjVkM2U1NzExY2IxMTRhNjYxY2Vm`
+Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMDNmN2RjMmQ3YzAxMjYyZTU3YmViMTE3NzAzYmQyNjRh`

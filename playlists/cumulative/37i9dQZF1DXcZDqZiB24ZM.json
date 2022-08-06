@@ -150,6 +150,32 @@
     },
     {
       "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
+      },
+      "artists": [
+        {
+          "name": "Charlie Shulz",
+          "url": "https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI"
+        },
+        {
+          "name": "TrippyThaKid",
+          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
+        },
+        {
+          "name": "Kamiyada",
+          "url": "https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
+    },
+    {
+      "album": {
         "name": "All the Way",
         "url": "https://open.spotify.com/album/0jJ0K0tqQmusKEHIdOKcNU"
       },
@@ -2913,7 +2939,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 305906,
       "name": "Peace and Love",
       "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"

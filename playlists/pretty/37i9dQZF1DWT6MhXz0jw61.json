@@ -1,29 +1,13 @@
 {
-  "description": "Chillout hip-hop vibes. Cover: Lupe Fiasco",
-  "num_followers": 1105648,
+  "description": "Chillout hip-hop vibes. Cover: Larry June",
+  "num_followers": 1106095,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMyMTAwNCwwMDAwMDAwMGZmYzRkYjE1ZjAyOGZlZDM4MzUxMDZkZjNmMTEwOWE0",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDI1OWFhNTNkNzBkYjk2MDEwODcxMTE3OTA0YjQwYWMx",
   "tracks": [
-    {
-      "added_at": "2022-07-15 04:15:57",
-      "album": {
-        "name": "Private Valet",
-        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 149074,
-      "name": "Private Valet",
-      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
-    },
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
@@ -49,6 +33,22 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Immaculate",
+        "url": "https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Immaculate",
+      "url": "https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3"
+    },
+    {
       "added_at": "2022-07-22 19:09:04",
       "album": {
         "name": "THE VISION (feat. Anderson .Paak)",
@@ -67,6 +67,38 @@
       "duration_ms": 137634,
       "name": "THE VISION (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3"
+    },
+    {
+      "added_at": "2022-07-15 04:15:57",
+      "album": {
+        "name": "Private Valet",
+        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 149074,
+      "name": "Private Valet",
+      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
+    },
+    {
+      "added_at": "2022-07-15 04:15:57",
+      "album": {
+        "name": "Zipcodes",
+        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-07-22 19:09:04",
@@ -139,22 +171,6 @@
       "duration_ms": 177788,
       "name": "Kind of Girl",
       "url": "https://open.spotify.com/track/39HH3TTdJOxcklLvocgemQ"
-    },
-    {
-      "added_at": "2022-07-15 04:15:57",
-      "album": {
-        "name": "Zipcodes",
-        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -507,6 +523,30 @@
       "duration_ms": 189773,
       "name": "CORSA",
       "url": "https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "You Take the Credit, We'll Take the Check",
+        "url": "https://open.spotify.com/album/6ZlKCpsFjC1uQToTdwcIkc"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 117894,
+      "name": "Pacific Coast Highway",
+      "url": "https://open.spotify.com/track/0o7Tdf8WP4Xf4g70LEyyeJ"
     },
     {
       "added_at": "2022-04-29 04:30:50",
@@ -1835,54 +1875,6 @@
       "duration_ms": 195933,
       "name": "Mortgage Free (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/6VEHKvuIAB7LcTwl1XqnBi"
-    },
-    {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "GOTTI",
-        "url": "https://open.spotify.com/album/37y72XuNwuPyzfB9kk2uIc"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Kevin Cossom",
-          "url": "https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "Too Many Goats (feat. Rick Ross, Nas & Kevin Cossom)",
-      "url": "https://open.spotify.com/track/6swN1b1cTmneA1HKcn1NR9"
-    },
-    {
-      "added_at": "2021-09-10 04:00:00",
-      "album": {
-        "name": "Gang Activity",
-        "url": "https://open.spotify.com/album/4zhm7hMyBGyPgYwFwu4NuQ"
-      },
-      "artists": [
-        {
-          "name": "Chris Patrick",
-          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Gang Activity",
-      "url": "https://open.spotify.com/track/2YJycoeABhouSkma5JipEC"
     }
   ],
   "unique_name": "Mellow Bars",

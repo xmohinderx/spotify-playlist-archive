@@ -1,12 +1,12 @@
 {
   "description": "All of the classic hits from the 50s and 60s.",
-  "num_followers": 823450,
+  "num_followers": 823938,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMDI3NWRkZjYwYjVkMDY2MjI2MzQyNDE0OGYwZjhjMDAx",
+  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMDlmODk0ODg3MTA3YzY5OGJiMDVjN2E4NmVkY2I5YTQw",
   "tracks": [
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Very Best of The Dixie Cups: Chapel of Love",
         "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 170786,
       "name": "Chapel Of Love",
       "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Crying",
+        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Complete United Artists Singles",
-        "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Magic Touch: An Anthology",
         "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 156666,
       "name": "Only You (And You Alone)",
       "url": "https://open.spotify.com/track/0S5cs4lAkx99tGjoWS4Jtk"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Complete United Artists Singles",
+        "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Chordettes' Best",
         "url": "https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 143613,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/1T3tP6HvCgDF8ewpRqwM1e"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Georgia on My Mind (Original Master Recording)",
-        "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 217414,
-      "name": "Georgia on My Mind - Original Master Recording",
-      "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Chordettes' Best",
         "url": "https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 130533,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Georgia on My Mind (Original Master Recording)",
+        "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 217414,
+      "name": "Georgia on My Mind - Original Master Recording",
+      "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
     },
     {
       "added_at": "2022-03-07 23:38:19",

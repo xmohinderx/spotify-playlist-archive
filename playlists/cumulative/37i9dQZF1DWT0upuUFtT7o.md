@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Ayleen Valentine, Artwork: Robin Clifford Ellis
 
-784 songs - 1 day 18 hr 32 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+785 songs - 1 day 18 hr 36 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [Just My Luck](https://open.spotify.com/track/6Va2xBvpL7EMCDMNLOjocm) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Just My Luck](https://open.spotify.com/album/7uizFT9SXbSxjaB65pPcmC) | 3:12 | 2022-05-19 | 2022-06-23 |
 | [Just My Luck \- Acoustic](https://open.spotify.com/track/2lWBaq4nky0mNWxyl6gXsz) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Just My Luck \(Acoustic\)](https://open.spotify.com/album/6i0g1Iq4p2EuJPZAfcV4e7) | 2:39 | 2022-06-15 | 2022-06-30 |
 | [Kakashi \(All of the Time\)](https://open.spotify.com/track/7IeRdrvQ3VzpSAUuP1y2xf) | [Vicky Farewell](https://open.spotify.com/artist/6LpKqwp5tMWhUS3Cosbwb4) | [Kakashi \(All of the Time\)](https://open.spotify.com/album/0U9NngJ6Yi1oJWAzlcSUUc) | 3:21 | 2022-03-02 | 2022-04-13 |
-| [Karma](https://open.spotify.com/track/3LF6MTkvDYOacFQPFVc15x) | [Julia Bhatt](https://open.spotify.com/artist/36gYC6OhU5Rn3RiPUXom22) | [Karma](https://open.spotify.com/album/61KoBGeD97zmY9yOQqDEVo) | 3:38 | 2022-06-29 |  |
+| [Karma](https://open.spotify.com/track/3LF6MTkvDYOacFQPFVc15x) | [Julia Bhatt](https://open.spotify.com/artist/36gYC6OhU5Rn3RiPUXom22) | [Karma](https://open.spotify.com/album/61KoBGeD97zmY9yOQqDEVo) | 3:38 | 2022-06-29 | 2022-08-06 |
+| [Karma](https://open.spotify.com/track/6dRycVppXHVkE0HA4eA7Ov) | [Julia Bhatt](https://open.spotify.com/artist/36gYC6OhU5Rn3RiPUXom22) | [it is what it is](https://open.spotify.com/album/0deWXcbtt4YrvsTTnDld3B) | 3:38 | 2022-06-29 |  |
 | [Kites from the Noodles Kingdom](https://open.spotify.com/track/3pn6dJI16xMBlHnx0bfaUS) | [Clever Square](https://open.spotify.com/artist/5Nx0K1JaqMJwJYAi2ZgKK2) | [Kites from the Noodles Kingdom](https://open.spotify.com/album/70gxo9dlvw1UXzCPwTC7zV) | 3:29 | 2022-01-12 | 2022-01-27 |
 | [KIWI](https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [KIWI](https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB) | 3:39 | 2022-03-30 | 2022-04-27 |
 | [Knee Jerk](https://open.spotify.com/track/3iDX1TuM0CBQSKxYLuMvmH) | [Tummyache](https://open.spotify.com/artist/2iGQR8gH9aKFtCxOsPGFYx) | [Knee Jerk](https://open.spotify.com/album/0Qv1aRIesBU792xX5LlT2J) | 3:44 | 2022-04-27 | 2022-05-26 |

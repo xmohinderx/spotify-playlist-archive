@@ -1099,8 +1099,8 @@
           "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
         },
         {
-          "name": "Nadir Ben",
-          "url": "https://open.spotify.com/artist/1hWMrdBS24eKrWxyg85Zb2"
+          "name": "Nadirben",
+          "url": "https://open.spotify.com/artist/6zqHGUcxVpqdd2aP3513d3"
         },
         {
           "name": "Lakero",
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 190099,
       "name": "Prblms",
       "url": "https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging"
@@ -1294,6 +1294,28 @@
     },
     {
       "album": {
+        "name": "Trigue Lyc\u00e9e (Remix)",
+        "url": "https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185192,
+      "name": "Trigue Lyc\u00e9e - Remix",
+      "url": "https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG"
+    },
+    {
+      "album": {
         "name": "Wahran",
         "url": "https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl"
       },
@@ -1309,6 +1331,24 @@
       "duration_ms": 231114,
       "name": "Wahran",
       "url": "https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc"
+    },
+    {
+      "album": {
+        "name": "Wahrani",
+        "url": "https://open.spotify.com/album/3OTzJwXAHgnBasbmvb2Zep"
+      },
+      "artists": [
+        {
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163227,
+      "name": "Wahrani",
+      "url": "https://open.spotify.com/track/5gTsNTIQ17LSYHvkqXHwwO"
     },
     {
       "album": {
@@ -1471,7 +1511,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 239903,
       "name": "Zo3ama",
       "url": "https://open.spotify.com/track/4nkTyblMWmFkGuNWGUUlED"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,279 likes - 54 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,383 likes - 54 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-273 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+275 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Lull](https://open.spotify.com/track/2HBNfSLfBwKWiaSL5bg5jF) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Lull](https://open.spotify.com/album/7AszZgmEpOii7z6oSTqgac) | 2:59 | 2022-06-24 |  |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2021-11-10 |  |
 | [Mellow Mountain](https://open.spotify.com/track/0GRKy1mrOocvoIEkVbtkSI) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow Mountain](https://open.spotify.com/album/02JiI8N8HBuoTWwR624r7v) | 3:17 | 2021-11-10 |  |
+| [Merikarp](https://open.spotify.com/track/1SucXU3xTOCyBAAqE22E8B) | [Fabien Tamm](https://open.spotify.com/artist/2V39QR1IlcAPJjdsrdz2pM) | [Merikarp](https://open.spotify.com/album/5hY826Klpc0SSULaKdylI1) | 2:34 | 2022-08-05 |  |
 | [Midst of Everything](https://open.spotify.com/track/2UScMXkAslXCfMcRx2Wlr7) | [Tora Summer](https://open.spotify.com/artist/59RVWpGZwBN5H2S4yHsxD9) | [Midst of Everything](https://open.spotify.com/album/1RmiiLCKVetsg26CP2b9wM) | 2:46 | 2021-11-10 |  |
 | [Migla](https://open.spotify.com/track/0AY2x7N94uTmkYruyZDPKu) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Migla](https://open.spotify.com/album/1ImyklVXN9AtfPPDfRNYEH) | 2:00 | 2021-11-10 |  |
 | [Mind](https://open.spotify.com/track/7DvR34weBiIehUpND2sN6O) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:31 | 2021-11-10 |  |
@@ -218,6 +219,7 @@
 | [Slow Down the Night](https://open.spotify.com/track/70EFtngIf7REQH2ZfkiVLB) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Slow Down The Night](https://open.spotify.com/album/5nE8ZiMK0GJHk6FmX17hDU) | 3:40 | 2021-11-10 |  |
 | [Slowly Flying](https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Simple Soul](https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku) | 3:34 | 2021-11-10 |  |
 | [Soft And Quiet](https://open.spotify.com/track/3wEYRfHvBH8enJnak36lRS) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Soft And Quiet](https://open.spotify.com/album/41Fz56qqfcIjIpEzjFh58z) | 2:49 | 2022-07-15 |  |
+| [Softly Drift](https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Softly Drift](https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL) | 3:18 | 2022-08-05 |  |
 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2022-02-02 |  |
 | [Sona](https://open.spotify.com/track/685glMCresRk1Yvy50O1wO) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Sona](https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu) | 2:30 | 2022-07-08 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2021-11-10 |  |

@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-300 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+303 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Nebula](https://open.spotify.com/track/2sf4TXYzqSRdxfwu5auS6r) | [Orla and the Stars](https://open.spotify.com/artist/4RxXXiPn3BQ1PxUnmygCLA) | [Star Ascent](https://open.spotify.com/album/6JIhSF94ncaPE3PLPbiz1b) | 3:17 | 2021-11-10 |  |
 | [Neogothic](https://open.spotify.com/track/10DehqwY6X7wIv3qqSRVDV) | [Elivvia](https://open.spotify.com/artist/6UaDpZsdXyWYAyBHVZIqtA) | [Neogothic](https://open.spotify.com/album/7hlEPsZy03JxFs1LZbISUo) | 3:33 | 2021-11-10 | 2022-03-25 |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2021-11-10 |  |
+| [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 | 2022-08-05 |  |
 | [Noctu](https://open.spotify.com/track/4tPLkMhxU4a62HmkA95iwC) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Noctu](https://open.spotify.com/album/0ddzc5odnJ9sgAEaQAKiKP) | 3:21 | 2021-11-10 |  |
 | [Nomeh](https://open.spotify.com/track/3xQbeORys8d2PyWuiGqHYI) | [Alisieu](https://open.spotify.com/artist/2cUKHomZHG6dG3PhDltRSJ) | [Nomeh](https://open.spotify.com/album/6UdQ5667BhDB47V7E95wm6) | 3:54 | 2021-11-10 |  |
 | [Nonzero](https://open.spotify.com/track/1lznUD9b22CxILXT8CVZIM) | [Stone Martyrs](https://open.spotify.com/artist/5TQiCNGub87gWCQRZuncKK) | [Nonzero](https://open.spotify.com/album/5JSW6sO061G259GqDqFvUV) | 3:32 | 2021-11-10 |  |
@@ -256,6 +257,7 @@
 | [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2022-05-19 |  |
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2021-11-10 |  |
 | [Sleep Drone](https://open.spotify.com/track/2lRINOduUGo6lyIMP8kUh4) | [One Stop](https://open.spotify.com/artist/5CUQzPQ7rkBBtBFWzJ0QkQ) | [Focus Drone](https://open.spotify.com/album/01s7HgIfA4qINX7kZNijYz) | 2:02 | 2021-11-10 |  |
+| [Sleepwaves](https://open.spotify.com/track/3TzJZVPEKdiyFcv6aKDkOg) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Sleepwaves](https://open.spotify.com/album/0B0KkOA8LKhE16HTnPq1aX) | 2:52 | 2022-08-05 |  |
 | [Sleepy Journey](https://open.spotify.com/track/3r1ZQqUe14xxssPt2Rkd6j) | [Cokobi](https://open.spotify.com/artist/3PUoyrYPm3P6HQAPEFwdyg) | [Sleepy Journey](https://open.spotify.com/album/0kRsorTUtJsNOFYaHc9KAO) | 2:50 | 2021-11-10 |  |
 | [Slow Down](https://open.spotify.com/track/62cdPqaOoaQng2DXbT47j7) | [Miracle of Silence](https://open.spotify.com/artist/0j24YDWgdPF0QfliOxg2fj) | [Slow Down](https://open.spotify.com/album/5HUfLkt6CGniv8yYgaDpwA) | 2:38 | 2021-11-10 |  |
 | [Slow Down the Night](https://open.spotify.com/track/70EFtngIf7REQH2ZfkiVLB) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Slow Down The Night](https://open.spotify.com/album/5nE8ZiMK0GJHk6FmX17hDU) | 3:40 | 2021-11-10 |  |
@@ -297,6 +299,7 @@
 | [Vie Tafare](https://open.spotify.com/track/5KUm8UcbneePgumCqM7KKJ) | [Lahasara](https://open.spotify.com/artist/2e0jbFLa4g3PR9lpXv9kAB) | [Vie Tafare](https://open.spotify.com/album/0QPRNkpCzDPMjbCwQCgMSM) | 2:48 | 2021-11-10 |  |
 | [Viento Estelar](https://open.spotify.com/track/0f5IlhiVWUUq4SGHyrRxIt) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Galaxia](https://open.spotify.com/album/5ILrjJzxzyn3h8CCdRQszR) | 3:05 | 2021-11-10 |  |
 | [Views from Tower Two](https://open.spotify.com/track/0DRhJqWO1LLv13Qsw01dna) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Drone](https://open.spotify.com/album/3IorejXyzH6CCWRZI6i9jy) | 6:33 | 2021-11-10 | 2022-04-02 |
+| [Vishram \- Sleep Version](https://open.spotify.com/track/7trOz2nilrr7ZWGnzQsraX) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Vishram \- Sleep Version](https://open.spotify.com/album/5vOajCeKyNwks56VYskW8Y) | 2:45 | 2022-08-05 |  |
 | [Waves in Space](https://open.spotify.com/track/5Koyh28MrUGgBKCNz8BXvu) | [Spacewaves](https://open.spotify.com/artist/6uYUVrY7fY9B99v4uEqWvZ) | [Asterism](https://open.spotify.com/album/2bOfrSmQlFUl2WYMckL1n7) | 3:10 | 2021-11-10 |  |
 | [we are here](https://open.spotify.com/track/0AmWizHZxla0JyvrOX4Cqj) | [fragile eyes](https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf) | [we are here](https://open.spotify.com/album/2we0mUjMYZBeABUUYdb89Q) | 3:23 | 2021-11-10 | 2022-03-25 |
 | [Welkin](https://open.spotify.com/track/3hqnqpefPxDGTtLwGuaRG6) | [Amber Twilight](https://open.spotify.com/artist/2YihGzUlFb7MxHElA2IZDd) | [Welkin](https://open.spotify.com/album/2KRfYojhz1PPzElLtf5P4z) | 4:08 | 2021-11-10 | 2022-05-20 |

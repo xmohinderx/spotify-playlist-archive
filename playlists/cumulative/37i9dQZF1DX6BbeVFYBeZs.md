@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-134 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+135 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adelita](https://open.spotify.com/track/5qGYBd0wZHJ9Chu3YnvYvu) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Tres mazurcas](https://open.spotify.com/album/0gE3MUJGWkrAcnZtiQhzSD) | 1:38 | 2022-06-17 |  |
 | [Adriana](https://open.spotify.com/track/6nrkZq4K0NuOYmfx3ZEe6O) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Adriana](https://open.spotify.com/album/2T7bga5l6cwbRvFRZbqP28) | 2:43 | 2022-06-17 |  |
 | [Afrodite](https://open.spotify.com/track/6skzlMw87XL85eM9YhMAxR) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:46 | 2022-06-17 |  |
+| [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 |  |
 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 | 2022-06-17 |  |
 | [An Italian Lovesong](https://open.spotify.com/track/0BvvHp4Swg1sulxZd9UhPo) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5Qjq6Rr6Fgzzln3HlwzaCF) | 3:31 | 2022-06-17 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2022-06-17 |  |

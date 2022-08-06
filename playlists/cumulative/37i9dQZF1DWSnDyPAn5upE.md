@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-100 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
+101 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,10 +74,11 @@
 | [Lullaby for the Newborn](https://open.spotify.com/track/4KgYBHkIZpuI7KQBUfza8A) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:00 | 2022-05-18 | 2022-07-28 |
 | [Magnolia](https://open.spotify.com/track/1d3wIYlKXUUylvCkIkbzXW) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [Spring Snow](https://open.spotify.com/album/3l3DeVnMAOtSLZKSjLzJay) | 4:44 | 2022-05-18 |  |
 | [melting cups](https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj) | [Aphir](https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4) | [plastichoir](https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2) | 3:10 | 2022-05-18 | 2022-07-27 |
-| [Montjuïc](https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c) | [Gi Gi](https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r), [Mi Mi](https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX) | [Lumino Pleco](https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta) | 8:11 | 2022-05-18 |  |
+| [Montjuïc](https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c) | [Gi Gi](https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r), [Mi Mi](https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX) | [Lumino Pleco](https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta) | 8:11 | 2022-05-18 | 2022-08-06 |
 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 | 2022-05-18 |  |
 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 | 2022-05-18 |  |
 | [nine\-sum sorcery A](https://open.spotify.com/track/6yn5KVRcL1miUzXnysQJc2) | [LABOUR](https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v), [Hani Mojtahedy](https://open.spotify.com/artist/4u6WezeJnoWI28umFSAU1M) | [nine\-sum sorcery](https://open.spotify.com/album/34qMEi2AKlTcYHIDLX5KQ4) | 14:21 | 2022-05-18 | 2022-07-28 |
+| [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-05 |  |
 | [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 | 2022-07-29 |
 | [Ode to the blue](https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ode to the blue](https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO) | 2:53 | 2022-05-18 |  |
 | [One to One](https://open.spotify.com/track/4HGyb3pZlHt5qtB28Pk8Vp) | [Nebno](https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf) | [One to One](https://open.spotify.com/album/09UXJzKi4utZsEQe3n3xtV) | 4:36 | 2022-05-18 | 2022-07-29 |
